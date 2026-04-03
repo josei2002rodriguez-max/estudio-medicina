@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedMaster - Session Builder</title>
+    <style>
+        :root {
+            --primary: #4a90e2;
+            --bg: #f5f7fa;
+            --card: #ffffff;
+            --text: #2c3e50;
+            --accent: #27ae60;
+        }
+
+        body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
+        .container { max-width: 900px; margin: 0 auto; }
+
+        /* Pantallas */
+        .view { display: none; }
+        .view.active { display: block; }
+
+        /* Grid de Áreas */
+        .area-grid { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); 
+            gap: 15px; 
+            margin-top: 20px; 
+        }
+
+        .area-card {
+            background: var(--card);
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+            cursor: pointer;
+            border: 2px solid transparent;
+            transition: 0.3s;
+            position: relative;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+
+        .area-card:hover { transform: translateY(-5px); border-color: var(--primary); }
+        .area-card.selected { border-color: var(--accent); background: #e8f5e9; }
+
+        .area-card .icon-add {
+            position: absolute; top: 10px; right: 10px;
+            font-size: 20px; color: var(--primary);
+        }
+
+        /* Configuración de Temas */
+        .topic-selector {
+            background: white; padding: 20px; border-radius: 12px; margin-top: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+
+        .btn-start {
+            background: var(--accent); color: white; border: none; padding: 15px 30px;
+            border-radius: 8px; font-size: 18px; cursor: pointer; width: 100%; margin-top: 20px;
+        }
+
+        /* Quiz UI (Basado en tu código previo pero optimizado) */
+        .option-btn {
+            display: block; width: 100%; padding: 15px; margin: 10px 0;
+            border: 1px solid #ddd; border-radius: 8px; background: white; cursor: pointer;
+        }
+        .correct { background: #d4edda !important; border-color: #28a745 !important; }
+        .wrong { background: #f8d7da !important; border-color: #dc3545 !important; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div id="setup-view" class="view active">
+        <h1>🩺 ¿Qué vamos a estudiar hoy?</h1>
+        <p>Selecciona las áreas para tu sesión:</p>
+        
+        <div id="area-container" class="area-grid">
+            </div>
+
+        <div id="topic-config" class="topic-selector" style="display:none;">
+            <h3>🔍 Ajustar Temas específicos:</h3>
+            <div id="topic-list"></div>
+            
+            <hr>
+            <p><strong>Preguntas disponibles:</strong> <span id="total-count">0</span></p>
+            <label>¿Cuántas quieres responder?</label>
+            <input type="number" id="limit-input" placeholder="Ej: 20 (o dejar vacío para todas)" style="width: 100%; padding: 10px; margin-top:10px;">
+            
+            <button class="btn-start" onclick="startSession()">🚀 Iniciar Sesión de Estudio</button>
+        </div>
+    </div>
+
+    <div id="quiz-view" class="view">
+        <h2 id="q-area-tag" style="color: var(--primary); font-size: 14px;"></h2>
+        <h3 id="q-text"></h3>
+        <div id="options"></div>
+        <div id="explanation" style="margin-top:20px; display:none; padding:15px; border-radius:8px;"></div>
+        <button id="next-btn" class="btn-start" style="display:none;" onclick="nextQuestion()">Siguiente ➔</button>
+    </div>
+</div>
+
+<script>
+    // ESTO ES LO QUE ACTUALIZARÁS: El catálogo de tus preguntas
+    const database = [
+        { id: 1, area: "Cardio", topic: "Infarto", text: "¿Signo más precoz en el ECG de un IAM?", hint: "Pista: Onda T", options: [{text: "T picuda", isCorrect: true, explanation: "Es lo primero que se ve..."}, {text: "ST descendido", isCorrect: false, explanation: "Eso es isquemia..."}]},
+        { id: 2, area: "Cardio", topic: "Insuficiencia", text: "¿Fármaco que reduce mortalidad en IC?", hint: "Pista: Bloqueadores", options: [{text: "Betabloqueadores", isCorrect: true, explanation: "Correcto, junto con IECA..."}, {text: "Furosemida", isCorrect: false, explanation: "Solo ayuda con síntomas..."}]},
+        { id: 3, area: "Nefro", topic: "Glomerulonefritis", text: "Tríada de la GNF post-estreptocócica:", hint: "Orina color coca-cola", options: [{text: "Hematuria, Edema, HTA", isCorrect: true, explanation: "Clásico..."}, {text: "Fiebre, Dolor, Vómitos", isCorrect: false, explanation: "No es típico..."}]}
+    ];
+
+    let selectedAreas = new Set();
+    let selectedTopics = new Set();
+    let currentSessionQuestions = [];
+    let currentIndex = 0;
+
+    // 1. Cargar Áreas Únicas
+    function init() {
+        const areas = [...new Set(database.map(q => q.area))];
+        const container = document.getElementById('area-container');
+        
+        areas.forEach(area => {
+            const card = document.createElement('div');
+            card.className = 'area-card';
+            card.innerHTML = `<span class="icon-add">+</span> <strong>${area}</strong>`;
+            card.onclick = () => toggleArea(area, card);
+            container.appendChild(card);
+        });
+    }
+
+    function toggleArea(area, element) {
+        if (selectedAreas.has(area)) {
+            selectedAreas.delete(area);
+            element.classList.remove('selected');
+        } else {
+            selectedAreas.add(area);
+            element.classList.add('selected');
+        }
+        updateTopicSelector();
+    }
+
+    function updateTopicSelector() {
+        const config = document.getElementById('topic-config');
+        const list = document.getElementById('topic-list');
+        list.innerHTML = "";
+
+        if (selectedAreas.size === 0) {
+            config.style.display = "none";
+            return;
+        }
+
+        config.style.display = "block";
+        const relevantTopics = [...new Set(database.filter(q => selectedAreas.has(q.area)).map(q => q.topic))];
+
+        relevantTopics.forEach(topic => {
+            const item = document.createElement('div');
+            item.innerHTML = `<input type="checkbox" checked onchange="toggleTopic('${topic}')"> ${topic}`;
+            list.appendChild(item);
+            selectedTopics.add(topic);
+        });
+        calculateTotal();
+    }
+
+    function toggleTopic(topic) {
+        if (selectedTopics.has(topic)) selectedTopics.delete(topic);
+        else selectedTopics.add(topic);
+        calculateTotal();
+    }
+
+    function calculateTotal() {
+        const count = database.filter(q => selectedAreas.has(q.area) && selectedTopics.has(q.topic)).length;
+        document.getElementById('total-count').innerText = count;
+    }
+
+    function startSession() {
+        let pool = database.filter(q => selectedAreas.has(q.area) && selectedTopics.has(q.topic));
+        pool.sort(() => Math.random() - 0.5);
+
+        const limit = document.getElementById('limit-input').value;
+        if (limit) pool = pool.slice(0, parseInt(limit));
+
+        currentSessionQuestions = pool;
+        currentIndex = 0;
+        
+        document.getElementById('setup-view').classList.remove('active');
+        document.getElementById('quiz-view').classList.add('active');
+        showQuestion();
+    }
+
+    function showQuestion() {
+        const q = currentSessionQuestions[currentIndex];
+        document.getElementById('q-area-tag').innerText = `${q.area} > ${q.topic}`;
+        document.getElementById('q-text').innerText = q.text;
+        document.getElementById('explanation').style.display = "none";
+        document.getElementById('next-btn').style.display = "none";
+        
+        const optionsDiv = document.getElementById('options');
+        optionsDiv.innerHTML = "";
+
+        q.options.forEach(opt => {
+            const btn = document.createElement('button');
+            btn.className = 'option-btn';
+            btn.innerText = opt.text;
+            btn.onclick = () => {
+                const btns = optionsDiv.querySelectorAll('button');
+                btns.forEach(b => b.disabled = true);
+                
+                btn.classList.add(opt.isCorrect ? 'correct' : 'wrong');
+                document.getElementById('explanation').style.display = "block";
+                document.getElementById('explanation').style.background = opt.isCorrect ? "#d4edda" : "#f8d7da";
+                document.getElementById('explanation').innerText = opt.explanation;
+                document.getElementById('next-btn').style.display = "block";
+            };
+            optionsDiv.appendChild(btn);
+        });
+    }
+
+    function nextQuestion() {
+        currentIndex++;
+        if (currentIndex < currentSessionQuestions.length) {
+            showQuestion();
+        } else {
+            alert("¡Sesión terminada!");
+            location.reload();
+        }
+    }
+
+    init();
+</script>
+
+</body>
+</html>
