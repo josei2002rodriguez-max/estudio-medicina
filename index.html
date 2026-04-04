@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MedMaster - Estudio Dinámico</title>
+    <title>MedMaster Pro - Tu Simulador</title>
     <style>
         :root {
             --primary: #4a90e2; --bg: #f5f7fa; --card: #ffffff;
@@ -20,11 +20,11 @@
         h1 { text-align: center; color: var(--primary); margin-bottom: 10px; }
         .status-bar { text-align: center; font-size: 12px; color: var(--secondary); margin-bottom: 20px; }
 
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 15px; margin-top: 15px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; margin-top: 15px; }
         .card { 
             background: var(--card); padding: 20px 10px; border-radius: 16px; text-align: center;
             cursor: pointer; border: 2px solid transparent; transition: 0.2s;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05); font-weight: 600;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05); font-weight: 600; font-size: 14px;
         }
         .card:hover { transform: scale(1.02); border-color: var(--primary); }
         .card.selected { border-color: var(--accent); background: #f0fff4; }
@@ -35,13 +35,14 @@
         .btn { 
             display: block; width: 100%; padding: 16px; margin-top: 15px; border: none;
             border-radius: 12px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.2s;
+            text-align: center; text-decoration: none;
         }
         .btn-primary { background: var(--accent); color: white; }
         .btn-secondary { background: white; color: var(--secondary); border: 1px solid var(--secondary); }
         .btn-back { background: none; color: var(--secondary); border: 1px solid var(--secondary); margin-top: 20px; }
 
         /* Quiz UI */
-        .q-header { display: flex; justify-content: space-between; font-size: 13px; color: var(--secondary); margin-bottom: 15px; }
+        .q-header { display: flex; justify-content: space-between; font-size: 12px; color: var(--secondary); margin-bottom: 15px; }
         .option-btn { 
             display: block; width: 100%; padding: 16px; margin: 12px 0; border: 2px solid #edf2f7;
             border-radius: 12px; background: white; text-align: left; font-size: 15px; cursor: pointer;
@@ -49,7 +50,7 @@
         }
         .option-btn.correct-show { border-color: var(--accent); background: #e6fffa; color: #155724; font-weight: bold; }
         .option-btn.wrong-show { border-color: var(--error); background: #fff5f5; color: #721c24; }
-        .option-btn.inspecting { box-shadow: 0 0 0 3px var(--primary); transform: scale(1.01); }
+        .option-btn.inspecting { box-shadow: 0 0 0 3px var(--primary); }
 
         .hint-btn { background: none; border: none; color: #d69e2e; font-weight: bold; cursor: pointer; padding: 5px; margin-bottom: 10px; }
         .explanation { 
@@ -65,24 +66,27 @@
 
     <div id="view-loading" class="view active">
         <h1>🩺 MedMaster</h1>
-        <p style="text-align: center;">Cargando preguntas...</p>
+        <div id="loading-status">
+            <p style="text-align: center;">Buscando preguntas en la nube...</p>
+        </div>
     </div>
     
     <div id="view-internado" class="view">
         <h1>¿Qué Internado estudias?</h1>
         <div id="internado-grid" class="grid"></div>
-        <div class="status-bar">Total preguntas cargadas: <span id="db-total">0</span></div>
+        <div class="status-bar">Total preguntas disponibles: <span id="db-total">0</span></div>
     </div>
 
     <div id="view-setup" class="view">
         <h1 id="setup-title">Configurar Áreas</h1>
+        <p><strong>1. Áreas:</strong></p>
         <div id="area-grid" class="grid"></div>
         <div id="topic-config" class="setup-box" style="display:none;">
-            <p><strong>Selecciona Tópicos:</strong></p>
+            <p><strong>2. Tópicos:</strong></p>
             <div id="topic-list"></div>
             <div style="margin-top:20px;">
-                <p>Preguntas disponibles: <strong id="total-count">0</strong></p>
-                <input type="number" id="limit-input" placeholder="Cantidad (Vacio = todas)">
+                <p>Disponibles: <strong id="total-count">0</strong></p>
+                <input type="number" id="limit-input" placeholder="Cantidad (Vacio = todas)" style="width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 10px; box-sizing: border-box;">
             </div>
             <button class="btn btn-primary" onclick="startQuiz()">Iniciar Sesión 🚀</button>
         </div>
@@ -92,11 +96,10 @@
     <div id="view-quiz" class="view">
         <div class="q-header"><span id="q-meta"></span><span id="q-progress"></span></div>
         <h2 id="q-text"></h2>
-        <button class="hint-btn" onclick="toggleHint()">💡 Ver pista</button>
-        <p id="q-hint" style="display:none; color: #744210; background: #fffaf0; padding: 10px; border-radius: 8px; font-size: 14px; margin-bottom: 15px;"></p>
+        <button class="hint-btn" onclick="toggleHint()">💡 Ver pista clínica</button>
+        <p id="q-hint" style="display:none; color: #744210; background: #fffaf0; padding: 12px; border-radius: 8px; font-size: 14px; margin-bottom: 15px; border: 1px solid #ffeebc;"></p>
         
         <div id="options-container"></div>
-        
         <div id="explanation-box" class="explanation"></div>
         
         <div class="nav-controls">
@@ -108,7 +111,10 @@
 </div>
 
 <script>
-    /* CONFIGURACIÓN: Lista de tus archivos JSON */
+    /**
+     * CONFIGURACIÓN DE TUS ARCHIVOS
+     * Asegúrate de que el nombre coincida EXACTAMENTE con el de tu GitHub
+     */
     const archivosPreguntas = [
         'data/ped_cardio_1.json'
     ];
@@ -120,20 +126,37 @@
     let sessionQuestions = [];
     let currentIndex = 0;
 
+    // CARGA DE DATOS CON MANEJO DE ERRORES
     async function cargarTodo() {
-        showView('view-loading');
+        const statusDiv = document.getElementById('loading-status');
+        let errores = [];
+
         for (const url of archivosPreguntas) {
             try {
                 const res = await fetch(url);
-                if (res.ok) {
-                    const json = await res.json();
-                    database = [...database, ...json];
-                }
-            } catch (e) { console.error("Error cargando: " + url); }
+                if (!res.ok) throw new Error(`No se encontró el archivo (${res.status})`);
+                const json = await res.json();
+                database = [...database, ...json];
+            } catch (e) {
+                console.error("Error en: " + url, e);
+                errores.push(`${url}: ${e.message}`);
+            }
         }
-        document.getElementById('db-total').innerText = database.length;
-        renderInternados();
-        showView(database.length > 0 ? 'view-internado' : 'view-loading');
+
+        if (database.length > 0) {
+            document.getElementById('db-total').innerText = database.length;
+            renderInternados();
+            showView('view-internado');
+        } else {
+            statusDiv.innerHTML = `
+                <p style="color:red; font-weight:bold;">❌ Error al cargar preguntas</p>
+                <div style="text-align:left; background:#fff; padding:10px; border-radius:8px; font-size:12px;">
+                    ${errores.map(err => `<p>• ${err}</p>`).join('')}
+                </div>
+                <p>Verifica que tus archivos estén en la carpeta <b>data/</b> y se llamen igual que en el código.</p>
+                <button class="btn btn-primary" onclick="location.reload()">Reintentar</button>
+            `;
+        }
     }
 
     function renderInternados() {
@@ -165,6 +188,7 @@
             grid.appendChild(card);
         });
         showView('view-setup');
+        document.getElementById('topic-config').style.display = "none";
     }
 
     function toggleArea(area, element) {
@@ -183,7 +207,7 @@
         topics.forEach(t => {
             const div = document.createElement('div');
             div.className = 'topic-item';
-            div.innerHTML = `<input type="checkbox" checked id="c-${t}" onchange="toggleTopic('${t}')"> <label for="c-${t}">${t}</label>`;
+            div.innerHTML = `<input type="checkbox" checked id="chk-${t}" onchange="toggleTopic('${t}')"> <label for="chk-${t}">${t}</label>`;
             list.appendChild(div);
             selectedTopics.add(t);
         });
@@ -206,9 +230,9 @@
         pool.sort(() => Math.random() - 0.5);
         const limit = document.getElementById('limit-input').value;
         if (limit) pool = pool.slice(0, parseInt(limit));
-        if (pool.length === 0) return alert("Selecciona temas.");
         
-        // Limpiar estados de respuestas previas si existen
+        if (pool.length === 0) return alert("Selecciona temas que tengan preguntas.");
+        
         sessionQuestions = pool.map(q => ({...q, answered: false, userChoiceIdx: null}));
         currentIndex = 0;
         showView('view-quiz');
@@ -224,8 +248,7 @@
         document.getElementById('q-hint').style.display = "none";
         document.getElementById('explanation-box').style.display = "none";
         
-        // Control de botones de navegación
-        document.getElementById('prev-btn').style.display = currentIndex > 0 ? "block" : "none";
+        document.getElementById('prev-btn').style.visibility = currentIndex > 0 ? "visible" : "hidden";
         document.getElementById('next-btn').style.display = q.answered ? "block" : "none";
 
         const container = document.getElementById('options-container');
@@ -236,22 +259,18 @@
             b.className = 'option-btn';
             b.innerText = opt.text;
             
-            // Si la pregunta ya fue respondida (al volver atrás)
             if (q.answered) {
                 if (opt.isCorrect) b.classList.add('correct-show');
                 if (idx === q.userChoiceIdx && !opt.isCorrect) b.classList.add('wrong-show');
-                if (idx === q.userChoiceIdx) b.classList.add('inspecting');
+                if (idx === q.userChoiceIdx) {
+                    b.classList.add('inspecting');
+                    showExplanation(opt);
+                }
             }
 
             b.onclick = () => handleOptionClick(b, opt, q, idx);
             container.appendChild(b);
         });
-
-        // Mostrar explicación si ya estaba respondida
-        if (q.answered) {
-            const selectedOpt = q.options[q.userChoiceIdx];
-            showExplanation(selectedOpt);
-        }
     }
 
     function handleOptionClick(button, option, question, idx) {
@@ -269,7 +288,6 @@
             });
         }
 
-        // Inspeccionar opción
         container.querySelectorAll('.option-btn').forEach(btn => btn.classList.remove('inspecting'));
         button.classList.add('inspecting');
         showExplanation(option);
@@ -279,7 +297,7 @@
         const expBox = document.getElementById('explanation-box');
         expBox.style.display = "block";
         expBox.style.borderLeftColor = option.isCorrect ? "var(--accent)" : "var(--error)";
-        expBox.innerHTML = `<strong>Análisis de la opción:</strong><br>${option.explanation}`;
+        expBox.innerHTML = `<strong>${option.isCorrect ? '✅ Respuesta Correcta' : '❌ Opción Incorrecta'}:</strong><br>${option.explanation}`;
     }
 
     function toggleHint() {
@@ -288,20 +306,12 @@
     }
 
     function nextQuestion() {
-        if (currentIndex < sessionQuestions.length - 1) {
-            currentIndex++;
-            renderQuestion();
-        } else {
-            alert("¡Has llegado al final de la sesión!");
-            showView('view-internado');
-        }
+        if (currentIndex < sessionQuestions.length - 1) { currentIndex++; renderQuestion(); }
+        else { alert("¡Sesión completada!"); showView('view-internado'); }
     }
 
     function prevQuestion() {
-        if (currentIndex > 0) {
-            currentIndex--;
-            renderQuestion();
-        }
+        if (currentIndex > 0) { currentIndex--; renderQuestion(); }
     }
 
     function showView(id) {
