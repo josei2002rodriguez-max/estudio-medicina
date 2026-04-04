@@ -3,128 +3,144 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MedMaster - Session Builder</title>
+    <title>MedMaster - Sistema de Internados</title>
     <style>
         :root {
-            --primary: #4a90e2;
-            --bg: #f5f7fa;
-            --card: #ffffff;
-            --text: #2c3e50;
-            --accent: #27ae60;
+            --primary: #4a90e2; --bg: #f0f2f5; --card: #ffffff;
+            --text: #1a2b3c; --accent: #2ecc71; --secondary: #95a5a6;
         }
-
-        body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
-        .container { max-width: 900px; margin: 0 auto; }
-
-        /* Pantallas */
-        .view { display: none; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 15px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        
+        .view { display: none; animation: fadeIn 0.3s; }
         .view.active { display: block; }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 
-        /* Grid de Áreas */
-        .area-grid { 
-            display: grid; 
-            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); 
-            gap: 15px; 
-            margin-top: 20px; 
+        h1 { text-align: center; color: var(--primary); font-size: 24px; }
+        .breadcrumb { margin-bottom: 20px; font-size: 14px; color: var(--secondary); cursor: pointer; }
+
+        /* Grid de Tarjetas */
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 15px; margin-top: 20px; }
+        .card { 
+            background: var(--card); padding: 25px 15px; border-radius: 15px; text-align: center;
+            cursor: pointer; border: 2px solid transparent; transition: all 0.2s ease;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05); font-weight: bold;
         }
+        .card:hover { transform: translateY(-3px); border-color: var(--primary); box-shadow: 0 6px 15px rgba(0,0,0,0.1); }
+        .card.selected { border-color: var(--accent); background: #e8f8f0; }
 
-        .area-card {
-            background: var(--card);
-            padding: 20px;
-            border-radius: 12px;
-            text-align: center;
-            cursor: pointer;
-            border: 2px solid transparent;
-            transition: 0.3s;
-            position: relative;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        /* UI de Configuración */
+        .setup-box { background: white; padding: 20px; border-radius: 15px; margin-top: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
+        .topic-item { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid #eee; }
+        
+        .btn { 
+            display: block; width: 100%; padding: 15px; margin-top: 20px; border: none;
+            border-radius: 10px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.2s;
         }
+        .btn-primary { background: var(--accent); color: white; }
+        .btn-primary:hover { background: #27ae60; }
+        .btn-back { background: var(--secondary); color: white; margin-top: 10px; }
 
-        .area-card:hover { transform: translateY(-5px); border-color: var(--primary); }
-        .area-card.selected { border-color: var(--accent); background: #e8f5e9; }
-
-        .area-card .icon-add {
-            position: absolute; top: 10px; right: 10px;
-            font-size: 20px; color: var(--primary);
+        /* Quiz */
+        .option-btn { 
+            display: block; width: 100%; padding: 15px; margin: 10px 0; border: 2px solid #eee;
+            border-radius: 10px; background: white; text-align: left; font-size: 16px; cursor: pointer;
         }
-
-        /* Configuración de Temas */
-        .topic-selector {
-            background: white; padding: 20px; border-radius: 12px; margin-top: 20px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-        }
-
-        .btn-start {
-            background: var(--accent); color: white; border: none; padding: 15px 30px;
-            border-radius: 8px; font-size: 18px; cursor: pointer; width: 100%; margin-top: 20px;
-        }
-
-        /* Quiz UI (Basado en tu código previo pero optimizado) */
-        .option-btn {
-            display: block; width: 100%; padding: 15px; margin: 10px 0;
-            border: 1px solid #ddd; border-radius: 8px; background: white; cursor: pointer;
-        }
-        .correct { background: #d4edda !important; border-color: #28a745 !important; }
-        .wrong { background: #f8d7da !important; border-color: #dc3545 !important; }
+        .correct { background: #d4edda !important; border-color: #28a745 !important; color: #155724; }
+        .wrong { background: #f8d7da !important; border-color: #dc3545 !important; color: #721c24; }
+        .explanation { margin-top: 15px; padding: 15px; border-radius: 10px; font-size: 14px; line-height: 1.5; }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <div id="setup-view" class="view active">
-        <h1>🩺 ¿Qué vamos a estudiar hoy?</h1>
-        <p>Selecciona las áreas para tu sesión:</p>
-        
-        <div id="area-container" class="area-grid">
-            </div>
+    
+    <div id="view-internado" class="view active">
+        <h1>🩺 Selecciona tu Internado</h1>
+        <div id="internado-grid" class="grid"></div>
+    </div>
 
-        <div id="topic-config" class="topic-selector" style="display:none;">
-            <h3>🔍 Ajustar Temas específicos:</h3>
+    <div id="view-setup" class="view">
+        <div class="breadcrumb" onclick="showView('view-internado')"> ❮ Volver a Internados</div>
+        <h1 id="setup-title">Configurar Sesión</h1>
+        
+        <p><strong>1. Selecciona Áreas:</strong></p>
+        <div id="area-grid" class="grid"></div>
+
+        <div id="topic-config" class="setup-box" style="display:none;">
+            <p><strong>2. Ajustar Tópicos:</strong></p>
             <div id="topic-list"></div>
             
-            <hr>
-            <p><strong>Preguntas disponibles:</strong> <span id="total-count">0</span></p>
-            <label>¿Cuántas quieres responder?</label>
-            <input type="number" id="limit-input" placeholder="Ej: 20 (o dejar vacío para todas)" style="width: 100%; padding: 10px; margin-top:10px;">
+            <hr style="margin: 20px 0; opacity: 0.2;">
+            <p>Preguntas disponibles: <span id="total-count">0</span></p>
+            <input type="number" id="limit-input" placeholder="Cantidad (ej: 20) o deja vacío para todas" 
+                   style="width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 8px; box-sizing: border-box;">
             
-            <button class="btn-start" onclick="startSession()">🚀 Iniciar Sesión de Estudio</button>
+            <button class="btn btn-primary" onclick="startQuiz()">Comenzar Estudio 🚀</button>
         </div>
     </div>
 
-    <div id="quiz-view" class="view">
-        <h2 id="q-area-tag" style="color: var(--primary); font-size: 14px;"></h2>
-        <h3 id="q-text"></h3>
-        <div id="options"></div>
-        <div id="explanation" style="margin-top:20px; display:none; padding:15px; border-radius:8px;"></div>
-        <button id="next-btn" class="btn-start" style="display:none;" onclick="nextQuestion()">Siguiente ➔</button>
+    <div id="view-quiz" class="view">
+        <div id="quiz-header" style="display:flex; justify-content: space-between; font-size: 12px; color: var(--secondary);">
+            <span id="q-meta"></span>
+            <span id="q-progress"></span>
+        </div>
+        <h2 id="q-text" style="margin: 20px 0;"></h2>
+        <div id="options-container"></div>
+        <div id="explanation-box" class="explanation" style="display:none;"></div>
+        <button id="next-btn" class="btn btn-primary" style="display:none;" onclick="nextQuestion()">Siguiente Pregunta ➔</button>
     </div>
+
 </div>
 
 <script>
-    // ESTO ES LO QUE ACTUALIZARÁS: El catálogo de tus preguntas
+    // BASE DE DATOS (Prueba)
+    // Cuando tengas tus JSON, los pegaremos aquí o los cargaremos externamente
     const database = [
-        { id: 1, area: "Cardio", topic: "Infarto", text: "¿Signo más precoz en el ECG de un IAM?", hint: "Pista: Onda T", options: [{text: "T picuda", isCorrect: true, explanation: "Es lo primero que se ve..."}, {text: "ST descendido", isCorrect: false, explanation: "Eso es isquemia..."}]},
-        { id: 2, area: "Cardio", topic: "Insuficiencia", text: "¿Fármaco que reduce mortalidad en IC?", hint: "Pista: Bloqueadores", options: [{text: "Betabloqueadores", isCorrect: true, explanation: "Correcto, junto con IECA..."}, {text: "Furosemida", isCorrect: false, explanation: "Solo ayuda con síntomas..."}]},
-        { id: 3, area: "Nefro", topic: "Glomerulonefritis", text: "Tríada de la GNF post-estreptocócica:", hint: "Orina color coca-cola", options: [{text: "Hematuria, Edema, HTA", isCorrect: true, explanation: "Clásico..."}, {text: "Fiebre, Dolor, Vómitos", isCorrect: false, explanation: "No es típico..."}]}
+        { id: 1, internado: "Pediatría", area: "Cardio", topic: "Soplos", text: "¿Soplo de Still es?", options: [{text: "Inocente", isCorrect: true, explanation: "Sí, es el más común."}, {text: "Patológico", isCorrect: false, explanation: "No, suele ser vibratorio."}]},
+        { id: 2, internado: "Medicina Interna", area: "Cardio", topic: "Infarto", text: "¿Manejo de IAM con SDST?", options: [{text: "Reperfusión", isCorrect: true, explanation: "Es la prioridad."}, {text: "Solo aspirina", isCorrect: false, explanation: "Insuficiente."}]},
+        { id: 3, internado: "Pediatría", area: "Gastro", topic: "Reflujo", text: "¿Vómito en RGE es?", options: [{text: "Post-prandial", isCorrect: true, explanation: "Típico del lactante."}, {text: "Bilioso", isCorrect: false, explanation: "Sugerente de obstrucción."}]}
     ];
 
+    let currentInternado = "";
     let selectedAreas = new Set();
     let selectedTopics = new Set();
-    let currentSessionQuestions = [];
+    let sessionQuestions = [];
     let currentIndex = 0;
 
-    // 1. Cargar Áreas Únicas
     function init() {
-        const areas = [...new Set(database.map(q => q.area))];
-        const container = document.getElementById('area-container');
+        const internados = [...new Set(database.map(q => q.internado))];
+        const grid = document.getElementById('internado-grid');
+        grid.innerHTML = "";
+        internados.forEach(name => {
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.innerText = name;
+            card.onclick = () => selectInternado(name);
+            grid.appendChild(card);
+        });
+    }
+
+    function selectInternado(name) {
+        currentInternado = name;
+        selectedAreas.clear();
+        selectedTopics.clear();
+        document.getElementById('setup-title').innerText = name;
+        
+        const areas = [...new Set(database.filter(q => q.internado === name).map(q => q.area))];
+        const grid = document.getElementById('area-grid');
+        grid.innerHTML = "";
         
         areas.forEach(area => {
             const card = document.createElement('div');
-            card.className = 'area-card';
-            card.innerHTML = `<span class="icon-add">+</span> <strong>${area}</strong>`;
+            card.className = 'card';
+            card.innerText = area;
             card.onclick = () => toggleArea(area, card);
-            container.appendChild(card);
+            grid.appendChild(card);
         });
+
+        showView('view-setup');
+        document.getElementById('topic-config').style.display = "none";
     }
 
     function toggleArea(area, element) {
@@ -135,97 +151,102 @@
             selectedAreas.add(area);
             element.classList.add('selected');
         }
-        updateTopicSelector();
+        updateTopics();
     }
 
-    function updateTopicSelector() {
-        const config = document.getElementById('topic-config');
+    function updateTopics() {
         const list = document.getElementById('topic-list');
         list.innerHTML = "";
-
+        
         if (selectedAreas.size === 0) {
-            config.style.display = "none";
+            document.getElementById('topic-config').style.display = "none";
             return;
         }
 
-        config.style.display = "block";
-        const relevantTopics = [...new Set(database.filter(q => selectedAreas.has(q.area)).map(q => q.topic))];
+        document.getElementById('topic-config').style.display = "block";
+        const topics = [...new Set(database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area)).map(q => q.topic))];
 
-        relevantTopics.forEach(topic => {
-            const item = document.createElement('div');
-            item.innerHTML = `<input type="checkbox" checked onchange="toggleTopic('${topic}')"> ${topic}`;
-            list.appendChild(item);
-            selectedTopics.add(topic);
+        topics.forEach(t => {
+            const div = document.createElement('div');
+            div.className = 'topic-item';
+            div.innerHTML = `<input type="checkbox" checked onchange="toggleTopic('${t}')"> ${t}`;
+            list.appendChild(div);
+            selectedTopics.add(t);
         });
-        calculateTotal();
+        updateCount();
     }
 
-    function toggleTopic(topic) {
-        if (selectedTopics.has(topic)) selectedTopics.delete(topic);
-        else selectedTopics.add(topic);
-        calculateTotal();
+    function toggleTopic(t) {
+        if (selectedTopics.has(t)) selectedTopics.delete(t);
+        else selectedTopics.add(t);
+        updateCount();
     }
 
-    function calculateTotal() {
-        const count = database.filter(q => selectedAreas.has(q.area) && selectedTopics.has(q.topic)).length;
+    function updateCount() {
+        const count = database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area) && selectedTopics.has(q.topic)).length;
         document.getElementById('total-count').innerText = count;
     }
 
-    function startSession() {
-        let pool = database.filter(q => selectedAreas.has(q.area) && selectedTopics.has(q.topic));
-        pool.sort(() => Math.random() - 0.5);
-
-        const limit = document.getElementById('limit-input').value;
-        if (limit) pool = pool.slice(0, parseInt(limit));
-
-        currentSessionQuestions = pool;
-        currentIndex = 0;
+    function startQuiz() {
+        let questions = database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area) && selectedTopics.has(q.topic));
+        questions.sort(() => Math.random() - 0.5);
         
-        document.getElementById('setup-view').classList.remove('active');
-        document.getElementById('quiz-view').classList.add('active');
-        showQuestion();
+        const limit = document.getElementById('limit-input').value;
+        if (limit) questions = questions.slice(0, parseInt(limit));
+
+        if (questions.length === 0) return alert("No hay preguntas con esos filtros.");
+
+        sessionQuestions = questions;
+        currentIndex = 0;
+        showView('view-quiz');
+        renderQuestion();
     }
 
-    function showQuestion() {
-        const q = currentSessionQuestions[currentIndex];
-        document.getElementById('q-area-tag').innerText = `${q.area} > ${q.topic}`;
+    function renderQuestion() {
+        const q = sessionQuestions[currentIndex];
+        document.getElementById('q-meta').innerText = `${q.area} • ${q.topic}`;
+        document.getElementById('q-progress').innerText = `${currentIndex + 1} / ${sessionQuestions.length}`;
         document.getElementById('q-text').innerText = q.text;
-        document.getElementById('explanation').style.display = "none";
+        document.getElementById('explanation-box').style.display = "none";
         document.getElementById('next-btn').style.display = "none";
-        
-        const optionsDiv = document.getElementById('options');
-        optionsDiv.innerHTML = "";
+
+        const container = document.getElementById('options-container');
+        container.innerHTML = "";
 
         q.options.forEach(opt => {
-            const btn = document.createElement('button');
-            btn.className = 'option-btn';
-            btn.innerText = opt.text;
-            btn.onclick = () => {
-                const btns = optionsDiv.querySelectorAll('button');
-                btns.forEach(b => b.disabled = true);
+            const b = document.createElement('button');
+            b.className = 'option-btn';
+            b.innerText = opt.text;
+            b.onclick = () => {
+                const all = container.querySelectorAll('button');
+                all.forEach(btn => btn.disabled = true);
+                b.classList.add(opt.isCorrect ? 'correct' : 'wrong');
                 
-                btn.classList.add(opt.isCorrect ? 'correct' : 'wrong');
-                document.getElementById('explanation').style.display = "block";
-                document.getElementById('explanation').style.background = opt.isCorrect ? "#d4edda" : "#f8d7da";
-                document.getElementById('explanation').innerText = opt.explanation;
+                const exp = document.getElementById('explanation-box');
+                exp.style.display = "block";
+                exp.style.background = opt.isCorrect ? "#d4edda" : "#f8d7da";
+                exp.innerHTML = `<strong>${opt.isCorrect ? '¡Correcto!' : 'Incorrecto'}</strong><br>${opt.explanation}`;
                 document.getElementById('next-btn').style.display = "block";
             };
-            optionsDiv.appendChild(btn);
+            container.appendChild(b);
         });
     }
 
     function nextQuestion() {
         currentIndex++;
-        if (currentIndex < currentSessionQuestions.length) {
-            showQuestion();
-        } else {
-            alert("¡Sesión terminada!");
-            location.reload();
+        if (currentIndex < sessionQuestions.length) renderQuestion();
+        else {
+            alert("¡Sesión finalizada!");
+            showView('view-internado');
         }
+    }
+
+    function showView(id) {
+        document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+        document.getElementById(id).classList.add('active');
     }
 
     init();
 </script>
-
 </body>
 </html>
