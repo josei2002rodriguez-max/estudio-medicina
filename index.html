@@ -20,7 +20,6 @@
         h1 { text-align: center; color: var(--primary); margin-bottom: 10px; }
         .status-bar { text-align: center; font-size: 12px; color: var(--secondary); margin-bottom: 20px; }
 
-        /* Grid */
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; margin-top: 15px; }
         .card { 
             background: var(--card); padding: 20px 10px; border-radius: 16px; text-align: center;
@@ -30,11 +29,9 @@
         .card:hover { transform: scale(1.02); border-color: var(--primary); }
         .card.selected { border-color: var(--accent); background: #f0fff4; }
 
-        /* Setup */
         .setup-box { background: white; padding: 20px; border-radius: 16px; margin-top: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
         .topic-item { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid #eee; }
         
-        /* Botones */
         .btn { 
             display: block; width: 100%; padding: 16px; margin-top: 12px; border: none;
             border-radius: 12px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.2s;
@@ -42,7 +39,6 @@
         }
         .btn-primary { background: var(--accent); color: white; }
         .btn-secondary { background: white; color: var(--secondary); border: 1px solid var(--secondary); }
-        .btn-home { background: #34495e; color: white; margin-bottom: 20px; }
 
         /* Quiz UI */
         .quiz-nav { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
@@ -51,9 +47,9 @@
             display: block; width: 100%; padding: 16px; margin: 10px 0; border: 2px solid #edf2f7;
             border-radius: 12px; background: white; text-align: left; font-size: 15px; cursor: pointer;
         }
-        .option-btn.correct-show { border-color: var(--accent); background: #e6fffa; color: #155724; }
+        .option-btn.correct-show { border-color: var(--accent); background: #e6fffa; color: #155724; font-weight: bold; }
         .option-btn.wrong-show { border-color: var(--error); background: #fff5f5; color: #721c24; }
-        .option-btn.inspecting { border-style: dotted; border-width: 3px; }
+        .option-btn.inspecting { border-style: dotted; border-width: 3px; border-color: var(--primary); }
 
         .explanation { margin-top: 15px; padding: 15px; border-radius: 12px; font-size: 14px; border-left: 5px solid var(--primary); background: var(--highlight); display: none; }
         
@@ -69,24 +65,24 @@
 
     <div id="view-loading" class="view active">
         <h1>🩺 MedMaster</h1>
-        <p style="text-align: center;">Sincronizando biblioteca...</p>
+        <p style="text-align: center;">Cargando biblioteca...</p>
     </div>
     
     <div id="view-internado" class="view">
         <h1>¿Qué Internado estudias?</h1>
         <div id="internado-grid" class="grid"></div>
-        <div class="status-bar" style="margin-top:20px;">Total preguntas: <span id="db-total">0</span></div>
+        <div class="status-bar" style="margin-top:20px;">Total preguntas cargadas: <span id="db-total">0</span></div>
     </div>
 
     <div id="view-setup" class="view">
         <h1 id="setup-title">Áreas</h1>
         <div id="area-grid" class="grid"></div>
         <div id="topic-config" class="setup-box" style="display:none;">
-            <p><strong>Tópicos:</strong></p>
+            <p><strong>Selecciona Tópicos:</strong></p>
             <div id="topic-list"></div>
             <div style="margin-top:20px;">
-                <p>Disponibles: <strong id="total-count">0</strong></p>
-                <input type="number" id="limit-input" placeholder="Cantidad (Vacio = todas)" style="width: 100%; padding: 12px; border-radius: 10px; border: 1px solid #ddd;">
+                <p>Preguntas disponibles: <strong id="total-count">0</strong></p>
+                <input type="number" id="limit-input" placeholder="Cantidad (Vacio = todas)" style="width: 100%; padding: 12px; border-radius: 10px; border: 1px solid #ddd; box-sizing: border-box;">
             </div>
             <button class="btn btn-primary" onclick="startQuiz()">Iniciar Sesión 🚀</button>
         </div>
@@ -95,7 +91,7 @@
 
     <div id="view-quiz" class="view">
         <div class="quiz-nav">
-            <button onclick="confirmExit()" style="background:none; border:none; font-size:20px; cursor:pointer;">🏠</button>
+            <button onclick="confirmExit()" style="background:none; border:none; font-size:24px; cursor:pointer;">🏠</button>
             <div class="score-live">
                 <span style="color:var(--accent)">✅ <span id="live-good">0</span></span> | 
                 <span style="color:var(--error)">❌ <span id="live-bad">0</span></span>
@@ -120,19 +116,18 @@
             <p id="res-score-text"></p>
             
             <div id="weak-section" class="weak-topics" style="display:none;">
-                <strong>⚠️ Reforzar estos temas:</strong>
+                <strong>⚠️ Temas a reforzar:</strong>
                 <ul id="res-weak-list" style="margin: 10px 0; padding-left: 20px;"></ul>
             </div>
 
             <button class="btn btn-primary" id="btn-retry-failed" onclick="retryFailed()">Repetir solo las malas 🔄</button>
-            <button class="btn btn-secondary" onclick="location.reload()">Nueva sesión completa</button>
+            <button class="btn btn-secondary" onclick="location.reload()">Finalizar y Salir</button>
         </div>
     </div>
 
 </div>
 
 <script>
-    /* CONFIGURACIÓN DE ARCHIVOS */
     const archivosPreguntas = [
         'data/ped_cardio_1.json',
         'data/ped_nefro_1.json',
@@ -151,7 +146,10 @@
         for (const url of archivosPreguntas) {
             try {
                 const res = await fetch(url);
-                if (res.ok) database = [...database, ...await res.json()];
+                if (res.ok) {
+                    const data = await res.json();
+                    database = [...database, ...data];
+                }
             } catch (e) { console.error("Error cargando " + url); }
         }
         document.getElementById('db-total').innerText = database.length;
@@ -171,7 +169,6 @@
         });
     }
 
-    // Lógica de Selección (Simplificada para el ejemplo)
     let currentInternado = "";
     let selectedAreas = new Set();
     let selectedTopics = new Set();
@@ -189,6 +186,7 @@
             grid.appendChild(card);
         });
         showView('view-setup');
+        document.getElementById('topic-config').style.display = "none";
     }
 
     function toggleArea(area, el) {
@@ -198,9 +196,12 @@
     }
 
     function updateTopics() {
-        const topics = [...new Set(database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area)).map(q => q.topic))];
+        const relevantQuestions = database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area));
+        const topics = [...new Set(relevantQuestions.map(q => q.topic))];
         const list = document.getElementById('topic-list'); list.innerHTML = "";
         document.getElementById('topic-config').style.display = selectedAreas.size > 0 ? "block" : "none";
+        
+        selectedTopics.clear();
         topics.forEach(t => {
             const div = document.createElement('div'); div.className = 'topic-item';
             div.innerHTML = `<input type="checkbox" checked id="t-${t}" onchange="toggleTopic('${t}')"> <label for="t-${t}">${t}</label>`;
@@ -211,12 +212,12 @@
     }
 
     function toggleTopic(t) { if (selectedTopics.has(t)) selectedTopics.delete(t); else selectedTopics.add(t); updateCount(); }
+    
     function updateCount() {
         const count = database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area) && selectedTopics.has(q.topic)).length;
         document.getElementById('total-count').innerText = count;
     }
 
-    // QUIZ ENGINE
     function startQuiz(customQuestions = null) {
         if (customQuestions) {
             sessionQuestions = customQuestions;
@@ -228,6 +229,8 @@
             sessionQuestions = pool.map(q => ({...q, answered: false, userChoiceIdx: null, isUserCorrect: null}));
         }
         
+        if (sessionQuestions.length === 0) return alert("No hay preguntas con esos filtros.");
+        
         currentIndex = 0;
         stats = { correct: 0, wrong: 0, errorsByTopic: {} };
         updateLiveScore();
@@ -237,26 +240,38 @@
 
     function renderQuestion() {
         const q = sessionQuestions[currentIndex];
-        document.getElementById('q-meta').innerText = `${q.area} • ${q.topic}`;
-        document.getElementById('q-progress').innerText = `${currentIndex + 1} / ${sessionQuestions.length}`;
-        document.getElementById('q-text').innerText = q.text;
-        document.getElementById('explanation-box').style.display = "none";
+        const textEl = document.getElementById('q-text');
+        const progressEl = document.getElementById('q-progress');
+        const metaEl = document.getElementById('q-meta');
+        const optionsContainer = document.getElementById('options-container');
+        const expBox = document.getElementById('explanation-box');
+
+        // Limpiar
+        textEl.innerText = q.text;
+        progressEl.innerText = `${currentIndex + 1} / ${sessionQuestions.length}`;
+        metaEl.innerText = `${q.area} • ${q.topic}`;
+        optionsContainer.innerHTML = "";
+        expBox.style.display = "none";
+        
+        // Botones de navegación
         document.getElementById('prev-btn').style.visibility = currentIndex > 0 ? "visible" : "hidden";
         document.getElementById('next-btn').style.display = q.answered ? "block" : "none";
 
-        const container = document.getElementById('options-container');
-        container.innerHTML = "";
         q.options.forEach((opt, idx) => {
             const b = document.createElement('button');
             b.className = 'option-btn';
             b.innerText = opt.text;
+            
             if (q.answered) {
                 if (opt.isCorrect) b.classList.add('correct-show');
                 if (idx === q.userChoiceIdx && !opt.isCorrect) b.classList.add('wrong-show');
-                if (idx === q.userChoiceIdx) { b.classList.add('inspecting'); showExplanation(opt); }
+                if (idx === q.userChoiceIdx) {
+                    b.classList.add('inspecting');
+                    showExplanation(opt);
+                }
             }
             b.onclick = () => handleOptionClick(b, opt, q, idx);
-            container.appendChild(b);
+            optionsContainer.appendChild(b);
         });
     }
 
@@ -273,9 +288,8 @@
             }
             updateLiveScore();
             document.getElementById('next-btn').style.display = "block";
-            renderQuestion(); // Refrescar para mostrar colores
+            renderQuestion(); // Recargar para mostrar colores
         } else {
-            // Solo cambiar la inspección si ya está respondida
             document.querySelectorAll('.option-btn').forEach(b => b.classList.remove('inspecting'));
             btn.classList.add('inspecting');
             showExplanation(opt);
@@ -304,7 +318,7 @@
         showView('view-results');
         const percent = Math.round((stats.correct / sessionQuestions.length) * 100);
         document.getElementById('res-percent').innerText = percent + "%";
-        document.getElementById('res-score-text').innerText = `Lograste ${stats.correct} de ${sessionQuestions.length} correctas.`;
+        document.getElementById('res-score-text').innerText = `Puntaje final: ${stats.correct} / ${sessionQuestions.length}`;
         
         const weakList = document.getElementById('res-weak-list');
         weakList.innerHTML = "";
@@ -320,7 +334,6 @@
         } else {
             document.getElementById('weak-section').style.display = "none";
         }
-
         document.getElementById('btn-retry-failed').style.display = stats.wrong > 0 ? "block" : "none";
     }
 
@@ -330,7 +343,7 @@
         startQuiz(resetFailed);
     }
 
-    function confirmExit() { if (confirm("¿Seguro que quieres volver al menú? Perderás el progreso de esta sesión.")) location.reload(); }
+    function confirmExit() { if (confirm("¿Volver al menú? Se perderá el progreso actual.")) location.reload(); }
     function showView(id) { document.querySelectorAll('.view').forEach(v => v.classList.remove('active')); document.getElementById(id).classList.add('active'); }
     window.onload = cargarTodo;
 </script>
