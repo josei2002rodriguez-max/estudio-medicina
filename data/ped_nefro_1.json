@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "En el control sano de un niño asintomático, ¿a partir de qué edad se recomienda iniciar el tamizaje universal de presión arterial de forma rutinaria y anual?",
+    "hint": "Considere el hito del desarrollo donde comienza la etapa preescolar y la toma de presión se vuelve técnicamente más factible.",
+    "options": [
+      {
+        "text": "A) En todos los controles sanos desde el nacimiento y etapa de lactante",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Solo se mide en lactantes si tienen factores de riesgo (ej. cardiopatías, nefropatías, prematurez extrema)."
+      },
+      {
+        "text": "B) A partir del primer año de vida si no hay factores de riesgo previos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Aún es muy temprano para un tamizaje universal; el rendimiento diagnóstico no lo justifica."
+      },
+      {
+        "text": "C) A partir de los tres años de edad de forma universal y estandarizada",
+        "isCorrect": true,
+        "explanation": "Correcta: Las guías de la AAP indican iniciar la medición universal a los 3 años. Antes de esto, la incidencia de HTA primaria es muy baja."
+      },
+      {
+        "text": "D) A partir de la etapa escolar básica o desde los seis años cumplidos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Retrasarlo hasta los 6 años perdería la oportunidad de pesquisar precozmente HTA secundaria silente."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Para evitar errores técnicos en la medición de PA en pediatría, ¿cuáles deben ser las dimensiones ideales de la cámara de goma del manguito respecto al brazo?",
+    "hint": "La bolsa debe ser lo suficientemente ancha para comprimir la arteria sin presión extra, y lo suficientemente larga para abrazar casi todo el contorno.",
+    "options": [
+      {
+        "text": "A) Ancho 40% de la circunferencia del brazo; Largo 80-100% de la circunferencia",
+        "isCorrect": true,
+        "explanation": "Correcta: Es la regla de oro: ancho del 40% (entre acromion y olécranon) y largo del 80-100% del perímetro del brazo."
+      },
+      {
+        "text": "B) Ancho 20% de la circunferencia del brazo; Largo 50% de la circunferencia",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Un manguito muy estrecho y corto requerirá sobreinflarse para colapsar la arteria, dando HTA falsa."
+      },
+      {
+        "text": "C) Ancho 80% de la circunferencia del brazo; Largo 40% de la circunferencia",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Un manguito demasiado ancho distribuirá mal la presión, entregando lecturas falsamente bajas."
+      },
+      {
+        "text": "D) Debe cubrir estrictamente el 100% de la longitud desde la axila al codo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No debe cubrir toda la longitud axila-codo, ya que impediría colocar el fonendoscopio en la fosa antecubital."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Un adolescente obeso es evaluado con un manguito 'Pediátrico' que queda excesivamente apretado en su brazo. ¿Qué efecto técnico genera este error?",
+    "hint": "Si el manguito apenas rodea el brazo, el equipo deberá ejercer una fuerza colosal para colapsar la arteria subyacente.",
+    "options": [
+      {
+        "text": "A) Proporciona un valor fidedigno si se ajusta bien con el fonendoscopio",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Ningún ajuste auditivo compensa un error físico en la cámara neumática."
+      },
+      {
+        "text": "B) Sobreestima la presión arterial creando un falso positivo para HTA",
+        "isCorrect": true,
+        "explanation": "Correcta: Un manguito estrecho requiere una presión de insuflación mucho mayor para vencer el tejido blando, sobreestimando la PA real."
+      },
+      {
+        "text": "C) Subestima la presión arterial ocultando una hipertensión subyacente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La subestimación ocurre cuando se usa un manguito demasiado grande para el brazo del niño."
+      },
+      {
+        "text": "D) Altera exclusivamente la lectura diastólica sin modificar la sistólica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El exceso de presión afecta ambas lecturas, desplazando toda la curva hacia arriba."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Para clasificar correctamente la PA de un niño de 6 años usando tablas percentilares, además de edad y sexo, ¿qué parámetro es indispensable?",
+    "hint": "A mayor longitud física del cuerpo, el corazón necesita generar mayor fuerza de empuje para irrigar el cerebro.",
+    "options": [
+      {
+        "text": "A) El peso corporal actual medido en una balanza calibrada estandarizada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El peso no se usa para buscar el valor de normalidad, aunque sea un factor de riesgo patológico."
+      },
+      {
+        "text": "B) El Índice de Masa Corporal (IMC) para descartar obesidad subyacente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El IMC clasifica el estado nutricional, pero la norma de presión se ajusta por la altura."
+      },
+      {
+        "text": "C) El percentil de talla, ya que la presión requerida depende de la estatura",
+        "isCorrect": true,
+        "explanation": "Correcta: Las tablas de PA se cruzan utilizando Sexo, Edad y Percentil de Talla. Un niño más alto requiere una presión basal mayor."
+      },
+      {
+        "text": "D) El perímetro de cintura como indicador de riesgo cardiovascular global",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Útil para riesgo metabólico, pero no es variable en la definición paramétrica de HTA."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño de 8 años en control. En tres visitas, sus valores de PA están consistentemente entre el percentil 90 y 95. ¿Cuál es el diagnóstico según guías?",
+    "hint": "El valor está sobre el promedio, pero aún no cruza el umbral crítico del p95 que define la enfermedad.",
+    "options": [
+      {
+        "text": "A) Presión arterial en rango de completa normalidad para su grupo etario",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Lo normal es estar por debajo del percentil 90 de forma consistente."
+      },
+      {
+        "text": "B) Presión Arterial Elevada (categoría conocida antiguamente como prehipertensión)",
+        "isCorrect": true,
+        "explanation": "Correcta: Los valores entre p90 y <p95 se definen hoy como \"PA Elevada\". Requieren intervención de estilo de vida, no son HTA aún."
+      },
+      {
+        "text": "C) Hipertensión Arterial Etapa 1 con requerimiento de tratamiento farmacológico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Para Etapa 1, los valores deben ser >p95 pero menores a (p95 + 12 mmHg)."
+      },
+      {
+        "text": "D) Hipertensión Arterial Etapa 2 con indicación de estudio de urgencia médica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Para Etapa 2, el valor debe superar el (p95 + 12 mmHg)."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "¿En qué situación un clínico debe sospechar el diagnóstico de 'Hipertensión de Delantal Blanco' en un paciente pediátrico?",
+    "hint": "La reacción de alerta del sistema simpático se desencadena específicamente por el entorno o el personal de salud.",
+    "options": [
+      {
+        "text": "A) Paciente con PA normal en el ambiente clínico pero PA muy alta en su casa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Esto se denomina \"HTA Enmascarada\", una condición peligrosa que pasa desapercibida en el policlínico."
+      },
+      {
+        "text": "B) Paciente con PA alta (>p95) en clínica, pero MAPA de 24 horas estrictamente normal",
+        "isCorrect": true,
+        "explanation": "Correcta: Se define por lecturas altas en el box médico, pero con un Monitoreo Ambulatorio (MAPA) normal en su vida diaria."
+      },
+      {
+        "text": "C) Paciente con HTA severa documentada que solo responde al uso de diuréticos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Esto describe una HTA volumen-dependiente (falla renal), no un problema de estrés ambiental."
+      },
+      {
+        "text": "D) Paciente con PA limítrofe que presenta crisis hipertensivas al realizar esfuerzo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La PA que sube exageradamente al esfuerzo es indicativa de cardiopatía obstructiva o mala reactividad."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Usted evalúa a un lactante de 1 año con antecedente de coartación aórtica. En la evaluación inicial pediátrica, ¿en qué extremidad(es) DEBE medirse la PA obligatoriamente?",
+    "hint": "Se busca detectar cualquier \"cuello de botella\" que exista a lo largo del trayecto de la aorta torácica o abdominal.",
+    "options": [
+      {
+        "text": "A) Exclusivamente en el brazo derecho por ser la lectura más estandarizada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El brazo derecho es el estándar para controles rutinarios posteriores, pero insuficiente para la evaluación diagnóstica estructural inicial."
+      },
+      {
+        "text": "B) En ambas extremidades inferiores simultáneamente para evitar discordancias",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Medir solo piernas omitiría la hipertensión compensatoria de la mitad superior del cuerpo."
+      },
+      {
+        "text": "C) En las cuatro extremidades (brazos y piernas) para descartar gradientes",
+        "isCorrect": true,
+        "explanation": "Correcta: Todo niño con evaluación inicial de HTA o sospecha de coartación debe tener medición en 4 extremidades para descartar estenosis (gradiente)."
+      },
+      {
+        "text": "D) Únicamente en el brazo de predominancia motora para mayor exactitud",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La lateralidad motora no tiene ninguna relevancia anatómica sobre la presión intraarterial."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "A partir de cuántos mmHg de diferencia de PA sistólica (brazo - pierna) se considera un signo patológico de coartación de la aorta?",
+    "hint": "Fisiológicamente, en decúbito supino, las piernas deberían registrar una presión igual o ligeramente superior a los brazos.",
+    "options": [
+      {
+        "text": "A) Cualquier diferencia, ya que la pierna siempre debe tener mucho menos presión",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Fisiológicamente es al revés: las piernas (arterias de mayor calibre) suelen tener presión mayor que los brazos."
+      },
+      {
+        "text": "B) Cuando la presión sistólica en brazos supera a las piernas en más de 10-20 mmHg",
+        "isCorrect": true,
+        "explanation": "Correcta: Una PA en brazos >10-20 mmHg superior a las piernas es un signo de alarma mayor de obstrucción aórtica."
+      },
+      {
+        "text": "C) Únicamente cuando la diferencia de presión sistólica supera los 50 mmHg exactos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: 50 mmHg es una diferencia extrema; no se debe esperar a tal severidad para diagnosticar."
+      },
+      {
+        "text": "D) Las presiones deben ser matemáticamente idénticas al milímetro para ser normales",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Existe un margen de variación biológica; no se exige identidad matemática."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Se realiza un MAPA de 24 horas (Holter de PA). El informe describe 'Ausencia de Dip Nocturno' (Patrón Non-Dipper). ¿Qué significa esto fisiológicamente?",
+    "hint": "Al dormir, el parasimpático toma el control y permite un \"reposo\" cardiovascular. En este paciente, ese reposo no ocurre.",
+    "options": [
+      {
+        "text": "A) Que la PA desciende más de un 20% durante el sueño, generando riesgo isquémico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Una caída >20% se llama \"Extreme dipper\", no es el hallazgo descrito."
+      },
+      {
+        "text": "B) Que la PA no cae el 10-20% esperado al dormir, sugiriendo HTA de mayor riesgo",
+        "isCorrect": true,
+        "explanation": "Correcta: La presión debe caer un 10-20% en la noche (dip). Si se mantiene alta (Non-dipper), el riesgo de daño de órgano blanco se multiplica."
+      },
+      {
+        "text": "C) Que el niño sufre de hipotensión ortostática severa al momento de despertar",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipotensión ortostática se diagnostica tomando la presión acostado y luego de pie en la consulta."
+      },
+      {
+        "text": "D) Que el equipo técnico falló durante la noche, requiriendo repetir el examen",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El patrón Non-Dipper es un hallazgo clínico patológico estandarizado, no un error de equipo."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Adolescente asintomático. Tras un partido de fútbol extenuante, acude por cefalea. PA de 138/85 mmHg. Se le diagnostica HTA y se da furosemida. Este es un error porque:",
+    "hint": "El cuerpo necesita tiempo para metabolizar y lavar la adrenalina liberada durante la actividad física máxima.",
+    "options": [
+      {
+        "text": "A) La furosemida está absolutamente contraindicada en pacientes adolescentes",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La furosemida se usa en adolescentes si hay indicación (ej. edema agudo), el error es diagnosticar HTA en estas condiciones."
+      },
+      {
+        "text": "B) La medición exige reposo previo de 5 minutos, y no tras estrés físico agudo",
+        "isCorrect": true,
+        "explanation": "Correcta: La PA debe medirse tras 3-5 minutos de reposo tranquilo. El ejercicio previo genera una falsa hipertensión transitoria fisiológica."
+      },
+      {
+        "text": "C) A esa edad los valores de 138/85 son considerados hipotensión severa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: 138/85 es un valor alto para un adolescente, nunca hipotensión."
+      },
+      {
+        "text": "D) La cefalea post-ejercicio siempre invalida cualquier medición de presión",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La cefalea no invalida la medición, es el esfuerzo físico reciente lo que altera la toma."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Escolar de 5 años con HTA severa recién diagnosticada. ¿Cuál es, estadísticamente, el grupo de causas secundarias MÁS FRECUENTE a esta edad?",
+    "hint": "Piense en el órgano responsable de filtrar la sangre, regular la volemia y que es blanco principal de infecciones cicatriciales en la infancia.",
+    "options": [
+      {
+        "text": "A) Causas endocrinológicas funcionales como el Feocromocitoma o el Cushing",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los tumores endocrinos son causas muy raras (<2%) y suelen dar crisis paroxísticas."
+      },
+      {
+        "text": "B) Enfermedades del parénquima renal y malformaciones de la vía urinaria",
+        "isCorrect": true,
+        "explanation": "Correcta: La etiología renal (displasias, cicatrices post-Pielonefritis, glomerulonefritis) compone hasta el 80% de la HTA secundaria prepuberal."
+      },
+      {
+        "text": "C) Causas cardíacas estructurales congénitas aisladas de presentación tardía",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las cardiopatías son relevantes, pero menos frecuentes globalmente que las anomalías nefrourológicas."
+      },
+      {
+        "text": "D) Causas exógenas por exposición crónica a fármacos o toxinas ambientales",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los fármacos causan HTA transitoria aguda, pero rara vez crónica severa sin antecedente toxicológico claro."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Adolescente de 15 años, obeso (IMC > p95), asintomático. PA 135/85 mmHg en controles repetidos. Ecografía renal normal, presenta acantosis nigricans. Diagnóstico más probable:",
+    "hint": "No hay daño estructural orgánico evidente en imágenes, pero sí hay exceso de tejido adiposo y resistencia a la insulina.",
+    "options": [
+      {
+        "text": "A) Hipertensión Arterial Secundaria a nefropatía silente de larga data",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La ecografía es normal y no tiene estigmas de daño renal crónico."
+      },
+      {
+        "text": "B) Hipertensión Arterial Primaria asociada fuertemente a síndrome metabólico",
+        "isCorrect": true,
+        "explanation": "Correcta: En la adolescencia, el aumento de la obesidad ha convertido a la HTA Primaria (esencial) en la causa líder, mediada por hiperinsulinismo."
+      },
+      {
+        "text": "C) Síndrome de Cushing endógeno por un adenoma suprarrenal hiperfuncionante",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Cushing cursa con estrías violáceas y miopatía, un cuadro mucho más dramático que la obesidad exógena simple."
+      },
+      {
+        "text": "D) Coartación de la aorta de presentación tardía con extenso flujo colateral",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No refiere soplos ni asimetría de pulsos, la clínica apunta al riesgo metabólico."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Lactante con antecedente de prematurez extrema y uso de catéter arterial umbilical por 20 días. Hoy asintomático, pero con PA > p99. ¿Etiología de la HTA?",
+    "hint": "La punta de este dispositivo neonatal descansa en la aorta abdominal, rozando mecánicamente el origen de los vasos renales.",
+    "options": [
+      {
+        "text": "A) Hipertensión arterial primaria de presentation inusualmente precoz y agresiva",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La HTA primaria es excepcional en menores de 3 años."
+      },
+      {
+        "text": "B) Coartación de la aorta torácica descendente que pasó desapercibida al nacer",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El catéter umbilical no predispone a malformaciones anatómicas aórticas torácicas."
+      },
+      {
+        "text": "C) Estenosis o trombosis de la arteria renal secundaria a daño por el catéter",
+        "isCorrect": true,
+        "explanation": "Correcta: Los catéteres umbilicales generan trombos murales que obliteran la arteria renal, causando isquemia y posterior HTA Renovascular."
+      },
+      {
+        "text": "D) Feocromocitoma suprarrenal congénito con secreción masiva de catecolaminas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El feocromocitoma es rarísimo en lactantes y no tiene relación causal con instrumentación vascular."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Fisiopatología de la HTA Renovascular: La isquemia producida por la estrechez del vaso es detectada por el aparato yuxtaglomerular, desencadenando la secreción de:",
+    "hint": "Esta enzima actúa como \"tijera\" para cortar el angiotensinógeno proveniente del hígado.",
+    "options": [
+      {
+        "text": "A) Adrenalina y noradrenalina directamente a la circulación sistémica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las catecolaminas son liberadas por la médula suprarrenal y nervios simpáticos, no por el aparato yuxtaglomerular."
+      },
+      {
+        "text": "B) Cortisol suprarrenal para regular la respuesta metabólica al estrés",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El cortisol es regulado por el eje hipotálamo-hipófisis, independiente de isquemia renal local."
+      },
+      {
+        "text": "C) Renina, la cual inicia la potente cascada vasoconstrictora y presora",
+        "isCorrect": true,
+        "explanation": "Correcta: La hipoperfusión renal activa las células granulares para secretar Renina, elevando la Angiotensina II y Aldosterona."
+      },
+      {
+        "text": "D) Péptido Natriurético Auricular para disminuir el volumen intravascular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El péptido natriurético es liberado por el corazón, su efecto es opuesto (bajar la presión)."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Escolar de 10 años, delgado, con PA > p99. Al examen destaca un soplo sistólico abdominal audible en flancos y periumbilical. ¿Sospecha diagnóstica principal?",
+    "hint": "El ruido auscultado se genera por la turbulencia de la sangre arterial al pasar por un conducto severamente estrecho.",
+    "options": [
+      {
+        "text": "A) Feocromocitoma secretor con irritación vascular adyacente inflamatoria",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los tumores suprarrenales actúan vía hormonal sistémica, no generan soplos abdominales focales."
+      },
+      {
+        "text": "B) Hipertensión Renovascular por estenosis o displasia de la arteria renal",
+        "isCorrect": true,
+        "explanation": "Correcta: Un soplo abdominal en un niño hipertenso indica obstrucción del flujo en la arteria renal (ej. displasia fibromuscular)."
+      },
+      {
+        "text": "C) Neuroblastoma abdominal con compresión vascular extrínseca masiva",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Un tumor masivo presentaría una masa palpable dura, no un soplo aislado."
+      },
+      {
+        "text": "D) Riñón poliquístico autosómico con formación aguda de grandes quistes",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los quistes desplazan tejido, pero no generan soplos sistólicos arteriales de alta velocidad."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Paciente con ITU febril a repetición. La ecografía evidencia cicatrices en los cálices renales. A largo plazo, estas cicatrices pueden provocar HTA mediada por renina, fenómeno conocido como:",
+    "hint": "El daño se origina porque la orina infectada logra retroceder a alta presión desde la vejiga hasta el tejido noble del riñón.",
+    "options": [
+      {
+        "text": "A) Enfermedad de Berger de depósito agudo glomerular inmunológico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La Enf. de Berger es una nefropatía por IgA (hematuria post-viral), no por bacterias o reflujo."
+      },
+      {
+        "text": "B) Nefropatía por Reflujo con daño tisular focal cicatricial isquémico",
+        "isCorrect": true,
+        "explanation": "Correcta: El reflujo vesicoureteral causa pielonefritis que sanan con fibrosis. Este tejido cicatricial es isquémico y libera renina."
+      },
+      {
+        "text": "C) Riñón en Esponja Medular de carácter autosómico y quístico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es una malformación predispuesta a cálculos, no a cicatrices pielonefríticas."
+      },
+      {
+        "text": "D) Síndrome de Alport con compromiso de la membrana basal renal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Alport es un trastorno genético del colágeno que causa hematuria y sordera."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Lactante con ambigüedad genital femenina evoluciona con HTA e Hipokalemia grave. Al estudiar una Hiperplasia Suprarrenal Congénita, ¿qué defecto enzimático explica esto?",
+    "hint": "Al bloquearse esta vía, se acumula Deoxicorticosterona (DOCA), un mineralocorticoide que retiene sodio en el riñón.",
+    "options": [
+      {
+        "text": "A) Déficit de 21-hidroxilasa con fenotipo clásico de pérdida salina severa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El déficit de 21-OH (más común) NO produce DOCA, por lo que cursa con pérdida de sal e HIPOTENSIÓN extrema."
+      },
+      {
+        "text": "B) Déficit de 11-beta-hidroxilasa con acumulación de precursores presores",
+        "isCorrect": true,
+        "explanation": "Correcta: La falta de 11-beta-OH impide formar cortisol; la vía se desvía a andrógenos y DOCA (HTA e hipokalemia)."
+      },
+      {
+        "text": "C) Déficit de la enzima 5-alfa reductasa con alteración en diferenciación",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Afecta la formación de testosterona activa en varones, no impacta mineralocorticoides."
+      },
+      {
+        "text": "D) Deficiencia de la enzima aromatasa placentaria y suprarrenal aislada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Causa virilización, pero no altera el balance de sodio ni la presión."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Adolescente mujer en tratamiento crónico con anticonceptivos orales combinados. Se pesquisa PA elevada sostenida. ¿Cuál es el mecanismo patogénico secundario?",
+    "hint": "La cascada de la Renina requiere un sustrato inicial fundamental, fabricado abundantemente en el hígado bajo estímulo hormonal.",
+    "options": [
+      {
+        "text": "A) Estimulación nerviosa directa de la glándula suprarrenal por esteroides",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los ACO no estimulan las terminales nerviosas de la médula suprarrenal."
+      },
+      {
+        "text": "B) Aumento de la síntesis hepática de angiotensinógeno inducida por estrógenos",
+        "isCorrect": true,
+        "explanation": "Correcta: Los estrógenos aumentan la producción hepática de angiotensinógeno, facilitando HTA volumen-dependiente."
+      },
+      {
+        "text": "C) Bloqueo de los canales de calcio vasculares periféricos por progestágeno",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Bloquear canales de calcio produciría vasodilatación, no hipertensión."
+      },
+      {
+        "text": "D) Fibrosis acelerada de la túnica íntima en la arteria principal del riñón",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las hormonas femeninas no causan fibrosis arterial; su efecto a largo plazo suele ser endotelio-protector."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño de 4 años, presenta masa en flanco izquierdo. Eco revela Riñón Multiquístico Displásico unilateral. Si la HTA se vuelve refractaria a medicamentos, ¿cuál es el tratamiento curativo?",
+    "hint": "El órgano dañado no tiene función útil, pero actúa como una \"fábrica\" de hormonas presoras que enferman al resto del cuerpo.",
+    "options": [
+      {
+        "text": "A) Diálisis peritoneal ambulatoria continua de carácter profiláctico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El riñón contralateral es sano, por lo que la diálisis es innecesaria."
+      },
+      {
+        "text": "B) Nefrectomía completa del tejido renal afectado y displásico",
+        "isCorrect": true,
+        "explanation": "Correcta: En el riñón displásico unilateral, el tejido malformado genera isquemia y liberación de renina. Su remoción quirúrgica cura la HTA."
+      },
+      {
+        "text": "C) Trasplante renal bilateral de donante cadavérico compatible",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Sería una aberración quitar un riñón sano para trasplantar ambos."
+      },
+      {
+        "text": "D) Uso de Corticoides a muy altas dosis para frenar la inflamación",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No es una enfermedad autoinmune inflamatoria, los corticoides subirían aún más la presión arterial."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño roncador severo con apneas presenciadas y somnolencia diurna. Presenta HTA resistente. ¿Qué patología explica fuertemente la HTA en este caso?",
+    "hint": "Las pausas respiratorias causan asfixia. El cerebro responde con descargas violentas de adrenalina para despertar al niño.",
+    "options": [
+      {
+        "text": "A) Crisis aguda de asma severo mal controlado durante las noches",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El asma causa sibilancias, no ronquidos ni apneas de vía aérea superior."
+      },
+      {
+        "text": "B) Síndrome de Apnea-Hipopnea Obstructiva del Sueño (SAHOS)",
+        "isCorrect": true,
+        "explanation": "Correcta: El SAHOS genera estrés hipóxico intermitente, activando el sistema simpático y manteniendo la PA altísima 24/7 (patrón Non-Dipper)."
+      },
+      {
+        "text": "C) Cuadro avanzado de Fibrosis Quística con daño pulmonar crónico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La FQ causa desnutrición y falla derecha, no la clínica de apneas mecánicas."
+      },
+      {
+        "text": "D) Neumonía atípica subaguda por Mycoplasma o virus sincicial",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las neumonías son agudas y febriles; no explican un síndrome crónico roncopático ni HTA resistente."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "¿Cuál es el estudio de imagen INICIAL indicado en TODO paciente pediátrico con HTA confirmada para buscar causas secundarias de forma segura?",
+    "hint": "No emite radiación y permite descartar la causa secundaria número uno en pediatría (anomalías del parénquima y vía urinaria).",
+    "options": [
+      {
+        "text": "A) Angio-Tomografía Computarizada para evaluar arterias de ambos riñones",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El AngioTAC irradia y usa contraste; se reserva solo si la ecografía detecta una anomalía que requiere mapeo prequirúrgico."
+      },
+      {
+        "text": "B) Ecocardiograma Doppler Color para determinar daño tisular cardíaco",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El ecocardiograma busca daño de órgano blanco, pero no la causa etiológica subyacente."
+      },
+      {
+        "text": "C) Ecografía renal y vesical con exploración Doppler de la vascularización",
+        "isCorrect": true,
+        "explanation": "Correcta: La Eco renal-Doppler es el Gold Standard inicial. Descarta asimetrías, quistes, tumores (Wilms) y evalúa el flujo arterial sin riesgos."
+      },
+      {
+        "text": "D) Cintigrama renal con tecnecio-DMSA para buscar cicatrices antiguas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El DMSA es de segunda línea, más invasivo y costoso."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "¿Qué examen ecográfico Doppler es altamente sugerente de Estenosis de la Arteria Renal en un niño con HTA resistente?",
+    "hint": "El flujo a través de una estrechez severa viaja a altísima velocidad, pero el pulso que logra pasar hacia el órgano llega débil y demorado.",
+    "options": [
+      {
+        "text": "A) Flujo venoso hepático de características retrógradas continuas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El flujo venoso hepático no tiene relación con la vasculatura arterial renal."
+      },
+      {
+        "text": "B) Peak sistólico muy elevado en la arteria principal y pulso Parvus-Tardus intrarrenal",
+        "isCorrect": true,
+        "explanation": "Correcta: La estenosis acelera el flujo en el sitio obstruido. Al entrar al riñón, la onda de pulso llega gastada y lenta (Parvus-Tardus)."
+      },
+      {
+        "text": "C) Ausencia total de visualización de la vena cava inferior abdominal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La vena cava colapsada indica deshidratación extrema, no estenosis arterial focal."
+      },
+      {
+        "text": "D) Uréter ipsilateral severamente dilatado y con ondas de gran amplitud",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Un uréter dilatado indica obstrucción urológica (orina), no un problema de flujo arterial."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Adolescente presenta cefaleas occipitales matutinas, visión borrosa y PA de 180/120. ¿Cuál es el examen clínico de cabecera indispensable para evaluar daño agudo?",
+    "hint": "Permite visualizar en vivo, con un instrumento de bolsillo, el estado de las arterias terminales del cerebro del paciente.",
+    "options": [
+      {
+        "text": "A) Resonancia Magnética cerebral para descartar infarto isquémico agudo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La RM es muy lenta y no está disponible en la urgencia inmediata de cabecera."
+      },
+      {
+        "text": "B) Fondo de Ojo para evaluar microvasculatura y signos de papiledema",
+        "isCorrect": true,
+        "explanation": "Correcta: El fondo de ojo es rápido y mandatario. Signos de retinopatía (hemorragias, exudados o papiledema) confirman daño endotelial severo."
+      },
+      {
+        "text": "C) Electrocardiograma de 12 derivaciones buscando hipertrofia ventricular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El EKG busca daño crónico, pero no evalúa el daño vascular agudo responsable de la visión borrosa actual."
+      },
+      {
+        "text": "D) Radiografía de tórax frontal y lateral para evaluar cardiomegalia",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La placa de tórax es de apoyo, pero la retina es la ventana directa al riesgo de accidente cerebrovascular inminente."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niña de 11 años en estudio por HTA crónica. Al realizar ecocardiograma, ¿qué hallazgo se busca como el signo más precoz de repercusión patológica?",
+    "hint": "Si obligas al músculo a empujar contra una resistencia alta todos los días, aumentará su masa celular para compensar el esfuerzo.",
+    "options": [
+      {
+        "text": "A) Presencia de derrame pericárdico leve o taponamiento subclínico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La HTA crónica no causa inflamación ni derrame en el pericardio."
+      },
+      {
+        "text": "B) Insuficiencia valvular pulmonar y signos de hipertensión pulmonar",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El lado derecho del corazón no se afecta primariamente por la hipertensión arterial sistémica."
+      },
+      {
+        "text": "C) Hipertrofia Ventricular Izquierda (HVI) de características concéntricas",
+        "isCorrect": true,
+        "explanation": "Correcta: El ventrículo izquierdo sufre el embate directo. Su engrosamiento (HVI concéntrica) es el marcador estructural más temprano de daño orgánico."
+      },
+      {
+        "text": "D) Comunicación interventricular muscular pequeña que pasó inadvertida",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Una CIV es una lesión congénita, no una consecuencia del daño por presión arterial crónica."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Además de la Creatinina para evaluar Daño Renal, ¿qué examen en orina es fundamental para buscar daño endotelial glomerular precoz en la HTA?",
+    "hint": "Cuando la presión dentro del glomérulo es demasiado alta, los \"poros\" se estiran y dejan escapar moléculas grandes que normalmente no pasarían.",
+    "options": [
+      {
+        "text": "A) Urocultivo con antibiograma para descartar bacteriuria asintomática",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El urocultivo descarta infección, no mide daño estructural por presión."
+      },
+      {
+        "text": "B) Sedimento manual para la búsqueda microscópica de cilindros hialinos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los cilindros hialinos aparecen con la deshidratación normal, no son marcadores de nefropatía hipertensiva."
+      },
+      {
+        "text": "C) Índice de Proteína/Creatinina en orina (búsqueda de Microalbuminuria)",
+        "isCorrect": true,
+        "explanation": "Correcta: La microalbuminuria es el signo funcional más precoz de que la alta presión está lastimando el endotelio y los podocitos del riñón."
+      },
+      {
+        "text": "D) Examen de orina para detección de cristales de oxalato de calcio",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los cristales de oxalato indican riesgo de cálculos, un problema metabólico distinto."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Usted sospecha Coartación de Aorta en un niño hipertenso. ¿Qué hallazgo buscaría intencionadamente en la Radiografía de Tórax de un adolescente?",
+    "hint": "El cuerpo crea \"caminos alternativos\" dilatando las arterias que pasan por debajo de las costillas para puentear la obstrucción aórtica.",
+    "options": [
+      {
+        "text": "A) Cardiomegalia derecha con hiperflujo pulmonar masivo y redistribución",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La coartación sobrecarga al lado izquierdo, no al derecho."
+      },
+      {
+        "text": "B) Muescas o escotaduras costales en el borde inferior (Signo de Roesler)",
+        "isCorrect": true,
+        "explanation": "Correcta: Las muescas costales se producen por la erosión ósea que causan las arterias intercostales dilatadas al actuar como vías colaterales."
+      },
+      {
+        "text": "C) Neumotórax a tensión secundario a ruptura de bulas enfisematosas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las bulas no tienen relación con malformaciones del arco aórtico."
+      },
+      {
+        "text": "D) Derrame pleural bilateral masivo de predominio basal y cisural",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El derrame pleural indicaría insuficiencia cardíaca descompensada, pero no es un hallazgo estructural dirigido de la coartación."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Lactante evaluado por masa abdominal palpable unilateral, lisa, que NO cruza la línea media. Presenta HTA moderada y hematuria. Diagnóstico más probable:",
+    "hint": "Es el tumor renal maligno más frecuente de la infancia, y su crecimiento local genera isquemia que activa el sistema renina.",
+    "options": [
+      {
+        "text": "A) Tumor de Wilms (Nefroblastoma pediátrico de origen embrionario)",
+        "isCorrect": true,
+        "explanation": "Correcta: El Tumor de Wilms es típicamente una masa en flanco que no cruza la línea media. Causa HTA por isquemia renal local o secreción tumoral de renina."
+      },
+      {
+        "text": "B) Neuroblastoma de las glándulas suprarrenales diseminado",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El neuroblastoma suele cruzar la línea media y es de origen suprarrenal o simpático."
+      },
+      {
+        "text": "C) Riñón poliquístico autosómico recesivo con falla renal terminal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los riñones poliquísticos son masivos pero bilaterales."
+      },
+      {
+        "text": "D) Hidronefrosis congénita severa secundaria a válvulas uretrales",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las valvas uretrales posteriores causan globo vesical e hidronefrosis bilateral."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Al examen físico de un niño hipertenso con Tumor de Wilms, destaca asimetría de extremidades (hemihipertrofia) y macroglosia. ¿Qué síndrome genético presenta?",
+    "hint": "Es un síndrome de sobrecrecimiento corporal que predispone enormemente a desarrollar tumores embrionarios abdominales.",
+    "options": [
+      {
+        "text": "A) Síndrome de Down por trisomía libre del par cromosómico 21",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Down tiene macroglosia relativa (boca pequeña), pero no hemihipertrofia ni asociación primaria al tumor de Wilms."
+      },
+      {
+        "text": "B) Síndrome de Beckwith-Wiedemann por alteración del cromosoma 11p15",
+        "isCorrect": true,
+        "explanation": "Correcta: El Sd. de Beckwith-Wiedemann asocia onfalocele, macroglosia, hemihiperplasia y altísimo riesgo de tumores (Wilms y Hepatoblastoma)."
+      },
+      {
+        "text": "C) Síndrome de Prader-Willi asociado a obesidad mórbida e hipotonía",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Prader-Willi cursa con talla baja, no con hipercrecimiento asimétrico."
+      },
+      {
+        "text": "D) Síndrome de Marfan con compromiso del tejido conectivo y aorta",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Marfan da hábito marfanoide (altos y delgados), no macrosomía masiva ni predisposición a tumores renales."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Adolescente con HTA severa y diaforesis. Se sospecha Feocromocitoma. ¿Qué examen de laboratorio es de primera elección para confirmar bioquímicamente este tumor?",
+    "hint": "Se deben buscar los metabolitos de degradación directa y constante de la adrenalina secretada por el tumor.",
+    "options": [
+      {
+        "text": "A) Niveles de Ácido vanilmandélico (VMA) en muestra aislada de orina",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El VMA era el estándar antiguo, pero tiene muchos falsos positivos (interacción con dietas) y menor sensibilidad."
+      },
+      {
+        "text": "B) Metanefrinas libres en plasma o metanefrinas fraccionadas en orina 24h",
+        "isCorrect": true,
+        "explanation": "Correcta: Las metanefrinas son el test más sensible y recomendado actualmente para tumores secretores de catecolaminas."
+      },
+      {
+        "text": "C) Niveles séricos de cortisol matutino y test de supresión con dexametasona",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El cortisol evalúa el Síndrome de Cushing, no el Feocromocitoma."
+      },
+      {
+        "text": "D) Niveles de Aldosterona plasmática y actividad de renina periférica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Estudia el hiperaldosteronismo primario, que cursa con HTA pero sin los bochornos y diaforesis del feocromocitoma."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Lactante a urgencias con parálisis facial aislada (Parálisis de Bell de rama periférica). Además del examen neurológico, ¿qué parámetro vital DEBE medirse para descartar una urgencia grave?",
+    "hint": "En niños muy pequeños, la isquemia de un nervio craneal puede ser el único aviso visible de que los vasos del cráneo sufren un espasmo vascular severo.",
+    "options": [
+      {
+        "text": "A) Frecuencia respiratoria por minuto contando un minuto completo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La respiración no tiene correlato diagnóstico directo con una monoparesia facial."
+      },
+      {
+        "text": "B) Presión Arterial en extremidades utilizando un manguito adecuado",
+        "isCorrect": true,
+        "explanation": "Correcta: La parálisis del nervio facial en lactantes puede ser la manifestación inusual de una HTA maligna (isquemia vasonervorum). Tomar la PA es vital."
+      },
+      {
+        "text": "C) Saturación de oxígeno de la sangre capilar al respirar aire ambiente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipoxia sistémica causaría letargia global, no una parálisis focalizada aguda en la cara."
+      },
+      {
+        "text": "D) Temperatura rectal central para evaluar fiebre subyacente focalizada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La fiebre apuntaría a meningitis generalizada, pero no descarta el riesgo de una HTA ignorada."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Paciente de 12 años con obesidad e HTA primaria Etapa 1 asintomática. Sin daño de órgano blanco. Según las guías, ¿cuál es el abordaje inicial de elección?",
+    "hint": "La medicación no es la primera línea si no hay síntomas graves ni daño orgánico establecido.",
+    "options": [
+      {
+        "text": "A) Iniciar Captopril o Enalapril inmediatamente en dosis plenas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los IECAs son excelentes, pero se reservan si el estilo de vida falla tras 6 meses o si hay Etapa 2."
+      },
+      {
+        "text": "B) Diuréticos tiazídicos como monoterapia de mantención crónica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las tiazidas empeoran el perfil lipídico e insulínico del paciente obeso."
+      },
+      {
+        "text": "C) Modificaciones del estilo de vida (dieta y ejercicio) por 3 a 6 meses",
+        "isCorrect": true,
+        "explanation": "Correcta: En HTA Etapa 1 sin daño a órgano blanco, el tratamiento inicial SIEMPRE son las medidas no farmacológicas antes de prescribir pastillas."
+      },
+      {
+        "text": "D) Iniciar Betabloqueadores no selectivos de forma preventiva urgente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los betabloqueadores también empeoran la resistencia a la insulina, no son de primera línea en obesidad."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Adolescente obeso con HTA primaria. Al indicarle tratamiento dietético, ¿en qué consiste fundamentalmente la dieta DASH (Dietary Approaches to Stop Hypertension)?",
+    "hint": "Prioriza el aporte de potasio y magnesio naturales, y recorta drásticamente el elemento que retiene agua en el cuerpo.",
+    "options": [
+      {
+        "text": "A) Dieta hiperproteica extrema tipo Keto con eliminación total de verduras",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La dieta Keto promueve carnes rojas y sal, contraproducentes en HTA."
+      },
+      {
+        "text": "B) Alta en frutas, verduras, lácteos descremados y restricción estricta de Sodio",
+        "isCorrect": true,
+        "explanation": "Correcta: La dieta DASH enfatiza un alto consumo de potasio natural (vegetales, frutas) y limita severamente las grasas saturadas y el Sodio."
+      },
+      {
+        "text": "C) Ayuno intermitente prolongado de modalidad 16/8 de forma exclusiva",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El ayuno no modifica la calidad de los electrolitos ingeridos."
+      },
+      {
+        "text": "D) Dieta basada únicamente en la suplementación farmacológica de Calcio",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los suplementos aislados no reemplazan el patrón dietético global protector."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño de 8 años con HTA Renovascular secundaria a Estenosis BILATERAL de arterias renales. ¿Qué familia de antihipertensivos está CONTRAINDICADA de forma absoluta?",
+    "hint": "Este fármaco inhibe el mecanismo de salvataje que usa el riñón (vasoconstricción eferente) para mantener el filtrado cuando hay poca sangre entrando.",
+    "options": [
+      {
+        "text": "A) Bloqueadores de los canales de calcio periféricos (Amlodipino)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El amlodipino es seguro y eficaz en HTA renovascular."
+      },
+      {
+        "text": "B) Diuréticos tiazídicos de acción tubular distal (Hidroclorotiazida)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las tiazidas pueden usarse con precaución, no están contraindicadas absolutamente."
+      },
+      {
+        "text": "C) Inhibidores de la Enzima Convertidora de Angiotensina (IECAs)",
+        "isCorrect": true,
+        "explanation": "Correcta: En estenosis bilateral, el riñón depende de la Angiotensina II para mantener la presión de filtrado. Dar un IECA relaja la arteriola eferente y precipita una Falla Renal Aguda anúrica."
+      },
+      {
+        "text": "D) Betabloqueadores cardioselectivos (Atenolol o Bisoprolol)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Bajan la presión pero no alteran selectivamente la hemodinamia intraglomerular como los IECA."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Paciente de 9 años con asma bronquial severa crónica presenta HTA confirmada. ¿Qué fármaco antihipertensivo debe EVITARSE estrictamente para no desencadenar una crisis asmática?",
+    "hint": "Cuidado con bloquear los receptores que mantienen relajado el músculo liso de los bronquios.",
+    "options": [
+      {
+        "text": "A) Amlodipino u otros bloqueadores de canales de calcio",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El amlodipino es seguro y no interactúa con la vía aérea."
+      },
+      {
+        "text": "B) Losartán o cualquier antagonista del receptor de angiotensina",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El losartán no causa tos ni broncoespasmo (a diferencia de algunos IECA que dan tos, pero no crisis asmática per se)."
+      },
+      {
+        "text": "C) Hidroclorotiazida o diuréticos de acción moderada prolongada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los diuréticos no tienen efectos nocivos sobre el músculo liso bronquial."
+      },
+      {
+        "text": "D) Betabloqueadores no selectivos como el Propranolol clásico",
+        "isCorrect": true,
+        "explanation": "Correcta: Los betabloqueadores no selectivos inhiben los receptores Beta-2 pulmonares, causando broncoespasmo letal en asmáticos."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Paciente diagnosticado con Feocromocitoma. Antes de la extirpación quirúrgica, se debe realizar preparación farmacológica para evitar crisis peroperatorias. ¿Qué tipo de bloqueo se instaura PRIMERO?",
+    "hint": "Si bloqueas primero el receptor \"relajante\" (beta-2), dejas los receptores \"vasoconstrictores\" (alfa-1) sin oposición, lo que dispara la presión arterial.",
+    "options": [
+      {
+        "text": "A) Bloqueo de receptores Beta-adrenérgicos (ej. Propranolol profiláctico)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Dar propranolol como primer fármaco es un error que puede costar la vida del paciente."
+      },
+      {
+        "text": "B) Bloqueo de receptores Alfa-adrenérgicos (ej. Doxazosina o Prazosina)",
+        "isCorrect": true,
+        "explanation": "Correcta: Regla de Oro: Siempre se bloquean primero los receptores Alfa para vasodilatar. Si se da un betabloqueador primero, la vasoconstricción alfa queda \"sin oposición\", causando crisis fatales."
+      },
+      {
+        "text": "C) Bloqueo masivo de los canales de calcio a nivel del músculo liso",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los calcioantagonistas pueden usarse como coadyuvantes, pero no sustituyen el bloqueo alfa imperativo."
+      },
+      {
+        "text": "D) Inhibición completa de la enzima convertidora de angiotensina circulante",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El problema es el exceso de catecolaminas, no de renina-angiotensina."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño con crisis hipertensiva tipo EMERGENCIA (convulsiones). Se decide usar Labetalol endovenoso. Su mecanismo de acción es útil y seguro porque:",
+    "hint": "Tiene un \"doble efecto\" protector: abre los vasos sanguíneos y, al mismo tiempo, le pone un freno al corazón.",
+    "options": [
+      {
+        "text": "A) Es un vasodilatador arterial directo puro de altísima potencia sistémica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los vasodilatadores puros (como hidralazina) causan taquicardias reflejas muy perjudiciales."
+      },
+      {
+        "text": "B) Es un antagonista Alfa y Beta combinado, bajando resistencia sin taquicardia",
+        "isCorrect": true,
+        "explanation": "Correcta: El Labetalol bloquea alfa-1 (causando vasodilatación) y bloquea beta de forma no selectiva (previniendo la taquicardia refleja propia de la bajada de presión)."
+      },
+      {
+        "text": "C) Inhibe competitivamente la enzima convertidora de angiotensina I a II",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Ese es el mecanismo del Enalaprilato IV, no del labetalol."
+      },
+      {
+        "text": "D) Actúa bloqueando selectivamente los canales de calcio a nivel cerebral",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Ese sería el rol de medicamentos como la nimodipina, no del labetalol."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño de 12 años con crisis hipertensiva (200/130 mmHg) presenta compromiso de conciencia, convulsiones y vómitos explosivos. ¿Diagnóstico clínico más preciso?",
+    "hint": "La presión altísima ha vencido la autorregulación cerebral, permitiendo que el agua inunde el tejido neurológico.",
+    "options": [
+      {
+        "text": "A) Meningitis aguda bacteriana con hipertensión endocraneana secundaria",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La meningitis cursa con fiebre y rigidez de nuca, y no explica como causa primaria una HTA de 200/130 sostenida."
+      },
+      {
+        "text": "B) Encefalopatía hipertensiva configurando una Emergencia Hipertensiva",
+        "isCorrect": true,
+        "explanation": "Correcta: La HTA severa + daño neurológico agudo (convulsión/coma) define la emergencia hipertensiva tipo encefalopatía."
+      },
+      {
+        "text": "C) Urgencia hipertensiva aguda sin daño inminente letal de órgano blanco",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es \"Emergencia\" y no \"Urgencia\" porque hay evidencia de daño orgánico agudo en curso (las convulsiones)."
+      },
+      {
+        "text": "D) Epilepsia mioclónica juvenil descompensada por gran estrés cardiovascular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La epilepsia per se no genera una presión base de 200 mmHg; aquí la HTA es la causa primaria del cuadro neurológico."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Ingresa a UCI un niño con Encefalopatía Hipertensiva. ¿Cuál es la indicación fisiológica respecto a la VELOCIDAD de descenso de su PA?",
+    "hint": "Bajar la presión de golpe dejará sin riego sanguíneo a un cerebro que se había adaptado a trabajar con presiones altísimas.",
+    "options": [
+      {
+        "text": "A) Descender bruscamente a valores normales en la primera hora de ingreso",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Normalizar de inmediato causa daño isquémico fulminante."
+      },
+      {
+        "text": "B) Bajar máximo un 25% del valor inicial lentamente en las primeras 8 horas",
+        "isCorrect": true,
+        "explanation": "Correcta: Se exige un descenso progresivo y controlado para no provocar un infarto cerebral isquémico yatrogénico por hipoperfusión."
+      },
+      {
+        "text": "C) Administrar medicamentos sublinguales para un cese súbito y definitivo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La vía sublingual (Nifedipino) no permite controlar la profundidad de la caída de PA y está proscrita."
+      },
+      {
+        "text": "D) Mantener la PA permanentemente elevada y solo tratar las convulsiones",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Si no se baja la presión, el edema vasogénico seguirá destruyendo el cerebro."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Si durante una emergencia se decide infundir Nitroprusiato de Sodio, se debe vigilar a las 48 hrs la aparición de una intoxicación por su metabolito de desecho. ¿Cuál es?",
+    "hint": "Este metabolito tóxico bloquea la respiración celular mitocondrial, \"asfixiando\" los tejidos desde adentro.",
+    "options": [
+      {
+        "text": "A) Intoxicación crónica por acúmulo excesivo de iones Litio",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El litio es un fármaco psiquiátrico, no un desecho metabólico."
+      },
+      {
+        "text": "B) Síndrome de acumulación tóxica por metahemoglobina inactiva",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La metahemoglobinemia es un efecto muy raro, el riesgo letal principal y vigilado es ciánico."
+      },
+      {
+        "text": "C) Toxicidad grave por iones de Cianuro y Tiocianato plasmáticos",
+        "isCorrect": true,
+        "explanation": "Correcta: El nitroprusiato se metaboliza formando cianuro y tiocianato, que pueden acumularse letalmente si se usa mucho tiempo o hay falla renal."
+      },
+      {
+        "text": "D) Intoxicación y acidosis profunda por exceso de fluoruro",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El flúor no forma parte de la estructura química del fármaco."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "El levantamiento de pesas pesadas (esfuerzo de resistencia isométrica pura) con maniobra de Valsalva está contraindicado en adolescentes hipertensos. ¿Cuál es la razón principal?",
+    "hint": "Apretar el tórax sin mover las articulaciones simula una pinza mecánica masiva sobre el corazón y todo el sistema vascular.",
+    "options": [
+      {
+        "text": "A) Reduce drásticamente la PA generando un grave riesgo de isquemia coronaria",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Durante el esfuerzo el efecto es hipertensivo extremo, no hipotensor."
+      },
+      {
+        "text": "B) Provoca alzas bruscas extremas de la PA por aumento de resistencia intratorácica",
+        "isCorrect": true,
+        "explanation": "Correcta: La contracción isométrica máxima y la maniobra de Valsalva disparan la presión sistólica y diastólica a valores altísimos y peligrosos."
+      },
+      {
+        "text": "C) Carece de impacto vascular real, pero sobrecarga inútilmente las articulaciones",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es la actividad deportiva con mayor impacto y estrés de pared sobre el endotelio."
+      },
+      {
+        "text": "D) Modifica exclusivamente el ritmo de la frecuencia cardíaca predisponiendo a bloqueos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El problema primario es mecánico (presión desmedida), no un bloqueo de conducción eléctrica."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Adolescente con HTA esencial tratada con Enalapril (IECA). En un control rutinario, ¿qué alteración electrolítica debe monitorizarse, por ser un efecto adverso clásico?",
+    "hint": "Este fármaco inhibe la producción final de la hormona responsable de \"botar\" potasio hacia la orina.",
+    "options": [
+      {
+        "text": "A) Hipernatremia por sobreestimulación de la hormona antidiurética",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El enalapril facilita la excreción de sodio, no su retención masiva."
+      },
+      {
+        "text": "B) Hipokalemia secundaria al aumento del intercambio tubular distal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipokalemia es el efecto de los diuréticos de asa o tiazidas, pero el IECA hace lo opuesto."
+      },
+      {
+        "text": "C) Hiperkalemia debido al bloqueo de la acción de la aldosterona",
+        "isCorrect": true,
+        "explanation": "Correcta: Los IECAs bajan la Angiotensina II y la Aldosterona. Sin aldosterona, el riñón retiene Potasio, causando hiperkalemia."
+      },
+      {
+        "text": "D) Hipocalcemia por alteración de la reabsorción en el túbulo proximal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El metabolismo del calcio no se ve alterado primariamente por la inhibición de la ECA."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niña tratada por HTA con Amlodipino (bloqueador de canales de calcio dihidropiridínico). Acude molesta por un efecto adverso muy frecuente de este fármaco, el cual es:",
+    "hint": "Al dilatar fuertemente las arteriolas que llegan a los capilares de las piernas, se \"filtra\" líquido hacia el espacio intersticial.",
+    "options": [
+      {
+        "text": "A) Tos seca nocturna persistente que impide conciliar el sueño",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La tos seca es el efecto adverso característico de los IECAs, no de los calcioantagonistas."
+      },
+      {
+        "text": "B) Edema de extremidades inferiores (hinchazón bilateral de tobillos)",
+        "isCorrect": true,
+        "explanation": "Correcta: El edema maleolar periférico es un efecto adverso clásico y dosis-dependiente del amlodipino por vasodilatación precapilar."
+      },
+      {
+        "text": "C) Caída abundante del cabello y formación de placas alopécicas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No se asocia a alopecia en la práctica clínica pediátrica."
+      },
+      {
+        "text": "D) Hipertricosis severa con engrosamiento del vello facial",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipertricosis es el efecto adverso de otro vasodilatador potente, el Minoxidil."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño de 7 años presenta de inicio agudo: edema facial, hematuria macroscópica (color té) e HTA moderada. Antecedente de piodermia hace 3 semanas. ¿Cuál es el diagnóstico sindromático?",
+    "hint": "La clásica tríada de Edema, Hematuria e HTA en un niño tras una infección de piel o faringe por S. pyogenes.",
+    "options": [
+      {
+        "text": "A) Síndrome Nefrótico asociado a Enfermedad de Cambios Mínimos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Nefrótico puro cursa con proteinuria masiva, pero NO suele tener hematuria franca ni HTA, y los riñones no están inflamados por infección."
+      },
+      {
+        "text": "B) Síndrome Nefrítico por Glomerulonefritis Postestreptocócica (GNAPE)",
+        "isCorrect": true,
+        "explanation": "Correcta: La inflamación del glomérulo retiene agua y sal (edema/HTA) y deja escapar glóbulos rojos (hematuria)."
+      },
+      {
+        "text": "C) Síndrome Hemolítico Urémico por infección de E. coli enterohemorrágica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El SHU requiere antecedente de diarrea sanguinolenta, y cursa con anemia microangiopática y trombocitopenia."
+      },
+      {
+        "text": "D) Falla Renal Aguda Prerrenal secundaria a deshidratación severa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La deshidratación no causa edema facial ni hematuria macroscópica, sino mucosas secas y oliguria pura."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "En el paciente del caso anterior (Síndrome Nefrítico Agudo con HTA sintomática por retención hidrosalina), ¿cuál es el tratamiento de primera línea para el control de la presión?",
+    "hint": "El problema de fondo es que los \"estanques\" del cuerpo están llenos de agua por culpa de un glomérulo tapado. Hay que vaciarlos.",
+    "options": [
+      {
+        "text": "A) Vasodilatadores directos orales como el Minoxidil de forma urgente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los vasodilatadores no atacan la causa (la sobrecarga hídrica) y pueden causar retención refleja de más agua."
+      },
+      {
+        "text": "B) Diuréticos de asa endovenosos como la Furosemida para forzar diuresis",
+        "isCorrect": true,
+        "explanation": "Correcta: La HTA de la GNAPE es netamente volumen-dependiente. La Furosemida rompe el ciclo forzando al riñón a botar el exceso de agua y sal."
+      },
+      {
+        "text": "C) Betabloqueadores cardioselectivos para disminuir el gasto cardíaco inicial",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El corazón está sano, frenarlo no mejorará la excreción del exceso de líquido."
+      },
+      {
+        "text": "D) Inhibidores de la ECA para evitar el remodelado estructural del ventrículo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los IECA son ineficaces porque la renina suele estar fisiológicamente baja (suprimida por el exceso de volumen corporal)."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Lactante con diarrea disentérica. Evoluciona con palidez severa, oliguria, petequias e HTA severa. Laboratorio: anemia hemolítica microangiopática, trombocitopenia y creatinina elevada. Diagnóstico:",
+    "hint": "La temida complicación de la toxina Shiga producida por E. coli, que destruye los glóbulos rojos como si pasaran por una ralladora de queso.",
+    "options": [
+      {
+        "text": "A) Púrpura Trombocitopénico Idiopático (PTI) de presentación aguda atípica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El PTI destruye plaquetas pero NO causa falla renal, HTA ni anemia hemolítica por fragmentación."
+      },
+      {
+        "text": "B) Síndrome Hemolítico Urémico (SHU) secundario a daño endotelial por toxinas",
+        "isCorrect": true,
+        "explanation": "Correcta: El SHU daña los capilares glomerulares causando AKI, y los trombos plaquetarios consumen plaquetas y fragmentan eritrocitos (esquistocitos)."
+      },
+      {
+        "text": "C) Glomerulonefritis rápidamente progresiva de origen autoinmune idiopático",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Da falla renal rápida, pero no se asocia al pródromo de diarrea infecciosa sanguinolenta."
+      },
+      {
+        "text": "D) Vasculitis de Schönlein-Henoch con compromiso focal parenquimatoso renal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Se presenta con púrpura palpable en glúteos y dolor articular, pero la anemia hemolítica no es parte de su espectro."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño de 3 años, presenta dolor abdominal paroxístico, lesiones purpúricas palpables en extremidades inferiores, y artralgias. En orina hay hematuria y presenta HTA. Diagnóstico más probable:",
+    "hint": "La tétrada clásica incluye piel (glúteos/piernas), articulaciones, tracto GI y riñón, todo mediado por depósitos de una inmunoglobulina específica.",
+    "options": [
+      {
+        "text": "A) Púrpura Trombocitopénica Inmune secundaria a primoinfección viral",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El PTI tiene recuento plaquetario bajo pero no da dolor abdominal ni inflamación articular (vasculitis)."
+      },
+      {
+        "text": "B) Vasculitis de Schönlein-Henoch (Púrpura de IgA) con compromiso renal",
+        "isCorrect": true,
+        "explanation": "Correcta: La nefritis purpúrica por depósitos de IgA puede causar hematuria, proteinuria y a veces HTA o falla renal, acompañando el cuadro sistémico clásico."
+      },
+      {
+        "text": "C) Enfermedad de Kawasaki en fase aguda con compromiso de pequeños vasos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Kawasaki da fiebre prolongada, exantema difuso, conjuntivitis y descamación, pero rara vez nefritis con HTA focalizada."
+      },
+      {
+        "text": "D) Leucemia Aguda de estirpe linfoide debutando con infiltración medular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Una leucemia daría pancitopenia general, adenopatías masivas y palidez profunda, cuadro diferente a esta vasculitis."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Adolescente de 16 años con debilidad muscular extrema e HTA severa (160/100). Laboratorio: Na+ 145, K+ 2.1 (Hipokalemia). Renina plasmática BAJA y Aldosterona ALTA. Diagnóstico de sospecha:",
+    "hint": "La glándula suprarrenal se ha vuelto autónoma y produce la hormona retenedora de sal sin obedecer las órdenes de la Renina (la cual se apaga para intentar detener el proceso).",
+    "options": [
+      {
+        "text": "A) Feocromocitoma con liberación masiva de noradrenalina y adrenalina",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Feocromocitoma no altera drásticamente el potasio ni la aldosterona, su clínica es adrenérgica pura."
+      },
+      {
+        "text": "B) Hiperaldosteronismo primario (Síndrome de Conn) por adenoma o hiperplasia",
+        "isCorrect": true,
+        "explanation": "Correcta: El adenoma produce Aldosterona sin freno. Esta retiene Na (sube la PA) y bota K (da debilidad). El cuerpo censa la PA alta y apaga la Renina."
+      },
+      {
+        "text": "C) Estenosis de la arteria renal con activación secundaria del sistema SRAA",
+        "isCorrect": false,
+        "explanation": "Incorrecta: En la estenosis de arteria renal, la Renina estaría ALTÍSIMA por la isquemia inicial, siendo esto un Hiperaldosteronismo Secundario."
+      },
+      {
+        "text": "D) Insuficiencia Suprarrenal primaria (Addison) con destrucción autoinmune",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Addison es la falta de hormonas; causaría HIPOTENSIÓN extrema, pérdida de sodio y Potasio alto."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Paciente pediátrico con diagnóstico de Hiperaldosteronismo. ¿Cuál es el tratamiento médico de elección, que actúa como antagonista directo de los receptores de esta hormona?",
+    "hint": "Es un diurético \"ahorrador de potasio\" que compite por la silla donde se sienta la hormona a nivel del túbulo distal del riñón.",
+    "options": [
+      {
+        "text": "A) Furosemida (Diurético potente de asa de Henle)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La furosemida haría botar aún más potasio, agravando la debilidad muscular."
+      },
+      {
+        "text": "B) Espironolactona (Diurético bloqueador mineralocorticoide)",
+        "isCorrect": true,
+        "explanation": "Correcta: La espironolactona bloquea específicamente el receptor de aldosterona, impidiendo la retención de Na y cortando la pérdida de K en la orina."
+      },
+      {
+        "text": "C) Enalapril (Inhibidor de la enzima convertidora de angiotensina)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El problema es que la glándula es autónoma; bloquear la angiotensina II no apagará un adenoma que funciona por su cuenta."
+      },
+      {
+        "text": "D) Propranolol (Betabloqueador inespecífico sistémico)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los betabloqueadores no tienen rol directo en el metabolismo tubular renal del potasio o del sodio."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Falla Renal Aguda (AKI) pediátrica. ¿Qué parámetro de laboratorio se utiliza hoy en las guías KDIGO o pRIFLE para estadificar de forma estandarizada el grado de severidad?",
+    "hint": "Dos factores marcan el grado de falla: qué tan incapaz es el riñón de limpiar la sangre y qué cantidad de orina logra fabricar por hora.",
+    "options": [
+      {
+        "text": "A) El nivel absoluto de Potasio sérico y la presencia de arritmias asociadas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hiperkalemia es una complicación mortal, pero no se usa para clasificar las \"etapas\" I, II o III del pRIFLE."
+      },
+      {
+        "text": "B) La elevación de la Creatinina plasmática basal y/o disminución de la Diuresis",
+        "isCorrect": true,
+        "explanation": "Correcta: La clasificación se basa estrictamente en la multiplicación de la creatinina basal y en la duración/severidad de la oliguria (<0.5 ml/kg/hr)."
+      },
+      {
+        "text": "C) La cantidad de Glóbulos rojos contados por campo en el sedimento urinario",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hematuria indica inflamación (GNAPE), pero no estadifica cuánta función purificadora se ha perdido."
+      },
+      {
+        "text": "D) El aumento del recuento de leucocitos sistémicos y los niveles de PCR",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Son marcadores de infección o inflamación global, no determinan la tasa de filtrado glomerular."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño hospitalizado evoluciona con oliguria. ¿Qué fórmula pediátrica es la más utilizada clínicamente para estimar rápidamente la Tasa de Filtración Glomerular (VFG) al lado de la cama?",
+    "hint": "Multiplica una constante estándar por la Talla del paciente en centímetros, y divide el resultado por la Creatinina plasmática actual.",
+    "options": [
+      {
+        "text": "A) Fórmula original de Cockcroft-Gault basada en peso",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Diseñada para adultos, asume una masa muscular que los niños no tienen estandarizada."
+      },
+      {
+        "text": "B) Ecuación matemática de Schwartz modificada (0.413)",
+        "isCorrect": true,
+        "explanation": "Correcta: Schwartz es el Gold Standard en pediatría (0.413 x Talla / Creatinina). Integra el crecimiento infantil en la ecuación."
+      },
+      {
+        "text": "C) Ecuación MDRD-4 utilizada en pacientes adultos crónicos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Exclusiva para adultos con enfermedad renal crónica (ERC), subestima o sobreestima groseramente en niños."
+      },
+      {
+        "text": "D) Ecuación CKD-EPI de uso universal poblacional estricto",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es la mejor fórmula para el adulto promedio hoy, pero no está validada para el uso pediátrico rutinario sin ajustes de cistatina."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "En niños con Enfermedad Renal Crónica y proteinuria (ej. Sd. Nefrótico resistente), se recomienda un tratamiento agresivo de la HTA porque la presión sostenida a nivel del glomérulo:",
+    "hint": "El diminuto filtro del glomérulo no soporta físicamente el azote continuo de presiones altas; sus paredes se endurecen y cicatrizan, dejando de filtrar.",
+    "options": [
+      {
+        "text": "A) Provoca la hipertrofia obstructiva de la vía urinaria baja a largo plazo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La vía urinaria baja (vejiga/uretra) no se afecta por la presión arterial sistémica vascular."
+      },
+      {
+        "text": "B) Daña la papila óptica exclusivamente sin afectar otros órganos del cuerpo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La HTA crónica afecta retina, corazón, cerebro y riñón; decir que daña \"exclusivamente\" la papila es un error conceptual inmenso."
+      },
+      {
+        "text": "C) Causa hiperfiltración, esclerosis glomerular y acelera la pérdida del riñón",
+        "isCorrect": true,
+        "explanation": "Correcta: La hipertensión intraglomerular estira los podocitos y causa glomeruloesclerosis. Bajar la PA (con IECAs) salva nefronas y retrasa la necesidad de diálisis."
+      },
+      {
+        "text": "D) Evita de forma paradójica la formación de cálculos renales cálcicos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La presión arterial no protege de los cálculos; las tiazidas (diuréticos) pueden retener calcio, pero el efecto físico presor per se no lo hace."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño cursando GN aguda con AKI. Se solicitan índices urinarios. El Índice de Excreción Fraccional de Sodio (FeNa) resulta en un 2.5%. Este valor elevado indica:",
+    "hint": "Si el riñón funcionara bien y solo le faltara agua al cuerpo, reabsorbería todo el sodio posible, dejando casi nada de sodio en la orina.",
+    "options": [
+      {
+        "text": "A) Falla renal aguda PRERRENAL debido a una deshidratación severa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: En la falla prerrenal, el túbulo está sano y reabsorbe ávidamente el Na para salvar el volumen corporal (FeNa < 1%)."
+      },
+      {
+        "text": "B) Falla renal aguda INTRÍNSECA por daño tubular o inflamación glomerular",
+        "isCorrect": true,
+        "explanation": "Correcta: Un FeNa > 2% indica que las células del túbulo están dañadas (ej. Necrosis Tubular Aguda) y son incapaces de reabsorber el sodio filtrado hacia la sangre."
+      },
+      {
+        "text": "C) Falla renal aguda POSTRENAL por obstrucción ureteral litiásica bilateral",
+        "isCorrect": false,
+        "explanation": "Incorrecta: En la obstrucción postrenal aguda los índices son variables y poco confiables, el diagnóstico es con ecografía."
+      },
+      {
+        "text": "D) Función renal de depuración y reabsorción completamente normales",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Un paciente en AKI oligúrica por definición no tiene una función tubular normalizada."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Lactante cursa deshidratación severa por gastroenteritis (AKI prerrenal). Al examen, oliguria, mucosas secas, taquicardia. PA baja. ¿Cuál es el tratamiento inmediato para evitar el daño isquémico renal?",
+    "hint": "El riñón \"pide a gritos\" agua y sal. La tubería está intacta, pero el estanque central está vacío por la diarrea.",
+    "options": [
+      {
+        "text": "A) Administrar diuréticos potentes como Furosemida para forzar la diuresis",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Dar diuréticos a un paciente deshidratado \"estrujaría\" aún más el volumen intravascular, matando al riñón definitivamente."
+      },
+      {
+        "text": "B) Instalar un acceso venoso para diálisis de urgencia hemofiltrativa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es una falla funcional reversible. La diálisis se reserva para falla intrínseca anúrica con hiperkalemia o edema pulmonar refractarios."
+      },
+      {
+        "text": "C) Expansión de volumen rápida con cristaloides (Bolo Suero Fisiológico)",
+        "isCorrect": true,
+        "explanation": "Correcta: La falla prerrenal se revierte inmediatamente restaurando la perfusión del órgano. El bolo de volumen alivia la isquemia pre-glomerular en minutos."
+      },
+      {
+        "text": "D) Iniciar fármacos inotrópicos intravenosos como la Dopamina a dosis renal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La famosa \"dosis renal\" de dopamina está proscrita y no ha demostrado beneficio en salvar el riñón; la clave es el líquido."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño de 8 años con Síndrome Nefrótico a Cambios Mínimos (edema, proteinuria masiva e hipoalbuminemia). A diferencia del Síndrome Nefrítico, su Presión Arterial típicamente se encuentra:",
+    "hint": "Como se pierden las proteínas por la orina, el agua de la sangre se escapa de los vasos hacia la piel, dejando las venas y arterias casi vacías.",
+    "options": [
+      {
+        "text": "A) Severamente elevada configurando una Emergencia Hipertensiva constante",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es la marca del Sd. Nefrítico (que retiene agua dentro del vaso). El Nefrótico puro tiende a la hipotensión pre-shock."
+      },
+      {
+        "text": "B) Totalmente abolida y ausente al examen físico periférico digital",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La PA nunca está \"ausente\" en un paciente vivo, aunque los pulsos puedan estar muy débiles por la hipovolemia relativa."
+      },
+      {
+        "text": "C) Normal o baja, pudiendo existir shock por contracción del volumen vascular",
+        "isCorrect": true,
+        "explanation": "Correcta: La hipoalbuminemia destruye la presión oncótica. El líquido fuga al intersticio (edema), colapsando el volumen intravascular circulante (hipotensión con taquicardia)."
+      },
+      {
+        "text": "D) Elevada pero de predominio exclusivamente diastólico en la auscultación",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La pérdida de volumen arterial no genera elevaciones aisladas y mantenidas de la diástole."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "El tratamiento con diuréticos tiazídicos (ej. Hidroclorotiazida) es útil, pero el médico debe vigilar sus efectos metabólicos adversos. Uno de los perfiles clásicos de las tiazidas es causar:",
+    "hint": "Tienen un efecto en los transportadores del túbulo distal que alteran la resistencia a la insulina y favorecen el desarrollo de ataques de \"gota\".",
+    "options": [
+      {
+        "text": "A) Hipouricemia profunda, hiperkalemia y bradicardia de nodo sinusal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Causan lo opuesto: suben el ácido úrico y bajan el potasio."
+      },
+      {
+        "text": "B) Hipocalcemia aguda severa con riesgo de tetania e hipoglicemias",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Retienen calcio (hipercalcemia leve, útil en pacientes formadores de cálculos), no causan hipocalcemia."
+      },
+      {
+        "text": "C) Hiperglucemia reactiva, Hiperuricemia patológica e Hipokalemia",
+        "isCorrect": true,
+        "explanation": "Correcta: Las tiazidas botan Na+ y K+ (hipokalemia), pero retienen Calcio, Ácido Úrico (hiperuricemia) y empeoran el manejo de la glucosa (hiperglicemia)."
+      },
+      {
+        "text": "D) Hipernatremia extrema secundaria al bloqueo del asa descendente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Su función principal es botar sodio (efecto natriurético moderado), no retenerlo a niveles de hipernatremia."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño previamente sano. Tras usar antibióticos (Cefalosporinas o AINEs) presenta de forma aguda falla renal, rash maculopapular alérgico cutáneo y eosinofilia en sangre. Diagnóstico más probable de la AKI:",
+    "hint": "Es una reacción inflamatoria del tejido conectivo de soporte del riñón, un cuadro mediado por alergia a medicamentos que \"inunda\" el órgano de eosinófilos.",
+    "options": [
+      {
+        "text": "A) Necrosis Papilar secundaria a daño isquémico y analgésicos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Típica del abuso crónico de fenacetina o episodios de deshidratación extrema en portadores de anemia falciforme (Sickle cell)."
+      },
+      {
+        "text": "B) Nefritis Intersticial Aguda de origen inmunoalérgico al fármaco",
+        "isCorrect": true,
+        "explanation": "Correcta: La triada clínica de alergia (falla renal intrínseca + fiebre/rash + eosinofilia urinaria/sanguínea) tras uso de fármacos sella el diagnóstico de NIA. Requiere suspender el agente urgente."
+      },
+      {
+        "text": "C) Enfermedad Quística Medular asintomática hasta la adolescencia",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Condición genética que no se desencadena agudamente como una reacción alérgica a los 3 días de tomar antibióticos."
+      },
+      {
+        "text": "D) Pielonefritis aguda bacteriana complicada con sepsis generalizada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Causaría fiebre altísima, puñopercusión positiva y piuria, pero no eosinofilia sistémica ni rash alérgico clásico."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "En el manejo ambulatorio de un paciente con HTA e hipertrofia ventricular izquierda severa confirmada en eco. ¿Qué fármaco tiene mayor evidencia médica en lograr la REVERSIÓN directa del tejido hipertrófico?",
+    "hint": "Al bloquear la Angiotensina II, no solo se abre el vaso sanguíneo, sino que se bloquea un potente factor de \"crecimiento y cicatrización\" que engrosa directamente al músculo cardíaco.",
+    "options": [
+      {
+        "text": "A) Diurético tiazídico a dosis plenas de prescripción matutina",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Controlan la PA y ayudan, pero no tienen el efecto modulador tisular directo de los IECA sobre la pared del corazón."
+      },
+      {
+        "text": "B) Inhibidores de la ECA (Enalapril / Lisinopril) de uso diario",
+        "isCorrect": true,
+        "explanation": "Correcta: Los IECAs y ARA-II han demostrado superioridad clínica frente a otros fármacos para inducir regresión de la masa ventricular izquierda hipertrófica, mejorando la mortalidad a futuro."
+      },
+      {
+        "text": "C) Vasodilatadores de acción potente local como el Minoxidil",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Abren el vaso abruptamente, generando taquicardia refleja, la cual a largo plazo puede agravar la hipertrofia o inducir isquemia."
+      },
+      {
+        "text": "D) Uso de diuréticos de asa (Furosemida) como mantención estricta",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La furosemida es para sobrecarga aguda de líquido, su uso crónico sin indicación estricta genera daño renal y desequilibrio electrolítico masivo."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niña de 3 años cursa Enfermedad de Kawasaki aguda (fiebre, inyección conjuntival, fisura de labios). A las semanas, en un ecocardiograma, se evidencian grandes aneurismas coronarios. ¿Qué complicación puede desarrollar secundariamente?",
+    "hint": "La vasculitis destruyó las paredes de las arterias que \"alimentan\" al propio músculo del corazón con oxígeno.",
+    "options": [
+      {
+        "text": "A) Hipertensión pulmonar primaria de difícil resolución médica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Kawasaki ataca las arterias sistémicas de mediano calibre, no el lecho capilar pulmonar de forma aislada."
+      },
+      {
+        "text": "B) Isquemia miocárdica (infarto agudo) e insuficiencia cardíaca",
+        "isCorrect": true,
+        "explanation": "Correcta: Los aneurismas alteran el flujo coronario generando trombosis lentas o estenosis residuales, provocando la complicación más temida: infarto silente e IC en la niñez."
+      },
+      {
+        "text": "C) Hipertensión portal de origen hepático con varices esofágicas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El hígado puede inflamarse transitoriamente en la fase febril, pero no deja secuelas crónicas de hipertensión portal."
+      },
+      {
+        "text": "D) Falla renal intrínseca de curso crónico y diálisis dependiente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Aunque puede haber compromiso vascular global mínimo, el pronóstico vital lo marcan invariablemente las arterias coronarias."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "En un control de rutina, la PA de un escolar asintomático marca 130/80 mmHg (por encima del percentil 95). Para confirmar el diagnóstico y evitar la HTA de Delantal Blanco, ¿cuál es el examen confirmatorio ideal a solicitar?",
+    "hint": "Registra lo que le pasa al corazón del niño mientras duerme, corre, come o va al colegio en su entorno de confianza.",
+    "options": [
+      {
+        "text": "A) Ecografía renal Doppler inmediata para mapear daño arterial",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es el paso SIGUIENTE a confirmar que el niño sí es realmente hipertenso 24/7."
+      },
+      {
+        "text": "B) Monitoreo Ambulatorio de Presión Arterial (MAPA) de 24 horas",
+        "isCorrect": true,
+        "explanation": "Correcta: El MAPA confirma si la presión está realmente alta en la vida diaria y descarta el efecto de \"estrés\" de la bata blanca, evitando sobremedicar niños sanos asustados."
+      },
+      {
+        "text": "C) Evaluación de la microalbuminuria en tres muestras aisladas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Mide daño orgánico secundario, pero no certifica de por sí el patrón diario de la presión arterial."
+      },
+      {
+        "text": "D) Tomografía de cráneo buscando lesiones o masas compresivas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Totalmente desproporcionado; las causas neurológicas de HTA aislada sin clínica encefálica no existen en pediatría básica."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Al evaluar la etiología de un fracaso renal agudo anúrico, ¿qué hallazgo en la ecografía renal sugiere fuertemente un daño crónico irreversible e imposibilidad de recuperar la función basal del órgano?",
+    "hint": "Un órgano que ha sido destruido crónicamente pierde su masa, se encoge y se reemplaza por tejido fibroso cicatricial (que en las ecografías brilla como si fuera un hueso).",
+    "options": [
+      {
+        "text": "A) Riñones de tamaño francamente aumentado, inflamados y muy negros (hipoecogénicos)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Un riñón grande y negro indica edema por inflamación AGUDA (ej. GNAPE o Nefritis Intersticial), el cual suele ser altamente recuperable."
+      },
+      {
+        "text": "B) Disminución del tamaño renal bilateral con gran aumento de la ecogenicidad cortical (blancos)",
+        "isCorrect": true,
+        "explanation": "Correcta: Riñones pequeños, atróficos y muy ecogénicos (\"brillantes\" por fibrosis) indican ERC terminal; no habrá respuesta a bolos de volumen o terapias de rescate agudo."
+      },
+      {
+        "text": "C) Presencia de una moderada dilatación transitoria exclusiva de la pelvis renal unilateral",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Indica una estenosis pieloureteral mecánica, que operada a tiempo salva la función total del tejido subyacente."
+      },
+      {
+        "text": "D) Doppler intrarrenal con visualización perfecta y aumentada de las arterias arcuatas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Un flujo adecuado y conservado es el mejor predictor de que el tejido está vivo y bien irrigado."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Recién nacido en UCIN presenta hematuria macroscópica masiva, masa palpable en flanco derecho e hipertensión arterial sistémica severa. ¿Cuál es el diagnóstico renal más probable en este grupo etario?",
+    "hint": "Un coágulo bloquea la salida de sangre del riñón, haciendo que se hinche, sangre y active la liberación de hormonas presoras por isquemia secundaria.",
+    "options": [
+      {
+        "text": "A) Trombosis de la vena renal asociada a hipercoagulabilidad",
+        "isCorrect": true,
+        "explanation": "Correcta: La trombosis de la vena renal es la masa abdominal neonatal de origen vascular más frecuente. Cursa con hematuria, masa palpable, trombocitopenia e HTA secundaria."
+      },
+      {
+        "text": "B) Reflujo vesicoureteral primario de carácter asintomático",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El reflujo no genera masas palpables agudas ni hematuria macroscópica de forma aislada."
+      },
+      {
+        "text": "C) Displasia renal multiquística bilateral de curso lentamente progresivo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es bilateral y crónica, suele diagnosticarse antenatalmente por oligohidramnios, no da hematuria franca aguda posnatal."
+      },
+      {
+        "text": "D) Infección urinaria baja no complicada por Escherichia coli",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Una ITU baja no causa una masa en flanco (nefromegalia) ni hipertensión severa en un neonato."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Según Nelson (Tabla 11.4), en la etapa de lactante (\"Later infancy\"), ¿qué antecedente patológico respiratorio clásico se asocia de forma independiente al desarrollo de hipertensión arterial?",
+    "hint": "Esta condición requiere oxigenoterapia prolongada y uso de diuréticos crónicos, factores que dañan la microvasculatura renal y sistémica del prematuro.",
+    "options": [
+      {
+        "text": "A) Laringomalacia congénita transitoria de grado moderado",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Problema mecánico de la vía aérea alta sin impacto vascular sistémico ni renal a largo plazo."
+      },
+      {
+        "text": "B) Bronquiolitis aguda no complicada por Virus Sincicial",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es una enfermedad viral aguda sin secuelas cardiovasculares crónicas documentadas."
+      },
+      {
+        "text": "C) Displasia Broncopulmonar en el paciente prematuro",
+        "isCorrect": true,
+        "explanation": "Correcta: La Displasia Broncopulmonar (DBP) es un factor de riesgo mayor e independiente para HTA infantil, multifactorial (hipoxia crónica, esteroides, nefrocalcinosis por diuréticos)."
+      },
+      {
+        "text": "D) Neumonía atípica por Mycoplasma de curso prolongado",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Cuadro infeccioso autolimitado sin relación fisiopatológica con la presión arterial mantenida."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "En un niño con diagnóstico confirmado de Glomerulonefritis Postestreptocócica (GNAPE), ¿qué hallazgo de laboratorio clásico apoya el origen inmunológico de la falla renal y suele normalizarse entre 6 a 8 semanas?",
+    "hint": "La formación de complejos antígeno-anticuerpo consume masivamente esta proteína que forma parte de la cascada defensiva de la sangre.",
+    "options": [
+      {
+        "text": "A) Elevación sostenida y persistente del factor reumatoideo sérico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El FR se eleva en la Artritis Idiopática Juvenil u otras conectivopatías, no clásicamente en GNAPE."
+      },
+      {
+        "text": "B) Descenso marcado y transitorio de los niveles de complemento C3",
+        "isCorrect": true,
+        "explanation": "Correcta: La GNAPE es prototipo de enfermedad por consumo de complemento vía alterna. Un C3 bajo al inicio que se normaliza en 8 semanas es diagnóstico."
+      },
+      {
+        "text": "C) Aumento progresivo de los anticuerpos antinucleares (ANA) totales",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los ANA sugieren Lupus Eritematoso Sistémico (Nefropatía Lúpica), el cual cursaría con un C3 bajo pero persistente."
+      },
+      {
+        "text": "D) Ausencia total de anticuerpos antiestreptolisina O (ASO) en plasma",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Al revés, los ASO (o anti-DNAsa B) deben estar elevados, demostrando la infección estreptocócica previa."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Durante el manejo de un Síndrome Hemolítico Urémico (SHU) típico por E. coli, ¿por qué se contraindica formalmente el uso de antibióticos y fármacos antidiarreicos?",
+    "hint": "Al atacar a las bacterias o detener el tránsito del colon, se \"abre la caja de Pandora\" liberando el veneno letal directo a la sangre del niño.",
+    "options": [
+      {
+        "text": "A) Inducen una resistencia bacteriana cruzada extremadamente letal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La resistencia bacteriana es un problema poblacional a largo plazo, no el riesgo vital agudo del paciente en el SHU."
+      },
+      {
+        "text": "B) Aumentan el riesgo de perforación intestinal espontánea y masiva",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los antidiarreicos pueden causar íleo o megacolon, pero la preocupación primordial es el paso de toxina a la sangre."
+      },
+      {
+        "text": "C) Favorecen la lisis bacteriana y mayor liberación de toxina Shiga",
+        "isCorrect": true,
+        "explanation": "Correcta: Los antibióticos lisan la bacteria liberando masivamente la toxina Shiga. Los antidiarreicos estancan la toxina en el colon, aumentando su absorción y empeorando la microangiopatía renal."
+      },
+      {
+        "text": "D) Neutralizan el efecto terapéutico de los diuréticos administrados",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No existe ninguna interacción farmacológica neutralizadora directa conocida de este tipo."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Neonato presenta riñones bilateralmente gigantes y ecogénicos, oligohidramnios severo prenatal y secuencia de Potter. ¿Qué otra alteración orgánica grave asocia clásicamente esta Poliquistosis Renal Autosómica Recesiva (ARPKD)?",
+    "hint": "Esta mutación genética afecta a una proteína de los cilios que se encuentra tanto en los túbulos del riñón como en los conductos de la bilis.",
+    "options": [
+      {
+        "text": "A) Atrofia severa del cerebelo con calcificaciones difusas corticales",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No existe afectación primaria del sistema nervioso central en esta mutación específica."
+      },
+      {
+        "text": "B) Fibrosis hepática congénita con riesgo de hipertensión portal",
+        "isCorrect": true,
+        "explanation": "Correcta: La ARPKD se asocia indefectiblemente a disgenesia biliar y fibrosis hepática congénita, marcando el pronóstico vital a largo plazo si sobreviven a la falla renal."
+      },
+      {
+        "text": "C) Ausencia total del tejido pancreático y de las vías biliares",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El páncreas no está afectado; la alteración es exclusiva del eje hepatorrenal biliar-tubular."
+      },
+      {
+        "text": "D) Miocardiopatía hipertrófica familiar con obstrucción dinámica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El corazón puede presentar HVI secundaria a la hipertensión nefrógena severa, pero no es una miocardiopatía genética primaria asimétrica."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Escolar ingresa por convulsiones, cefalea severa y cambios visuales. Su PA está muy elevada. La Resonancia Magnética revela edema vasogénico de predominio occipital. ¿Cómo se denomina este síndrome clínico-radiológico de emergencia?",
+    "hint": "El exceso de presión rompe la barrera hematoencefálica en la parte de atrás del cerebro (que tiene menos inervación protectora simpática), causando un edema agudo que suele sanar sin dejar secuelas.",
+    "options": [
+      {
+        "text": "A) Accidente Cerebrovascular isquémico de la arteria cerebral media",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El infarto de cerebral media es anterior/parietal, isquémico (no vasogénico reversible) y da hemiparesia, no ceguera ni signos simétricos occipitales."
+      },
+      {
+        "text": "B) Síndrome de Encefalopatía Posterior Reversible (PRES) hipertensivo",
+        "isCorrect": true,
+        "explanation": "Correcta: El PRES es una complicación temida de las urgencias hipertensivas agudas, presentándose con ceguera cortical, cefalea, convulsiones y edema transitorio posterior en RM."
+      },
+      {
+        "text": "C) Meningoencefalitis herpética de presentación atípica fulminante",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El virus herpes ataca clásicamente el lóbulo temporal con necrosis hemorrágica, no es un edema hipertensivo occipital."
+      },
+      {
+        "text": "D) Pseudotumor cerebri benigno secundario a uso de tetraciclinas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El pseudotumor causa hipertensión endocraneana (papiledema) sin lesiones visibles en la Resonancia (cerebro estructuralmente normal)."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Paciente con AKI anúrica desarrolla arritmia. El EKG muestra ondas T picudas y simétricas, y complejos QRS ensanchados. Su potasio sérico es de 7.5 mEq/L. ¿Cuál es el tratamiento endovenoso INMEDIATO para proteger el corazón?",
+    "hint": "Este medicamento NO baja los niveles de potasio en la sangre, pero pone un \"escudo eléctrico\" alrededor del corazón para que no sufra un paro por fibrilación.",
+    "options": [
+      {
+        "text": "A) Resinas de intercambio iónico por vía oral o por enema rectal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las resinas (Kayexalate) tardan horas en hacer efecto intestinal; el paciente moriría de paro antes."
+      },
+      {
+        "text": "B) Infusión rápida de Gluconato de Calcio para estabilizar la membrana",
+        "isCorrect": true,
+        "explanation": "Correcta: El calcio antagoniza la toxicidad eléctrica del potasio sobre el miocardio instantáneamente, siendo el paso vital número uno (estabilizador de membrana)."
+      },
+      {
+        "text": "C) Administración de Salbutamol en nebulización continua prolongada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El salbutamol mete potasio a la célula (tarda 15-30 min), pero el EKG alterado exige Calcio como primera medida absoluta."
+      },
+      {
+        "text": "D) Bolo concentrado de Furosemida para intentar forzar la diuresis",
+        "isCorrect": false,
+        "explanation": "Incorrecta: En un paciente anúrico, el diurético no funcionará y no protegerá la letalidad eléctrica inmediata."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "En el tratamiento inicial de una Leucemia o Linfoma masivo de alto grado, la destrucción rápida de las células tumorales precipita Falla Renal Aguda (Síndrome de Lisis Tumoral). ¿Qué compuestos precipitan en los túbulos renales?",
+    "hint": "El interior de los núcleos celulares malignos está lleno de ADN. Al romperse, se liberan fósforo y purinas, las cuales se convierten en un ácido insoluble.",
+    "options": [
+      {
+        "text": "A) Cristales de colesterol puro y macrófagos cargados de lípidos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No ocurre liberación de colesterol masiva en las neoplasias hematológicas infantiles."
+      },
+      {
+        "text": "B) Cilindros de mioglobina secundarios a destrucción muscular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La mioglobina es el causante de la falla renal en la Rabdomiólisis (por trauma muscular), no en la lisis de glóbulos blancos."
+      },
+      {
+        "text": "C) Cristales de Ácido Úrico y de Fosfato de Calcio obstructivos",
+        "isCorrect": true,
+        "explanation": "Correcta: El ADN se degrada a ácido úrico, que cristaliza en los túbulos; además, el fósforo liberado se une al calcio (fosfato cálcico) obstruyendo el riñón intrínsecamente."
+      },
+      {
+        "text": "D) Anticuerpos monoclonales precipitados en la membrana basal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El daño no es inmunológico por autoanticuerpos, es netamente obstructivo y metabólico por cristalización."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Un niño cursando una AKI post-quirúrgica grave es evaluado para Terapia de Reemplazo Renal (Diálisis). ¿Cuál de los siguientes escenarios es una indicación ABSOLUTA de inicio de diálisis de urgencia?",
+    "hint": "Los riñones de este paciente no responden a los medicamentos y el líquido se está acumulando rápidamente en un órgano vital que le impide oxigenarse.",
+    "options": [
+      {
+        "text": "A) Elevación de la creatinina a 1.5 mg/dL en un paciente normovolémico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Una creatinina leve/moderada sin síntomas vitales se maneja médicamente; no es indicación absoluta aguda."
+      },
+      {
+        "text": "B) Presencia de hematuria microscópica asintomática persistente prolongada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hematuria no tiene indicación de diálisis (la cual reemplaza la función depuradora, no cura el sangrado)."
+      },
+      {
+        "text": "C) Sobrecarga hídrica refractaria a diuréticos con edema agudo de pulmón",
+        "isCorrect": true,
+        "explanation": "Correcta: La incapacidad mecánica del riñón para botar agua (anuria) que lleva a asfixia por edema pulmonar intratable es indicación de \"salvataje\" con diálisis inmediata (filtro externo)."
+      },
+      {
+        "text": "D) Hipernatremia leve detectada incidentalmente en exámenes de rutina",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Se maneja con corrección lenta de soluciones endovenosas, no dializando al niño precipitadamente."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Durante el seguimiento de un adolescente, se pesquisa una 'Hipertensión Enmascarada' (PA normal en clínica, alta en domicilio/MAPA). Clínicamente, ¿por qué esta condición es altamente peligrosa?",
+    "hint": "Como el médico no la detecta en la consulta, el corazón del paciente sufre el estrés crónico de una presión altísima sin recibir ningún tratamiento protector.",
+    "options": [
+      {
+        "text": "A) Porque provoca invariablemente síncopes vagales súbitos al ponerse de pie",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La HTA no causa síncope ortostático; esto es un problema del sistema venoso o autonómico."
+      },
+      {
+        "text": "B) Porque asocia un riesgo de Hipertrofia Ventricular Izquierda similar a la HTA franca",
+        "isCorrect": true,
+        "explanation": "Correcta: La HTA enmascarada es letal silenciosamente; su daño a órgano blanco (HVI, daño renal) es idéntico o peor al de los hipertensos crónicos sostenidos mal controlados."
+      },
+      {
+        "text": "C) Porque indica que el paciente es alérgico a los medicamentos de emergencia",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No tiene relación con las alergias medicamentosas, es un fenómeno netamente hemodinámico y de estrés ambiental invertido."
+      },
+      {
+        "text": "D) Porque siempre evoluciona hacia una hipotensión secundaria en pocos meses",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Tiende a evolucionar a HTA sostenida permanente (24/7), jamás curándose hacia la hipotensión."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Lactante tratado en UCI neonatal con dosis altas y prolongadas de Aminoglucósidos (ej. Amikacina o Gentamicina). ¿Qué mecanismo fisiopatológico clásico explica su toxicidad, produciendo AKI no oligúrica?",
+    "hint": "Este antibiótico se filtra libremente, pero las células que tapizan la primera parte del filtro intentan \"reabsorberlo\" como si fuera un nutriente, envenenándose a sí mismas.",
+    "options": [
+      {
+        "text": "A) Vasoconstricción exclusiva y aguda de la arteriola eferente capilar",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Este es el mecanismo de daño funcional mediado por AINEs o toxina de ciclosporina, no por aminoglucósidos."
+      },
+      {
+        "text": "B) Necrosis Tubular Aguda por acumulación tóxica en las células proximales",
+        "isCorrect": true,
+        "explanation": "Correcta: Los aminoglucósidos se concentran en la corteza y destruyen los lisosomas de las células del túbulo contorneado proximal (ATN tóxica), causando caída del filtrado que no siempre daña el volumen urinario inicial."
+      },
+      {
+        "text": "C) Obstrucción ureteral mecánica por cristalización del fármaco administrado",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los cristales obstructivos son típicos del Aciclovir o Indinavir, no de los aminoglucósidos."
+      },
+      {
+        "text": "D) Inflamación granulomatosa crónica de los glomérulos y la pelvis renal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No dan reacción inflamatoria celular granulomatosa; es un daño celular tóxico directo y llano."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Un recién nacido de sexo masculino presenta anuria, globo vesical palpable a nivel umbilical y ecografía prenatal con hidronefrosis bilateral masiva. ¿Qué causa de Falla Renal Aguda POSTRENAL es la más probable?",
+    "hint": "Hay una \"compuerta\" de tejido malformado ubicada en el tubo que saca la orina de la vejiga hacia el pene, tapando la salida y reventando todo el sistema hacia arriba.",
+    "options": [
+      {
+        "text": "A) Síndrome de la unión pieloureteral de carácter unilateral compensado",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Al ser unilateral, el riñón sano compensa y el paciente no hace anuria ni globo vesical masivo al nacer."
+      },
+      {
+        "text": "B) Válvulas de la uretra posterior con obstrucción infravesical completa",
+        "isCorrect": true,
+        "explanation": "Correcta: Las valvas uretrales posteriores son exclusivas de varones; tapan la uretra, distendiendo la vejiga (globo) e impactando retrógradamente a ambos riñones (falla postrenal grave)."
+      },
+      {
+        "text": "C) Presencia de litiasis renal cálcica bilateral secundaria a hipercalciuria",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La litiasis es excepcional en neonatos (salvo prematuros extremos muy medicados), y es casi imposible que obstruya ambas vías simultáneamente al nacer."
+      },
+      {
+        "text": "D) Tumor de Wilms bilateral con compromiso exclusivo de los cálices",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Wilms crece en el parénquima unilateral hacia afuera, rara vez tapando simultáneamente la salida de la vejiga de ambos riñones."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Para diferenciar rápidamente una AKI Prerrenal (deshidratación) de una AKI Intrínseca (Necrosis Tubular) en los exámenes de sangre, se utiliza la relación (ratio) entre Nitrógeno Ureico (BUN) y Creatinina. Un ratio BUN/Creatinina elevado (>20) indica fuertemente:",
+    "hint": "Cuando al cuerpo le falta agua, el riñón \"chupa\" todo el líquido de vuelta, arrastrando consigo pasivamente a la urea de vuelta a la sangre, mientras que la creatinina se bota sola.",
+    "options": [
+      {
+        "text": "A) Falla de origen postrenal por obstrucción completa del flujo urinario",
+        "isCorrect": false,
+        "explanation": "Incorrecta: En la obstructiva inicial suben ambas parejo, luego el riñón se daña intrínsecamente cayendo la relación."
+      },
+      {
+        "text": "B) Que el riñón está sano y reabsorbe ávidamente la urea junto con el agua",
+        "isCorrect": true,
+        "explanation": "Correcta: En la deshidratación (prerrenal), la ADH y la aldosterona reabsorben Na y H2O. El BUN sigue al agua y se reabsorbe, subiendo desproporcionadamente en sangre respecto a la creatinina (que no se reabsorbe)."
+      },
+      {
+        "text": "C) Que existe una destrucción masiva del parénquima renal y glomerular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Si el riñón se destruye (NTA intrínseca), no puede reabsorber nada. Ambas suben proporcionalmente, dando un ratio bajo o normal (<15)."
+      },
+      {
+        "text": "D) Un estado de hiperhidratación extrema y hemodilución de solutos séricos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hemodilución bajaría ambos parámetros de manera idéntica, no elevaría selectivamente uno generando un ratio alto."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Lactante presenta fenotipo de cara de \"elfo\" (duendecillo), retraso del desarrollo e hipercalcemia. Se pesquisa HTA severa. La ecografía Doppler revela estenosis de la arteria renal principal. ¿Cuál es el diagnóstico genético subyacente?",
+    "hint": "La falta de esta proteína estructural hace que las paredes de todos los grandes vasos sanguíneos del cuerpo (aorta, pulmonar y renales) se vuelvan rígidas y muy estrechas.",
+    "options": [
+      {
+        "text": "A) Síndrome de Turner (Cariotipo 45,X0) con disgenesia gonadal asimétrica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Turner se asocia clásicamente a Coartación de la Aorta o riñón en herradura, no a estenosis de la arteria renal focal mediada por elastina."
+      },
+      {
+        "text": "B) Síndrome de DiGeorge por deleción de la banda cromosómica 22q11",
+        "isCorrect": false,
+        "explanation": "Incorrecta: DiGeorge da hipocalcemia (no hiper) y malformaciones conotruncales (Truncus, Fallot), no nefrovasculares."
+      },
+      {
+        "text": "C) Síndrome de Williams secundario a la deleción del gen de la elastina",
+        "isCorrect": true,
+        "explanation": "Correcta: El Sd. de Williams (deleción 7q11.23) carece de elastina normal. Cursa con hipercalcemia infantil, estenosis aórtica supravalvular y estenosis de la arteria renal (causa de la HTA)."
+      },
+      {
+        "text": "D) Síndrome de Down con malformaciones arteriales atípicas exclusivas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las cardiopatías del Down son septales (Canal AV), sus vasos periféricos son estructuralmente normales."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Escolar sufre síndrome de aplastamiento en un terremoto. Horas después su orina es de color marrón oscuro pero no presenta glóbulos rojos al microscopio. Presenta AKI anúrica y potasio altísimo. ¿Qué molécula obstruyó y destruyó sus túbulos renales?",
+    "hint": "Es la proteína \"prima\" de la hemoglobina, que se encarga de guardar oxígeno dentro de las fibras musculares esqueléticas. Al romperse el músculo, ensucia y tapona el filtro renal.",
+    "options": [
+      {
+        "text": "A) Excreción masiva de cristales de urato monosódico insolubles",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El urato es del síndrome de lisis tumoral (leucemias), no por trauma físico osteomuscular."
+      },
+      {
+        "text": "B) Mioglobina liberada masivamente por la rabdomiólisis del músculo",
+        "isCorrect": true,
+        "explanation": "Correcta: El aplastamiento causa Rabdomiólisis. La mioglobina es nefrotóxica directa y precipita formando cilindros obstructivos (NTA). Da falso positivo para sangre en la tira reactiva, pero el microscopio no ve eritrocitos."
+      },
+      {
+        "text": "C) Hemoglobina intacta proveniente de una hemólisis intravascular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hemólisis libera hemoglobina (color rojizo claro o rosado), pero el antecedente traumático muscular apunta irrefutablemente a la mioglobina (color pardo oscuro/Coca-Cola)."
+      },
+      {
+        "text": "D) Inmunocomplejos circulantes gatillados por el trauma severo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El trauma no es una enfermedad autoinmune formadora de complejos inmediatos; es un daño tóxico tisular directo."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Paciente con Asma Severa en uso de Prednisona oral a dosis altas por semanas. Desarrolla HTA confirmada. Fisiopatológicamente, ¿por qué los Corticosteroides elevan la presión arterial de forma yatrogénica?",
+    "hint": "Estos potentes desinflamatorios se \"parecen\" estructuralmente mucho a la aldosterona, engañando a los receptores del riñón para que no dejen escapar la sal por la orina.",
+    "options": [
+      {
+        "text": "A) Estimulan la liberación de óxido nítrico en el endotelio capilar distal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El óxido nítrico bajaría la presión, mientras que los corticoides inhiben su síntesis, favoreciendo la vasoconstricción."
+      },
+      {
+        "text": "B) Actúan como vasodilatadores centrales con respuesta simpática refleja",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No son vasodilatadores; de hecho, sensibilizan las arterias al efecto de la adrenalina."
+      },
+      {
+        "text": "C) Ejercen un fuerte efecto mineralocorticoide reteniendo sodio y agua",
+        "isCorrect": true,
+        "explanation": "Correcta: A dosis altas, los glucocorticoides (como prednisona o hidrocortisona) se unen al receptor de mineralocorticoides en el riñón, simulando a la aldosterona y causando expansión del volumen intravascular con HTA."
+      },
+      {
+        "text": "D) Destruyen directamente los podocitos induciendo una nefropatía silente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No son tóxicos para el glomérulo; de hecho, son el tratamiento de primera línea para sanar enfermedades del podocito como el Nefrótico."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "En un niño con AKI intrínseca instalada y grave oliguria (<0.5 ml/kg/h), el médico decide iniciar aporte de fluidos intravenosos. Para prevenir la grave complicación de la Hiponatremia dilucional y edema cerebral, ¿cómo debe ser el aporte hídrico?",
+    "hint": "Si el niño no puede orinar el agua que le sobra, meterle la cantidad de agua normal que le darías a un niño sano terminará \"aguando\" mortalmente sus niveles de sodio en el plasma.",
+    "options": [
+      {
+        "text": "A) Debe ser el 100% de la mantención usual diaria calculada por fórmula de Holiday",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Dar el 100% de Holiday a un niño que no orina lo sobrecargará masivamente de agua."
+      },
+      {
+        "text": "B) Debe calcularse basándose exclusivamente en las pérdidas insensibles más la orina",
+        "isCorrect": true,
+        "explanation": "Correcta: La restricción hídrica es vital. Se reponen solo las pérdidas insensibles (sudor/respiración, aprox. 400 ml/m2/día) más la poca orina o pérdidas (vómitos) que haya tenido."
+      },
+      {
+        "text": "C) Debe consistir únicamente en bolos rápidos de suero hipotónico al 0.45% sin sodio",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Usar suero hipotónico sin sodio a un paciente sin orina asegurará una hiponatremia letal por dilución aguda."
+      },
+      {
+        "text": "D) Debe aportar el doble de lo normal para intentar \"lavar\" la creatinina de la sangre",
+        "isCorrect": false,
+        "explanation": "Incorrecta: \"Lavar\" la creatinina con agua no soluciona el daño celular y mataría al niño por edema de pulmón y cerebral masivo."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "A un recién nacido prematuro asintomático de 2 días de vida se le toma un perfil bioquímico. Su Creatinina plasmática reporta un valor de 0.9 mg/dL. ¿Cómo debe interpretarse clínicamente este hallazgo precoz?",
+    "hint": "Durante los 9 meses de gestación, el filtro que limpiaba la sangre del feto era el riñón de la madre, por lo que el bebé nace con exactamente la misma \"suciedad\" que ella tenía en la sangre.",
+    "options": [
+      {
+        "text": "A) Como un signo inequívoco de Falla Renal Aguda intrínseca fulminante posnatal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Sería un error diagnóstico grave tratar esto como AKI, sometiendo al neonato sano a intervenciones innecesarias."
+      },
+      {
+        "text": "B) Como el reflejo directo de la creatinina de la sangre materna transmitida por la placenta",
+        "isCorrect": true,
+        "explanation": "Correcta: En las primeras 48-72 horas, la creatinina del RN es idéntica a la de la madre. Luego irá cayendo paulatinamente durante el primer mes de vida a su nivel basal bajo normal."
+      },
+      {
+        "text": "C) Como un indicador de que el recién nacido presenta una gran masa muscular hipertrófica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los bebés tienen poquísima masa muscular; su creatinina basal normal infantil será mucho menor a 0.5 mg/dL."
+      },
+      {
+        "text": "D) Como la manifestación clásica de una displasia renal multiquística subyacente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Un problema renal en el feto no eleva su creatinina al nacer, porque la placenta de la madre sana lo ha depurado eficientemente hasta el momento del corte del cordón."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Adolescente mujer de 15 años presenta \"rush\" malar en alas de mariposa, artralgias de manos y PA de 150/95 mmHg. Exámenes: Hematuria, proteinuria en rango nefrótico y consumo severo de complemento (C3 y C4 bajos). Diagnóstico cardinal de esta HTA:",
+    "hint": "Es la enfermedad autoinmune prototipo de mujeres jóvenes, donde los anticuerpos (ANA) atacan el propio ADN y tapizan el riñón de inflamación, gastando todo el complemento de la sangre.",
+    "options": [
+      {
+        "text": "A) Vasculitis de Kawasaki de presentación tardía atípica con componente renal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Kawasaki no da rash en mariposa, artralgias crónicas femeninas ni consumo masivo del complemento."
+      },
+      {
+        "text": "B) Nefropatía Lúpica secundaria a Lupus Eritematoso Sistémico en fase de actividad",
+        "isCorrect": true,
+        "explanation": "Correcta: El rash, artralgias, proteinuria grave e HTA con C3/C4 persistentemente bajos es el debut clásico del LES activo (clase IV nefrítica/nefrótica)."
+      },
+      {
+        "text": "C) Síndrome de Alport fenotípico en mujer portadora sana del defecto colágeno",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Alport daría hematuria y sordera con complemento normal, sin rash facial ni autoinmunidad clínica."
+      },
+      {
+        "text": "D) Púrpura de Schönlein-Henoch con afección glomerular en paciente adulto joven",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Da púrpura palpable en glúteos, pero el complemento (C3) en Schönlein-Henoch es típicamente NORMAL, siendo un pilar clave en el diagnóstico diferencial."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niño de 12 años con HTA y Falla Renal progresiva. Su madre menciona que el abuelo materno falleció joven en diálisis y el tío usa audífonos por sordera profunda precoz. El niño presenta hematuria persistente. ¿Qué patología genética hereditaria asocia sordera y falla renal?",
+    "hint": "Este gen fabrica el \"cemento\" microscópico que arma la membrana que filtra la orina en el riñón y las finas estructuras del oído interno. Al estar defectuoso, el riñón sangra y se tapa de cicatrices.",
+    "options": [
+      {
+        "text": "A) Síndrome de Alport por mutación en cadenas de Colágeno tipo IV",
+        "isCorrect": true,
+        "explanation": "Correcta: El Sd. de Alport (ligado al X en su mayoría) afecta el Colágeno IV de la membrana basal glomerular y del órgano de Corti, debutando con hematuria, HTA progresiva, falla renal y sordera neurosensorial."
+      },
+      {
+        "text": "B) Síndrome de Prader-Willi por alteración en el cromosoma quince paterno",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Da obesidad y retraso, sin relación nefro-auditiva directa."
+      },
+      {
+        "text": "C) Riñón poliquístico autosómico dominante con aneurismas asociados",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Da falla renal y HTA, pero se presenta con múltiples quistes masivos y no tiene a la sordera como signo sindromático cardinal."
+      },
+      {
+        "text": "D) Síndrome de Noonan con hipocalcemia y defecto colágeno leve",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Asocia cardiopatías y dismorfias, pero no sordera progresiva con nefropatía crónica hereditaria terminal."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Un paciente cursa Emergencia Hipertensiva en UCI. Se decide usar Nicardipino en infusión continua endovenosa. ¿Cuál es su perfil farmacológico y beneficio en esta situación crítica pediátrica?",
+    "hint": "Piense en la misma familia de fármacos a la que pertenece el Amlodipino o el Nifedipino, pero diseñado para usarse por la vena y poder titularse gota a gota.",
+    "options": [
+      {
+        "text": "A) Es un potente bloqueador de receptores beta que estabiliza el ritmo cardíaco",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Pertenece al grupo de bloqueadores de calcio, no tiene ninguna acción sobre los receptores beta adrenérgicos."
+      },
+      {
+        "text": "B) Es un diurético osmótico masivo que reduce el volumen intracraneal con rapidez",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Eso describe al Manitol; el nicardipino no tiene efecto diurético osmótico."
+      },
+      {
+        "text": "C) Es un bloqueador de canales de calcio altamente selectivo vascular cerebral y sistémico",
+        "isCorrect": true,
+        "explanation": "Correcta: El Nicardipino es un calcioantagonista de acción ultra rápida IV. Relaja potentemente las arterias (bajando postcarga) con excelente penetración y protección del flujo cerebral sin deprimir al corazón."
+      },
+      {
+        "text": "D) Es un derivado sintético del óxido nítrico con acción casi exclusiva en venas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Eso describe a la nitroglicerina; el nicardipino no es un donante de nitritos y actúa fuertemente sobre las arterias, no sobre las venas."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Un adolescente con HTA maligna refractaria severa recibe finalmente como fármaco de última línea el Minoxidil oral. Aunque muy eficaz, el médico debe advertir a la familia sobre sus dos temibles e ineludibles efectos secundarios clásicos:",
+    "hint": "Este medicamento abre las arterias con tanta fuerza que el cuerpo responde reteniendo agua desesperadamente. Además, por un \"efecto colateral\", se vende en farmacias como loción para el crecimiento del cabello.",
+    "options": [
+      {
+        "text": "A) Pérdida total y repentina de la visión a colores y aparición de úlceras orales",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Carece totalmente de toxicidad ocular cromática o mucosa."
+      },
+      {
+        "text": "B) Retención masiva hídrica (derrame pericárdico) e Hipertricosis severa corporal",
+        "isCorrect": true,
+        "explanation": "Correcta: El Minoxidil es un potente vasodilatador arterial. Causa enorme retención de sodio/agua (exigiendo usar diuréticos de asa simultáneos para no taponar el corazón) y hace crecer vello grueso en todo el cuerpo y cara (hipertricosis)."
+      },
+      {
+        "text": "C) Desarrollo rápido de ginecomastia mamaria y atrofia testicular completa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Este es el clásico efecto adverso crónico androgénico de la Espironolactona, no del minoxidil."
+      },
+      {
+        "text": "D) Desprendimiento de retina masivo y convulsiones de aparición nocturna",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Bajar la presión de forma agresiva no desprende la retina ni genera focos convulsivos primarios."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Niña de 14 años es evaluada por talla baja y amenorrea primaria. Se sospecha Síndrome de Turner (45,X0). Además de la Coartación de Aorta, ¿qué otra malformación anatómica renal congénita, frecuentemente asociada, debe buscarse que la predispone a ITU e HTA secundaria?",
+    "hint": "Durante el desarrollo fetal, ambos riñones suben desde la pelvis. En este síndrome, frecuentemente \"chocan\" y se quedan pegados en el medio, formando una figura en \"U\".",
+    "options": [
+      {
+        "text": "A) Presencia de un riñón único y agenesia contralateral absoluta",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La agenesia renal unilateral pura no es el sello sindromático del Turner."
+      },
+      {
+        "text": "B) Riñón en herradura por fusión de los polos inferiores cruzando la línea media",
+        "isCorrect": true,
+        "explanation": "Correcta: Hasta un tercio de las niñas con Turner presentan riñón en herradura (los polos inferiores quedan atrapados bajo la arteria mesentérica inferior). Son propensas a ectasia de orina, cálculos, ITUs y daño renal hipertensivo."
+      },
+      {
+        "text": "C) Extrofia vesical completa con salida de orina por la pared abdominal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Malformación severa del cierre de la pared abdominal independiente y rara, no asociada cromosómicamente a las monosomías."
+      },
+      {
+        "text": "D) Duplicación ureteral completa con un megauréter asintomático superior",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Anomalía urológica muy frecuente en población general, pero el riñón en herradura es el sello dismórfico de este síndrome en particular."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Un niño es sometido a un AngioTAC con contraste endovenoso yodado de gran volumen. A los 2 días desarrolla Falla Renal Aguda (Nefropatía inducida por contraste). Fisiopatológicamente, ¿cómo el contraste destruye los túbulos renales?",
+    "hint": "Este líquido es muy denso y espeso; al pasar por el riñón actúa como un tóxico y asfixia a las células obligando a las arterias de la zona más profunda a cerrarse bruscamente.",
+    "options": [
+      {
+        "text": "A) Provoca una reacción autoinmune mediada por IgE de forma anafiláctica celular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Aunque existen alergias al yodo (shock), la falla renal post-contraste NO es alérgica, es un daño tóxico dependiente de la dosis y de la hidratación previa."
+      },
+      {
+        "text": "B) Genera una intensa vasodilatación de las arteriolas que rompe el filtro a alta presión",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El mecanismo vascular primario lesivo es el vasoespasmo vasoconstrictor local que \"apaga\" el riñón, no la vasodilatación."
+      },
+      {
+        "text": "C) Induce vasoconstricción isquémica medular profunda y toxicidad oxidativa celular directa",
+        "isCorrect": true,
+        "explanation": "Correcta: El contraste yodado es tóxico: altera la hemodinamia (causando isquemia prolongada en la médula renal) y produce radicales libres de oxígeno que matan las células tubulares. Se previene fundamentalmente con hiperhidratación agresiva."
+      },
+      {
+        "text": "D) Cristaliza formando cálculos macroscópicos de yodo puro en los cálices renales",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El contraste no forma piedras ni cristales físicos en la orina; la falla no es obstructiva intraluminal."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Durante el estudio de una HTA sostenida en un preescolar asintomático, se descubre una gran masa suprarrenal que sí cruza ampliamente la línea media hacia el otro lado del abdomen. ¿Cuál es el tumor de origen simpático, secretor de catecolaminas, causante de esta imagen?",
+    "hint": "Nace de las crestas neurales primitivas. A diferencia de otros tumores infantiles redondos y ordenados, este crece envolviendo las venas y arterias, cruzando \"sin respeto\" hacia el otro lado de la columna vertebral.",
+    "options": [
+      {
+        "text": "A) Neuroblastoma pediátrico con compromiso retroperitoneal difuso",
+        "isCorrect": true,
+        "explanation": "Correcta: El neuroblastoma es el tumor extracraneal sólido más común de la niñez. Clásicamente cruza la línea media (a diferencia del Wilms) y suele secretar catecolaminas (causando HTA y elevando metanefrinas)."
+      },
+      {
+        "text": "B) Adenoma cortical productor de aldosterona no invasivo central",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Son pequeñísimos y unilaterales (no cruzan masas); producen Conn, pero no conforman una masa retroperitoneal invasiva pediátrica."
+      },
+      {
+        "text": "C) Tumor de Wilms gigante del tejido del parénquima renal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Crece liso y rechaza el riñón pero, clásicamente, suele detenerse o respetar la línea media de la columna."
+      },
+      {
+        "text": "D) Hepatoblastoma invasivo con invasión caudal suprarrenal secundaria",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Sería primariamente intrahepático superior, no nacería del área suprarrenal/simpática."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "A diferencia del SHU típico (post-diarreico), el Síndrome Hemolítico Urémico ATÍPICO (SHUa) no tiene asociación bacteriana infecciosa. ¿Cuál es el mecanismo genético subyacente que destruye el riñón de estos niños recurrentemente?",
+    "hint": "Un sistema defensivo del cuerpo, encargado de \"perforar\" bacterias, pierde sus frenos biológicos y empieza a perforar erróneamente las células que tapizan el interior de los riñones del propio paciente.",
+    "options": [
+      {
+        "text": "A) Ausencia de las enzimas de degradación metabólica en el bazo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es de origen puramente sérico y vascular mediado por el hígado (síntesis de complemento), el bazo no es el eje patogénico."
+      },
+      {
+        "text": "B) Mutación activadora e incontrolable del Sistema del Complemento sanguíneo",
+        "isCorrect": true,
+        "explanation": "Correcta: El SHUa es genético. Fallan los genes reguladores (Factor H, Factor I), lo que permite que el sistema del Complemento se hiperactive, atacando el endotelio renal y formando trombos crónicamente."
+      },
+      {
+        "text": "C) Mutación de las cadenas ligeras de las inmunoglobulinas tipo IgA circulantes",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Este defecto es clásico de la Nefropatía por IgA o enfermedad de Berger, no de la microangiopatía trombótica recurrente."
+      },
+      {
+        "text": "D) Defecto en la cascada de coagulación que simula una hemofilia adquirida",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No cursa con déficit de factores (como la Hemofilia y sus sangrados), sino con hiperactividad trombótica destructiva."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "En un niño con daño renal crónico e hipertensión volumen-dependiente, el médico inicia tratamiento oral con Prazosina. ¿Qué efecto adverso cardiovascular, clásico de los bloqueadores selectivos Alfa-1, debe el paciente prever y evitar en los primeros días de uso?",
+    "hint": "Al bloquear de golpe la capacidad de \"apretar\" las venas y arterias, cuando el niño se ponga de pie rápidamente, toda la sangre se caerá hacia los pies por fuerza de gravedad, apagando el cerebro por unos segundos.",
+    "options": [
+      {
+        "text": "A) Ceguera nocturna transitoria al apagar la luz de la habitación",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No interactúa con los fotorreceptores retinianos; la visión no sufre alteraciones."
+      },
+      {
+        "text": "B) Fuerte efecto de Síncope de \"Primera Dosis\" al ponerse de pie de la cama",
+        "isCorrect": true,
+        "explanation": "Correcta: El \"síncope de primera dosis\" u ortostatismo severo es el talón de Aquiles de la prazosina. Al paralizar la respuesta vasoconstrictora alfa-1, ponerse de pie causa una caída abrupta del flujo cerebral, requiriendo iniciar el fármaco por la noche y en dosis mínimas."
+      },
+      {
+        "text": "C) Hipertensión arterial de rebote paradójica incontrolable cada mañana",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Al contrario, su efecto es marcadamente hipotensor, no genera rebotes vasopresores matinales directos."
+      },
+      {
+        "text": "D) Bloqueo auriculoventricular de tercer grado y bradicardia sostenida",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El alfa-1 está en los vasos, no en el marcapasos del corazón; no causan bloqueos AV (este sería el efecto adverso de Betabloqueadores o Amiodarona)."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Las guías pediátricas subrayan la necesidad de diagnosticar la HTA de manera agresiva porque el daño a órgano blanco en el niño ocurre en silencio. Además de la Hipertrofia Ventricular y el Daño Renal, ¿qué alteración sistémica sutil y trágica produce la HTA leve/moderada crónica a nivel del Sistema Nervioso Central pediátrico?",
+    "hint": "El exceso de presión sostenida en los finos capilares del cerebro en crecimiento altera su capacidad de interconexión y aprendizaje diario, manifestándose en el salón de clases, mucho antes de que el cerebro sufra un infarto.",
+    "options": [
+      {
+        "text": "A) Accidentes cerebrovasculares hemorrágicos masivos en etapa escolar pre-púber",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los AVE hemorrágicos ocurren usualmente solo en urgencias hipertensivas extremas (>200 mmHg) u obesos mórbidos, no son el daño \"sutil y silencioso\" de las etapas leves."
+      },
+      {
+        "text": "B) Deterioro en test neurocognitivos, déficit de atención y peor rendimiento escolar",
+        "isCorrect": true,
+        "explanation": "Correcta: Está demostrado que la HTA esencial no tratada en pediatría causa disfunción cognitiva sutil, problemas de aprendizaje, peor memoria y bajo rendimiento antes de que exista daño anatómico evidente por imagen, justificando el tratamiento agresivo en niños de corta edad."
+      },
+      {
+        "text": "C) Transformación progresiva del sistema ventricular en una hidrocefalia arrefléctica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El líquido cefalorraquídeo no se ve primariamente afectado por la presión intraarterial sistémica a este nivel de cronicidad."
+      },
+      {
+        "text": "D) Degeneración severa de las vainas de mielina simulando una Esclerosis Múltiple",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La desmielinización es un fenómeno inmunológico; la hipertensión arterial altera la pared vascular (arteriosclerosis) y la oxigenación celular, no ataca a la mielina aislada."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Una adolescente de 16 años embarazada, con HTA crónica esencial, es derivada a policlínico. ¿Qué fármacos antihipertensivos, ampliamente usados por su rol nefroprotector (IECAs o ARA-II), deben estar PROSCRITOS y suspendidos de inmediato en esta paciente?",
+    "hint": "En el feto en gestación, el desarrollo final y la maduración estructural de los riñones que lo acompañarán el resto de su vida dependen obligatoriamente del estímulo hormonal de la Angiotensina II.",
+    "options": [
+      {
+        "text": "A) Están permitidos y son de primera línea si hay daño renal diabético previo demostrado",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Ningún beneficio nefroprotector materno supera el riesgo teratogénico fetal que es una contraindicación absoluta (legalmente prohibidos)."
+      },
+      {
+        "text": "B) Están absolutamente contraindicados por causar disgenesia renal fatal y oligohidramnios en el feto",
+        "isCorrect": true,
+        "explanation": "Correcta: Los IECA/ARA-II son teratogénicos puros. Bloquean la cascada SRAA fetal (vital para el desarrollo renal intrauterino), causando falla renal embriológica (disgenesia), anuria fetal y oligohidramnios letal. Son categoría de máximo riesgo en el embarazo."
+      },
+      {
+        "text": "C) Pueden usarse, pero causarán un enorme retraso en el cierre de la sutura craneal en el recién nacido",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Su blanco no es la osificación ósea, sino el parénquima funcional puro de las nefronas en desarrollo."
+      },
+      {
+        "text": "D) Están contraindicados porque adelantan el trabajo de parto a nivel de musculatura uterina",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No son agentes que contraigan el útero; de hecho, algunos de sus análogos relajan vasos y músculo liso, pero no causan prematurez farmacológica mediada por oxitocina."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hipertensión Pediátrica y AKI",
+    "text": "Un paciente portador de un Síndrome Nefrótico puro hace 5 años cursa con edema anasarca y proteinuria persistente, y repentinamente desarrolla AKI (alza brusca de creatinina) tras un episodio de gastroenteritis. Asumiendo un curso clásico, el mecanismo fisiopatológico primario central que llevó a sus riñones al fracaso es:",
+    "hint": "A pesar de que el paciente está \"hinchado\" con líquido hasta el cuello (edema), la manguera principal de sangre arterial del cuerpo se encuentra virtualmente vacía debido a la falta de proteínas \"imanes\" en el plasma.",
+    "options": [
+      {
+        "text": "A) La precipitación aguda masiva de las proteínas urinarias obstruyendo completamente el túbulo proximal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las proteínas causan daño tubular crónico y \"espuma\" al orinar, pero rara vez se coagulan en el túbulo de un día para otro obstruyéndolo físicamente de forma letal como si fueran uratos."
+      },
+      {
+        "text": "B) Una hiperfiltración compensatoria masiva que rompió los podocitos sanos remanentes",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hiperfiltración destruye la nefrona en el plazo de décadas (ERC terminal), no explica una AKI (horas o días) súbita de urgencias."
+      },
+      {
+        "text": "C) Invasión viral idiopática del virus del Rotavirus en la corteza renal expuesta a la orina",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los virus digestivos atacan los enterocitos en la pared intestinal; no infectan primariamente a las nefronas expuestas durante la inmunosupresión nefrótica normal."
+      },
+      {
+        "text": "D) La depleción extrema del volumen intravascular (hipovolemia) secundaria a la fuga al intersticio sin presión oncótica",
+        "isCorrect": true,
+        "explanation": "Correcta: La AKI en un Síndrome Nefrótico (ante vómitos o diarrea adicional) es clásica y dramáticamente de origen Prerrenal. Al perder la albúmina (presión oncótica baja), todo el líquido fugó al tejido; los vasos están secos, el corazón no tiene volumen para empujar y los riñones quedan sin riego sanguíneo a pesar del edema corporal total de \"camuflaje\"."
+      }
+    ]
+  }
+]
