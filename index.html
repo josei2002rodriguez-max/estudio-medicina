@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MedMaster Pro - Analítica de Estudio</title>
+    <title>MedMaster Pro v4.0</title>
     <style>
         :root {
             --primary: #4a90e2; --bg: #f5f7fa; --card: #ffffff;
@@ -17,43 +17,43 @@
         .view.active { display: block; }
         @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
 
-        h1 { text-align: center; color: var(--primary); margin-bottom: 10px; }
-        .status-bar { text-align: center; font-size: 12px; color: var(--secondary); margin-bottom: 20px; }
+        h1 { text-align: center; color: var(--primary); margin-bottom: 10px; font-size: 24px; }
+        .status-bar { text-align: center; font-size: 13px; color: var(--secondary); margin-bottom: 20px; }
 
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; margin-top: 15px; }
         .card { 
             background: var(--card); padding: 20px 10px; border-radius: 16px; text-align: center;
             cursor: pointer; border: 2px solid transparent; transition: 0.2s;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05); font-weight: 600;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05); font-weight: 600; font-size: 15px;
         }
-        .card:hover { transform: scale(1.02); border-color: var(--primary); }
         .card.selected { border-color: var(--accent); background: #f0fff4; }
 
         .setup-box { background: white; padding: 20px; border-radius: 16px; margin-top: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-        .topic-item { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid #eee; }
+        .topic-item { display: flex; align-items: center; gap: 10px; padding: 10px 0; border-bottom: 1px solid #eee; font-size: 15px; }
         
         .btn { 
             display: block; width: 100%; padding: 16px; margin-top: 12px; border: none;
-            border-radius: 12px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.2s;
-            text-align: center; text-decoration: none;
+            border-radius: 12px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.2s; text-align: center;
         }
         .btn-primary { background: var(--accent); color: white; }
         .btn-secondary { background: white; color: var(--secondary); border: 1px solid var(--secondary); }
 
-        /* Quiz UI */
         .quiz-nav { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
-        .score-live { font-weight: bold; font-size: 14px; background: white; padding: 5px 15px; border-radius: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        .score-live { font-weight: bold; font-size: 14px; background: white; padding: 6px 15px; border-radius: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        
+        /* BOTONES DE OPCIONES */
         .option-btn { 
             display: block; width: 100%; padding: 16px; margin: 10px 0; border: 2px solid #edf2f7;
-            border-radius: 12px; background: white; text-align: left; font-size: 15px; cursor: pointer;
+            border-radius: 12px; background: white; text-align: left; font-size: 15px; cursor: pointer; color: var(--text);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
         }
-        .option-btn.correct-show { border-color: var(--accent); background: #e6fffa; color: #155724; font-weight: bold; }
-        .option-btn.wrong-show { border-color: var(--error); background: #fff5f5; color: #721c24; }
-        .option-btn.inspecting { border-style: dashed; border-width: 3px; border-color: var(--primary); }
+        .option-btn:hover { border-color: #cbd5e1; }
+        .option-btn.correct-show { border-color: var(--accent) !important; background: #e6fffa !important; color: #155724 !important; font-weight: bold; }
+        .option-btn.wrong-show { border-color: var(--error) !important; background: #fff5f5 !important; color: #721c24 !important; }
+        .option-btn.inspecting { border-style: dashed !important; border-width: 3px !important; border-color: var(--primary) !important; }
 
-        .explanation { margin-top: 15px; padding: 15px; border-radius: 12px; font-size: 14px; border-left: 5px solid var(--primary); background: var(--highlight); display: none; }
+        .explanation { margin-top: 15px; padding: 15px; border-radius: 12px; font-size: 15px; border-left: 5px solid var(--primary); background: var(--highlight); display: none; }
         
-        /* Resultados */
         .results-card { background: white; padding: 30px; border-radius: 20px; text-align: center; box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
         .percentage { font-size: 48px; font-weight: 800; color: var(--primary); margin: 10px 0; }
         .weak-topics { text-align: left; background: #fff5f5; padding: 15px; border-radius: 12px; margin-top: 20px; }
@@ -64,12 +64,13 @@
 <div class="container">
 
     <div id="view-loading" class="view active">
-        <h1>🩺 MedMaster</h1>
-        <p style="text-align: center;">Cargando biblioteca...</p>
+        <h1>🩺 MedMaster v4.0</h1>
+        <p style="text-align: center;" id="loading-text">Cargando base de datos...</p>
     </div>
     
     <div id="view-internado" class="view">
-        <h1>¿Qué Internado estudias?</h1>
+        <h1>🩺 MedMaster v4.0</h1>
+        <h3 style="text-align: center; color: var(--secondary); margin-top:-5px;">¿Qué Internado estudias?</h3>
         <div id="internado-grid" class="grid"></div>
         <div class="status-bar" style="margin-top:20px;">Total preguntas cargadas: <span id="db-total">0</span></div>
     </div>
@@ -82,7 +83,7 @@
             <div id="topic-list"></div>
             <div style="margin-top:20px;">
                 <p>Preguntas disponibles: <strong id="total-count">0</strong></p>
-                <input type="number" id="limit-input" placeholder="Cantidad (Vacio = todas)" style="width: 100%; padding: 12px; border-radius: 10px; border: 1px solid #ddd; box-sizing: border-box;">
+                <input type="number" id="limit-input" placeholder="Cantidad (Vacio = todas)" style="width: 100%; padding: 12px; border-radius: 10px; border: 1px solid #ddd; box-sizing: border-box; font-size:16px;">
             </div>
             <button class="btn btn-primary" onclick="startQuiz()">Iniciar Sesión 🚀</button>
         </div>
@@ -91,15 +92,15 @@
 
     <div id="view-quiz" class="view">
         <div class="quiz-nav">
-            <button onclick="confirmExit()" style="background:white; border:none; font-size:20px; cursor:pointer; padding: 5px 10px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">🏠 Salir</button>
+            <button onclick="confirmExit()" style="background:white; border:none; font-size:18px; cursor:pointer; padding: 8px 12px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">🏠 Salir</button>
             <div class="score-live">
                 <span style="color:var(--accent)">✅ <span id="live-good">0</span></span> | 
                 <span style="color:var(--error)">❌ <span id="live-bad">0</span></span>
             </div>
-            <div id="q-progress" style="font-size:12px; color:var(--secondary); font-weight: bold;"></div>
+            <div id="q-progress" style="font-size:13px; color:var(--secondary); font-weight: bold;"></div>
         </div>
         
-        <h2 id="q-text"></h2>
+        <h2 id="q-text" style="font-size: 18px;"></h2>
         <div id="options-container"></div>
         <div id="explanation-box" class="explanation"></div>
         
@@ -113,7 +114,7 @@
         <div class="results-card">
             <h1>Resumen de Sesión</h1>
             <div class="percentage" id="res-percent">0%</div>
-            <p id="res-score-text"></p>
+            <p id="res-score-text" style="font-size:18px; font-weight:bold;"></p>
             
             <div id="weak-section" class="weak-topics" style="display:none;">
                 <strong>⚠️ Temas a reforzar:</strong>
@@ -128,6 +129,7 @@
 </div>
 
 <script>
+    // 1. TUS RUTAS DE ARCHIVOS
     const archivosPreguntas = [
         'data/ped_cardio_1.json',
         'data/ped_nefro_1.json',
@@ -142,23 +144,34 @@
     let currentIndex = 0;
     let stats = { correct: 0, wrong: 0, errorsByTopic: {} };
 
+    // 2. ROMPE-CACHÉ DE VERCEL (Añade ?t=123456789 a la url para obligar descarga nueva)
     async function cargarTodo() {
+        let errores = [];
         for (const url of archivosPreguntas) {
             try {
-                const res = await fetch(url);
+                const fetchUrl = url + "?t=" + new Date().getTime();
+                const res = await fetch(fetchUrl);
                 if (res.ok) {
                     const data = await res.json();
                     database = [...database, ...data];
+                } else {
+                    errores.push(`El archivo ${url} no existe o tiene error 404.`);
                 }
-            } catch (e) { console.error("Error cargando " + url); }
+            } catch (e) { 
+                errores.push(`Fallo al leer ${url}. Revisa comas y corchetes en el JSON.`);
+            }
         }
-        document.getElementById('db-total').innerText = database.length;
-        renderInternados();
-        showView(database.length > 0 ? 'view-internado' : 'view-loading');
+        
+        if (database.length > 0) {
+            document.getElementById('db-total').innerText = database.length;
+            renderInternados();
+            showView('view-internado');
+        } else {
+            document.getElementById('loading-text').innerHTML = `<span style="color:red; font-weight:bold;">Error Crítico:</span><br>${errores.join('<br>')}`;
+        }
     }
 
     function renderInternados() {
-        // Soporta que Gemini haya escrito "internado" o "Internado"
         const internados = [...new Set(database.map(q => q.internado || q.Internado || "Sin Clasificar"))];
         const grid = document.getElementById('internado-grid');
         grid.innerHTML = "";
@@ -230,8 +243,6 @@
             sessionQuestions = pool.map(q => ({...q, answered: false, userChoiceIdx: null, isUserCorrect: null}));
         }
         
-        if (sessionQuestions.length === 0) return alert("No hay preguntas con esos filtros.");
-        
         currentIndex = 0;
         stats = { correct: 0, wrong: 0, errorsByTopic: {} };
         updateLiveScore();
@@ -239,21 +250,29 @@
         renderQuestion();
     }
 
+    // 3. BUSCADOR AGRESIVO DE DATOS
+    function obtenerValor(obj, palabrasClave, valorPorDefecto) {
+        if(!obj) return valorPorDefecto;
+        for (let key in obj) {
+            let k = key.toLowerCase().trim();
+            for (let word of palabrasClave) {
+                if (k.includes(word)) return obj[key];
+            }
+        }
+        return valorPorDefecto;
+    }
+
     function renderQuestion() {
         const q = sessionQuestions[currentIndex];
         const textEl = document.getElementById('q-text');
         const progressEl = document.getElementById('q-progress');
-        const metaEl = document.getElementById('q-meta');
         const optionsContainer = document.getElementById('options-container');
         const expBox = document.getElementById('explanation-box');
 
-        // Modo Inteligente para buscar el texto de la pregunta
-        const temaSeguro = q.topic || q.tema || q.Tema || "Varios";
-        const areaSegura = q.area || q.Area || "General";
-        
-        textEl.innerText = q.text || q.texto || q.pregunta || "Pregunta sin texto detectado.";
-        progressEl.innerText = `Pregunta ${currentIndex + 1} de ${sessionQuestions.length}`;
-        metaEl.innerText = `${areaSegura} • ${temaSeguro}`;
+        // Extraer texto
+        let textoPreg = obtenerValor(q, ['text', 'preg', 'enunciado'], null) || q.text || "Pregunta sin texto detectado.";
+        textEl.innerText = textoPreg;
+        progressEl.innerText = `Preg. ${currentIndex + 1} de ${sessionQuestions.length}`;
         
         optionsContainer.innerHTML = "";
         expBox.style.display = "none";
@@ -261,35 +280,43 @@
         document.getElementById('prev-btn').style.visibility = currentIndex > 0 ? "visible" : "hidden";
         document.getElementById('next-btn').style.display = q.answered ? "block" : "none";
 
-        // Modo Inteligente para buscar las alternativas
-        const opcionesArray = q.options || q.opciones || q.alternativas || [];
+        // Extraer opciones (A prueba de espacios o traducciones raras)
+        let opcionesArray = obtenerValor(q, ['option', 'opcion', 'alternat', 'respuest'], []);
+        
+        if (!Array.isArray(opcionesArray)) opcionesArray = []; // Seguridad extra
 
         if(opcionesArray.length === 0) {
-            optionsContainer.innerHTML = "<p style='color:red;'>⚠️ Error: Esta pregunta no tiene alternativas válidas en el archivo JSON.</p>";
+            optionsContainer.innerHTML = `<div style="background:#fff5f5; color:#c53030; padding:15px; border-radius:10px; border: 1px solid #feb2b2;">⚠️ <strong>Error Visual:</strong> La pregunta cargó, pero el sistema no pudo leer las opciones en el archivo JSON. Verifica que las opciones estén en formato de lista (Array [ ]).</div>`;
             return;
         }
 
-        opcionesArray.forEach((opt, idx) => {
-            const b = document.createElement('button');
-            b.className = 'option-btn';
-            
-            // Buscar el texto de la opción
-            b.innerText = opt.text || opt.texto || opt.opcion || "Opción sin texto";
-            
-            // Buscar si es correcta
-            const esCorrecta = opt.isCorrect === true || opt.esCorrecta === true || opt.correcta === true;
-            
-            if (q.answered) {
-                if (esCorrecta) b.classList.add('correct-show');
-                if (idx === q.userChoiceIdx && !esCorrecta) b.classList.add('wrong-show');
-                if (idx === q.userChoiceIdx) {
-                    b.classList.add('inspecting');
-                    showExplanation(opt, esCorrecta);
+        try {
+            opcionesArray.forEach((opt, idx) => {
+                const b = document.createElement('button');
+                b.className = 'option-btn';
+                
+                // Buscar texto de la opción
+                b.innerText = obtenerValor(opt, ['text', 'opcion', 'descrip'], null) || opt.text || `Opción ${idx + 1} (Falta texto)`;
+                
+                // Saber si es correcta
+                let esCorrecta = false;
+                if(opt.isCorrect === true || opt.esCorrecta === true || opt.correcta === true) esCorrecta = true;
+                
+                if (q.answered) {
+                    if (esCorrecta) b.classList.add('correct-show');
+                    if (idx === q.userChoiceIdx && !esCorrecta) b.classList.add('wrong-show');
+                    if (idx === q.userChoiceIdx) {
+                        b.classList.add('inspecting');
+                        showExplanation(opt, esCorrecta);
+                    }
                 }
-            }
-            b.onclick = () => handleOptionClick(b, opt, q, idx, esCorrecta);
-            optionsContainer.appendChild(b);
-        });
+                
+                b.onclick = () => handleOptionClick(b, opt, q, idx, esCorrecta);
+                optionsContainer.appendChild(b);
+            });
+        } catch (error) {
+            optionsContainer.innerHTML = `<div style="color:red; font-weight:bold;">Error grave al dibujar botones: ${error.message}</div>`;
+        }
     }
 
     function handleOptionClick(btn, opt, q, idx, esCorrecta) {
@@ -300,7 +327,7 @@
             q.userChoiceIdx = idx;
             q.isUserCorrect = esCorrecta;
             
-            const temaSeguro = q.topic || q.tema || q.Tema || "Varios";
+            const temaSeguro = obtenerValor(q, ['topic', 'tema'], "General") || "General";
 
             if (esCorrecta) stats.correct++;
             else {
@@ -321,8 +348,8 @@
         const box = document.getElementById('explanation-box');
         box.style.display = "block";
         box.style.borderLeftColor = esCorrecta ? "var(--accent)" : "var(--error)";
-        // Buscar la explicación
-        const explicacionTexto = opt.explanation || opt.explicacion || opt.explicación || opt.justificacion || "Sin explicación disponible.";
+        
+        let explicacionTexto = obtenerValor(opt, ['explan', 'explic', 'justif'], "Sin explicación disponible.");
         box.innerHTML = `<strong>${esCorrecta ? '✅ Respuesta Correcta' : '❌ Opción analizada'}:</strong><br>${explicacionTexto}`;
     }
 
@@ -351,8 +378,7 @@
         if (topicsSorted.length > 0) {
             document.getElementById('weak-section').style.display = "block";
             topicsSorted.slice(0, 5).forEach(([topic, count]) => {
-                const li = document.createElement('li');
-                li.innerText = `${topic} (${count} errores)`;
+                const li = document.createElement('li'); li.innerText = `${topic} (${count} errores)`;
                 weakList.appendChild(li);
             });
         } else {
