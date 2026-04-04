@@ -22,7 +22,7 @@
         h1 { text-align: center; color: var(--primary); margin-bottom: 10px; }
         .status-bar { text-align: center; font-size: 12px; color: var(--secondary); margin-bottom: 20px; }
 
-        /* Tarjetas Estéticas */
+        /* Tarjetas */
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 15px; margin-top: 15px; }
         .card { 
             background: var(--card); padding: 20px 10px; border-radius: 16px; text-align: center;
@@ -64,7 +64,7 @@
 
     <div id="view-loading" class="view active">
         <h1>🩺 MedMaster</h1>
-        <p style="text-align: center;">Cargando tus preguntas desde la nube...</p>
+        <p style="text-align: center;">Cargando preguntas...</p>
     </div>
     
     <div id="view-internado" class="view">
@@ -109,12 +109,9 @@
 </div>
 
 <script>
-    /** * CONFIGURACIÓN: Añade aquí los archivos que vayas creando en la carpeta 'data'
-     * Ejemplo: 'data/pediatria_cardio.json'
-     */
+    /* AGREGA TUS ARCHIVOS AQUÍ */
     const archivosPreguntas = [
         'data/ped_cardio_1.json' 
-        // Agrega más rutas aquí separadas por comas
     ];
 
     let database = [];
@@ -124,7 +121,6 @@
     let sessionQuestions = [];
     let currentIndex = 0;
 
-    // CARGA DE DATOS DESDE LA NUBE
     async function cargarTodo() {
         showView('view-loading');
         for (const url of archivosPreguntas) {
@@ -134,11 +130,12 @@
                     const json = await res.json();
                     database = [...database, ...json];
                 }
-            } catch (e) { console.error("Error cargando: " + url); }
+            } catch (e) { console.error("Error: " + url); }
         }
         document.getElementById('db-total').innerText = database.length;
         renderInternados();
-        showView('view-internado');
+        showView(database.length > 0 ? 'view-internado' : 'view-loading');
+        if(database.length === 0) alert("No se encontraron preguntas. Revisa que el archivo JSON esté en la carpeta data/");
     }
 
     function renderInternados() {
@@ -159,11 +156,9 @@
         selectedAreas.clear();
         selectedTopics.clear();
         document.getElementById('setup-title').innerText = "Internado: " + name;
-        
         const areas = [...new Set(database.filter(q => q.internado === name).map(q => q.area))];
         const grid = document.getElementById('area-grid');
         grid.innerHTML = "";
-        
         areas.forEach(area => {
             const card = document.createElement('div');
             card.className = 'card';
@@ -171,7 +166,6 @@
             card.onclick = () => toggleArea(area, card);
             grid.appendChild(card);
         });
-
         showView('view-setup');
         document.getElementById('topic-config').style.display = "none";
     }
@@ -190,15 +184,12 @@
     function updateTopics() {
         const list = document.getElementById('topic-list');
         list.innerHTML = "";
-        
         if (selectedAreas.size === 0) {
             document.getElementById('topic-config').style.display = "none";
             return;
         }
-
         document.getElementById('topic-config').style.display = "block";
         const topics = [...new Set(database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area)).map(q => q.topic))];
-
         topics.forEach(t => {
             const div = document.createElement('div');
             div.className = 'topic-item';
@@ -223,12 +214,9 @@
     function startQuiz() {
         let pool = database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area) && selectedTopics.has(q.topic));
         pool.sort(() => Math.random() - 0.5);
-        
         const limit = document.getElementById('limit-input').value;
         if (limit) pool = pool.slice(0, parseInt(limit));
-
-        if (pool.length === 0) return alert("Selecciona al menos un tema con preguntas.");
-
+        if (pool.length === 0) return alert("Selecciona temas.");
         sessionQuestions = pool;
         currentIndex = 0;
         showView('view-quiz');
@@ -240,27 +228,22 @@
         document.getElementById('q-meta').innerText = `${q.area} • ${q.topic}`;
         document.getElementById('q-progress').innerText = `${currentIndex + 1} / ${sessionQuestions.length}`;
         document.getElementById('q-text').innerText = q.text;
-        document.getElementById('q-hint').innerText = q.hint || "No hay pistas para esta pregunta.";
+        document.getElementById('q-hint').innerText = q.hint || "Sin pistas.";
         document.getElementById('q-hint').style.display = "none";
         document.getElementById('explanation-box').style.display = "none";
         document.getElementById('next-btn').style.display = "none";
-
         const container = document.getElementById('options-container');
         container.innerHTML = "";
-
         q.options.forEach(opt => {
             const b = document.createElement('button');
             b.className = 'option-btn';
             b.innerText = opt.text;
             b.onclick = () => {
-                const all = container.querySelectorAll('button');
-                all.forEach(btn => btn.disabled = true);
+                container.querySelectorAll('button').forEach(btn => btn.disabled = true);
                 b.classList.add(opt.isCorrect ? 'correct' : 'wrong');
-                
                 const exp = document.getElementById('explanation-box');
                 exp.style.display = "block";
                 exp.style.background = opt.isCorrect ? "#e6fffa" : "#fff5f5";
-                exp.style.border = opt.isCorrect ? "1px solid #38a169" : "1px solid #e53e3e";
                 exp.innerHTML = `<strong>${opt.isCorrect ? '✅ ¡Correcto!' : '❌ Incorrecto'}</strong><br>${opt.explanation}`;
                 document.getElementById('next-btn').style.display = "block";
             };
@@ -276,10 +259,7 @@
     function nextQuestion() {
         currentIndex++;
         if (currentIndex < sessionQuestions.length) renderQuestion();
-        else {
-            alert("¡Has terminado la sesión de estudio!");
-            showView('view-internado');
-        }
+        else { alert("¡Terminado!"); showView('view-internado'); }
     }
 
     function showView(id) {
@@ -288,221 +268,6 @@
     }
 
     window.onload = cargarTodo;
-</script>
-</body>
-</html>            display: block; width: 100%; padding: 15px; margin-top: 20px; border: none;
-            border-radius: 10px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.2s;
-        }
-        .btn-primary { background: var(--accent); color: white; }
-        .btn-primary:hover { background: #27ae60; }
-        .btn-back { background: var(--secondary); color: white; margin-top: 10px; }
-
-        /* Quiz */
-        .option-btn { 
-            display: block; width: 100%; padding: 15px; margin: 10px 0; border: 2px solid #eee;
-            border-radius: 10px; background: white; text-align: left; font-size: 16px; cursor: pointer;
-        }
-        .correct { background: #d4edda !important; border-color: #28a745 !important; color: #155724; }
-        .wrong { background: #f8d7da !important; border-color: #dc3545 !important; color: #721c24; }
-        .explanation { margin-top: 15px; padding: 15px; border-radius: 10px; font-size: 14px; line-height: 1.5; }
-    </style>
-</head>
-<body>
-
-<div class="container">
-    
-    <div id="view-internado" class="view active">
-        <h1>🩺 Selecciona tu Internado</h1>
-        <div id="internado-grid" class="grid"></div>
-    </div>
-
-    <div id="view-setup" class="view">
-        <div class="breadcrumb" onclick="showView('view-internado')"> ❮ Volver a Internados</div>
-        <h1 id="setup-title">Configurar Sesión</h1>
-        
-        <p><strong>1. Selecciona Áreas:</strong></p>
-        <div id="area-grid" class="grid"></div>
-
-        <div id="topic-config" class="setup-box" style="display:none;">
-            <p><strong>2. Ajustar Tópicos:</strong></p>
-            <div id="topic-list"></div>
-            
-            <hr style="margin: 20px 0; opacity: 0.2;">
-            <p>Preguntas disponibles: <span id="total-count">0</span></p>
-            <input type="number" id="limit-input" placeholder="Cantidad (ej: 20) o deja vacío para todas" 
-                   style="width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 8px; box-sizing: border-box;">
-            
-            <button class="btn btn-primary" onclick="startQuiz()">Comenzar Estudio 🚀</button>
-        </div>
-    </div>
-
-    <div id="view-quiz" class="view">
-        <div id="quiz-header" style="display:flex; justify-content: space-between; font-size: 12px; color: var(--secondary);">
-            <span id="q-meta"></span>
-            <span id="q-progress"></span>
-        </div>
-        <h2 id="q-text" style="margin: 20px 0;"></h2>
-        <div id="options-container"></div>
-        <div id="explanation-box" class="explanation" style="display:none;"></div>
-        <button id="next-btn" class="btn btn-primary" style="display:none;" onclick="nextQuestion()">Siguiente Pregunta ➔</button>
-    </div>
-
-</div>
-
-<script>
-    // BASE DE DATOS (Prueba)
-    // Cuando tengas tus JSON, los pegaremos aquí o los cargaremos externamente
-    const database = [
-        { id: 1, internado: "Pediatría", area: "Cardio", topic: "Soplos", text: "¿Soplo de Still es?", options: [{text: "Inocente", isCorrect: true, explanation: "Sí, es el más común."}, {text: "Patológico", isCorrect: false, explanation: "No, suele ser vibratorio."}]},
-        { id: 2, internado: "Medicina Interna", area: "Cardio", topic: "Infarto", text: "¿Manejo de IAM con SDST?", options: [{text: "Reperfusión", isCorrect: true, explanation: "Es la prioridad."}, {text: "Solo aspirina", isCorrect: false, explanation: "Insuficiente."}]},
-        { id: 3, internado: "Pediatría", area: "Gastro", topic: "Reflujo", text: "¿Vómito en RGE es?", options: [{text: "Post-prandial", isCorrect: true, explanation: "Típico del lactante."}, {text: "Bilioso", isCorrect: false, explanation: "Sugerente de obstrucción."}]}
-    ];
-
-    let currentInternado = "";
-    let selectedAreas = new Set();
-    let selectedTopics = new Set();
-    let sessionQuestions = [];
-    let currentIndex = 0;
-
-    function init() {
-        const internados = [...new Set(database.map(q => q.internado))];
-        const grid = document.getElementById('internado-grid');
-        grid.innerHTML = "";
-        internados.forEach(name => {
-            const card = document.createElement('div');
-            card.className = 'card';
-            card.innerText = name;
-            card.onclick = () => selectInternado(name);
-            grid.appendChild(card);
-        });
-    }
-
-    function selectInternado(name) {
-        currentInternado = name;
-        selectedAreas.clear();
-        selectedTopics.clear();
-        document.getElementById('setup-title').innerText = name;
-        
-        const areas = [...new Set(database.filter(q => q.internado === name).map(q => q.area))];
-        const grid = document.getElementById('area-grid');
-        grid.innerHTML = "";
-        
-        areas.forEach(area => {
-            const card = document.createElement('div');
-            card.className = 'card';
-            card.innerText = area;
-            card.onclick = () => toggleArea(area, card);
-            grid.appendChild(card);
-        });
-
-        showView('view-setup');
-        document.getElementById('topic-config').style.display = "none";
-    }
-
-    function toggleArea(area, element) {
-        if (selectedAreas.has(area)) {
-            selectedAreas.delete(area);
-            element.classList.remove('selected');
-        } else {
-            selectedAreas.add(area);
-            element.classList.add('selected');
-        }
-        updateTopics();
-    }
-
-    function updateTopics() {
-        const list = document.getElementById('topic-list');
-        list.innerHTML = "";
-        
-        if (selectedAreas.size === 0) {
-            document.getElementById('topic-config').style.display = "none";
-            return;
-        }
-
-        document.getElementById('topic-config').style.display = "block";
-        const topics = [...new Set(database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area)).map(q => q.topic))];
-
-        topics.forEach(t => {
-            const div = document.createElement('div');
-            div.className = 'topic-item';
-            div.innerHTML = `<input type="checkbox" checked onchange="toggleTopic('${t}')"> ${t}`;
-            list.appendChild(div);
-            selectedTopics.add(t);
-        });
-        updateCount();
-    }
-
-    function toggleTopic(t) {
-        if (selectedTopics.has(t)) selectedTopics.delete(t);
-        else selectedTopics.add(t);
-        updateCount();
-    }
-
-    function updateCount() {
-        const count = database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area) && selectedTopics.has(q.topic)).length;
-        document.getElementById('total-count').innerText = count;
-    }
-
-    function startQuiz() {
-        let questions = database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area) && selectedTopics.has(q.topic));
-        questions.sort(() => Math.random() - 0.5);
-        
-        const limit = document.getElementById('limit-input').value;
-        if (limit) questions = questions.slice(0, parseInt(limit));
-
-        if (questions.length === 0) return alert("No hay preguntas con esos filtros.");
-
-        sessionQuestions = questions;
-        currentIndex = 0;
-        showView('view-quiz');
-        renderQuestion();
-    }
-
-    function renderQuestion() {
-        const q = sessionQuestions[currentIndex];
-        document.getElementById('q-meta').innerText = `${q.area} • ${q.topic}`;
-        document.getElementById('q-progress').innerText = `${currentIndex + 1} / ${sessionQuestions.length}`;
-        document.getElementById('q-text').innerText = q.text;
-        document.getElementById('explanation-box').style.display = "none";
-        document.getElementById('next-btn').style.display = "none";
-
-        const container = document.getElementById('options-container');
-        container.innerHTML = "";
-
-        q.options.forEach(opt => {
-            const b = document.createElement('button');
-            b.className = 'option-btn';
-            b.innerText = opt.text;
-            b.onclick = () => {
-                const all = container.querySelectorAll('button');
-                all.forEach(btn => btn.disabled = true);
-                b.classList.add(opt.isCorrect ? 'correct' : 'wrong');
-                
-                const exp = document.getElementById('explanation-box');
-                exp.style.display = "block";
-                exp.style.background = opt.isCorrect ? "#d4edda" : "#f8d7da";
-                exp.innerHTML = `<strong>${opt.isCorrect ? '¡Correcto!' : 'Incorrecto'}</strong><br>${opt.explanation}`;
-                document.getElementById('next-btn').style.display = "block";
-            };
-            container.appendChild(b);
-        });
-    }
-
-    function nextQuestion() {
-        currentIndex++;
-        if (currentIndex < sessionQuestions.length) renderQuestion();
-        else {
-            alert("¡Sesión finalizada!");
-            showView('view-internado');
-        }
-    }
-
-    function showView(id) {
-        document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
-        document.getElementById(id).classList.add('active');
-    }
-
-    init();
 </script>
 </body>
 </html>
