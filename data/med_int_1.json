@@ -1300,5 +1300,1431 @@
         "explanation": "Causa anemia macrocítica masiva, opuesto a la extrema pequeñez microcítica relatada."
       }
     ]
+  },
+  {
+    "id": 91,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Síndrome coronario agudo con elevación del segmento ST (SCACEST)",
+    "text": "Hombre de 60 años consulta por dolor opresivo retroesternal de 2 horas de evolución. El ECG de urgencias muestra supradesnivel del segmento ST en las derivaciones II, III y aVF, y un infradesnivel especular en V1-V3. El paciente se encuentra pálido, con una PA de 85/50 mmHg, presión venosa yugular elevada, pero con los campos pulmonares limpios a la auscultación. Se sospecha fuerte extensión del infarto al ventrículo derecho. En este escenario inicial, ¿qué fármaco de uso habitual en los síndromes coronarios agudos está formalmente contraindicado?",
+    "hint": "Busca el fármaco que dilata las venas y disminuye la precarga, lo cual es fatal cuando el ventrículo derecho está infartado.",
+    "options": [
+      {
+        "text": "a) Ácido acetilsalicílico (Aspirina).",
+        "isCorrect": false,
+        "explanation": "Es el pilar fundamental del tratamiento antiagregante en el SCACEST."
+      },
+      {
+        "text": "b) Clopidogrel.",
+        "isCorrect": false,
+        "explanation": "Está indicado junto con la aspirina (doble antiagregación)."
+      },
+      {
+        "text": "c) Nitroglicerina sublingual o intravenosa.",
+        "isCorrect": true,
+        "explanation": "El documento 'Complicaciones mecánicas del infarto agudo de miocardio' y 'Síndrome coronario agudo con elevación del segmento ST' establecen que el infarto de pared inferior (II, III, aVF) se asocia hasta en un 30-50% a infarto del ventrículo derecho. Estos pacientes dependen críticamente de la precarga. Los nitratos causan venodilatación severa que disminuye bruscamente la precarga y puede llevar a hipotensión refractaria y shock."
+      },
+      {
+        "text": "d) Atorvastatina a altas dosis.",
+        "isCorrect": false,
+        "explanation": "Se debe administrar precozmente para estabilizar la placa de ateroma."
+      },
+      {
+        "text": "e) Heparina no fraccionada.",
+        "isCorrect": false,
+        "explanation": "Forma parte del manejo antitrombótico estándar del IAM."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Infarto Agudo al Miocardio",
+    "text": "¿Cuál es la enzima o biomarcador más sensible y específico para el diagnóstico de infarto agudo de miocardio (IAM)?",
+    "hint": "Este biomarcador puede permanecer elevado durante varios días después del evento.",
+    "options": [
+      { "text": "A) CPK-MB", "isCorrect": false, "explanation": "Es útil, especialmente para detectar reinfartos tempranos, pero menos específica." },
+      { "text": "B) Troponina (I o T)", "isCorrect": true, "explanation": "Las troponinas ultrasensibles son el biomarcador de elección debido a su alta sensibilidad y especificidad miocárdica." },
+      { "text": "C) Mioglobina", "isCorrect": false, "explanation": "Se eleva muy rápido pero es muy inespecífica." },
+      { "text": "D) LDH", "isCorrect": false, "explanation": "Es un marcador tardío e inespecífico." },
+      { "text": "E) Transaminasas (AST/ALT)", "isCorrect": false, "explanation": "Se elevan en daño hepático, no son específicas del corazón." }
+    ]
+  },
+  {
+    "id": 93,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Arritmias Ventriculares",
+    "text": "Paciente en paro cardiorrespiratorio cuyo monitor muestra fibrilación ventricular. ¿Cuál es la medida inicial más importante tras el inicio de RCP de alta calidad?",
+    "hint": "Esta arritmia necesita un \"reseteo\" eléctrico urgente.",
+    "options": [
+      { "text": "A) Administrar Amiodarona 300 mg IV.", "isCorrect": false, "explanation": "Se usa después del tercer choque fallido." },
+      { "text": "B) Administrar Adrenalina 1 mg IV.", "isCorrect": false, "explanation": "Se administra después del segundo choque en ritmos desfibrilables." },
+      { "text": "C) Desfibrilación eléctrica inmediata.", "isCorrect": true, "explanation": "La fibrilación ventricular es un ritmo desfibrilable y el choque precoz es el principal predictor de supervivencia." },
+      { "text": "D) Intubación endotraqueal.", "isCorrect": false, "explanation": "No debe retrasar las compresiones ni la desfibrilación." },
+      { "text": "E) Administrar Lidocaína.", "isCorrect": false, "explanation": "Es una alternativa a la amiodarona, pero no reemplaza la desfibrilación inicial." }
+    ]
+  },
+  {
+    "id": 94,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Bloqueos Auriculoventriculares",
+    "text": "Un ECG muestra un alargamiento progresivo del intervalo PR hasta que una onda P no conduce (fenómeno de Wenckebach). ¿Cuál es el diagnóstico?",
+    "hint": "Es un bloqueo de segundo grado, pero del tipo que suele ser benigno.",
+    "options": [
+      { "text": "A) Bloqueo AV de primer grado", "isCorrect": false, "explanation": "Todas las ondas P conducen, solo que con un PR prolongado constante (>0.20s)." },
+      { "text": "B) Bloqueo AV de segundo grado Mobitz I", "isCorrect": true, "explanation": "El Mobitz I (Wenckebach) se caracteriza por el alargamiento progresivo del PR previo al bloqueo de la onda P." },
+      { "text": "C) Bloqueo AV de segundo grado Mobitz II", "isCorrect": false, "explanation": "El PR es constante antes del latido bloqueado, asocia mayor riesgo de progresión." },
+      { "text": "D) Bloqueo AV de tercer grado (completo)", "isCorrect": false, "explanation": "Disociación completa entre aurículas (P) y ventrículos (QRS)." },
+      { "text": "E) Bloqueo de rama izquierda", "isCorrect": false, "explanation": "Afecta el complejo QRS (ancho), no la conducción AV." }
+    ]
+  },
+  {
+    "id": 95,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Cardiopatía Isquémica Crónica",
+    "text": "¿Cuál de los siguientes grupos de fármacos NO se utiliza habitualmente para el control de los síntomas en la angina de pecho estable?",
+    "hint": "Piensa en un fármaco que, de hecho, aumenta la demanda de oxígeno del miocardio.",
+    "options": [
+      { "text": "A) Betabloqueadores", "isCorrect": false, "explanation": "Son la primera línea para control de síntomas (reducen FC y contractilidad)." },
+      { "text": "B) Calcioantagonistas (ej. Amlodipino)", "isCorrect": false, "explanation": "Útiles, especialmente si hay contraindicación a betabloqueadores o componente vasoespástico." },
+      { "text": "C) Nitratos de acción prolongada", "isCorrect": false, "explanation": "Clásicamente usados para vasodilatación coronaria y venosa." },
+      { "text": "D) Agonistas Beta-adrenérgicos (ej. Isoproterenol)", "isCorrect": true, "explanation": "Estos fármacos aumentan la frecuencia cardíaca y la contractilidad, aumentando el consumo de O2 y empeorando la isquemia." },
+      { "text": "E) Ivabradina", "isCorrect": false, "explanation": "Inhibe el canal If del nodo sinusal, reduciendo la FC sin afectar inotropismo." }
+    ]
+  },
+  {
+    "id": 96,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Disección Aórtica",
+    "text": "Paciente hipertenso de 65 años acude por dolor torácico \"desgarrador\" irradiado a la espalda. Presenta asimetría de pulsos en extremidades superiores. ¿Cuál es el estudio de imagen de elección para el diagnóstico rápido en urgencias?",
+    "hint": "Necesitas ver el lumen arterial y detectar si hay una falsa luz.",
+    "options": [
+      { "text": "A) Radiografía de tórax", "isCorrect": false, "explanation": "Puede mostrar ensanchamiento mediastínico, pero no confirma el diagnóstico." },
+      { "text": "B) Electrocardiograma", "isCorrect": false, "explanation": "Suele ser inespecífico o normal, útil para descartar IAM concomitante." },
+      { "text": "C) Angiotomografía (Angio-TAC) de tórax y abdomen", "isCorrect": true, "explanation": "Es el estándar de oro en urgencias (rápido y altamente sensible) para diagnosticar y clasificar la disección aórtica." },
+      { "text": "D) Ecocardiograma transtorácico (ETT)", "isCorrect": false, "explanation": "Menos sensible que el ETE o el TAC para ver la aorta descendente." },
+      { "text": "E) Resonancia Magnética", "isCorrect": false, "explanation": "Tarda demasiado tiempo para una emergencia vital." }
+    ]
+  },
+  {
+    "id": 97,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Taponamiento Cardíaco",
+    "text": "¿Cuál es la tríada clínica de Beck característica del taponamiento cardíaco?",
+    "hint": "Incluye signos de caída del gasto cardíaco y acumulación de líquido alrededor del corazón.",
+    "options": [
+      { "text": "A) Hipotensión, ruidos cardíacos apagados e ingurgitación yugular.", "isCorrect": true, "explanation": "Esta es la clásica tríada de Beck, reflejo de la fisiopatología del taponamiento (restricción al llenado y bajo gasto)." },
+      { "text": "B) Hipertensión, bradicardia y alteraciones respiratorias.", "isCorrect": false, "explanation": "Esta es la tríada de Cushing, indicativa de hipertensión endocraneana." },
+      { "text": "C) Disnea, dolor pleurítico y hemoptisis.", "isCorrect": false, "explanation": "Síntomas sugerentes de tromboembolismo pulmonar." },
+      { "text": "D) Soplo diastólico, pulso celer y danza arterial.", "isCorrect": false, "explanation": "Signos de insuficiencia aórtica severa." },
+      { "text": "E) Dolor torácico, roce pericárdico y cambios ECG difusos.", "isCorrect": false, "explanation": "Clínica de pericarditis aguda." }
+    ]
+  },
+  {
+    "id": 98,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Enfermedad Pulmonar Intersticial",
+    "text": "Paciente de 65 años con disnea progresiva de meses de evolución y tos seca. A la auscultación, crépitos \"tipo velcro\" en las bases pulmonares. La tomografía de alta resolución muestra patrón en \"panal de abejas\" basal y subpleural. Diagnóstico más probable:",
+    "hint": "Es la neumonía intersticial idiopática más común y con peor pronóstico.",
+    "options": [
+      { "text": "A) EPOC", "isCorrect": false, "explanation": "Daría patrón obstructivo y enfisema, no panalización ni crépitos tipo velcro." },
+      { "text": "B) Asma severa", "isCorrect": false, "explanation": "Enfermedad obstructiva reversible, no genera fibrosis intersticial." },
+      { "text": "C) Fibrosis Pulmonar Idiopática (FPI)", "isCorrect": true, "explanation": "La clínica de disnea progresiva, crépitos tipo velcro y el patrón radiológico de panal de abejas (Neumonía Intersticial Usual - UIP) son patognomónicos." },
+      { "text": "D) Neumonía organizada criptogénica", "isCorrect": false, "explanation": "Presenta consolidaciones parcheadas o en vidrio esmerilado, no panalización típica." },
+      { "text": "E) Sarcoidosis", "isCorrect": false, "explanation": "Suele afectar el lóbulo superior y tener adenopatías hiliares bilaterales." }
+    ]
+  },
+  {
+    "id": 99,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Hipertensión Pulmonar",
+    "text": "¿Cuál es el valor hemodinámico que define a la hipertensión pulmonar precapilar en el cateterismo cardíaco derecho?",
+    "hint": "Busca una presión media alta pero con presión de enclavamiento normal (indicando que el problema no es el lado izquierdo del corazón).",
+    "options": [
+      { "text": "A) Presión Arterial Pulmonar media (PAPm) > 20 mmHg y Presión de Enclavamiento Pulmonar (PCP) ≤ 15 mmHg.", "isCorrect": true, "explanation": "Estos son los criterios actuales: PAPm > 20 mmHg con PCP (o presión capilar pulmonar) normal o baja, descartando fallo izquierdo." },
+      { "text": "B) PAPm > 25 mmHg y PCP > 15 mmHg.", "isCorrect": false, "explanation": "Esto define a la HTP postcapilar (generalmente por insuficiencia cardíaca izquierda)." },
+      { "text": "C) PAP sistólica > 40 mmHg estimada por ecocardiograma.", "isCorrect": false, "explanation": "El ecocardiograma es de tamizaje, el diagnóstico definitivo requiere cateterismo." },
+      { "text": "D) PAPm > 15 mmHg.", "isCorrect": false, "explanation": "El corte histórico era 25, actualmente se considera >20 mmHg." },
+      { "text": "E) Presión de Aurícula Derecha > 10 mmHg.", "isCorrect": false, "explanation": "Indica disfunción derecha, pero no define la HTP por sí sola." }
+    ]
+  },
+  {
+    "id": 100,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Crisis Asmática",
+    "text": "Paciente ingresa a urgencias con crisis asmática severa. Presenta silencio auscultatorio, cianosis y letargia. La gasometría arterial muestra pH 7.25, PaCO2 55 mmHg, PaO2 50 mmHg. ¿Qué indica la hipercapnia (PaCO2 55 mmHg) en este contexto?",
+    "hint": "En un paciente que está trabajando duro para respirar, la retención de CO2 no es buena señal.",
+    "options": [
+      { "text": "A) Mejoría del cuadro clínico.", "isCorrect": false, "explanation": "Una crisis leve/moderada suele cursar con hipocapnia por taquipnea." },
+      { "text": "B) Acidosis metabólica compensada.", "isCorrect": false, "explanation": "Es una acidosis respiratoria (pH bajo, CO2 alto)." },
+      { "text": "C) Agotamiento muscular respiratorio y fallo ventilatorio inminente.", "isCorrect": true, "explanation": "En una crisis asmática, la pseudonormalización o elevación de la PaCO2 significa que el paciente está agotado y ya no puede ventilar, indicando necesidad inminente de intubación." },
+      { "text": "D) Que el broncodilatador está haciendo efecto.", "isCorrect": false, "explanation": "Indica exactamente lo contrario, fallo terapéutico." },
+      { "text": "E) Toxicidad por corticoides.", "isCorrect": false, "explanation": "No tiene relación con la gasometría aguda." }
+    ]
+  },
+  {
+    "id": 101,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Neumoconiosis",
+    "text": "Trabajador de minas de carbón durante 30 años presenta patrón nodular fino difuso en Rx de tórax. ¿Qué complicación infecciosa específica tiene mayor riesgo de desarrollar comparado con la población general, especialmente en ciertas neumoconiosis como la silicosis?",
+    "hint": "Involucra un bacilo ácido-alcohol resistente.",
+    "options": [
+      { "text": "A) Aspergilosis pulmonar invasiva", "isCorrect": false, "explanation": "Más común en neutropénicos o cavidades preexistentes." },
+      { "text": "B) Neumonía por Pneumocystis jirovecii", "isCorrect": false, "explanation": "Asociada a inmunosupresión profunda celular (VIH)." },
+      { "text": "C) Tuberculosis pulmonar (Silicotuberculosis)", "isCorrect": true, "explanation": "La silicosis predispone fuertemente a la infección por Mycobacterium tuberculosis debido al daño en los macrófagos alveolares por el sílice." },
+      { "text": "D) Infección por Pseudomonas aeruginosa", "isCorrect": false, "explanation": "Frecuente en bronquiectasias y fibrosis quística." },
+      { "text": "E) Histoplasmosis", "isCorrect": false, "explanation": "Relacionada con guano de aves/murciélagos, no directamente minería de sílice/carbón." }
+    ]
+  },
+  {
+    "id": 102,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Síndrome de Apnea Obstructiva del Sueño (SAOS)",
+    "text": "¿Cuál es el tratamiento de elección para los pacientes con SAOS grave (Índice Apnea-Hipopnea > 30/hora)?",
+    "hint": "Implica el uso de un dispositivo que mantiene abierta la vía aérea con presión de aire.",
+    "options": [
+      { "text": "A) Uso de oxígeno suplementario nasal nocturno.", "isCorrect": false, "explanation": "Mejora la hipoxemia pero no resuelve la obstrucción." },
+      { "text": "B) Uvulopalatofaringoplastia en todos los casos.", "isCorrect": false, "explanation": "La cirugía tiene indicaciones específicas y tasas de éxito variables." },
+      { "text": "C) CPAP (Presión Positiva Continua en la Vía Aérea).", "isCorrect": true, "explanation": "Es el \"gold standard\" para el tratamiento del SAOS moderado-grave, evitando el colapso de la vía aérea superior." },
+      { "text": "D) Fármacos estimulantes respiratorios (ej. Teofilina).", "isCorrect": false, "explanation": "No son efectivos ni recomendados." },
+      { "text": "E) Dispositivos de avance mandibular de forma exclusiva.", "isCorrect": false, "explanation": "Se prefieren en SAOS leve-moderado." }
+    ]
+  },
+  {
+    "id": 103,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Acalasia Esofágica",
+    "text": "Paciente joven con disfagia a sólidos y líquidos desde hace meses, regurgitación de alimentos no digeridos y pérdida de peso. Bario muestra esófago dilatado con terminación en \"pico de pájaro\". ¿Cuál es la alteración fisiopatológica subyacente principal?",
+    "hint": "Falla la relajación de un esfínter importante.",
+    "options": [
+      { "text": "A) Hiperclorhidria severa con esofagitis péptica.", "isCorrect": false, "explanation": "Es el mecanismo del ERGE." },
+      { "text": "B) Infiltración neoplásica del cardias.", "isCorrect": false, "explanation": "El cuadro clínico y la imagen (pseudoacalasia) pueden ser similares, pero la acalasia clásica es un trastorno motor." },
+      { "text": "C) Relajación incompleta o ausente del esfínter esofágico inferior (EEI) y aperistalsis del cuerpo esofágico.", "isCorrect": true, "explanation": "Es la definición manométrica y fisiopatológica de la acalasia." },
+      { "text": "D) Anillo mucoso (Anillo de Schatzki).", "isCorrect": false, "explanation": "Causa disfagia intermitente a sólidos, no cursa con aperistalsis masiva." },
+      { "text": "E) Relajación transitoria frecuente del EEI.", "isCorrect": false, "explanation": "Es el mecanismo principal del reflujo gastroesofágico (ERGE)." }
+    ]
+  },
+  {
+    "id": 104,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Reflujo Gastroesofágico (ERGE)",
+    "text": "¿Cuál es la complicación premaligna más temida del ERGE crónico no tratado?",
+    "hint": "Hay un cambio en el tipo de epitelio (metaplasia).",
+    "options": [
+      { "text": "A) Úlcera gástrica.", "isCorrect": false, "explanation": "Ocurre en el estómago, principalmente por H. pylori o AINEs." },
+      { "text": "B) Esófago de Barrett.", "isCorrect": true, "explanation": "Es la metaplasia intestinal del epitelio escamoso del esófago, que confiere riesgo de adenocarcinoma." },
+      { "text": "C) Estenosis péptica.", "isCorrect": false, "explanation": "Es una complicación, pero no es una condición premaligna." },
+      { "text": "D) Síndrome de Mallory-Weiss.", "isCorrect": false, "explanation": "Desgarro mucoso agudo tras vómitos." },
+      { "text": "E) Várices esofágicas.", "isCorrect": false, "explanation": "Son consecuencia de la hipertensión portal, no del reflujo." }
+    ]
+  },
+  {
+    "id": 105,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Hepatitis C",
+    "text": "¿Qué característica distingue a la infección por el Virus de la Hepatitis C (VHC) respecto a la Hepatitis A y B?",
+    "hint": "Tiene una propensión muy alta a no curarse espontáneamente.",
+    "options": [
+      { "text": "A) Se transmite principalmente por vía fecal-oral.", "isCorrect": false, "explanation": "Esta es la vía de la Hepatitis A y E." },
+      { "text": "B) Existe una vacuna altamente efectiva para prevenirla.", "isCorrect": false, "explanation": "Existen vacunas para VHA y VHB, pero no para VHC." },
+      { "text": "C) Alta tasa de progresión a cronicidad (70-80%).", "isCorrect": true, "explanation": "A diferencia del VHB en adultos (donde >90% se curan solos), el VHC tiende marcadamente a la infección crónica y cirrosis si no se trata." },
+      { "text": "D) Cursa casi siempre con falla hepática fulminante aguda.", "isCorrect": false, "explanation": "La hepatitis aguda por VHC suele ser asintomática o muy leve." },
+      { "text": "E) El genoma viral es ADN.", "isCorrect": false, "explanation": "El VHC es un virus ARN (Flaviviridae)." }
+    ]
+  },
+  {
+    "id": 106,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Encefalopatía Hepática",
+    "text": "En un paciente cirrótico, la presencia de asterixis (\"flapping tremor\") y desorientación se debe a la acumulación sistémica de toxinas que el hígado fallido no depuró. ¿Cuál es el tratamiento de primera línea para reducir esta absorción de toxinas?",
+    "hint": "Se busca modificar la flora intestinal y acelerar el tránsito.",
+    "options": [
+      { "text": "A) Transfusión de plasma fresco congelado.", "isCorrect": false, "explanation": "Trata coagulopatía, no encefalopatía." },
+      { "text": "B) Lactulosa oral (y/o Rifaximina).", "isCorrect": true, "explanation": "La lactulosa es un disacárido no absorbible que acidifica el colon (atrapando amoníaco) y tiene efecto laxante." },
+      { "text": "C) Restricción severa de proteínas en la dieta.", "isCorrect": false, "explanation": "Ya no se recomienda porque empeora la desnutrición del cirrótico." },
+      { "text": "D) Diuréticos de asa (Furosemida) a altas dosis.", "isCorrect": false, "explanation": "Pueden desencadenar encefalopatía por hipokalemia y alcalosis." },
+      { "text": "E) Derivación portosistémica intrahepática (TIPS).", "isCorrect": false, "explanation": "El TIPS empeora la encefalopatía al derivar más sangre del hígado al cerebro." }
+    ]
+  },
+  {
+    "id": 107,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Colelitiasis",
+    "text": "¿Qué síntoma es el más característico y definitorio del \"CÓLICO BILIAR\" simple por litiasis vesicular?",
+    "hint": "El dolor tiene un patrón típico postprandial.",
+    "options": [
+      { "text": "A) Dolor constante en fosa ilíaca derecha que empeora al toser.", "isCorrect": false, "explanation": "Sugerente de apendicitis aguda." },
+      { "text": "B) Dolor en epigastrio irradiado en faja a la espalda.", "isCorrect": false, "explanation": "Típico de pancreatitis aguda." },
+      { "text": "C) Dolor en hipocondrio derecho que dura menos de 6 horas, precipitado por ingesta grasa, sin fiebre.", "isCorrect": true, "explanation": "Es la presentación clásica del dolor vesicular transitorio por impactación litiásica sin inflamación de la pared." },
+      { "text": "D) Ictericia franca, acolia y coluria indolora.", "isCorrect": false, "explanation": "Sugerente de obstrucción maligna (cáncer de cabeza de páncreas)." },
+      { "text": "E) Dolor retroesternal urente que alivia con antiácidos.", "isCorrect": false, "explanation": "Típico de reflujo (ERGE)." }
+    ]
+  },
+  {
+    "id": 108,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Cáncer Gástrico",
+    "text": "Signo de Troisier (ganglio de Virchow palpable en fosa supraclavicular izquierda) en un paciente con dispepsia y baja de peso sugiere fuertemente:",
+    "hint": "Es un signo de metástasis a distancia vía el conducto torácico.",
+    "options": [
+      { "text": "A) Úlcera duodenal perforada.", "isCorrect": false, "explanation": "Da abdomen agudo peritonítico." },
+      { "text": "B) Infección aguda por Helicobacter pylori.", "isCorrect": false, "explanation": "No causa adenopatías metastásicas." },
+      { "text": "C) Cáncer gástrico avanzado (diseminado).", "isCorrect": true, "explanation": "El ganglio de Virchow es un clásico signo de metástasis de neoplasias abdominales, particularmente gástricas." },
+      { "text": "D) Linfoma de Hodgkin incipiente.", "isCorrect": false, "explanation": "Podría ser, pero en contexto de dispepsia y baja de peso, orienta más a tumor digestivo primario." },
+      { "text": "E) Hernia hiatal.", "isCorrect": false, "explanation": "Es patología benigna." }
+    ]
+  },
+  {
+    "id": 109,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Infección de Tracto Urinario Complicada",
+    "text": "Mujer gestante en el primer trimestre, asintomática, con urocultivo positivo a E. coli (>10^5 UFC/ml). ¿Cuál es la conducta correcta?",
+    "hint": "El embarazo cambia las reglas respecto al tratamiento de bacteriurias silentes.",
+    "options": [
+      { "text": "A) No tratar, es una bacteriuria asintomática sin indicación.", "isCorrect": false, "explanation": "En población general no se trata, pero las embarazadas son una excepción mayor." },
+      { "text": "B) Tratar con antibióticos seguros en el embarazo (ej. Cefalexina o Fosfomicina).", "isCorrect": true, "explanation": "La bacteriuria asintomática en el embarazo se trata siempre para evitar progresión a pielonefritis y parto prematuro." },
+      { "text": "C) Iniciar tratamiento empírico con Ciprofloxacino.", "isCorrect": false, "explanation": "Las fluoroquinolonas están contraindicadas en el embarazo (afectan cartílago fetal)." },
+      { "text": "D) Solicitar ecografía renal antes de decidir terapia.", "isCorrect": false, "explanation": "No es necesario retrasar el tratamiento." },
+      { "text": "E) Esperar a que desarrolle síntomas urinarios para tratar.", "isCorrect": false, "explanation": "Aumenta el riesgo de sepsis materna y daño fetal." }
+    ]
+  },
+  {
+    "id": 110,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Poliquistosis Renal Autosómica Dominante",
+    "text": "Paciente de 40 años, hipertenso, con hematuria ocasional y masa palpable en flancos. Antecedente de padre fallecido joven por falla renal o aneurisma roto. Diagnóstico probable:",
+    "hint": "Enfermedad genética con múltiples quistes renales bilaterales.",
+    "options": [
+      { "text": "A) Carcinoma de células renales bilateral.", "isCorrect": false, "explanation": "Menos probable la presentación bilateral y familiar pura sin síndromes asociados (como VHL)." },
+      { "text": "B) Glomerulonefritis rápidamente progresiva.", "isCorrect": false, "explanation": "No da masas palpables ni se hereda típicamente de forma autosómica dominante." },
+      { "text": "C) Poliquistosis Renal Autosómica Dominante (PQRAD).", "isCorrect": true, "explanation": "Es la nefropatía hereditaria más común, cursa con HTA, falla renal adulta y se asocia a aneurismas cerebrales (polígono de Willis)." },
+      { "text": "D) Hidronefrosis bilateral.", "isCorrect": false, "explanation": "Causada por obstrucción urológica, no hereditaria dominante." },
+      { "text": "E) Nefritis lúpica.", "isCorrect": false, "explanation": "No forma quistes macroscópicos que se palpan." }
+    ]
+  },
+  {
+    "id": 111,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Trastornos del Equilibrio Ácido-Base",
+    "text": "Gasometría: pH 7.50, PaCO2 45 mmHg, HCO3- 34 mEq/L. ¿Cuál es el trastorno primario?",
+    "hint": "Mira la dirección del pH y qué componente lo explica.",
+    "options": [
+      { "text": "A) Acidosis respiratoria.", "isCorrect": false, "explanation": "El pH está alto (alcalosis), no bajo." },
+      { "text": "B) Alcalosis respiratoria.", "isCorrect": false, "explanation": "El CO2 elevado causaría acidosis, así que el pulmón no es la causa de la alcalosis." },
+      { "text": "C) Alcalosis metabólica.", "isCorrect": true, "explanation": "El pH elevado (alcalemia) se acompaña de bicarbonato elevado, lo cual define el origen metabólico. El aumento leve de PaCO2 es la compensación respiratoria." },
+      { "text": "D) Acidosis metabólica.", "isCorrect": false, "explanation": "El bicarbonato estaría bajo." },
+      { "text": "E) Trastorno mixto sin compensación.", "isCorrect": false, "explanation": "Hay clara compensación." }
+    ]
+  },
+  {
+    "id": 112,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Microangiopatía Trombótica (SHU/PTT)",
+    "text": "Paciente con fallo renal agudo, trombocitopenia severa y anemia hemolítica microangiopática (esquistocitos en frotis). No tiene fiebre ni síntomas neurológicos predominantes, pero sí tuvo diarrea sanguinolenta hace días. Patología probable:",
+    "hint": "Suele ser desencadenada por la toxina Shiga de E. coli.",
+    "options": [
+      { "text": "A) Púrpura Trombocitopénica Trombótica (PTT).", "isCorrect": false, "explanation": "Predomina la clínica neurológica y la fiebre sobre el daño renal." },
+      { "text": "B) Coagulación Intravascular Diseminada (CID).", "isCorrect": false, "explanation": "Tendría tiempos de coagulación prolongados (TP, TTPa), que aquí suelen ser normales." },
+      { "text": "C) Síndrome Urémico Hemolítico (SHU).", "isCorrect": true, "explanation": "La tríada clásica: Anemia microangiopática, trombocitopenia e insuficiencia renal aguda, frecuentemente precedida de infección por E. coli enterohemorrágica (O157:H7)." },
+      { "text": "D) Púrpura de Schönlein-Henoch.", "isCorrect": false, "explanation": "Vasculitis IgA, cursa con plaquetas normales y exantema palpable." },
+      { "text": "E) Síndrome de Goodpasture.", "isCorrect": false, "explanation": "Produce nefritis y hemorragia alveolar (anticuerpos anti-MBG)." }
+    ]
+  },
+  {
+    "id": 113,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Crisis Tirotóxica (Tormenta Tiroidea)",
+    "text": "Paciente con enfermedad de Graves no controlada ingresa por cuadro de sepsis severa. Desarrolla fiebre de 40°C, taquicardia de 160 lpm, agitación, delirio e ictericia. ¿Qué complicación endócrina temes?",
+    "hint": "Es una exacerbación extrema de su enfermedad de base desencadenada por el estrés infeccioso.",
+    "options": [
+      { "text": "A) Coma mixedematoso.", "isCorrect": false, "explanation": "Es la complicación severa del hipotiroidismo (bradicardia, hipotermia)." },
+      { "text": "B) Crisis Addisoniana.", "isCorrect": false, "explanation": "Suele dar hipotensión profunda, hiponatremia severa, pero no la clínica hipermetabólica florida tiroidea." },
+      { "text": "C) Tormenta Tiroidea.", "isCorrect": true, "explanation": "Es una emergencia endócrina con hipermetabolismo fulminante (fiebre alta, fallo cardíaco y alteración del SNC) a menudo precipitada por un estrés agudo." },
+      { "text": "D) Cetoacidosis diabética.", "isCorrect": false, "explanation": "Requiere hiperglucemia marcada y acidosis." },
+      { "text": "E) Feocromocitoma silente.", "isCorrect": false, "explanation": "Da crisis hipertensivas puras, pero el antecedente de Graves orienta al tiroides." }
+    ]
+  },
+  {
+    "id": 114,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Osteoporosis",
+    "text": "¿Cuál es el criterio densitométrico (DEXA) de la OMS para el diagnóstico de Osteoporosis?",
+    "hint": "Es una desviación importante respecto a la masa ósea de un adulto joven.",
+    "options": [
+      { "text": "A) T-score menor o igual a -1.0 DE.", "isCorrect": false, "explanation": "Se considera normal o el inicio de osteopenia." },
+      { "text": "B) T-score entre -1.0 y -2.4 DE.", "isCorrect": false, "explanation": "Es la definición de Osteopenia (baja masa ósea)." },
+      { "text": "C) T-score menor o igual a -2.5 DE.", "isCorrect": true, "explanation": "Es el punto de corte diagnóstico para Osteoporosis." },
+      { "text": "D) Z-score menor a -2.0 DE.", "isCorrect": false, "explanation": "El Z-score compara con la edad del paciente; el diagnóstico se basa en el T-score (adulto joven sano)." },
+      { "text": "E) Fractura por traumatismo de alta energía.", "isCorrect": false, "explanation": "Una fractura por fragilidad (baja energía) hace diagnóstico clínico, pero no por traumatismo fuerte." }
+    ]
+  },
+  {
+    "id": 115,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Hipoglicemia",
+    "text": "Tríada de Whipple, usada para confirmar hipoglucemia patológica:",
+    "hint": "Se requieren tres condiciones: síntomas, medición y resolución.",
+    "options": [
+      { "text": "A) 1. Síntomas adrenérgicos 2. Glucosa baja 3. Insulinemia alta.", "isCorrect": false, "explanation": "La insulinemia alta sirve para el insulinoma, pero no es parte de la tríada clínica general." },
+      { "text": "B) 1. Síntomas de hipoglucemia. 2. Baja concentración de glucosa sérica. 3. Alivio de síntomas tras administración de glucosa.", "isCorrect": true, "explanation": "Es la definición canónica de la Tríada de Whipple." },
+      { "text": "C) 1. Sudoración 2. Temblor 3. Palpitaciones.", "isCorrect": false, "explanation": "Son solo los síntomas adrenérgicos." },
+      { "text": "D) 1. Hipoglucemia en ayunas 2. Hipoglucemia postprandial 3. Hipoglucemia nocturna.", "isCorrect": false, "explanation": "No es una tríada reconocida." },
+      { "text": "E) 1. Péptido C alto 2. Glucosa baja 3. Insulina alta.", "isCorrect": false, "explanation": "Es el patrón bioquímico del exceso endógeno de insulina." }
+    ]
+  },
+  {
+    "id": 116,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Hiperparatiroidismo",
+    "text": "Paciente con \"huesos dolorosos, cálculos renales, gemidos abdominales y alteraciones psíquicas\". Calcio alto y Fósforo bajo. Hormona causante probable elevada:",
+    "hint": "Regula el calcio sacándolo del hueso y retentándolo en el riñón.",
+    "options": [
+      { "text": "A) Calcitonina", "isCorrect": false, "explanation": "Hace lo contrario: baja el calcio plasmático." },
+      { "text": "B) Hormona Paratiroidea (PTH)", "isCorrect": true, "explanation": "La PTH elevada en el Hiperparatiroidismo Primario (usualmente un adenoma) causa la clásica clínica de \"stones, bones, abdominal groans, and psychiatric moans\" por hipercalcemia." },
+      { "text": "C) Vitamina D", "isCorrect": false, "explanation": "Eleva calcio, pero también eleva o mantiene normal el fósforo (no lo tira en orina como la PTH)." },
+      { "text": "D) Aldosterona", "isCorrect": false, "explanation": "Afecta el sodio y potasio, no el calcio." },
+      { "text": "E) Tiroxina", "isCorrect": false, "explanation": "El hipertiroidismo causa una hipercalcemia leve ocasional, pero no con fósforo bajo y PTH baja." }
+    ]
+  },
+  {
+    "id": 117,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Clostridioides difficile",
+    "text": "Paciente de 75 años internado por neumonía severa, tras 7 días con cefalosporinas de 3ra generación desarrolla diarrea acuosa profusa de mal olor, fiebre y leucocitosis. Agente probable:",
+    "hint": "Es la principal causa de diarrea intrahospitalaria asociada a antibióticos.",
+    "options": [
+      { "text": "A) Rotavirus", "isCorrect": false, "explanation": "Causa diarrea en niños, no en este contexto." },
+      { "text": "B) Staphylococcus aureus", "isCorrect": false, "explanation": "Puede dar toxiinfección alimentaria (rápida)." },
+      { "text": "C) Clostridioides (Clostridium) difficile", "isCorrect": true, "explanation": "La alteración de la flora intestinal por antibióticos permite el sobrecrecimiento de esta bacteria formadora de toxinas." },
+      { "text": "D) Campylobacter jejuni", "isCorrect": false, "explanation": "Adquirida por alimentos (pollo crudo), no suele ser por barrido de flora hospitalaria." },
+      { "text": "E) Norovirus", "isCorrect": false, "explanation": "Causa brotes en cruceros o instituciones, pero con muchos vómitos y no específicamente tras antibióticos largos." }
+    ]
+  },
+  {
+    "id": 118,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Enfermedad de Chagas",
+    "text": "Cardiopatía dilatada con bloqueos de conducción (BRD, hemibloqueos) y presencia de megaesófago o megacolon, en paciente de zona rural sudamericana endémica. Vector implicado:",
+    "hint": "Es un chinche (insecto triatomino).",
+    "options": [
+      { "text": "A) Mosquito Anopheles.", "isCorrect": false, "explanation": "Transmite la Malaria." },
+      { "text": "B) Mosquito Aedes aegypti.", "isCorrect": false, "explanation": "Transmite Dengue, Zika, Chikungunya." },
+      { "text": "C) Vinchuca (Triatoma infestans).", "isCorrect": true, "explanation": "Es el vector que transmite el Trypanosoma cruzi en sus heces, causando la enfermedad de Chagas." },
+      { "text": "D) Garrapata Ixodes.", "isCorrect": false, "explanation": "Transmite la enfermedad de Lyme." },
+      { "text": "E) Mosca Tse-tse.", "isCorrect": false, "explanation": "Transmite la enfermedad del sueño africana." }
+    ]
+  },
+  {
+    "id": 119,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Sepsis",
+    "text": "Score rápido de cabecera utilizado para identificar precozmente a pacientes con infección probable y alto riesgo de malos resultados (mortalidad):",
+    "hint": "Evalúa frecuencia respiratoria, conciencia y presión arterial de forma rápida (quick).",
+    "options": [
+      { "text": "A) APACHE II", "isCorrect": false, "explanation": "Muy complejo, requiere variables de laboratorio, se usa en UCI." },
+      { "text": "B) Escala de Glasgow", "isCorrect": false, "explanation": "Evalúa solo el estado neurológico." },
+      { "text": "C) qSOFA (Quick SOFA)", "isCorrect": true, "explanation": "Incluye FR ≥ 22, alteración mental (GCS <15) y Presión Arterial Sistólica ≤ 100 mmHg." },
+      { "text": "D) Criterios de SIRS", "isCorrect": false, "explanation": "Son muy sensibles pero poco específicos, ya no definen Sepsis en las guías actuales (Sepsis-3)." },
+      { "text": "E) Score de CURB-65", "isCorrect": false, "explanation": "Es específico para estadiaje de Neumonía." }
+    ]
+  },
+  {
+    "id": 120,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Profilaxis Rabia",
+    "text": "Paciente mordido por un murciélago (animal silvestre de alto riesgo). Conducta inmediata de inmunización, independientemente del estado del paciente:",
+    "hint": "Necesitas dar anticuerpos listos y enseñar al cuerpo a hacer los suyos.",
+    "options": [
+      { "text": "A) Lavar herida y observar al animal.", "isCorrect": false, "explanation": "No se puede observar a un murciélago silvestre." },
+      { "text": "B) Solo vacuna antirrábica.", "isCorrect": false, "explanation": "En exposiciones de alto riesgo, la vacuna sola no es suficiente de inicio." },
+      { "text": "C) Inmunoglobulina antirrábica (Inmunidad pasiva) + Vacuna antirrábica serie completa (Inmunidad activa).", "isCorrect": true, "explanation": "Para exposiciones categoría III (mordedura o arañazo transdérmico, exposición a murciélagos) se indica profilaxis postexposición completa (suero y vacuna)." },
+      { "text": "D) Suturar la herida inmediatamente.", "isCorrect": false, "explanation": "Las heridas por mordedura con riesgo de rabia o infección profunda no se deben suturar primariamente." },
+      { "text": "E) Antibióticos amoxicilina/clavulánico por si acaso.", "isCorrect": false, "explanation": "Útiles para flora bacteriana bucal del animal, pero no previenen la rabia (que es 100% mortal)." }
+    ]
+  },
+  {
+    "id": 121,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Ascitis y Síndrome Hepatorrenal",
+    "text": "Se realiza una paracentesis diagnóstica a un paciente de 60 años que ingresa con ascitis de reciente comienzo. El análisis del líquido ascítico reporta proteínas totales de 1.2 g/dL y un Gradiente de Albúmina Suero-Ascitis (GASA) de 1.8 g/dL. No hay células neoplásicas ni leucocitos elevados. ¿A qué mecanismo fisiopatológico corresponde este derrame peritoneal según el GASA?",
+    "hint": "El Gradiente de albúmina Suero-Ascitis (GASA) ≥ 1.1 g/dL apunta a un aumento de presión hidrostática en el sistema portal.",
+    "options": [
+      {
+        "text": "a) Carcinomatosis peritoneal.",
+        "isCorrect": false,
+        "explanation": "Produce ascitis exudativa con GASA estrecho (< 1.1 g/dL)."
+      },
+      {
+        "text": "b) Hipertensión portal (ej. Cirrosis hepática).",
+        "isCorrect": true,
+        "explanation": "El documento 'Ascitis y síndrome hepatorrenal' explica que un GASA amplio (≥ 1.1 g/dL) indica que la ascitis se debe a un aumento de la presión hidrostática en el lecho esplácnico, existiendo Hipertensión Portal (siendo la cirrosis la causa predominante)."
+      },
+      {
+        "text": "c) Tuberculosis peritoneal.",
+        "isCorrect": false,
+        "explanation": "Genera exudado (proteínas altas y GASA < 1.1 g/dL) de predominio linfocitario."
+      },
+      {
+        "text": "d) Pancreatitis aguda severa.",
+        "isCorrect": false,
+        "explanation": "Causa un exudado inflamatorio retroperitoneal y ascítico (GASA < 1.1)."
+      },
+      {
+        "text": "e) Perforación de víscera hueca.",
+        "isCorrect": false,
+        "explanation": "Produce peritonitis secundaria purulenta y exudativa."
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Síndrome de Gilbert",
+    "text": "Joven asintomático acude con escleras amarillas post-ayuno o estrés. Lab: Bilirrubina Total 2.5 mg/dL a predominio indirecto (no conjugada), transaminasas y fosfatasa alcalina normales. Hemograma y frotis sin hemólisis. Diagnóstico:",
+    "hint": "Déficit leve congénito de la enzima que conjuga la bilirrubina.",
+    "options": [
+      { "text": "A) Hepatitis viral aguda.", "isCorrect": false, "explanation": "Las transaminasas estarían marcadamente elevadas." },
+      { "text": "B) Coledocolitiasis.", "isCorrect": false, "explanation": "Habría patrón colestásico (Bilirrubina directa alta, FA alta)." },
+      { "text": "C) Síndrome de Gilbert.", "isCorrect": true, "explanation": "Déficit parcial de la UGT1A1 que causa hiperbilirrubinemia indirecta benigna desencadenada por estrés/ayuno." },
+      { "text": "D) Anemia hemolítica.", "isCorrect": false, "explanation": "El hemograma es normal y no hay signos de hemólisis (LDH normal, reticulocitos normales)." },
+      { "text": "E) Síndrome de Dubin-Johnson.", "isCorrect": false, "explanation": "Es una hiperbilirrubinemia conjugada (directa) benigna." }
+    ]
+  },
+  {
+    "id": 123,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Transfusión Sanguínea",
+    "text": "La complicación transfusional MÁS FRECUENTE es:",
+    "hint": "Suele ser leve y responder a antipiréticos simples.",
+    "options": [
+      { "text": "A) Hemólisis intravascular aguda aguda por incompatibilidad ABO.", "isCorrect": false, "explanation": "Es la más grave y temida, pero afortunadamente rara por los controles." },
+      { "text": "B) Reacción febril no hemolítica.", "isCorrect": true, "explanation": "Suele darse por anticuerpos del receptor contra leucocitos del donante. Se previene desleucocitando." },
+      { "text": "C) TRALI (Lesión Pulmonar Aguda Asociada a Transfusión).", "isCorrect": false, "explanation": "Es grave (edema pulmonar no cardiogénico) pero infrecuente." },
+      { "text": "D) Transmisión de VIH/Hepatitis C.", "isCorrect": false, "explanation": "Extremadamente rara hoy en día por el tamizaje." },
+      { "text": "E) Sobrecarga circulatoria (TACO).", "isCorrect": false, "explanation": "Más común en ancianos frágiles, pero menos frecuente que la reacción febril leve." }
+    ]
+  },
+  {
+    "id": 124,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Polimialgia Reumática",
+    "text": "Mujer de 70 años con dolor intenso y rigidez matinal en cinturas escapular y pélvica de 1 mes de evolución. No puede peinarse ni levantarse de la silla. VHS = 80 mm/h. Tratamiento espectacular y rápido con:",
+    "hint": "Esta patología, muy ligada a la Arteritis de la Temporal, responde dramáticamente a esteroides a dosis bajas.",
+    "options": [
+      { "text": "A) Paracetamol altas dosis.", "isCorrect": false, "explanation": "No es suficiente para controlar la inflamación." },
+      { "text": "B) Corticoides orales a dosis bajas (15 mg/día Prednisona).", "isCorrect": true, "explanation": "La respuesta a dosis bajas de corticoides en 24-48h es un criterio diagnóstico ex-juvantibus de la Polimialgia Reumática." },
+      { "text": "C) Metotrexato.", "isCorrect": false, "explanation": "Tarda semanas en actuar y se usa si hay resistencia o para ahorrar esteroides." },
+      { "text": "D) Indometacina.", "isCorrect": false, "explanation": "Los AINEs suelen ser insuficientes." },
+      { "text": "E) Fisioterapia exclusiva.", "isCorrect": false, "explanation": "Requiere control de la enfermedad inflamatoria base." }
+    ]
+  },
+  {
+    "id": 125,
+    "internado": "Medicina Interna",
+    "area": "Neurología",
+    "topic": "Neuralgia del Trigémino",
+    "text": "Paciente de 55 años con episodios paroxísticos de dolor lancinante, eléctrico y brevísima duración en la mejilla derecha al cepillarse los dientes o masticar. Fármaco de primera línea para prevención de crisis:",
+    "hint": "Es un antiepiléptico clásico bloqueador de canales de sodio.",
+    "options": [
+      { "text": "A) Ibuprofeno.", "isCorrect": false, "explanation": "Inútil en dolor neuropático agudo de este tipo." },
+      { "text": "B) Carbamazepina.", "isCorrect": true, "explanation": "Es el tratamiento farmacológico de elección en la neuralgia del trigémino." },
+      { "text": "C) Sumatriptán.", "isCorrect": false, "explanation": "Útil en migraña, no en neuralgia del V par." },
+      { "text": "D) Morfina oral.", "isCorrect": false, "explanation": "Los opioides son ineficaces para las crisis paroxísticas rápidas del trigémino." },
+      { "text": "E) Prednisona.", "isCorrect": false, "explanation": "Sería útil en arteritis de la temporal, no en dolor facial eléctrico por compresión vascular." }
+    ]
+  },
+  {
+    "id": 126,
+    "internado": "Medicina Interna",
+    "area": "Neurología",
+    "topic": "Esclerosis Lateral Amiotrófica (ELA)",
+    "text": "Enfermedad degenerativa progresiva que presenta coexistencia de signos de primera motoneurona (espasticidad, hiperreflexia, Babinski) y segunda motoneurona (fasciculaciones, atrofia) sin afectación sensitiva:",
+    "hint": "Enfermedad de Lou Gehrig o de Stephen Hawking.",
+    "options": [
+      { "text": "A) Esclerosis Múltiple.", "isCorrect": false, "explanation": "Es desmielinizante, afecta sensibilidad, cerebelo, visión (no es puramente motora)." },
+      { "text": "B) Guillain-Barré.", "isCorrect": false, "explanation": "Es puramente de segunda motoneurona (arreflexia flácida) y aguda." },
+      { "text": "C) Esclerosis Lateral Amiotrófica (ELA).", "isCorrect": true, "explanation": "Es la única enfermedad que clásicamente combina daño del tracto corticoespinal (1ra M-N) y el asta anterior (2da M-N) respetando la sensibilidad y esfínteres." },
+      { "text": "D) Poliomielitis.", "isCorrect": false, "explanation": "Afecta solo la segunda motoneurona (asta anterior)." },
+      { "text": "E) Siringomielia.", "isCorrect": false, "explanation": "Afecta primariamente las vías sensitivas (termoalgésicas) suspendidas en \"capa\"." }
+    ]
+  },
+  {
+    "id": 127,
+    "internado": "Medicina Interna",
+    "area": "Miscelánea / Oncología",
+    "topic": "Síndrome de Lisis Tumoral",
+    "text": "Complicación metabólica aguda que ocurre al iniciar quimioterapia agresiva en leucemias o linfomas de alto grado. Se caracteriza clásicamente por:",
+    "hint": "Células masivamente destruidas liberan su contenido intracelular al plasma.",
+    "options": [
+      { "text": "A) Hipopotasemia, hipofosfatemia y alcalosis.", "isCorrect": false, "explanation": "La destrucción celular libera potasio y fósforo al plasma (los sube, no los baja)." },
+      { "text": "B) Hiperpotasemia, hiperfosfatemia, hiperuricemia e hipocalcemia.", "isCorrect": true, "explanation": "El contenido celular revienta: Potasio alto, Fósforo alto (que se une al calcio y causa Hipocalcemia), y ácidos nucleicos que se rompen en Ácido Úrico alto." },
+      { "text": "C) Hipercalcemia severa y panhipopituitarismo.", "isCorrect": false, "explanation": "El calcio baja por quelación del fósforo alto." },
+      { "text": "D) Hiponatremia dilucional extrema.", "isCorrect": false, "explanation": "Eso es SIADH (que puede ser paraneoplásico pero no lisis)." },
+      { "text": "E) Anemia hemolítica microangiopática.", "isCorrect": false, "explanation": "No es el mecanismo principal de la lisis celular de las blastos leucémicos." }
+    ]
+  },
+  {
+    "id": 128,
+    "internado": "Medicina Interna",
+    "area": "Miscelánea / Nutrición",
+    "topic": "Síndrome de Realimentación",
+    "text": "Paciente con desnutrición crónica (anorexia nerviosa) a quien se le inicia nutrición agresiva intravenosa. Días después presenta insuficiencia cardíaca, arritmias y fallo respiratorio. El principal electrolito responsable de esta morbimortalidad al deplecionarse bruscamente del plasma (por entrada a la célula estimulada por insulina) es:",
+    "hint": "Ion esencial para la producción de ATP.",
+    "options": [
+      { "text": "A) Sodio.", "isCorrect": false, "explanation": "Se retiene agua y sodio, dando edema, pero la letalidad es por otro ion." },
+      { "text": "B) Fósforo.", "isCorrect": true, "explanation": "La realimentación masiva secreta insulina, empujando todo el Fósforo (junto a K y Mg) hacia dentro de la célula exhausta. La Hipofosfatemia resultante quita el ATP para el miocardio y los músculos respiratorios, siendo mortal." },
+      { "text": "C) Calcio.", "isCorrect": false, "explanation": "No es el movilizador principal del síndrome." },
+      { "text": "D) Cloro.", "isCorrect": false, "explanation": "No causa las complicaciones musculares y cardíacas críticas." },
+      { "text": "E) Magnesio.", "isCorrect": false, "explanation": "La hipomagnesemia ocurre, pero el marcador primario y gatillo fallido de ATP es el fósforo." }
+    ]
+  },
+  {
+    "id": 129,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "ECG Normal",
+    "text": "¿Qué segmento del ECG representa la repolarización ventricular?",
+    "hint": "Ocurre después del complejo que contrae los ventrículos.",
+    "options": [
+      { "text": "A) Onda P", "isCorrect": false, "explanation": "Despolarización auricular." },
+      { "text": "B) Intervalo PR", "isCorrect": false, "explanation": "Conducción aurículo-ventricular." },
+      { "text": "C) Complejo QRS", "isCorrect": false, "explanation": "Despolarización ventricular." },
+      { "text": "D) Onda T (y segmento ST)", "isCorrect": true, "explanation": "Representan las fases de recuperación (repolarización) del músculo ventricular." },
+      { "text": "E) Onda U", "isCorrect": false, "explanation": "Repolarización de los músculos papilares / fibras de Purkinje (inconstante)." }
+    ]
+  },
+  {
+    "id": 130,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Oxigenoterapia",
+    "text": "¿Cuál es la principal ventaja clínica del uso de una mascarilla tipo Venturi frente a las cánulas nasales simples en un paciente con EPOC exacerbado?",
+    "hint": "Permite un control estricto matemático del porcentaje de oxígeno entregado.",
+    "options": [
+      { "text": "A) Proporciona humedad calentada.", "isCorrect": false, "explanation": "No es su característica principal." },
+      { "text": "B) Entrega una FiO2 exacta e independiente del patrón respiratorio del paciente.", "isCorrect": true, "explanation": "El sistema Venturi usa el principio de Bernoulli para mezclar aire y O2 en flujos fijos, garantizando que el paciente reciba exactamente (ej. 24% o 28%), evitando la hiperoxia peligrosa que en el EPOC deprime el drive respiratorio." },
+      { "text": "C) Administra FiO2 de hasta el 100%.", "isCorrect": false, "explanation": "Las Venturi suelen dar FiO2 bajas-medias (24-50%). Para el 100% se usa mascarilla con reservorio." },
+      { "text": "D) Resulta más cómoda para el paciente comer y hablar.", "isCorrect": false, "explanation": "Al contrario, la mascarilla es más obstructiva que las nariceras." },
+      { "text": "E) Provee presión positiva al final de la espiración (PEEP).", "isCorrect": false, "explanation": "Eso lo hace el CPAP o la VMNI, no el Venturi." }
+    ]
+  },
+  {
+    "id": 131,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Bronquiectasias",
+    "text": "Paciente de 40 años con historia de tos productiva purulenta crónica en gran volumen diario (\"broncorrea\"), hemoptisis ocasionales e infecciones recurrentes desde niño. Tomografía muestra dilatación anormal permanente de los bronquios. Diagnóstico principal subyacente a descartar en el mundo desarrollado (si no hay causa post-infecciosa obvia):",
+    "hint": "Una enfermedad genética del canal de cloro que seca las secreciones.",
+    "options": [
+      { "text": "A) EPOC", "isCorrect": false, "explanation": "Da enfisema/bronquitis pero no dilataciones destructivas francas de este tipo precoz." },
+      { "text": "B) Cáncer de Pulmón", "isCorrect": false, "explanation": "Raro presentar décadas de broncorrea desde la juventud." },
+      { "text": "C) Fibrosis Quística (Mucoviscidosis)", "isCorrect": true, "explanation": "La FQ es la principal causa de bronquiectasias idiopáticas diseminadas en países desarrollados, por espesamiento del moco que favorece infecciones crónicas (Pseudomonas, S. aureus)." },
+      { "text": "D) Tuberculosis reactivada", "isCorrect": false, "explanation": "Causa bronquiectasias localizadas (generalmente apicales) por tracción cicatricial." },
+      { "text": "E) Asma", "isCorrect": false, "explanation": "Puede asociar Aspergilosis Broncopulmonar Alérgica que da bronquiectasias centrales, pero no es la causa clásica de un cuadro difuso purulento sin control." }
+    ]
+  },
+  {
+    "id": 132,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Síndrome de Intestino Irritable",
+    "text": "Dolor abdominal crónico que mejora con la defecación, asociado a cambios en la frecuencia y forma de las heces (diarrea/constipación). Criterio de exclusión clave o \"Signo de Alarma\" (\"Red Flag\") que obligaría a hacer una Colonoscopia:",
+    "hint": "El colon irritable es benigno funcional. No debe haber signos de daño orgánico.",
+    "options": [
+      { "text": "A) Mujer de 30 años.", "isCorrect": false, "explanation": "Es el pico demográfico típico de la enfermedad." },
+      { "text": "B) Asociación a estrés emocional.", "isCorrect": false, "explanation": "Es muy común que empeore con el estrés." },
+      { "text": "C) Presencia de Hematoquecia (sangre en heces) o anemia y baja de peso inexplicada.", "isCorrect": true, "explanation": "Estos son signos de alarma que sugieren Cáncer de Colon, Enf. Inflamatoria Intestinal (Crohn/CU) y obligan a estudio endoscópico, descartando colon irritable simple." },
+      { "text": "D) Sintomatología predominante diurna.", "isCorrect": false, "explanation": "El SII no suele despertar al paciente en la noche, el dolor diurno es típico." },
+      { "text": "E) Meteorismo y distensión abdominal.", "isCorrect": false, "explanation": "Es parte del cuadro clásico de SII." }
+    ]
+  },
+  {
+    "id": 133,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Várices Esofágicas",
+    "text": "Paciente cirrótico que ingresa vomitando sangre fresca profusa. Está hipotenso y taquicárdico. Tratamiento farmacológico intravenoso de elección para intentar detener temporalmente el sangrado por várices mientras se prepara la Endoscopia:",
+    "hint": "Fármaco vasoactivo esplácnico.",
+    "options": [
+      { "text": "A) Omeprazol IV (IBP).", "isCorrect": false, "explanation": "Útil para úlceras pépticas, pero inútil para bajar la presión del lecho portal variceal." },
+      { "text": "B) Somatostatina, Octreotida o Terlipresina IV.", "isCorrect": true, "explanation": "Causan vasoconstricción selectiva del lecho esplácnico, disminuyendo la entrada de sangre al sistema portal y, por ende, bajando la presión de las várices." },
+      { "text": "C) Propranolol oral.", "isCorrect": false, "explanation": "Se usa como profilaxis primaria/secundaria (mantenimiento), nunca en agudo hipotenso." },
+      { "text": "D) Ácido tranexámico.", "isCorrect": false, "explanation": "Antifibrinolítico genérico, no aborda el mecanismo de la presión venosa focal." },
+      { "text": "E) Sulfato de bario.", "isCorrect": false, "explanation": "Es un contraste diagnóstico, proscrito si se va a hacer endoscopia aguda o hay sangrado masivo." }
+    ]
+  },
+  {
+    "id": 134,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Glomerulonefritis Rápidamente Progresiva (GNRP)",
+    "text": "Falla renal aguda de instauración en días o semanas, hematuria microscópica y proteinuria. La biopsia renal revela el hallazgo anatomopatológico \"Sello\" de la GNRP:",
+    "hint": "Muestra un crecimiento celular en forma de luna en el espacio glomerular.",
+    "options": [
+      { "text": "A) Esclerosis nodular de Kimmelstiel-Wilson.", "isCorrect": false, "explanation": "Patognomónico de Nefropatía Diabética tardía." },
+      { "text": "B) Formación de Semilunas (Crecents) extracapilares en la cápsula de Bowman en >50% de los glomérulos.", "isCorrect": true, "explanation": "Las semilunas reflejan inflamación y destrucción masiva de la barrera, provocando exudación celular y fibrina al espacio urinario." },
+      { "text": "C) Engrosamiento uniforme difuso de la membrana basal sin proliferación.", "isCorrect": false, "explanation": "Típico de Nefropatía Membranosa." },
+      { "text": "D) Fusión de pedicelos de los podocitos aislada.", "isCorrect": false, "explanation": "Hallazgo en Enf. de Cambios Mínimos." },
+      { "text": "E) Depósitos mesangiales exclusivos de IgA.", "isCorrect": false, "explanation": "La Nefropatía IgA en su forma clásica." }
+    ]
+  },
+  {
+    "id": 135,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Toxicidad Renal",
+    "text": "Medio de contraste intravenoso y antibióticos como los aminoglucósidos (Gentamicina) producen típicamente qué tipo de Injuria Renal Aguda:",
+    "hint": "Dañan las células que revisten los túbulos.",
+    "options": [
+      { "text": "A) Prerrenal por vasoconstricción pura transitoria.", "isCorrect": false, "explanation": "El contraste causa isquemia, pero progresa a daño estructural." },
+      { "text": "B) Necrosis Tubular Aguda (NTA) tóxica.", "isCorrect": true, "explanation": "Los aminoglucósidos, medio de contraste, quimioterápicos (cisplatino) son tóxicos directos para el epitelio tubular renal." },
+      { "text": "C) Nefritis Intersticial Aguda inmunoalérgica.", "isCorrect": false, "explanation": "Se asocia más a Penicilinas, Cefalosporinas, AINEs (cursa con eosinófilos y fiebre)." },
+      { "text": "D) Obstrucción postrenal.", "isCorrect": false, "explanation": "Requiere un tapón ureteral o prostático (ej. Aciclovir o hiperuricemia pueden cristalizar, pero gentamicina no)." },
+      { "text": "E) Microangiopatía trombótica.", "isCorrect": false, "explanation": "Causada por otras toxinas o drogas, no clásicamente por estas dos mencionadas." }
+    ]
+  },
+  {
+    "id": 136,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo Secundario",
+    "text": "Paciente con fatiga y ganancia de peso. Exámenes: T4 libre baja, pero con TSH inesperadamente baja (o en límite inferior normal). ¿A qué nivel está el defecto de la enfermedad?",
+    "hint": "La glándula tiroides no recibe la orden de trabajar.",
+    "options": [
+      { "text": "A) Tiroides (Defecto Primario).", "isCorrect": false, "explanation": "En falla primaria de la glándula, la TSH se eleva enormemente intentando compensar." },
+      { "text": "B) Hipófisis o Hipotálamo (Defecto Central).", "isCorrect": true, "explanation": "El tiroides está sano pero la glándula pituitaria fallida no secreta TSH, resultando en un hipotiroidismo \"secundario\". Con T4L baja, una TSH baja es patológica." },
+      { "text": "C) Resistencia periférica a hormonas.", "isCorrect": false, "explanation": "Daría T4 y T3 muy altas con TSH normal o alta." },
+      { "text": "D) Déficit de Yodo dietético.", "isCorrect": false, "explanation": "Daría hipotiroidismo primario con bocio y TSH alta." },
+      { "text": "E) Efecto de exceso de corticoides.", "isCorrect": false, "explanation": "Pueden suprimir TSH pero raras veces causan hipotiroidismo clínico manifiesto." }
+    ]
+  },
+  {
+    "id": 137,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Nódulo Tiroideo",
+    "text": "Mujer asintomática con hallazgo incidental ecográfico de nódulo tiroideo sólido hipoecogénico con microcalcificaciones y bordes irregulares. Conducta de estudio principal a seguir:",
+    "hint": "Las características ecográficas son malignas; hay que \"pinchar\" para ver las células.",
+    "options": [
+      { "text": "A) Observación en 1 año con TSH.", "isCorrect": false, "explanation": "El nódulo es muy sospechoso, no se debe simplemente observar." },
+      { "text": "B) Cintigrama (Gammagrafía) Tiroideo con Iodo 131.", "isCorrect": false, "explanation": "Se usa principalmente si la paciente tuviera TSH suprimida (hipertiroidismo) para ver si el nódulo es hiperfuncionante (\"caliente\" y benigno)." },
+      { "text": "C) Punción Aspiración con Aguja Fina (PAAF) guiada por ecografía.", "isCorrect": true, "explanation": "Es el estándar de oro para estudio citológico de nódulos sospechosos (clasificación Bethesda) descartando Cáncer Papilar de Tiroides." },
+      { "text": "D) Hemitiroidectomía inmediata ciega.", "isCorrect": false, "explanation": "Requiere diagnóstico citológico previo a la cirugía salvo enorme compromiso compresivo." },
+      { "text": "E) Tratamiento supresor con Levotiroxina.", "isCorrect": false, "explanation": "Práctica antigua obsoleta que no cura el cáncer." }
+    ]
+  },
+  {
+    "id": 138,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Botulismo",
+    "text": "Paciente que consume conservas caseras desarrolla en 24h diplopía, disartria, disfagia, y luego debilidad muscular descendente flácida severa y parálisis respiratoria (Sensorio conservado). Toxinfección por:",
+    "hint": "Bloquea la liberación de acetilcolina en la unión neuromuscular.",
+    "options": [
+      { "text": "A) Toxina de Clostridium tetani (Tétanos).", "isCorrect": false, "explanation": "Produce parálisis espástica (contracciones y trismo), no flácida." },
+      { "text": "B) Toxina de Clostridium botulinum.", "isCorrect": true, "explanation": "Las \"D\": Diplopia, Disfagia, Disartria, Disfonía (Descendente) son patognomónicas del neurotoxinaje botulínico." },
+      { "text": "C) Toxina diftérica.", "isCorrect": false, "explanation": "Produce membranas faríngeas, arritmias miocárdicas y neuritis tardía, no tan rápido." },
+      { "text": "D) Intoxicación por metales pesados (Plomo).", "isCorrect": false, "explanation": "Cuadro subagudo/crónico con anemia, dolor abdominal, encefalopatía." },
+      { "text": "E) Miastenia Gravis descompensada.", "isCorrect": false, "explanation": "Síntomas similares, pero el antecedente epidemiológico alimentario marca botulismo." }
+    ]
+  },
+  {
+    "id": 139,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Tétanos",
+    "text": "El tratamiento clave e inmediato de soporte vital e interrupción del daño en un paciente con sospecha aguda de Tétanos traumático incluye sedación, control de la vía aérea, limpieza de la herida y... ¿qué componente biológico pasivo para neutralizar la toxina circulante?",
+    "hint": "No debes esperar a que él forme sus propios anticuerpos, necesita anticuerpos prestados ahora.",
+    "options": [
+      { "text": "A) Penicilina G a altas dosis.", "isCorrect": false, "explanation": "Se da para matar a la bacteria, pero la toxina liberada es la mortal y el antibiótico no le hace nada." },
+      { "text": "B) Toxoide tetánico intramuscular únicamente.", "isCorrect": false, "explanation": "Es vacuna, tarda semanas en actuar." },
+      { "text": "C) Inmunoglobulina Humana Antitetánica (IgHT).", "isCorrect": true, "explanation": "Aporta anticuerpos preformados que neutralizan de inmediato a la toxina que aún no se ha fijado irreversiblemente al sistema nervioso." },
+      { "text": "D) Corticoides EV masivos.", "isCorrect": false, "explanation": "No modifican la acción de la exotoxina tetánica." },
+      { "text": "E) Bloqueantes neuromusculares (ej. Rocuronio).", "isCorrect": false, "explanation": "Se usan en UCI para ventilación, pero la Inmunoglobulina es el antídoto neutralizante biológico." }
+    ]
+  },
+  {
+    "id": 140,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Meningococo",
+    "text": "Joven de 18 años universitario acude a urgencias por fiebre alta, cefalea profunda y aparición de manchas violáceas petequiales en extremidades que no palidecen a la presión. Rápidamente progresa a shock e hipotensión grave. Patógeno probable en LCR (diplococos gramnegativos intracelulares):",
+    "hint": "Bacteria muy agresiva que da sepsis meningocócica y coagulación intravascular (Síndrome de Waterhouse-Friderichsen).",
+    "options": [
+      { "text": "A) Streptococcus pneumoniae.", "isCorrect": false, "explanation": "Grampositivo, no suele dar exantema petequial fulminante." },
+      { "text": "B) Haemophilus influenzae.", "isCorrect": false, "explanation": "Gramnegativo pleomórfico, casi erradicado en este rango de edad por vacuna." },
+      { "text": "C) Neisseria meningitidis.", "isCorrect": true, "explanation": "La Púrpura Fulminans (rash petequial) asociada a clínica meníngea es el sello clínico aterrador de la infección sistémica (meningococcemia) por esta bacteria." },
+      { "text": "D) Listeria monocytogenes.", "isCorrect": false, "explanation": "Grampositivo (bacilo), afecta a inmunodeprimidos o extremos de la vida." },
+      { "text": "E) Virus del Herpes Simple.", "isCorrect": false, "explanation": "Da encefalitis temporal, no shock séptico purpúrico." }
+    ]
+  },
+  {
+    "id": 141,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Anemias por enfermedades crónicas",
+    "text": "Paciente de 55 años con Artritis Reumatoide severa prolongada presenta Anemia normocítica-normocrómica (Hb 9.5). Laboratorio muestra: Hierro sérico bajo, TIBC (capacidad de fijación) baja/normal y Ferritina sérica Alta. Mecanismo causal de esta anemia:",
+    "hint": "El hierro existe, pero está \"atrapado\" en las bodegas por culpa de un reactante de fase aguda.",
+    "options": [
+      { "text": "A) Pérdida de sangre digestiva por uso de AINEs.", "isCorrect": false, "explanation": "Daría anemia ferropénica pura con Ferritina baja." },
+      { "text": "B) Supresión medular tóxica irreversible.", "isCorrect": false, "explanation": "Daría pancitopenia grave (Aplasia medular)." },
+      { "text": "C) Secuestro del hierro en macrófagos mediado por la proteína Hepcidina.", "isCorrect": true, "explanation": "La inflamación crónica libera citoquinas (IL-6) que aumentan la Hepcidina hepática, proteína que bloquea el transportador (ferroportina), dejando el hierro atrapado en los depósitos (Ferritina alta) y ausente en la sangre (Hierro sérico bajo), imposibilitando la eritropoyesis." },
+      { "text": "D) Destrucción de glóbulos rojos por el bazo.", "isCorrect": false, "explanation": "La AHAI da otras alteraciones (Coombs+)." },
+      { "text": "E) Falla renal asintomática.", "isCorrect": false, "explanation": "Da deficiencia de EPO primaria, el metabolismo del hierro per se sería normal a menos de inflamación unida." }
+    ]
+  },
+  {
+    "id": 142,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Neutropenia Febril",
+    "text": "Paciente oncológico que recibió quimioterapia hace 10 días se presenta con T° 38.5°C y Recuento Absoluto de Neutrófilos (RAN) de 200/uL. Conducta prioritaria salvavidas en urgencias (luego de tomar pan-cultivos inmediatos):",
+    "hint": "No hay un sistema inmune que luche. Necesitas antibióticos agresivos en la primera hora.",
+    "options": [
+      { "text": "A) Administrar Paracetamol oral y citar a oncólogo al día siguiente.", "isCorrect": false, "explanation": "El paciente morirá de sepsis en horas." },
+      { "text": "B) Iniciar cobertura antimicótica con Fluconazol empírico inicial.", "isCorrect": false, "explanation": "Se agregan antifúngicos si la fiebre persiste luego de días, no en primera línea." },
+      { "text": "C) Iniciar Antibioticoterapia Endovenosa de amplio espectro rápida (Ej. Cefepime o Piperacilina/Tazobactam, con efecto anti-pseudomónico).", "isCorrect": true, "explanation": "La neutropenia febril es una emergencia médica letal por el alto riesgo de bacteriemia a gramnegativos entéricos letales (Pseudomonas) y se trata empírica e inmediatamente post-cultivos sin esperar resultados." },
+      { "text": "D) Esperar los resultados de los hemocultivos (24-48h) para dar antibióticos dirigidos.", "isCorrect": false, "explanation": "Es letal esperar el antibiograma en un neutropénico febril agudo." },
+      { "text": "E) Transfusión urgente de glóbulos blancos (leucocitos).", "isCorrect": false, "explanation": "No es una terapia aguda estándar." }
+    ]
+  },
+  {
+    "id": 143,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Espondiloartropatías (Artritis Reactiva)",
+    "text": "Hombre de 25 años desarrolla oligoartritis asimétrica (rodilla derecha), dactilitis (\"dedo en salchicha\"), uveítis y uretritis, 3 semanas después de un cuadro de diarrea infecciosa aguda o ITS por Chlamydia. Diagnóstico Sindromático Clásico:",
+    "hint": "Solía conocerse como Síndrome de Reiter. \"No puede ver, no puede orinar, no puede trepar un árbol\".",
+    "options": [
+      { "text": "A) Artritis Gonocócica.", "isCorrect": false, "explanation": "Cursa con tenosinovitis migratoria, poliartralgias y dermatitis pustulosa, pero las bacterias gonocócicas están en la articulación directamente." },
+      { "text": "B) Artritis Reumatoide precoz.", "isCorrect": false, "explanation": "Suele ser poliartritis simétrica de manos en mujeres, sin uretritis." },
+      { "text": "C) Artritis Reactiva.", "isCorrect": true, "explanation": "Es una inflamación articular estéril generada por inmunidad cruzada semanas después de una infección GI o GU lejana. La Tríada de artritis + uretritis + conjuntivitis/uveítis (Reiter) es clásica." },
+      { "text": "D) Gota poliarticular.", "isCorrect": false, "explanation": "Cursa con cristales de ácido úrico, no con antecedente infeccioso y conjuntivitis." },
+      { "text": "E) Artritis idiopática juvenil.", "isCorrect": false, "explanation": "No cuadra la edad y el trigger." }
+    ]
+  },
+  {
+    "id": 144,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Fármacos Modificadores de Enfermedad (FAMEs)",
+    "text": "El FAME sintético convencional \"Ancla\" de primera línea indicado para casi todo paciente recién diagnosticado de Artritis Reumatoide activa es:",
+    "hint": "Fármaco antifolato que se dosifica en una toma única semanal.",
+    "options": [
+      { "text": "A) Infliximab.", "isCorrect": false, "explanation": "Es un Biológico (Anti-TNF). Se usa de segunda línea si fallan los sintéticos." },
+      { "text": "B) Ibuprofeno.", "isCorrect": false, "explanation": "Alivia dolor temporalmente, no frena la destrucción articular, no es un FAME." },
+      { "text": "C) Metotrexato.", "isCorrect": true, "explanation": "Es el pilar fundamental (gold standard) del tratamiento inicial de la AR. Requiere suplementación con ácido fólico y controles hepáticos." },
+      { "text": "D) Sulfasalazina.", "isCorrect": false, "explanation": "Es un FAME, pero se suele reservar de alternativa, monoterapia leve o en combinación triple." },
+      { "text": "E) Alopurinol.", "isCorrect": false, "explanation": "Para disminuir el ácido úrico en Gota." }
+    ]
+  },
+  {
+    "id": 145,
+    "internado": "Medicina Interna",
+    "area": "Neurología",
+    "topic": "Coma / Hipertensión Intracraneal",
+    "text": "Paciente joven tras traumatismo craneal severo en coma. Presenta \"Tríada de Cushing\": Hipertensión arterial progresiva, bradicardia severa y alteraciones en el patrón respiratorio. ¿Qué grave fenómeno fisiopatológico neurológico te está avisando esta respuesta autonómica?",
+    "hint": "El tronco encefálico está a punto de ser aplastado.",
+    "options": [
+      { "text": "A) Shock hipovolémico inminente por sangrado.", "isCorrect": false, "explanation": "Darla hipotensión y taquicardia." },
+      { "text": "B) Herniación cerebral (aumento masivo de la Presión Intracraneal).", "isCorrect": true, "explanation": "La hipertensión intenta vencer la resistencia del edema cerebral para perfundir el bulbo isquémico, lo cual dispara una bradicardia vagal refleja. Es un signo de muerte cerebral por enclavamiento inminente." },
+      { "text": "C) Infarto masivo del ventrículo derecho cardíaco.", "isCorrect": false, "explanation": "Da hipotensión e ingurgitación yugular." },
+      { "text": "D) Secreción Inapropiada de ADH post-TEC.", "isCorrect": false, "explanation": "Da hiponatremia, no este cuadro hemodinámico agudo." },
+      { "text": "E) Lesión medular cervical aguda (Shock medular).", "isCorrect": false, "explanation": "Darla hipotensión extrema por vasoplejía simpática." }
+    ]
+  },
+  {
+    "id": 146,
+    "internado": "Medicina Interna",
+    "area": "Neurología",
+    "topic": "Neuropatía Periférica",
+    "text": "Hombre diabético de larga data consulta por parestesias distales urentes (ardor), pérdida de sensibilidad táctil superficial y dolor punzante en \"calcetín\" bilateralmente simétrico en miembros inferiores, peor de noche. Su examen de fuerza es normal, reflejos aquíleos abolidos. Diagnóstico clásico:",
+    "hint": "Daño primario a los nervios largos provocado por hiperglicemia crónica.",
+    "options": [
+      { "text": "A) Radiculopatía lumbar compresiva (Hernia discal).", "isCorrect": false, "explanation": "Sería asimétrica (usualmente unilateral) y seguiría un dermatoma (ej. L5 o S1)." },
+      { "text": "B) Claudicación vascular periférica isquémica.", "isCorrect": false, "explanation": "El dolor sería de ejercicio, cedería en reposo y faltarían los pulsos. Los nervios estarían menos tocados en fase precoz." },
+      { "text": "C) Polineuropatía Diabética Sensitivo-motora distal simétrica.", "isCorrect": true, "explanation": "Es la forma más frecuente de neuropatía en la DM. Afecta los nervios más largos primero (patrón en guante y calcetín), afectando las pequeñas fibras sensitivas (dolor urente neuropático) y la propiocepción." },
+      { "text": "D) Neuropatía del Nervio Peroneo común por atrapamiento.", "isCorrect": false, "explanation": "Unilateral y presentaría caída del pie (debilidad motora franca), no cuadro \"en calcetín\" bilateral sensorial puro inicial." },
+      { "text": "E) Mononeuritis Múltiple (Vasculítica).", "isCorrect": false, "explanation": "Compromiso agudo/subagudo, doloroso y muy asimétrico de troncos nerviosos separados." }
+    ]
+  },
+  {
+    "id": 147,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Ictericia Obstructiva",
+    "text": "Signo de Courvoisier-Terrier (vesícula biliar distendida palpable no dolorosa, más ictericia progresiva marcada sin fiebre) orienta clásicamente a diagnóstico de:",
+    "hint": "Sugiere una obstrucción crónica, maligna y extrínseca del conducto biliar principal debajo de la vesícula.",
+    "options": [
+      { "text": "A) Cáncer de Cabeza de Páncreas (o de la vía biliar distal).", "isCorrect": true, "explanation": "La obstrucción maligna lenta y progresiva por debajo del conducto cístico permite que la vesícula sana (no esclerosada previamente por litiasis) se dilate masivamente de bilis sin inflamación aguda dolorosa. Contrario a la litiasis donde duele y hay Murphy." },
+      { "text": "B) Colecistitis Aguda Litiásica.", "isCorrect": false, "explanation": "Cursa con Signo de Murphy (dolor exquisito a la palpación) y fiebre." },
+      { "text": "C) Cirrosis Biliar Primaria.", "isCorrect": false, "explanation": "Enfermedad autoinmune intrahépatica sin masa obstructiva que dilate la vesícula extrahepática." },
+      { "text": "D) Hepatitis Aguda viral fulminante.", "isCorrect": false, "explanation": "Cursa con ictericia parenquimatosa sin vesícula palpable per se." },
+      { "text": "E) Colangitis aguda.", "isCorrect": false, "explanation": "Tríada de Charcot (Ictericia, dolor hipocondrio, fiebre con calofríos)." }
+    ]
+  },
+  {
+    "id": 148,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Gasometría Arterial",
+    "text": "¿Cómo se define gasométricamente el término clínico de \"Insuficiencia Respiratoria Aguda (IRA) Tipo I\" (oxigenatoria pura)?",
+    "hint": "Solo el oxígeno está afectado; los pulmones ventilan bien el CO2.",
+    "options": [
+      { "text": "A) PaO2 baja (< 60 mmHg) pero con hipercapnia (PaCO2 > 50 mmHg).", "isCorrect": false, "explanation": "Esa es la Tipo II (Hipercápnica o ventilatoria global)." },
+      { "text": "B) PaO2 normal con PaCO2 elevada.", "isCorrect": false, "explanation": "Poco probable sin O2 suplementario (la curva de CO2 arrastraría oxígeno)." },
+      { "text": "C) Hipoxemia severa (PaO2 < 60 mmHg a nivel del mar) cursando con PaCO2 normal o baja.", "isCorrect": true, "explanation": "La falla oxigenatoria (Tipo I) típica de neumonía, TEP, SDRA, cursa con hipoxia pero el paciente compensa hiperventilando, manteniendo el CO2 a raya o barriéndolo." },
+      { "text": "D) Disminución de la saturación de hemoglobina (SpO2) en el pulsioxímetro sin alterar gasometría de gases disueltos.", "isCorrect": false, "explanation": "Fisiológicamente imposible (la sat obedece a la PaO2)." },
+      { "text": "E) Saturación venosa mixta (SvO2) elevada masivamente.", "isCorrect": false, "explanation": "Refleja alteraciones en la extracción tisular y cardíaca, no diagnóstico de insuficiencia pulmonar." }
+    ]
+  },
+  {
+    "id": 149,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Manejo de Diabetes Hospitalario",
+    "text": "Paciente con DM2 ingresa programado para cirugía mayor. Utiliza Metformina en casa. ¿Cuál es la conducta recomendada preoperatoria con respecto a la Metformina?",
+    "hint": "Este fármaco tiene riesgo de complicaciones ácidas si hay falla renal aguda o uso de contraste durante el perioperatorio.",
+    "options": [
+      { "text": "A) Aumentar dosis la mañana de la cirugía para evitar hiperglicemia por estrés.", "isCorrect": false, "explanation": "Causaría hipoglicemia en ayuno y riesgo de acidosis láctica." },
+      { "text": "B) Cambiar inmediatamente por sulfonilureas.", "isCorrect": false, "explanation": "Tienen el mayor riesgo de causar hipoglucemia severa e impredecible en ayunos hospitalarios." },
+      { "text": "C) Suspenderla (habitualmente 24h antes o el mismo día) y pasar transitoriamente a pauta de Insulina subcutánea si requiere control en base a glicemias capilares.", "isCorrect": true, "explanation": "Se suspenden antidiabéticos orales (en particular la Metformina por riesgo raro pero mortal de acidosis láctica si hay hipotensión intraoperatoria o falla renal). La insulina es el fármaco de elección, ajustado, durante el estrés hospitalario de cirugías." },
+      { "text": "D) Mantener la misma dosis inalterada con pocos sorbos de agua.", "isCorrect": false, "explanation": "Mala práctica en pacientes en Nada por Vía Oral (NPO) que irán a anestesia general." },
+      { "text": "E) Añadir glucagón profiláctico.", "isCorrect": false, "explanation": "Tratamiento descontrolado y no fisiológico de la homeostasis." }
+    ]
+  },
+  {
+    "id": 150,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Paro Cardiorrespiratorio - Fármacos",
+    "text": "¿Cuál de las siguientes arritmias del paro cardiorrespiratorio carece de indicación de choque eléctrico (desfibrilación), siendo su tratamiento la RCP ininterrumpida y Adrenalina precoz?",
+    "hint": "El corazón no tiene actividad eléctrica caótica que resetear; está quieto o muy enfermo.",
+    "options": [
+      { "text": "A) Fibrilación Ventricular (FV).", "isCorrect": false, "explanation": "Es la indicación número 1 de choque eléctrico." },
+      { "text": "B) Taquicardia Ventricular Sin Pulso (TVSP).", "isCorrect": false, "explanation": "También es indicación formal de choque inmediato." },
+      { "text": "C) Asistolia (línea plana) y Actividad Eléctrica Sin Pulso (AESP).", "isCorrect": true, "explanation": "Son ritmos no desfibrilables. Dar un choque en asistolia no ayuda e interrumpe las necesarias compresiones. Solo sirve adrenalina y buscar causas reversibles (Las 5 H y 5 T)." },
+      { "text": "D) Taquicardia Supraventricular con inestabilidad hemodinámica pero pulsos presentes.", "isCorrect": false, "explanation": "No es paro; si hay inestabilidad y pulso el tratamiento es cardioversión eléctrica sincronizada (no desfibrilación ciega)." },
+      { "text": "E) Fibrilación Auricular con respuesta ventricular rápida y pulso presente.", "isCorrect": false, "explanation": "Tampoco es un ritmo de PCR." }
+    ]
+  },
+  {
+    "id": 151,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Valvulopatía mitral",
+    "text": "Un paciente de 65 años con una miocardiopatía dilatada de origen isquémico (FEVI 28%) presenta disnea de pequeños esfuerzos. El ecocardiograma muestra una insuficiencia mitral (IM) severa debida a la dilatación del anillo y restricción del cierre de los velos por el remodelado ventricular (velos estructuralmente sanos). A pesar del tratamiento médico óptimo para insuficiencia cardíaca a dosis máximas, el paciente sigue muy sintomático. Según los ensayos clínicos recientes y guías, ¿cuál es el tratamiento intervencionista de elección para esta IM secundaria o funcional?",
+    "hint": "En la insuficiencia mitral secundaria en un corazón muy enfermo, la cirugía abierta es de altísimo riesgo; se prefiere algo percutáneo.",
+    "options": [
+      {
+        "text": "a) Recambio valvular mitral por prótesis mecánica mediante cirugía a cielo abierto.",
+        "isCorrect": false,
+        "explanation": "El riesgo quirúrgico es extremadamente alto en disfunción ventricular severa (FEVI 28%) con válvulas anatómicamente normales."
+      },
+      {
+        "text": "b) Reparación percutánea borde a borde (ej. sistema MitraClip).",
+        "isCorrect": true,
+        "explanation": "El documento 'Valvulopatía mitral' explica que en pacientes que permanecen muy sintomáticos a pesar de la Terapia Médica Óptima (TMO), ensayos como el COAPT han demostrado que la reparación percutánea borde a borde reduce las hospitalizaciones por IC y la mortalidad, siendo de elección."
+      },
+      {
+        "text": "c) Valvuloplastia mitral con balón percutáneo.",
+        "isCorrect": false,
+        "explanation": "Es el tratamiento de la Estenosis Mitral reumática pura, no de la Insuficiencia Mitral."
+      },
+      {
+        "text": "d) Administración de antibióticos profilácticos de por vida.",
+        "isCorrect": false,
+        "explanation": "Se usa para prevención de endocarditis o brotes reumáticos, pero no alivia los síntomas severos hemodinámicos presentes."
+      },
+      {
+        "text": "e) Trasplante cardíaco inmediato sin opciones intermedias.",
+        "isCorrect": false,
+        "explanation": "Hay opciones percutáneas que mejoran la calidad de vida y se intentan antes o mientras se evalúa para trasplante si es aplicable."
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Inhaladores",
+    "text": "En el manejo agudo de una exacerbación grave de asma, el broncodilatador de primera elección por su rápido inicio de acción es:",
+    "hint": "Actúa estimulando los receptores simpáticos en los pulmones.",
+    "options": [
+      { "text": "A) Salmeterol.", "isCorrect": false, "explanation": "Es un agonista beta-2 de acción prolongada (LABA), su inicio de acción es lento (mantenimiento, no rescate urgente)." },
+      { "text": "B) Salbutamol (Albuterol).", "isCorrect": true, "explanation": "Es un agonista beta-2 de acción corta (SABA) con inicio de acción en minutos. Droga de oro para el rescate bronquial rápido." },
+      { "text": "C) Bromuro de Tiotropio.", "isCorrect": false, "explanation": "Anticolinérgico de acción muy prolongada (LAMA), pilar en EPOC estable, no rescate agudo asmático." },
+      { "text": "D) Fluticasona.", "isCorrect": false, "explanation": "Corticosteroide inhalado, antiinflamatorio base preventivo, no dilata el músculo bronquial de inmediato." },
+      { "text": "E) Cromoglicato disódico.", "isCorrect": false, "explanation": "Estabiliza el mastocito (preventivo pre-ejercicio o pre-alérgeno), no revierte la broncoconstricción ya establecida." }
+    ]
+  },
+  {
+    "id": 153,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Tos Crónica",
+    "text": "¿Cuáles son las tres causas más frecuentes (la \"triada maldita\") que explican más del 90% de los casos de tos crónica en un adulto no fumador y con radiografía de tórax normal?",
+    "hint": "Moco cayendo atrás, ácido subiendo, o bronquios hiperreactivos.",
+    "options": [
+      { "text": "A) EPOC, Cáncer pulmonar, Tuberculosis.", "isCorrect": false, "explanation": "El paciente es no fumador y tiene Rx normal, lo cual descarta en gran medida las tres patologías." },
+      { "text": "B) Asma (variante tusígena), Goteo Postnasal (Rinitis crónica) y Reflujo Gastroesofágico (ERGE).", "isCorrect": true, "explanation": "Es la tríada etiológica clásica. Se investigan y tratan empíricamente en cascada antes de buscar causas raras." },
+      { "text": "C) Uso de IECAs (Enalapril), Fibrosis pulmonar, Neumonía atípica.", "isCorrect": false, "explanation": "Los IECA causan tos seca (importante a descartar en anamnesis), pero la FPI da Rx/TAC patológico y crépitos. No constituyen el top 3 clásico global en Rx normal." },
+      { "text": "D) Bronquiectasias, Bronquitis Crónica, Insuficiencia Cardíaca.", "isCorrect": false, "explanation": "La bronquitis crónica requiere tabaquismo o irritantes. Las bronquiectasias alteran TAC/Rx." },
+      { "text": "E) Tos psicógena, Acalasia, Neumoconiosis.", "isCorrect": false, "explanation": "Son causas mucho menos frecuentes." }
+    ]
+  },
+  {
+    "id": 154,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Disfagia",
+    "text": "Paciente de 65 años consulta por dificultad progresiva al tragar que inició con sólidos (carnes) hace 3 meses y ahora incluye líquidos (disfagia progresiva mecánica). Ha bajado 10 kg de peso. ¿Qué examen debes solicitar con mayor urgencia y de primera elección?",
+    "hint": "Quieres mirar el lumen desde adentro buscando un tumor obstructivo.",
+    "options": [
+      { "text": "A) Manometría esofágica.", "isCorrect": false, "explanation": "Evalúa alteraciones de la motilidad y esfínteres (útil en acalasia), pero la clínica aquí grita obstrucción maligna mecánica." },
+      { "text": "B) Endoscopia Digestiva Alta (EDA) con toma de biopsias.", "isCorrect": true, "explanation": "La clínica de disfagia mecánica a sólidos progresiva más baja de peso a esta edad es cáncer esofágico hasta demostrar lo contrario. La EDA visualiza, localiza y da el diagnóstico anatomo-patológico." },
+      { "text": "C) Rx de Esófago-Estómago-Duodeno con bario (Tránsito baritado).", "isCorrect": false, "explanation": "Puede mostrar la estrechez, pero no permite biopsiar. Se usaba clásicamente, hoy la EDA es mejor inicio." },
+      { "text": "D) TAC de tórax con contraste.", "isCorrect": false, "explanation": "Sirve para estadificación posterior de metástasis del tumor, no es el primer examen intraluminal." },
+      { "text": "E) Prueba terapéutica empírica con IBP a altas dosis.", "isCorrect": false, "explanation": "El paciente tiene signos de alarma masivos (baja de peso, disfagia progresiva), la prueba IBP se hace en dispepsia o reflujo simple sin alarma." }
+    ]
+  },
+  {
+    "id": 155,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Mala Absorción",
+    "text": "Prueba confirmatoria e invasiva Gold Standard (patrón de oro) definitiva para diagnosticar Enfermedad Celíaca en un adulto con serología positiva (Anticuerpos anti-tTG IgA):",
+    "hint": "Involucra tomar un pequeño trozo de intestino delgado proximal.",
+    "options": [
+      { "text": "A) Examen coproparasitológico y esteatocrito (grasa en heces).", "isCorrect": false, "explanation": "Muestra que hay mala absorción, pero no dice si es por celiaquía o insuficiencia pancreática." },
+      { "text": "B) Prueba de aliento de Hidrógeno tras lactosa.", "isCorrect": false, "explanation": "Diagnostica intolerancia a la lactosa." },
+      { "text": "C) Biopsia duodenal mediante endoscopia (buscando atrofia vellositaria y linfocitosis intraepitelial).", "isCorrect": true, "explanation": "Sigue siendo el Gold Standard en adultos que demuestra el daño inflamatorio mucoso celular característico en las vellosidades que causa la patología y la clínica carencial por consumo de gluten." },
+      { "text": "D) Biopsia de mucosa gástrica por colonoscopia.", "isCorrect": false, "explanation": "El estómago no es el principal afectado ni la colonoscopia llega al estómago." },
+      { "text": "E) Test de Schiller (Prueba Yodada).", "isCorrect": false, "explanation": "Test antiguo usado en cuello uterino, irrelevante en intestino." }
+    ]
+  },
+  {
+    "id": 156,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Farmacología Renal",
+    "text": "En el tratamiento de la Insuficiencia Cardíaca y la HTA, los IECAs (ej. Enalapril) y ARA II (ej. Losartán) pueden empeorar abruptamente la función renal y están formalmente CONTRAINDICADOS de iniciar si existe sospecha diagnóstica ecográfica de:",
+    "hint": "Si las arterias que alimentan a los riñones están estrechas, el riñón depende del sistema renina para mantener su propia presión interna.",
+    "options": [
+      { "text": "A) Nefropatía diabética temprana.", "isCorrect": false, "explanation": "Al revés, son la droga nefroprotectora de primera elección en este escenario." },
+      { "text": "B) Hipertrofia Prostática Benigna.", "isCorrect": false, "explanation": "No tiene efecto sobre la próstata." },
+      { "text": "C) Estenosis Bilateral de las Arterias Renales (o unilateral en riñón único funcionante).", "isCorrect": true, "explanation": "La perfusión del glomérulo en una estenosis isquémica depende críticamente de la vasoconstricción de la arteriola eferente producida por la Angiotensina II. Al bloquear la Angiotensina II, el filtro colapsa, y el paciente cae en falla renal aguda letal súbita." },
+      { "text": "D) Riñón en Herradura o alteraciones morfológicas simples congénitas.", "isCorrect": false, "explanation": "Si la función renal es normal, no contraindica fármacos de la presión." },
+      { "text": "E) Glomerulonefritis membranosa.", "isCorrect": false, "explanation": "No es una contraindicación específica hemodinámica absoluta inicial." }
+    ]
+  },
+  {
+    "id": 157,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Síndromes Tubulares",
+    "text": "Un defecto tubular hereditario caracterizado fundamentalmente por alteraciones masivas en la reabsorción del Asa de Henle grueso (mutación del canal Na-K-2Cl), imitando de forma perenne la acción farmacológica tóxica como si el paciente estuviera tomando Furosemida continuamente toda su vida. Cursa con hipocalemia y alcalosis metabólica:",
+    "hint": "Comparte la letra B y es causa de fallo renal pediátrico.",
+    "options": [
+      { "text": "A) Síndrome de Liddle.", "isCorrect": false, "explanation": "Es un \"pseudohiperaldosteronismo\" (hipertensión masiva con hipokalemia), opuesto a la baja presión y alcalosis de otras tubulopatías perdedoras de sal." },
+      { "text": "B) Síndrome de Bartter.", "isCorrect": true, "explanation": "Defecto autosómico recesivo del canal simportador NKCC2 en el asa gruesa de Henle. Imita la fisiopatología de un diurético de Asa perenne (poliuria, hipokalemia, hipercalciuria e hipocloremia) y presión arterial normal-baja." },
+      { "text": "C) Síndrome de Gitelman.", "isCorrect": false, "explanation": "Defecto en el Túbulo Contorneado Distal. Imita a una Tiazida crónica (cursa con hipocalciuria protectora, a diferencia de Bartter)." },
+      { "text": "D) Acidosis Tubular Renal tipo 4.", "isCorrect": false, "explanation": "Da hiperkalemia y acidosis hiperclorémica (falla de aldosterona)." },
+      { "text": "E) Síndrome de Fanconi.", "isCorrect": false, "explanation": "Falla generalizada del túbulo proximal (pierde glucosa, aminoácidos, fosfato en orina masivamente)." }
+    ]
+  },
+  {
+    "id": 158,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Metabolismo Fosfocálcico",
+    "text": "¿Qué par craneal y signo semiológico buscas estimular al golpear con un martillo percutor la mejilla (delante de la oreja) de un paciente post-tiroidectomía buscando detectar hipocalcemia aguda por daño quirúrgico accidental de las glándulas paratiroides?",
+    "hint": "Causa un espasmo de los músculos faciales.",
+    "options": [
+      { "text": "A) Nervio Trigémino (V) - Reflejo Corneal.", "isCorrect": false, "explanation": "Evalúa el tallo y coma, no tetania hipocalcémica." },
+      { "text": "B) Nervio Facial (VII) - Signo de Chvostek.", "isCorrect": true, "explanation": "Al percutir el tronco del nervio facial en un paciente con la excitabilidad neural elevada (hipocalcemia), se produce una contracción brusca ipsilateral e involuntaria de los músculos de la cara y labios (Signo de Chvostek)." },
+      { "text": "C) Nervio Vago (X) - Reflejo Nauseoso.", "isCorrect": false, "explanation": "No guarda relación semiológica con hipocalcemia." },
+      { "text": "D) Nervio Accesorio Espinal (XI) - Reflejo Esternocleidomastoideo.", "isCorrect": false, "explanation": "No es un signo tetánico documentado." },
+      { "text": "E) Compresión de la Arteria Braquial - Signo de Trousseau.", "isCorrect": false, "explanation": "El Trousseau sí mide hipocalcemia (espasmo carpopedal), pero comprimiendo el brazo con un tensiómetro esfingomanómetro, no percutiendo la cara." }
+    ]
+  },
+  {
+    "id": 159,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Hormonas Suprarrenales",
+    "text": "Tumor productor secretor de Aldosterona en la glándula suprarrenal (Síndrome de Conn). ¿Cuál de los siguientes pares de parámetros laboratoriales es patognomónico clásico del Hiperaldosteronismo primario severo en un paciente hipertenso resistente?",
+    "hint": "La hormona causa que los riñones intercambien y desechen potasio a cambio de guardar sodio.",
+    "options": [
+      { "text": "A) Hiponatremia e Hiperpotasemia (K > 5.5 mEq/L).", "isCorrect": false, "explanation": "Es el patrón de la falla e insuficiencia adrenal de la Enfermedad de Addison (Falta aldosterona)." },
+      { "text": "B) Hipoglicemia e Hipercalcemia.", "isCorrect": false, "explanation": "No se asocian clásicamente a desórdenes exclusivos mineralocorticoides puros de las cortezas adrenales." },
+      { "text": "C) Hipernatremia leve (o normal alta) e Hipopotasemia marcada (K < 3.5 mEq/L con alcalosis).", "isCorrect": true, "explanation": "La aldosterona actúa en el túbulo colector renal promoviendo reabsorción obligada constante de Na+ (y agua secundariamente, elevando la presión de la sangre) y bombeando excreción desmedida tóxica de K+ y H+ en la orina." },
+      { "text": "D) Hipercolesterolemia y Eosinofilia periférica.", "isCorrect": false, "explanation": "Sin relación." },
+      { "text": "E) Cortisol elevado e Hipoglicemia matutina.", "isCorrect": false, "explanation": "Cortisol alto y hormonas esteroidales sexuales sí pueden coexistir en cánceres, pero cursan con hiperglucemia diabética por la acción anti-insulínica." }
+    ]
+  },
+  {
+    "id": 160,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Infecciones de Transmisión Sexual (ITS)",
+    "text": "Varón joven con disuria y secreción uretral purulenta gruesa blanca/amarillenta matinal de 2 días de evolución, post-contacto sexual riesgoso desprotegido. La tinción de Gram de este exudado muestra múltiples diplococos gramnegativos arracimados dentro de las células polimorfonucleares inmunitarias (PMN). Agente etiológico principal sospechado y Terapia de elección:",
+    "hint": "Bacteria gonococo muy resistente a antibióticos antiguos como penicilina; requiere betalactámicos duros inyectables modernos combinados.",
+    "options": [
+      { "text": "A) Chlamydia trachomatis / Tratamiento: Doxiciclina 100 mg VO.", "isCorrect": false, "explanation": "Chlamydia suele dar exudado más claro, escaso, y es intracelular obligada pero no se ve como diplococo gram negativo en microscopía tradicional rápida y fácil." },
+      { "text": "B) Treponema pallidum / Tratamiento: Penicilina G.", "isCorrect": false, "explanation": "Causa sífilis (chancro o úlcera genital y linfadenopatías), no uretritis supurativa masiva." },
+      { "text": "C) Neisseria gonorrhoeae / Tratamiento: Ceftriaxona 500mg IM dosis única (+ Azitromicina empírica para probable coinfección clamidial de base no vista).", "isCorrect": true, "explanation": "Es la morfología típica intracelular de la gonorrea invasiva y la cefalosporina intramuscular de 3ra gen es la recomendada nacional e internacional." },
+      { "text": "D) Trichomonas vaginalis / Tratamiento: Metronidazol.", "isCorrect": false, "explanation": "Es un protozoario flagelado visible que se mueve al microscopio; no es una bacteria diplococa." },
+      { "text": "E) Ureaplasma urealyticum / Tratamiento: Ciprofloxacina.", "isCorrect": false, "explanation": "Es un germen micoplasma sin pared, no tiñe al Gram. Menos supuroso masivo." }
+    ]
+  },
+  {
+    "id": 161,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Tuberculosis - Manejo",
+    "text": "Efecto adverso cardinal del medicamento de primera línea antituberculoso ETAMBUTOL que obliga al paciente a ser controlado preventivamente durante su terapia prolongada en la primera fase intensiva:",
+    "hint": "Afecta secundariamente al par craneal sensitivo superior II.",
+    "options": [
+      { "text": "A) Hepatitis fulminante con elevación grave de Transaminasas (AST/ALT).", "isCorrect": false, "explanation": "Es el daño estrella y más vigilado de la Isoniazida, Pirazinamida y Rifampicina; pero no el sello del Etambutol." },
+      { "text": "B) Neuritis Óptica retrobulbar (pérdida de agudeza visual y alteración en la distinción discriminatoria de colores rojo/verde).", "isCorrect": true, "explanation": "Toxicidad clásica del fármaco. Al paciente se le debe preguntar mensualmente por su visión borrosa o pedir prueba de cartas cromaticas (Snellen o Ishihara)." },
+      { "text": "C) Hiperuricemia y crisis aguda de Gota.", "isCorrect": false, "explanation": "Efecto adverso típico secundario metabólico de la Pirazinamida." },
+      { "text": "D) Tinciones rojizas o naranjas fisiológicas de fluidos corporales como orinas, sudor y lágrimas manchando la ropa del paciente.", "isCorrect": false, "explanation": "Señal patognomónica molesta pero benigna del uso de Rifampicina." },
+      { "text": "E) Sordera nerviosa periférica e Insuficiencia Renal Aguda aminoglucosídica.", "isCorrect": false, "explanation": "Toxicidad histórica clásica de Estreptomicina de segunda línea parenteral inyectable." }
+    ]
+  },
+  {
+    "id": 162,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Anemia Falciforme (Drepanocitosis)",
+    "text": "Niño afrodescendiente con anemia hemolítica crónica basal que llega a urgencias llorando con crisis de dolor intenso agudo incapacitante en huesos de piernas, brazos, tórax y abdomen, sin fiebre franca reciente. El frotis revela abundantes glóbulos rojos deformados en morfología de media luna u \"hoz\" rígida atascada. Fisiopatología causal inicial de la catástrofe analgésica dolorosa:",
+    "hint": "Los eritrocitos defectuosos mutados cristalizan y provocan minúsculos \"infartos\".",
+    "options": [
+      { "text": "A) Crisis Aplásica por Parvovirus B19 deprimiendo repentinamente toda la médula.", "isCorrect": false, "explanation": "Da agravamiento letal y súbito profundo de la anemia y caída dramática de glóbulos sin recambio reticulocitario, pero no causa per se crisis de dolores articulares generalizados primarios." },
+      { "text": "B) Crisis Vaso-oclusiva isquémica trombótica microvascular por aglutinamiento mecánico obstructivo de hematíes falciformes.", "isCorrect": true, "explanation": "Las condiciones de hipoxia, frío, acidosis o deshidratación gatillan la polimerización estructural de la Hemoglobina anómala S, deformando irreversiblemente al glóbulo en hoz (sickle-shape) taponando como troncos microcapilares, infartando isquémicamente el tejido muscular, óseo u orgánico terminal, provocando dolor neuropático y nociceptivo atroz desesperante." },
+      { "text": "C) Crisis de secuestro masivo abdominal en el Bazo (Esplenomegalia).", "isCorrect": false, "explanation": "Da hipovolemia, taquicardia aguda con palidez fantasmal masiva y bazo gigante a la palpación de muerte inminente si no se transfunde al niño preescolar." },
+      { "text": "D) Anemia megaloblástica acelerada carencial por hiperconsumo por la hemólisis.", "isCorrect": false, "explanation": "Ocurre gradualmente por falta compensada de reposición de vitaminas por la alta demanda de la fábrica roja ósea; no causa crisis brutales de dolores focales." },
+      { "text": "E) Embolia macrovascular arterial iliofemoral desde coágulo del ventrículo izquierdo cardíaco.", "isCorrect": false, "explanation": "Raro en la infancia temprana; requeriría Fibrilación Auricular preexistente asociada a vejez." }
+    ]
+  },
+  {
+    "id": 163,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Anticuerpos en Autoinmunidad",
+    "text": "Anticuerpos ANA muy positivos de patrón \"Anti-Centrómero\" aislado están correlacionados clínica y pronósticamente fuerte, específica y casi excluyentemente, de qué enfermedad reumatológica o variante sindromática?",
+    "hint": "Se asocia a menor fibrosis profunda y más acro-complicaciones capilares distales como en las manos endurecidas.",
+    "options": [
+      { "text": "A) Artritis Reumatoide Seronegativa deformante pura nodal distal.", "isCorrect": false, "explanation": "No utiliza ANAs como sustrato pivote biológico definitorio de su variante, sino CCP/FR." },
+      { "text": "B) Granulomatosis con Poliangeítis y compromiso del riñón ANCA-C.", "isCorrect": false, "explanation": "Se diagnostica y asocia con Proteinasa-3 (c-ANCA), no factor centrómero." },
+      { "text": "C) Esclerosis Sistémica Limitada (variante histórica del antiguo Síndrome CREST: Calcinosis, Raynaud, Esófago dismotilidad, Sclerodactilia, Telangiectasia).", "isCorrect": true, "explanation": "Poseen altísima especificidad biológica como fenotipo para predecir patologías no-viscerales tan letales rápidas y sí el componente cutáneo vascular en la forma crónica cutánea localizada con sobrevida algo mejor que la forma difusa Scl-70 anti-topoisomerasa I mortal respiratoria." },
+      { "text": "D) Polimiositis paraneoplásica y Dermatomiositis proximal.", "isCorrect": false, "explanation": "Usan de marcadores de fuerza y severidad de destrucción miopática los auto-Ac de familia Mi-2, SRP o el anti-Sintetasa Jo-1 de compromiso alveolar pulmonar agudo y rash heliotropo." },
+      { "text": "E) Lupus Eritematoso Sistémico Neuropsiquiátrico del embarazo precoz.", "isCorrect": false, "explanation": "Utiliza anticuerpos anti-Ribosomal P y los famosos Anti-Fosfolípidos (Cardiolipinas, Anti beta 2 GP y el Anticoagulante Lúpico protrombótico de pérdidas abortivas) para su definición grave obstétrica en la mujer joven grave en brote, junto a los anti-Smith." }
+    ]
+  },
+  {
+    "id": 164,
+    "internado": "Medicina Interna",
+    "area": "Neurología",
+    "topic": "Síndromes Lobares Cerebrales",
+    "text": "Afasia Fluente (Wernicke): Paciente mayor súbitamente presenta lenguaje verbal muy fluido, abundante, rápido pero totalmente inconexo e incomprensible fonológicamente (habla en \"ensalada de palabras\" o jergafasia fluente). El rasgo más grave asociado y definitorio clínico al examinarle es la INCAPACIDAD profunda para ENTENDER lo que usted u otros le dicen, impidiéndole seguir comandos e instrucciones simples y pareciendo extrañamente ignorante, sordo o desinteresado por su error lingüístico profundo comunicativo. La zona de la corteza arterial cerebral dañada típicamente isquémica se ubica en:",
+    "hint": "El área encargada de la audición y la interpretación semántica lógica profunda.",
+    "options": [
+      { "text": "A) Lóbulo Frontal, circunvolución inferior (Área motora Broca).", "isCorrect": false, "explanation": "El área de Broca, cuando falla, da como resultado un lenguaje no fluente, escaso, telegráfico, agramatical, con enorme esfuerzo motor pero con la  COMPRENSIÓN casi intacta  y con intensa frustración de conciencia por no lograr armar palabras (sabe muy bien internamente lo que quiere decir pero el labio no actúa a nivel de praxis fonatoria motora local)." },
+      { "text": "B) Lóbulo Occipital medial visual bilateral cruzado posterior calcarino.", "isCorrect": false, "explanation": "Su infarto causa Ceguera Cortical y Alexia visual, no trastornos del habla fluente y audición comprensiva general." },
+      { "text": "C) Lóbulo Temporal posterior superior (circunvolución de Wernicke irrigado por rama inferior de la Arteria Cerebral Media izquierda dominante).", "isCorrect": true, "explanation": "El área de Wernicke es el decodificador de significado sensorial y conceptual base. Su infarto destruye la conexión entre los sonidos que el paciente oye a través de sus oídos de lo que realmente significan mentalmente. Como no entienden, responden con frases inventadas pero perfectas de motor articulación, a menudo acompañadas de hemianopsias visuales en abanico sin parálisis motora espástica masiva corporal, lo cual confunde con psiquiatría." },
+      { "text": "D) Tronco Encefálico Mesencefálico, Formación Reticular Activadora Ascendente SARA.", "isCorrect": false, "explanation": "Su lesión produce somnolencia letárgica y estado de estupor, sueño o Coma arreactivo terminal profundo inconsciente general." },
+      { "text": "E) Médula Espinal Cervical alta sensitiva superior decusada espinotalámica.", "isCorrect": false, "explanation": "Interviene en fuerza paralítica de extremidades superiores cuadriplejia y respiración diafragmática, irrelevante e imposible patología en el lenguaje cognitivo avanzado superior humano cerebral cortical de la corteza externa cortical superior humana." }
+    ]
+  },
+  {
+    "id": 165,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Medicamentos en Cardiopatías",
+    "text": "¿Cuál es la principal precaución y potencial efecto adverso grave a nivel de los electrolitos de sangre metabólicos que el médico debe vigilar tras prescribir y subir la dosis del fármaco Espironolactona (un ahorrador de potasio inhibidor de la hormona salina Aldosterona) en el esquema farmacológico de supervivencia vitalicia de pacientes con daño por Insuficiencia Cardiaca Fracción de Eyección Reducida y Falla Renal asociada limítrofe leve a moderada?",
+    "hint": "Imita el efecto laboratorial bioquímico de un Síndrome de Addison renal aislado destructivo.",
+    "options": [
+      { "text": "A) Hiponatremia dilucional grave extrema (Na < 110).", "isCorrect": false, "explanation": "Aunque es un diurético leve y saca algo de sodio débil distalmente, su potencia natriurética pura real de lavado de agua como la torsemida de la furosemida en la mácula de Henle o las tiazidas distales puras, no es el riesgo primario mortal monitorizado semanal para suspender droga de inmediato en controles diarios internistas sino es otro ion eléctrico cardiaco intracelular grave." },
+      { "text": "B) Hiperuricemia y cristales lumbares gota aguda renal obstructiva.", "isCorrect": false, "explanation": "Efecto adverso típico crónico de Tiazidas." },
+      { "text": "C) Hiperpotasemia tóxica letal asintomática peligrosa en silencio (K sérico elevado > 5.5 mEq/L).", "isCorrect": true, "explanation": "La espironolactona y eplerenona son antagonistas del receptor mineralocorticoide tubular en las células principales del túbulo final de la nefrona. Al evitar la fuga de potasio a la orina de salvaguardia, hacen que el K+ se acumule rápidamente en la sangre del paciente y si hay algo de daño renal base o combinaciones con un ARA2 o IECAs (ej. Losartán), la barrera estalla dando bradicardia paralítica o bloqueos aurículoventriculares por membranas sin despolarizar musculares de falla terminal." },
+      { "text": "D) Aumento reactivo de la contractilidad auricular gatillando Fibrilación Auricular paroxística nueva sintomática.", "isCorrect": false, "explanation": "Las drogas que disminuyen la rigidez auricular y fibrosis como la Espironolactona bajan las arritmias a mediano plazo, no las elevan por sobreestimulación simpática directa inotrópica positiva directa sobre el nódulo que los betabloqueantes o digoxinas evitan." },
+      { "text": "E) Reagudización de Broncoespasmos y episodios asmáticos severos espiratorios de sibilancias silentes irreversibles.", "isCorrect": false, "explanation": "Contraindicación farmacodinámica y peligroso perfil adverso restrictivo bronquial puro letal exclusivo clásico de todos los Betabloqueadores sistémicos inespecíficos como el Propranolol o Carvedilol en receptores Beta-2 pulmonares." }
+    ]
+  },
+  {
+    "id": 166,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Neoplasias Pulmonares",
+    "text": "Nódulo pulmonar solitario: En una tomografía de tamizaje a un fumador se detecta un nódulo redondo bien delimitado de 2 cm en lóbulo superior derecho. ¿Qué signo radiológico específico analizado microscópicamente en sus cortes en la placa del TAC sugiere firmemente un origen neoplásico maligno primario infiltrativo celular (como el Adenocarcinoma o un carcinoma Escamoso incipiente de rápido crecimiento destructivo) y eleva el riesgo pre-test oncológico brutalmente obligando a hacer biopsia percutánea torácica inmediata a diferencia de un granuloma tuberculoso benigno cicatricial viejo y quieto calcificado encapsulado en el tiempo estacionario sin crecer nunca?",
+    "hint": "Piense en la agresividad morfológica caótica estelar de un tejido invasor tisular cancerígeno que roba sangre.",
+    "options": [
+      { "text": "A) Calcificación central única y densa sólida o en 'palomita de maíz' laminar total.", "isCorrect": false, "explanation": "Patrón muy clásico de lesiones viejas inflamatorias antiguas granulomatosas fibróticas estacionarias calcificadas cicatrizadas en años y años de quietud, o clásicos hamartomas pulmonares benignos cartilaginosos congénitos (palomitas calcificadas)." },
+      { "text": "B) Bordes espiculados asimétricos e irregulares invasivos (aspecto en 'corona radiata' que borra el intersticio) asociado a crecimiento volumétrico de su tamaño real rápido documentado de base milimétrica en TAC previos recientes seriados de pocos meses.", "isCorrect": true, "explanation": "La corona radiata indica que el tumor celular invasivo biológicamente maligno no respeta los septos y se abre paso por los linfáticos del lóbulo pulmonar e inflama fuertemente desordenadamente perdiéndose los límites rectos e instaurando neovascularización agresiva caótica alrededor letal del nódulo solitario a medir y extirpar y tratar rápido local e ir a resección y estudio molecular." },
+      { "text": "C) Nódulo sólido puro menor a 4 milímetros, hallazgo incidental totalmente liso regular a nivel subpleural inferior cerca de una cisura anatómica baja lejana en no fumador sin factores genéticos ni humo leña ambientales base.", "isCorrect": false, "explanation": "Clasificado en guías Fleischner como de muy bajo riesgo oncológico primario; manejo por seguimiento alejado y observacional por si hay mínimos cambios futuros sin invasividad aguda." },
+      { "text": "D) Múltiples nódulos diseminados en copos o miliares biapicales simétricos iguales idénticos a granos o nieves y con calcificaciones de viejas cavernas de base radiográfica pasada conocida y calcificada cicatrizada estática en TAC viejos en tiempo del asilo.", "isCorrect": false, "explanation": "Aspecto radiológico de TBC residual antigua calcificada asintomática estéril del lóbulo superior crónico y ya inmune sin bacilos per se agudos reactivos. Su forma miliar difusa total siembra igual es cuadro de emergencia médica pero infectológica meníngea aguda, no neoplásico primario clásico." },
+      { "text": "E) Presencia de halo esmerilado puramente inflamatorio transitorio difuso no macizo con cultivo de esputo fuertemente positivo y con pus abundante fiebre neumonía asociada que cura y desaparece al control radiográfico en mes.", "isCorrect": false, "explanation": "Corresponde a focos condensativos purulentos alveolares exofíticos lobares redondos infecciosos (neumonía redonda neumococo o atípica curable reversible completa)." }
+    ]
+  },
+  {
+    "id": 167,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Trastornos Ováricos Endocrinos",
+    "text": "Síndrome de Ovarios Poliquísticos (SOP): Causa más frecuente de infertilidad de origen ovulatorio y disfunción endócrina hiperandrogénica crónica en mujeres en edad reproductiva. Fisiopatológicamente, el mecanismo sistémico causal que subyace, agrava o desencadena fuertemente al SOP de forma central paralela a nivel lipídico celular y exacerba drásticamente sus complicaciones metabólicas vasculares (como la acantosis nigricans, resistencia folicular, riesgo diabético y enfermedad cardiovascular oculta) en más de un 60% de las afectadas sintomáticas se fundamenta biológicamente en:",
+    "hint": "Células ignoran la orden metabólica de azúcar de guardar energía a nivel sistémico de sangre y del hígado basalmente en la mujer obesa en forma central.",
+    "options": [
+      { "text": "A) Deficiencia severa absoluta profunda destructiva de insulina en islotes de Langerhans pancreáticos insulínicos letales absolutos fulminantes autoinmunes de debut per se puros como primer hallazgo clínico biológico agudo pre pubertad sin pre existencia ni genéticos.", "isCorrect": false, "explanation": "Eso describe una DM Tipo 1 fulminante infantil juvenil autoinmune (destrucción islotes), que causa cetoacidosis no per se obesidad insulinoresistente ni hirsutismo folicular o quistes ovarios anovulación crónica de la mujer fértil joven general adulta." },
+      { "text": "B) Resistencia sistémica a la Insulina y posterior hiperinsulinismo compensatorio.", "isCorrect": true, "explanation": "Las pacientes con SOP poseen fuertísima resistencia celular periférica al azúcar. El páncreas responde secretando olas inmensas de insulina al suero. Esa Insulina masiva va al hígado y disminuye fuertemente a la SHBG (proteína transportadora fijadora) y va directo estimulando hiper-andrógicamente a la Teca ovárica estéril de mujer, provocando el arresto masivo ovulatorio de los andrógenos locales folículos en quistes y el fenotipo exterior feo hirsuto." },
+      { "text": "C) Mutación puntual patológica maligna oncológica masiva activadora letal mortal letal genética masiva e infiltrativa tumoral aguda de la corteza suprarrenal adrenalina esteroidal maligna bilateral hiperactiva de metástasis letales en la mujer joven SOP debut.", "isCorrect": false, "explanation": "Mecanismo para Carcinoma Adrenal cortical maligno mortal veloz oncológico con virilización rápida tumoral muy severa rápida grave (cambio de voz repentina viril), muy lejos del cuadro crónico metabólico benigno ovárico metabólico crónico lento clásico del SOP." },
+      { "text": "D) Atrofia funcional atrófica prematura inflamatoria folicular esteroidea de la hipófisis ovárica y menopausia central muy adelantada y profunda falta total nula biológica irreversible pura simple genética hormonal de estrógenos de ovarios y reserva pre menopaúsica ovulatoria y fallo central letal genético.", "isCorrect": false, "explanation": "Esa es la Falla Ovárica Prematura (menopausia juvenil). Cursa con ovarios chicos sin folículos funcionales nulos secos o atróficos absolutos de FSH elevadísima en el cielo central y la amenorrea letal de sangrado; muy diferente al SOP con hiper y anovulación crónica sin atrofia destructiva per se general autoinmune con folículos gigantes." },
+      { "text": "E) Hipotiroidismo severísimo mixto letal autoinmune Hashimoto TSH hipertiroidea aguda coma mixedema total mixedema de coma hipertiroideo mixto agudo per se hipotiroidea extrema mixedema central e mixedema autoinmune coma de mujeres.", "isCorrect": false, "explanation": "Una disfunción tiroidea puede dar retrasos de regla ovulatorios severos y anovulación de prolactinas falsas por exceso de TRH, pero no subyace la base bioquímica lipídica androgénica central molecular universal real fundamental insulínica base del Síndrome Folicular clásico SOP." }
+    ]
+  },
+  {
+    "id": 168,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Cáncer Hepático",
+    "text": "Tumor primario hepático maligno más frecuente del hígado de adultos a nivel global. Aparece casi siempre sobre el tejido cicatrizal y fibroso crónico necrótico inflamatorio de un hígado cirrótico en estadio avanzado o portadores virales B o C activos descontrolados biológicamente años y años.",
+    "hint": "Cáncer derivado de la célula principal funcional del propio órgano.",
+    "options": [
+      { "text": "A) Colangiocarcinoma de las vías biliares mayores portales extra hepáticas primario oncológico maligno.", "isCorrect": false, "explanation": "Deriva del epitelio de los conductos biliares per se biliares. Típicamente menos vinculado masivamente y obligatoriamente excluyentemente a cirrosis base general como el otro y asociado más a colangitis autoinmunes esclerosante de vías y parásitos hepáticos lejanos biliares clásicos de los ductos puros biliares inflamatorios sin hígado cirrótico." },
+      { "text": "B) Hemangioma gigante cavernoso benigno inflamatorio masivo venoso crónico genético estacionario asintomático radiológico sin tratamiento incidental en jóvenes general del estroma hepático.", "isCorrect": false, "explanation": "Es el tumor hepático global parenquimatoso \"benigno\" de hallazgo general universal pero es vascular y benigno de pared y no de estirpe de cirrosis o viral ni eleva los alfafetoproteínas destructivas agudas mortales con trombosis portales neoplásicos malignos." },
+      { "text": "C) Carcinoma Hepatocelular (Hepatocarcinoma).", "isCorrect": true, "explanation": "Se origina desde los hepatocitos. En el 90% asienta sobre hígados con arquitectura ya destrozada (Cirrosis de origen OH o VHC) o con VHB en etapa basal sin cirrosis inclusive. Suele dar nódulos neoplásicos vascularizados, eleva en suero como marcador bioquímico masivo en sangre y tejidos a la 'Alfatafetoproteina' y suele ser muy letal velozmente por su diagnóstico final crónico y por la falta de hígado restante viable sano funcional salvador general de sobrevida hepática si se corta para el resección total de la falla del paciente terminal sin trasplantes oncológicos aptos en él." },
+      { "text": "D) Metástasis invasiva difusa hepática múltiple masiva letal a nivel vascular difuso miliar portal masivo letal terminal diseminada vascular del paciente en paliativos general abdominal gástrica digestiva o oncológica metastásica intestinal pulmonar portal en la porta vascular.", "isCorrect": false, "explanation": "A nivel global \"absoluto\" es efectivamente el tumor que más daña y llena al hígado de tumores secundarios, pero la pregunta indaga por el tumor primario per se y biológico originario hepatocítico base. En hígados de cirrosis es muy raro la metástasis, paradójicamente el hígado cirrótico fibrótico se hace casi inmune u hostil al injerto canceroso de otros órganos por su poca vascularización buena y destrucción fibrosa capilar." },
+      { "text": "E) Adenoma Hepático de mujeres jóvenes sanas per se con dolor inflamación y hemorragias de anticonceptivos per se estrógenos genéticos vasculares tumoral.", "isCorrect": false, "explanation": "Tumor benigno originario que sangra, muy fuertemente asociado a las pastillas anticonceptivas orales estrogénicas añosas elevadas masivas estrógenas y no de origen alcohólico, cirrosis o virus de C B letal cirrótico fibrótico de ancianos hepatópatas generales." }
+    ]
+  },
+  {
+    "id": 169,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Infecciones Urinarias",
+    "text": "Un hombre mayor acude con cuadro agudo febril séptico de alto nivel (fiebre 39°C), intensísimo dolor lumbar con puñopercusión fuertemente positiva e intensa disuria con micción frecuente irritativa prostática inflamatoria dolorosa basal en zona genital perianal pélvica rectal urinaria. ¿Cuál es la limitación física manual más importante contraindicada en la inspección semiológica del tacto rectal urológico si sospechas Prostatitis Aguda Infecciosa de origen entérico séptico severo como la base bacteriana del paciente grave?",
+    "hint": "Maniobra que si es realizada muy fuerte o brusca, aprieta la glándula y arroja a la sangre de inmediato toda la carga séptica general y causa o exacerba una tormenta letal séptica bacteriana al sistema urogenital.",
+    "options": [
+      { "text": "A) Evitar recetar antibióticos y hacer el tacto fuertemente con masajes para obligar a liberar pus anal curativo per se base de la infección del líquido rectal purulento rápido prostático local de terapia y no dar drogas sintéticas antibacterianas orales generales base inflamatorias prostáticas del absceso crónico per se prostático.", "isCorrect": false, "explanation": "Manejo antiguo falso contraproducente para abscesos de cirugías crónicas o drenajes abiertos mayores; daría masajes crónicos en prostatitis bacterianas abacterianas o dolores crónicos per se inflamatorios funcionales prostáticos inflamatorios de no-infecciones. Un foco de pus febril requiere evitarse tocar u orinar fuerte por retenciones dolorosas base." },
+      { "text": "B) Masaje prostático vigoroso diagnóstico urológico (apretar fuertemente o exprimir el lóbulo prostático caliente hiperplásico de pus contra el sacro del paciente febril).", "isCorrect": true, "explanation": "Es de altísimo peligro bacteriológico séptico general diseminatorio grave y riesgo en la vida real. Realizar presión prostática fuerte con pus en glándula caliente muy dolorosa para toma de muestras en la forma Aguda febril induce descargas directas bacterianas altísimas inminentes letales a la sangre del lecho plexo venoso de la pelvis general e inminente riesgo de tormenta o shock séptico letal. (Sólo se permite roce suave diagnóstico tacto ligero simple o ecografía diagnóstica). Hemocultivos y antibióticos sistémicos intravenosos duros como Ceftriaxona base curan la vida general infecciosa sistémica bacteriana urinaria urogenital basal sin presionar masa de tejido frágil doloroso pelviano abscesificado de orinas del tracto bacteriano en sangre varón." },
+      { "text": "C) Hacer una ureteroscopia retrograda por la punta uretra visual per se diagnóstica vesical con óptica urinaria del cuello cistoscopia urinaria rígida aguda para buscar sangrados tumoral base sangrante cáncer hiperplasia lóbulo de vejiga roja orina sin dolor prostático febril inflamado urinaria de orina próstata per se basal hematuria uretral visual inflamado per se tacto.", "isCorrect": false, "explanation": "Peligrosísimo instrumental endoscópico innecesario en infección uretral prostática baja activa séptica febril base inflamatoria uretral prostática agudo urogenital. Expandiría trauma, riesgo letal, no aporta al absceso urogenital base infecciosa per se bacteriana en sangre base general urológica pélvica aguda del paciente general base tacto inflamada prostática purulenta base infección tracto pélvica." },
+      { "text": "D) El uso de AINEs o Antitérmicos de inflamación periféricos y reposo base febril de origen próstata tacto anal sin dar más sintomático paracetamol al tacto al dolor de próstata de urgencia per se inflamatorio sin hacer tactos o eco rectal y eco uretral base inflamación dolor prostatico y reposo local general urinario tacto pélvico uretral inflamatoria base urinaria rectal próstata febril reposo AINE.", "isCorrect": false, "explanation": "Son base general sintomática auxiliar general pélvica no es contraindicación semiológica base del urológo en sospechas agudas febriles del hombre mayor general de urgencias generales orinas disuria tacto base. Lo grave y contraindicado per se del examen tacto es el masaje fuerte que rompa los lechos bacterianos." },
+      { "text": "E) Evaluar por ecografía radiológica per se renal de los riñones y uréter alto sin examinar genitales ni orinas ni fiebre y mandar eco renal basal general sin tocar la pelvis base per se urológico riñón pélvica tacto urinario y uréter no riñón basal pélvica inflamación pélvica próstata del per se y mandar riñón basal general.", "isCorrect": false, "explanation": "Es necesario examinar suavemente el área del perineo, excluir retenciones de orinas vesicales pélvicas por globo grande y dar terapia y eco renal es válido pero no reemplaza el correcto diagnóstico del tracto bajo inflamado próstata genital táctil." }
+    ]
+  },
+  {
+    "id": 170,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Hipertensión Arterial Secundaria",
+    "text": "Paciente de 25 años. HTA severa refractaria a triple terapia base de urgencias en consulta, sin antecedentes diabéticos o coronarios propios de ancianos familiares metabólicos base genética. En el examen neurológico vascular presenta fuerte pulso fuerte amplísimo humeral (brazos muy calientes y rojos de presión alta sistólica craneal masiva con cefalea pulsátil de sangre) y sin embargo presenta claudicación débil y casi ausencia palidez de pulsos pedios e hipoplasia o frialdad atrófica distal de miembros inferiores de pierna del pulsos poplíteos nulos fijos atrófica general base presión de piernas frías claudicación dolorosa isquémica de caminar leve y asimétrica presión miembros presión base piernas pulso distal general isquémica. Diagnóstico del especialista:",
+    "hint": "Obstrucción en el tubo o aorta principal de la casa vascular humana después de haber dado la irrigación fuerte de sangre al primer piso alto (cerebro/brazos) pero sin dejar caer agua al sótano o piso bajo corporal inferior.",
+    "options": [
+      { "text": "A) Hiperplasia suprarrenal congénita o tumor endocrino aldosterona (Conn).", "isCorrect": false, "explanation": "HTA y desórdenes metabólicos basales K Na. No explican nunca jamás por sí solos las asimetrías de pulso isquémico en reposo ni hipoplasia pierna con plétora fuerte braquial superior de pulso dispar vascular extremidades extremas brazos rojo piernas atrófica frías presión sin pulso base dispar." },
+      { "text": "B) Feocromocitoma medular.", "isCorrect": false, "explanation": "Da crisis simpáticas con HTA a todo lo que da general masiva pulso cuerpo de catecolaminas. No genera estenosis de calibre arterial local a menos que sea ateroesclerosis en vasos terminales de general difusa ancianos periféricas y no diferencial asimétrico congénito joven pulso." },
+      { "text": "C) Coartación de la Aorta.", "isCorrect": true, "explanation": "Estrechamiento congénito de la Aorta torácica, clásico de Turner en mujeres o variante hombres. Se forma antes o después de la gran subclavia (vasos a cabeza y brazos con presión y flujo masivo compensatorio enorme letal HTA). Tras la estrechez (estenosis de la coartación en arco), a las piernas y riñones de base abajo de la aorta les llega hilo de pulso exiguo y frío, desencadenando claudicación de la pantorrilla isquémica hipoplasia diferencial presión pulsos débiles frías o nulos base inferiores clásico asimétrico superior fuerte inferior bajo base diagnóstico." },
+      { "text": "D) Síndrome de Marfan cardiovascular genético y fibrilina de raíz aorta gigante base aneurisma genético válvula.", "isCorrect": false, "explanation": "Da aneurismas masivos y rupturas de aorta grandes laxas de insuficiencia aórtica de soplo diastólico con miembros larguísimos y aracnodactilia, no estrecheces estenóticas de pulsos débiles cortos hipoplásicos asimétricas base sin pulsos piernas de coartación diferencial fuerte arriba basal débil base vascular de Marfán general estenosis. (No es estenótico obstructivo asimétrico, es conectivo laxo de roturas). " },
+      { "text": "E) Enfermedad de Takayasu Vasculitis mujeres aorta y ramas base inflamación vascular.", "isCorrect": false, "explanation": "Pudiese dar coartación vascular \"pulseless disease\" en mujeres asiáticas jóvenes, pero allí faltan todos los pulsos de brazos en cuello carótidas arriba de isquemia y falta de brazo vascular (mujeres sin pulso). En la coartación torácica clásica anatómica se hipertrofia masivamente brazos fuerte general arriba rojo de hiperflujo basal asimétrico diferencial." }
+    ]
+  },
+  {
+    "id": 171,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Trastornos Ocupacionales",
+    "text": "Minero asintomático, con imagenologia nodular difusa, expuesto crónicamente. Rx con \"cáscara de huevo\" hiliar.",
+    "hint": "Neumoconiosis por mineral común.",
+    "options": [
+      { "text": "A) Asbestosis.", "isCorrect": false, "explanation": "Placas pleurales y patrón reticular." },
+      { "text": "B) Silicosis.", "isCorrect": true, "explanation": "Patrón nodular de predominio superior y adenopatías hiliares con calcificación periférica (cáscara de huevo)." },
+      { "text": "C) Beriliosis.", "isCorrect": false, "explanation": "Imita a sarcoidosis pero con exposición aeroespacial/electrónica." },
+      { "text": "D) Neumonitis por hipersensibilidad.", "isCorrect": false, "explanation": "Exposición orgánica, no mineral inerte." },
+      { "text": "E) Antracosis pura.", "isCorrect": false, "explanation": "Mineros de carbón, nódulos sin la cáscara de huevo característica de sílice." }
+    ]
+  },
+  {
+    "id": 172,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Hepatitis Viral",
+    "text": "Marcador serológico de infección aguda por virus B.",
+    "hint": "Primer anticuerpo contra el \"core\".",
+    "options": [
+      { "text": "A) HBsAg", "isCorrect": false, "explanation": "Es el antígeno de superficie, indica infección presente (aguda o crónica)." },
+      { "text": "B) Anti-HBs", "isCorrect": false, "explanation": "Anticuerpo protector (vacuna o curación)." },
+      { "text": "C) IgM Anti-HBc", "isCorrect": true, "explanation": "Anticuerpo IgM contra el antígeno central, sello diagnóstico de infección reciente/aguda." },
+      { "text": "D) IgG Anti-HBc", "isCorrect": false, "explanation": "Indica contacto antiguo." },
+      { "text": "E) HBeAg", "isCorrect": false, "explanation": "Marcador de replicación activa y alta infectividad." }
+    ]
+  },
+  {
+    "id": 173,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Brucelosis",
+    "text": "Paciente ganadero con fiebre ondulante de predominio nocturno y artralgias. Exposición a quesos no pasteurizados.",
+    "hint": "Fiebre de Malta.",
+    "options": [
+      { "text": "A) Leptospirosis", "isCorrect": false, "explanation": "Orina de roedores, da daño hepatorrenal (Weil)." },
+      { "text": "B) Fiebre Q (Coxiella burnetii)", "isCorrect": false, "explanation": "Da neumonía y hepatitis, menos artritis crónica, no ondulante." },
+      { "text": "C) Brucelosis", "isCorrect": true, "explanation": "Causada por Brucella abortus/melitensis. Fiebre ondulante, sudoración fétida y asociación a lácteos crudos o ganado." },
+      { "text": "D) Tuberculosis bovina", "isCorrect": false, "explanation": "Cuadro respiratorio o ganglionar crónico." },
+      { "text": "E) Toxoplasmosis", "isCorrect": false, "explanation": "Adenopatías asintomáticas o afectación fetal, contacto con gatos." }
+    ]
+  },
+  {
+    "id": 174,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Síndrome Nefrítico",
+    "text": "Cilindros hemáticos en orina son un indicador altamente sugestivo de:",
+    "hint": "Sangre moldeada dentro del tubo del riñón.",
+    "options": [
+      { "text": "A) Hematuria de vía excretora (cálculo o tumor).", "isCorrect": false, "explanation": "Los eritrocitos están frescos, no forman cilindros de proteína renal." },
+      { "text": "B) Glomerulonefritis aguda.", "isCorrect": true, "explanation": "La sangre atraviesa el glomérulo dañado y precipita en el túbulo con proteínas de Tamm-Horsfall, formando cilindros que indican origen glomerular del sangrado." },
+      { "text": "C) Infección urinaria baja.", "isCorrect": false, "explanation": "Presencia de piocitos o leucocitos, no cilindros hemáticos." },
+      { "text": "D) Necrosis tubular aguda.", "isCorrect": false, "explanation": "Da cilindros granulosos (\"muddy brown\")." },
+      { "text": "E) Nefritis intersticial.", "isCorrect": false, "explanation": "Da leucocituria y cilindros leucocitarios." }
+    ]
+  },
+  {
+    "id": 175,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Coagulación Intravascular Diseminada",
+    "text": "Marcador de laboratorio que confirma consumo acelerado de factores de coagulación en CID secundaria a sepsis.",
+    "hint": "Proteína grande responsable del coágulo definitivo.",
+    "options": [
+      { "text": "A) Trombocitosis", "isCorrect": false, "explanation": "Hay trombocitopenia por consumo masivo." },
+      { "text": "B) Hipofibrinogenemia", "isCorrect": true, "explanation": "El fibrinógeno (factor I) se agota dramáticamente porque el paciente genera coágulos microscópicos en todo su cuerpo, perdiendo su factor para cuando deba sangrar y detener hemorragia." },
+      { "text": "C) Tiempo de Protrombina acortado", "isCorrect": false, "explanation": "Los tiempos están larguísimos (prolongados) porque ya no quedan factores." },
+      { "text": "D) Antitrombina III normal", "isCorrect": false, "explanation": "También disminuye al tratar de frenar la cascada." },
+      { "text": "E) Ferritina alta", "isCorrect": false, "explanation": "No es un factor central de la cascada CID." }
+    ]
+  },
+  {
+    "id": 176,
+    "internado": "Medicina Interna",
+    "area": "Neurología",
+    "topic": "Corea de Huntington",
+    "text": "Patología neurodegenerativa hereditaria dominante caracterizada por movimientos involuntarios (corea) y deterioro cognitivo/psiquiátrico en adultos jóvenes. Área cerebral atrofiada clásicamente:",
+    "hint": "Un núcleo del sistema extrapiramidal en forma de cola.",
+    "options": [
+      { "text": "A) Sustancia negra.", "isCorrect": false, "explanation": "Se atrofia en la enfermedad de Parkinson." },
+      { "text": "B) Corteza cerebelosa.", "isCorrect": false, "explanation": "Ataxias espinocerebelosas o alcohol." },
+      { "text": "C) Núcleo Caudado.", "isCorrect": true, "explanation": "La pérdida de las neuronas gabaérgicas inhibitorias del núcleo caudado y putamen (estriado) libera el movimiento (corea) en la enfermedad de Huntington." },
+      { "text": "D) Hipocampo.", "isCorrect": false, "explanation": "Se atrofia precozmente en Alzheimer (memoria)." },
+      { "text": "E) Cuernos anteriores medulares.", "isCorrect": false, "explanation": "Fallo en ELA o polio (motoneurona)." }
+    ]
+  },
+  {
+    "id": 177,
+    "internado": "Medicina Interna",
+    "area": "Neurología",
+    "topic": "Hemorragia Intracerebral",
+    "text": "Localización anatómica más frecuente de la hemorragia hipertensiva primaria en el cerebro por ruptura de microaneurismas de Charcot-Bouchard.",
+    "hint": "La zona central de núcleos basales irrigada por pequeñas arteriolas.",
+    "options": [
+      { "text": "A) Lóbulo frontal.", "isCorrect": false, "explanation": "Típico sitio de rotura de MAVs o amiloidopatías, menos clásico puro hipertensivo." },
+      { "text": "B) Espacio subaracnoideo.", "isCorrect": false, "explanation": "Por ruptura de aneurismas grandes del polígono Willis." },
+      { "text": "C) Putamen y ganglios basales.", "isCorrect": true, "explanation": "Los vasos lentículo-estriados, al emerger de forma recta (90 grados) desde la cerebral media que trae enorme presión de abajo, revientan por hipertensión descontrolada en esta región profunda afectando cápsula interna e induciendo hemiplejia aguda mortal." },
+      { "text": "D) Cerebelo superficial.", "isCorrect": false, "explanation": "Frecuente pero en 10%, no es la localización reina del ganglio estriado." },
+      { "text": "E) Protuberancia (Tallo).", "isCorrect": false, "explanation": "Devastador si ocurre, pero estadísticamente menos frecuente que ganglios basales/tálamo putaminal general hipertensivo basal primario clásico." }
+    ]
+  },
+  {
+    "id": 178,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Enfermedad de Paget del Hueso",
+    "text": "Varón de 65 años con dolor óseo pélvico, cráneo ensanchado y sordera progresiva. Lab: Calcio y fósforo normales. Fosfatasa Alcalina enormemente elevada. Rx ósea con zonas de esclerosis y lisis. El osteoclasto está descontrolado en recambio anormal, provocando en el cráneo y sorderas típicas. Diagnóstico:",
+    "hint": "Remodelado óseo caótico (forma hueso débil).",
+    "options": [
+      { "text": "A) Mieloma múltiple.", "isCorrect": false, "explanation": "Tendría calcio alto y lesiones líticas 'en sacabocados' puras (no esclerosas/tejidas en desorden), sin fosfatasa alcalina gigante (actividad formadora osteoblasto nula)." },
+      { "text": "B) Hiperparatiroidismo.", "isCorrect": false, "explanation": "Tendría calcio alto y fósforo bajo." },
+      { "text": "C) Enfermedad de Paget Ósea.", "isCorrect": true, "explanation": "Fallo focal en la resorción-formación ósea. Hueso deforme, ensanchado pero frágil, atrapa nervios sensitivos base cráneo (sordera VIII par). La Fosfatasa Alcalina en la sangre explota por el altísimo recambio de los osteoblastos trabajando a ciegas y desorden total estructural óseo del Paget per se sin desajuste Ca fósforo base." },
+      { "text": "D) Osteoporosis senil.", "isCorrect": false, "explanation": "Metabolismo y enzimas óseas (FA) en suero son absolutamente normales basales sin caos de recambio y destrucción deformante estática y calcárea del cráneo sordo paget per se de recambio y deformación general dolor de huesos deformes general base en sangre y rx de caos recambio de deformación sorda de Paget y base sorda." },
+      { "text": "E) Osteomalacia adulta.", "isCorrect": false, "explanation": "Deficiencia grave de vitamina D con desmineralización blanda pura, no engrosamiento gigante irregular osteoclástico osteoblástico como Paget que deforma todo y eleva masivamente la fosfatasa." }
+    ]
+  },
+  {
+    "id": 179,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Hormonas Calciotropas",
+    "text": "Efecto activo de la Vitamina D3 (Calcitriol) a nivel intestinal en la homeostasis del calcio y hueso humano:",
+    "hint": "Trabaja en el tubo digestivo para meter material de construcción a la sangre.",
+    "options": [
+      { "text": "A) Disminuye la absorción de Fósforo y Calcio de los alimentos diarios para evitar daño al riñón y litiasis per se y botarlos fecales general basal metabólico digestivo.", "isCorrect": false, "explanation": "Absolutamente opuesto, lo aumenta para nutrir hueso y sangre basal vital fisiológico de la base vital y del crecimiento corporal óseo del niño fuerte basal mineralizado calcio per se intestinal sin fósforo y no calcio base en comida." },
+      { "text": "B) Aumenta fuertemente la absorción activa de Calcio y Fósforo desde el lumen del duodeno a la sangre.", "isCorrect": true, "explanation": "El Calcitriol estimula la síntesis de proteínas fijadoras de calcio (calbindina) en el enterocito, permitiendo que el calcio de la dieta pase a la sangre de manera efectiva, proveyendo al hueso el material mineral basal e impidiendo raquitismo u osteomalacia per se de deficiencias. También aumenta de la mano la de fósforo." },
+      { "text": "C) Aumenta la secreción gástrica ácida y biliar vesicular de la pared que quema el calcio e impide la digestión alcalina del estómago vaciando calcio de sangre a bilis.", "isCorrect": false, "explanation": "Falso fisiológicamente." },
+      { "text": "D) Inhibe a los osteoblastos directamente y secreta calcitonina gástrica para calcificar la vesícula y vasos.", "isCorrect": false, "explanation": "Vitamina D ayuda mineralizar hueso sano al aumentar calcio sangre, e inhibe PTH, no estimula la calcitonina." },
+      { "text": "E) Intercambia potasio por calcio libre en los plexos mesentéricos viscerales de absorción colónica distal pasiva difusa de colon sin vitamina D basal y solo magnesio o zinc de base mineral traza general basal basal colónica final.", "isCorrect": false, "explanation": "Es duodenal-yeyunal y es directa sobre calbindina sin cambios K/Ca puros entéricos del lumen final colónico difuso pasivo de canales gruesos final base basal metabólico basal difusa intestinal per se ciego colónica rectal distal final sin vitamina." }
+    ]
+  },
+  {
+    "id": 180,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Anemias",
+    "text": "¿Cuál es la causa patogénica fisiológica subyacente etiológica exclusiva originaria principal y destructiva celular autoinmune específica irremediable base que define biológicamente a la Anemia Perniciosa clásica del adulto mayor que carece de B12?",
+    "hint": "Falta una llave biológica estomacal indispensable.",
+    "options": [
+      {
+        "text": "A) Insuficiencia masiva de secreción de tripsina y amilasa pancreática digestiva total por atrofia quística aguda intestinal que bloquea absorción pura simple de sales de intestino delgado duodenal ciego y enzimas terminales nulas.",
+        "isCorrect": false, "explanation": "No explica déficit exclusivo crónico letal de vit B12 pernicioso y sin Factor gástrico basal de estómago del pernicioso anciano clásico de estrógenos de gástrica parietal autoinmune."
+      },
+      {
+        "text": "B) Falla nutricional nula dietética vegana extremista aislada carencial simple pura base.",
+        "isCorrect": false, "explanation": "Daría deficiencia de B12, sí, pero eso es una anemia dietética carencial simple. La Perniciosa tiene una fisiopatología autoinmune endógena gástrica, no solo dejar de comer carne."
+      },
+      {
+        "text": "C) Anticuerpos autoinmunes que destruyen las Células Parietales Gástricas del fondo estomacal, impidiendo la secreción del \"Factor Intrínseco\" (llave esencial para la absorción de Vitamina B12 en Íleon Terminal).",
+        "isCorrect": true,
+        "explanation": "El texto 'Anemias carenciales y anemia megaloblástica' explica cómo la vitamina neuroesencial B12 requiere de este acarreador (Factor Intrínseco). En la Anemia Perniciosa, el paciente destruye su propio estómago (sus células parietales), dejando a la B12 huérfana e imposibilitando su absorción intestinal. Obliga a reponer depósitos con inyecciones de por vida."
+      },
+      {
+        "text": "D) Aclaramiento hepático renal gigante de vitaminas y parásitos hematófagos terminales como Diphyllobothrium crónicos base intestinal que chupan B12 de lombriz de duodeno en anciano masivo de gusanos y no estómago per se base.",
+        "isCorrect": false, "explanation": "El gusano de pescado da déficit B12, pero no es la base de la patología autoinmune llamada Anemia Perniciosa per se que es estómago celular autoinmune base anticuerpos parietal atrofia general gástrica mucosa base parietal."
+      },
+      {
+        "text": "E) Síndrome malabsortivo difuso grave y extirpación yeyunal y diarreas extremas de la enfermedad celíaca basal inflamatoria nula atrofia generalizada vellosidades y destrucción de linfomas intestinales T puros generales crónicos.",
+        "isCorrect": false, "explanation": "Celiaquía absorbe mal hierro o folato al inicio (duodeno). El Íleon (casa de la B12) se respeta a veces. Pero de nuevo, la verdadera 'Perniciosa' estricta es gástrica autoinmune por falta de factor, no enfermedad de todo el intestino como Crohn o Celiaquía base general."
+      }
+    ]
   }
 ]
