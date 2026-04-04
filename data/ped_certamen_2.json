@@ -1,5 +1,485 @@
 [
   {
+    "id": 55,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cardiopatías Congénitas",
+    "text": "¿Cuál es la cardiopatía congénita acianótica (por cortocircuito de izquierda a derecha) de mayor frecuencia en la población pediátrica general?",
+    "hint": "Es un defecto en el tabique que divide las cámaras inferiores del corazón, permitiendo que la sangre ya oxigenada vuelva al circuito pulmonar.",
+    "options": [
+      {
+        "text": "A) Comunicación Interventricular (CIV).",
+        "isCorrect": true,
+        "explanation": "Correcto. La CIV es el defecto cardíaco congénito más común a nivel mundial. Permite el paso de sangre del ventrículo izquierdo al derecho, generando un soplo pansistólico."
+      },
+      {
+        "text": "B) Tetralogía de Fallot.",
+        "isCorrect": false,
+        "explanation": "Falso. Es la cardiopatía CIANÓTICA más frecuente después del año de vida, pero globalmente es menos prevalente que la CIV."
+      },
+      {
+        "text": "C) Transposición de Grandes Arterias (TGA).",
+        "isCorrect": false,
+        "explanation": "Falso. Es la cardiopatía CIANÓTICA más frecuente en el recién nacido, no es acianótica."
+      },
+      {
+        "text": "D) Coartación de Aorta.",
+        "isCorrect": false,
+        "explanation": "Falso. Es una cardiopatía obstructiva, no por cortocircuito de izquierda a derecha."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cardiopatías Congénitas",
+    "text": "En el abordaje del neonato cianótico, ¿cuál es la cardiopatía congénita cianótica más frecuente diagnosticada durante la primera semana de vida?",
+    "hint": "En este defecto letal precoz, la Aorta nace del lado equivocado, creando dos circuitos cerrados que no se cruzan. Si se cierra el ductus a los pocos días, el bebé fallece.",
+    "options": [
+      {
+        "text": "A) Tetralogía de Fallot",
+        "isCorrect": false,
+        "explanation": "Falso. Es la más frecuente globalmente en la niñez, pero a menudo debuta con cianosis leve a moderada recién semanas o meses después del nacimiento."
+      },
+      {
+        "text": "B) Transposición de Grandes Arterias (TGA)",
+        "isCorrect": true,
+        "explanation": "Correcto. La TGA es la cardiopatía cianótica más común en la etapa neonatal temprana. Da cianosis severa refractaria a oxígeno, dependiendo vitalmente del Ductus abierto para mezclar la sangre."
+      },
+      {
+        "text": "C) Comunicación Interventricular (CIV)",
+        "isCorrect": false,
+        "explanation": "Falso. Es una cardiopatía acianótica (cortocircuito izquierda-derecha)."
+      },
+      {
+        "text": "D) Coartación Aórtica",
+        "isCorrect": false,
+        "explanation": "Falso. Es una cardiopatía obstructiva acianótica (da shock o diferencia de pulsos, no cianosis universal)."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cardiopatías Congénitas",
+    "text": "En un recién nacido en el que usted sospecha una Cardiopatía Congénita ductus-dependiente con riesgo vital por cierre inminente del ductus (ej. Coartación Aórtica severa), ¿qué fármaco se administra como salvataje?",
+    "hint": "Necesitas mantener abierto artificialmente el Conducto Arterioso. Piensa en qué familia de moléculas favorece su relajación muscular.",
+    "options": [
+      {
+        "text": "A) Indometacina",
+        "isCorrect": false,
+        "explanation": "Falso. La indometacina es un AINE (inhibidor de prostaglandinas) que se usa exactamente para lo contrario: CERRAR un ductus en prematuros."
+      },
+      {
+        "text": "B) Prostaglandina E1 (Alprostadil)",
+        "isCorrect": true,
+        "explanation": "Correcto. La infusión de PGE1 relaja el músculo liso del conducto arterioso manteniéndolo permeable de urgencia, asegurando flujo de sangre salvando la vida hasta la cirugía."
+      },
+      {
+        "text": "C) Ibuprofeno",
+        "isCorrect": false,
+        "explanation": "Falso. Al igual que la Indometacina, inhibe las prostaglandinas y cerraría el ductus, causando un paro cardíaco en este niño."
+      },
+      {
+        "text": "D) Furosemida",
+        "isCorrect": false,
+        "explanation": "Falso. Es un diurético que puede disminuir la precarga, pero no tiene acción sobre la permeabilidad del ductus."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cardiopatías Congénitas",
+    "text": "Lactante de 6 meses presenta crisis caracterizadas por llanto intenso, cianosis perioral profunda e hiperpnea. Esto ocurre al alimentarlo o enojarse. Soplo sistólico eyectivo en borde esternal izquierdo. El diagnóstico fisiopatológico de esta crisis corresponde a:",
+    "hint": "Al llorar o enojarse, el músculo a la salida del ventrículo derecho sufre un 'calambre', cerrando el paso al pulmón y obligando a toda la sangre desoxigenada a irse hacia el cuerpo.",
+    "options": [
+      {
+        "text": "A) Cierre espontáneo del foramen oval.",
+        "isCorrect": false,
+        "explanation": "Falso. Es un proceso asintomático benigno que ocurre en la infancia de la población sana."
+      },
+      {
+        "text": "B) Espasmo del infundíbulo del ventrículo derecho (Tracto de salida) en Tetralogía de Fallot.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la 'crisis anoxémica de Fallot'. El espasmo infundibular bloquea la arteria pulmonar y toda la sangre desoxigenada escapa a través de la CIV hacia la aorta, bajando la oxigenación severamente."
+      },
+      {
+        "text": "C) Ruptura de un aneurisma del tabique interventricular.",
+        "isCorrect": false,
+        "explanation": "Falso. Fisiopatología no congruente con crisis cianóticas episódicas reversibles."
+      },
+      {
+        "text": "D) Crisis de broncoespasmo severo.",
+        "isCorrect": false,
+        "explanation": "Falso. Daría sibilancias audibles y no se asocia al soplo cardíaco en el contexto de cianosis perioral súbita sin tos previa."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cardiopatías Congénitas",
+    "text": "El tratamiento inmediato o maniobra de primera línea (que los padres aprenden a hacer en casa) para abortar la crisis hipoxémica de la Tetralogía de Fallot es:",
+    "hint": "Busca una postura física que comprima mecánicamente las arterias del abdomen y las piernas, haciendo que la sangre prefiera devolverse al pulmón en vez de ir hacia abajo.",
+    "options": [
+      {
+        "text": "A) Compresiones torácicas rápidas.",
+        "isCorrect": false,
+        "explanation": "Falso. El paciente no está en paro cardíaco, el corazón late con fuerza. Las compresiones serían dañinas."
+      },
+      {
+        "text": "B) Colocar al niño en posición genupectoral (rodillas al pecho).",
+        "isCorrect": true,
+        "explanation": "Correcto. Al flexionar rodillas al pecho, se aumenta bruscamente la Resistencia Vascular Sistémica. Esta alta presión en la aorta frena el escape de sangre sucia (shunt D-I), obligando a que fluya al pulmón a oxigenarse."
+      },
+      {
+        "text": "C) Administrar salbutamol inhalado.",
+        "isCorrect": false,
+        "explanation": "Falso. Los beta-agonistas pueden incluso empeorar el espasmo cardíaco y la taquicardia."
+      },
+      {
+        "text": "D) Dar de beber abundante agua fría.",
+        "isCorrect": false,
+        "explanation": "Falso. Inútil y peligroso (riesgo de aspiración si el niño altera conciencia)."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cardiopatías Congénitas",
+    "text": "Lactante prematuro de 30 semanas desarrolla taquicardia, pulsos saltones ('celer') y un soplo continuo ('en maquinaria') en el borde esternal superior izquierdo. Este cuadro clínico es patognomónico de:",
+    "hint": "Hay una 'cañería' que debía cerrarse al nacer, pero sigue abierta comunicando los dos grandes vasos, robando sangre incesantemente en todo el ciclo cardíaco.",
+    "options": [
+      {
+        "text": "A) Coartación de Aorta",
+        "isCorrect": false,
+        "explanation": "Falso. Genera pulsos disminuidos en extremidades inferiores, no saltones ni soplo en maquinaria."
+      },
+      {
+        "text": "B) Comunicación Interauricular",
+        "isCorrect": false,
+        "explanation": "Falso. Da soplo leve eyectivo y desdoblamiento fijo del 2do ruido, no en maquinaria continua."
+      },
+      {
+        "text": "C) Persistencia del Ductus Arterioso (PDA) hemodinámicamente significativo",
+        "isCorrect": true,
+        "explanation": "Correcto. El Ductus persistente permite que la sangre fluya todo el tiempo de la aorta a la pulmonar, creando el soplo 'continuo' o en maquinaria. El escape continuo roba presión diastólica, dando pulsos saltones."
+      },
+      {
+        "text": "D) Anomalía de Ebstein",
+        "isCorrect": false,
+        "explanation": "Falso. Es un defecto de la válvula tricúspide, da cianosis o arritmias."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cardiopatías Congénitas",
+    "text": "Escolar de 10 años, asintomático. Presión arterial elevada en brazos, pero pulsos femorales marcadamente disminuidos y retardados, con presión arterial baja en piernas. El diagnóstico casi seguro es:",
+    "hint": "Imagina una manguera apretada a la altura del pecho: el agua sale con muchísima presión antes del obstáculo (cabeza y brazos) y casi sin fuerza después (piernas).",
+    "options": [
+      {
+        "text": "A) Transposición de Grandes Vasos",
+        "isCorrect": false,
+        "explanation": "Falso. Da cianosis masiva neonatal, no alteraciones mecánicas de presión por zonas corporales en un escolar."
+      },
+      {
+        "text": "B) Comunicación Interventricular pequeña",
+        "isCorrect": false,
+        "explanation": "Falso. Da soplo pansistólico, presiones y pulsos totalmente simétricos y normales."
+      },
+      {
+        "text": "C) Coartación de la Aorta",
+        "isCorrect": true,
+        "explanation": "Correcto. La coartación típica ocurre distal a la subclavia izquierda. Esto genera hipertensión cefálica/brazos (antes de la estrechez) e hipoperfusión pélvica/piernas (después de la estrechez). Es su signo clínico cardinal."
+      },
+      {
+        "text": "D) Estenosis de la válvula pulmonar",
+        "isCorrect": false,
+        "explanation": "Falso. Da soplo eyectivo en foco pulmonar, sin diferencia de pulsos corporales superior-inferior."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Genética (Cardiología)",
+    "text": "Dentro de los riesgos en salud del Síndrome de Down, ¿cuál es la Cardiopatía Congénita más frecuentemente descrita en esta genopatía?",
+    "hint": "Es un gran defecto en el centro del corazón (los cojinetes endocárdicos), que afecta tanto los tabiques como las válvulas que conectan aurículas y ventrículos.",
+    "options": [
+      {
+        "text": "A) Coartación de la Aorta",
+        "isCorrect": false,
+        "explanation": "Falso. Se asocia clásicamente al Síndrome de Turner (45, X0)."
+      },
+      {
+        "text": "B) Transposición de Grandes Arterias (TGA)",
+        "isCorrect": false,
+        "explanation": "Falso. No tiene fuerte asociación genética sindromática."
+      },
+      {
+        "text": "C) Defecto del canal auriculoventricular (CAV) o Comunicación Interventricular (CIV)",
+        "isCorrect": true,
+        "explanation": "Correcto. El Canal Auriculoventricular completo (defecto del cojinete endocárdico) es la cardiopatía característica y patognomónica del Down, seguida de la CIV aislada."
+      },
+      {
+        "text": "D) Tetralogía de Fallot",
+        "isCorrect": false,
+        "explanation": "Falso. Es la cardiopatía más frecuente en el Síndrome de DiGeorge (deleción 22q11)."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál de los siguientes cuadros es la manifestación cardinal y más precoz de Insuficiencia Cardíaca en un lactante menor?",
+    "hint": "El 'deporte' que requiere mayor esfuerzo físico para un lactante es la succión al tomar leche. Si el corazón falla, ese será su test de esfuerzo reprobado.",
+    "options": [
+      {
+        "text": "A) Edema de extremidades inferiores y ascitis masiva",
+        "isCorrect": false,
+        "explanation": "Falso. El edema periférico marcado en lactantes suele ser un signo más tardío."
+      },
+      {
+        "text": "B) Dificultad para alimentarse, sudoración (diaforesis) al tomar pecho y taquipnea",
+        "isCorrect": true,
+        "explanation": "Correcto. El fallo cardíaco genera congestión pulmonar (taquipnea) y descarga simpática. Se presenta como cansancio precoz al mamar, disnea y sudoración profusa en la cabeza ('test de esfuerzo' del lactante reprobado)."
+      },
+      {
+        "text": "C) Cianosis central persistente en reposo",
+        "isCorrect": false,
+        "explanation": "Falso. La cianosis es por defectos cardíacos derecha-izquierda, no clásicamente por falla de bomba o hiperflujo."
+      },
+      {
+        "text": "D) Hipertensión arterial sistémica severa",
+        "isCorrect": false,
+        "explanation": "Falso. Es causa (ej. enfermedad renal), no síntoma cardinal de presentación de la IC."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es el mecanismo fisiopatológico principal por el que la Comunicación Interventricular (CIV) amplia genera insuficiencia cardíaca recién entre el 1er y 3er mes de vida?",
+    "hint": "Cuando el bebé nace, los vasos de los pulmones están muy apretados (alta resistencia). Cuando se relajan al mes de vida, la sangre del corazón encuentra un camino fácil para inundarlos.",
+    "options": [
+      {
+        "text": "A) Caída de la resistencia vascular pulmonar posnatal, lo que genera hiperflujo pulmonar",
+        "isCorrect": true,
+        "explanation": "Correcto. Al nacer, las resistencias pulmonares son altas. Durante el primer mes caen, por lo que la sangre se desvía masivamente desde el Ventrículo Izquierdo al Derecho y al pulmón, inundándolo (hiperflujo y sobrecarga de volumen)."
+      },
+      {
+        "text": "B) Aumento de la resistencia vascular sistémica",
+        "isCorrect": false,
+        "explanation": "Falso. No es el principal gatillante temporal del cuadro clínico."
+      },
+      {
+        "text": "C) Cortocircuito masivo de sangre desoxigenada del ventrículo derecho al izquierdo",
+        "isCorrect": false,
+        "explanation": "Falso. El shunt en la CIV es Izquierda -> Derecha (sangre oxigenada fluye al pulmón), por ende no hay cianosis."
+      },
+      {
+        "text": "D) Obstrucción severa del tracto de salida del ventrículo derecho",
+        "isCorrect": false,
+        "explanation": "Falso. Ese mecanismo ocurre en la Tetralogía de Fallot."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En un lactante con taquipnea en urgencias, ¿qué signo semiológico apoya fuertemente el diagnóstico de Insuficiencia Cardíaca congestiva por sobre un origen puramente respiratorio (ej. bronquiolitis)?",
+    "hint": "Si el corazón derecho no logra bombear hacia adelante por la presión del pulmón, la sangre se estancará hacia atrás en la vena cava inferior, hinchando su órgano principal de drenaje.",
+    "options": [
+      {
+        "text": "A) Sibilancias espiratorias difusas",
+        "isCorrect": false,
+        "explanation": "Falso. Aunque puede haber 'asma cardíaca' por edema, las sibilancias son mucho más típicas de asma o bronquiolitis primaria."
+      },
+      {
+        "text": "B) Hepatomegalia significativa (margen hepático palpable > 3 cm bajo el reborde)",
+        "isCorrect": true,
+        "explanation": "Correcto. La hepatomegalia masiva es el principal signo de congestión venosa sistémica (falla ventricular derecha/global) en el lactante, diferenciándolo de un distrés netamente pulmonar infeccioso."
+      },
+      {
+        "text": "C) Presencia de fiebre de 39°C",
+        "isCorrect": false,
+        "explanation": "Falso. Orienta fuertemente a cuadro infeccioso agudo (neumonía)."
+      },
+      {
+        "text": "D) Tos con expectoración mucosa",
+        "isCorrect": false,
+        "explanation": "Falso. Clásico de etiología bronquial."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Lactante con antecedente de CIV se presenta en Urgencias con taquipnea, tiraje y crepitaciones bibasales. En el tratamiento inicial (descarga) de la IC aguda por hiperflujo pulmonar, el medicamento de elección es:",
+    "hint": "El niño se está ahogando por un exceso masivo de líquido en los pulmones. Necesitas 'secarlo' orinando ese volumen sobrante de forma agresiva.",
+    "options": [
+      {
+        "text": "A) Digoxina",
+        "isCorrect": false,
+        "explanation": "Falso. Es de segunda línea, actúa en el inotropismo pero no vacía la sobrecarga de volumen aguda."
+      },
+      {
+        "text": "B) Furosemida endovenosa",
+        "isCorrect": true,
+        "explanation": "Correcto. En la descompensación aguda con sobrecarga de volumen (edema pulmonar), un diurético de asa (Furosemida) es de primera línea para reducir la precarga rápidamente y secar el pulmón."
+      },
+      {
+        "text": "C) Adrenalina intramuscular",
+        "isCorrect": false,
+        "explanation": "Falso. Es el tratamiento de la anafilaxia."
+      },
+      {
+        "text": "D) Propanolol vía oral",
+        "isCorrect": false,
+        "explanation": "Falso. Deprime la contractilidad cardíaca, pudiendo empeorar severamente el edema agudo."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En un niño mayor con Insuficiencia Cardíaca crónica en fase de estabilización clínica, además de los diuréticos, el grupo farmacológico pilar (para prevención de remodelado cardíaco adverso) es:",
+    "hint": "Se busca reducir la poscarga (resistencia vascular de las arterias) y evitar la acción de la hormona que causa fibrosis y rigidez progresiva en el corazón.",
+    "options": [
+      {
+        "text": "A) Inhibidores de la Enzima Convertidora de Angiotensina (IECA, ej. Enalapril)",
+        "isCorrect": true,
+        "explanation": "Correcto. Los IECAs reducen la poscarga bloqueando la Angiotensina II, facilitando el vaciado cardíaco y previniendo el remodelado y fibrosis miocárdica a largo plazo. Son la piedra angular."
+      },
+      {
+        "text": "B) Corticoides inhalados",
+        "isCorrect": false,
+        "explanation": "Falso. Su uso es exclusivo para la inflamación de la vía aérea (Asma)."
+      },
+      {
+        "text": "C) Inotrópicos intravenosos (Dopamina)",
+        "isCorrect": false,
+        "explanation": "Falso. Son para el manejo agudo en UCI del shock cardiogénico, no crónico ambulatorio."
+      },
+      {
+        "text": "D) Calcioantagonistas (Nifedipino)",
+        "isCorrect": false,
+        "explanation": "Falso. Están contraindicados en IC sistólica pediátrica porque deprimen la contractilidad (efecto inotrópico negativo)."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Shock y Sepsis",
+    "text": "Según el Consenso Latinoamericano de Sepsis en Pediatría, la reanimación inicial con fluidos en un niño con Shock Séptico (sin hepatomegalia ni crepitaciones) debe iniciarse precozmente con:",
+    "hint": "El 'estanque' vascular está vacío por la fuga capilar y vasodilatación patológica. La primera medida antes de usar drogas vasoactivas es rellenarlo agresivamente.",
+    "options": [
+      {
+        "text": "A) Bolos de 10 a 20 ml/kg de cristaloides isotónicos (Suero Fisiológico o Ringer) pasados rápido, reevaluando respuesta.",
+        "isCorrect": true,
+        "explanation": "Correcto. Ante un shock séptico, la piedra angular inicial es la expansión rápida de volemia (cristaloides 10-20 cc/kg en 5-10 min), deteniéndose solo si aparecen signos de sobrecarga hídrica (hepatomegalia)."
+      },
+      {
+        "text": "B) Solución Glucosalina 50 ml/kg en 4 horas.",
+        "isCorrect": false,
+        "explanation": "Falso. Es muy hipotónico y la glucosa libre se fuga, no expande el volumen de forma eficaz ni rápida."
+      },
+      {
+        "text": "C) Bolos de Albúmina al 20% a 5 ml/kg rápidos.",
+        "isCorrect": false,
+        "explanation": "Falso. Los coloides no han demostrado superioridad sobre los cristaloides baratos y accesibles en la primera línea."
+      },
+      {
+        "text": "D) Infusión de Dopamina desde el minuto cero.",
+        "isCorrect": false,
+        "explanation": "Falso. Las drogas vasoactivas se usan si el shock no responde a los fluidos, no se administran con el estanque vacío."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Shock y Sepsis",
+    "text": "¿Cuál es la clínica del 'Shock Séptico Frío' (el fenotipo más frecuente en lactantes)?",
+    "hint": "En el lactante, el corazón disfuncional por la sepsis no logra mantener el bombeo, por lo que el cuerpo reacciona 'cerrando' los vasos de la piel y extremidades para priorizar al cerebro.",
+    "options": [
+      {
+        "text": "A) Vasodilatación extrema, piel caliente y enrojecida, llenado capilar rápido ('flash').",
+        "isCorrect": false,
+        "explanation": "Falso. Describe el 'Shock Caliente' (distributivo), más común en adultos y adolescentes."
+      },
+      {
+        "text": "B) Vasoconstricción periférica, extremidades frías y moteadas, llenado capilar prolongado (>3 seg) y pulsos débiles.",
+        "isCorrect": true,
+        "explanation": "Correcto. El 'shock frío' refleja un gasto cardíaco bajo con aumento severo de la resistencia vascular sistémica (vasoconstricción compensatoria) secundaria a disfunción miocárdica séptica."
+      },
+      {
+        "text": "C) Paciente bradicárdico y apneico desde el inicio.",
+        "isCorrect": false,
+        "explanation": "Falso. El paciente cursa siempre con taquicardia extrema para compensar; la bradicardia es un signo de paro inminente."
+      },
+      {
+        "text": "D) Paciente con normotensión, pero con compromiso de conciencia y rigidez de nuca.",
+        "isCorrect": false,
+        "explanation": "Falso. Son signos de meningitis, no los parámetros vasculares del fenotipo del shock."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Shock y Sepsis",
+    "text": "Ante un escolar que ingresa a urgencias en estado de Shock Séptico refractario a fluidos (ya recibió 60 ml/kg de suero y se mantiene hipotenso). La droga vasoactiva de primera línea a iniciar es:",
+    "hint": "Las guías pediátricas actuales desplazaron a la dopamina a los libros de historia; hoy se prefieren catecolaminas potentes en infusión continua.",
+    "options": [
+      {
+        "text": "A) Adrenalina o Noradrenalina (infusión continua)",
+        "isCorrect": true,
+        "explanation": "Correcto. Las guías PALS/SCCM recomiendan Epinefrina (Adrenalina) o Norepinefrina como 1era línea vasoactiva en shock séptico pediátrico refractario a volumen (Adrenalina en frío, Noradrenalina en caliente)."
+      },
+      {
+        "text": "B) Dopamina a dosis bajas ('dosis renal')",
+        "isCorrect": false,
+        "explanation": "Falso. Desplazada por mayor tasa de mortalidad y arritmias comparada con epinefrina. La 'dosis renal' es un concepto obsoleto."
+      },
+      {
+        "text": "C) Amiodarona endovenosa",
+        "isCorrect": false,
+        "explanation": "Falso. Es un antiarrítmico, no mejora el inotropismo ni el tono vascular."
+      },
+      {
+        "text": "D) Hidrocortisona en bolo",
+        "isCorrect": false,
+        "explanation": "Falso. Los corticoides se reservan para el shock que no responde ni a fluidos ni a dosis altas de catecolaminas."
+      }
+  
+  },
+  {
     "id": 71,
     "internado": "Pediatría",
     "area": "Certamen 2",
