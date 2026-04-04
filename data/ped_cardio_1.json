@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "La Insuficiencia Cardíaca se define como la incapacidad del corazón para mantener un gasto adecuado. ¿Cuál es el primer mecanismo compensatorio ante la caída del volumen sistólico?",
+    "hint": "Piense en la velocidad de respuesta del sistema nervioso autonómico frente a la caída de presión.",
+    "options": [
+      {
+        "text": "A) Desarrollo de hipertrofia miocárdica de tipo excéntrica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipertrofia es un mecanismo crónico que requiere días o semanas de síntesis proteica."
+      },
+      {
+        "text": "B) Aumento inmediato de la frecuencia cardíaca (Taquicardia)",
+        "isCorrect": true,
+        "explanation": "Correcta: La taquicardia mediada por el simpático es la respuesta más rápida (segundos) para mantener el gasto cardíaco (GC = FC x VS)."
+      },
+      {
+        "text": "C) Retención renal de sodio y agua por activación de SRAA",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El SRAA es potente pero su efecto en la volemia es más lento que la respuesta nerviosa."
+      },
+      {
+        "text": "D) Vasodilatación periférica para mejorar el flujo sistémico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: En IC inicial ocurre vasoconstricción periférica (no vasodilatación) para priorizar órganos nobles."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "La Ley de Frank-Starling es fundamental en la IC. ¿En qué consiste principalmente este mecanismo a nivel de la fibra miocárdica?",
+    "hint": "Relacione la longitud inicial de la fibra en reposo con la tensión que es capaz de generar.",
+    "options": [
+      {
+        "text": "A) A mayor volumen diastólico final, mayor fuerza contracción",
+        "isCorrect": true,
+        "explanation": "Correcta: Un mayor llenado estira la fibra, optimizando la superposición de actina/miosina y aumentando la fuerza."
+      },
+      {
+        "text": "B) A mayor frecuencia cardíaca, menor consumo de oxígeno",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El aumento de frecuencia cardíaca siempre eleva el consumo de oxígeno miocárdico."
+      },
+      {
+        "text": "C) A mayor presión arterial, mayor relajación ventricular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La presión arterial alta (postcarga) dificulta el vaciamiento y no favorece la relajación."
+      },
+      {
+        "text": "D) A mayor grosor de pared, menor necesidad de energía ATP",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipertrofia (grosor) suele aumentar la demanda de ATP, no disminuirla."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En la IC crónica, el riñón activa el Sistema Renina-Angiotensina-Aldosterona (SRAA). ¿Cuál es el efecto perjudicial a largo plazo de esta activación?",
+    "hint": "Analice cómo el cuerpo intenta 'llenar' el sistema a costa de aumentar el trabajo de un corazón débil.",
+    "options": [
+      {
+        "text": "A) Aumento de postcarga y sobrecarga de volumen hídrico",
+        "isCorrect": true,
+        "explanation": "Correcta: La Angiotensina II sube la postcarga y la Aldosterona la precarga, agotando la reserva cardíaca."
+      },
+      {
+        "text": "B) Vasodilatación masiva que conduce a shock distributivo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El efecto del SRAA es vasoconstrictor periférico, lo opuesto al shock distributivo."
+      },
+      {
+        "text": "C) Inhibición refleja de la descarga adrenérgica basal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El SRAA y el sistema simpático se retroalimentan positivamente, no se inhiben."
+      },
+      {
+        "text": "D) Caída severa de la presión venosa central y capilar",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La presión venosa aumenta (congestión) por la retención de líquidos y la falla de bomba."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Ante la sobrecarga de volumen, los miocitos secretan una neurohormona compensadora con efecto vasodilatador y diurético. ¿Cuál es?",
+    "hint": "Busque un péptido que se sintetice en el ventrículo en respuesta directa a la tensión de su pared.",
+    "options": [
+      {
+        "text": "A) Descarga masiva de Adrenalina y Noradrenalina sistémica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las catecolaminas son vasoconstrictoras y antidiuréticas indirectas."
+      },
+      {
+        "text": "B) Péptido Natriurético Cerebral (BNP / NT-proBNP)",
+        "isCorrect": true,
+        "explanation": "Correcta: El BNP se libera por estiramiento ventricular y ayuda a disminuir la precarga mediante natriuresis."
+      },
+      {
+        "text": "C) Hormona Antidiurética o Vasopresina de origen central",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La ADH retiene agua libre, lo que empeora la sobrecarga hídrica en la insuficiencia cardíaca."
+      },
+      {
+        "text": "D) Eritropoyetina para optimizar el transporte de oxígeno",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La EPO regula la producción de glóbulos rojos, no tiene efectos hemodinámicos agudos."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Si un niño presenta estenosis aórtica severa (sobrecarga de PRESIÓN), ¿qué tipo de remodelado ventricular desarrollará inicialmente?",
+    "hint": "El músculo debe generar más fuerza para vencer una obstrucción a la salida (postcarga).",
+    "options": [
+      {
+        "text": "A) Dilatación ventricular con adelgazamiento de pared",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El adelgazamiento es la fase terminal de una dilatación fallida, no el inicio de una estenosis."
+      },
+      {
+        "text": "B) Hipertrofia excéntrica para manejar exceso de volumen",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipertrofia excéntrica es la respuesta al volumen (shunt I-D), no a la presión."
+      },
+      {
+        "text": "C) Hipertrofia concéntrica (engrosamiento de las paredes)",
+        "isCorrect": true,
+        "explanation": "Correcta: Ante presión alta, los sarcómeros se agregan en paralelo para fortalecer la pared sin dilatar la cavidad."
+      },
+      {
+        "text": "D) Atrofia miocárdica por desuso funcional relativo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El corazón sometido a estrés nunca se atrofia; siempre intenta adaptarse creciendo."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué alteración a nivel celular contribuye a la falla de bomba del miocito en etapas avanzadas de la IC pediátrica?",
+    "hint": "Considere el efecto de la exposición crónica y excesiva a la noradrenalina sobre la superficie celular.",
+    "options": [
+      {
+        "text": "A) Aumento de los depósitos de glucógeno intracelular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El metabolismo suele ser ineficiente, pero el acúmulo de glucógeno no es el mecanismo de falla común."
+      },
+      {
+        "text": "B) Down-regulation (disminución) de receptores Beta-1",
+        "isCorrect": true,
+        "explanation": "Correcta: El corazón se 'ensordece' al estímulo simpático para protegerse, reduciendo sus receptores, lo que baja la fuerza."
+      },
+      {
+        "text": "C) Aumento masivo del número de mitocondrias activas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Generalmente hay disfunción mitocondrial y estrés oxidativo, no una mejoría de la maquinaria energética."
+      },
+      {
+        "text": "D) Regeneración excesiva de células madre miocárdicas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El miocardio tiene una capacidad de regeneración extremadamente baja; se cura con fibrosis (cicatriz)."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál de las siguientes patologías pediátricas es un ejemplo clásico de Insuficiencia Cardíaca de Gasto Alto?",
+    "hint": "El corazón estructuralmente es capaz de bombear, pero el cuerpo le exige más de lo que puede dar.",
+    "options": [
+      {
+        "text": "A) Miocardiopatía dilatada de origen idiopático",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La miocardiopatía dilatada es el ejemplo clásico de falla de bomba con gasto bajo."
+      },
+      {
+        "text": "B) Tirotoxicosis o Anemia de carácter severo",
+        "isCorrect": true,
+        "explanation": "Correcta: En anemia el O2 es bajo y en tirotoxicosis el metabolismo es alto; ambos obligan a un flujo acelerado."
+      },
+      {
+        "text": "C) Estenosis mitral con congestión auricular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La estenosis mitral obstruye el flujo, disminuyendo necesariamente el gasto cardíaco sistémico."
+      },
+      {
+        "text": "D) Hipoplasia de ventrículo izquierdo crítica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es una cardiopatía estructural severa donde el gasto es insuficiente para la vida sin intervención."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Por qué los lactantes tienen una tolerancia funcional mucho menor que los adultos ante una noxa miocárdica?",
+    "hint": "Evalúe la elasticidad y la cantidad de elementos contráctiles en el corazón de un recién nacido.",
+    "options": [
+      {
+        "text": "A) Porque presentan mayor volumen sanguíneo por kilo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Tener más volumen por kilo no explica la claudicación del músculo cardíaco."
+      },
+      {
+        "text": "B) Porque su miocardio es inmaduro y menos distensible",
+        "isCorrect": true,
+        "explanation": "Correcta: El corazón del bebé es más rígido (más colágeno, menos sarcómeros), limitando su reserva de Frank-Starling."
+      },
+      {
+        "text": "C) Porque nacen con hipertensión pulmonar fija",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipertensión pulmonar neonatal es fisiológica y transitoria (transición), no fija."
+      },
+      {
+        "text": "D) Porque su sistema nervioso autónomo está inmaduro",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El sistema simpático del lactante es muy activo (hiperadrenérgico), pero el músculo no responde igual."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En un shunt de Izquierda a Derecha (ej. CIV), ¿cuál es el mecanismo final que lleva a los síntomas de IC?",
+    "hint": "Siga el flujo: la sangre que se escapa al pulmón vuelve por las venas pulmonares... ¿hacia dónde?",
+    "options": [
+      {
+        "text": "A) Sobrecarga de volumen de las cavidades izquierdas",
+        "isCorrect": true,
+        "explanation": "Correcta: El hiperflujo pulmonar regresa masivamente a la AI y VI, dilatándolos y causando edema por congestión."
+      },
+      {
+        "text": "B) Falla de contractilidad del ventrículo derecho",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El VD es una cavidad de paso en la CIV; sufre presión pero no es la causa primaria de los síntomas iniciales."
+      },
+      {
+        "text": "C) Isquemia miocárdica por obstrucción coronaria",
+        "isCorrect": false,
+        "explanation": "Incorrecta: En una CIV simple las coronarias están sanas y bien perfundidas."
+      },
+      {
+        "text": "D) Obstrucción al tracto de salida sistémico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No existe obstrucción a la eyección; de hecho, hay una 'vía de escape' adicional."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "El edema pulmonar en la IC izquierda es consecuencia directa de:",
+    "hint": "Piense en lo que sucede 'aguas arriba' de un ventrículo izquierdo que no puede vaciarse.",
+    "options": [
+      {
+        "text": "A) Disminución de la presión oncótica plasmática",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Esto ocurre en el síndrome nefrótico o desnutrición, no es el origen cardiogénico."
+      },
+      {
+        "text": "B) Aumento de la permeabilidad vascular inflamatoria",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Esto es típico del SDRA o neumonía, donde el daño es del endotelio, no por presión."
+      },
+      {
+        "text": "C) Aumento de presión hidrostática en capilar venoso",
+        "isCorrect": true,
+        "explanation": "Correcta: La presión del VI se transmite a AI y venas pulmonares, filtrando líquido al alvéolo por pura presión física."
+      },
+      {
+        "text": "D) Obstrucción primaria del drenaje linfático",
+        "isCorrect": false,
+        "explanation": "Incorrecta: En IC el sistema linfático funciona bien, pero se ve sobrepasado por el volumen de filtrado."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es la causa predominante de IC en los PRIMEROS DÍAS de vida (primera semana)?",
+    "hint": "Recuerde qué estructura fetal se cierra entre el día 2 y 5 de vida extrauterina.",
+    "options": [
+      {
+        "text": "A) Miocarditis viral por virus Coxsackie B",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La miocarditis neonatal existe pero es mucho menos frecuente que las malformaciones estructurales."
+      },
+      {
+        "text": "B) Enfermedad de Kawasaki con aneurismas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Kawasaki es excepcional en el neonato; suele verse en lactantes mayores y preescolares."
+      },
+      {
+        "text": "C) Cardiopatías ductus-dependientes críticas",
+        "isCorrect": true,
+        "explanation": "Correcta: Al cerrarse el ductus, obstrucciones como la coartación crítica o hipoplasia de VI causan colapso agudo."
+      },
+      {
+        "text": "D) Fiebre reumática aguda post-estreptocócica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La fiebre reumática requiere una infección previa y tiempo para la respuesta inmune (escolares)."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Si un lactante desarrolla IC lentamente entre la SEMANA 4 y 8 de vida, ¿cuál es la sospecha principal?",
+    "hint": "Analice cuándo ocurre la caída fisiológica de las resistencias vasculares pulmonares.",
+    "options": [
+      {
+        "text": "A) Cierre tardío del foramen oval permeable",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El cierre del foramen oval no produce insuficiencia cardíaca; es un evento benigno en la mayoría."
+      },
+      {
+        "text": "B) Cardiopatías con cortocircuito Izquierda-Derecha",
+        "isCorrect": true,
+        "explanation": "Correcta: Al bajar la presión pulmonar al mes de vida, el shunt (CIV/DAP) aumenta masivamente, causando IC."
+      },
+      {
+        "text": "C) Arritmias ventriculares de origen genético",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las canalopatías suelen debutar con muerte súbita o síncope, no con IC congestiva progresiva."
+      },
+      {
+        "text": "D) Estenosis pulmonar de carácter leve",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La estenosis leve es asintomática; solo las formas críticas dan síntomas tempranos."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué anomalía causa infarto miocárdico e IC en lactantes de 3 meses simulando cólicos severos?",
+    "hint": "El bebé presenta llanto y palidez durante las tomas de leche (equivalente a angina).",
+    "options": [
+      {
+        "text": "A) Atresia aislada de la arteria coronaria derecha",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La dominancia coronaria derecha hace que su atresia sea raramente la causa de infarto global infantil."
+      },
+      {
+        "text": "B) Origen anómalo de coronaria izquierda (ALCAPA)",
+        "isCorrect": true,
+        "explanation": "Correcta: La coronaria izquierda nace de la pulmonar. Al bajar la presión pulmonar, hay flujo retrógrado e isquemia."
+      },
+      {
+        "text": "C) Fístula coronaria-cava con robo sistémico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las fístulas suelen causar sobrecarga de volumen, pero rara vez infartos agudos en el lactante."
+      },
+      {
+        "text": "D) Aneurismas de arteria coronaria descendente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los aneurismas son secundarios a inflamación (Kawasaki) y no son congénitos del nacimiento."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En adolescentes previamente sanos, ¿cuál es la causa MÁS FRECUENTE de IC adquirida de inicio agudo?",
+    "hint": "Suele haber un antecedente de cuadro respiratorio o febril semanas antes.",
+    "options": [
+      {
+        "text": "A) Miocarditis aguda (generalmente viral)",
+        "isCorrect": true,
+        "explanation": "Correcta: Virus como Coxsackie o Adenovirus dañan directamente el miocardio provocando falla de bomba."
+      },
+      {
+        "text": "B) Cor Pulmonale por fibrosis quística",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es una causa de falla derecha pero es crónica y progresiva, no de inicio agudo en un sano."
+      },
+      {
+        "text": "C) Rotura traumática de cuerdas tendíneas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es una causa mecánica extremadamente rara sin un traumatismo torácico masivo previo."
+      },
+      {
+        "text": "D) Sobredosis de fármacos antihipertensivos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Esto causaría shock (hipotensión), pero no la clínica de insuficiencia cardíaca congestiva con cardiomegalia."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué fármaco quimioterapéutico en oncología pediátrica es clásicamente cardiotóxico?",
+    "hint": "Su toxicidad es acumulativa y depende de la dosis total recibida durante el tratamiento.",
+    "options": [
+      {
+        "text": "A) Vincristina (Alcaloide de la vinca)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Su principal efecto adverso es la neurotoxicidad periférica e íleo paralítico."
+      },
+      {
+        "text": "B) Metotrexato (Antagonista de folatos)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es hepatotóxico y causa mucositis, pero rara vez daña el músculo cardíaco."
+      },
+      {
+        "text": "C) Antraciclinas (Doxorubicina / Daunorubicina)",
+        "isCorrect": true,
+        "explanation": "Correcta: Las antraciclinas generan radicales libres que dañan permanentemente los miocitos."
+      },
+      {
+        "text": "D) L-Asparaginasa (Enzima de depleción)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Se asocia a pancreatitis y trombosis por hipofibrinogenemia, no a falla cardíaca."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Causa mayor de IC y daño mitral progresivo en escolares en países en vías de desarrollo?",
+    "hint": "Se produce por una reacción autoinmune tras una faringitis por Streptococcus pyogenes.",
+    "options": [
+      {
+        "text": "A) Endocarditis fúngica persistente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es una complicación de pacientes inmunosuprimidos o con catéteres, no una causa poblacional mayor."
+      },
+      {
+        "text": "B) Enfermedad de Kawasaki severa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Afecta las coronarias; aunque puede dar IC por infarto, no es la causa valvular clásica descrita."
+      },
+      {
+        "text": "C) Fiebre Reumática Aguda (Carditis)",
+        "isCorrect": true,
+        "explanation": "Correcta: La carditis reumática afecta el endocardio (válvulas) y miocardio, siendo una causa prevenible de IC."
+      },
+      {
+        "text": "D) Amiloidosis cardíaca reactiva infantil",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La amiloidosis es una enfermedad de depósito del adulto mayor; casi inexistente en niños."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es el mecanismo de la 'Taquimiocardiopatía' por TSV incesante en un lactante?",
+    "hint": "Analice qué ocurre con la fase de llenado (diástole) cuando el corazón late a 250 lpm por varios días.",
+    "options": [
+      {
+        "text": "A) Depleción de ATP y tiempo de llenado insuficiente",
+        "isCorrect": true,
+        "explanation": "Correcta: El acortamiento de la diástole impide el llenado y la perfusión coronaria, agotando energéticamente al corazón."
+      },
+      {
+        "text": "B) Inflamación directa de las valvas cardíacas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las arritmias son trastornos eléctricos; no producen inflamación de las válvulas (endocarditis)."
+      },
+      {
+        "text": "C) Hipertrofia muscular asimétrica del tabique",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipertrofia asimétrica es una enfermedad genética (sarcomérica), no una respuesta a la taquicardia."
+      },
+      {
+        "text": "D) Trombosis coronaria masiva por estasis",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Aunque hay estasis relativo, el mecanismo de falla es metabólico/mecánico, no isquémico por trombos."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En el hijo de madre diabética, ¿qué explica la IC transitoria por Hipertrofia Septal?",
+    "hint": "La insulina actúa como un potente factor de crecimiento tisular durante la gestación.",
+    "options": [
+      {
+        "text": "A) Mutación de la cadena pesada de la miosina",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Esto define a la miocardiopatía hipertrófica familiar, que es genética y no suele ser transitoria."
+      },
+      {
+        "text": "B) Efecto anabólico del hiperinsulinismo fetal",
+        "isCorrect": true,
+        "explanation": "Correcta: El exceso de insulina (por la glucosa materna) hace crecer el músculo cardíaco (macrosomía orgánica)."
+      },
+      {
+        "text": "C) Infección viral intrauterina por rubéola",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La rubéola causa DAP o estenosis pulmonar periférica, no hipertrofia septal."
+      },
+      {
+        "text": "D) Falla placentaria con hipoxia crónica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipoxia fetal suele dar corazones dilatados con falla de función, no crecimiento muscular excesivo."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué cuadro produce bradicardia, derrame pericárdico e IC de gasto bajo en niños?",
+    "hint": "Piense en una condición donde el metabolismo basal está 'con el freno de mano puesto'.",
+    "options": [
+      {
+        "text": "A) Hipertiroidismo o tormenta tiroidea",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El hipertiroidismo da taquicardia y gasto alto; es lo opuesto a este cuadro."
+      },
+      {
+        "text": "B) Hipotiroidismo severo (Estado mixedematoso)",
+        "isCorrect": true,
+        "explanation": "Correcta: La falta de hormona tiroidea deprime la contractilidad y la frecuencia, y causa edema miocárdico."
+      },
+      {
+        "text": "C) Tiroiditis de Hashimoto asintomática",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Si es asintomática (eutiroidea), por definición no hay repercusión hemodinámica."
+      },
+      {
+        "text": "D) Bocio simple eutiroideo infantil",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El término 'eutiroideo' indica función normal; el bocio es solo aumento de tamaño de la glándula."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿En qué patología se describe una Miocardiopatía Dilatada progresiva en la adolescencia?",
+    "hint": "Es una enfermedad ligada al X donde la ausencia de distrofina debilita tanto el músculo esquelético como el cardíaco.",
+    "options": [
+      {
+        "text": "A) Distrofia Muscular de Duchenne (DMD)",
+        "isCorrect": true,
+        "explanation": "Correcta: El corazón sin distrofina se fibrosa y dilata; la IC es la segunda causa de muerte en estos pacientes."
+      },
+      {
+        "text": "B) Parálisis Cerebral tipo espástica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es una lesión neurológica central; el músculo cardíaco no está afectado primariamente."
+      },
+      {
+        "text": "C) Atrofia Muscular Espinal (AME)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Afecta la motoneurona inferior; los pacientes suelen fallecer por falla respiratoria, no cardíaca."
+      },
+      {
+        "text": "D) Miopatía congénita de Central Core",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es una miopatía estática que raramente involucra al corazón de forma significativa."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es el síntoma cardinal ('disnea de esfuerzo') en un lactante con IC?",
+    "hint": "Comer es el ejercicio físico más demandante que realiza un bebé de pocos meses.",
+    "options": [
+      {
+        "text": "A) Edema maleolar blando vespertino",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El edema en bebés suele ser sacro o palpebral; el edema de tobillos es típico de adultos."
+      },
+      {
+        "text": "B) Síncope al mantenerse en bipedestación",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los bebés no se mantienen de pie de forma prolongada; este es un síntoma de adolescentes (vasovagal)."
+      },
+      {
+        "text": "C) Fatiga y dificultad durante la alimentación",
+        "isCorrect": true,
+        "explanation": "Correcta: El bebé hace pausas, suelta el pecho, se cansa rápido o rechaza el alimento por el esfuerzo respiratorio."
+      },
+      {
+        "text": "D) Dolor torácico opresivo irradiado a cuello",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La angina de pecho es extremadamente rara en lactantes (salvo ALCAPA) y no se expresa como dolor referido."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es la explicación fisiológica de la sudoración profusa al comer en lactantes con IC?",
+    "hint": "El cuerpo está en un estado de estrés adrenérgico constante para intentar mantener el flujo de sangre.",
+    "options": [
+      {
+        "text": "A) Fiebre secundaria a infección respiratoria",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La fiebre daría calor táctil y sudoración generalizada, no solo durante la succión."
+      },
+      {
+        "text": "B) Hiperactividad compensatoria del simpático",
+        "isCorrect": true,
+        "explanation": "Correcta: La descarga de noradrenalina estimula las glándulas sudoríparas (diaforesis fría), especialmente bajo esfuerzo."
+      },
+      {
+        "text": "C) Reacción alérgica a proteínas de la leche",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La alergia alimentaria da síntomas cutáneos (urticaria) o digestivos, no sudoración aislada."
+      },
+      {
+        "text": "D) Hipotensión ortostática por bajo gasto",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipotensión daría palidez y letargia, pero la sudoración es un signo de compensación previa al choque."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué hallazgo en las curvas de crecimiento es consecuencia directa del gasto energético de la IC?",
+    "hint": "El balance calórico es negativo: el niño gasta más calorías en respirar y latir de las que logra ingerir.",
+    "options": [
+      {
+        "text": "A) Macrocefalia progresiva o estable",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El crecimiento cerebral suele preservarse hasta etapas muy avanzadas de desnutrición."
+      },
+      {
+        "text": "B) Detención de la curva pondo-estatural",
+        "isCorrect": true,
+        "explanation": "Correcta: Se conoce como 'falla de medro'; el peso se estanca y luego la talla se ve comprometida."
+      },
+      {
+        "text": "C) Obesidad de distribución central",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El estado de IC es hipercatabólico; la obesidad es clínicamente incompatible con una IC severa no tratada."
+      },
+      {
+        "text": "D) Talla alta para la edad gestacional",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El estrés crónico y la mala nutrición nunca favorecen el crecimiento longitudinal por sobre la norma."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En la falla del VENTRÍCULO DERECHO en un lactante, el signo clínico más confiable es:",
+    "hint": "Piense en la anatomía del lactante: cuello corto, tejido graso abundante y un hígado muy distensible.",
+    "options": [
+      {
+        "text": "A) Edema blando de extremidades inferiores",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El edema periférico es un signo tardío y difícil de objetivar en bebés con pañal y grasa subcutánea."
+      },
+      {
+        "text": "B) Ingurgitación franca de venas yugulares",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Ver las yugulares en un lactante es casi imposible debido a la brevedad y grosor del cuello."
+      },
+      {
+        "text": "C) Hepatomegalia turgente y palpable",
+        "isCorrect": true,
+        "explanation": "Correcta: El hígado actúa como 'esponja' del retorno venoso sistémico; es el signo más precoz de falla derecha."
+      },
+      {
+        "text": "D) Ascitis a tensión con onda líquida clara",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La ascitis es un signo de falla cardíaca extrema o de patología hepática primaria (cirrosis)."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "El 'Ritmo de Galope' escuchado en un niño con IC aguda se produce por:",
+    "hint": "Es un sonido rítmico de tres tiempos que se acentúa con la taquicardia.",
+    "options": [
+      {
+        "text": "A) Desdoblamiento fijo del segundo ruido",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El desdoblamiento fijo es característico de la CIA y no varía con la respiración ni indica falla."
+      },
+      {
+        "text": "B) Presencia de un Tercer (3R) o Cuarto (4R) ruido",
+        "isCorrect": true,
+        "explanation": "Correcta: Indica llenado rápido en un ventrículo dilatado (3R) o contracción contra un ventrículo rígido (4R)."
+      },
+      {
+        "text": "C) Soplo continuo en maquinaria subclavicular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Este es el soplo de Gibson, típico del Ductus Arterioso Persistente, no un ruido de galope."
+      },
+      {
+        "text": "D) Chasquido de apertura de la válvula mitral",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es un ruido seco e inicial de la diástole en la estenosis mitral, pero no genera la cadencia de galope."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En la falla del VENTRÍCULO IZQUIERDO de un escolar, el signo pulmonar característico es:",
+    "hint": "Se produce por la apertura de alvéolos que tienen líquido en su interior (trasudado).",
+    "options": [
+      {
+        "text": "A) Estridor inspiratorio laríngeo agudo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El estridor indica obstrucción de la vía aérea alta (laringe/tráquea), no patología alveolar."
+      },
+      {
+        "text": "B) Murmullo pulmonar abolido globalmente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Esto sugeriría un derrame pleural masivo o un neumotórax, no un edema intersticial difuso."
+      },
+      {
+        "text": "C) Crepitaciones finas de predominio basal",
+        "isCorrect": true,
+        "explanation": "Correcta: Son ruidos discontinuos que indican ocupación alveolar por edema cardiogénico."
+      },
+      {
+        "text": "D) Soplo tubario en zona apical derecha",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El soplo tubario es típico de la neumonía condensante (exudado infeccioso sólido)."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Por qué cuadro clínico suelen ser confundidos los lactantes con IC por hiperflujo pulmonar?",
+    "hint": "El edema de la mucosa bronquial estrecha el paso del aire, provocando sibilancias.",
+    "options": [
+      {
+        "text": "A) Tos convulsiva o síndrome de Coqueluche",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El coqueluche se caracteriza por accesos de tos con 'gallo', no por sibilancias constantes."
+      },
+      {
+        "text": "B) Síndrome Bronquial Obstructivo (SBO)",
+        "isCorrect": true,
+        "explanation": "Correcta: El 'asma cardíaca' causa sibilancias y atrapamiento aéreo, imitando una bronquiolitis o asma."
+      },
+      {
+        "text": "C) Crup laríngeo o laringitis obstructiva",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La laringitis da estridor y tos 'perruna', ruidos muy distintos a las sibilancias espiratorias."
+      },
+      {
+        "text": "D) Aspiración aguda de cuerpo extraño",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Esto suele ser un evento súbito, asimétrico y con antecedente de atragantamiento."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué hallazgo periférico NO es concordante con un estado de shock cardiogénico?",
+    "hint": "En falla de bomba, el cuerpo cierra la circulación de la piel para salvar el cerebro.",
+    "options": [
+      {
+        "text": "A) Pulsos periféricos de carácter filiforme",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los pulsos débiles (filiformes) son el signo universal de bajo volumen de eyección."
+      },
+      {
+        "text": "B) Llenado capilar enlentecido (> 3 segundos)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El llene capilar lento es el mejor indicador clínico de mala perfusión hística periférica."
+      },
+      {
+        "text": "C) Piel de aspecto frío, pálido y moteado",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La piel moteada (livedo reticularis) indica vasoconstricción extrema por choque."
+      },
+      {
+        "text": "D) Pulsos saltones con extremidades calientes",
+        "isCorrect": true,
+        "explanation": "Correcta: Esto sugiere vasodilatación periférica (shock séptico o anafiláctico) o un DAP grande."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cómo se denomina la escala para estandarizar la severidad de la IC en lactantes?",
+    "hint": "Evalúa parámetros como el tiempo de alimentación, polipnea y hepatomegalia.",
+    "options": [
+      {
+        "text": "A) Clasificación de la NYHA (I al IV)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La NYHA se basa en la percepción subjetiva de la disnea (adultos y niños mayores)."
+      },
+      {
+        "text": "B) Escala de coma de Glasgow pediátrica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Mide el nivel de conciencia neurológica, no tiene relación con la función cardiovascular."
+      },
+      {
+        "text": "C) Clasificación de Ross (o Ross modificada)",
+        "isCorrect": true,
+        "explanation": "Correcta: Es la escala validada internacionalmente para pacientes menores de 1 año con falla cardíaca."
+      },
+      {
+        "text": "D) Criterios diagnósticos de Jones y Duckett",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Se utilizan para el diagnóstico de Fiebre Reumática, no para medir severidad de IC."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "El ahogo súbito a medianoche que obliga al escolar a sentarse se denomina:",
+    "hint": "Ocurre tras unas horas de estar acostado por la reabsorción del edema de las piernas hacia el pulmón.",
+    "options": [
+      {
+        "text": "A) Disnea de esfuerzo progresiva grado III",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La disnea de esfuerzo ocurre durante la actividad física, no durante el sueño profundo."
+      },
+      {
+        "text": "B) Disnea Paroxística Nocturna (DPN)",
+        "isCorrect": true,
+        "explanation": "Correcta: Es un síntoma clásico de IC izquierda avanzada; el niño despierta angustiado y 'busca aire'."
+      },
+      {
+        "text": "C) Ortopnea con necesidad de almohadas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Ortopnea es la disnea que aparece *de inmediato* al acostarse, impidiendo iniciar el sueño plano."
+      },
+      {
+        "text": "D) Trepopnea en decúbito lateral izquierdo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es la disnea que aparece al estar de un solo lado (típica de derrames pleurales o tumores)."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En la evaluación radiológica de un lactante de 6 meses con sospecha de IC, ¿qué valor del Índice Cardiotorácico (ICT) confirma la presencia de cardiomegalia?",
+    "hint": "Los lactantes tienen el corazón en una posición más horizontal y un timo prominente que ensancha la silueta.",
+    "options": [
+      {
+        "text": "A) Un valor de ICT que resulte superior a 0.45",
+        "isCorrect": false,
+        "explanation": "Incorrecta: 0.45 es un valor normal incluso para adultos (el límite es 0.50)."
+      },
+      {
+        "text": "B) Un valor de ICT que resulte superior a 0.50",
+        "isCorrect": false,
+        "explanation": "Incorrecta: 0.50 es el límite para niños mayores y adultos, pero es normal en lactantes sanos."
+      },
+      {
+        "text": "C) Un valor de ICT que resulte superior a 0.60",
+        "isCorrect": true,
+        "explanation": "Correcta: En menores de 2 años, se acepta hasta 0.55-0.60 como normal. Un valor > 0.60 es diagnóstico de cardiomegalia."
+      },
+      {
+        "text": "D) Un valor de ICT que resulte superior a 0.70",
+        "isCorrect": false,
+        "explanation": "Incorrecta: 0.70 es una cardiomegalia masiva, el umbral diagnóstico es menor."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué hallazgo en la radiografía de tórax sugiere hipertensión venocapilar pulmonar secundaria a falla ventricular izquierda?",
+    "hint": "Busque signos de que el líquido está ocupando los tabiques interlobulillares debido a la presión retrógrada.",
+    "options": [
+      {
+        "text": "A) Presencia de campos pulmonares hiperlúcidos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los pulmones negros (hiperlúcidos) sugieren hipoflujo (ej. Fallot) o atrapamiento aéreo (ej. Asma)."
+      },
+      {
+        "text": "B) Líneas B de Kerley y cefalización del flujo",
+        "isCorrect": true,
+        "explanation": "Correcta: Las líneas B de Kerley indican edema intersticial y la cefalización muestra la redistribución del flujo a los vértices."
+      },
+      {
+        "text": "C) Imagen de silueta cardíaca en forma de bota",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El 'corazón en zueco o bota' es típico de la Tetralogía de Fallot, no de la congestión pulmonar."
+      },
+      {
+        "text": "D) Desviación de la tráquea hacia el lado sano",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Este es un signo de neumotórax a tensión o masa ocupante, no de falla cardíaca."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En un lactante con dificultad respiratoria aguda, ¿qué biomarcador es más útil por su valor predictivo negativo para descartar IC?",
+    "hint": "Este péptido se libera únicamente cuando las paredes de los ventrículos sufren estiramiento mecánico.",
+    "options": [
+      {
+        "text": "A) Troponina I de alta sensibilidad (hs-TnI)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La troponina mide daño celular (isquemia/inflamación), no el grado de falla de bomba o congestión."
+      },
+      {
+        "text": "B) Péptido Natriurético tipo B (BNP/NT-proBNP)",
+        "isCorrect": true,
+        "explanation": "Correcta: Un BNP normal descarta con casi 100% de certeza que la disnea sea de origen cardiogénico."
+      },
+      {
+        "text": "C) Fracción MB de la Creatina quinasa (CK-MB)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La CK-MB es poco específica en niños y mide necrosis, no insuficiencia funcional."
+      },
+      {
+        "text": "D) Niveles séricos de Proteína C Reactiva (PCR)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La PCR es un marcador de inflamación general (infección), inútil para diferenciar pulmón de corazón."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es el examen considerado el 'Estándar de Oro' no invasivo para definir la etiología anatómica y funcional de la IC pediátrica?",
+    "hint": "Permite ver las válvulas, tabiques y la fuerza de contracción en tiempo real sin emitir radiación.",
+    "options": [
+      {
+        "text": "A) Cateterismo cardíaco con medición de presiones",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es el estándar para presiones pulmonares, pero es invasivo y no se usa de primera línea."
+      },
+      {
+        "text": "B) Electrocardiograma de superficie de 12 canales",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El EKG da información eléctrica, pero no permite ver la estructura ni confirmar la IC."
+      },
+      {
+        "text": "C) Ecocardiograma Doppler Color trans-torácico",
+        "isCorrect": true,
+        "explanation": "Correcta: Es rápido, seguro y entrega toda la información estructural y funcional necesaria para el manejo inicial."
+      },
+      {
+        "text": "D) Angio-Tomografía computarizada multidetector",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Útil para anatomía de vasos (ej. coartación), pero no evalúa bien la función dinámica valvular o sistólica."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Un reporte ecocardiográfico indica una Fracción de Eyección (FEVI) del 35%. ¿Cómo se clasifica este hallazgo en un paciente pediátrico?",
+    "hint": "Un corazón sano debe ser capaz de expulsar al menos el 55% al 60% del volumen de sangre que contiene.",
+    "options": [
+      {
+        "text": "A) Función sistólica conservada o normal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los valores normales están muy por encima del 35%."
+      },
+      {
+        "text": "B) Disfunción sistólica de grado moderado",
+        "isCorrect": true,
+        "explanation": "Correcta: Se considera moderada entre 30% y 40-45%. Normal es >55%."
+      },
+      {
+        "text": "C) Disfunción sistólica de grado severo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La disfunción severa se define generalmente con valores inferiores al 30%."
+      },
+      {
+        "text": "D) Disfunción diastólica con sístole normal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La disfunción diastólica puede tener una FEVI del 60%, el problema es el llenado, no la eyección."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es el hallazgo electrocardiográfico más frecuente en un niño que cursa una IC descompensada?",
+    "hint": "Es la manifestación eléctrica del principal mecanismo compensatorio autonómico frente al bajo gasto.",
+    "options": [
+      {
+        "text": "A) Taquicardia sinusal persistente y reactiva",
+        "isCorrect": true,
+        "explanation": "Correcta: Es la respuesta universal del nodo sinusal al estímulo simpático para intentar mantener el gasto."
+      },
+      {
+        "text": "B) Fibrilación auricular con respuesta rápida",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La FA es una arritmia de adultos; en niños es excepcional, salvo en cardiopatías muy dilatadas."
+      },
+      {
+        "text": "C) Bloqueo completo de la rama izquierda (BCRI)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es un hallazgo de daño estructural o miocardiopatía específica, no es el hallazgo universal."
+      },
+      {
+        "text": "D) Ondas Q patológicas en derivaciones bajas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Sugieren infarto antiguo o miocarditis focal, pero no son constantes en la IC congestiva."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En un niño edematoso con IC descompensada, se encuentra un sodio plasmático de 128 mEq/L. ¿Cuál es el mecanismo de esta alteración?",
+    "hint": "El cerebro cree que falta volumen y libera ADH, la cual retiene agua pero no sal.",
+    "options": [
+      {
+        "text": "A) Pérdida real de sodio por vía renal o digestiva",
+        "isCorrect": false,
+        "explanation": "Incorrecta: En IC el sodio corporal total suele estar aumentado (por la aldosterona), no perdido."
+      },
+      {
+        "text": "B) Hemoconcentración por uso de diuréticos de asa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los diuréticos podrían causar hiponatremia, pero la hemoconcentración subiría los niveles de solutos."
+      },
+      {
+        "text": "C) Hiponatremia dilucional por exceso de agua libre",
+        "isCorrect": true,
+        "explanation": "Correcta: El bajo gasto estimula la ADH; el cuerpo tiene mucho sodio total pero está diluido en demasiada agua."
+      },
+      {
+        "text": "D) Error de toma de muestra por infusión de glucosa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Aunque posible, es una explicación técnica y no el fenómeno fisiopatológico esperado en IC."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué parámetro de laboratorio es el mejor indicador de hipoxia tisular y mal pronóstico en el shock cardiogénico?",
+    "hint": "Cuando las células no reciben oxígeno, recurren a una vía metabólica que genera este desecho ácido.",
+    "options": [
+      {
+        "text": "A) Elevación de los niveles de ácido láctico",
+        "isCorrect": true,
+        "explanation": "Correcta: El lactato mide indirectamente la deuda de oxígeno en los tejidos por mala perfusión."
+      },
+      {
+        "text": "B) Descenso de los niveles de potasio sérico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El potasio varía por fármacos o falla renal, pero no mide perfusión hística directamente."
+      },
+      {
+        "text": "C) Aumento de la creatina fosfoquinasa total",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La CPK mide daño muscular general, es muy inespecífica en estados críticos."
+      },
+      {
+        "text": "D) Descenso de la saturación venosa central",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Aunque útil, la saturación venosa central es un parámetro hemodinámico, no un metabolito de laboratorio estándar."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Por qué el uso de AINEs (ej. Ibuprofeno) puede desencadenar una crisis de IC en un paciente con función cardíaca limítrofe?",
+    "hint": "Estos fármacos afectan la capacidad del riñón para mantener el filtrado y eliminar el sodio.",
+    "options": [
+      {
+        "text": "A) Por toxicidad directa sobre el miocito cardíaco",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los AINEs no tienen un efecto inotrópico negativo o tóxico directo sobre el músculo."
+      },
+      {
+        "text": "B) Por retención hidrosalina al inhibir prostaglandinas",
+        "isCorrect": true,
+        "explanation": "Correcta: Las prostaglandinas mantienen el flujo renal; al inhibirlas, el riñón retiene agua y sube la precarga."
+      },
+      {
+        "text": "C) Por inducción de arritmias supraventriculares",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No son fármacos pro-arrítmicos; su principal riesgo es hemodinámico y renal."
+      },
+      {
+        "text": "D) Por cierre prematuro de colaterales vasculares",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No afectan las colaterales; su efecto es microvascular renal."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En el Cor Pulmonale (falla derecha), ¿por qué se observa elevación de las transaminasas (AST/ALT)?",
+    "hint": "El hígado está 'hinchado' de sangre que no puede avanzar, lo que impide que llegue sangre oxigenada a sus células.",
+    "options": [
+      {
+        "text": "A) Por una infección viral hepática concomitante",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No es un proceso infeccioso, es un fenómeno mecánico-hemodinámico (hígado de éstasis)."
+      },
+      {
+        "text": "B) Por congestión pasiva e hipoxia centrolobulillar",
+        "isCorrect": true,
+        "explanation": "Correcta: La presión venosa alta retrógrada causa éstasis y muerte celular en la zona 3 del lobulillo hepático."
+      },
+      {
+        "text": "C) Por toxicidad directa de los diuréticos usados",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los diuréticos no son hepatotóxicos; al contrario, ayudan a descongestionar el hígado."
+      },
+      {
+        "text": "D) Por una respuesta inflamatoria sistémica aguda",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La inflamación es secundaria al daño celular, pero no la causa primaria de la elevación enzimática."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Lactante ingresa con distrés respiratorio severo y signos de falla cardíaca. ¿Cuál es la medida de soporte inicial recomendada?",
+    "hint": "Piense en las medidas básicas para mejorar la ventilación y disminuir mecánicamente el retorno venoso al pulmón.",
+    "options": [
+      {
+        "text": "A) Intubación endotraqueal inmediata y sedación",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La intubación es una medida avanzada; se debe intentar primero soporte no invasivo."
+      },
+      {
+        "text": "B) Oxigenoterapia y posición semi-sentada (Fowler)",
+        "isCorrect": true,
+        "explanation": "Correcta: El oxígeno alivia la hipoxemia y la posición Fowler mejora la mecánica respiratoria y baja la precarga."
+      },
+      {
+        "text": "C) Infusión rápida de volumen con suero fisiológico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El volumen está contraindicado en falla congestiva, ya que agravaría el edema pulmonar."
+      },
+      {
+        "text": "D) Administración de digoxina endovenosa en bolo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La digoxina es lenta y peligrosa en agudo; no es una medida de soporte vital inmediato."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es el riesgo de administrar Oxígeno al 100% en un niño con una gran Comunicación Interventricular (CIV)?",
+    "hint": "El oxígeno actúa como un potente fármaco sobre los vasos del pulmón, abriéndolos.",
+    "options": [
+      {
+        "text": "A) Produce daño tóxico irreversible en los alvéolos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La toxicidad por O2 requiere exposiciones muy prolongadas, no es el riesgo hemodinámico agudo."
+      },
+      {
+        "text": "B) Aumenta el shunt I-D por vasodilatación pulmonar",
+        "isCorrect": true,
+        "explanation": "Correcta: Al bajar la resistencia pulmonar, más sangre fluye del VI al VD y al pulmón, empeorando la congestión."
+      },
+      {
+        "text": "C) Causa una depresión severa del centro respiratorio",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Solo ocurre en pacientes con hipercapnia crónica y 'drive' hipóxico, raro en IC pediátrica aguda."
+      },
+      {
+        "text": "D) Provoca el cierre brusco del conducto arterioso",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El oxígeno cierra el ductus en neonatos, pero en un lactante con CIV el problema es el hiperflujo."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es el fármaco de primera elección para el manejo de la sobrecarga de volumen en la IC aguda pediátrica?",
+    "hint": "Se requiere un fármaco de acción rápida y gran potencia para eliminar sodio y agua por el riñón.",
+    "options": [
+      {
+        "text": "A) Espironolactona (Antagonista de aldosterona)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Su efecto es muy lento (días) y es un diurético débil, usado para ahorro de potasio."
+      },
+      {
+        "text": "B) Hidroclorotiazida (Diurético de túbulo distal)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Útil en manejo crónico leve, pero insuficiente para una crisis congestiva aguda."
+      },
+      {
+        "text": "C) Furosemida (Diurético de asa de Henle)",
+        "isCorrect": true,
+        "explanation": "Correcta: La furosemida IV actúa en minutos y es el diurético más potente para 'secar' el pulmón."
+      },
+      {
+        "text": "D) Acetazolamida (Inhibidor anhidrasa carbónica)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Se usa para alcalosis metabólica o glaucoma, no como descongestionante cardíaco."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Se requiere mejorar la fuerza de contracción en un paciente con shock cardiogénico. ¿Qué fármaco estimula receptores Beta-1?",
+    "hint": "Busque una sustancia que actúe de forma similar a la adrenalina pero enfocada en la fuerza del corazón.",
+    "options": [
+      {
+        "text": "A) Milrinona (Inhibidor de la fosfodiesterasa)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La milrinona sube el inotropismo pero NO utiliza los receptores Beta; actúa intracelularmente."
+      },
+      {
+        "text": "B) Dobutamina (Catecolamina sintética directa)",
+        "isCorrect": true,
+        "explanation": "Correcta: Es el inótropo de elección que aumenta la contractilidad vía receptores Beta-1 miocárdicos."
+      },
+      {
+        "text": "C) Nitroprusiato de sodio (Donante de nitritos)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es un vasodilatador puro; no tiene ningún efecto directo sobre la fuerza del músculo."
+      },
+      {
+        "text": "D) Propranolol (Bloqueador adrenérgico no selectivo)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es lo opuesto; bajaría la fuerza del corazón, precipitando el paro en un shock."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "La Milrinona es un 'Inodilatador' muy utilizado en UCI pediátrica. ¿Cuál es su mecanismo de acción?",
+    "hint": "Aumenta la fuerza del corazón y relaja las arterias al mismo tiempo, sin tocar los receptores adrenérgicos.",
+    "options": [
+      {
+        "text": "A) Bloqueo de los canales de calcio intracelulares",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Bloquear el calcio bajaría la contractilidad, que es lo contrario a lo buscado."
+      },
+      {
+        "text": "B) Inhibición de la PDE3, aumentando los niveles de AMPc",
+        "isCorrect": true,
+        "explanation": "Correcta: Al inhibir la fosfodiesterasa 3, sube el AMPc, lo que mejora el calcio en el corazón y lo baja en los vasos."
+      },
+      {
+        "text": "C) Activación directa de los receptores Alfa-1 periféricos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El estímulo alfa-1 causaría vasoconstricción severa, aumentando la postcarga dañina."
+      },
+      {
+        "text": "D) Bloqueo de la enzima convertidora de angiotensina",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Este es el mecanismo de los IECAs, fármacos de mantenimiento, no inotrópicos de UCI."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En un recién nacido de 3 días con shock profundo y ausencia de pulsos femorales, el tratamiento salvavidas es:",
+    "hint": "Necesita reabrir la estructura fetal que permite que la sangre llegue a la mitad inferior del cuerpo.",
+    "options": [
+      {
+        "text": "A) Infusión endovenosa de Prostaglandina E1",
+        "isCorrect": true,
+        "explanation": "Correcta: Mantiene o reabre el ductus, permitiendo la perfusión sistémica en lesiones obstructivas izquierdas."
+      },
+      {
+        "text": "B) Administración de dosis altas de Indometacina",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La indometacina cierra el ductus; en este caso sería un error fatal."
+      },
+      {
+        "text": "C) Bolo de volumen con albúmina humana al 5%",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El volumen empeoraría la falla de un ventrículo izquierdo que ya no puede bombear contra la obstrucción."
+      },
+      {
+        "text": "D) Inyección de adrenalina directa al corazón",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La adrenalina intracardíaca es una técnica obsoleta y peligrosa; no soluciona el problema mecánico."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Un paciente cursa IC aguda con edema de pulmón secundario a crisis hipertensiva. ¿Qué vasodilatador mixto es de elección?",
+    "hint": "Se requiere un fármaco de acción instantánea y vida media ultra corta para titular el descenso de presión.",
+    "options": [
+      {
+        "text": "A) Nitroglicerina (Vasodilatador venoso parcial)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es predominantemente venodilatador; menos efectivo para bajar una crisis hipertensiva severa."
+      },
+      {
+        "text": "B) Nitroprusiato de Sodio (Vasodilatador potente)",
+        "isCorrect": true,
+        "explanation": "Correcta: Baja la precarga y postcarga de inmediato, 'vaciando' el ventrículo y el pulmón."
+      },
+      {
+        "text": "C) Enalaprilato (Forma inyectable de un IECA)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Su inicio de acción es más lento y difícil de titular segundo a segundo en una emergencia."
+      },
+      {
+        "text": "D) Hidralazina (Vasodilatador arterial directo)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Solo actúa sobre arterias, provocando a veces taquicardia refleja que empeora la IC."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué grupo de fármacos está CONTRAINDICADO iniciar durante la fase aguda de una IC descompensada?",
+    "hint": "Estos medicamentos quitan el soporte adrenérgico que mantiene al corazón latiendo durante la crisis.",
+    "options": [
+      {
+        "text": "A) Diuréticos de asa como la Furosemida",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Son la base del tratamiento agudo para aliviar la congestión."
+      },
+      {
+        "text": "B) Inhibidores de la ECA como el Enalapril",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Pueden iniciarse precozmente si la presión arterial lo permite, no están proscritos."
+      },
+      {
+        "text": "C) Betabloqueadores como el Carvedilol",
+        "isCorrect": true,
+        "explanation": "Correcta: Tienen un efecto inotrópico negativo inicial que puede causar shock en un paciente inestable."
+      },
+      {
+        "text": "D) Antagonistas de los receptores de aldosterona",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Se usan para regular el potasio y la fibrosis desde etapas tempranas."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Para prevenir la hipokalemia en un niño que usa dosis altas de furosemida, ¿qué fármaco se debe agregar?",
+    "hint": "Es un diurético que actúa bloqueando la hormona que elimina potasio en el túbulo colector.",
+    "options": [
+      {
+        "text": "A) Espironolactona (Diurético distal)",
+        "isCorrect": true,
+        "explanation": "Correcta: Bloquea la aldosterona, reteniendo potasio y potenciando levemente la diuresis."
+      },
+      {
+        "text": "B) Suero fisiológico por vía oral diario",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El sodio no previene la pérdida de potasio; solo aumentaría el edema."
+      },
+      {
+        "text": "C) Salbutamol inhalado cada 4 horas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El salbutamol mete potasio a las células, bajando aún más los niveles en sangre."
+      },
+      {
+        "text": "D) Insulina de acción rápida subcutánea",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La insulina causa hipokalemia severa al desplazar el ión al espacio intracelular."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es el fármaco central y dosis en RCP pediátrica para ritmos no desfibrilables (asistolia)?",
+    "hint": "Es el vasoconstrictor más potente para intentar recuperar la circulación espontánea cada 3-5 minutos.",
+    "options": [
+      {
+        "text": "A) Atropina a dosis de 0.02 mg por kilo de peso",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Ya no es de uso rutinario en el paro cardíaco pediátrico según las guías actuales."
+      },
+      {
+        "text": "B) Amiodarona a dosis de 5 mg por kilo de peso",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Solo se usa en ritmos desfibrilables (FV/TV) que no responden al choque eléctrico."
+      },
+      {
+        "text": "C) Adrenalina a dosis de 0.01 mg por kilo de peso",
+        "isCorrect": true,
+        "explanation": "Correcta: Es el fármaco estándar en todos los algoritmos de paro (PALS) para mejorar la perfusión coronaria."
+      },
+      {
+        "text": "D) Lidocaína a dosis de 1 mg por kilo de peso",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Alternativa a la amiodarona en FV/TV, pero no tiene rol en la asistolia pura."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es el pilar oral (Gold Standard) para evitar el remodelado y bajar la postcarga en la IC crónica?",
+    "hint": "Bloquean la hormona que causa fibrosis del músculo cardíaco y vasoconstricción sistémica.",
+    "options": [
+      {
+        "text": "A) Amlodipino (Bloqueador canales de calcio)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No han demostrado mejorar la mortalidad en IC pediátrica y pueden causar edema."
+      },
+      {
+        "text": "B) Enalapril o Captopril (Inhibidores de la ECA)",
+        "isCorrect": true,
+        "explanation": "Correcta: Los IECAs mejoran la sobrevida al frenar el remodelado patológico del corazón."
+      },
+      {
+        "text": "C) Aspirina a dosis antiagregante pediátrica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Se usa en Kawasaki o válvulas protésicas, pero no trata la falla de bomba."
+      },
+      {
+        "text": "D) Teofilina en dosis de mantenimiento oral",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es un estimulante respiratorio y broncodilatador, sin rol en la insuficiencia cardíaca."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es el principal beneficio a largo plazo de los Betabloqueadores en la Miocardiopatía Dilatada?",
+    "hint": "Al 'dormir' al corazón de la descarga adrenérgica tóxica, permiten que el músculo sane y recupere fuerza.",
+    "options": [
+      {
+        "text": "A) Aumentan la frecuencia cardíaca de reserva",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Al contrario, bajan la frecuencia cardíaca, permitiendo un mejor llenado diastólico."
+      },
+      {
+        "text": "B) Eliminan virus latentes del tejido cardíaco",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No tienen ninguna actividad antiviral ni inmunomoduladora directa."
+      },
+      {
+        "text": "C) Revierten el remodelado y suben la FEVI",
+        "isCorrect": true,
+        "explanation": "Correcta: Aumentan la densidad de receptores Beta y mejoran la eficiencia contráctil tras meses de uso."
+      },
+      {
+        "text": "D) Dilatan los bronquios mejorando el aporte",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Pueden causar broncocnstricción en asmáticos; nunca dilatan la vía aérea."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Respecto a la Digoxina en el tratamiento de la IC crónica, los estudios han demostrado que:",
+    "hint": "Ayuda a que el paciente se sienta mejor y se hospitalice menos, pero no hace que viva más años.",
+    "options": [
+      {
+        "text": "A) Aumenta significativamente el riesgo de cáncer",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No existe ninguna asociación entre el uso de digitálicos y el desarrollo de neoplasias."
+      },
+      {
+        "text": "B) Es la única cura definitiva para la falla sistólica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Ningún fármaco cura la falla estructural; la digoxina es solo un apoyo inotrópico débil."
+      },
+      {
+        "text": "C) Mejora síntomas pero NO disminuye mortalidad",
+        "isCorrect": true,
+        "explanation": "Correcta: Es un fármaco sintomático; hoy es de tercera línea tras diuréticos, IECAs y betabloqueadores."
+      },
+      {
+        "text": "D) Debe suspenderse siempre en niños menores de 1 año",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Se puede usar en todas las edades, pero requiere un monitoreo muy estricto de niveles."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuáles son los signos iniciales de toxicidad por Digoxina en un paciente pediátrico?",
+    "hint": "Este fármaco tiene un rango terapéutico muy estrecho; lo primero que aparece son náuseas y vómitos.",
+    "options": [
+      {
+        "text": "A) Rash cutáneo purpúrico y dolor articular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Estos sugieren una vasculitis (ej. Schonlein-Henoch), no una intoxicación medicamentosa."
+      },
+      {
+        "text": "B) Síntomas digestivos y bradicardia extrema",
+        "isCorrect": true,
+        "explanation": "Correcta: La anorexia, vómitos y la caída de la frecuencia cardíaca son las señales de alarma clásicas."
+      },
+      {
+        "text": "C) Hipertensión arterial y agitación motora",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La digoxina suele bajar la frecuencia y no afecta la presión de forma hipertensiva."
+      },
+      {
+        "text": "D) Poliuria masiva y aumento de la sed local",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La poliuria sería efecto de los diuréticos, no de la toxicidad del digitálico."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué alteración electrolítica potencia la toxicidad de la Digoxina hasta niveles letales?",
+    "hint": "El potasio compite con la digoxina por el mismo sitio de unión en las células del corazón.",
+    "options": [
+      {
+        "text": "A) Hipernatremia (Exceso de sodio en sangre)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El sodio no influye directamente en la unión de la digoxina a su receptor miocárdico."
+      },
+      {
+        "text": "B) Hipokalemia (Bajos niveles de potasio)",
+        "isCorrect": true,
+        "explanation": "Correcta: Al haber poco potasio, la digoxina se une más fácil y fuerte a la bomba Na/K, intoxicando la célula."
+      },
+      {
+        "text": "C) Hipocalcemia (Bajos niveles de calcio)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El calcio alto (hipercalcemia) es lo que potencia la toxicidad, no el calcio bajo."
+      },
+      {
+        "text": "D) Hipercloremia (Exceso de cloro en sangre)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los niveles de cloro no tienen relevancia clínica en la farmacodinámica de la digoxina."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Debido al alto gasto metabólico basal en la IC (taquipnea), ¿cuál es el requerimiento calórico de un lactante?",
+    "hint": "Un bebé con falla cardíaca corre una maratón diaria solo para poder respirar.",
+    "options": [
+      {
+        "text": "A) Menor a lo normal para evitar la distensión",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Dar pocas calorías causaría una desnutrición severa acelerada, empeorando el pronóstico."
+      },
+      {
+        "text": "B) Idéntico al de un niño sano de la misma edad",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los aportes estándar son insuficientes ante el aumento del trabajo cardíaco y respiratorio."
+      },
+      {
+        "text": "C) Muy aumentado (120 a 150 kcal por kilo diario)",
+        "isCorrect": true,
+        "explanation": "Correcta: Necesitan un hiperaporte para poder crecer a pesar del gasto energético excesivo de la falla."
+      },
+      {
+        "text": "D) Cubierto solo por nutrición parenteral total",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Se prefiere siempre la vía enteral (leche) para mantener la salud intestinal, salvo shock."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es la estrategia nutricional para lactantes con IC que no toleran grandes volúmenes de líquido?",
+    "hint": "El objetivo es dar 'mucho combustible en poco envase' para no sobrecargar el pulmón con agua.",
+    "options": [
+      {
+        "text": "A) Diluir la leche al medio con agua destilada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Diluir la leche daría menos calorías, desnutriendo al niño rápidamente."
+      },
+      {
+        "text": "B) Suspender las tomas nocturnas por seguridad",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Necesitan alimentarse frecuentemente (cada 3 horas) para alcanzar sus metas calóricas."
+      },
+      {
+        "text": "C) Concentrar las fórmulas (Aumento de densidad)",
+        "isCorrect": true,
+        "explanation": "Correcta: Se agregan polímeros de glucosa o aceites a la leche para que tenga más calorías por mililitro."
+      },
+      {
+        "text": "D) Restringir las grasas para facilitar digestión",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las grasas son fundamentales para el desarrollo cerebral y son la fuente más densa de energía."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Si un lactante se fatiga a los 3 minutos de succión y no sube de peso, ¿qué medida se debe tomar?",
+    "hint": "Se debe evitar que el bebé gaste su poca energía realizando el esfuerzo muscular de chupar el biberón o pecho.",
+    "options": [
+      {
+        "text": "A) Iniciar fármacos estimulantes del apetito",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El problema no es la falta de hambre, sino la fatiga muscular por falta de reserva cardíaca."
+      },
+      {
+        "text": "B) Alimentación por Sonda Nasogástrica (SNG)",
+        "isCorrect": true,
+        "explanation": "Correcta: Permite asegurar el aporte calórico total sin que el niño se agote físicamente comiendo."
+      },
+      {
+        "text": "C) Dejarlo en ayunas por boca (Régimen cero)",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El ayuno lo desnutriría y debilitaría aún más el músculo cardíaco hambriento de energía."
+      },
+      {
+        "text": "D) Forzar la succión aunque el niño llore mucho",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Forzar la succión puede causar aspiración y aumenta peligrosamente el estrés adrenérgico."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué recomendación de actividad física es adecuada para adolescentes con IC sistólica estable?",
+    "hint": "El sedentarismo atrofia los músculos, pero el esfuerzo explosivo puede sobrecargar el ventrículo débil.",
+    "options": [
+      {
+        "text": "A) Reposo absoluto en cama de forma permanente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El reposo absoluto causa atrofia muscular y aumenta el riesgo de trombosis venosa."
+      },
+      {
+        "text": "B) Deporte competitivo de alta intensidad aeróbica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La alta exigencia puede desencadenar arritmias o falla cardíaca aguda por exceso de demanda."
+      },
+      {
+        "text": "C) Ejercicio aeróbico dinámico de carácter leve",
+        "isCorrect": true,
+        "explanation": "Correcta: Caminatas suaves o natación recreativa mejoran la capacidad funcional sin riesgo agudo."
+      },
+      {
+        "text": "D) Levantamiento de pesas de gran tonelaje diario",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los ejercicios isométricos suben bruscamente la presión arterial (postcarga), dañando al corazón."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es la única alternativa definitiva para un paciente en IC terminal (Estado D) refractaria?",
+    "hint": "Considere la opción cuando el músculo cardíaco ya no tiene capacidad de recuperarse con medicamentos.",
+    "options": [
+      {
+        "text": "A) Instalación de un marcapasos de una cámara",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El marcapasos regula el ritmo eléctrico, pero no soluciona la falla de la fuerza muscular."
+      },
+      {
+        "text": "B) Reparación quirúrgica de la válvula tricúspide",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La tricúspide es solo un detalle; el problema en etapa D es la falla global biventricular."
+      },
+      {
+        "text": "C) Trasplante Cardíaco ortotópico de donante",
+        "isCorrect": true,
+        "explanation": "Correcta: Es la meta final curativa para pacientes cuya calidad de vida es nula bajo tratamiento médico máximo."
+      },
+      {
+        "text": "D) Cierre percutáneo del foramen oval permeable",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El FOP es irrelevante en una etapa terminal de miocardiopatía o falla estructural compleja."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En un recién nacido con asfixia perinatal severa (HIE), la ecocardiografía muestra disfunción del ventrículo izquierdo por isquemia miocárdica transitoria. ¿Cuál es el pilar de su manejo hemodinámico inicial?",
+    "hint": "Un corazón isquémico y aturdido pierde su elasticidad y es incapaz de manejar líquidos adicionales.",
+    "options": [
+      {
+        "text": "A) Evitar la sobrecarga agresiva de volumen y priorizar el uso de inótropos",
+        "isCorrect": true,
+        "explanation": "Correcta: Las guías de neonatología (Tisné) indican que la disfunción post-asfixia debe manejarse con restricción hídrica e inótropos (ej. dobutamina)."
+      },
+      {
+        "text": "B) Administrar bolos repetidos de suero fisiológico a 20 ml/kg de peso vivo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La expansión agresiva de volumen en un ventrículo rígido precipita un edema agudo de pulmón."
+      },
+      {
+        "text": "C) Iniciar de inmediato la infusión de vasodilatadores arteriales sistémicos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los vasodilatadores agravarían la hipotensión propia del shock cardiogénico isquémico."
+      },
+      {
+        "text": "D) Indicar el cierre farmacológico urgente del conducto arterioso permeable",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El ductus puede ser necesario temporalmente para mantener el gasto sistémico si el ventrículo izquierdo falla."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Un paciente pediátrico con Distrofia Muscular de Duchenne (DMD) asintomático cardiovascularmente presenta una FEVI del 42% en su ecocardiograma de control. Según las guías (HCSBA), ¿cuál es la conducta a seguir?",
+    "hint": "Esta patología neuromuscular destruye el músculo cardíaco lenta e irreversiblemente, requiriendo cardioprotección temprana.",
+    "options": [
+      {
+        "text": "A) Observación clínica estricta bimensual hasta la aparición de síntomas",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Esperar a que haya síntomas de IC congestiva empeora drásticamente el pronóstico a largo plazo."
+      },
+      {
+        "text": "B) Iniciar profilaxis con betabloqueadores e inhibidores de la convertasa",
+        "isCorrect": true,
+        "explanation": "Correcta: Existe evidencia de que la terapia combinada (BB + IECAs) mejora la sobrevida en DMD con FEVI <45%, incluso sin síntomas congestivos."
+      },
+      {
+        "text": "C) Indicar reemplazo valvular profiláctico por el altísimo riesgo de falla",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La DMD causa una miocardiopatía dilatada generalizada, no una valvulopatía aislada operable."
+      },
+      {
+        "text": "D) Suspender toda la terapia física para evitar la fatiga miocárdica aguda",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La inmovilidad empeora la atrofia del músculo esquelético, no siendo una medida cardiológica útil."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "RN con letargia e hipoglicemia hipocetósica severa que debuta con arritmias y compromiso miocárdico. Según las guías neonatales, ¿cuál es el grupo de Errores Innatos del Metabolismo (ECM) más probable?",
+    "hint": "El corazón en ayunas se alimenta principalmente de lípidos. Si no puede oxidarlos, falla la energía y no se producen cuerpos cetónicos.",
+    "options": [
+      {
+        "text": "A) Defectos de la beta-oxidación de los ácidos grasos",
+        "isCorrect": true,
+        "explanation": "Correcta: Los defectos de beta-oxidación (ej. MCADD) causan hipoglicemia sin cetonas, miocardiopatía y arritmias al no poder usar grasas como energía."
+      },
+      {
+        "text": "B) Galactosemia clásica por déficit de la enzima GALT",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La galactosemia daña el hígado (ictericia/coagulopatía) y causa cataratas, no primariamente cardiomiopatía."
+      },
+      {
+        "text": "C) Enfermedad de Niemann-Pick con infiltración masiva",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es una enfermedad de depósito lisosomal con afectación neurológica y hepatoesplénica, rara vez debutando con arritmias agudas."
+      },
+      {
+        "text": "D) Intolerancia hereditaria a la fructosa no diagnosticada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Causa hipoglicemia y daño hepático grave tras la ingesta de fruta, pero no miocardiopatía primaria."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Un recién nacido presenta hipotonía profunda, macroglosia y una cardiomegalia masiva por miocardiopatía hipertrófica severa. ¿Qué patología de depósito lisosomal debe sospecharse?",
+    "hint": "El músculo cardíaco se engruesa masivamente debido a la acumulación de glucógeno dentro de los lisosomas musculares.",
+    "options": [
+      {
+        "text": "A) Glucogenosis tipo II (Enfermedad de Pompe infantil)",
+        "isCorrect": true,
+        "explanation": "Correcta: La enfermedad de Pompe es el prototipo de miocardiopatía hipertrófica por depósito en lactantes, asociada a hipotonía profunda (\"floppy infant\")."
+      },
+      {
+        "text": "B) Deficiencia de alfa-1-antitripsina de inicio precoz",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Afecta primariamente al hígado (colestasis) y pulmones (enfisema), no al corazón."
+      },
+      {
+        "text": "C) Síndrome de Zellweger por alteración peroxisomal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Da dismorfias faciales, convulsiones y daño hepático, pero la miocardiopatía no es el rasgo cardinal."
+      },
+      {
+        "text": "D) Síndrome de Smith-Lemli-Opitz por defecto lipídico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es un defecto del colesterol que da dismorfias, microcefalia y sindactilia, no cardiomegalia masiva."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "El manejo postoperatorio en UCI de un lactante sometido a cirugía cardiovascular compleja requiere un control hemodinámico estricto. ¿Qué estrategia hídrica es mandatoria según los manuales de la especialidad?",
+    "hint": "El edema post-circulación extracorpórea empeora el pronóstico y el intercambio gaseoso pulmonar.",
+    "options": [
+      {
+        "text": "A) Balance hídrico francamente positivo para asegurar un buen gasto",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Un balance positivo sobrecarga al miocardio aturdido y genera congestión orgánica."
+      },
+      {
+        "text": "B) Restricción hídrica, balance negativo y uso de diuréticos precoces",
+        "isCorrect": true,
+        "explanation": "Correcta: La sobrecarga hídrica aumenta la mortalidad. Se busca un balance negativo temprano mediante restricción y diuréticos para optimizar la función de bomba."
+      },
+      {
+        "text": "C) Aporte liberal de volumen con uso de soluciones hipotónicas al 5%",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Soluciones hipotónicas causarían edema intracelular e hiponatremia letal en un estado inflamatorio sistémico."
+      },
+      {
+        "text": "D) Uso exclusivo de coloides para mantener la presión oncótica alta",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los coloides no están exentos de riesgo y no reemplazan la necesidad fundamental de restricción de volumen."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Madre con Lupus Eritematoso Sistémico (Anticuerpos Anti-Ro positivos). ¿Qué alteración cardiológica fetal/neonatal puede causar bradicardia severa intrauterina y requerir marcapasos e inótropos al nacer?",
+    "hint": "Los anticuerpos maternos cruzan la placenta y destruyen de forma fibrótica el tejido de conducción eléctrica entre aurículas y ventrículos.",
+    "options": [
+      {
+        "text": "A) Hipotiroidismo congénito primario transitorio mediado por IgE",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Aunque puede haber paso de anticuerpos tiroideos, no producen bradicardia fetal extrema (ej. 50 lpm)."
+      },
+      {
+        "text": "B) Bloqueo auriculoventricular completo congénito de tipo irreversible",
+        "isCorrect": true,
+        "explanation": "Correcta: El paso de autoanticuerpos causa inflamación y fibrosis irreversible del nodo AV, siendo la causa clásica de bloqueo AV completo en RN estructuralmente normales."
+      },
+      {
+        "text": "C) Disfunción del nodo sinusal de carácter puramente transitorio",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El daño autoinmune sobre el sistema de conducción es permanente, requiriendo marcapasos definitivo."
+      },
+      {
+        "text": "D) Síndrome de QT largo congénito variedad tipo 1 o variedad tipo 2",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El QT largo es genético (canalopatía), no es secundario a enfermedades reumatológicas maternas."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Neonato cianótico extremo presenta en la radiografía un edema pulmonar masivo difuso (\"corazón blanco\") y silueta cardíaca de tamaño normal. Clínicamente en shock. ¿Cuál es el diagnóstico cardiológico más probable?",
+    "hint": "La sangre de los pulmones no puede llegar al corazón izquierdo porque las venas que la transportan están estranguladas al cruzar el diafragma.",
+    "options": [
+      {
+        "text": "A) Drenaje venoso anómalo pulmonar total variedad infracardíaca obstruida",
+        "isCorrect": true,
+        "explanation": "Correcta: Es una emergencia letal. Las venas pulmonares bajan hacia el hígado y se obstruyen, causando congestión venosa pulmonar masiva sin cardiomegalia."
+      },
+      {
+        "text": "B) Enfermedad de membrana hialina por déficit severo de surfactante",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es un patrón pulmonar similar, pero se presenta primariamente en prematuros, no es una cardiopatía cianótica congénita."
+      },
+      {
+        "text": "C) Tetralogía de Fallot clásica en variante fenotípica acianótica o rosada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Fallot tiene pulmones \"negros\" (hipoflujo) y corazón en zueco, lo opuesto a este caso."
+      },
+      {
+        "text": "D) Anomalía de Ebstein de la válvula tricúspide con reflujo muy severo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Ebstein presenta una cardiomegalia masiva e hipoflujo pulmonar."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué complicación gastrointestinal crónica es altamente prevalente en lactantes con cardiopatías cianóticas o bajo gasto crónico debido a la hipoxia sistémica mantenida?",
+    "hint": "La falta de oxígeno constante en las arterias mesentéricas predispone a daño de la mucosa intestinal.",
+    "options": [
+      {
+        "text": "A) Desarrollo de hipertrofia pilórica por aumento del trabajo estomacal",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipertrofia de píloro es idiopática o asociada a macrólidos, no a hipoxia."
+      },
+      {
+        "text": "B) Enterocolitis necrotizante de inicio tardío o mala absorción crónica",
+        "isCorrect": true,
+        "explanation": "Correcta: El menor aporte de O2 (consumo esplácnico mantenido en isquemia) altera la mucosa, causando diarreas crónicas, falla de medro y riesgo de enterocolitis."
+      },
+      {
+        "text": "C) Reflujo gastroesofágico severo por hipertonía del esfínter cardial",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El reflujo es frecuente por inmadurez anatómica, pero no causado directamente por isquemia de pared."
+      },
+      {
+        "text": "D) Invaginación intestinal recurrente de predominio cecoapendicular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La invaginación es típica de hiperplasia linfoide post-viral (rotavirus/adenovirus), no de falla cardíaca."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En el control sano (Manual UC), la diferenciación entre un soplo inocente y uno orgánico es vital. ¿Qué hallazgo auscultatorio es considerado invariablemente patológico y obliga a derivación cardiológica?",
+    "hint": "El corazón en llenado (diástole) normalmente es silente; la turbulencia en esta fase siempre indica falla valvular.",
+    "options": [
+      {
+        "text": "A) Soplo sistólico eyectivo suave de grado 2/6 o de menor intensidad",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es la definición clásica de un soplo inocente fisiológico."
+      },
+      {
+        "text": "B) Soplo que disminuye francamente de intensidad al cambiar de postura",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los soplos inocentes (como el de Still o el venoso) típicamente varían con la posición."
+      },
+      {
+        "text": "C) Todo soplo diastólico, pansistólico o que esté asociado a un frémito",
+        "isCorrect": true,
+        "explanation": "Correcta: Cualquier soplo diastólico, continuo, pansistólico, grado >=3/6, o con frémito es patológico hasta demostrar lo contrario."
+      },
+      {
+        "text": "D) Soplo de tonalidad musical audible en el borde esternal izquierdo bajo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El soplo de Still es musical/vibratorio, sistólico, y es la causa más común de soplo inocente pediátrico."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "La guía de enfermedades respiratorias MINSAL enfatiza el diagnóstico diferencial. ¿Qué signo clínico en un lactante apoya fuertemente la sospecha de Insuficiencia Cardíaca frente a una Neumonía aguda pura?",
+    "hint": "Busque evidencias semiológicas del fracaso de las cavidades ventriculares y la congestión venosa sistémica retrógrada.",
+    "options": [
+      {
+        "text": "A) Presencia de taquipnea y retracción intercostal severa de inicio rápido",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Ambos cuadros (pulmonar y cardíaco) presentan gran apremio respiratorio y taquipnea."
+      },
+      {
+        "text": "B) Presencia de hepatomegalia turgente, ruidos apagados y ritmo de galope",
+        "isCorrect": true,
+        "explanation": "Correcta: El ritmo de galope (3R) y la hepatomegalia indican falla de bomba y sobrecarga de volumen, signos ausentes en la neumonía simple."
+      },
+      {
+        "text": "C) Ausencia total de fiebre y tos durante la evolución aguda del cuadro",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las infecciones respiratorias pueden coexistir o desencadenar una crisis de IC, por lo que la tos no descarta IC (ej. \"asma cardíaca\")."
+      },
+      {
+        "text": "D) Saturación de oxígeno constantemente normal al respirar aire ambiente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Un paciente en edema de pulmón cardiogénico tendrá una fuerte caída de la saturación de oxígeno."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "El PIMS (Síndrome Inflamatorio Multisistémico) cursa frecuentemente con disfunción miocárdica (SOCHINF). ¿Qué parámetros de laboratorio confirman objetivamente la injuria aguda directa sobre el músculo cardíaco?",
+    "hint": "Se necesitan las mismas enzimas que se piden en la urgencia para evaluar un infarto agudo al miocardio en un adulto.",
+    "options": [
+      {
+        "text": "A) Proteína C Reactiva por sobre 100 mg/L asociada a una Ferritina baja",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La PCR alta confirma la inflamación generalizada, pero no especifica compromiso cardíaco orgánico."
+      },
+      {
+        "text": "B) Elevación marcada de Troponinas de alta sensibilidad y del Pro-BNP",
+        "isCorrect": true,
+        "explanation": "Correcta: El PIMS daña directamente las fibras cardíacas (elevando Troponinas) y dilata el ventrículo (elevando el Pro-BNP)."
+      },
+      {
+        "text": "C) Trombocitopenia severa progresiva con valores de Dímero D normales",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Dímero D suele estar muy elevado (>1500) por coagulopatía inflamatoria, no normal."
+      },
+      {
+        "text": "D) Leucocitosis con desviación izquierda severa y procalcitonina ausente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Son marcadores de sobreinfección bacteriana, no determinan necrosis o falla contráctil miocárdica."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Según el texto de Nelson, en la evaluación de un niño con dolor torácico, ¿qué marcador bioquímico posee mayor especificidad tisular para confirmar daño e injuria miocárdica frente a otras causas musculares?",
+    "hint": "Es una proteína estructural que solo existe en abundancia dentro del sarcómero del músculo estriado cardíaco.",
+    "options": [
+      {
+        "text": "A) Fracción MB de la enzima Creatina quinasa (CK-MB) de forma seriada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La CK-MB es menos específica en pediatría porque puede elevarse ante daño de músculo esquelético o inflamación general."
+      },
+      {
+        "text": "B) Niveles de Troponina T de alta sensibilidad (hs-TnT) en plasma",
+        "isCorrect": true,
+        "explanation": "Correcta: La Troponina T tiene una alta especificidad miocárdica y es el estándar actual. Se eleva rápidamente en isquemia o miocarditis."
+      },
+      {
+        "text": "C) Transaminasas hepáticas (AST/ALT) presentes en el perfil bioquímico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Se elevan en la congestión hepática o daño muscular generalizado, siendo inespecíficas para el corazón."
+      },
+      {
+        "text": "D) Valores de Lactato deshidrogenasa (LDH) y de ácido úrico sistémicos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Son marcadores de lisis celular general (ej. hemólisis, síndrome de lisis tumoral), sin especificidad cardíaca."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En el estudio ecocardiográfico de un paciente con sospecha de Enfermedad de Kawasaki o PIMS, la evaluación de las arterias coronarias se clasifica utilizando:",
+    "hint": "En pediatría, las estructuras vasculares varían enormemente según la talla y el peso del niño; una sola medida en milímetros no es útil para todas las edades.",
+    "options": [
+      {
+        "text": "A) La medición absoluta del diámetro luminal en milímetros exactos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Una coronaria de 3 mm puede ser normal en un adolescente, pero aneurismática en un lactante pequeño."
+      },
+      {
+        "text": "B) El cálculo del parámetro Z-score ajustado al tamaño corporal",
+        "isCorrect": true,
+        "explanation": "Correcta: El Z-score estandariza el diámetro de la coronaria según la superficie corporal del niño. Un Z-score >2.5 indica dilatación aneurismática."
+      },
+      {
+        "text": "C) La comparación porcentual respecto al tamaño de la arteria aorta",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La aorta también puede afectarse o variar, por lo que no sirve como referencia anatómica fija intracorporal."
+      },
+      {
+        "text": "D) La evaluación exclusiva de la velocidad de flujo mediante Doppler",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El problema anatómico principal del Kawasaki es la dilatación de la pared (aneurisma), no un mero cambio de velocidad."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Durante el tamizaje de un recién nacido, el diagnóstico de Coartación de Aorta se sospecha fuertemente al encontrar el siguiente gradiente de presiones en el examen físico:",
+    "hint": "La coartación es una \"cuerda que aprieta\" la aorta descendente. Piense a qué parte del cuerpo le costará más recibir la presión del corazón.",
+    "options": [
+      {
+        "text": "A) Extremidades inferiores con una PA sistólica significativamente menor que en los brazos",
+        "isCorrect": true,
+        "explanation": "Correcta: La obstrucción en el arco aórtico impide que la onda de presión baje a las piernas, generando HTA en los brazos y pulsos débiles/hipotensión femoral."
+      },
+      {
+        "text": "B) Extremidades inferiores con una PA sistólica 20 mmHg mayor que en las extremidades superiores",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Fisiológicamente, la presión en las piernas es ligeramente MAYOR (o igual) que en los brazos en niños sanos."
+      },
+      {
+        "text": "C) Presión arterial media idéntica y sin variaciones en la evaluación de las cuatro extremidades",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Si bien en niños sanos son similares, la igualdad no levanta sospecha de coartación."
+      },
+      {
+        "text": "D) Presión diastólica completamente indetectable en las extremidades superiores o brazos",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La presión en los brazos suele estar muy elevada en sístole y diástole (HTA secundaria a la obstrucción distal)."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Paciente escolar consulta por Síncope. Según el Manual UC, ¿qué \"bandera roja\" en la anamnesis obliga a descartar rápidamente una etiología cardiogénica grave o arritmia letal?",
+    "hint": "El corazón no es capaz de aumentar su capacidad de bombeo justo cuando los músculos más le exigen sangre y oxígeno.",
+    "options": [
+      {
+        "text": "A) El episodio de síncope ocurrió súbitamente en medio del máximo esfuerzo físico",
+        "isCorrect": true,
+        "explanation": "Correcta: El síncope DURANTE (no después de) el ejercicio es el síntoma cardinal de obstrucción del tracto de salida (ej. estenosis aórtica) o arritmias ventriculares (canalopatías)."
+      },
+      {
+        "text": "B) El evento estuvo precedido por pródromos largos de mareo y visión borrosa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los pródromos largos son la marca clínica del síncope vasovagal benigno neurocardiogénico."
+      },
+      {
+        "text": "C) La recuperación total de la conciencia ocurrió rápidamente al adoptar decúbito",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Todos los síncopes vasovagales recuperan rápidamente en decúbito al restaurarse el flujo cerebral."
+      },
+      {
+        "text": "D) El episodio sucedió tras estar prolongadamente de pie bajo el sol en el colegio",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La bipedestación prolongada con calor causa venodilatación y síncope vagal clásico, no estructural."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Cuál es el defecto cardíaco congénito más frecuentemente asociado al Síndrome de Down, que explica el desarrollo precoz de falla cardíaca entre el primer y segundo mes de vida?",
+    "hint": "Es una falla masiva en la unión en forma de cruz del centro del corazón, donde atrios y ventrículos se comunican.",
+    "options": [
+      {
+        "text": "A) Defecto completo del tabique auriculoventricular (Canal AV)",
+        "isCorrect": true,
+        "explanation": "Correcta: El defecto de los cojinetes endocárdicos (Canal AV) es la anomalía estelar del Down (50% de sus cardiopatías), causando gran shunt mixto y falla cardíaca precoz."
+      },
+      {
+        "text": "B) Coartación de la aorta de tipo preductal de grado severo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La coartación aórtica es la lesión clásica del Síndrome de Turner (45,X0), no del Down."
+      },
+      {
+        "text": "C) Transposición de las grandes arterias con septum intacto",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La TGA es más frecuente en hijos de madres diabéticas, y suele ser un defecto esporádico aislado."
+      },
+      {
+        "text": "D) Anomalía de Ebstein severa a nivel de la válvula tricúspide",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La anomalía de Ebstein se asocia a la exposición teratogénica por consumo de Litio durante el embarazo."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Escolar de 10 años, con antecedente de faringitis no tratada. Presenta corea, nódulos subcutáneos y se ausculta un soplo pansistólico nuevo irradiado a la axila. ¿Qué alteración causa la Insuficiencia Cardíaca aguda en este caso?",
+    "hint": "La fiebre reumática inflama el tejido valvular del corazón izquierdo, haciendo que la válvula \"no cierre bien\" durante la sístole.",
+    "options": [
+      {
+        "text": "A) Insuficiencia aguda de la válvula mitral por carditis reumática",
+        "isCorrect": true,
+        "explanation": "Correcta: La carditis por Fiebre Reumática causa característicamente regurgitación mitral aguda (soplo pansistólico apical), llevando a sobrecarga de volumen y falla aguda del VI."
+      },
+      {
+        "text": "B) Estenosis de la válvula aórtica por calcificación degenerativa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La estenosis aórtica reumática es una secuela fibrótica crónica que demora años o décadas en desarrollarse."
+      },
+      {
+        "text": "C) Comunicación interventricular adquirida por ruptura isquémica",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La ruptura del tabique es una complicación rara del infarto agudo al miocardio en adultos."
+      },
+      {
+        "text": "D) Prolapso de la válvula tricúspide con hipertensión pulmonar",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las lesiones reumáticas afectan primariamente a las válvulas izquierdas (mitral 70%, aórtica 20%) que manejan altas presiones."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Neonato cianótico extremo de 2 hours de vida. El EKG muestra un patrón inusual para la edad: desviación del eje eléctrico a la izquierda e Hipertrofia Ventricular Izquierda (HVI). ¿Cuál es la cardiopatía más probable?",
+    "hint": "Normalmente un neonato tiene dominancia fisiológica del ventrículo derecho. Si domina el izquierdo, es porque el derecho no se formó o no recibe sangre.",
+    "options": [
+      {
+        "text": "A) Tetralogía de Fallot clásica con atresia de válvula pulmonar",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Fallot causa hipertrofia del ventrículo derecho (eje a la derecha) por la estenosis pulmonar."
+      },
+      {
+        "text": "B) Transposición de Grandes Arterias simple de tabique íntegro",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La TGA suele tener un EKG de neonato normal (eje derecho fisiológico conservado al nacer)."
+      },
+      {
+        "text": "C) Atresia Tricuspídea con hipoplasia severa del ventrículo derecho",
+        "isCorrect": true,
+        "explanation": "Correcta: En la Atresia Tricuspídea, la sangre no entra al ventrículo derecho. Este se atrofia, por lo que el ventrículo izquierdo maneja todo el volumen, dominando completamente el EKG."
+      },
+      {
+        "text": "D) Drenaje Venoso Anómalo Pulmonar Total de tipo obstructivo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El hiperflujo en cavidades derechas del DVAPT causa desviación del eje aún más a la derecha."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En la evaluación de la Tetralogía de Fallot, un paciente puede ser \"rosado\" (acianótico) o presentar una cianosis profunda con crisis de hipoxia. ¿De qué depende fisiopatológicamente esta gran diferencia clínica?",
+    "hint": "Lo que determina cuánta sangre desoxigenada se \"salta\" el pulmón y se va al cuerpo es el nivel de estrechez del tubo que la debería llevar a oxigenarse.",
+    "options": [
+      {
+        "text": "A) Del tamaño exacto del defecto a nivel del tabique interventricular",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La CIV en el Fallot es siempre grande y no restrictiva (iguala presiones)."
+      },
+      {
+        "text": "B) Del grado de estenosis dinámica de la vía de salida del ventrículo derecho",
+        "isCorrect": true,
+        "explanation": "Correcta: Si la obstrucción infundibular pulmonar es severa, la sangre venosa se ve forzada a cruzar la CIV hacia la aorta (shunt D-I), causando gran cianosis. Si es leve, la sangre fluye al pulmón normalmente (Pink Fallot)."
+      },
+      {
+        "text": "C) Del grado de hipertrofia preexistente del ventrículo izquierdo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El ventrículo izquierdo en el Fallot no sufre sobrecargas primarias que generen hipertrofia."
+      },
+      {
+        "text": "D) Del nivel anatómico de dextroposición de la raíz de la aorta",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El cabalgamiento de la aorta es un hallazgo estructural que no varía dinámicamente."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "El uso crónico de qué agente quimioterapéutico en el tratamiento de leucemias agudas (GPC Leucemia) es el factor de riesgo primordial para el desarrollo de cardiomiopatía dilatada e IC tardía?",
+    "hint": "Este medicamento rojo es infame por causar daño oxidativo directo y apoptosis en el tejido miocárdico proporcional a la cantidad total recibida en la vida del paciente.",
+    "options": [
+      {
+        "text": "A) Inyección de Metotrexato intratecal para la profilaxis cerebral",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El metotrexato daña las mucosas y el hígado, o causa neurotoxicidad, pero no daña primariamente el miocardio."
+      },
+      {
+        "text": "B) Uso de Antraciclinas (Doxorubicina) con toxicidad acumulativa",
+        "isCorrect": true,
+        "explanation": "Correcta: Las antraciclinas son cardiotóxicas irreversibles; el riesgo de IC depende de la dosis acumulada de por vida (>300 mg/m2 es altísimo riesgo)."
+      },
+      {
+        "text": "C) Administración de Corticoides (Prednisona) a muy altas dosis",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los corticoides pueden retener líquido o subir la presión, pero no generan una miocardiopatía dilatada fibrótica destructiva."
+      },
+      {
+        "text": "D) Aplicación de Radioterapia craneal como fase de consolidación",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La radioterapia craneal causa déficit endocrinos o neurocognitivos. (La RT mediastínica sí aumenta el riesgo cardiovascular, pero la opción dice craneal)."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En un paciente pediátrico con Cor Pulmonale severo secundario a Displasia Broncopulmonar (DBP), ¿cuál es el mecanismo fisiopatológico primario que agota la función ventricular?",
+    "hint": "La hipoxia alveolar crónica obliga a los pequeños capilares del pulmón a contraerse de forma permanente, creando un \"muro\" de alta presión.",
+    "options": [
+      {
+        "text": "A) Vasodilatación sistémica masiva con hiperflujo compensatorio",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No hay vasodilatación sistémica; el problema central está en el circuito derecho."
+      },
+      {
+        "text": "B) Aumento de la resistencia vascular y presión arterial pulmonar",
+        "isCorrect": true,
+        "explanation": "Correcta: La destrucción de capilares y la vasoconstricción hipóxica crónica de la DBP causan Hipertensión Pulmonar, que actúa como una pared infranqueable (alta postcarga) para el ventrículo derecho."
+      },
+      {
+        "text": "C) Estenosis fibrótica primaria de la válvula pulmonar sigmoidea",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Cor Pulmonale es secundario a enfermedad pulmonar vascular o del parénquima, no a una malformación valvular anatómica."
+      },
+      {
+        "text": "D) Hipertrofia del ventrículo izquierdo por sobrecarga de volumen",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El ventrículo afectado exclusiva y primariamente en el Cor Pulmonale es el derecho, no el izquierdo."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Adolescente previamente sano cursa con cuadro de fiebre, fatiga y taquicardia desproporcionada de 160 lpm en reposo. Se auscultan ruidos cardíacos muy \"apagados\". ¿Cuál es el diagnóstico de sospecha en este contexto (Nelson)?",
+    "hint": "La inflamación y el derrame líquido alrededor del corazón impiden la buena contracción y amortiguan la acústica de los latidos en el estetoscopio.",
+    "options": [
+      {
+        "text": "A) Sepsis de foco urinario no diagnosticada",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La sepsis daría taquicardia pero con llenado capilar rápido (\"caliente\") inicial y ruidos normofonéticos."
+      },
+      {
+        "text": "B) Pericarditis aguda o Miocarditis aguda",
+        "isCorrect": true,
+        "explanation": "Correcta: Un pródromo viral seguido de signos de falla de bomba (taquicardia extrema) y ruidos velados (por inflamación o derrame) es la triada clínica de la miocarditis/pericarditis viral."
+      },
+      {
+        "text": "C) Endocarditis infecciosa subaguda latente",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Cursa con fiebres prolongadas, soplos de novo y émbolos (petequias), no clásicamente con ruidos cardíacos apagados de inicio fulminante."
+      },
+      {
+        "text": "D) Tormenta tiroidea por hipertiroidismo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Daría taquicardia extrema pero con ruidos hiperdinámicos fuertes, exoftalmos y bocio."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Neonato presenta Hipertensión Pulmonar Persistente (HPPN) refractaria a oxígeno y sedación. ¿Qué fármaco inhalatorio de rescate actúa como un vasodilatador pulmonar potente y selectivo?",
+    "hint": "Es un gas que actúa directamente sobre el endotelio de los capilares pulmonares causando relajación del músculo liso, sin afectar la presión del resto del cuerpo.",
+    "options": [
+      {
+        "text": "A) Salbutamol en nebulización continua a muy altas dosis",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El salbutamol dilata la vía aérea (bronquios), no los vasos sanguíneos pulmonares de forma significativa."
+      },
+      {
+        "text": "B) Óxido Nítrico inhalado a través de la vía ventilatoria",
+        "isCorrect": true,
+        "explanation": "Correcta: El Óxido Nítrico (NOi) es el tratamiento de elección para la HPPN grave, relajando selectivamente la vasculatura pulmonar y mejorando la oxigenación en horas."
+      },
+      {
+        "text": "C) Heliox (mezcla de helio y oxígeno) para el flujo laminar",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Heliox disminuye el esfuerzo respiratorio en obstrucciones de la vía aérea (ej. asma/crup grave), no trata la HPPN."
+      },
+      {
+        "text": "D) Adrenalina racémica nebulizada cada cuatro horas de rutina",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es un vasoconstrictor tópico usado en el crup laríngeo para disminuir el edema de las cuerdas vocales."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "¿Qué alteración es el sello distintivo y factor diferencial patogénico principal entre el Shock Distributivo (Séptico) y el Shock Cardiogénico según Nelson?",
+    "hint": "En la falla de bomba, los \"tubos\" se cierran para salvar la presión. En una infección masiva, los \"tubos\" se abren completamente dejando caer la presión.",
+    "options": [
+      {
+        "text": "A) El shock cardiogénico cursa con vasodilatación periférica severa",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Es lo contrario; el paciente cardiópata está frío, moteado y vasoconstriñido al máximo."
+      },
+      {
+        "text": "B) El shock distributivo presenta resistencia vascular sistémica baja",
+        "isCorrect": true,
+        "explanation": "Correcta: La vasodilatación masiva (baja resistencia) define al shock distributivo/séptico caliente. En contraste, el cardiogénico presenta altísima resistencia periférica compensatoria (vasoconstricción/piel fría)."
+      },
+      {
+        "text": "C) El shock cardiogénico cursa siempre con una bradicardia extrema",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Ambos shocks cursan con taquicardia sinusal intensa compensatoria (salvo etapas pre-mortem)."
+      },
+      {
+        "text": "D) El shock distributivo mejora invariablemente con prostaglandinas E1",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Las PGE1 abren el ductus arterioso, usadas en shock obstructivo/cardiogénico ductus dependiente neonatal, no en sepsis."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Según los algoritmos de reanimación (Manual UC), el Paro Cardíaco en pediatría rara vez es primariamente arritmogénico. ¿Cuál es el gatillante universal y principal causante de la bradicardia y asistolia en niños?",
+    "hint": "\"Los niños no mueren del corazón, mueren de los pulmones\". La falta de un elemento vital detiene progresivamente al músculo.",
+    "options": [
+      {
+        "text": "A) Infarto agudo al miocardio por enfermedad coronaria precoz",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La ateroesclerosis no es un problema pediátrico agudo en emergencias."
+      },
+      {
+        "text": "B) Fibrilación ventricular espontánea secundaria a canalopatías",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La muerte súbita arritmogénica (fibrilación) es posible (Brugada, QT largo), pero es porcentualmente muy infrecuente comparada con la asfixia."
+      },
+      {
+        "text": "C) Insuficiencia respiratoria aguda conducente a hipoxia severa",
+        "isCorrect": true,
+        "explanation": "Correcta: Más del 80% de los paros pediátricos son secundarios a asfixia/hipoxia (falla respiratoria progresiva). Por eso la vía aérea y ventilación son el paso más crucial del RCP infantil."
+      },
+      {
+        "text": "D) Hipoglicemia severa asintomática de origen hiperinsulinémico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Causa daño neurológico y convulsiones, pero rara vez PCR inmediato sin un pródromo respiratorio previo."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Al atender a un niño inconsciente que no respira y en el cual NO se logra palpar el pulso luego de 10 segundos de evaluación. ¿Cuál es la indicación inmediata según PALS?",
+    "hint": "La pérdida de tiempo en buscar un latido dudoso reduce drásticamente las posibilidades de sobrevida neurológica del paciente.",
+    "options": [
+      {
+        "text": "A) Esperar 30 segundos más para auscultar los latidos apicales",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Retrasar el masaje condena al cerebro a isquemia irreversible."
+      },
+      {
+        "text": "B) Administrar un bolo rápido de bicarbonato de sodio preventivo",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El bicarbonato no está indicado de rutina en RCP a menos que haya acidosis metabólica previa confirmada o hiperkalemia."
+      },
+      {
+        "text": "C) Iniciar inmediatamente las compresiones torácicas y ventilación",
+        "isCorrect": true,
+        "explanation": "Correcta: Si no hay pulso definido en 10 segundos, se asume paro y se inician compresiones (15:2 si hay dos reanimadores, 30:2 si hay uno)."
+      },
+      {
+        "text": "D) Tomar un electrocardiograma de 12 derivadas antes de actuar",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El monitor/desfibrilador se conecta en paralelo MIENTRAS se masajea, no interrumpe el inicio de la RCP."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En el contexto de RCP avanzada en un lactante. Se pesquisa un ritmo eléctrico en el monitor pero al tocar al paciente no hay pulsos detectables. Esta \"Actividad Eléctrica Sin Pulso\" (AESP) se maneja prioritariamente con:",
+    "hint": "La electricidad del corazón funciona, pero el músculo no puede contraerse, o bien hay algo físico (como sangre, aire o tóxicos) bloqueando el flujo. Hay que pensar en el origen.",
+    "options": [
+      {
+        "text": "A) Desfibrilación eléctrica inmediata con 2 Joules por kilo de peso",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Solo la Fibrilación Ventricular (FV) y la Taquicardia Ventricular Sin Pulso (TVSP) reciben descargas."
+      },
+      {
+        "text": "B) Cardioversión sincronizada buscando coincidir con el QRS",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La cardioversión es para taquiarritmias inestables CON pulso presente."
+      },
+      {
+        "text": "C) Búsqueda agresiva de causas reversibles (Las 4H y las 4T) y RCP",
+        "isCorrect": true,
+        "explanation": "Correcta: La AESP no se choca eléctricamente. Se sigue con Adrenalina/RCP y el médico debe diagnosticar y tratar la causa de base (Hipoxia, Hipovolemia, Neumotórax a Tensión, Taponamiento, etc)."
+      },
+      {
+        "text": "D) Administración masiva de volumen asumiendo shock hipovolémico",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La hipovolemia es solo una (la 1ra H) de las causas. Dar volumen sin diagnosticar un taponamiento pericárdico (Tensión) agravaría el cuadro."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "Durante la reanimación neonatal inmediata en la sala de partos (Libro Reanimación Neonatal), se constata frecuencia cardíaca de 50 lpm tras 30 segundos de ventilación a presión positiva efectiva. ¿Cuál es el siguiente paso mandatario?",
+    "hint": "Si el pulmón ya está bien ventilado, pero el corazón late tan lento que no puede suplir la necesidad del cerebro, se requiere soporte mecánico circulatorio externo.",
+    "options": [
+      {
+        "text": "A) Iniciar compresiones torácicas coordinadas con la ventilación",
+        "isCorrect": true,
+        "explanation": "Correcta: Si la FC es < 60 lpm pese a asegurar una ventilación adecuada por 30 segundos, se debe iniciar el masaje cardíaco (ratio 3:1 en neonatos)."
+      },
+      {
+        "text": "B) Administrar dosis altas de adrenalina a través del tubo venoso",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La medicación (adrenalina) es el paso posterior si la FC sigue < 60 lpm tras al menos un ciclo completo de masaje cardíaco coordinado con VPP."
+      },
+      {
+        "text": "C) Aplicar estimulación táctil vigorosa frotando la espalda del bebé",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La estimulación es el primer paso en los primeros segundos de vida, no se usa cuando el paciente ya está en bradicardia profunda refractaria a la ventilación."
+      },
+      {
+        "text": "D) Colocar de inmediato un catéter arterial umbilical de medición",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Instalar líneas interrumpe las maniobras de soporte vital que deben primar. El catéter umbilical venoso (no arterial) se usa luego para drogas."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En la RCP pediátrica por Fibrilación Ventricular, tras el fracaso de los dos primeros choques eléctricos y la administración de Adrenalina, está indicado el uso de un fármaco Antiarrítmico endovenoso. ¿Cuál es la primera opción actual en la dosis adecuada?",
+    "hint": "Se busca un medicamento que bloquee intensamente los canales de potasio y sodio para estabilizar eléctricamente la \"tormenta\" del miocardio.",
+    "options": [
+      {
+        "text": "A) Amiodarona a 5 mg/kg o Lidocaína a 1 mg/kg",
+        "isCorrect": true,
+        "explanation": "Correcta: La Amiodarona (y lidocaína como alternativa) son los antiarrítmicos recomendados en el paro desfibrilable refractario para aumentar el éxito de la siguiente descarga."
+      },
+      {
+        "text": "B) Adenosina en bolo rápido ultra veloz a 0.1 mg/kg",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La adenosina es el tratamiento para la Taquicardia Supraventricular con el paciente VIVO y estable/inestable, no tiene lugar en el paro cardíaco."
+      },
+      {
+        "text": "C) Sulfato de Magnesio de forma protocolaria a 50 mg/kg",
+        "isCorrect": false,
+        "explanation": "Incorrecta: El Magnesio se usa solo específicamente si el ritmo subyacente diagnosticado es una Torsades de Pointes (QT largo) o hay hipomagnesemia documentada."
+      },
+      {
+        "text": "D) Bicarbonato de sodio a 1 mEq/kg en bolo lento y diluido",
+        "isCorrect": false,
+        "explanation": "Incorrecta: No es un antiarrítmico y no está en los algoritmos estándar como primera línea."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca",
+    "text": "En un lactante que ingresa a Urgencias por un episodio de asfixia por inmersión prolongada y es recuperado post-paro, el manejo neuroprotector y cardiovascular de las siguientes horas debe EVITAR rigurosamente:",
+    "hint": "El cerebro isquémico posparo se inflama rápidamente. ¿Qué factor físico del cuerpo acelera enormemente el daño neurológico y la muerte neuronal post hipoxia?",
+    "options": [
+      {
+        "text": "A) La hipertermia y mantener estrictamente control de temperatura",
+        "isCorrect": true,
+        "explanation": "Correcta: La hipertermia (fiebre) post-paro aumenta dramáticamente la demanda metabólica de un cerebro ya isquémico y dañado, empeorando severamente la morbilidad y mortalidad, y debe combatirse agresivamente."
+      },
+      {
+        "text": "B) La mantención de normoxia en los parámetros ventilatorios",
+        "isCorrect": false,
+        "explanation": "Incorrecta: La normoxia es la meta. Se debe evitar tanto la hipoxia como la hiperoxia (O2 excesivo genera radicales libres neurotóxicos)."
+      },
+      {
+        "text": "C) El uso de soluciones isotónicas en el manejo endovenoso general",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Los líquidos isotónicos (ej. Suero Fisiológico) son adecuados; los que deben evitarse siempre son los hipotónicos por el riesgo de edema cerebral."
+      },
+      {
+        "text": "D) La elevación de la cabecera de la cama en un ángulo de 30 grados",
+        "isCorrect": false,
+        "explanation": "Incorrecta: Elevar la cabeza es una medida estándar básica para favorecer el retorno venoso yugular y disminuir la presión intracraneal y el edema post asfixia."
+      }
+    ]
+  }
+]
