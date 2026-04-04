@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MedMaster Pro - Tu Simulador</title>
+    <title>MedMaster Pro - Analítica de Estudio</title>
     <style>
         :root {
             --primary: #4a90e2; --bg: #f5f7fa; --card: #ffffff;
@@ -20,44 +20,47 @@
         h1 { text-align: center; color: var(--primary); margin-bottom: 10px; }
         .status-bar { text-align: center; font-size: 12px; color: var(--secondary); margin-bottom: 20px; }
 
+        /* Grid */
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; margin-top: 15px; }
         .card { 
             background: var(--card); padding: 20px 10px; border-radius: 16px; text-align: center;
             cursor: pointer; border: 2px solid transparent; transition: 0.2s;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05); font-weight: 600; font-size: 14px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05); font-weight: 600;
         }
         .card:hover { transform: scale(1.02); border-color: var(--primary); }
         .card.selected { border-color: var(--accent); background: #f0fff4; }
 
+        /* Setup */
         .setup-box { background: white; padding: 20px; border-radius: 16px; margin-top: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-        .topic-item { display: flex; align-items: center; gap: 10px; padding: 10px 0; border-bottom: 1px solid #eee; }
+        .topic-item { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid #eee; }
         
+        /* Botones */
         .btn { 
-            display: block; width: 100%; padding: 16px; margin-top: 15px; border: none;
+            display: block; width: 100%; padding: 16px; margin-top: 12px; border: none;
             border-radius: 12px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.2s;
             text-align: center; text-decoration: none;
         }
         .btn-primary { background: var(--accent); color: white; }
         .btn-secondary { background: white; color: var(--secondary); border: 1px solid var(--secondary); }
-        .btn-back { background: none; color: var(--secondary); border: 1px solid var(--secondary); margin-top: 20px; }
+        .btn-home { background: #34495e; color: white; margin-bottom: 20px; }
 
         /* Quiz UI */
-        .q-header { display: flex; justify-content: space-between; font-size: 12px; color: var(--secondary); margin-bottom: 15px; }
+        .quiz-nav { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
+        .score-live { font-weight: bold; font-size: 14px; }
         .option-btn { 
-            display: block; width: 100%; padding: 16px; margin: 12px 0; border: 2px solid #edf2f7;
+            display: block; width: 100%; padding: 16px; margin: 10px 0; border: 2px solid #edf2f7;
             border-radius: 12px; background: white; text-align: left; font-size: 15px; cursor: pointer;
-            transition: 0.2s;
         }
-        .option-btn.correct-show { border-color: var(--accent); background: #e6fffa; color: #155724; font-weight: bold; }
+        .option-btn.correct-show { border-color: var(--accent); background: #e6fffa; color: #155724; }
         .option-btn.wrong-show { border-color: var(--error); background: #fff5f5; color: #721c24; }
-        .option-btn.inspecting { box-shadow: 0 0 0 3px var(--primary); }
+        .option-btn.inspecting { border-style: dotted; border-width: 3px; }
 
-        .hint-btn { background: none; border: none; color: #d69e2e; font-weight: bold; cursor: pointer; padding: 5px; margin-bottom: 10px; }
-        .explanation { 
-            margin-top: 15px; padding: 15px; border-radius: 12px; font-size: 14px; 
-            border-left: 5px solid var(--primary); background: var(--highlight); display: none;
-        }
-        .nav-controls { display: flex; gap: 10px; margin-top: 20px; }
+        .explanation { margin-top: 15px; padding: 15px; border-radius: 12px; font-size: 14px; border-left: 5px solid var(--primary); background: var(--highlight); display: none; }
+        
+        /* Resultados */
+        .results-card { background: white; padding: 30px; border-radius: 20px; text-align: center; box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+        .percentage { font-size: 48px; font-weight: 800; color: var(--primary); margin: 10px 0; }
+        .weak-topics { text-align: left; background: #fff5f5; padding: 15px; border-radius: 12px; margin-top: 20px; }
     </style>
 </head>
 <body>
@@ -66,55 +69,70 @@
 
     <div id="view-loading" class="view active">
         <h1>🩺 MedMaster</h1>
-        <div id="loading-status">
-            <p style="text-align: center;">Buscando preguntas en la nube...</p>
-        </div>
+        <p style="text-align: center;">Sincronizando biblioteca...</p>
     </div>
     
     <div id="view-internado" class="view">
         <h1>¿Qué Internado estudias?</h1>
         <div id="internado-grid" class="grid"></div>
-        <div class="status-bar">Total preguntas disponibles: <span id="db-total">0</span></div>
+        <div class="status-bar" style="margin-top:20px;">Total preguntas: <span id="db-total">0</span></div>
     </div>
 
     <div id="view-setup" class="view">
-        <h1 id="setup-title">Configurar Áreas</h1>
-        <p><strong>1. Áreas:</strong></p>
+        <h1 id="setup-title">Áreas</h1>
         <div id="area-grid" class="grid"></div>
         <div id="topic-config" class="setup-box" style="display:none;">
-            <p><strong>2. Tópicos:</strong></p>
+            <p><strong>Tópicos:</strong></p>
             <div id="topic-list"></div>
             <div style="margin-top:20px;">
                 <p>Disponibles: <strong id="total-count">0</strong></p>
-                <input type="number" id="limit-input" placeholder="Cantidad (Vacio = todas)" style="width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 10px; box-sizing: border-box;">
+                <input type="number" id="limit-input" placeholder="Cantidad (Vacio = todas)" style="width: 100%; padding: 12px; border-radius: 10px; border: 1px solid #ddd;">
             </div>
             <button class="btn btn-primary" onclick="startQuiz()">Iniciar Sesión 🚀</button>
         </div>
-        <button class="btn btn-back" onclick="showView('view-internado')">❮ Volver</button>
+        <button class="btn btn-secondary" onclick="showView('view-internado')">❮ Cambiar Internado</button>
     </div>
 
     <div id="view-quiz" class="view">
-        <div class="q-header"><span id="q-meta"></span><span id="q-progress"></span></div>
-        <h2 id="q-text"></h2>
-        <button class="hint-btn" onclick="toggleHint()">💡 Ver pista clínica</button>
-        <p id="q-hint" style="display:none; color: #744210; background: #fffaf0; padding: 12px; border-radius: 8px; font-size: 14px; margin-bottom: 15px; border: 1px solid #ffeebc;"></p>
+        <div class="quiz-nav">
+            <button onclick="confirmExit()" style="background:none; border:none; font-size:20px; cursor:pointer;">🏠</button>
+            <div class="score-live">
+                <span style="color:var(--accent)">✅ <span id="live-good">0</span></span> | 
+                <span style="color:var(--error)">❌ <span id="live-bad">0</span></span>
+            </div>
+            <div id="q-progress" style="font-size:12px; color:var(--secondary);"></div>
+        </div>
         
+        <h2 id="q-text"></h2>
         <div id="options-container"></div>
         <div id="explanation-box" class="explanation"></div>
         
-        <div class="nav-controls">
-            <button id="prev-btn" class="btn btn-secondary" style="flex:1;" onclick="prevQuestion()">❮ Anterior</button>
+        <div style="display:flex; gap:10px; margin-top:20px;">
+            <button id="prev-btn" class="btn btn-secondary" style="flex:1;" onclick="prevQuestion()">Anterior</button>
             <button id="next-btn" class="btn btn-primary" style="flex:2; display:none;" onclick="nextQuestion()">Siguiente ➔</button>
+        </div>
+    </div>
+
+    <div id="view-results" class="view">
+        <div class="results-card">
+            <h1>Resumen de Sesión</h1>
+            <div class="percentage" id="res-percent">0%</div>
+            <p id="res-score-text"></p>
+            
+            <div id="weak-section" class="weak-topics" style="display:none;">
+                <strong>⚠️ Reforzar estos temas:</strong>
+                <ul id="res-weak-list" style="margin: 10px 0; padding-left: 20px;"></ul>
+            </div>
+
+            <button class="btn btn-primary" id="btn-retry-failed" onclick="retryFailed()">Repetir solo las malas 🔄</button>
+            <button class="btn btn-secondary" onclick="location.reload()">Nueva sesión completa</button>
         </div>
     </div>
 
 </div>
 
 <script>
-    /**
-     * CONFIGURACIÓN DE TUS ARCHIVOS
-     * Asegúrate de que el nombre coincida EXACTAMENTE con el de tu GitHub
-     */
+    /* CONFIGURACIÓN DE ARCHIVOS */
     const archivosPreguntas = [
         'data/ped_cardio_1.json',
         'data/ped_nefro_1.json',
@@ -125,43 +143,20 @@
     ];
 
     let database = [];
-    let currentInternado = "";
-    let selectedAreas = new Set();
-    let selectedTopics = new Set();
     let sessionQuestions = [];
     let currentIndex = 0;
+    let stats = { correct: 0, wrong: 0, errorsByTopic: {} };
 
-    // CARGA DE DATOS CON MANEJO DE ERRORES
     async function cargarTodo() {
-        const statusDiv = document.getElementById('loading-status');
-        let errores = [];
-
         for (const url of archivosPreguntas) {
             try {
                 const res = await fetch(url);
-                if (!res.ok) throw new Error(`No se encontró el archivo (${res.status})`);
-                const json = await res.json();
-                database = [...database, ...json];
-            } catch (e) {
-                console.error("Error en: " + url, e);
-                errores.push(`${url}: ${e.message}`);
-            }
+                if (res.ok) database = [...database, ...await res.json()];
+            } catch (e) { console.error("Error cargando " + url); }
         }
-
-        if (database.length > 0) {
-            document.getElementById('db-total').innerText = database.length;
-            renderInternados();
-            showView('view-internado');
-        } else {
-            statusDiv.innerHTML = `
-                <p style="color:red; font-weight:bold;">❌ Error al cargar preguntas</p>
-                <div style="text-align:left; background:#fff; padding:10px; border-radius:8px; font-size:12px;">
-                    ${errores.map(err => `<p>• ${err}</p>`).join('')}
-                </div>
-                <p>Verifica que tus archivos estén en la carpeta <b>data/</b> y se llamen igual que en el código.</p>
-                <button class="btn btn-primary" onclick="location.reload()">Reintentar</button>
-            `;
-        }
+        document.getElementById('db-total').innerText = database.length;
+        renderInternados();
+        showView(database.length > 0 ? 'view-internado' : 'view-loading');
     }
 
     function renderInternados() {
@@ -170,76 +165,72 @@
         grid.innerHTML = "";
         internados.forEach(name => {
             const card = document.createElement('div');
-            card.className = 'card';
-            card.innerText = name;
+            card.className = 'card'; card.innerText = name;
             card.onclick = () => selectInternado(name);
             grid.appendChild(card);
         });
     }
 
+    // Lógica de Selección (Simplificada para el ejemplo)
+    let currentInternado = "";
+    let selectedAreas = new Set();
+    let selectedTopics = new Set();
+
     function selectInternado(name) {
         currentInternado = name;
-        selectedAreas.clear();
-        selectedTopics.clear();
+        selectedAreas.clear(); selectedTopics.clear();
         document.getElementById('setup-title').innerText = name;
         const areas = [...new Set(database.filter(q => q.internado === name).map(q => q.area))];
-        const grid = document.getElementById('area-grid');
-        grid.innerHTML = "";
+        const grid = document.getElementById('area-grid'); grid.innerHTML = "";
         areas.forEach(area => {
             const card = document.createElement('div');
-            card.className = 'card';
-            card.innerText = area;
+            card.className = 'card'; card.innerText = area;
             card.onclick = () => toggleArea(area, card);
             grid.appendChild(card);
         });
         showView('view-setup');
-        document.getElementById('topic-config').style.display = "none";
     }
 
-    function toggleArea(area, element) {
-        if (selectedAreas.has(area)) { selectedAreas.delete(area); element.classList.remove('selected'); }
-        else { selectedAreas.add(area); element.classList.add('selected'); }
+    function toggleArea(area, el) {
+        if (selectedAreas.has(area)) { selectedAreas.delete(area); el.classList.remove('selected'); }
+        else { selectedAreas.add(area); el.classList.add('selected'); }
         updateTopics();
     }
 
     function updateTopics() {
-        const list = document.getElementById('topic-list');
-        list.innerHTML = "";
-        const config = document.getElementById('topic-config');
-        if (selectedAreas.size === 0) { config.style.display = "none"; return; }
-        config.style.display = "block";
         const topics = [...new Set(database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area)).map(q => q.topic))];
+        const list = document.getElementById('topic-list'); list.innerHTML = "";
+        document.getElementById('topic-config').style.display = selectedAreas.size > 0 ? "block" : "none";
         topics.forEach(t => {
-            const div = document.createElement('div');
-            div.className = 'topic-item';
-            div.innerHTML = `<input type="checkbox" checked id="chk-${t}" onchange="toggleTopic('${t}')"> <label for="chk-${t}">${t}</label>`;
+            const div = document.createElement('div'); div.className = 'topic-item';
+            div.innerHTML = `<input type="checkbox" checked id="t-${t}" onchange="toggleTopic('${t}')"> <label for="t-${t}">${t}</label>`;
             list.appendChild(div);
             selectedTopics.add(t);
         });
         updateCount();
     }
 
-    function toggleTopic(t) {
-        if (selectedTopics.has(t)) selectedTopics.delete(t);
-        else selectedTopics.add(t);
-        updateCount();
-    }
-
+    function toggleTopic(t) { if (selectedTopics.has(t)) selectedTopics.delete(t); else selectedTopics.add(t); updateCount(); }
     function updateCount() {
         const count = database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area) && selectedTopics.has(q.topic)).length;
         document.getElementById('total-count').innerText = count;
     }
 
-    function startQuiz() {
-        let pool = database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area) && selectedTopics.has(q.topic));
-        pool.sort(() => Math.random() - 0.5);
-        const limit = document.getElementById('limit-input').value;
-        if (limit) pool = pool.slice(0, parseInt(limit));
+    // QUIZ ENGINE
+    function startQuiz(customQuestions = null) {
+        if (customQuestions) {
+            sessionQuestions = customQuestions;
+        } else {
+            let pool = database.filter(q => q.internado === currentInternado && selectedAreas.has(q.area) && selectedTopics.has(q.topic));
+            pool.sort(() => Math.random() - 0.5);
+            const limit = document.getElementById('limit-input').value;
+            if (limit) pool = pool.slice(0, parseInt(limit));
+            sessionQuestions = pool.map(q => ({...q, answered: false, userChoiceIdx: null, isUserCorrect: null}));
+        }
         
-        if (pool.length === 0) return alert("Selecciona temas que tengan preguntas.");
-        
-        sessionQuestions = pool.map(q => ({...q, answered: false, userChoiceIdx: null}));
         currentIndex = 0;
+        stats = { correct: 0, wrong: 0, errorsByTopic: {} };
+        updateLiveScore();
         showView('view-quiz');
         renderQuestion();
     }
@@ -249,81 +240,98 @@
         document.getElementById('q-meta').innerText = `${q.area} • ${q.topic}`;
         document.getElementById('q-progress').innerText = `${currentIndex + 1} / ${sessionQuestions.length}`;
         document.getElementById('q-text').innerText = q.text;
-        document.getElementById('q-hint').innerText = q.hint || "Sin pistas.";
-        document.getElementById('q-hint').style.display = "none";
         document.getElementById('explanation-box').style.display = "none";
-        
         document.getElementById('prev-btn').style.visibility = currentIndex > 0 ? "visible" : "hidden";
         document.getElementById('next-btn').style.display = q.answered ? "block" : "none";
 
         const container = document.getElementById('options-container');
         container.innerHTML = "";
-
         q.options.forEach((opt, idx) => {
             const b = document.createElement('button');
             b.className = 'option-btn';
             b.innerText = opt.text;
-            
             if (q.answered) {
                 if (opt.isCorrect) b.classList.add('correct-show');
                 if (idx === q.userChoiceIdx && !opt.isCorrect) b.classList.add('wrong-show');
-                if (idx === q.userChoiceIdx) {
-                    b.classList.add('inspecting');
-                    showExplanation(opt);
-                }
+                if (idx === q.userChoiceIdx) { b.classList.add('inspecting'); showExplanation(opt); }
             }
-
             b.onclick = () => handleOptionClick(b, opt, q, idx);
             container.appendChild(b);
         });
     }
 
-    function handleOptionClick(button, option, question, idx) {
-        const container = document.getElementById('options-container');
-        
-        if (!question.answered) {
-            question.answered = true;
-            question.userChoiceIdx = idx;
-            document.getElementById('next-btn').style.display = "block";
+    function handleOptionClick(btn, opt, q, idx) {
+        if (!q.answered) {
+            q.answered = true;
+            q.userChoiceIdx = idx;
+            q.isUserCorrect = opt.isCorrect;
             
-            const buttons = container.querySelectorAll('.option-btn');
-            question.options.forEach((opt, i) => {
-                if (opt.isCorrect) buttons[i].classList.add('correct-show');
-                else if (i === idx) buttons[i].classList.add('wrong-show');
-            });
+            if (opt.isCorrect) stats.correct++;
+            else {
+                stats.wrong++;
+                stats.errorsByTopic[q.topic] = (stats.errorsByTopic[q.topic] || 0) + 1;
+            }
+            updateLiveScore();
+            document.getElementById('next-btn').style.display = "block";
+            renderQuestion(); // Refrescar para mostrar colores
+        } else {
+            // Solo cambiar la inspección si ya está respondida
+            document.querySelectorAll('.option-btn').forEach(b => b.classList.remove('inspecting'));
+            btn.classList.add('inspecting');
+            showExplanation(opt);
         }
-
-        container.querySelectorAll('.option-btn').forEach(btn => btn.classList.remove('inspecting'));
-        button.classList.add('inspecting');
-        showExplanation(option);
     }
 
-    function showExplanation(option) {
-        const expBox = document.getElementById('explanation-box');
-        expBox.style.display = "block";
-        expBox.style.borderLeftColor = option.isCorrect ? "var(--accent)" : "var(--error)";
-        expBox.innerHTML = `<strong>${option.isCorrect ? '✅ Respuesta Correcta' : '❌ Opción Incorrecta'}:</strong><br>${option.explanation}`;
+    function showExplanation(opt) {
+        const box = document.getElementById('explanation-box');
+        box.style.display = "block";
+        box.innerHTML = `<strong>${opt.isCorrect ? '✅ Correcta' : '❌ Opción analizada'}:</strong><br>${opt.explanation}`;
     }
 
-    function toggleHint() {
-        const h = document.getElementById('q-hint');
-        h.style.display = h.style.display === "none" ? "block" : "none";
+    function updateLiveScore() {
+        document.getElementById('live-good').innerText = stats.correct;
+        document.getElementById('live-bad').innerText = stats.wrong;
     }
 
     function nextQuestion() {
         if (currentIndex < sessionQuestions.length - 1) { currentIndex++; renderQuestion(); }
-        else { alert("¡Sesión completada!"); showView('view-internado'); }
+        else { finishSession(); }
     }
 
-    function prevQuestion() {
-        if (currentIndex > 0) { currentIndex--; renderQuestion(); }
+    function prevQuestion() { if (currentIndex > 0) { currentIndex--; renderQuestion(); } }
+
+    function finishSession() {
+        showView('view-results');
+        const percent = Math.round((stats.correct / sessionQuestions.length) * 100);
+        document.getElementById('res-percent').innerText = percent + "%";
+        document.getElementById('res-score-text').innerText = `Lograste ${stats.correct} de ${sessionQuestions.length} correctas.`;
+        
+        const weakList = document.getElementById('res-weak-list');
+        weakList.innerHTML = "";
+        const topicsSorted = Object.entries(stats.errorsByTopic).sort((a,b) => b[1] - a[1]);
+        
+        if (topicsSorted.length > 0) {
+            document.getElementById('weak-section').style.display = "block";
+            topicsSorted.slice(0, 3).forEach(([topic, count]) => {
+                const li = document.createElement('li');
+                li.innerText = `${topic} (${count} errores)`;
+                weakList.appendChild(li);
+            });
+        } else {
+            document.getElementById('weak-section').style.display = "none";
+        }
+
+        document.getElementById('btn-retry-failed').style.display = stats.wrong > 0 ? "block" : "none";
     }
 
-    function showView(id) {
-        document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
-        document.getElementById(id).classList.add('active');
+    function retryFailed() {
+        const failed = sessionQuestions.filter(q => !q.isUserCorrect);
+        const resetFailed = failed.map(q => ({...q, answered: false, userChoiceIdx: null, isUserCorrect: null}));
+        startQuiz(resetFailed);
     }
 
+    function confirmExit() { if (confirm("¿Seguro que quieres volver al menú? Perderás el progreso de esta sesión.")) location.reload(); }
+    function showView(id) { document.querySelectorAll('.view').forEach(v => v.classList.remove('active')); document.getElementById(id).classList.add('active'); }
     window.onload = cargarTodo;
 </script>
 </body>
