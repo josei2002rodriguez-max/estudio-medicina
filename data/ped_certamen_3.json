@@ -9,13 +9,13 @@
     "options": [
       {
         "text": "A) Tres vírica (SRP) - dTp acelular.",
-        "isCorrect": true,
-        "explanation": "Correcto. El Calendario MINSAL indica en 1° Básico las dosis de refuerzo de la SRP (Sarampión-Rubéola-Paperas) y la dTpa (Difteria-Tétanos-Tos convulsiva acelular, para reducir neurotoxicidad)."
+        "isCorrect": false,
+        "explanation": "Falso. El Calendario MINSAL indica en 1° Básico la dosis solo de la dTpa (Difteria-Tétanos-Tos convulsiva acelular, para reducir neurotoxicidad)."
       },
       {
         "text": "B) dTp acelular sola.",
-        "isCorrect": false,
-        "explanation": "Falso. Falta el componente viral vivo atenuado (SRP)."
+        "isCorrect": true,
+        "explanation": "Correcto. l Calendario MINSAL indica en 1° Básico la dosis de DTPa."
       },
       {
         "text": "C) Tres vírica - BCG.",
