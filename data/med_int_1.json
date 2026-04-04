@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Adenomas hipofisarios y adenomas funcionantes",
+    "text": "Se deriva desde policlínico de oftalmología a un hombre de 31 años que consultó por pérdida de visión y cefalea progresiva. En la exploración física se constata una hemianopsia temporal y en la resonancia magnética hipofisaria una tumoración de 35 x 30 x 20 mm que comprime quiasma y seno cavernoso. Los resultados del estudio funcional son cortisol 14 microg/dL, TSH 1,4 microU/mL, T4L 1,2 ng/dL, prolactina 480 microg/L (vn <15), testosterona 160 ng/dL (vn 300-1200), FSH 1,2 U/L (vn 5-15) y LH 2 U/L (vn 3-15). ¿Cuál es el abordaje terapéutico inicial?",
+    "hint": "Los niveles extremadamente altos de prolactina indican un prolactinoma, que tiene un tratamiento médico de primera línea muy eficaz.",
+    "options": [
+      {
+        "text": "a) Agonistas dopaminérgicos.",
+        "isCorrect": true,
+        "explanation": "Según el documento \"Adenomas hipofisarios y adenomas funcionantes\", los prolactinomas tienen indicación absoluta inicial de tratamiento farmacológico mediante agonistas dopaminérgicos (Cabergolina, Bromocriptina), incluso en presencia de macroadenomas invasivos con compromiso visual, dada su excelente respuesta en reducción tumoral y de secreción."
+      },
+      {
+        "text": "b) Cirugía transesfenoidal.",
+        "isCorrect": false,
+        "explanation": "En prolactinomas, se reserva solo para casos resistentes a dopaminérgicos, intolerancia severa o apoplejía. No es la primera línea."
+      },
+      {
+        "text": "c) Radioterapia externa o radiocirugía.",
+        "isCorrect": false,
+        "explanation": "No es el manejo inicial en prolactinomas."
+      },
+      {
+        "text": "d) Tratamiento del hipogonadismo hipogonadotropo con testosterona.",
+        "isCorrect": false,
+        "explanation": "El hipogonadismo es secundario a la hiperprolactinemia; al tratar el prolactinoma, el eje suele normalizarse."
+      },
+      {
+        "text": "e) Antagonistas serotoninérgicos.",
+        "isCorrect": false,
+        "explanation": "No tienen rol en el tratamiento de los prolactinomas."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Tratamiento de Infecciones Herpéticas",
+    "text": "El tratamiento crónico supresor (TCS) en el manejo del virus del herpes simple genital está indicado principalmente para:",
+    "hint": "El TCS busca controlar una infección recurrente que afecta negativamente al paciente de forma constante.",
+    "options": [
+      {
+        "text": "a) Curar definitivamente la infección latente en el ganglio sacro.",
+        "isCorrect": false,
+        "explanation": "El tratamiento antiviral no erradica el ADN viral latente de los ganglios nerviosos; solo inhibe la replicación activa."
+      },
+      {
+        "text": "b) Reducir la frecuencia de los episodios anuales (hasta en un 80%) y mejorar la calidad de vida en pacientes con recurrencias frecuentes.",
+        "isCorrect": true,
+        "explanation": "En la Guía de Estudio VIRUS HERPES, se define el Tratamiento Crónico Supresor (TCS) como la estrategia terapéutica de administración continua de antivirales (valaciclovir/aciclovir) dedicada a aquellos pacientes con herpes genital recurrente de alta frecuencia para evitar los rebrotes y disminuir la transmisión asintomática."
+      },
+      {
+        "text": "c) Tratar el sarcoma de Kaposi concomitante.",
+        "isCorrect": false,
+        "explanation": "Es causado por el VHH-8, no responde al TCS de VHS-1/2."
+      },
+      {
+        "text": "d) Evitar el uso de Aciclovir.",
+        "isCorrect": false,
+        "explanation": "Justamente consiste en administrar aciclovir u homólogos de forma profiláctica diaria."
+      },
+      {
+        "text": "e) Prevenir el desarrollo de Encefalitis Herpética.",
+        "isCorrect": false,
+        "explanation": "No es la indicación del TCS, la encefalitis requiere tratamiento endovenoso agudo, no supresión crónica."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Miocardiopatías",
+    "text": "Paciente hombre de 40 años consulta por disnea a moderados esfuerzos. En su examen físico destacan yugulares ingurgitadas y crepitaciones pulmonares. La radiografía de tórax muestra gran cardiomegalia global. El diagnóstico clínico más compatible con el hallazgo es:",
+    "hint": "La cardiomegalia masiva acompañada de signos de falla biventricular apunta a un aumento en el tamaño de las cavidades.",
+    "options": [
+      {
+        "text": "a) Miocardiopatía hipertrófica.",
+        "isCorrect": false,
+        "explanation": "Cursa con paredes engrosadas pero cavidad ventricular pequeña, por lo que no suele dar gran cardiomegalia radiológica."
+      },
+      {
+        "text": "b) Miocardiopatía dilatada.",
+        "isCorrect": true,
+        "explanation": "Según el documento \"Miocardiopatías\", la miocardiopatía dilatada se caracteriza por la dilatación y disfunción sistólica del ventrículo izquierdo (o biventricular), lo que se traduce radiológicamente en una franca cardiomegalia y clínicamente en signos de insuficiencia cardíaca congestiva biventricular (yugulares ingurgitadas por fallo derecho, crépitos por fallo izquierdo)."
+      },
+      {
+        "text": "c) Miocardiopatía restrictiva.",
+        "isCorrect": false,
+        "explanation": "Las aurículas se dilatan, pero los ventrículos son de tamaño normal o reducido, no dando cardiomegalia global masiva típicamente."
+      },
+      {
+        "text": "d) Pericarditis aguda.",
+        "isCorrect": false,
+        "explanation": "No da disnea de esfuerzo progresiva ni crépitos pulmonares por falla sistólica."
+      },
+      {
+        "text": "e) Cor pulmonale crónico.",
+        "isCorrect": false,
+        "explanation": "Afecta primariamente el lado derecho, no suele dar crépitos (falla izquierda) como hallazgo central."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "internado": "Medicina Interna",
+    "area": "Neurología / Infectología",
+    "topic": "Meningoencefalitis Herpética",
+    "text": "Frente a un paciente que acude a urgencias y se le diagnostica presuntivamente una encefalitis herpética en base a clínica aguda de cefalea, fiebre, alteración cualitativa de conciencia focal, y alteraciones radiológicas temporales. ¿Cuál es la indicación farmacológica prioritaria de actuación frente a la sospecha según los protocolos virales?",
+    "hint": "Ante una infección que causa daño cerebral necrotizante rápido, el tratamiento no debe retrasarse.",
+    "options": [
+      {
+        "text": "a) Iniciar Aciclovir empírico por vía intravenosa lo antes posible, incluso antes de tener la confirmación de la PCR.",
+        "isCorrect": true,
+        "explanation": "De acuerdo con la \"Guía de estudio VIRUS HERPES\", la inflamación necrotizante temporal y frontal producida por el VHS-1 presenta una elevadísima mortalidad y morbilidad. Un diagnóstico precoz y la instauración médica urgente de tratamiento con Aciclovir intravenoso empírico cambia drásticamente el pronóstico vital; nunca debe esperar el resultado de la confirmación analítica si ello retrasa días la dosis."
+      },
+      {
+        "text": "b) Esperar obligatoriamente los resultados del análisis de líquido cefalorraquídeo (LCR) para no crear resistencias y descartar bacterias.",
+        "isCorrect": false,
+        "explanation": "Retrasar el tratamiento aumenta enormemente el riesgo de muerte o secuelas."
+      },
+      {
+        "text": "c) Administrar tratamiento crónico supresor oral preventivo con Valaciclovir para alta domiciliaria.",
+        "isCorrect": false,
+        "explanation": "El TCS oral está reservado para control ambulatorio y profilaxis de reactivaciones repetidas de Herpes Genital, no para urgencias sistémicas neurológicas mortales."
+      },
+      {
+        "text": "d) Iniciar Vancomicina e ignorar fármacos antivirales al ser la enfermedad rara en adultos.",
+        "isCorrect": false,
+        "explanation": "En sospecha de compromiso de SNC, es protocolario cubrir empíricamente tanto bacterias como virus."
+      },
+      {
+        "text": "e) Aplicar quimioterapia intracraneal por riesgo de Linfoma.",
+        "isCorrect": false,
+        "explanation": "La clínica descrita es compatible con infección aguda, no con linfoma."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Síncope",
+    "text": "Una paciente de 22 años, sin antecedentes médicos, consulta en urgencias tras haber presentado una pérdida de conocimiento transitoria mientras estaba de pie en un concierto caluroso. Refiere que previo al desmayo sintió mareo, visión borrosa, sudoración fría y náuseas. Se recuperó completamente a los pocos minutos al ser recostada. El ECG y el examen físico son estrictamente normales. ¿Cuál es el diagnóstico etiológico más probable de este síncope?",
+    "hint": "Identifica el patrón clásico de pródromos autonómicos desencadenados por el estrés ortostático y ambiental.",
+    "options": [
+      {
+        "text": "a) Síncope cardiogénico por arritmia ventricular.",
+        "isCorrect": false,
+        "explanation": "Suele ser de inicio súbito sin pródromos vegetativos prolongados y es poco frecuente en jóvenes con ECG y examen normales."
+      },
+      {
+        "text": "b) Síncope reflejo (neuromediado o vasovagal).",
+        "isCorrect": true,
+        "explanation": "El documento \"Síncope: etiopatogenia, manifestaciones clínicas...\" indica que el síncope reflejo (vasovagal) es la causa más común en la población general y particularmente en jóvenes. Su presentación clásica incluye un desencadenante claro (bipedestación prolongada, calor, estrés emocional) y un pródromo vegetativo estereotipado (sudoración, palidez, náuseas) previo a la pérdida de tono postural, con recuperación ad integrum."
+      },
+      {
+        "text": "c) Hipotensión ortostática por disfunción autonómica primaria.",
+        "isCorrect": false,
+        "explanation": "Se presenta clásicamente al ponerse de pie de forma rápida, no típicamente tras bipedestación prolongada con fuertes pródromos reflejos."
+      },
+      {
+        "text": "d) Síncope secundario a miocardiopatía hipertrófica.",
+        "isCorrect": false,
+        "explanation": "El ECG y el examen físico suelen ser anormales en la miocardiopatía hipertrófica."
+      },
+      {
+        "text": "e) Accidente isquémico transitorio (AIT) vértebro-basilar.",
+        "isCorrect": false,
+        "explanation": "Presentaría otros síntomas neurológicos focales asociados a la pérdida de conciencia."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Anemias",
+    "text": "Un hombre de 26 años, asintomático, oriundo del sur de Italia, se realiza exámenes de salud laboral revelando: Hemoglobina 13.5 g/dL (normal), Hematocrito 42%, VCM 62 fL (muy disminuido), Recuento de Eritrocitos 6.5 x 10^6/uL (aumentado). Sus depósitos de ferritina son normales. De acuerdo a estos parámetros puramente de laboratorio y su epidemiología, el diagnóstico orientativo más plausible es:",
+    "hint": "Un VCM muy bajo con niveles de hierro normales y alta cantidad de glóbulos rojos, en un paciente mediterráneo, es clave.",
+    "options": [
+      {
+        "text": "a) Púrpura trombocitopénica idiopática.",
+        "isCorrect": false,
+        "explanation": "Afecta exclusivamente a las plaquetas con sangrado, no altera el volumen de los glóbulos rojos ni cursa asintomático silente en este caso."
+      },
+      {
+        "text": "b) Anemia por déficit de ácido fólico.",
+        "isCorrect": false,
+        "explanation": "Causa anemia macrocítica masiva (VCM altísimo >100 fL)."
+      },
+      {
+        "text": "c) Rasgo Talasémico (Beta-Talasemia Heterocigota).",
+        "isCorrect": true,
+        "explanation": "El \"Protocolo diagnóstico de anemias microcíticas, normocíticas y macrocíticas\" expone que, frente a un hallazgo de microcitosis extrema de forma sostenida asintomática, debemos diferenciar la falta de hierro de un defecto en la síntesis de las cadenas de globina (Talasemia). Un VCM tan bajo, un alto número de hematíes, estado férrico normal y el trasfondo geográfico mediterráneo sin afectación sintomática, definen a la mutación portadora silente de Beta-Talasemia."
+      },
+      {
+        "text": "d) Esferocitosis hereditaria grave.",
+        "isCorrect": false,
+        "explanation": "La anemia suele ser normocítica, y clínicamente presentaría hiperbilirrubinemia, esplenomegalia y no es típicamente un hallazgo incidental puro de solo microcitosis."
+      },
+      {
+        "text": "e) Anemia megaloblástica severa.",
+        "isCorrect": false,
+        "explanation": "Causa anemia macrocítica masiva, opuesto a la extrema pequeñez microcítica relatada."
+      }
+    ]
+  }
+]
