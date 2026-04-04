@@ -1,0 +1,3719 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infección Urinaria (ITU)",
+    "text": "Escolar femenina de 8 años, consulta por dolor abdominal, disuria y polaquiuria. Afebril. Tira reactiva: Nitritos ++, GB 2+, Hb (-). El tratamiento de elección empírico inicial es:",
+    "hint": "Paciente afebril con clínica de cistitis. Piensa en un fármaco oral que alcance excelentes concentraciones en la vía urinaria inferior pero baja penetración sistémica/parenquimatosa.",
+    "options": [
+      {
+        "text": "A) Cefadroxilo oral",
+        "isCorrect": false,
+        "explanation": "Falso. El Cefadroxilo se reserva como primera línea empírica para la ITU febril (Pielonefritis aguda) de manejo ambulatorio, ya que logra niveles parenquimatosos adecuados."
+      },
+      {
+        "text": "B) Nitrofurantoína oral",
+        "isCorrect": true,
+        "explanation": "Correcto. Según las normas de la Rama de Nefrología SOCHIPE, en ITU baja (afebril) en mayores de 1 mes, la nitrofurantoína es de elección por su alta concentración vesical y nula resistencia inicial."
+      },
+      {
+        "text": "C) Ceftriaxona IM",
+        "isCorrect": false,
+        "explanation": "Falso. Este es un tratamiento de amplio espectro de uso parenteral, indicado sólo para ITU febril con mala tolerancia oral, lactantes < 3 meses o compromiso del estado general (sepsis)."
+      },
+      {
+        "text": "D) Amoxicilina oral",
+        "isCorrect": false,
+        "explanation": "Falso. Altas tasas de resistencia de E. coli (>50%) a amoxicilina la hacen inapropiada como terapia empírica inicial."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infección Urinaria (ITU)",
+    "text": "¿Cuál de los siguientes es el examen de elección para confirmar el diagnóstico de infección urinaria en un lactante febril de 6 meses que aún no controla esfínteres?",
+    "hint": "Busca el método que equilibre la esterilidad de la muestra con la viabilidad técnica en un niño pequeño, evitando los falsos positivos.",
+    "options": [
+      {
+        "text": "A) Orina completa por recolector (bolsa)",
+        "isCorrect": false,
+        "explanation": "Falso. La bolsa recolectora tiene una tasa inaceptablemente alta de falsos positivos (contaminación con flora perineal). Solo sirve por su valor predictivo negativo (si sale negativo, descarta ITU)."
+      },
+      {
+        "text": "B) Urocultivo por cateterismo vesical (sonda)",
+        "isCorrect": true,
+        "explanation": "Correcto. En lactantes que no controlan esfínteres, la muestra debe obtenerse por métodos estériles, siendo el cateterismo vesical transuretral (sonda) el método de elección por su alta sensibilidad y especificidad."
+      },
+      {
+        "text": "C) Urocultivo por recolector de orina (bolsa)",
+        "isCorrect": false,
+        "explanation": "Falso. Se contamina fácilmente al igual que la orina completa, invalidando el cultivo."
+      },
+      {
+        "text": "D) Ecografía renal",
+        "isCorrect": false,
+        "explanation": "Falso. Es un examen de imagen para evaluar anatomía, no confirma la presencia de bacterias en la orina."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infección Urinaria (ITU)",
+    "text": "Lactante de 4 meses cursa con su primera ITU febril confirmada por urocultivo (E. coli). Fue tratada con buena respuesta clínica. Según las normas chilenas, ¿qué estudio de imágenes está indicado inicialmente?",
+    "hint": "Es el primer episodio febril. Se busca descartar anomalías anatómicas gruesas del tracto urinario sin ser excesivamente invasivos de entrada.",
+    "options": [
+      {
+        "text": "A) Ecotomografía renal y vesical",
+        "isCorrect": true,
+        "explanation": "Correcto. Todo primer episodio de ITU febril en pediatría, independiente de la edad, requiere una ecografía renal y vesical inicial para descartar malformaciones anatómicas groseras de la vía urinaria."
+      },
+      {
+        "text": "B) Uretrocistografía miccional (UCG)",
+        "isCorrect": false,
+        "explanation": "Falso. Se reserva para ITU atípica, recurrente, o si la ecografía muestra anomalías que sugieran reflujo vesicoureteral u obstrucción."
+      },
+      {
+        "text": "C) Cintigrama renal DMSA",
+        "isCorrect": false,
+        "explanation": "Falso. Se indica para buscar cicatrices renales meses después del cuadro, o en la fase aguda si la evolución es tórpida, no como tamizaje inicial rutinario en una ITU febril simple con buena respuesta."
+      },
+      {
+        "text": "D) No requiere estudio de imágenes por ser el primer episodio",
+        "isCorrect": false,
+        "explanation": "Falso. En Chile, todo primer episodio febril se estudia por el riesgo de daño renal y anomalías asociadas."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infección Urinaria (ITU)",
+    "text": "¿Cuál es el agente etiológico más frecuente de infección del tracto urinario en pediatría?",
+    "hint": "Es el bacilo Gram negativo entérico que coloniza normalmente el tracto gastrointestinal y es el principal uropatógeno a cualquier edad.",
+    "options": [
+      {
+        "text": "A) Klebsiella pneumoniae",
+        "isCorrect": false,
+        "explanation": "Falso. Es menos frecuente, generalmente asociado a malformaciones o ITU intrahospitalaria."
+      },
+      {
+        "text": "B) Proteus mirabilis",
+        "isCorrect": false,
+        "explanation": "Falso. Suele verse en niños mayores, a veces asociado a cálculos de estruvita o alteraciones anatómicas."
+      },
+      {
+        "text": "C) Escherichia coli",
+        "isCorrect": true,
+        "explanation": "Correcto. E. coli es el uropatógeno responsable del 75% al 90% de los episodios de ITU en todas las edades pediátricas."
+      },
+      {
+        "text": "D) Enterococcus faecalis",
+        "isCorrect": false,
+        "explanation": "Falso. Es un coco Gram positivo que puede causar ITU, pero mucho menos frecuente, usualmente tras uso previo de cefalosporinas."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infección Urinaria (ITU)",
+    "text": "El tratamiento de elección inicial en una pielonefritis aguda (ITU febril) de manejo ambulatorio en un preescolar es:",
+    "hint": "Para una ITU febril necesitas un fármaco que alcance buenas concentraciones en el tejido (parénquima) del riñón.",
+    "options": [
+      {
+        "text": "A) Cefadroxilo oral",
+        "isCorrect": true,
+        "explanation": "Correcto. Para una ITU alta (febril) ambulatoria se requieren antibióticos con buenas concentraciones en el parénquima renal, siendo las cefalosporinas de primera generación (Cefadroxilo) o 2da/3ra la elección empírica."
+      },
+      {
+        "text": "B) Nitrofurantoína oral",
+        "isCorrect": false,
+        "explanation": "Falso. No alcanza concentraciones parenquimatosas renales terapéuticas; solo sirve para ITU baja (cistitis)."
+      },
+      {
+        "text": "C) Amoxicilina oral",
+        "isCorrect": false,
+        "explanation": "Falso. Presenta altísima tasa de resistencia de E. coli, no se usa empíricamente."
+      },
+      {
+        "text": "D) Ciprofloxacino oral",
+        "isCorrect": false,
+        "explanation": "Falso. Su uso es muy restringido en pediatría (por potencial daño al cartílago de crecimiento) y se reserva para casos probados de resistencia (ej. Pseudomonas)."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Enfermedades Exantemáticas",
+    "text": "Lactante de 9 meses, presenta fiebre alta (39.5°C) de 3 días de evolución, en buen estado general. Al cuarto día, la fiebre cae bruscamente y aparece un exantema maculopapular rosado en tronco. El diagnóstico más probable es:",
+    "hint": "Fíjate en el patrón bifásico: la fiebre debe desaparecer completamente de forma súbita ('en crisis') para que el brote en la piel aparezca.",
+    "options": [
+      {
+        "text": "A) Sarampión",
+        "isCorrect": false,
+        "explanation": "Falso. Presenta mucho compromiso general, coriza, tos y manchas de Koplik. El exantema aparece CON la fiebre alta, no cuando cae."
+      },
+      {
+        "text": "B) Rubéola",
+        "isCorrect": false,
+        "explanation": "Falso. Presenta fiebre de bajo grado, adenopatías retroauriculares dolorosas y exantema concomitante."
+      },
+      {
+        "text": "C) Exantema súbito",
+        "isCorrect": true,
+        "explanation": "Correcto. La presentación clásica de fiebre alta sin foco por 3-4 días que desaparece de forma súbita, seguida inmediatamente por un exantema en tronco, es patognomónica del Exantema Súbito (VHH-6)."
+      },
+      {
+        "text": "D) Eritema infeccioso",
+        "isCorrect": false,
+        "explanation": "Falso. Se presenta sin fiebre o con febrícula, en niños mayores, con el clásico 'signo de la cachetada'."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Enfermedades Exantemáticas",
+    "text": "Preescolar de 4 años, no vacunado. Consulta por fiebre, coriza, tos y conjuntivitis. Al examen destaca enantema en la mucosa oral con manchas blanquecinas sobre halo eritematoso. Luego desarrolla exantema maculopapular confluente de inicio retroauricular. El diagnóstico es:",
+    "hint": "La tríada catarral de coriza, tos y conjuntivitis en un niño no vacunado, sumada a las inconfundibles 'manchas de Koplik' en la boca, te dan el diagnóstico de inmediato.",
+    "options": [
+      {
+        "text": "A) Enfermedad de Kawasaki",
+        "isCorrect": false,
+        "explanation": "Falso. Cursa con conjuntivitis (sin secreción ni tos severa) y alteraciones orales como lengua aframbuesada, no manchas de Koplik."
+      },
+      {
+        "text": "B) Sarampión",
+        "isCorrect": true,
+        "explanation": "Correcto. El pródromo catarral (Tos, Coriza, Conjuntivitis), las manchas blanquecinas orales (Koplik, patognomónicas) y el exantema de progresión cefalocaudal son el cuadro clásico del Sarampión."
+      },
+      {
+        "text": "C) Escarlatina",
+        "isCorrect": false,
+        "explanation": "Falso. Exantema micropapular áspero ('lija'), no presenta coriza severa ni conjuntivitis."
+      },
+      {
+        "text": "D) Varicela",
+        "isCorrect": false,
+        "explanation": "Falso. Su exantema es vesicular, pruriginoso y pleomórfico (diferentes estadios a la vez)."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Enfermedades Exantemáticas",
+    "text": "Escolar de 7 años presenta exantema eritematoso en ambas mejillas ('signo de la cachetada'), que luego se extiende a extremidades con un patrón reticular. Afebril, buen estado general. El agente etiológico es:",
+    "hint": "El eritema infeccioso o 'Quinta Enfermedad' es causado por un virus que tiene especial tropismo por los precursores de los glóbulos rojos.",
+    "options": [
+      {
+        "text": "A) Parvovirus B19",
+        "isCorrect": true,
+        "explanation": "Correcto. El 'signo de la cachetada' seguido de un exantema reticular o en encaje en extremidades es clásico del Eritema Infeccioso, cuyo agente es el Parvovirus B19."
+      },
+      {
+        "text": "B) Virus Herpes Humano 6",
+        "isCorrect": false,
+        "explanation": "Falso. Es el agente del Exantema Súbito (Roseola), que da fiebre alta previa al exantema."
+      },
+      {
+        "text": "C) Streptococcus pyogenes",
+        "isCorrect": false,
+        "explanation": "Falso. Causa la Escarlatina (exantema en papel de lija y faringoamigdalitis)."
+      },
+      {
+        "text": "D) Virus Coxsackie A16",
+        "isCorrect": false,
+        "explanation": "Falso. Es el principal agente del Síndrome Pie-Mano-Boca (vesículas orales y acrales)."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Reumatología Infantil",
+    "text": "Lactante de 2 años consulta por fiebre de 5 días, inyección conjuntival bilateral, fisuras en labios, lengua aframbuesada, adenopatía cervical y exantema polimorfo. El diagnóstico más importante a descartar por su riesgo de secuelas es:",
+    "hint": "La fiebre de larga data resistente a antipiréticos junto a la inflamación de mucosas sugieren una vasculitis sistémica que pone en peligro las arterias del corazón.",
+    "options": [
+      {
+        "text": "A) Escarlatina",
+        "isCorrect": false,
+        "explanation": "Falso. Aunque da lengua aframbuesada, no causa conjuntivitis severa bilateral ni fisuras labiales marcadas, y responde rápido a Penicilina."
+      },
+      {
+        "text": "B) Sarampión",
+        "isCorrect": false,
+        "explanation": "Falso. Faltarían las manchas de Koplik, la tos intensa y la coriza."
+      },
+      {
+        "text": "C) Enfermedad de Kawasaki",
+        "isCorrect": true,
+        "explanation": "Correcto. El caso describe los criterios diagnósticos clásicos de Kawasaki (Fiebre ≥ 5 días + conjuntivitis no supurativa + alteraciones mucocutáneas + linfadenopatía + exantema). Es vital diagnosticarla para evitar aneurismas coronarios."
+      },
+      {
+        "text": "D) Mononucleosis infecciosa",
+        "isCorrect": false,
+        "explanation": "Falso. Cursa típicamente con faringitis exudativa y hepatoesplenomegalia prominente."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Enfermedades Exantemáticas",
+    "text": "Escolar de 6 años presenta fiebre, odinofagia y exantema micropapular eritematoso, áspero al tacto ('piel de lija'), más intenso en pliegues (líneas de Pastia). El tratamiento de elección es:",
+    "hint": "Es la única de las clásicas enfermedades exantemáticas de la infancia que es causada por una bacteria (EGA), por lo que requiere tratamiento betalactámico.",
+    "options": [
+      {
+        "text": "A) Paracetamol sintomático",
+        "isCorrect": false,
+        "explanation": "Falso. No es un cuadro viral autolimitado, requiere tratamiento curativo y profiláctico antibacteriano."
+      },
+      {
+        "text": "B) Aciclovir oral",
+        "isCorrect": false,
+        "explanation": "Falso. El aciclovir es un antiviral, no tiene utilidad contra bacterias."
+      },
+      {
+        "text": "C) Penicilina o Amoxicilina oral",
+        "isCorrect": true,
+        "explanation": "Correcto. El cuadro corresponde a Escarlatina, causada por Streptococcus pyogenes (EGA). El tratamiento de elección y primera línea sigue siendo la Penicilina o Amoxicilina por 10 días para prevenir la Fiebre Reumática."
+      },
+      {
+        "text": "D) Macrólidos (Azitromicina)",
+        "isCorrect": false,
+        "explanation": "Falso. Son de segunda línea, reservados únicamente para pacientes con alergia comprobada a la penicilina."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Hipotiroidismo)",
+    "text": "Neonato de 15 días, asintomático, cuyo tamizaje neonatal revela TSH de 25 mUI/L (elevada). ¿Cuál es la conducta inmediata más apropiada?",
+    "hint": "Todo tamizaje alterado es sospecha grave, pero nunca se da la hormona sin antes haber sacado la sangre venosa para confirmarlo en el laboratorio central.",
+    "options": [
+      {
+        "text": "A) Iniciar Levotiroxina de inmediato sin esperar exámenes.",
+        "isCorrect": false,
+        "explanation": "Falso. Siempre se debe tomar la muestra venosa confirmatoria antes de dar la primera dosis."
+      },
+      {
+        "text": "B) Solicitar TSH y T4 libre confirmatorias y derivar para inicio de tratamiento de inmediato.",
+        "isCorrect": true,
+        "explanation": "Correcto. Todo tamizaje alterado debe ser confirmado en suero (sangre venosa), pero esto NO debe retrasar el inicio del tratamiento con Levotiroxina, que debe iniciarse precozmente para proteger el neurodesarrollo."
+      },
+      {
+        "text": "C) Repetir el tamizaje en papel filtro a los 30 días.",
+        "isCorrect": false,
+        "explanation": "Falso. Pierde tiempo valioso para el cerebro en desarrollo del niño."
+      },
+      {
+        "text": "D) Solicitar ecografía tiroidea antes de cualquier examen de sangre.",
+        "isCorrect": false,
+        "explanation": "Falso. La imagenología no debe retrasar la confirmación bioquímica ni el inicio del tratamiento."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Hipotiroidismo)",
+    "text": "¿Cuál es la causa más frecuente de hipotiroidismo congénito primario?",
+    "hint": "La inmensa mayoría de los casos se debe a que la glándula no se formó, se formó pequeña o quedó en un lugar equivocado del cuello.",
+    "options": [
+      {
+        "text": "A) Dishormonogénesis tiroidea",
+        "isCorrect": false,
+        "explanation": "Falso. Los defectos enzimáticos hereditarios corresponden solo al 10-15% de los casos."
+      },
+      {
+        "text": "B) Disgenesia tiroidea (ectopia, agenesia, hipoplasia)",
+        "isCorrect": true,
+        "explanation": "Correcto. Las anomalías del desarrollo embrionario de la glándula (disgenesias), principalmente la ectopia, representan aproximadamente el 80-85% de los casos de hipotiroidismo congénito."
+      },
+      {
+        "text": "C) Paso transplacentario de anticuerpos maternos",
+        "isCorrect": false,
+        "explanation": "Falso. Es una causa poco común y generalmente produce un cuadro transitorio."
+      },
+      {
+        "text": "D) Déficit de yodo en la dieta materna",
+        "isCorrect": false,
+        "explanation": "Falso. Muy raro en países con programas de suplementación de yodo (sal yodada)."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Hipotiroidismo)",
+    "text": "¿Cuál de las siguientes manifestaciones NO es un signo clásico de hipotiroidismo congénito severo de diagnóstico tardío?",
+    "hint": "El hipotiroidismo enlentece el metabolismo basal (bradicardia, constipación, frío). Busca la opción que describa un metabolismo hiperacelerado.",
+    "options": [
+      {
+        "text": "A) Ictericia prolongada",
+        "isCorrect": false,
+        "explanation": "Falso. La ictericia neonatal que no cede es un signo clásico y de alerta de hipotiroidismo (por inmadurez hepática prolongada)."
+      },
+      {
+        "text": "B) Taquicardia y sudoración",
+        "isCorrect": true,
+        "explanation": "Correcto. La taquicardia, pérdida de peso y sudoración son signos de hipertiroidismo. El hipotiroidismo se caracteriza por bradicardia, piel fría/seca y letargia."
+      },
+      {
+        "text": "C) Macroglosia y llanto ronco",
+        "isCorrect": false,
+        "explanation": "Falso. Son signos patognomónicos del mixedema por falta prolongada de hormonas."
+      },
+      {
+        "text": "D) Hernia umbilical y constipación",
+        "isCorrect": false,
+        "explanation": "Falso. Clásicos del hipotiroidismo por hipotonía muscular generalizada y lentitud del tránsito intestinal."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Hipotiroidismo)",
+    "text": "En el estudio inicial de un paciente de 12 años con sospecha de hipotiroidismo adquirido autoinmune (Hashimoto), además de TSH y T4 libre, ¿qué examen es fundamental solicitar?",
+    "hint": "Si sospechas una tiroiditis de Hashimoto, necesitas demostrar la presencia de autoinmunidad contra las proteínas clave que fabrican la hormona en la glándula.",
+    "options": [
+      {
+        "text": "A) Anticuerpos anti-receptor de TSH (TRAB)",
+        "isCorrect": false,
+        "explanation": "Falso. Los TRAB se solicitan en la sospecha de Enfermedad de Graves (hipertiroidismo)."
+      },
+      {
+        "text": "B) Anticuerpos antitiroideos (Anti-TPO y Anti-Tiroglobulina)",
+        "isCorrect": true,
+        "explanation": "Correcto. La presencia de anticuerpos Anti-peroxidasa tiroidea (Anti-TPO) y Anti-tiroglobulina confirma la naturaleza autoinmune de la enfermedad (Tiroiditis de Hashimoto)."
+      },
+      {
+        "text": "C) Cintigrama tiroideo",
+        "isCorrect": false,
+        "explanation": "Falso. No es un examen de rutina para el diagnóstico de hipotiroidismo adquirido no complicado."
+      },
+      {
+        "text": "D) Punción con aguja fina (PAAF) de tiroides",
+        "isCorrect": false,
+        "explanation": "Falso. Se reserva para el estudio de nódulos tiroideos palpables sospechosos de malignidad."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neurología (Convulsiones)",
+    "text": "Lactante de 14 meses, sano, presenta un episodio de convulsión tónico-clónica generalizada de 3 minutos. En urgencia se constata 39.5°C por otitis media. Recupera conciencia totalmente. El diagnóstico es:",
+    "hint": "Las crisis simples son cortas (<15 min), generalizadas y ocurren una sola vez en 24 horas, con recuperación postictal completa en un niño sano.",
+    "options": [
+      {
+        "text": "A) Crisis febril compleja",
+        "isCorrect": false,
+        "explanation": "Falso. Sería compleja si fuera focal, prolongada (>15 min) o recurrente en menos de 24 horas."
+      },
+      {
+        "text": "B) Epilepsia mioclónica",
+        "isCorrect": false,
+        "explanation": "Falso. La epilepsia requiere crisis no provocadas (sin fiebre o factor desencadenante agudo)."
+      },
+      {
+        "text": "C) Crisis febril simple",
+        "isCorrect": true,
+        "explanation": "Correcto. Cumple todos los criterios de crisis febril simple: generalizada, corta duración (< 15 min), único episodio en 24h, niño sano entre 6m y 5 años con fiebre extraneurológica, y rápida recuperación."
+      },
+      {
+        "text": "D) Meningitis bacteriana aguda",
+        "isCorrect": false,
+        "explanation": "Falso. En una meningitis, no habría recuperación neurológica total tan rápida y tendría alteración del sensorio persistente."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neurología (Convulsiones)",
+    "text": "¿Cuál de los siguientes es un factor de riesgo establecido para el desarrollo posterior de epilepsia tras una crisis febril?",
+    "hint": "La edad temprana y la fiebre baja al convulsionar son factores para que repita las crisis febriles, pero para *epilepsia* debes buscar antecedentes duros o crisis atípicas.",
+    "options": [
+      {
+        "text": "A) Edad de la primera crisis menor a 12 meses",
+        "isCorrect": false,
+        "explanation": "Falso. Es factor de riesgo de *recurrencia* de crisis febriles, no de desarrollo posterior de epilepsia."
+      },
+      {
+        "text": "B) Antecedentes familiares de primer grado con epilepsia",
+        "isCorrect": true,
+        "explanation": "Correcto. Los factores de riesgo reconocidos para desarrollar epilepsia posterior a una crisis febril son: antecedentes familiares de epilepsia, alteraciones previas del neurodesarrollo y que la crisis haya sido compleja."
+      },
+      {
+        "text": "C) Temperatura menor a 38.5°C al momento de la crisis",
+        "isCorrect": false,
+        "explanation": "Falso. Es un factor que aumenta el riesgo de recurrencia de la crisis febril, pero no predice epilepsia a futuro."
+      },
+      {
+        "text": "D) Sexo masculino",
+        "isCorrect": false,
+        "explanation": "Falso. El sexo no es un factor de riesgo predictivo de epilepsia en este contexto."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neurología (Convulsiones)",
+    "text": "Ingresa escolar de 8 años a Urgencias en status epiléptico convulsivo (lleva 10 minutos). La medida farmacológica de PRIMERA LÍNEA para abortar la crisis es:",
+    "hint": "El cerebro en status necesita un depresor rápido del SNC. Piensa en la familia farmacológica más rápida y efectiva para uso IV en emergencias (terminan en -pam).",
+    "options": [
+      {
+        "text": "A) Fenitoína endovenosa",
+        "isCorrect": false,
+        "explanation": "Falso. Es un antiepiléptico de segunda línea, indicado para impregnar al paciente si falla la primera línea o para evitar recurrencias."
+      },
+      {
+        "text": "B) Lorazepam o Diazepam endovenoso",
+        "isCorrect": true,
+        "explanation": "Correcto. Las benzodiazepinas intravenosas (Lorazepam, Diazepam o Midazolam) son siempre la primera línea de tratamiento en urgencias para detener una crisis convulsiva prolongada o status epiléptico."
+      },
+      {
+        "text": "C) Fenobarbital endovenoso",
+        "isCorrect": false,
+        "explanation": "Falso. Es droga de primera línea sólo en el período neonatal. En niños mayores es de segunda o tercera línea."
+      },
+      {
+        "text": "D) Levetiracetam endovenoso",
+        "isCorrect": false,
+        "explanation": "Falso. Es una excelente opción de segunda línea (impregnación), pero el abortivo agudo principal debe ser una benzodiazepina."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neurología (Convulsiones)",
+    "text": "Preescolar de 5 años presenta episodios recurrentes de 'desconexión' de 10 segundos. Detiene su actividad y parpadea, sin pérdida del tono postural. Luego retoma lo que hacía sin confusión. El EEG muestra espiga-onda de 3 Hz. Diagnóstico:",
+    "hint": "El patrón EEG de espiga-onda lenta a 3 Hz junto a 'desconexiones' breves sin pérdida de tono postural ni confusión posterior son patognomónicos de este síndrome de la infancia.",
+    "options": [
+      {
+        "text": "A) Crisis focales con alteración de conciencia",
+        "isCorrect": false,
+        "explanation": "Falso. Las crisis focales suelen tener auras, automatismos más complejos y un claro periodo de confusión postictal."
+      },
+      {
+        "text": "B) Epilepsia rolándica",
+        "isCorrect": false,
+        "explanation": "Falso. Es la epilepsia benigna de la infancia que típicamente ocurre durante el sueño con compromiso focal facial."
+      },
+      {
+        "text": "C) Crisis de ausencia infantil",
+        "isCorrect": true,
+        "explanation": "Correcto. Los episodios muy breves de desconexión sin pérdida de tono, sin periodo postictal y el EEG característico con descargas generalizadas de espiga-onda lenta a 3 Hz son patognomónicos de la Epilepsia de Ausencia Infantil."
+      },
+      {
+        "text": "D) Síndrome de West",
+        "isCorrect": false,
+        "explanation": "Falso. Es típico del lactante (<1 año) y cursa con espasmos infantiles en flexión/extensión y EEG caótico (hipsarritmia)."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neurología (Convulsiones)",
+    "text": "¿En cuál de las siguientes situaciones está obligatoriamente indicada la realización de una punción lumbar en un niño con su primera crisis convulsiva febril?",
+    "hint": "La punción lumbar se hace para descartar meningitis. Busca el paciente que, pasada la crisis, no se recupera neurológicamente o tiene signos de irritación meníngea.",
+    "options": [
+      {
+        "text": "A) Niño de 3 años, con esquema de vacunación completo y recuperación total.",
+        "isCorrect": false,
+        "explanation": "Falso. En un niño mayor de 1 año, bien vacunado y de buen aspecto post-crisis, la PL no es de rutina."
+      },
+      {
+        "text": "B) Niño de 14 meses, con signos meníngeos dudosos y sopor que persiste tras la crisis.",
+        "isCorrect": true,
+        "explanation": "Correcto. La presencia de signos meníngeos o un compromiso de conciencia (sopor) persistente que no corresponde al periodo postictal normal obliga a descartar una neuroinfección (Meningitis) mediante punción lumbar."
+      },
+      {
+        "text": "C) Niño de 2 años, con crisis de 5 minutos y faringitis exudativa.",
+        "isCorrect": false,
+        "explanation": "Falso. Tiene un foco infeccioso claro (faringitis) y la crisis fue simple, no requiere PL obligatoria."
+      },
+      {
+        "text": "D) Niña de 4 años, con antecedente de padre con crisis febriles.",
+        "isCorrect": false,
+        "explanation": "Falso. El antecedente familiar reafirma el diagnóstico de susceptibilidad a crisis febril simple."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Gastroenterología (Deshidratación)",
+    "text": "Lactante de 1 año 2 meses presenta diarrea abundante y vómitos. Al examen: decaído, mucosas secas, llanto sin lágrimas, llenado capilar 2 segundos, diuresis escasa. Pesa 10 kg. El plan de hidratación a seguir es:",
+    "hint": "Tiene varios signos de deshidratación clínica (mucosas secas, decaimiento) pero su llene capilar aún es normal (2 seg) y no está en shock. Corresponde a la terapia intermedia.",
+    "options": [
+      {
+        "text": "A) Plan C (Expansión con Suero Fisiológico IV).",
+        "isCorrect": false,
+        "explanation": "Falso. El Plan C se reserva para deshidratación grave o shock hipovolémico (compromiso de conciencia severo, llenado capilar prolongado)."
+      },
+      {
+        "text": "B) Plan B (Sales de Rehidratación Oral 50-100 ml/kg en 4 horas).",
+        "isCorrect": true,
+        "explanation": "Correcto. El paciente tiene signos de deshidratación moderada ('algún grado' según OMS). El tratamiento de elección es la rehidratación oral con SRO (Plan B)."
+      },
+      {
+        "text": "C) Plan A (Manejo en casa con líquidos a tolerancia).",
+        "isCorrect": false,
+        "explanation": "Falso. El Plan A es solo de mantenimiento/prevención en niños que aún no presentan signos clínicos de deshidratación."
+      },
+      {
+        "text": "D) Plan C con Suero Glucosado.",
+        "isCorrect": false,
+        "explanation": "Falso. El suero glucosado nunca se usa para reanimación de volumen."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Gastroenterología (Diarrea Aguda)",
+    "text": "Preescolar de 3 años presenta diarrea con mucosidades y estrías de sangre, asociada a fiebre de 39°C, pujo y tenesmo. Ha presentado convulsiones febriles en este cuadro. Agente bacteriano sospechoso:",
+    "hint": "Es un síndrome disentérico febril. La asociación clásica con convulsiones febriles (por neurotoxina) apunta a esta bacteria específica.",
+    "options": [
+      {
+        "text": "A) Rotavirus",
+        "isCorrect": false,
+        "explanation": "Falso. Produce diarrea acuosa profunda sin sangre ni pujo, y típicamente en menores de 2 años."
+      },
+      {
+        "text": "B) Vibrio cholerae",
+        "isCorrect": false,
+        "explanation": "Falso. Produce diarrea en 'agua de arroz' (secretora masiva), sin sangre ni disentería."
+      },
+      {
+        "text": "C) Shigella sp.",
+        "isCorrect": true,
+        "explanation": "Correcto. Shigella produce clásicamente un síndrome disentérico (diarrea con sangre y moco, fiebre alta, pujo) y tiene una conocida asociación neurotóxica que favorece convulsiones febriles."
+      },
+      {
+        "text": "D) Giardia lamblia",
+        "isCorrect": false,
+        "explanation": "Falso. Parásito que produce diarrea prolongada, lientería y esteatorrea, no disentería febril aguda."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Gastroenterología (Diarrea Aguda)",
+    "text": "¿Cuál es el mecanismo fisiopatológico principal de la diarrea producida por Rotavirus?",
+    "hint": "Los virus no suelen invadir profundamente ni producir enterotoxinas; en cambio, destruyen el epitelio superficial absortivo, dejando los azúcares sin digerir en la luz intestinal.",
+    "options": [
+      {
+        "text": "A) Invasión y destrucción de la mucosa colónica profunda",
+        "isCorrect": false,
+        "explanation": "Falso. Es el mecanismo de bacterias invasoras como Shigella o Campylobacter."
+      },
+      {
+        "text": "B) Destrucción de enterocitos de las vellosidades intestinales, causando malabsorción osmótica",
+        "isCorrect": true,
+        "explanation": "Correcto. Rotavirus infecta y lisa los enterocitos maduros del ápice de las vellosidades, impidiendo la absorción de carbohidratos (como lactosa), generando diarrea osmótica."
+      },
+      {
+        "text": "C) Producción de enterotoxinas que activan el AMP cíclico",
+        "isCorrect": false,
+        "explanation": "Falso. Es el mecanismo de la toxina del Cólera y de E. coli enterotoxigénica."
+      },
+      {
+        "text": "D) Alteración de la motilidad intestinal sin daño mucoso",
+        "isCorrect": false,
+        "explanation": "Falso. El rotavirus sí produce destrucción epitelial superficial."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Urgencias (Shock)",
+    "text": "Frente a un síndrome diarreico agudo con deshidratación grave y shock en un lactante, el fluido intravenoso inicial de elección (bolo) es:",
+    "hint": "Necesitas expandir rápidamente el volumen de sangre. Se debe usar un cristaloide que sea isotónico con el plasma y que NO contenga glucosa.",
+    "options": [
+      {
+        "text": "A) Suero Glucosado al 5%",
+        "isCorrect": false,
+        "explanation": "Falso. La glucosa se metaboliza rápido, dejando agua libre que fuga al intersticio y no expande el volumen intravascular."
+      },
+      {
+        "text": "B) Solución Fisiológica (NaCl 0.9%) o Ringer Lactato a 20 ml/kg",
+        "isCorrect": true,
+        "explanation": "Correcto. En estado de shock, se deben administrar cristaloides isotónicos rápidos para restaurar el volumen intravascular circulante de urgencia."
+      },
+      {
+        "text": "C) Albúmina al 5% a 10 ml/kg",
+        "isCorrect": false,
+        "explanation": "Falso. Los coloides no están indicados como primera línea en gastroenteritis."
+      },
+      {
+        "text": "D) Solución Glucosalina",
+        "isCorrect": false,
+        "explanation": "Falso. El componente glucosado y la hipotonicidad la hacen inadecuada para la resucitación inicial."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Gastroenterología (Diarrea Aguda)",
+    "text": "Según las guías clínicas de pediatría, ¿cuál de los siguientes medicamentos está CONTRAINDICADO en el manejo del síndrome diarreico agudo en niños?",
+    "hint": "Paralizar el intestino en un niño con infección aumenta el riesgo de íleo, retención de toxinas (megacolon) y toxicidad en el SNC.",
+    "options": [
+      {
+        "text": "A) Zinc",
+        "isCorrect": false,
+        "explanation": "Falso. El Zinc está recomendado por la OMS para acortar la duración del cuadro y regenerar el epitelio."
+      },
+      {
+        "text": "B) Ondansetrón",
+        "isCorrect": false,
+        "explanation": "Falso. Es útil en urgencias para frenar vómitos intratables y permitir la rehidratación oral."
+      },
+      {
+        "text": "C) Loperamida",
+        "isCorrect": true,
+        "explanation": "Correcto. Los inhibidores de la motilidad (Loperamida) están absolutamente contraindicados en pediatría por alto riesgo de íleo paralítico, megacolon tóxico y depresión del SNC."
+      },
+      {
+        "text": "D) Probióticos (Saccharomyces boulardii)",
+        "isCorrect": false,
+        "explanation": "Falso. Están recomendados como coadyuvantes en guías clínicas."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Pubertad)",
+    "text": "En la evaluación del desarrollo puberal en un niño varón, ¿cuál es el primer signo físico de inicio de la pubertad normal?",
+    "hint": "El primer signo puberal masculino no es piloso ni el estirón de talla, sino el aumento de tamaño de la gónada (>4 mL).",
+    "options": [
+      {
+        "text": "A) Aparición de vello púbico (Pubarquia)",
+        "isCorrect": false,
+        "explanation": "Falso. Suele aparecer después y puede deberse a la maduración suprarrenal (adrenarquia)."
+      },
+      {
+        "text": "B) Crecimiento rápido de talla (Estirón puberal)",
+        "isCorrect": false,
+        "explanation": "Falso. El estirón es un evento tardío en el varón (Tanner III-IV)."
+      },
+      {
+        "text": "C) Aumento de volumen testicular ≥ 4 ml",
+        "isCorrect": true,
+        "explanation": "Correcto. El aumento del volumen testicular a 4 mL o más marca el inicio de la pubertad masculina real (Tanner II), activando el eje hipotálamo-hipófisis-testicular."
+      },
+      {
+        "text": "D) Cambio en el tono de voz",
+        "isCorrect": false,
+        "explanation": "Falso. Es un signo androgénico tardío."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Pubertad)",
+    "text": "Niña de 6 años consulta por botón mamario y vello púbico. La velocidad de crecimiento está aumentada y la edad ósea está adelantada en 2 años. El diagnóstico más probable es:",
+    "hint": "La aparición de caracteres sexuales antes de los 8 años, más aceleración de crecimiento y edad ósea, indica que el eje central ya despertó por completo.",
+    "options": [
+      {
+        "text": "A) Telarquia prematura aislada",
+        "isCorrect": false,
+        "explanation": "Falso. Solo presenta botón mamario, sin avance óseo ni aceleración de talla."
+      },
+      {
+        "text": "B) Pubertad precoz verdadera (central)",
+        "isCorrect": true,
+        "explanation": "Correcto. Aparición de caracteres sexuales secundarios antes de los 8 años, sumado a aceleración de crecimiento y maduración ósea avanzada, indica activación patológica completa del eje (Pubertad Precoz Central)."
+      },
+      {
+        "text": "C) Adrenarquia prematura",
+        "isCorrect": false,
+        "explanation": "Falso. Solo presenta vello púbico u olor apocrino, sin desarrollo mamario."
+      },
+      {
+        "text": "D) Desarrollo puberal normal para la edad",
+        "isCorrect": false,
+        "explanation": "Falso. Antes de los 8 años en niñas es considerado siempre precoz y requiere estudio."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Pubertad)",
+    "text": "¿Cuál es el estudio de laboratorio estándar ('gold standard') para confirmar el diagnóstico de Pubertad Precoz Central?",
+    "hint": "Para saber si la pubertad viene 'de arriba', hay que inyectar el estimulador del hipotálamo y ver si la hipófisis responde liberando LH.",
+    "options": [
+      {
+        "text": "A) Estradiol plasmático basal",
+        "isCorrect": false,
+        "explanation": "Falso. Sus niveles basales pueden fluctuar o ser bajos en etapas tempranas."
+      },
+      {
+        "text": "B) Test de estímulo con análogos de GnRH (medición de LH estimulada)",
+        "isCorrect": true,
+        "explanation": "Correcto. Un test de GnRH que demuestra un pico de LH con patrón puberal confirma la activación central del eje gonadotropo, diferenciándolo de una pubertad periférica."
+      },
+      {
+        "text": "C) Resonancia Magnética de silla turca",
+        "isCorrect": false,
+        "explanation": "Falso. La RM se realiza DESPUÉS de confirmar bioquímicamente que es central, para descartar tumores."
+      },
+      {
+        "text": "D) Niveles basales de TSH y T4 libre",
+        "isCorrect": false,
+        "explanation": "Falso. Descarta hipotiroidismo severo, pero no confirma el origen gonadotropo."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Pubertad)",
+    "text": "Adolescente varón de 14 años y 6 meses. Al examen físico destaca volumen testicular de 2 ml, sin vello púbico (Tanner I). El diagnóstico inicial es:",
+    "hint": "Todo varón que llega a los 14 años sin iniciar el crecimiento testicular (≥ 4 ml) cae por definición estadística en esta categoría de estudio.",
+    "options": [
+      {
+        "text": "A) Desarrollo puberal normal",
+        "isCorrect": false,
+        "explanation": "Falso. Pasados los 14 años sin signos de inicio, ya no es estadísticamente normal."
+      },
+      {
+        "text": "B) Pubertad retrasada",
+        "isCorrect": true,
+        "explanation": "Correcto. Por definición, en los varones se diagnostica retraso puberal si no hay evidencia clínica de aumento del volumen testicular (≥ 4 mL) a la edad de 14 años."
+      },
+      {
+        "text": "C) Microorquidia",
+        "isCorrect": false,
+        "explanation": "Falso. Es un hallazgo, pero el síndrome general por la edad es el retraso puberal."
+      },
+      {
+        "text": "D) Síndrome de Klinefelter",
+        "isCorrect": false,
+        "explanation": "Falso. Puede ser la etiología de base, pero el diagnóstico clínico de entrada es 'Pubertad retrasada'."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Pubertad)",
+    "text": "En una niña con hallazgo de 'Telarquia prematura aislada' (botón mamario a los 2 años, sin aceleración del crecimiento ni edad ósea adelantada), la conducta más adecuada es:",
+    "hint": "Es una condición aislada, sin otros signos de pubertad verdadera. Las intervenciones agresivas no tienen indicación aquí.",
+    "options": [
+      {
+        "text": "A) Iniciar tratamiento con análogos de GnRH",
+        "isCorrect": false,
+        "explanation": "Falso. El uso de frenadores de GnRH se reserva estrictamente para la Pubertad Precoz Central verdadera."
+      },
+      {
+        "text": "B) Realizar Resonancia Magnética cerebral urgente",
+        "isCorrect": false,
+        "explanation": "Falso. Sin signos de activación central, una RM no tiene indicación inicial."
+      },
+      {
+        "text": "C) Seguimiento clínico expectante",
+        "isCorrect": true,
+        "explanation": "Correcto. La telarquia prematura aislada en menores de 2-3 años es una variante benigna, autolimitada y frecuente. Se debe seguir clínicamente para asegurar que no evoluciona a pubertad precoz."
+      },
+      {
+        "text": "D) Solicitar ecografía pélvica y biopsia ovárica",
+        "isCorrect": false,
+        "explanation": "Falso. Medida innecesariamente invasiva para una condición benigna."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Genética (Genopatías)",
+    "text": "Recién nacido de término AEG, 39 semanas, madre primigesta 40 años. Al examen: hipotonía, piel marmórea, abdomen bultoso, hendiduras palpebrales oblicuas, clinodactilia y pliegue palmar único. El diagnóstico es:",
+    "hint": "La edad materna >35 años y los hallazgos semiológicos clásicos (pliegue simiano, ojos achinados, hipotonía) orientan a la aneuploidía más frecuente.",
+    "options": [
+      {
+        "text": "A) RNT AEG 39 semanas. Obs trisomía 18",
+        "isCorrect": false,
+        "explanation": "Falso. El Síndrome de Edwards (Trisomía 18) cursa con hipertonía, puños cerrados con dedos superpuestos y pie en mecedora."
+      },
+      {
+        "text": "B) RNT AEG 39 semanas. Obs Síndrome de Down",
+        "isCorrect": true,
+        "explanation": "Correcto. Las características descritas (hipotonía, fisuras palpebrales oblicuas, pliegue simiano y clinodactilia) son los estigmas fenotípicos cardinales de la Trisomía 21."
+      },
+      {
+        "text": "C) RNT AEG 39 semanas. Sano",
+        "isCorrect": false,
+        "explanation": "Falso. La sumatoria de estigmas dismórficos y la edad materna configuran un cuadro patológico."
+      },
+      {
+        "text": "D) RNT AEG 39 semanas. Obs trisomía 13",
+        "isCorrect": false,
+        "explanation": "Falso. El Síndrome de Patau (Trisomía 13) cursa con defectos severos de la línea media: holoprosencefalia, labio leporino bilateral."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Nefrología (HTA)",
+    "text": "Según las normativas chilenas e internacionales, ¿cómo se define la Hipertensión Arterial (HTA) en un niño menor de 13 años?",
+    "hint": "En pediatría precoz dependemos de tablas estadísticas complejas que integran 3 variables antropométricas, no de cortes fijos en mmHg.",
+    "options": [
+      {
+        "text": "A) PA sistólica y/o diastólica ≥ percentil 90 para edad, sexo y talla, en 3 o más ocasiones.",
+        "isCorrect": false,
+        "explanation": "Falso. El percentil 90 a 94 define la categoría de PA Elevada (antigua pre-hipertensión)."
+      },
+      {
+        "text": "B) PA sistólica y/o diastólica ≥ percentil 95 para edad, sexo y talla, en 3 o más ocasiones.",
+        "isCorrect": true,
+        "explanation": "Correcto. La HTA en <13 años se define estadísticamente cuando los valores superan el P95 para su edad, sexo y talla en al menos 3 tomas separadas."
+      },
+      {
+        "text": "C) Presión arterial ≥ 130/80 mmHg independiente de la edad y talla.",
+        "isCorrect": false,
+        "explanation": "Falso. Este criterio fijo (130/80) se utiliza como definición de HTA sólo para adolescentes mayores de 13 años."
+      },
+      {
+        "text": "D) Presión arterial sistólica ≥ percentil 99 en una única toma.",
+        "isCorrect": false,
+        "explanation": "Falso. Un valor único no hace diagnóstico crónico de HTA."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Nefrología (HTA)",
+    "text": "¿Cuál es la causa más frecuente de Hipertensión Arterial secundaria en preescolares y escolares?",
+    "hint": "Piensa en el órgano encargado de filtrar la sangre y regular el sistema renina-angiotensina, que se suele dañar tras infecciones (ITU).",
+    "options": [
+      {
+        "text": "A) Coartación de la aorta",
+        "isCorrect": false,
+        "explanation": "Falso. Es una causa importante, pero predomina en lactantes y es menos frecuente globalmente que las renales."
+      },
+      {
+        "text": "B) Feocromocitoma",
+        "isCorrect": false,
+        "explanation": "Falso. Es una causa endocrinológica muy rara."
+      },
+      {
+        "text": "C) Patología del parénquima renal (ej. cicatrices por ITU, glomerulopatías)",
+        "isCorrect": true,
+        "explanation": "Correcto. La patología renal representa hasta el 80% de las causas de HTA secundaria en pediatría. Las nefropatías por reflujo (cicatrices post pielonefritis) y glomerulonefritis son las principales."
+      },
+      {
+        "text": "D) Hipertiroidismo",
+        "isCorrect": false,
+        "explanation": "Falso. Produce taquicardia, pero es causa rara de HTA crónica infantil."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Nefrología (AKI / SHU)",
+    "text": "Preescolar 3 años. Diarrea disentérica hace 5 días. Consulta por palidez, compromiso del estado general y oliguria. Examen: edema leve, petequias. Anemia severa, plaquetas 45.000, Creatinina 2.5 mg/dl y Esquistocitos. Diagnóstico:",
+    "hint": "Fíjate en la tríada clásica: falla renal (oliguria/creatinina), plaquetas bajas (petequias) y glóbulos rojos rotos (esquistocitos) tras diarrea.",
+    "options": [
+      {
+        "text": "A) Glomerulonefritis postestreptocócica",
+        "isCorrect": false,
+        "explanation": "Falso. Cursa con AKI y hematuria, pero no con anemia hemolítica microangiopática severa ni trombocitopenia marcada."
+      },
+      {
+        "text": "B) Síndrome Hemolítico Urémico (SHU)",
+        "isCorrect": true,
+        "explanation": "Correcto. Presenta la tríada clásica del SHU: Anemia hemolítica microangiopática, Trombocitopenia e Injuria Renal Aguda, típicamente antecedido por una diarrea invasiva (STEC)."
+      },
+      {
+        "text": "C) Púrpura Trombocitopénico Inmune (PTI)",
+        "isCorrect": false,
+        "explanation": "Falso. Cursa con trombocitopenia aislada en niño sano, sin alteración renal ni anemia."
+      },
+      {
+        "text": "D) Necrosis tubular aguda por deshidratación",
+        "isCorrect": false,
+        "explanation": "Falso. Es causa de AKI, pero no explica la trombocitopenia ni los esquistocitos."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Nefrología (AKI)",
+    "text": "En la evaluación de un lactante con Injuria Renal Aguda (AKI), la Fracción de Excreción de Sodio (FeNa) es del 0.5%. Esto es indicativo de:",
+    "hint": "Un FeNa bajo (<1%) significa que el riñón está intacto y reteniendo sodio al máximo porque 'siente' que le falta volumen de agua al cuerpo.",
+    "options": [
+      {
+        "text": "A) Injuria renal intrínseca (Necrosis Tubular Aguda)",
+        "isCorrect": false,
+        "explanation": "Falso. En la AKI Intrínseca la FeNa suele ser > 2%, ya que hay daño tubular y el riñón pierde capacidad de reabsorber el sodio."
+      },
+      {
+        "text": "B) Insuficiencia renal de causa post-renal (obstructiva)",
+        "isCorrect": false,
+        "explanation": "Falso. No se caracteriza primariamente por este hallazgo."
+      },
+      {
+        "text": "C) Insuficiencia renal de causa pre-renal (hipoperfusión)",
+        "isCorrect": true,
+        "explanation": "Correcto. Una FeNa < 1% indica que los túbulos renales están intactos, reabsorbiendo sodio al máximo para restaurar la volemia frente a una hipoperfusión (causa pre-renal, como deshidratación o shock)."
+      },
+      {
+        "text": "D) Síndrome Nefrótico congénito",
+        "isCorrect": false,
+        "explanation": "Falso. La FeNa evalúa la causa de la AKI, no el síndrome nefrótico."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Nefrología (AKI)",
+    "text": "De las siguientes alteraciones electrolíticas derivadas de la Insuficiencia Renal Aguda (AKI), ¿cuál es la complicación más letal y que requiere manejo de emergencia absoluto?",
+    "hint": "Busca el electrolito intracelular que, al no poder excretarse y acumularse en la sangre, altera el potencial de membrana del corazón causando arritmias.",
+    "options": [
+      {
+        "text": "A) Hiponatremia leve",
+        "isCorrect": false,
+        "explanation": "Falso. Es común, pero no representa el mayor riesgo de muerte inminente cardiovascular."
+      },
+      {
+        "text": "B) Hiperkalemia (Hiperpotasemia)",
+        "isCorrect": true,
+        "explanation": "Correcto. La incapacidad del riñón para excretar potasio genera hiperkalemia, la emergencia metabólica más grave en AKI porque causa arritmias ventriculares letales y paro cardíaco."
+      },
+      {
+        "text": "C) Hiperfosfatemia",
+        "isCorrect": false,
+        "explanation": "Falso. Genera complicaciones a mediano plazo (osteodistrofia), pero no muerte súbita."
+      },
+      {
+        "text": "D) Hipocalcemia",
+        "isCorrect": false,
+        "explanation": "Falso. Puede dar tetania o convulsiones, pero el riesgo inminente de paro es por el potasio alto."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Diabetes)",
+    "text": "Escolar de 8 años consulta por 3 semanas de poliuria, polidipsia y baja de peso. En urgencias presenta respiración de Kussmaul. ¿Qué criterios de laboratorio confirman el diagnóstico de Cetoacidosis Diabética (CAD)?",
+    "hint": "La Cetoacidosis Diabética requiere 3 pilares bioquímicos concurrentes: glucosa alta, sangre ácida y productos de degradación de grasas.",
+    "options": [
+      {
+        "text": "A) Glicemia > 126 mg/dl en ayunas y HbA1c > 6.5%",
+        "isCorrect": false,
+        "explanation": "Falso. Son criterios diagnósticos de DM1 crónica, no de la descompensación aguda (CAD)."
+      },
+      {
+        "text": "B) Glicemia > 200 mg/dl, pH venoso < 7.30 o Bicarbonato < 15 mEq/L, y presencia de cetonemia/cetonuria.",
+        "isCorrect": true,
+        "explanation": "Correcto. Son los 3 criterios diagnósticos consensuados (ISPAD/MINSAL) para CAD pediátrica: hiperglicemia (>200), acidosis metabólica (pH < 7.3 o HCO3 < 15) y cetosis."
+      },
+      {
+        "text": "C) Glicemia > 600 mg/dl, pH > 7.30 y osmolaridad sérica > 330 mOsm/kg.",
+        "isCorrect": false,
+        "explanation": "Falso. Son criterios de Síndrome Hiperglicémico Hiperosmolar no cetósico, muy raro en pediatría."
+      },
+      {
+        "text": "D) Glicemia > 200 mg/dl, pH < 7.45 y potasio > 6 mEq/L.",
+        "isCorrect": false,
+        "explanation": "Falso. Los parámetros están incorrectos (pH 7.45 indica alcalosis)."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Diabetes)",
+    "text": "En el manejo inicial en Urgencias del paciente pediátrico con Cetoacidosis Diabética severa, la primera medida terapéutica endovenosa (antes de la insulina) debe ser:",
+    "hint": "El paciente llega severamente deshidratado. Usar insulina inmediatamente causaría un cambio osmótico brusco en el cerebro.",
+    "options": [
+      {
+        "text": "A) Bolo de insulina rápida a 0.1 U/kg IV directo.",
+        "isCorrect": false,
+        "explanation": "Falso. Contraindicado. Aumenta drásticamente el riesgo de edema cerebral."
+      },
+      {
+        "text": "B) Bolo de Bicarbonato de Sodio para corregir el pH.",
+        "isCorrect": false,
+        "explanation": "Falso. Su uso rutinario está contraindicado ya que empeora la acidosis intracelular (SNC)."
+      },
+      {
+        "text": "C) Expansión de volumen con Suero Fisiológico (NaCl 0.9%) a 10-20 ml/kg.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los pacientes llegan severamente deshidratados. La expansión inicial con cristaloides mejora la perfusión, la función renal y la sensibilidad a la insulina. Ésta se inicia después."
+      },
+      {
+        "text": "D) Infusión de Suero Glucosado al 5% para prevenir hipoglicemia.",
+        "isCorrect": false,
+        "explanation": "Falso. Inicialmente el paciente está hiperglicémico. La glucosa se agrega más adelante."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Diabetes)",
+    "text": "Durante el tratamiento de la cetoacidosis diabética en un niño, comienza repentinamente con cefalea intensa, irritabilidad, bradicardia y disminución del nivel de conciencia. ¿Cuál es el diagnóstico más probable?",
+    "hint": "La tríada de Cushing (bradicardia, hipertensión, alteración de conciencia) en un paciente con CAD que recibe fluidos es el signo clásico de esta complicación fatal.",
+    "options": [
+      {
+        "text": "A) Hipoglicemia severa secundaria al tratamiento",
+        "isCorrect": false,
+        "explanation": "Falso. Puede causar compromiso de conciencia, pero no clásicamente bradicardia/hipertensión, que son signos de herniación."
+      },
+      {
+        "text": "B) Edema cerebral",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la complicación más temida y principal causa de mortalidad en CAD pediátrica. Requiere tratamiento empírico inmediato (Manitol o Suero Salino Hipertónico)."
+      },
+      {
+        "text": "C) Sepsis fulminante",
+        "isCorrect": false,
+        "explanation": "Falso. No se presenta con clínica neurológica hipertensiva aguda (cefalea explosiva y bradicardia)."
+      },
+      {
+        "text": "D) Hipokalemia severa",
+        "isCorrect": false,
+        "explanation": "Falso. Genera arritmias y debilidad muscular, no clínica de hipertensión endocraneana."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Endocrinología (Talla Baja)",
+    "text": "Varón de 14 años en P10 de talla. Velocidad de crecimiento conservada. Edad ósea 11 años y medio (retrasada). Padre con estirón a los 16 años. El diagnóstico más probable es:",
+    "hint": "El paciente crece a ritmo normal pero va 'atrasado' en su edad ósea, al igual que su padre. Eventualmente alcanzará una talla normal.",
+    "options": [
+      {
+        "text": "A) Talla baja familiar genética",
+        "isCorrect": false,
+        "explanation": "Falso. En la talla baja familiar la edad ósea es igual a la cronológica, y la talla adulta proyectada sí será baja."
+      },
+      {
+        "text": "B) Retraso constitucional del crecimiento y desarrollo (RCCD)",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una variante de la normalidad: velocidad conservada, edad ósea retrasada (> 2 DE) y antecedente de pubertad tardía. Alcanzan una talla final normal, solo que 'más tarde'."
+      },
+      {
+        "text": "C) Déficit de hormona de crecimiento (GH)",
+        "isCorrect": false,
+        "explanation": "Falso. Presentarían velocidad de crecimiento marcadamente disminuida, no solo edad ósea retrasada."
+      },
+      {
+        "text": "D) Síndrome de Klinefelter",
+        "isCorrect": false,
+        "explanation": "Falso. Se asocia a talla alta, no baja."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Genética (Talla Baja)",
+    "text": "Escolar femenina de 12 años con talla baja desproporcionada. Destaca cuello alado (pterigium colli), tórax ancho y mamas Tanner I (ausencia pubertad). Examen confirmatorio a solicitar:",
+    "hint": "Facies característica, cuello alado, tórax en escudo y falta de pubertad (falla ovárica) obligan a buscar la falta de un cromosoma X.",
+    "options": [
+      {
+        "text": "A) Niveles de Hormona de Crecimiento basal",
+        "isCorrect": false,
+        "explanation": "Falso. No sirve para diagnóstico (es pulsátil), y el fenotipo orienta a síndrome genético, no a eje somatotropo puro."
+      },
+      {
+        "text": "B) Anticuerpos antitransglutaminasa",
+        "isCorrect": false,
+        "explanation": "Falso. Descartan Enfermedad Celíaca, que causa talla baja proporcionada, sin los dismorfismos descritos."
+      },
+      {
+        "text": "C) Cariotipo",
+        "isCorrect": true,
+        "explanation": "Correcto. El fenotipo clínico descrito (talla baja, cuello alado, tórax en escudo, infantilismo sexual) es altamente sugerente del Síndrome de Turner (45, X0). Requiere cariotipo confirmatorio."
+      },
+      {
+        "text": "D) Radiografía de muñeca para edad ósea",
+        "isCorrect": false,
+        "explanation": "Falso. Es parte del estudio inicial, pero no es el examen 'confirmatorio' del diagnóstico genético de base."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Genética (Talla Baja)",
+    "text": "Lactante con talla baja desproporcionada: acortamiento rizomélico (brazos y muslos cortos), macrocefalia y frente prominente. Causado por una mutación en:",
+    "hint": "El acortamiento de las partes proximales de las extremidades (rizomélico) y la macrocefalia son cardinales de la displasia esquelética más común.",
+    "options": [
+      {
+        "text": "A) Gen FGFR3 (Acondroplasia)",
+        "isCorrect": true,
+        "explanation": "Correcto. Las características corresponden a la Acondroplasia, la displasia esquelética más común, producida por la mutación del gen del Receptor 3 del Factor de Crecimiento de Fibroblastos (FGFR3)."
+      },
+      {
+        "text": "B) Gen SHOX",
+        "isCorrect": false,
+        "explanation": "Falso. Su deficiencia causa talla baja, pero menos severamente desproporcionada que la acondroplasia."
+      },
+      {
+        "text": "C) Cromosoma 21 (Síndrome de Down)",
+        "isCorrect": false,
+        "explanation": "Falso. Causa talla baja proporcionada, no acortamiento rizomélico primario ni macrocefalia."
+      },
+      {
+        "text": "D) Déficit de IGF-1",
+        "isCorrect": false,
+        "explanation": "Falso. Causa talla baja severa proporcionada (ej. Síndrome de Laron)."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Trauma",
+    "text": "En la reanimación inicial de un paciente pediátrico politraumatizado (A-B-C-D-E), ¿cuál es la primera maniobra que se debe asegurar de forma simultánea a la apertura de la vía aérea?",
+    "hint": "En el ABCDE del trauma, la letra 'A' no solo significa abrir la vía respiratoria, sino proteger la frágil estructura ósea que la acompaña en el cuello.",
+    "options": [
+      {
+        "text": "A) Instalación de dos vías venosas periféricas gruesas",
+        "isCorrect": false,
+        "explanation": "Falso. Corresponde al paso 'C' (Circulación), posterior a la vía aérea."
+      },
+      {
+        "text": "B) Control de la columna cervical",
+        "isCorrect": true,
+        "explanation": "Correcto. En la evaluación primaria (A: Airway), la permeabilización de la vía aérea siempre debe ir acompañada del control estricto de la columna cervical (inmovilización bimanual o collar) en trauma contuso."
+      },
+      {
+        "text": "C) Administración de oxigeno a alto flujo",
+        "isCorrect": false,
+        "explanation": "Falso. Corresponde al paso 'B' (Breathing), posterior a la vía aérea, pero el control cervical es imperativo mecánico inmediato."
+      },
+      {
+        "text": "D) Realización de un FAST (Eco abdominal)",
+        "isCorrect": false,
+        "explanation": "Falso. Corresponde a la evaluación adjunta al 'C', no a la maniobra inicial."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Urgencias (Shock)",
+    "text": "En un lactante con trauma contuso abdominal, ¿cuál de los siguientes signos clínicos es el mejor y más precoz indicador de shock hipovolémico compensado?",
+    "hint": "Los niños mantienen la presión arterial casi hasta el paro cardíaco. Sus primeros signos son intentar compensar latiendo más rápido y cerrando vasos periféricos.",
+    "options": [
+      {
+        "text": "A) Hipotensión arterial severa",
+        "isCorrect": false,
+        "explanation": "Falso. En pediatría, la caída de la presión arterial es un signo TARDÍO de shock descompensado (indica pérdida >25-30% de volemia)."
+      },
+      {
+        "text": "B) Taquicardia y llenado capilar prolongado (> 2 segundos)",
+        "isCorrect": true,
+        "explanation": "Correcto. Debido a los excelentes mecanismos de compensación, los signos precoces de hipovolemia son la taquicardia persistente, mala perfusión periférica (llene capilar lento) y pulsos débiles."
+      },
+      {
+        "text": "C) Bradicardia y apnea",
+        "isCorrect": false,
+        "explanation": "Falso. Son signos de fase pre-paro o hipoxia severa, no los precoces de hipovolemia."
+      },
+      {
+        "text": "D) Compromiso de conciencia (sopor profundo)",
+        "isCorrect": false,
+        "explanation": "Falso. Es un signo tardío de mala perfusión cerebral."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Trauma (Quemados)",
+    "text": "Se recibe a un escolar gran quemado. Según las fórmulas de reanimación (Parkland modificada), la solución de elección para la expansión es:",
+    "hint": "Se requiere un cristaloide isotónico que no cause un desbalance ácido-base (acidosis hiperclorémica) cuando se administran volúmenes masivos.",
+    "options": [
+      {
+        "text": "A) Suero Glucosado al 5%",
+        "isCorrect": false,
+        "explanation": "Falso. El agua libre exacerba el edema y no expande el espacio intravascular."
+      },
+      {
+        "text": "B) Ringer Lactato",
+        "isCorrect": true,
+        "explanation": "Correcto. El Ringer Lactato es el cristaloide de elección. Se prefiere al Suero Fisiológico al 0.9% en grandes volúmenes para evitar la temida acidosis hiperclorémica."
+      },
+      {
+        "text": "C) Suero Fisiológico al 0.45%",
+        "isCorrect": false,
+        "explanation": "Falso. Solución hipotónica que empeoraría el edema por fuga capilar."
+      },
+      {
+        "text": "D) Albúmina Humana al 20%",
+        "isCorrect": false,
+        "explanation": "Falso. Los coloides no se usan en las primeras 24 horas por el gran aumento de la permeabilidad capilar que hace que fuguen y arrastren agua."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Maltrato Infantil",
+    "text": "Lactante de 4 meses sin historia de trauma. Decaído. Fondo de ojo: hemorragias retinianas bilaterales; Neuroimagen: hematoma subdural. Este cuadro es patognomónico de:",
+    "hint": "La tríada de hematoma subdural, hemorragias retinianas severas y encefalopatía, sin un choque de tránsito evidente, es causada biomecánicamente por aceleración-desaceleración violenta intencional.",
+    "options": [
+      {
+        "text": "A) Enfermedad hemorrágica del recién nacido",
+        "isCorrect": false,
+        "explanation": "Falso. Cursa con sangrados, pero las hemorragias retinianas múltiples y el hematoma subdural son biomecánicamente de cizallamiento."
+      },
+      {
+        "text": "B) Síndrome del niño sacudido (Shaken Baby) / Trauma craneal abusivo",
+        "isCorrect": true,
+        "explanation": "Correcto. La clásica tríada de hemorragias retinianas, hematoma subdural y encefalopatía en un lactante, sin historia de trauma mayor, es altamente específica de maltrato por sacudidas violentas."
+      },
+      {
+        "text": "C) Meningitis meningocócica",
+        "isCorrect": false,
+        "explanation": "Falso. Cursa con fiebre, signos meníngeos y petequias corporales, no con hematomas subdurales primarios."
+      },
+      {
+        "text": "D) Coagulopatía hereditaria (Hemofilia)",
+        "isCorrect": false,
+        "explanation": "Falso. Explicaría hematomas, pero raramente hemorragias retinianas en llamas sin trauma contuso."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Maltrato Infantil",
+    "text": "Si un médico en urgencia atiende a un niño y tiene SOSPECHA FUNDADA de maltrato físico o abuso sexual, ¿qué obligación legal tiene (Guía MINSAL)?",
+    "hint": "La ley no exige pruebas irrefutables para el médico, solo la 'sospecha'. No actuar rápido te hace cómplice por omisión.",
+    "options": [
+      {
+        "text": "A) Derivar a psicólogo y esperar el informe antes de actuar.",
+        "isCorrect": false,
+        "explanation": "Falso. Esperar pone al menor en riesgo vital de volver con el agresor esa misma noche."
+      },
+      {
+        "text": "B) Denunciar el hecho a la autoridad competente (Fiscalía, Carabineros, PDI) dentro de las 24 horas.",
+        "isCorrect": true,
+        "explanation": "Correcto. El Código Procesal Penal establece la obligatoriedad legal ineludible de los profesionales de la salud de denunciar cualquier sospecha de delito contra un menor en un plazo máximo de 24 horas."
+      },
+      {
+        "text": "C) Confrontar a los padres y exigirles una confesión antes de denunciar.",
+        "isCorrect": false,
+        "explanation": "Falso. Es peligroso, arruina la investigación judicial y pone en alerta al agresor."
+      },
+      {
+        "text": "D) Guardar el secreto profesional y no denunciar a menos que el niño lo pida.",
+        "isCorrect": false,
+        "explanation": "Falso. El secreto profesional cede obligatoriamente ante el riesgo vital o delitos graves contra menores."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Maltrato Infantil",
+    "text": "¿Cuál de los siguientes hallazgos radiológicos en un lactante tiene la MÁS ALTA especificidad para sospechar maltrato físico infantil?",
+    "hint": "Busca fracturas que biomecánicamente requieren fuerzas de torsión extrema en articulaciones o compresión severa con las manos sobre el tórax, imposibles en caídas simples.",
+    "options": [
+      {
+        "text": "A) Fractura lineal de cráneo parietal",
+        "isCorrect": false,
+        "explanation": "Falso. Es común en accidentes (caídas de la cama o altura simple)."
+      },
+      {
+        "text": "B) Fractura de clavícula",
+        "isCorrect": false,
+        "explanation": "Falso. Puede fracturarse en el parto o en caídas simples desde su propia altura."
+      },
+      {
+        "text": "C) Fracturas metafisiarias en 'asa de balde' o 'esquina' y fracturas costales posteriores",
+        "isCorrect": true,
+        "explanation": "Correcto. Ocurren por avulsión (movimientos bruscos de tracción/torsión de extremidades) y por compresión anteroposterior intensa del tórax con las manos. Tienen muy alta especificidad para maltrato."
+      },
+      {
+        "text": "D) Fractura de fémur en espiral en un niño que ya camina",
+        "isCorrect": false,
+        "explanation": "Falso. Conocida como 'toddler's fracture', es una lesión accidental frecuente al tropezar rotando. Sí sería sospechosa si el niño no caminara."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Hematología",
+    "text": "Preescolar de 4 años, sano. Tuvo cuadro viral hace 2 semanas. Aparición súbita de petequias y equimosis en piernas. Excelente estado general, sin visceromegalias. Leucocitos 6.000, Hb 12 g/dl, Plaquetas 15.000/mm3. Diagnóstico:",
+    "hint": "Niño sano que de pronto se llena de moretones tras un virus, sintiéndose perfecto y con solo las plaquetas afectadas en el hemograma.",
+    "options": [
+      {
+        "text": "A) Púrpura Trombocitopénico Inmune (PTI)",
+        "isCorrect": true,
+        "explanation": "Correcto. Cuadro clásico de PTI primaria infantil: niño sano con sangrado mucocutáneo súbito, post-infección viral, examen normal (salvo piel) y trombocitopenia aislada en hemograma (series blanca y roja intactas)."
+      },
+      {
+        "text": "B) Leucemia Linfoblástica Aguda",
+        "isCorrect": false,
+        "explanation": "Falso. Presentaría bicitopenia/pancitopenia, blastos en el frotis, visceromegalia y/o compromiso del estado general (fiebre, baja de peso)."
+      },
+      {
+        "text": "C) Hemofilia A",
+        "isCorrect": false,
+        "explanation": "Falso. Cursa con sangrado profundo (hemartrosis) y en laboratorio las plaquetas son normales."
+      },
+      {
+        "text": "D) Púrpura de Schönlein-Henoch",
+        "isCorrect": false,
+        "explanation": "Falso. Las lesiones son púrpuras palpables (vasculitis), asocian dolor abdominal y las plaquetas son normales o elevadas."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Hematología",
+    "text": "Lactante varón de 10 meses comienza a gatear y presenta hemartrosis de rodilla derecha. Antecedente de tío materno con sangrados. ¿Qué examen de laboratorio se espera alterado?",
+    "hint": "Es una enfermedad ligada al cromosoma X (afecta varones y viene por línea materna) que daña factores de la vía INTRÍNSECA de la coagulación.",
+    "options": [
+      {
+        "text": "A) Tiempo de Protrombina (TP) prolongado",
+        "isCorrect": false,
+        "explanation": "Falso. Evalúa la vía extrínseca (Factor VII). Es normal en Hemofilia."
+      },
+      {
+        "text": "B) Recuento de plaquetas disminuido (< 50.000)",
+        "isCorrect": false,
+        "explanation": "Falso. Las plaquetas funcionan perfecto para tapar heridas superficiales, el problema está en formar la malla de fibrina profunda."
+      },
+      {
+        "text": "C) Tiempo de Tromboplastina Parcial activado (TTPa) prolongado",
+        "isCorrect": true,
+        "explanation": "Correcto. El cuadro es clásico de Hemofilia (A o B). Al ser deficiencia genética de factores de la vía intrínseca (VIII o IX), el examen alterado es el TTPa."
+      },
+      {
+        "text": "D) Tiempo de Sangría prolongado",
+        "isCorrect": false,
+        "explanation": "Falso. Evalúa hemostasia primaria (vaso-plaqueta), la cual es normal en la hemofilia."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Reumatología",
+    "text": "Escolar de 7 años presenta pápulas que evolucionan a petequias PALPABLES simétricas en piernas/glúteos. Agrega dolor abdominal tipo cólico y artralgias. Examen de laboratorio característico:",
+    "hint": "Es un problema inflamatorio de los vasos sanguíneos de pequeño calibre (vasculitis por IgA), no es un déficit de células ni factores de coagulación en la sangre.",
+    "options": [
+      {
+        "text": "A) Trombocitopenia severa (< 20.000 plaquetas)",
+        "isCorrect": false,
+        "explanation": "Falso. Esa es la característica del PTI, donde el púrpura NO es palpable."
+      },
+      {
+        "text": "B) Tiempo de Protrombina prolongado",
+        "isCorrect": false,
+        "explanation": "Falso. No hay fallas de factores hepáticos de coagulación."
+      },
+      {
+        "text": "C) Recuento de plaquetas normal o elevado y pruebas de coagulación normales",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el Púrpura de Schönlein-Henoch (Vasculitis por IgA). Como es inflamación vascular local, el laboratorio de hemostasia general (plaquetas, TP, TTPa) sale estrictamente normal."
+      },
+      {
+        "text": "D) Déficit del factor de Von Willebrand",
+        "isCorrect": false,
+        "explanation": "Falso. Es una coagulopatía genética, no una vasculitis aguda febril."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Hematología",
+    "text": "¿Cuál es el tratamiento de elección indicado como profilaxis secundaria y tratamiento de episodios de sangrado en Hemofilia A severa?",
+    "hint": "La hemofilia es la ausencia genética de una proteína específica en la cascada. La solución médica más directa es inyectar esa proteína.",
+    "options": [
+      {
+        "text": "A) Transfusión de Plaquetas",
+        "isCorrect": false,
+        "explanation": "Falso. Las plaquetas son normales y funcionales; transfundirlas no detiene el sangrado en hemofilia."
+      },
+      {
+        "text": "B) Administración de Factor VIII recombinante o derivado plasmático",
+        "isCorrect": true,
+        "explanation": "Correcto. La Hemofilia A es causada por el déficit específico del Factor VIII de la coagulación. El pilar absoluto del tratamiento es el reemplazo intravenoso del factor faltante."
+      },
+      {
+        "text": "C) Uso de Inmunoglobulina Intravenosa (IGIV)",
+        "isCorrect": false,
+        "explanation": "Falso. Es un tratamiento modulador para destrucción autoinmune (como en PTI o Kawasaki)."
+      },
+      {
+        "text": "D) Corticoides a altas dosis",
+        "isCorrect": false,
+        "explanation": "Falso. No corrigen un defecto genético de coagulación."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Hematología",
+    "text": "Niña de 14 años con metrorragia abundante y epistaxis recurrentes. Plaquetas normales, TP normal y TTPa normal o levemente prolongado. Diagnóstico de la coagulopatía hereditaria más probable:",
+    "hint": "Es la coagulopatía hereditaria más común (autosómica dominante). Afecta la hemostasia primaria de mucosas y su proteína 'transporta' al factor VIII (por eso alarga levemente el TTPa).",
+    "options": [
+      {
+        "text": "A) Enfermedad de Von Willebrand",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la alteración hemorrágica hereditaria más común. Cursa con sangrado mucocutáneo y plaquetas normales. Como el factor VWF transporta al factor VIII, su defecto puede alargar el TTPa."
+      },
+      {
+        "text": "B) Hemofilia B (Enfermedad de Christmas)",
+        "isCorrect": false,
+        "explanation": "Falso. Es recesiva ligada al X (casi exclusiva de varones) y el sangrado es profundo (articular)."
+      },
+      {
+        "text": "C) Púrpura Trombocitopénico Inmune crónico",
+        "isCorrect": false,
+        "explanation": "Falso. Presentaría marcada trombocitopenia en el hemograma."
+      },
+      {
+        "text": "D) Deficiencia de Factor VII",
+        "isCorrect": false,
+        "explanation": "Falso. Alteraría exclusivamente el TP, no el TTPa."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Hematología",
+    "text": "Paciente con PTI, sin sangrado activo, sin petequias en mucosas, con plaquetas de 35.000/mm3. Conducta terapéutica de primera línea:",
+    "hint": "El número de plaquetas puede asustar, pero en pediatría tratamos al paciente y su clínica, no a los números. Si está estable, la enfermedad se mejora sola.",
+    "options": [
+      {
+        "text": "A) Transfusión de concentrado de plaquetas inmediato",
+        "isCorrect": false,
+        "explanation": "Falso. Solo se hace en riesgo vital inminente (SNC), porque los anticuerpos destruirán rápidamente las transfundidas también."
+      },
+      {
+        "text": "B) Observación clínica ambulatoria y educación sobre signos de alarma",
+        "isCorrect": true,
+        "explanation": "Correcto. En pediatría, si el paciente tiene >20.000 plaquetas sin sangrado mucoso activo, se maneja de forma conservadora expectante. La mayoría son autolimitados."
+      },
+      {
+        "text": "C) Inmunoglobulina intravenosa 1 g/kg de inmediato",
+        "isCorrect": false,
+        "explanation": "Falso. Se reserva para sangrados activos significativos (boca, nariz incontrolable) o plaquetas < 10.000."
+      },
+      {
+        "text": "D) Esplenectomía de urgencia",
+        "isCorrect": false,
+        "explanation": "Falso. Es de ultimísima línea para PTI crónico refractario severo."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Nefrología (ITU)",
+    "text": "¿Cuál de las siguientes alteraciones es clave para diferenciar una ITU alta (Pielonefritis) de una baja (Cistitis) en un escolar?",
+    "hint": "La cistitis es superficial; la pielonefritis daña el tejido profundo del riñón, lo que activa masivamente los marcadores de inflamación en la sangre.",
+    "options": [
+      {
+        "text": "A) Hematuria macroscópica",
+        "isCorrect": false,
+        "explanation": "Falso. Es común en la cistitis aguda o viral, no indica si es alta o baja."
+      },
+      {
+        "text": "B) Elevación de reactantes de fase aguda (PCR y VHS elevados) y leucocitosis",
+        "isCorrect": true,
+        "explanation": "Correcto. La pielonefritis compromete el parénquima renal, desencadenando respuesta inflamatoria sistémica (fiebre, PCR/VHS altas, leucocitosis). En cistitis, los reactantes son normales."
+      },
+      {
+        "text": "C) Presencia de Nitritos positivos en orina",
+        "isCorrect": false,
+        "explanation": "Falso. Confirma bacteriuria (E. coli) en ambas entidades."
+      },
+      {
+        "text": "D) Presencia de bacterias en el sedimento",
+        "isCorrect": false,
+        "explanation": "Falso. Estarán presentes en orina en ambas patologías."
+      }
+[
+  {
+    "id": 71,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Sepsis y Shock",
+    "text": "En relación a la administración de antibióticos en la Sepsis y Shock Séptico pediátrico, ¿cuál es el estándar de cuidado ('Golden Hour')?",
+    "hint": "En una batalla contra bacterias en la sangre, por cada momento que te demores en disparar el antimicrobiano, la probabilidad de muerte del niño aumenta exponencialmente.",
+    "options": [
+      {
+        "text": "A) Esperar siempre el resultado del urocultivo y hemocultivo (48 horas) para evitar resistencia.",
+        "isCorrect": false,
+        "explanation": "Falso. Esperar los cultivos significa la muerte segura del paciente en shock."
+      },
+      {
+        "text": "B) Administrar antibióticos intravenosos de amplio espectro en la primera hora de reconocimiento del shock.",
+        "isCorrect": true,
+        "explanation": "Correcto. La evidencia demuestra que por cada hora de retraso en la administración del antibiótico adecuado en un shock séptico, la mortalidad aumenta drásticamente. Debe ser en la primera hora, idealmente justo tras la toma de cultivos."
+      },
+      {
+        "text": "C) Iniciar antibióticos orales y escalar si no hay respuesta en 24 horas.",
+        "isCorrect": false,
+        "explanation": "Falso. La vía oral no tiene absorción predecible en shock y 24 horas es un tiempo de espera letal."
+      },
+      {
+        "text": "D) Administrar antivirales empíricos primero.",
+        "isCorrect": false,
+        "explanation": "Falso. El shock séptico clásico se trata agresivamente asumiendo etiología bacteriana."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Sepsis y Shock",
+    "text": "Lactante con fiebre de 40°C, letárgico. FC de 190 lpm, llene capilar de 4 segundos, y Presión Arterial NORMAL para su edad. ¿En qué estado hemodinámico se encuentra el paciente?",
+    "hint": "Recuerda que los niños tienen una musculatura vascular impecable; logran mantener su presión arterial normal 'exprimiendo' la periferia casi hasta el minuto final antes del colapso.",
+    "options": [
+      {
+        "text": "A) Estable, sin shock.",
+        "isCorrect": false,
+        "explanation": "Falso. Tiene letargia, taquicardia extrema y mala perfusión periférica (llene capilar 4s); está claramente en shock."
+      },
+      {
+        "text": "B) Shock descompensado (irreversible).",
+        "isCorrect": false,
+        "explanation": "Falso. Estaría descompensado si la presión ya hubiese caído."
+      },
+      {
+        "text": "C) Shock compensado.",
+        "isCorrect": true,
+        "explanation": "Correcto. En pediatría, el shock es 'compensado' cuando hay signos de hipoperfusión (llene lento, sensorio) pero la Presión Arterial se mantiene NORMAL (gracias a la extrema vasoconstricción). Si cae la PA, pasa a ser 'descompensado'."
+      },
+      {
+        "text": "D) Shock cardiogénico primario.",
+        "isCorrect": false,
+        "explanation": "Falso. Faltan datos cardíacos previos; el cuadro febril grita sepsis."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Sepsis y Shock",
+    "text": "Un paciente con meningococcemia grave presenta púrpura fulminante y shock refractario. Laboratorio: plaquetas 20.000, Tiempo de protrombina prolongado, fibrinógeno bajo. Esta complicación letal de la sepsis se denomina:",
+    "hint": "La bacteria envenena la sangre, activando masivamente la formación de coágulos en todo el cuerpo, lo que agota y consume todos los materiales hasta causar un sangrado masivo.",
+    "options": [
+      {
+        "text": "A) Hemofilia adquirida",
+        "isCorrect": false,
+        "explanation": "Falso. Alteraría solo los tiempos de coagulación, pero las plaquetas estarían intactas."
+      },
+      {
+        "text": "B) Púrpura Trombocitopénico Inmune (PTI)",
+        "isCorrect": false,
+        "explanation": "Falso. Da plaquetas bajas en niños sanos, sin alargar los tiempos de coagulación hepáticos."
+      },
+      {
+        "text": "C) Coagulación Intravascular Diseminada (CID)",
+        "isCorrect": true,
+        "explanation": "Correcto. El CID es la activación patológica masiva de la coagulación por toxinas bacterianas, generando microtrombos diseminados, consumo de plaquetas y factores de coagulación, que lleva a hemorragia letal multiorgánica."
+      },
+      {
+        "text": "D) Síndrome Hemolítico Urémico",
+        "isCorrect": false,
+        "explanation": "Falso. Cursa con falla renal aguda, pero los tiempos de coagulación (TP/TTPa) suelen ser normales."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infectología (Meningitis)",
+    "text": "¿Cuál es el agente etiológico más frecuente de Meningitis Bacteriana Aguda en el período neonatal (menores de 1 mes)?",
+    "hint": "Es el patógeno que clásicamente coloniza el canal del parto y motiva el tamizaje con hisopado vaginal/rectal en las embarazadas a las 35-37 semanas.",
+    "options": [
+      {
+        "text": "A) Neisseria meningitidis",
+        "isCorrect": false,
+        "explanation": "Falso. El meningococo afecta principalmente a lactantes mayores y escolares."
+      },
+      {
+        "text": "B) Streptococcus pneumoniae",
+        "isCorrect": false,
+        "explanation": "Falso. El neumococo es el principal agente de meningitis post-neonatal."
+      },
+      {
+        "text": "C) Streptococcus agalactiae (Grupo B)",
+        "isCorrect": true,
+        "explanation": "Correcto. El S. agalactiae (SGB), adquirido en el canal del parto, es el agente líder de sepsis y meningitis en neonatos, seguido de E. coli y Listeria monocytogenes."
+      },
+      {
+        "text": "D) Haemophilus influenzae tipo b",
+        "isCorrect": false,
+        "explanation": "Falso. Su incidencia cayó gracias a la vacunación (Hexavalente)."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infectología (Meningitis)",
+    "text": "Lactante de 6 meses con irritabilidad, fiebre de 39°C y fontanela abombada. El LCR revela: Leucocitos 1.500 (90% PMN), Glucosa 20 mg/dl (Glicemia 100), Proteínas 150. El diagnóstico es:",
+    "hint": "La pleocitosis de predominio polimorfonuclear (PMN) con un consumo severo de glucosa (hipoglucorraquia) es el perfil clásico del líquido cefalorraquídeo purulento.",
+    "options": [
+      {
+        "text": "A) Meningitis viral",
+        "isCorrect": false,
+        "explanation": "Falso. Tendría pleocitosis mononuclear (linfocitos), glucosa normal y proteínas normales o levemente elevadas."
+      },
+      {
+        "text": "B) Meningitis bacteriana aguda",
+        "isCorrect": true,
+        "explanation": "Correcto. El patrón descrito es clásicamente bacteriano/purulento: gran pleocitosis de PMN, hipoglucorraquia severa (< 50% de la glicemia plasmática) e hiperproteinorraquia."
+      },
+      {
+        "text": "C) Meningoencefalitis herpética",
+        "isCorrect": false,
+        "explanation": "Falso. Similar al viral, pero con presencia de glóbulos rojos (LCR hemorrágico)."
+      },
+      {
+        "text": "D) Meningitis tuberculosa",
+        "isCorrect": false,
+        "explanation": "Falso. Cursa con pleocitosis linfocitaria progresiva y proteínas MUY altas (disociación albúmino-citológica)."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infectología (Meningitis)",
+    "text": "El tratamiento antibiótico empírico inicial de elección para una sospecha de Meningitis Bacteriana Aguda en un escolar de 7 años, previamente sano, es:",
+    "hint": "A esta edad los agentes son Neumococo y Meningococo. Por la creciente resistencia del neumococo a cefalosporinas de 3ra generación, se debe añadir siempre un glicopéptido.",
+    "options": [
+      {
+        "text": "A) Ampicilina + Gentamicina",
+        "isCorrect": false,
+        "explanation": "Falso. Es el esquema empírico clásico para la meningitis NEONATAL (< 1 mes), no para escolares."
+      },
+      {
+        "text": "B) Cefotaxima + Vancomicina (o Ceftriaxona + Vancomicina)",
+        "isCorrect": true,
+        "explanation": "Correcto. En niños > 1 mes, los patógenos principales son S. pneumoniae y N. meningitidis. Por la resistencia del neumococo, las guías recomiendan asociar Vancomicina a la Cefalosporina empíricamente."
+      },
+      {
+        "text": "C) Penicilina G sódica en altas dosis",
+        "isCorrect": false,
+        "explanation": "Falso. Descartada como terapia empírica inicial por alta resistencia neumocócica actual."
+      },
+      {
+        "text": "D) Aciclovir intravenoso",
+        "isCorrect": false,
+        "explanation": "Falso. Es el tratamiento para encefalitis viral herpética, no meningitis bacteriana."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infectología (Meningitis)",
+    "text": "¿En cuál de las siguientes situaciones está CONTRAINDICADA la realización inmediata de una punción lumbar en un niño con sospecha clínica de meningitis?",
+    "hint": "Sacar líquido por la columna cuando hay muchísima presión dentro del cráneo puede causar un desplazamiento fatal del cerebro hacia el agujero magno (enclavamiento).",
+    "options": [
+      {
+        "text": "A) Presencia de fiebre alta y convulsiones",
+        "isCorrect": false,
+        "explanation": "Falso. Es una situación donde la PL está sumamente indicada para descartar neuroinfección."
+      },
+      {
+        "text": "B) Paciente menor de 6 meses de edad",
+        "isCorrect": false,
+        "explanation": "Falso. La edad no es contraindicación; de hecho en lactantes es mandataria."
+      },
+      {
+        "text": "C) Presencia de signos de hipertensión endocraneana (ej. papiledema, focalidad neurológica) o inestabilidad grave",
+        "isCorrect": true,
+        "explanation": "Correcto. Realizar una PL con hipertensión endocraneana severa conlleva un riesgo altísimo de enclavamiento. Se deben tomar hemocultivos, iniciar antibióticos y realizar un TAC cerebral antes."
+      },
+      {
+        "text": "D) Antecedente de otitis media aguda en la semana previa",
+        "isCorrect": false,
+        "explanation": "Falso. No contraindica el procedimiento."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Ventilación Mecánica",
+    "text": "Lactante con Bronquiolitis por VRS cursando el 3er día. Se decide iniciar soporte respiratorio no invasivo. El mecanismo principal por el cual la Cánula Nasal de Alto Flujo (CNAF) lo beneficia es:",
+    "hint": "No es un ventilador que empuja el aire a la fuerza, sino un 'río' de aire tibio que destapa la nariz, abre levemente el pulmón y limpia los espacios muertos.",
+    "options": [
+      {
+        "text": "A) Entrega volúmenes tidales forzados intubando la tráquea.",
+        "isCorrect": false,
+        "explanation": "Falso. Eso describe a la Ventilación Mecánica Invasiva, no a la CNAF."
+      },
+      {
+        "text": "B) Genera una presión positiva continua en la vía aérea (efecto PEEP leve), lava el espacio muerto nasofaríngeo, y entrega gas calentado y humidificado.",
+        "isCorrect": true,
+        "explanation": "Correcto. La CNAF disminuye el trabajo respiratorio gracias al ligero efecto PEEP (distiende vía aérea colapsada), el barrido del CO2 acumulado y la humidificación que fluidifica secreciones espesas."
+      },
+      {
+        "text": "C) Actúa como un broncodilatador directo de las vías respiratorias.",
+        "isCorrect": false,
+        "explanation": "Falso. El oxígeno y el flujo no dilatan el músculo bronquial; eso lo hacen los fármacos (salbutamol)."
+      },
+      {
+        "text": "D) Deprime el centro respiratorio para evitar la fatiga muscular.",
+        "isCorrect": false,
+        "explanation": "Falso. Deprimir el centro causaría un paro respiratorio."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Ventilación Mecánica",
+    "text": "En Ventilación Mecánica, la Presión Positiva al Final de la Espiración (PEEP) tiene como objetivo fisiológico principal:",
+    "hint": "Funciona como el aire que debes dejar dentro de un globo para evitar que al desinflarlo sus paredes se peguen por completo, facilitando volver a inflarlo.",
+    "options": [
+      {
+        "text": "A) Aumentar el volumen minuto espirado para barrer el Dióxido de Carbono (CO2).",
+        "isCorrect": false,
+        "explanation": "Falso. El CO2 se barre manipulando el Volumen Corriente o la Frecuencia Respiratoria, no el PEEP."
+      },
+      {
+        "text": "B) Reclutar alvéolos colapsados, aumentar la Capacidad Residual Funcional y mejorar la oxigenación.",
+        "isCorrect": true,
+        "explanation": "Correcto. El PEEP mantiene una presión basal al final del ciclo que evita el colapso (atelectasia) alveolar. Al mantener los alvéolos abiertos, mejora drásticamente el intercambio de oxígeno (PaO2)."
+      },
+      {
+        "text": "C) Paralizar los músculos respiratorios.",
+        "isCorrect": false,
+        "explanation": "Falso. Eso se logra con bloqueadores neuromusculares farmacológicos."
+      },
+      {
+        "text": "D) Aumentar la frecuencia respiratoria del paciente.",
+        "isCorrect": false,
+        "explanation": "Falso. El PEEP es una presión continua, no una orden de disparo por minuto."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Ventilación Mecánica",
+    "text": "¿Cuál de las siguientes es una CONTRAINDICACIÓN absoluta para el inicio de Ventilación No Invasiva (VNI - ej. mascarilla BiPAP) en un pediátrico, obligando a realizar intubación inmediata?",
+    "hint": "Si el paciente no está lo suficientemente despierto para protegerse de sus propios fluidos gástricos, una mascarilla externa que sopla aire a presión es extremadamente peligrosa.",
+    "options": [
+      {
+        "text": "A) Presencia de taquipnea severa.",
+        "isCorrect": false,
+        "explanation": "Falso. Es precisamente una indicación común para iniciar soporte VNI y aliviar la fatiga."
+      },
+      {
+        "text": "B) Saturación de oxígeno de 90%.",
+        "isCorrect": false,
+        "explanation": "Falso. Es indicación de soporte, no una contraindicación."
+      },
+      {
+        "text": "C) Compromiso de conciencia severo (Glasgow < 8), paro cardiorrespiratorio o inestabilidad hemodinámica profunda (Shock).",
+        "isCorrect": true,
+        "explanation": "Correcto. La VNI requiere que el paciente coopere y mantenga sus reflejos de vía aérea intactos. Si está en coma o shock, el riesgo de aspiración masiva obliga a Intubación Endotraqueal (Invasiva)."
+      },
+      {
+        "text": "D) Antecedente de asma leve.",
+        "isCorrect": false,
+        "explanation": "Falso. No contraindica el procedimiento."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Ventilación Mecánica",
+    "text": "Al ajustar los parámetros de un ventilador mecánico invasivo, si la gasometría arterial revela severa hipercapnia (pCO2 en 70 mmHg) con Acidosis respiratoria, la medida programable para corregirlo es:",
+    "hint": "Imagina que el CO2 es el humo de una cocina. Para sacarlo más rápido, debes encender el extractor a mayor velocidad o abrir más las ventanas por minuto.",
+    "options": [
+      {
+        "text": "A) Disminuir la Frecuencia Respiratoria del ventilador.",
+        "isCorrect": false,
+        "explanation": "Falso. Disminuirla empeoraría dramáticamente la retención de CO2 al respirar menos veces."
+      },
+      {
+        "text": "B) Aumentar la Fio2 (Fracción inspirada de oxígeno) al 100%.",
+        "isCorrect": false,
+        "explanation": "Falso. El oxígeno mejora la oxigenación (PaO2), pero no ayuda a eliminar el dióxido de carbono (PaCO2)."
+      },
+      {
+        "text": "C) Aumentar el Volumen Minuto (aumentando la Frecuencia Respiratoria o el Volumen Corriente).",
+        "isCorrect": true,
+        "explanation": "Correcto. El CO2 en sangre es inversamente proporcional a la ventilación alveolar. Para 'lavar' más CO2, el paciente necesita ventilar y mover más volumen de aire por minuto."
+      },
+      {
+        "text": "D) Disminuir el PEEP.",
+        "isCorrect": false,
+        "explanation": "Falso. Manipular el PEEP afecta principalmente la oxigenación, no es el ajuste primario para el CO2."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Ventilación Mecánica",
+    "text": "Las lesiones pulmonares inducidas por el ventilador (VILI) ocurren al programar de forma inapropiada. ¿Qué término describe el daño alveolar producido por sobredistensión pulmonar debido a volúmenes excesivamente altos?",
+    "hint": "El mismo nombre de la lesión te dice exactamente qué parámetro la causó al meter demasiado 'tamaño' de aire en un pulmón pequeño.",
+    "options": [
+      {
+        "text": "A) Atelectrauma",
+        "isCorrect": false,
+        "explanation": "Falso. Es el daño por apertura y cierre cíclico de alvéolos (falta de PEEP)."
+      },
+      {
+        "text": "B) Barotrauma",
+        "isCorrect": false,
+        "explanation": "Falso. Es el daño estructural macroscópico por presiones altísimas (ej. neumotórax franco)."
+      },
+      {
+        "text": "C) Volutrauma",
+        "isCorrect": true,
+        "explanation": "Correcto. El volutrauma es la injuria física directa producida por estiramiento extremo de las células pulmonares al forzar un Volumen Corriente (Tidal) exagerado. Por eso en pediatría se usan volúmenes bajos de protección."
+      },
+      {
+        "text": "D) Biotrauma",
+        "isCorrect": false,
+        "explanation": "Falso. Es la cascada inflamatoria y de citoquinas generada secundariamente a los otros traumas físicos."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Ventilación Mecánica",
+    "text": "En el proceso de 'Weaning' o retiro de la ventilación mecánica, la prueba final para evaluar si el niño es capaz de respirar espontáneamente sin la ayuda de la presión positiva antes de extubar, se denomina:",
+    "hint": "Es el equivalente al examen final; le quitas casi todo el apoyo del ventilador mientras sigue conectado, para ver si los músculos del niño soportan solos la carga del trabajo.",
+    "options": [
+      {
+        "text": "A) Test de apnea",
+        "isCorrect": false,
+        "explanation": "Falso. Es un examen que se realiza en el protocolo de certificación de muerte encefálica."
+      },
+      {
+        "text": "B) Prueba de Ventilación Espontánea (SBT - Spontaneous Breathing Trial)",
+        "isCorrect": true,
+        "explanation": "Correcto. La SBT deja al paciente respirando con soporte mínimo (tubo en 'T' o presión de soporte muy baja) durante 30-120 min, para confirmar que su musculatura soporta el trabajo sin el ventilador."
+      },
+      {
+        "text": "C) Gasometría arterial venosa",
+        "isCorrect": false,
+        "explanation": "Falso. Es un examen de sangre, no una prueba de resistencia y destete muscular."
+      },
+      {
+        "text": "D) Maniobra de reclutamiento",
+        "isCorrect": false,
+        "explanation": "Falso. Es dar presiones muy altas sostenidas para abrir alvéolos pegados."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Oncología Pediátrica",
+    "text": "Preescolar de 4 años, 3 semanas de fiebre intermitente, palidez, dolor óseo (cojea) y equimosis. Al examen: esplenomegalia a 4 cm bajo reborde costal. El diagnóstico de sospecha más urgente es:",
+    "hint": "Dolor óseo (por expansión de la médula), visceromegalia y falla de las tres líneas celulares de la sangre (anemia, plaquetopenia y neutropenia).",
+    "options": [
+      {
+        "text": "A) Artritis idiopática juvenil",
+        "isCorrect": false,
+        "explanation": "Falso. Da dolor articular, pero no explica la pancitopenia (equimosis/palidez) ni la gran esplenomegalia."
+      },
+      {
+        "text": "B) Leucemia Linfoblástica Aguda (LLA)",
+        "isCorrect": true,
+        "explanation": "Correcto. La LLA es el cáncer más frecuente en pediatría. Su clínica clásica incluye infiltración medular (anemia, equimosis, neutropenia) e infiltración extramedular (esplenomegalia y dolor óseo/claudicación por expansión de los huesos)."
+      },
+      {
+        "text": "C) Osteomielitis aguda",
+        "isCorrect": false,
+        "explanation": "Falso. Da fiebre y dolor focal, pero no visceromegalia masiva ni sangrados cutáneos."
+      },
+      {
+        "text": "D) Fiebre reumática",
+        "isCorrect": false,
+        "explanation": "Falso. Da poliartritis migratoria, sin falla de médula ósea."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Oncología Pediátrica",
+    "text": "Madre nota que en las fotos con flash, el ojo derecho de su hijo de 18 meses se ve blanco en lugar del clásico 'ojo rojo' (leucocoria). ¿Cuál es el diagnóstico oncológico a sospechar y derivar urgente?",
+    "hint": "Toda pupila blanca en un niño o lactante debe considerarse como este tumor intraocular maligno hasta que el oftalmólogo demuestre lo contrario.",
+    "options": [
+      {
+        "text": "A) Catarata congénita",
+        "isCorrect": false,
+        "explanation": "Falso. Da leucocoria, pero en el contexto oncológico pediátrico la regla de oro obliga a sospechar primero el tumor."
+      },
+      {
+        "text": "B) Retinoblastoma",
+        "isCorrect": true,
+        "explanation": "Correcto. La leucocoria (pupila blanca) en un lactante o preescolar es el signo clínico cardinal del Retinoblastoma (tumor intraocular maligno primario más común de la infancia). Su detección temprana salva el ojo y la vida."
+      },
+      {
+        "text": "C) Glaucoma congénito",
+        "isCorrect": false,
+        "explanation": "Falso. Da buftalmos (ojo grande) y opacidad corneal completa, no leucocoria brillante directa en flash."
+      },
+      {
+        "text": "D) Neuroblastoma metastásico",
+        "isCorrect": false,
+        "explanation": "Falso. Suele dar 'ojos de mapache' (equimosis periorbitaria) y proptosis."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Oncología Pediátrica",
+    "text": "Lactante sano de 2 años, al palpar el abdomen se encuentra una masa firme en flanco derecho que NO traspasa la línea media. Asintomático. Diagnóstico oncológico más probable:",
+    "hint": "Es el tumor renal primario clásico de la infancia, que crece empujando hacia un solo lado sin cruzar la columna vertebral, manteniendo al niño con buen aspecto general.",
+    "options": [
+      {
+        "text": "A) Tumor de Wilms (Nefroblastoma)",
+        "isCorrect": true,
+        "explanation": "Correcto. El Tumor de Wilms suele presentarse en niños sanos (2-5 años) como hallazgo incidental de una gran masa abdominal asintomática, que clásicamente es unilateral y no cruza la línea media (a diferencia del neuroblastoma)."
+      },
+      {
+        "text": "B) Neuroblastoma",
+        "isCorrect": false,
+        "explanation": "Falso. Es un tumor simpático que típicamente SÍ cruza la línea media, es nodular, y el paciente luce enfermo (fiebre, catecolaminas altas)."
+      },
+      {
+        "text": "C) Linfoma de Burkitt",
+        "isCorrect": false,
+        "explanation": "Falso. Suele dar un cuadro abdominal agudo (invaginación) y crecimiento veloz, no masa silente indolora."
+      },
+      {
+        "text": "D) Hepatoblastoma",
+        "isCorrect": false,
+        "explanation": "Falso. Menos frecuente, exclusivo del hígado, pero el Wilms es la masa renal abdominal asintomática clásica."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Oncología Pediátrica",
+    "text": "Adolescente de 14 años consulta por dolor en rodilla izquierda (fémur distal) de 2 meses. El dolor es progresivo, lo despierta en la noche y hay masa dura. Sin trauma. ¿Sospecha e imagen inicial a solicitar?",
+    "hint": "Dolor óseo que despierta en la noche y masa dura en un adolescente exige tomar la imagen radiológica más básica primero para buscar reacción perióstica maligna.",
+    "options": [
+      {
+        "text": "A) Enfermedad de Osgood-Schlatter / Ecografía",
+        "isCorrect": false,
+        "explanation": "Falso. Es una apofisitis benigna de la tibia, asociada al deporte, sin masa pétrea ni dolor nocturno severo."
+      },
+      {
+        "text": "B) Osteosarcoma / Radiografía simple de extremidad en 2 proyecciones",
+        "isCorrect": true,
+        "explanation": "Correcto. Dolor óseo localizado, progresivo, nocturno con masa palpable en metáfisis de huesos largos en un adolescente es la presentación clásica del Osteosarcoma. La Rx simple buscará el 'Triángulo de Codman' o 'sol naciente'."
+      },
+      {
+        "text": "C) Sarcoma de Ewing / Resonancia magnética",
+        "isCorrect": false,
+        "explanation": "Falso. Ewing afecta más las diáfisis. Y la primera imagen de abordaje para tumores óseos siempre es la Rx simple, no la RM directa."
+      },
+      {
+        "text": "D) Artritis séptica / Punción articular",
+        "isCorrect": false,
+        "explanation": "Falso. Es un cuadro ultra agudo, hiperfebril, con impotencia funcional en días, no de 2 meses de evolución."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Oncología Pediátrica",
+    "text": "Escolar de 8 años con cefalea matinal progresiva, vómitos explosivos sin náuseas previas, y alteración de marcha (ataxia). ¿Qué urgencia oncológica sospecha y qué examen está CONTRAINDICADO antes de una neuroimagen?",
+    "hint": "Esos síntomas gritan hipertensión endocraneana. Si sacas líquido por la espalda en estas condiciones, la presión desplazará el cerebro hacia abajo, asfixiando el bulbo raquídeo.",
+    "options": [
+      {
+        "text": "A) Tumor del SNC (Fosa posterior) / Punción lumbar contraindicada por riesgo de enclavamiento.",
+        "isCorrect": true,
+        "explanation": "Correcto. La cefalea matinal, vómitos explosivos (hipertensión endocraneana) y ataxia apuntan a un Tumor de Fosa Posterior. Ante HTE, la Punción Lumbar está absolutamente contraindicada por el riesgo de herniación cerebral."
+      },
+      {
+        "text": "B) Leucemia aguda / Mielograma contraindicado.",
+        "isCorrect": false,
+        "explanation": "Falso. El mielograma es seguro, y la leucemia no es la primera causa de masa cerebelosa primaria."
+      },
+      {
+        "text": "C) Neuroblastoma / Ecografía abdominal contraindicada.",
+        "isCorrect": false,
+        "explanation": "Falso. No concuerda con la clínica neurológica pura."
+      },
+      {
+        "text": "D) Linfoma cerebral / TAC con contraste contraindicado.",
+        "isCorrect": false,
+        "explanation": "Falso. El TAC es precisamente el examen que SÍ se debe hacer de urgencia."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Oncología Pediátrica",
+    "text": "Lactante varón con gran aumento de volumen cervical, dificultad respiratoria severa al decúbito (ortopnea) y plétora facial (cara hinchada y enrojecida). Esta emergencia oncológica corresponde a:",
+    "hint": "Estar acostado le impide respirar porque una gran masa maligna en el pecho le aplasta la tráquea y las grandes venas que traen la sangre de retorno desde la cabeza.",
+    "options": [
+      {
+        "text": "A) Síndrome de lisis tumoral",
+        "isCorrect": false,
+        "explanation": "Falso. Es una emergencia metabólica post-quimioterapia, no da masa respiratoria compresiva."
+      },
+      {
+        "text": "B) Compresión Medular",
+        "isCorrect": false,
+        "explanation": "Falso. Da síntomas neurológicos motores (paraparesia) o esfinterianos, no ortopnea ni plétora facial."
+      },
+      {
+        "text": "C) Síndrome de Vena Cava Superior / Masa Mediastínica",
+        "isCorrect": true,
+        "explanation": "Correcto. Plétora facial, ortopnea y gran adenopatía son clásicas del Sd. Vena Cava Superior, típicamente causado por un Linfoma No Hodgkin o Leucemia que crece en el mediastino comprimiendo vía aérea y retorno venoso."
+      },
+      {
+        "text": "D) Neutropenia febril",
+        "isCorrect": false,
+        "explanation": "Falso. Es una emergencia infecciosa, da fiebre alta sin foco inflamatorio masivo inicial."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Intoxicaciones",
+    "text": "Preescolar ingiere pastillas de la abuela (Clorfenamina y antiespasmódico). Examen: Piel eritematosa y muy seca ('rojo como tomate'), taquicardia 160 lpm, pupilas midriáticas, agitación psicomotora y retención urinaria. El diagnóstico es:",
+    "hint": "Recuerda la clásica rima toxicológica: 'Rojo como tomate, seco como un hueso, ciego como murciélago, caliente como liebre y loco como sombrerero'.",
+    "options": [
+      {
+        "text": "A) Síndrome Colinérgico",
+        "isCorrect": false,
+        "explanation": "Falso. Produce todo lo contrario (miosis, sudoración excesiva, sialorrea, diarrea y lagrimeo)."
+      },
+      {
+        "text": "B) Síndrome Anticolinérgico",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el cuadro clásico por antihistamínicos (Clorfenamina), atropina o antidepresivos. Destaca la vasodilatación cutánea (rojo), anhidrosis (seco), midriasis (ciego) y delirio/agitación."
+      },
+      {
+        "text": "C) Síndrome Opiáceo",
+        "isCorrect": false,
+        "explanation": "Falso. Produce depresión respiratoria, miosis puntiforme y bradicardia (niño 'apagado')."
+      },
+      {
+        "text": "D) Síndrome Simpaticomimético",
+        "isCorrect": false,
+        "explanation": "Falso. Cursa con diaforesis (sudoración profusa), a diferencia del anticolinérgico que cursa con piel muy seca."
+      },
+  {
+    "id": 91,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Intoxicaciones",
+    "text": "Lactante ingiere insecticida agrícola. Presenta sialorrea, lagrimeo, vómitos, diarrea, miosis bilateral, sibilancias y broncorrea masiva. El tratamiento antidótico de elección es:",
+    "hint": "Tiene el síndrome DUMBELS por exceso de acetilcolina. El antídoto salva la vida secando rápidamente las mortales secreciones de los pulmones (bloqueo muscarínico).",
+    "options": [
+      {
+        "text": "A) Flumazenil",
+        "isCorrect": false,
+        "explanation": "Falso. Es el antídoto específico para intoxicación por benzodiazepinas (clonazepam)."
+      },
+      {
+        "text": "B) Naloxona",
+        "isCorrect": false,
+        "explanation": "Falso. Es el antídoto para intoxicación por opiáceos/narcóticos."
+      },
+      {
+        "text": "C) Atropina",
+        "isCorrect": true,
+        "explanation": "Correcto. El paciente cursa un Síndrome Colinérgico por organofosforados/carbamatos. La Atropina es el antídoto vital que revierte la crisis muscarínica (secando la broncorrea que lo asfixia)."
+      },
+      {
+        "text": "D) N-Acetilcisteína",
+        "isCorrect": false,
+        "explanation": "Falso. Es el antídoto para la intoxicación por Paracetamol."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Intoxicaciones",
+    "text": "Adolescente ingirió 20 comprimidos de Paracetamol hace 6 horas. Asintomático, pero el nivel plasmático indica riesgo de toxicidad hepática grave. Tratamiento indicado:",
+    "hint": "El metabolito tóxico del paracetamol destruye el hígado. El antídoto es un precursor que repone las reservas de glutatión para neutralizarlo.",
+    "options": [
+      {
+        "text": "A) Lavado gástrico inmediato",
+        "isCorrect": false,
+        "explanation": "Falso. Es ineficaz pasadas 2 horas de la ingesta (el paracetamol se absorbe muy rápidamente)."
+      },
+      {
+        "text": "B) Infusión endovenosa de N-Acetilcisteína (NAC)",
+        "isCorrect": true,
+        "explanation": "Correcto. La N-Acetilcisteína es el antídoto específico y de alta eficacia. Restaura los niveles de glutatión hepático y previene la necrosis fulminante. Debe iniciarse idealmente antes de 8 hrs."
+      },
+      {
+        "text": "C) Hemodiálisis de urgencia",
+        "isCorrect": false,
+        "explanation": "Falso. No tiene utilidad para intoxicación por paracetamol."
+      },
+      {
+        "text": "D) Administrar Carbón activado únicamente",
+        "isCorrect": false,
+        "explanation": "Falso. Ya pasaron 6 horas, el tóxico ya está en la sangre y el hígado, el carbón gástrico llega tarde."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Intoxicaciones",
+    "text": "Niño de 2 años hallado somnoliento junto a gotas de Tramadol (opiáceo). Frecuencia respiratoria de 6 x minuto y pupilas mióticas puntiformes. ¿Primera intervención farmacológica?",
+    "hint": "Bradipnea severa, compromiso de conciencia y miosis puntiforme es la tríada clásica del toxídrome narcótico. Requiere su antagonista competitivo de urgencia.",
+    "options": [
+      {
+        "text": "A) Administrar Flumazenil IV",
+        "isCorrect": false,
+        "explanation": "Falso. Antídoto para sobredosis de benzodiazepinas."
+      },
+      {
+        "text": "B) Administrar Naloxona IV, IM o Intranasal",
+        "isCorrect": true,
+        "explanation": "Correcto. El paciente tiene un toxídrome narcótico-opiáceo grave. La Naloxona es el antagonista competitivo de los receptores opioides y revierte rápidamente la depresión respiratoria mortal."
+      },
+      {
+        "text": "C) Iniciar RCP básica con compresiones torácicas",
+        "isCorrect": false,
+        "explanation": "Falso. El paciente tiene pulso. Su problema es respiratorio, por lo que se debe ventilar con presión positiva y administrar el antídoto."
+      },
+      {
+        "text": "D) Infusión de Bicarbonato de Sodio",
+        "isCorrect": false,
+        "explanation": "Falso. Se usa en intoxicación por antidepresivos tricíclicos que cursan con arritmias."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Intoxicaciones",
+    "text": "¿Cuál es la principal ventana de tiempo recomendada para administrar Carbón Activado (descontaminación GI) de forma efectiva en la mayoría de intoxicaciones orales pediátricas?",
+    "hint": "Su eficacia depende de atrapar (adsorber) al tóxico mientras siga en el estómago. Después del vaciamiento gástrico fisiológico, su utilidad decae drásticamente.",
+    "options": [
+      {
+        "text": "A) Dentro de las primeras 1 a 2 horas posteriores a la ingesta.",
+        "isCorrect": true,
+        "explanation": "Correcto. El carbón adsorbe el tóxico en el estómago. Su eficacia es máxima en la primera hora y disminuye significativamente pasadas las 2 horas debido al vaciamiento gástrico."
+      },
+      {
+        "text": "B) Hasta 24 horas después de la ingesta.",
+        "isCorrect": false,
+        "explanation": "Falso. A esa hora el tóxico ya se absorbió en el intestino y el carbón no sirve."
+      },
+      {
+        "text": "C) Siempre se debe dar, sin importar el tiempo transcurrido.",
+        "isCorrect": false,
+        "explanation": "Falso. Pasadas las 2 horas, el riesgo de aspiración pulmonar al dar el carbón supera su nulo beneficio clínico."
+      },
+      {
+        "text": "D) Solo después de realizar un lavado gástrico exhaustivo.",
+        "isCorrect": false,
+        "explanation": "Falso. El lavado gástrico rutinario ya no se recomienda en pediatría; se prefiere el uso de carbón activado directo."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cirugía Infantil (Escroto Agudo)",
+    "text": "Adolescente de 14 años, despierta bruscamente a las 4 AM por dolor insoportable en testículo derecho. Examen: testículo ascendido, horizontalizado, eritematoso. Reflejo cremastérico abolido. Diagnóstico:",
+    "hint": "El dolor testicular brusco nocturno, con el testículo retraído y la pérdida del reflejo que lo eleva, es una isquemia quirúrgica hasta demostrar lo contrario.",
+    "options": [
+      {
+        "text": "A) Epididimitis aguda",
+        "isCorrect": false,
+        "explanation": "Falso. Tiene instauración más gradual, asocia fiebre/disuria, y el reflejo cremastérico suele estar conservado."
+      },
+      {
+        "text": "B) Torsión testicular",
+        "isCorrect": true,
+        "explanation": "Correcto. El dolor brusco nocturno, síntomas vegetativos, testículo horizontalizado (signo de Gouverneur) y ausencia de reflejo cremastérico son los signos cardinales de la torsión isquémica urgente."
+      },
+      {
+        "text": "C) Torsión de la hidátide de Morgagni",
+        "isCorrect": false,
+        "explanation": "Falso. Da dolor localizado en el polo superior y se puede ver el 'signo del punto azul', sin la gran retracción total."
+      },
+      {
+        "text": "D) Orquitis urliana",
+        "isCorrect": false,
+        "explanation": "Falso. Generalmente asocia parotiditis viral previa (paperas)."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cirugía Infantil (Escroto Agudo)",
+    "text": "Ante la sospecha clínica de Torsión Testicular en adolescente, el 'tiempo dorado' para exploración quirúrgica y destorsión, garantizando viabilidad superior al 90%, es:",
+    "hint": "El testículo resiste muy poco tiempo sin flujo sanguíneo de oxígeno antes de infartarse de forma irreversible.",
+    "options": [
+      {
+        "text": "A) Menos de 6 horas desde el inicio del dolor",
+        "isCorrect": true,
+        "explanation": "Correcto. El testículo es extremadamente sensible a la isquemia. La cirugía debe realizarse idealmente en las primeras 6 horas para salvar la gónada. Tras 12-24 hrs, la necrosis es casi segura."
+      },
+      {
+        "text": "B) Menos de 24 horas desde el inicio del dolor",
+        "isCorrect": false,
+        "explanation": "Falso. A las 24 horas la viabilidad de salvar el testículo es menor al 10%."
+      },
+      {
+        "text": "C) Hasta 48 horas si se administra antibiótico",
+        "isCorrect": false,
+        "explanation": "Falso. Es un problema mecánico/vascular, los antibióticos no detienen el infarto."
+      },
+      {
+        "text": "D) 1 hora, de lo contrario orquiectomizar",
+        "isCorrect": false,
+        "explanation": "Falso. 1 hora es un estándar irreal en logística clínica; la ventana aceptada son 6 horas."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cirugía Infantil (Escroto Agudo)",
+    "text": "Escolar de 8 años con dolor testicular leve de 2 días. Dolor localizado exclusivo en polo superior, donde transilumina un nódulo azul oscuro ('signo del punto azul'). El manejo indicado es:",
+    "hint": "Se torció un apéndice embrionario residual. Es doloroso pero totalmente benigno y no asfixia al testículo en sí.",
+    "options": [
+      {
+        "text": "A) Exploración quirúrgica de urgencia",
+        "isCorrect": false,
+        "explanation": "Falso. La cirugía está reservada para torsión testicular verdadera o casos de gran duda."
+      },
+      {
+        "text": "B) Antibioticoterapia (Ceftriaxona + Doxiciclina)",
+        "isCorrect": false,
+        "explanation": "Falso. Sería el manejo de una epididimitis de transmisión sexual."
+      },
+      {
+        "text": "C) Reposo, analgésicos antiinflamatorios (AINEs) y observación",
+        "isCorrect": true,
+        "explanation": "Correcto. El cuadro clínico y el 'signo del punto azul' son patognomónicos de Torsión de la Hidátide de Morgagni. Es un proceso inflamatorio benigno y autolimitado; su manejo es puramente médico sintomático."
+      },
+      {
+        "text": "D) Masaje prostático",
+        "isCorrect": false,
+        "explanation": "Falso. Inútil y contraindicado."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cirugía Infantil (Hernias)",
+    "text": "Lactante varón de 4 meses: al llorar aparece un bulto en la ingle derecha que llega al escroto, desapareciendo al estar tranquilo. Transiluminación dudosa. Diagnóstico más probable:",
+    "hint": "Si la masa escrotal cambia drásticamente de volumen con el llanto (maniobra de valsalva), significa que el conducto hacia el abdomen sigue abierto.",
+    "options": [
+      {
+        "text": "A) Hidrocele comunicante (Hernia Inguinal indirecta)",
+        "isCorrect": true,
+        "explanation": "Correcto. La variabilidad del volumen con el llanto indica que el conducto peritoneo-vaginal sigue permeable (comunica con el abdomen). Requiere cirugía electiva para evitar atascamiento."
+      },
+      {
+        "text": "B) Hidrocele no comunicante fisiológico",
+        "isCorrect": false,
+        "explanation": "Falso. Su volumen es constante (no varía al llorar), transilumina fuertemente y suele reabsorberse solo antes del año."
+      },
+      {
+        "text": "C) Varicocele",
+        "isCorrect": false,
+        "explanation": "Falso. Dilatación venosa ('bolsa de gusanos'), típica de adolescentes y rara en lactantes."
+      },
+      {
+        "text": "D) Linfadenitis inguinal",
+        "isCorrect": false,
+        "explanation": "Falso. Es una masa indurada (ganglio), no una que fluctúa con la presión abdominal."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cirugía Infantil",
+    "text": "Niño de 2 años con criptorquidia unilateral verdadera (testículo no descendido). ¿Cuáles son las dos principales complicaciones a largo plazo si no se opera (orquidopexia)?",
+    "hint": "El testículo dentro del abdomen sufre por el calor corporal constante. Ese calor daña sus células reproductivas y predispone a mutaciones malignas futuras.",
+    "options": [
+      {
+        "text": "A) Impotencia sexual y desarrollo de caracteres femeninos",
+        "isCorrect": false,
+        "explanation": "Falso. La función hormonal (producción de testosterona) de las células de Leydig es mucho más resistente al calor que la función formadora de espermatozoides."
+      },
+      {
+        "text": "B) Epididimitis crónica e Hidrocele a tensión",
+        "isCorrect": false,
+        "explanation": "Falso. No son las complicaciones clásicas de este defecto."
+      },
+      {
+        "text": "C) Subfertilidad/Infertilidad y mayor riesgo de Cáncer Testicular",
+        "isCorrect": true,
+        "explanation": "Correcto. La temperatura abdominal alta daña progresivamente las células germinales (subfertilidad) y aumenta entre 5 a 10 veces el riesgo de desarrollar tumores testiculares malignos en la edad adulta."
+      },
+      {
+        "text": "D) Torsión testicular frecuente y Atrofia de pene",
+        "isCorrect": false,
+        "explanation": "Falso. El pene no se afecta."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cirugía Infantil (Hernias)",
+    "text": "Durante cirugía de hernia inguinal derecha en un niño, se evidencia que el intestino (ej. ciego) forma parte de la pared del saco herniario. Esto se denomina:",
+    "hint": "El órgano no solo resbaló *adentro* del globo peritoneal, sino que él mismo es una de las paredes de goma del globo.",
+    "options": [
+      {
+        "text": "A) Hernia de Spiegel",
+        "isCorrect": false,
+        "explanation": "Falso. Es una hernia ventral a través de la línea semilunar abdominal."
+      },
+      {
+        "text": "B) Hernia umbilical",
+        "isCorrect": false,
+        "explanation": "Falso. Ocurre en el anillo umbilical."
+      },
+      {
+        "text": "C) Hernia por deslizamiento",
+        "isCorrect": true,
+        "explanation": "Correcto. Cuando una víscera (ciego a derecha, ovario en niñas) no solo está dentro, sino que forma la pared posterior del saco herniario, se denomina hernia por deslizamiento, requiriendo un manejo más delicado."
+      },
+      {
+        "text": "D) Hidrocele comunicante",
+        "isCorrect": false,
+        "explanation": "Falso. Eso es solo el paso de líquido peritoneal, no de una víscera pegada."
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Hematología (Anemia)",
+    "text": "¿Cuál es el rango etario de mayor riesgo fisiológico para desarrollar Anemia Ferropénica en la infancia ('peak' de incidencia)?",
+    "hint": "El bebé agota el hierro que le pasó su madre durante el embarazo justo en la etapa en que empieza a crecer más rápido y necesita más alimentos sólidos.",
+    "options": [
+      {
+        "text": "A) Menores de 3 meses de vida",
+        "isCorrect": false,
+        "explanation": "Falso. A esa edad aún tienen circulante la hemoglobina fetal y buenas reservas maternas."
+      },
+      {
+        "text": "B) Entre los 6 y los 24 meses de edad",
+        "isCorrect": true,
+        "explanation": "Correcto. Las reservas de hierro transplacentarias se agotan a los 4-6 meses. El período entre 6 y 24 meses es de crecimiento acelerado y transición alimentaria, siendo el momento crítico si el aporte dietético es pobre."
+      },
+      {
+        "text": "C) Escolares entre 6 y 10 años",
+        "isCorrect": false,
+        "explanation": "Falso. Crecen más lento y la dieta es más diversa; es raro ver anemia ferropénica salvo por sangrado crónico."
+      },
+      {
+        "text": "D) Recién nacidos pretermino en el primer mes",
+        "isCorrect": false,
+        "explanation": "Falso. Tienen riesgo alto a los meses siguientes, pero al mes de vida aún gozan de la poliglobulia neonatal inicial."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Hematología (Anemia)",
+    "text": "En un paciente con anemia por deficiencia de hierro confirmada, los índices eritrocitarios clásicos en el hemograma mostrarán:",
+    "hint": "La falta de hierro hace que el cuerpo fabrique glóbulos rojos muy pequeños (poco VCM), pálidos (poca HCM) y de muchos tamaños irregulares entre sí (anisocitosis).",
+    "options": [
+      {
+        "text": "A) Anemia Macrocítica, Hipercrómica con RDW normal",
+        "isCorrect": false,
+        "explanation": "Falso. Eso es típico de un déficit de vitamina B12 o ácido fólico, no de hierro."
+      },
+      {
+        "text": "B) Anemia Microcítica, Hipocrómica con RDW (Amplitud de Distribución) elevado",
+        "isCorrect": true,
+        "explanation": "Correcto. La falta de hierro genera eritrocitos pequeños (microcitosis) y pálidos (hipocromía). El RDW elevado (>15%) indica anisocitosis (tamaños desiguales de glóbulos), clásico y precoz en ferropenia."
+      },
+      {
+        "text": "C) Anemia Normocítica, Normocrómica con RDW elevado",
+        "isCorrect": false,
+        "explanation": "Falso. Ese patrón es más típico de anemias hemolíticas o un sangrado agudo."
+      },
+      {
+        "text": "D) Anemia Microcítica, Hipocrómica con RDW bajo/normal",
+        "isCorrect": false,
+        "explanation": "Falso. Ese patrón (microcitosis pero todos de tamaño muy parejo) es sugerente de Talasemia."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Hematología (Anemia)",
+    "text": "¿Cuál de los siguientes exámenes de laboratorio es el indicador más PRECOZ y ESPECÍFICO de que los depósitos corporales de hierro se están agotando?",
+    "hint": "Antes de que baje la hemoglobina en la sangre circulante, el cuerpo primero vacía sus 'bodegas' celulares de almacenamiento de hierro.",
+    "options": [
+      {
+        "text": "A) Cinética de hierro (Hierro Sérico)",
+        "isCorrect": false,
+        "explanation": "Falso. El hierro circulante se mantiene normal al principio a expensas de seguir vaciando los depósitos."
+      },
+      {
+        "text": "B) Saturación de Transferrina",
+        "isCorrect": false,
+        "explanation": "Falso. Cae posteriormente, cuando el depósito ya se vació por completo."
+      },
+      {
+        "text": "C) Ferritina Sérica",
+        "isCorrect": true,
+        "explanation": "Correcto. La ferritina es la proteína de almacenamiento intracelular del hierro. Una ferritina disminuida es el signo bioquímico más precoz de agotamiento de reservas (ferropenia latente), ocurriendo antes de que caiga la hemoglobina."
+      },
+      {
+        "text": "D) Recuento de Reticulocitos",
+        "isCorrect": false,
+        "explanation": "Falso. Indica la capacidad regenerativa de la médula ósea; suele estar normal o bajo en ferropenia."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Hematología (Anemia)",
+    "text": "Frente a lactante de 12 meses con diagnóstico establecido de Anemia Ferropénica (Hb 9.5 g/dl). ¿Cuál es la dosis terapéutica oral recomendada de Hierro Elemental?",
+    "hint": "La dosis diaria 'preventiva' universal es de 1 mg/kg, pero para TRATAR a un niño ya anémico necesitas multiplicarla por un factor curativo de 3 a 5.",
+    "options": [
+      {
+        "text": "A) 1 mg/kg/día",
+        "isCorrect": false,
+        "explanation": "Falso. Esa es la dosis de profilaxis (prevención) universal en el lactante sano a partir de los 4 meses, no cura una anemia instalada."
+      },
+      {
+        "text": "B) 3 a 5 mg/kg/día, idealmente fraccionado y alejado de lácteos",
+        "isCorrect": true,
+        "explanation": "Correcto. La dosis de tratamiento (curativa) es de 3-5 mg/kg/día de hierro elemental. Se aleja de los lácteos porque el calcio inhibe competitivamente su absorción en el intestino."
+      },
+      {
+        "text": "C) 10 mg/kg/día, junto con leche",
+        "isCorrect": false,
+        "explanation": "Falso. Es una dosis tóxica para su estómago, y la leche anularía su efecto absortivo."
+      },
+      {
+        "text": "D) 20 mg/día en dosis única sin importar el peso",
+        "isCorrect": false,
+        "explanation": "Falso. En pediatría la dosis siempre se ajusta meticulosamente por kilo de peso."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Nutrición y Anemia",
+    "text": "Madre de un RNT sano con Lactancia Materna Exclusiva (LME). ¿A qué edad debe iniciarse la profilaxis universal con gotas de hierro (1 mg/kg/día)?",
+    "hint": "La leche materna es oro líquido, pero su contenido neto de hierro es bajo en volumen. Las reservas del embarazo se le agotan exactamente al cuarto mes de vida.",
+    "options": [
+      {
+        "text": "A) Al nacer (día 1)",
+        "isCorrect": false,
+        "explanation": "Falso. Nacen con excedente de glóbulos rojos (poliglobulia neonatal)."
+      },
+      {
+        "text": "B) Al mes de vida",
+        "isCorrect": false,
+        "explanation": "Falso. Iniciar profilaxis al mes aplica solo para niños Prematuros (que no lograron almacenar hierro en el tercer trimestre)."
+      },
+      {
+        "text": "C) A los 4 meses de vida",
+        "isCorrect": true,
+        "explanation": "Correcto. En Chile (Guías MINSAL), a todo RNT con Lactancia Materna Exclusiva se le debe iniciar profilaxis con 1 mg/kg/día a los 4 meses, que es la edad exacta en que caen las reservas transplacentarias maternas."
+      },
+      {
+        "text": "D) Al año de edad",
+        "isCorrect": false,
+        "explanation": "Falso. Retrasar la profilaxis al año significa exponer al niño a un daño cognitivo irreversible por ferropenia."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Inmunología",
+    "text": "En atención primaria, ¿cuál de los siguientes NO es considerado un 'signo de alerta clínica' sugerente de Inmunodeficiencia Primaria en un niño?",
+    "hint": "Los niños que van a guardería (sala cuna) se exponen a decenas de virus nuevos. Que un bebé se resfríe y tenga mocos muchas veces al año en ese contexto es biológicamente normal.",
+    "options": [
+      {
+        "text": "A) 4 o más otitis medias nuevas en 1 año.",
+        "isCorrect": false,
+        "explanation": "Falso. Este SÍ es un signo de alerta formal (las otitis bacterianas a repetición exigen estudio)."
+      },
+      {
+        "text": "B) Infecciones virales respiratorias altas a repetición en sala cuna (ej. 6 resfríos por año).",
+        "isCorrect": true,
+        "explanation": "Correcto. Los niños normales < 3 años, especialmente en sala cuna, pueden tener entre 6 a 8 'resfríos' virales por año sin que esto constituya una inmunodeficiencia patológica (es el entrenamiento inmune habitual)."
+      },
+      {
+        "text": "C) 2 o más neumonías graves en 1 año.",
+        "isCorrect": false,
+        "explanation": "Falso. SÍ es un signo de alerta mayor para descartar un defecto en anticuerpos o neutrófilos."
+      },
+      {
+        "text": "D) Necesidad de uso de antibióticos intravenosos para aclarar infecciones.",
+        "isCorrect": false,
+        "explanation": "Falso. SÍ es un signo de alerta, indica que el sistema inmune no apoya la erradicación oral básica."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Inmunología",
+    "text": "¿Cuál es la Inmunodeficiencia Primaria más frecuente, que muchas veces es asintomática o se manifiesta solo con infecciones de mucosas y celiaquía?",
+    "hint": "Es la falla en la producción exclusiva de la inmunoglobulina que 'patrulla' y protege las mucosas del tracto respiratorio y gastrointestinal.",
+    "options": [
+      {
+        "text": "A) Agammaglobulinemia ligada al cromosoma X (Enfermedad de Bruton)",
+        "isCorrect": false,
+        "explanation": "Falso. Es una inmunodeficiencia severa y global de anticuerpos que debuta tempranamente con sepsis, no es asintomática."
+      },
+      {
+        "text": "B) Inmunodeficiencia Combinada Grave (SCID)",
+        "isCorrect": false,
+        "explanation": "Falso. Ausencia letal de células T y B ('niño burbuja')."
+      },
+      {
+        "text": "C) Deficiencia Selectiva de IgA",
+        "isCorrect": true,
+        "explanation": "Correcto. El Déficit de IgA es la inmunodeficiencia primaria más común. Como la IgA protege mucosas, da otitis, sinusitis, diarreas crónicas (Giardia) o se asocia a enfermedades autoinmunes (Celiaquía)."
+      },
+      {
+        "text": "D) Enfermedad Granulomatosa Crónica",
+        "isCorrect": false,
+        "explanation": "Falso. Es un defecto mortal de los fagocitos (neutrófilos) frente a bacterias catalasa positivas."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Inmunología",
+    "text": "Lactante con tercer episodio bacteriano severo por S. pneumoniae (microorganismo encapsulado). Defecto inmunológico que explica la susceptibilidad EXCLUSIVA a bacterias con cápsula:",
+    "hint": "Para destruir bacterias que tienen un escudo resbaladizo (cápsula), el cuerpo necesita inyectarles 'etiquetas' (opsoninas) usando anticuerpos circulantes y cascadas de complemento.",
+    "options": [
+      {
+        "text": "A) Defecto de la inmunidad humoral (Anticuerpos / Linfocitos B) o Complemento",
+        "isCorrect": true,
+        "explanation": "Correcto. La opsonización y destrucción de bacterias encapsuladas (Neumococo, Haemophilus, Meningococo) depende crucialmente de los anticuerpos (IgG) generados por células B y del Complemento."
+      },
+      {
+        "text": "B) Defecto de los fagocitos (Neutrófilos)",
+        "isCorrect": false,
+        "explanation": "Falso. Predispone a abscesos en piel por bacterias como S. aureus y hongos."
+      },
+      {
+        "text": "C) Defecto de la inmunidad celular aislada (Linfocitos T)",
+        "isCorrect": false,
+        "explanation": "Falso. Los defectos de células T predisponen a patógenos intracelulares y virus/hongos oportunistas."
+      },
+      {
+        "text": "D) Defecto anatómico del timo (Síndrome de DiGeorge)",
+        "isCorrect": false,
+        "explanation": "Falso. El timo afecta la maduración de células T (inmunidad celular)."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neonatología (Cirugía)",
+    "text": "RN de término por cesárea. Antecedente materno de polihidroamnios. Al nacer, el RN tiene sialorrea excesiva y tos al tragar saliva. La SNG se detiene a los 10 cm. Diagnóstico de sospecha y conducta:",
+    "hint": "Si el feto no puede tragar el líquido amniótico, sobra agua en el útero (polihidroamnios). Al nacer, burbujea saliva porque su tubo digestivo termina en un saco ciego.",
+    "options": [
+      {
+        "text": "A) Hernia diafragmática / Intubar de inmediato.",
+        "isCorrect": false,
+        "explanation": "Falso. Da abdomen excavado y distress al nacer, y la sonda pasaría sin problemas al estómago (ubicado en el tórax)."
+      },
+      {
+        "text": "B) Atresia Duodenal / Radiografía buscando doble burbuja.",
+        "isCorrect": false,
+        "explanation": "Falso. Permite paso de SNG hasta el estómago sin detenerse. Los vómitos serían biliosos después."
+      },
+      {
+        "text": "C) Atresia Esofágica (con fístula traqueoesofágica) / Instalar sonda de doble lumen en bolsón y aspirar.",
+        "isCorrect": true,
+        "explanation": "Correcto. El polihidroamnios, la sialorrea masiva y la incapacidad de pasar SNG son patognomónicos de Atresia Esofágica. La medida salvavidas es colocar sonda en el cabo superior para aspirar saliva, evitando que la aspire hacia el pulmón."
+      },
+      {
+        "text": "D) Estenosis hipertrófica del píloro / Ecografía abdominal.",
+        "isCorrect": false,
+        "explanation": "Falso. Da vómitos al mes de vida, la sonda pasa perfecto al estómago."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neonatología (Cirugía)",
+    "text": "Consulta paciente recién nacido en la Urgencia. Usted aprecia un abdomen excavado y ausencia de murmullo pulmonar (MP) en la base izquierda. Su hipótesis diagnóstica es:",
+    "hint": "Falla el cierre de la membrana pleuroperitoneal izquierda, dejando que las vísceras suban y aplasten el desarrollo del pulmón.",
+    "options": [
+      {
+        "text": "A) Secuestro pulmonar.",
+        "isCorrect": false,
+        "explanation": "Falso. El secuestro es tejido pulmonar anormal con irrigación sistémica, rara vez da abdomen escafoide severo al nacer."
+      },
+      {
+        "text": "B) Atresia duodenal.",
+        "isCorrect": false,
+        "explanation": "Falso. Da vómitos biliosos y signo de doble burbuja, pero el abdomen no está excavado ni hay ausencia de murmullo."
+      },
+      {
+        "text": "C) Hernia diafragmática de Bochdalek.",
+        "isCorrect": true,
+        "explanation": "Correcto. La tríada clínica clásica de la hernia diafragmática congénita severa es: dificultad respiratoria, abdomen excavado (escafoide) y ausencia de murmullo en el hemitórax izquierdo (por el foramen de Bochdalek)."
+      },
+      {
+        "text": "D) Hernia de Morgagni.",
+        "isCorrect": false,
+        "explanation": "Falso. Esta es anteromedial, generalmente asintomática al nacer o con síntomas leves tardíos."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neonatología (Cirugía)",
+    "text": "Usted recibe a un recién nacido de término que presenta gastrosquisis. ¿Qué otra malformación se asocia frecuentemente a esta condición?",
+    "hint": "A diferencia del onfalocele, este defecto no tiene saco protector, lo que expone al intestino al líquido amniótico y a estrangularse en el pequeño anillo de la pared abdominal.",
+    "options": [
+      {
+        "text": "A) Malformaciones vertebrales.",
+        "isCorrect": false,
+        "explanation": "Falso. La gastrosquisis rara vez asocia malformaciones de la línea media o vertebras."
+      },
+      {
+        "text": "B) Malformaciones en extremidades.",
+        "isCorrect": false,
+        "explanation": "Falso. No hay asociación directa frecuente con gastrosquisis pura."
+      },
+      {
+        "text": "C) Malformación anorrectal.",
+        "isCorrect": false,
+        "explanation": "Falso. Suele asociarse más al síndrome VACTERL o atresia esofágica."
+      },
+      {
+        "text": "D) Atresias intestinales.",
+        "isCorrect": true,
+        "explanation": "Correcto. A diferencia del Onfalocele, la gastrosquisis rara vez tiene malformaciones extraintestinales. Su principal complicación y asociación es la atresia intestinal, producida por isquemia focal del intestino estrangulado."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neonatología",
+    "text": "Según las normativas vigentes, se define como Recién Nacido Prematuro si:",
+    "hint": "La definición estricta de prematurez se basa única y exclusivamente en el tiempo que pasó en el útero materno, no en cuánto pesa al salir.",
+    "options": [
+      {
+        "text": "A) Pesa menos de 2500 gramos al nacer, independiente de la edad gestacional.",
+        "isCorrect": false,
+        "explanation": "Falso. Eso define 'Bajo Peso de Nacimiento', que puede darse en un niño de término con restricción del crecimiento (RCIU)."
+      },
+      {
+        "text": "B) Nace con menos de 37 semanas de edad gestacional, independiente de su peso.",
+        "isCorrect": true,
+        "explanation": "Correcto. La definición de prematurez es puramente temporal: todo recién nacido de < 37 semanas (o < 259 días) de Edad Gestacional."
+      },
+      {
+        "text": "C) Nace entre las 37 y 40 semanas pero con restricción del crecimiento.",
+        "isCorrect": false,
+        "explanation": "Falso. Eso es un RN de término Pequeño para la Edad Gestacional (PEG)."
+      },
+      {
+        "text": "D) Requiere ventilación mecánica al nacer.",
+        "isCorrect": false,
+        "explanation": "Falso. El requerimiento de UCI no define prematurez."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neonatología",
+    "text": "En la reanimación de un recién nacido con Asfixia Perinatal, la estadificación clínica inicial de la Encefalopatía Hipóxico-Isquémica (EHI) se realiza utilizando la escala de:",
+    "hint": "Es una escala clásica de 3 grados (leve, moderada, severa) que evalúa conciencia, tono, reflejos y convulsiones en el neonato para decidir si se inicia hipotermia terapéutica.",
+    "options": [
+      {
+        "text": "A) Escala de Glasgow modificada.",
+        "isCorrect": false,
+        "explanation": "Falso. Se usa en trauma (TEC) de lactantes o niños mayores."
+      },
+      {
+        "text": "B) Clasificación de Bell.",
+        "isCorrect": false,
+        "explanation": "Falso. Estadifica la Enterocolitis Necrotizante (ECN)."
+      },
+      {
+        "text": "C) Escala de Sarnat y Sarnat.",
+        "isCorrect": true,
+        "explanation": "Correcto. La escala de Sarnat clasifica la Encefalopatía Hipóxico-Isquémica en leve (I), moderada (II) y severa (III). Es fundamental para decidir el inicio de hipotermia terapéutica neuroprotectora."
+      },
+      {
+        "text": "D) Criterios de Centor.",
+        "isCorrect": false,
+        "explanation": "Falso. Son para faringoamigdalitis estreptocócica en escolares."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neonatología (Respiratorio)",
+    "text": "A través de cesárea electiva nace RN de 38 semanas, grande para edad gestacional (GEG), hijo de madre diabética. A los 30 min presenta quejido, aleteo nasal y requerimiento de O2. Rx de tórax: patrón reticulonodular fino (vidrio esmerilado). Diagnóstico:",
+    "hint": "A pesar de ser de término (38 sem), el feto de madre diabética produce mucha insulina para bajar el azúcar extra. La insulina fetal bloquea el 'reloj' de maduración de los pulmones.",
+    "options": [
+      {
+        "text": "A) Taquipnea transitoria del recién nacido.",
+        "isCorrect": false,
+        "explanation": "Falso. La Rx mostraría líquido en cisuras y sobredistensión, no un patrón reticulonodular difuso (vidrio esmerilado)."
+      },
+      {
+        "text": "B) Enfermedad de Membrana Hialina (Síndrome de Dificultad Respiratoria).",
+        "isCorrect": true,
+        "explanation": "Correcto. Ser 'hijo de madre diabética' es factor de riesgo clásico (el hiperinsulinismo fetal retrasa la maduración del surfactante, anulando la protección de la edad gestacional). La Rx en 'vidrio esmerilado' lo confirma."
+      },
+      {
+        "text": "C) Síndrome de Aspiración Meconial.",
+        "isCorrect": false,
+        "explanation": "Falso. La Rx da opacidades gruesas, algodonosas, asimétricas con gran atrapamiento aéreo."
+      },
+      {
+        "text": "D) Neumonía neonatal.",
+        "isCorrect": false,
+        "explanation": "Falso. Aunque es diferencial, la asociación madre diabética GEG y la clásica imagen de 'vidrio esmerilado' apuntan a falta de surfactante."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Enfermedades Respiratorias",
+    "text": "Según la Norma Técnica MINSAL, frente a un escolar o adolescente con tos persistente de semanas de evolución, buen estado general ('neumonía atípica o caminante') y concomitancia de casos familiares, el agente etiológico principal a sospechar es:",
+    "hint": "Esta bacteria carece de pared celular, causa brotes en ambientes cerrados (colegios/familias) y presenta una gran disociación clínico-radiológica.",
+    "options": [
+      {
+        "text": "A) Streptococcus pneumoniae.",
+        "isCorrect": false,
+        "explanation": "Falso. Cursa con clínica típica: fiebre alta brusca, decaimiento, tos con expectoración y patrón alveolar focal."
+      },
+      {
+        "text": "B) Mycoplasma pneumoniae.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el agente clásico de la NAC atípica en niños > 5 años y adolescentes. Cursa con brotes, tos seca persistente, miringitis bulosa y disociación clínico-radiológica (luce mejor de lo que sugiere la radiografía)."
+      },
+      {
+        "text": "C) Haemophilus influenzae.",
+        "isCorrect": false,
+        "explanation": "Falso. Agente típico de neumonías complicadas o purulentas."
+      },
+      {
+        "text": "D) Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "Falso. Causa neumonías necróticas graves, hiperagudas y con empiema."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Enfermedades Respiratorias",
+    "text": "¿Cuál es el tratamiento antibiótico empírico de primera línea indicado para una Neumonía Atípica por Mycoplasma pneumoniae en un escolar?",
+    "hint": "Como este germen no tiene pared celular, las penicilinas y amoxicilina 'rebotan'. Necesitas un fármaco que ataque directamente la síntesis de proteínas en el ribosoma.",
+    "options": [
+      {
+        "text": "A) Amoxicilina en altas dosis.",
+        "isCorrect": false,
+        "explanation": "Falso. Es el tratamiento para Neumococo (Neumonía Típica). Es ineficaz contra Mycoplasma."
+      },
+      {
+        "text": "B) Ceftriaxona intramuscular.",
+        "isCorrect": false,
+        "explanation": "Falso. Es un betalactámico, ineficaz contra bacterias sin pared celular."
+      },
+      {
+        "text": "C) Macrólidos (Azitromicina o Claritromicina).",
+        "isCorrect": true,
+        "explanation": "Correcto. Los macrólidos inhiben la síntesis proteica bacteriana y son el tratamiento de elección absoluto contra gérmenes atípicos (Mycoplasma y Chlamydia)."
+      },
+      {
+        "text": "D) Penicilina G Sódica.",
+        "isCorrect": false,
+        "explanation": "Falso. Al igual que amoxicilina, ataca la pared celular inexistente de este germen."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infectología",
+    "text": "En la evaluación de un lactante de 2 meses que cursa con un cuadro de Tos Convulsiva (Coqueluche / Bordetella pertussis), ¿cuál hallazgo de laboratorio en el hemograma es característico y apoya fuertemente la sospecha clínica?",
+    "hint": "La toxina de esta bacteria inhibe la migración de un tipo específico de glóbulo blanco hacia los tejidos, dejándolos atrapados y circulando en masa en la sangre.",
+    "options": [
+      {
+        "text": "A) Leucopenia con desviación izquierda.",
+        "isCorrect": false,
+        "explanation": "Falso. La desviación a la izquierda (neutrofilia inmadura) es propia de infecciones bacterianas piógenas comunes."
+      },
+      {
+        "text": "B) Trombocitopenia severa.",
+        "isCorrect": false,
+        "explanation": "Falso. No hay destrucción plaquetaria característica en Coqueluche."
+      },
+      {
+        "text": "C) Leucocitosis marcada con predominio absoluto de linfocitos (Linfocitosis).",
+        "isCorrect": true,
+        "explanation": "Correcto. La toxina pertussis inhibe la migración de linfocitos hacia los tejidos. Esto genera recuentos leucocitarios muy altos (ej. 20.000 a 60.000) con más del 70% de linfocitos, sello patognomónico del Coqueluche."
+      },
+      {
+        "text": "D) Anemia microcítica hipocrómica extrema.",
+        "isCorrect": false,
+        "explanation": "Falso. La Bordetella no afecta la síntesis de hemoglobina de forma primaria."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infectología",
+    "text": "Frente a un lactante de 2 meses que consulta por fiebre alta e irritabilidad, diagnosticado con una Otitis Media Aguda (OMA) supurada bilateral, ¿cuál es la dosis antibiótica de elección según las guías chilenas vigentes?",
+    "hint": "El neumococo se ha vuelto 'resistente' en el espacio del oído medio porque cuesta penetrarlo, por lo que la amoxicilina debe usarse a la dosis máxima tolerada.",
+    "options": [
+      {
+        "text": "A) Amoxicilina a 50 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Falso. Es la dosis estándar, hoy considerada insuficiente para vencer la resistencia del neumococo en el oído medio."
+      },
+      {
+        "text": "B) Amoxicilina a 80-90 mg/kg/día.",
+        "isCorrect": true,
+        "explanation": "Correcto. Debido a la alta tasa de resistencia del neumococo, el tratamiento de elección empírico de la OMA en lactantes es Amoxicilina a dosis 'altas'."
+      },
+      {
+        "text": "C) Azitromicina por 3 días.",
+        "isCorrect": false,
+        "explanation": "Falso. Se reserva estrictamente para pacientes con alergia anafiláctica a las penicilinas."
+      },
+      {
+        "text": "D) Observación sin antibióticos por 48 hrs.",
+        "isCorrect": false,
+        "explanation": "Falso. La estrategia de 'watch and wait' está contraindicada en lactantes tan pequeños (< 6 meses) y con otitis bilateral por alto riesgo de complicaciones."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Enfermedades Respiratorias",
+    "text": "Preescolar de 3 años, rinorrea de 3 días, fiebre 39°C y tos perruna disfónica. Hace 2 horas agrega dificultad respiratoria con ESTRIDOR EN REPOSO inspiratorio y espiratorio. La conducta inicial MÁS adecuada en la urgencia es:",
+    "hint": "La inflamación de las cuerdas vocales y subglotis es tan severa que causa ruido al entrar y salir el aire, amenazando con asfixia. Se requiere vasoconstricción mucosa inmediata.",
+    "options": [
+      {
+        "text": "A) Prescribir Salbutamol inhalado y dar de alta.",
+        "isCorrect": false,
+        "explanation": "Falso. El salbutamol dilata la vía aérea baja (bronquios), no ayuda en el edema obstructivo de la laringe."
+      },
+      {
+        "text": "B) Administrar Oxígeno, nebulización con Adrenalina racémica y Dexametasona sistémica.",
+        "isCorrect": true,
+        "explanation": "Correcto. Corresponde a una Laringitis Aguda Obstructiva Severa (estridor en reposo). El pilar urgente es desinflamar la vía aérea rápidamente con Adrenalina nebulizada (vasoconstricción) y corticoides (Dexametasona)."
+      },
+      {
+        "text": "C) Realizar intubación endotraqueal inmediata.",
+        "isCorrect": false,
+        "explanation": "Falso. Se intenta manejo médico intensivo primero; la intubación se reserva si hay agotamiento extremo o coma inminente."
+      },
+      {
+        "text": "D) Dar paracetamol y enviar a radiología.",
+        "isCorrect": false,
+        "explanation": "Falso. Enviar un paciente con vía aérea inestable/crítica a radiología pone en peligro su vida."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infectología Respiratoria",
+    "text": "Madre acude con su hijo de 4 años, diagnosticado hace 10 días de un 'resfrío fuerte'. Refiere que la rinorrea no ha cedido, se volvió purulenta y hace 24 horas reinició con fiebre alta (39°C) y dolor facial. Diagnóstico más adecuado:",
+    "hint": "Es la evolución típica bifásica de una infección viral de vía alta que, al inflamar tanto tiempo las mucosas, termina por obstruir el drenaje de una cavidad facial estéril.",
+    "options": [
+      {
+        "text": "A) Una infección urinaria oculta.",
+        "isCorrect": false,
+        "explanation": "Falso. La clínica respiratoria y facial orientan claramente el foco; la ITU sin foco es típica de lactantes."
+      },
+      {
+        "text": "B) Una complicación bacteriana local: Sinusitis Aguda.",
+        "isCorrect": true,
+        "explanation": "Correcto. Una IRA alta (resfrío) que dura más de 10 días sin mejoría o que cursa con un patrón bifásico (baja la fiebre y reaparece alta, con rinorrea purulenta o dolor facial), es el criterio clínico diagnóstico de una Rinosinusitis bacteriana aguda."
+      },
+      {
+        "text": "C) Un nuevo virus respiratorio.",
+        "isCorrect": false,
+        "explanation": "Falso. Aunque posible, el dolor facial y patrón bifásico obligan a descartar y tratar la sobreinfección bacteriana."
+      },
+      {
+        "text": "D) Una neumonía atípica.",
+        "isCorrect": false,
+        "explanation": "Falso. La neumonía atípica (Mycoplasma) da tos seca, no rinorrea purulenta con dolor en los senos paranasales."
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Infectología",
+    "text": "¿Qué tipo de paciente con varicela aguda tiene indicación formal de tratamiento antiviral (Aciclovir)?",
+    "hint": "En niños sanos pre-púberes es una enfermedad leve y molesta. Los antivirales se reservan para quienes sus defensas no responden bien o para aquellos de mayor edad donde el virus ataca agresivamente a los pulmones.",
+    "options": [
+      {
+        "text": "A) Todo lactante menor de 2 años.",
+        "isCorrect": false,
+        "explanation": "Falso. Si es inmunocompetente, la varicela infantil cursa benigna, se trata solo con manejo sintomático."
+      },
+      {
+        "text": "B) Escolares asintomáticos que fueron contacto de un caso índice.",
+        "isCorrect": false,
+        "explanation": "Falso. La profilaxis post-exposición es con vacuna o inmunoglobulinas, no con antivirales orales preventivos."
+      },
+      {
+        "text": "C) Pacientes inmunocomprometidos y adolescentes mayores de 12 años.",
+        "isCorrect": true,
+        "explanation": "Correcto. La varicela en adolescentes/adultos asocia muy alto riesgo de Neumonía Varicelosa fatal, y en inmunocomprometidos da varicela diseminada multiorgánica. Ambos grupos requieren Aciclovir mandatorio."
+      },
+      {
+        "text": "D) Pacientes con exantema puramente macular sin vesículas.",
+        "isCorrect": false,
+        "explanation": "Falso. No describe un grupo de riesgo."
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Programa Nacional de Inmunizaciones (PNI)",
+    "text": "Los padres de un escolar que asiste a Primero Básico reciben la comunicación de que mañana vendrá personal del consultorio a vacunar a su hijo. ¿De qué vacunación se trata según PNI?",
+    "hint": "A los ~6 años (1° básico) toca el refuerzo escolar para proteger de la clásica tríada viral exantemática y de la tos paroxística con un componente 'acelular' más seguro.",
+    "options": [
+      {
+        "text": "A) Tres vírica (SRP) - dTp acelular.",
+        "isCorrect": true,
+        "explanation": "Correcto. El Calendario MINSAL indica en 1° Básico las dosis de refuerzo de la SRP (Sarampión-Rubéola-Paperas) y la dTpa (Difteria-Tétanos-Tos convulsiva acelular, para reducir neurotoxicidad)."
+      },
+      {
+        "text": "B) dTp acelular sola.",
+        "isCorrect": false,
+        "explanation": "Falso. Falta el componente viral vivo atenuado (SRP)."
+      },
+      {
+        "text": "C) Tres vírica - BCG.",
+        "isCorrect": false,
+        "explanation": "Falso. La BCG se da exclusivamente en el recién nacido al alta de la maternidad."
+      },
+      {
+        "text": "D) VPH 1ª dosis.",
+        "isCorrect": false,
+        "explanation": "Falso. La vacuna contra el Virus Papiloma Humano inicia en 4° Básico."
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Programa Nacional de Inmunizaciones (PNI)",
+    "text": "En el control sano de un lactante de 2 meses, LME y vacunas al día. ¿Qué vacuna Extra Programa Nacional (PNI) se recomienda comprar?",
+    "hint": "A los 2 meses el PNI cubre lo principal inyectable (Hexavalente, Neumo, MenB), pero hay un virus gastrointestinal gravísimo para el cual la vacuna es oral y privada.",
+    "options": [
+      {
+        "text": "A) Antivaricela y anti Fiebre amarilla.",
+        "isCorrect": false,
+        "explanation": "Falso. No se aplican a esta edad (Varicela es > 12 meses)."
+      },
+      {
+        "text": "B) Neumocócica conjugada y Anti Hepatitis A.",
+        "isCorrect": false,
+        "explanation": "Falso. Neumococo ya está en el PNI a los 2 meses. Hep A es a los 18 meses."
+      },
+      {
+        "text": "C) Rotavirus.",
+        "isCorrect": true,
+        "explanation": "Correcto. El PNI chileno cubre Hexavalente, Neumococo y MenB. La vacuna contra el Rotavirus es la inmunización extra PNI más recomendada a los 2 y 4 meses para evitar gastroenteritis aguda grave."
+      },
+      {
+        "text": "D) Hexavalente y Tres Vírica.",
+        "isCorrect": false,
+        "explanation": "Falso. Hexavalente es PNI; Tres vírica es a los 12 meses."
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Programa Nacional de Inmunizaciones (PNI)",
+    "text": "Según el calendario PNI 2026, la vacuna VPH (Virus Papiloma Humano) en su nueva presentación, se administra como:",
+    "hint": "La evidencia mundial demostró que el sistema inmune adolescente reacciona tan bien a la primera 'inyección' de esta vacuna, que las siguientes dosis estaban sobrando.",
+    "options": [
+      {
+        "text": "A) Tres dosis a partir de pre-kinder.",
+        "isCorrect": false,
+        "explanation": "Falso. Era el esquema antiguo en adultas."
+      },
+      {
+        "text": "B) Única dosis (en edad escolar, 4to básico).",
+        "isCorrect": true,
+        "explanation": "Correcto. La actualización del PNI en Chile (acorde a la OMS) establece la vacuna VPH como esquema de dosis única universal para niños y niñas escolares, logrando robusta inmunidad de rebaño."
+      },
+      {
+        "text": "C) Dos dosis separadas por 6 meses solo en mujeres.",
+        "isCorrect": false,
+        "explanation": "Falso. Se cambió de 2 dosis a 1, y además se administra a ambos sexos."
+      },
+      {
+        "text": "D) Anualmente junto con la Influenza.",
+        "isCorrect": false,
+        "explanation": "Falso. No requiere revacunación anual."
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Programa Nacional de Inmunizaciones (PNI)",
+    "text": "¿Cuál de las siguientes NO es una vacuna infectiva (a virus o bacteria viva atenuada)?",
+    "hint": "Busca la vacuna que está fabricada con fragmentos (polisacáridos conjugados) o proteínas recombinantes inactivadas, no por microorganismos enteros 'debilitados'.",
+    "options": [
+      {
+        "text": "A) BCG",
+        "isCorrect": false,
+        "explanation": "Falso. Está compuesta por bacterias vivas atenuadas (Mycobacterium bovis)."
+      },
+      {
+        "text": "B) Tres vírica (SRP)",
+        "isCorrect": false,
+        "explanation": "Falso. Compuesta por virus vivos atenuados (Sarampión, Rubeola, Paperas)."
+      },
+      {
+        "text": "C) Antimeningocócica",
+        "isCorrect": true,
+        "explanation": "Correcto. Las vacunas antimeningocócicas (MenB recombinante o MenACWY conjugada) son inactivadas/muertas. Es imposible que causen la enfermedad y son seguras en inmunocomprometidos."
+      },
+      {
+        "text": "D) Varicela",
+        "isCorrect": false,
+        "explanation": "Falso. Es un virus vivo atenuado."
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cirugía Infantil (Gastroenterología)",
+    "text": "Consulta paciente de 10 meses por vómitos alimentarios desde hace 12 horas, muy decaído y con llanto intermitente de dolor. Al examen se palpa masa abdominal 'en salchicha'. Deposiciones con aspecto de 'jalea de grosella'. La causa más frecuente de este abdomen agudo es:",
+    "hint": "Un segmento de intestino se metió dentro de otro (telescopaje), ahorcando los vasos y provocando un sangrado isquémico mucoso en forma de 'jalea'.",
+    "options": [
+      {
+        "text": "A) Vólvulo intestinal.",
+        "isCorrect": false,
+        "explanation": "Falso. Típico del periodo neonatal inmediato, cursa con vómitos biliosos."
+      },
+      {
+        "text": "B) Atresia duodenal.",
+        "isCorrect": false,
+        "explanation": "Falso. Diagnóstico neonatal o prenatal (doble burbuja)."
+      },
+      {
+        "text": "C) Apendicitis aguda.",
+        "isCorrect": false,
+        "explanation": "Falso. Rara en lactantes, y no cursa con la masa móvil en salchicha ni la deposición en jalea."
+      },
+      {
+        "text": "D) Invaginación intestinal (Intususcepción).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la causa más frecuente de obstrucción intestinal en lactantes. La clínica típica es crisis de dolor abdominal intercaladas con letargia, masa palpable y las clásicas deposiciones mucosanguinolentas en 'jalea de grosella'."
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cirugía Infantil (Gastroenterología)",
+    "text": "¿Cuál es la alteración ácido-base característica que se encuentra en la gasometría arterial de un lactante con Estenosis Hipertrófica del Píloro en etapa avanzada?",
+    "hint": "El bebé vomita a chorro el jugo del estómago puro (sin bilis alcalina). Al botar todo su Ácido Clorhídrico (HCl), el pH de su sangre se eleva y queda sin cloro.",
+    "options": [
+      {
+        "text": "A) Acidosis metabólica hiperclorémica.",
+        "isCorrect": false,
+        "explanation": "Falso. La pérdida de ácido gástrico produce alcalosis, no acidosis."
+      },
+      {
+        "text": "B) Alcalosis metabólica hipoclorémica e hipokalémica.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los vómitos puramente gástricos pierden Ácido Clorhídrico (HCl), generando alcalosis (pH alto) e hipocloremia. El riñón, para compensar la falta de volumen, excreta potasio (agregando hipokalemia)."
+      },
+      {
+        "text": "C) Acidosis respiratoria aguda.",
+        "isCorrect": false,
+        "explanation": "Falso. Su problema primario es digestivo, no retención de CO2."
+      },
+      {
+        "text": "D) Alcalosis respiratoria compensada.",
+        "isCorrect": false,
+        "explanation": "Falso. No es por hiperventilación, es un trastorno puramente metabólico por pérdida de ácido."
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Cirugía Infantil (Neonatología)",
+    "text": "Según la clasificación de Enterocolitis Necrotizante de Bell, un prematuro que presenta neumatosis intestinal extensa en la radiografía de abdomen se clasifica como Estadio:",
+    "hint": "El estadio I es solo 'sospecha'. Cuando ya hay signos radiológicos patognomónicos evidentes (gas en la pared del intestino), se pasa al estadio central de enfermedad 'probada'.",
+    "options": [
+      {
+        "text": "A) Estadio I (Sospecha).",
+        "isCorrect": false,
+        "explanation": "Falso. En estadio I hay distensión, sangre microscópica o retención, pero la Rx es inespecífica (íleo leve)."
+      },
+      {
+        "text": "B) Estadio II (Enfermedad probada).",
+        "isCorrect": true,
+        "explanation": "Correcto. La aparición de 'neumatosis intestinal' (gas en la pared del intestino) o gas en vena porta marca el paso al Estadio II, confirmando el diagnóstico de ECN definitiva/probada."
+      },
+      {
+        "text": "C) Estadio III (Enfermedad avanzada con perforación inminente).",
+        "isCorrect": false,
+        "explanation": "Falso. Para ser Estadio III quirúrgico, debe haber neumoperitoneo (aire libre por perforación franca) o deterioro cardiovascular grave (shock)."
+      },
+      {
+        "text": "D) Estadio IV.",
+        "isCorrect": false,
+        "explanation": "Falso. La escala de Bell original y modificada solo llega hasta el III."
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Traumatología y Ortopedia",
+    "text": "Un líquido sinovial extraído de rodilla en escolar: turbio, opaco, escasa viscosidad, glucosa muy baja, >50.000 leucocitos (a predominio PMN) y proteínas altas. Característico de:",
+    "hint": "Ese líquido es literalmente pus. Las bacterias de alto grado se están comiendo la glucosa del líquido articular y atrayendo decenas de miles de neutrófilos destructivos a la zona.",
+    "options": [
+      {
+        "text": "A) Artritis Idiopática Juvenil.",
+        "isCorrect": false,
+        "explanation": "Falso. Da líquido inflamatorio, pero los leucocitos suelen ser menores a 50.000 y la glucosa no cae a niveles casi indetectables."
+      },
+      {
+        "text": "B) Sinovitis transitoria post-viral.",
+        "isCorrect": false,
+        "explanation": "Falso. El líquido sería claro o levemente inflamatorio, sin bacterias ni consumo masivo de glucosa."
+      },
+      {
+        "text": "C) Artritis séptica.",
+        "isCorrect": true,
+        "explanation": "Correcto. El recuento celular > 50.000 (a veces >100.000) junto con consumo masivo de glucosa (hipoglucorraquia local) por el metabolismo bacteriano, define un empiema articular (Artritis séptica), urgencia traumatológica absoluta."
+      },
+      {
+        "text": "D) Hemartrosis hemofílica.",
+        "isCorrect": false,
+        "explanation": "Falso. Daría un líquido sanguinolento franco, no purulento."
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Traumatología y Ortopedia",
+    "text": "Preescolar 2 años, claudicación (cojera) de cadera derecha aguda. Antecedente de resfrío hace 7 días. Afebril, excelente estado general, limitación dolorosa a rotación interna. Diagnóstico:",
+    "hint": "A diferencia de la artritis séptica, este niño no tiene fiebre alta ni luce tóxico, y el antecedente de un cuadro viral previo es el gatillante clásico.",
+    "options": [
+      {
+        "text": "A) Osteomielitis de fémur.",
+        "isCorrect": false,
+        "explanation": "Falso. Causaría fiebre alta, dolor focal intenso óseo y aspecto tóxico."
+      },
+      {
+        "text": "B) Artritis séptica de cadera.",
+        "isCorrect": false,
+        "explanation": "Falso. Causaría fiebre alta, impotencia funcional absoluta (no podría ni apoyar el pie) y reactantes de fase aguda elevadísimos."
+      },
+      {
+        "text": "C) Sinovitis transitoria de cadera.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la causa más frecuente de cojera aguda entre los 2 a 8 años. Ocurre típicamente tras una infección viral. El niño no tiene fiebre alta ni aspecto tóxico, solo limita el rango articular por dolor."
+      },
+      {
+        "text": "D) Enfermedad de Perthes.",
+        "isCorrect": false,
+        "explanation": "Falso. Es una necrosis avascular de instauración insidiosa (meses), típica de varones entre 4-8 años, no aguda post-viral."
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Traumatología y Ortopedia",
+    "text": "Lactante 4 meses asiste a control sano. Radiografía de pelvis: Ángulo Acetabular de 34° a derecha y 32° a izquierda. Asimetría de pliegues. Diagnóstico:",
+    "hint": "A los 3-4 meses, el 'techo' de la cadera no debería superar los 30 grados. Si es mayor, el techo está muy vertical ('resbaloso') y la cabeza del fémur corre peligro de salirse.",
+    "options": [
+      {
+        "text": "A) Caderas normales y maduras para la edad.",
+        "isCorrect": false,
+        "explanation": "Falso. A los 3-4 meses el ángulo acetabular normal debe ser inferior a 28°-30°."
+      },
+      {
+        "text": "B) Displasia de desarrollo de caderas (DDC).",
+        "isCorrect": true,
+        "explanation": "Correcto. Ángulos mayores a 30° indican que el techo acetabular está displásico (muy vertical), con alto riesgo de luxación posterior. Requiere derivación a traumatología para uso de correas de Pavlik."
+      },
+      {
+        "text": "C) Luxación congénita de caderas.",
+        "isCorrect": false,
+        "explanation": "Falso. Si estuviese luxada (ya fuera de lugar), habría signos de Ortolani/Galeazzi positivos o acortamiento evidente de la extremidad."
+      },
+      {
+        "text": "D) Sinovitis transitoria bilateral.",
+        "isCorrect": false,
+        "explanation": "Falso. Es una patología infecciosa/inflamatoria del preescolar, no un hallazgo radiológico óseo de control sano."
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Reumatología Infantil",
+    "text": "Niño de 6 años con fiebre 5 días, exantema polimorfo, adenopatía cervical unilateral y 'lengua aframbuesada'. Plaquetas > 600.000. ¿Qué examen imagenológico es OBLIGATORIO solicitar?",
+    "hint": "El mayor peligro a futuro de esta vasculitis febril es que inflame y dilate en forma de aneurismas los vasos que nutren al propio músculo cardíaco.",
+    "options": [
+      {
+        "text": "A) Ecografía abdominal.",
+        "isCorrect": false,
+        "explanation": "Falso. Puede haber hidrops vesicular, pero no altera el pronóstico vital ni obliga a un manejo específico distinto."
+      },
+      {
+        "text": "B) Radiografía de tórax.",
+        "isCorrect": false,
+        "explanation": "Falso. No permite evaluar el estado de las arterias cardíacas."
+      },
+      {
+        "text": "C) Ecocardiograma.",
+        "isCorrect": true,
+        "explanation": "Correcto. El paciente tiene Criterios de Enfermedad de Kawasaki. La complicación más temida es el desarrollo de aneurismas en arterias coronarias. El Ecocardiograma es mandatario al diagnóstico y en el seguimiento."
+      },
+      {
+        "text": "D) Tomografía de cuello.",
+        "isCorrect": false,
+        "explanation": "Falso. Ayuda si hay duda de flemón amigdalino, pero no descarta el riesgo cardiovascular."
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Reumatología Infantil",
+    "text": "Paciente de 10 años con Lupus (LES). Según criterios ACR, ¿cuál de los siguientes hallazgos NO suma como un criterio diagnóstico específico?",
+    "hint": "El lupus destruye células porque el sistema inmune las ataca (hemólisis, leucopenia), pero una simple falta de 'fierro' por mala dieta o sangrado no es signo de autoinmunidad.",
+    "options": [
+      {
+        "text": "A) Úlceras orales indoloras.",
+        "isCorrect": false,
+        "explanation": "Falso. Sí es un criterio clásico de mucosas para LES."
+      },
+      {
+        "text": "B) Pleuritis o pericarditis.",
+        "isCorrect": false,
+        "explanation": "Falso. Sí es un criterio (Serositis)."
+      },
+      {
+        "text": "C) Artritis no erosiva en dos o más articulaciones periféricas.",
+        "isCorrect": false,
+        "explanation": "Falso. Sí es un criterio articular."
+      },
+      {
+        "text": "D) Anemia de 8.7 g/dl de tipo ferropénica sin signos de hemólisis.",
+        "isCorrect": true,
+        "explanation": "Correcto (No suma). En los criterios ACR, el trastorno hematológico que suma puntos para LES es la Anemia Hemolítica autoinmune (con reticulocitos altos y Coombs +), o la leucopenia severa/trombocitopenia. Una anemia ferropénica simple no es específica."
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neurología (BRUE)",
+    "text": "La principal causa de BRUE (Brief Resolved Unexplained Event, antigua ALTE) sintomático en Chile es:",
+    "hint": "Cuando un bebé deja de respirar y cambia de color, pero se recupera solo y en el hospital descubren la causa, los culpables suelen ser los 'mocos' de invierno o el 'ácido' que sube del estómago.",
+    "options": [
+      {
+        "text": "A) Infección por virus respiratorios o Reflujo Gastroesofágico.",
+        "isCorrect": true,
+        "explanation": "Correcto. Cuando un lactante presenta un BRUE y se logra identificar la causa (BRUE sintomático), las infecciones respiratorias virales (como el VRS) y el Reflujo Gastroesofágico severo lideran la estadística."
+      },
+      {
+        "text": "B) QT largo y otras arritmias.",
+        "isCorrect": false,
+        "explanation": "Falso. Son causas muy graves que siempre deben descartarse (ECG a todos), pero afortunadamente son raras."
+      },
+      {
+        "text": "C) Enfermedades metabólicas congénitas.",
+        "isCorrect": false,
+        "explanation": "Falso. Son causas muy infrecuentes de eventos apneicos en lactantes."
+      },
+      {
+        "text": "D) Maltrato infantil (Munchausen por poder).",
+        "isCorrect": false,
+        "explanation": "Falso. Es una bandera roja a descartar en BRUE recurrente o atípico, pero no es la causa general más frecuente."
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neurología (Cefaleas)",
+    "text": "¿Qué criterio clínico es el MÁS DETERMINANTE a la hora de clasificar una cefalea como 'Primaria' (ej. Migraña, Tensional) en un escolar?",
+    "hint": "Para asegurar que un dolor de cabeza crónico es 'solo' migraña y no un tumor, el cerebro debe demostrar al evaluador externo que funciona perfecto.",
+    "options": [
+      {
+        "text": "A) La localización frontal de la cefalea.",
+        "isCorrect": false,
+        "explanation": "Falso. Las cefaleas secundarias (tumor frontal) también pueden doler ahí."
+      },
+      {
+        "text": "B) El carácter pulsátil o que interrumpe el sueño.",
+        "isCorrect": false,
+        "explanation": "Falso. Que interrumpa el sueño nocturno es de hecho una 'bandera roja' sugerente de patología orgánica/masa."
+      },
+      {
+        "text": "C) Un examen neurológico rigurosamente normal.",
+        "isCorrect": true,
+        "explanation": "Correcto. El sello de una cefalea primaria es la exclusión de patología orgánica intracraneal. Un examen neurológico completamente normal descarta la inmensa mayoría de las causas secundarias graves."
+      },
+      {
+        "text": "D) El antecedente familiar de migraña en la madre.",
+        "isCorrect": false,
+        "explanation": "Falso. Apoya el diagnóstico de migraña, pero no exime de encontrar un examen neurológico normal primero."
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neurodesarrollo",
+    "text": "A partir de qué edad un lactante realiza un correcto pinzamiento de índice y pulgar (por ejemplo, para tomar pasas de un plato):",
+    "hint": "Ocurre casi a la par con el momento en que el niño empieza a gatear ágilmente y a pararse afirmado de los muebles, en la recta final hacia el primer año de vida.",
+    "options": [
+      {
+        "text": "A) 6 meses.",
+        "isCorrect": false,
+        "explanation": "Falso. Logran la prensión palmar ulnar torpe (toman con toda la mano)."
+      },
+      {
+        "text": "B) 8 meses.",
+        "isCorrect": false,
+        "explanation": "Falso. Logran la prensión radial o pinza inmadura (contra el lateral del dedo)."
+      },
+      {
+        "text": "C) 10 meses.",
+        "isCorrect": true,
+        "explanation": "Correcto. La motricidad fina evoluciona hasta lograr la pinza fina madura (índice-pulgar en las yemas) alrededor de los 10 a 12 meses de vida, permitiéndole tomar objetos pequeños con precisión."
+      },
+      {
+        "text": "D) 14 meses.",
+        "isCorrect": false,
+        "explanation": "Falso. A esta edad ya pueden hacer garabatos iniciales o intentar soltar objetos en un recipiente."
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neurodesarrollo",
+    "text": "Preescolar 3 años, antecedente RNPT 28 sem. La madre relata que no habla palabras, no logra sentarse solo, sin sonrisa social, y llora exclusivo por hambre. Categorización neurológica:",
+    "hint": "La prematurez extrema causó un daño que afecta todos los dominios de su cerebro (motor, cognitivo, lenguaje, social) de forma simultánea y profunda.",
+    "options": [
+      {
+        "text": "A) Retraso Global del Desarrollo (RGD) / Parálisis Cerebral.",
+        "isCorrect": true,
+        "explanation": "Correcto. Tiene afección profunda en múltiples dominios (motor: no se sienta a los 3 años; lenguaje: no habla; social: sin sonrisa), sumado al factor de riesgo orgánico de prematurez extrema. Esto excede un trastorno simple, indicando daño neurológico global."
+      },
+      {
+        "text": "B) Trastorno del Espectro Autista severo.",
+        "isCorrect": false,
+        "explanation": "Falso. Explicaría la falta de sociabilidad, pero no la grave incapacidad motora gruesa (no sentarse)."
+      },
+      {
+        "text": "C) Disfasia del desarrollo.",
+        "isCorrect": false,
+        "explanation": "Falso. Es un trastorno específico del lenguaje, el desarrollo motor estaría normal."
+      },
+      {
+        "text": "D) Retraso simple del lenguaje.",
+        "isCorrect": false,
+        "explanation": "Falso. Subestima la gravedad evidente del componente motor y social."
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Neurodesarrollo",
+    "text": "En pediatría ambulatoria se aplica la Escala de Evaluación del Desarrollo Psicomotor (EEDP). ¿Hasta qué edad máxima del lactante está estandarizada en los controles sanos chilenos?",
+    "hint": "Esta pauta cubre la etapa de mayor adquisición motora inicial, deteniéndose justo cuando el niño ya camina firme y empieza a formar oraciones simples para dar paso al TEPSI.",
+    "options": [
+      {
+        "text": "A) Hasta los 12 meses.",
+        "isCorrect": false,
+        "explanation": "Falso. Al año de vida el desarrollo psicomotor aún requiere evaluación fina con la EEDP."
+      },
+      {
+        "text": "B) Hasta los 18 meses.",
+        "isCorrect": false,
+        "explanation": "Falso. Abarca unos meses más."
+      },
+      {
+        "text": "C) Hasta los 24 meses (2 años).",
+        "isCorrect": true,
+        "explanation": "Correcto. La escala EEDP evalúa motora, lenguaje, social y coordinación desde 1 mes hasta los 24 meses en Chile. A partir de los 2 años hasta los 5 años, se aplica el TEPSI."
+      },
+      {
+        "text": "D) Hasta los 5 años.",
+        "isCorrect": false,
+        "explanation": "Falso. Ese es el rango límite del Test de Desarrollo Psicomotor (TEPSI), no del EEDP."
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Farmacología Pediátrica",
+    "text": "Lactante de 6 meses es traído a urgencia por crisis febril simple de 2 min, T° 39°C por otitis. Para el manejo de la fiebre en casa, el paracetamol se debe dosificar a:",
+    "hint": "La dosis segura estándar en pediatría no debe superar un tope máximo por toma para proteger el hígado.",
+    "options": [
+      {
+        "text": "A) 5 mg/kg por dosis cada 12 horas.",
+        "isCorrect": false,
+        "explanation": "Falso. Subdosificado. No bajará la fiebre de forma efectiva ni durará el efecto."
+      },
+      {
+        "text": "B) 10 a 15 mg/kg por dosis cada 6 a 8 horas.",
+        "isCorrect": true,
+        "explanation": "Correcto. La dosis estándar antipirética y analgésica segura del Paracetamol en pediatría es de 10-15 mg/kg por dosis, sin superar las 4 a 5 dosis diarias (máx 60-75 mg/kg/día) para evitar toxicidad hepática."
+      },
+      {
+        "text": "C) 30 mg/kg por dosis cada 8 horas.",
+        "isCorrect": false,
+        "explanation": "Falso. Dosis tóxica acumulativa si se repite."
+      },
+      {
+        "text": "D) 50 mg/día en dosis única.",
+        "isCorrect": false,
+        "explanation": "Falso. En niños la dosis siempre debe calcularse estrictamente por kilo de peso actual."
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "internado": "Pediatría",
+    "area": "Certamen 2",
+    "topic": "Hidratación Pediátrica",
+    "text": "Escolar de 10 años requiere reanimación hídrica. Su peso es de 30 kg. Utilizando la regla de Holliday-Segar, el requerimiento basal de líquidos diarios (Mantenimiento) será de:",
+    "hint": "Regla matemática: Primeros 10kg = 1000ml. Segundos 10kg = 500ml. Kilos sobrantes = multiplicados por 20ml.",
+    "options": [
+      {
+        "text": "A) 1.000 ml/día.",
+        "isCorrect": false,
+        "explanation": "Falso. Ese es el requerimiento de un niño que pesa exactamente 10 kg."
+      },
+      {
+        "text": "B) 1.500 ml/día.",
+        "isCorrect": false,
+        "explanation": "Falso. Ese es el requerimiento para un niño de 20 kg."
+      },
+      {
+        "text": "C) 1.700 ml/día.",
+        "isCorrect": true,
+        "explanation": "Correcto. Fórmula de Holliday-Segar: 100 ml/kg para los primeros 10 kg (=1000) + 50 ml/kg para los siguientes 10 kg (=500) + 20 ml/kg por los 10 kg restantes (=200). Suma total = 1700 ml en 24 horas."
+      },
+      {
+        "text": "D) 2.000 ml/día.",
+        "isCorrect": false,
+        "explanation": "Falso. Error matemático que sobrehidrataría al paciente en mantención."
+      }
+    ]
+  }
+]
