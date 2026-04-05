@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Síndrome de QT Largo (LQT1)",
+    "text": "En el Síndrome de QT Largo tipo 1 (asociado a mutación hereditaria de los canales de potasio), ¿cuál de los siguientes es el desencadenante más clásico y peligroso de síncope ventricular o muerte súbita (Torsades de Pointes)?",
+    "hint": "El Tipo 1 se desestabiliza cuando el corazón es sometido a un alto requerimiento adrenérgico combinado con el reflejo autonómico del agua[cite: 9].",
+    "options": [
+      {
+        "text": "A) El estrés acústico repentino y severo (ej. un despertador o un timbre fuerte)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El estrés acústico es el gatillo patognomónico del LQT2[cite: 11]."
+      },
+      {
+        "text": "B) El ejercicio físico intenso, particularmente inmersión y natación",
+        "isCorrect": true,
+        "explanation": "Correcto. El LQT1 se desencadena clásicamente por el aumento del tono catecolaminérgico del esfuerzo o la inmersión en agua[cite: 10]."
+      },
+      {
+        "text": "C) El estado de vagotonía máxima durante las fases profundas del sueño",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El sueño profundo y la bradicardia extrema son los gatillos típicos del LQT3[cite: 12]."
+      },
+      {
+        "text": "D) La presencia de un cuadro infeccioso febril alto de manera persistente",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La fiebre precipita arritmias en el Síndrome de Brugada, pero no es el gatillo clásico del LQT[cite: 13]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Síndrome de Jervell y Lange-Nielsen",
+    "text": "Un niño de 3 años presenta historia de síncopes recurrentes. Al examen destaca sordera neurosensorial bilateral profunda congénita y el EKG muestra un intervalo QTc de 520 ms. ¿Cuál es el diagnóstico?",
+    "hint": "La alteración de los canales iónicos afecta tanto la repolarización miocárdica como la producción de endolinfa en el oído interno[cite: 22].",
+    "options": [
+      {
+        "text": "A) Síndrome de Romano-Ward",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es la variante autosómica dominante del QT largo, pero los pacientes tienen audición normal[cite: 24]."
+      },
+      {
+        "text": "B) Síndrome de Jervell y Lange-Nielsen",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la variante autosómica recesiva del QT largo y asocia obligatoriamente sordera neurosensorial bilateral y un fenotipo eléctrico severo[cite: 23]."
+      },
+      {
+        "text": "C) Síndrome de Alagille",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cursa con colestasis y facies típica, no con QT largo[cite: 25]."
+      },
+      {
+        "text": "D) Síndrome de Brugada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cursa con síncopes pero sin sordera y con supradesnivel del ST característico[cite: 26]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Síndrome de Brugada",
+    "text": "Adolescente con historia de padre fallecido por muerte súbita nocturna. EKG: bloqueo incompleto de rama derecha y elevación del ST cóncava/descendente en V1-V3. ¿Diagnóstico de sospecha?",
+    "hint": "La morfología eléctrica en la cara anterior derecha del corazón simula visualmente la 'aleta de un tiburón'[cite: 35].",
+    "options": [
+      {
+        "text": "A) Miocardiopatía Hipertrófica obstructiva",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele dar ondas Q profundas e hipertrofia de ventrículo izquierdo[cite: 39]."
+      },
+      {
+        "text": "B) Miocarditis fulminante silente",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele dar microvoltajes y clínica de insuficiencia cardíaca aguda[cite: 40]."
+      },
+      {
+        "text": "C) Síndrome de Repolarización Precoz",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La repolarización precoz es cóncava y se considera un hallazgo benigno[cite: 39]."
+      },
+      {
+        "text": "D) Síndrome de Brugada",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una canalopatía de sodio autosómica dominante que predispone a fibrilación ventricular. Su sello es la elevación del ST en 'lomo de delfín' en V1-V3[cite: 37, 38]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "EKG en Miocarditis Aguda",
+    "text": "¿Qué patrón es muy sugerente de encontrar en el electrocardiograma de una Miocarditis Aguda pediátrica tras una infección respiratoria reciente?",
+    "hint": "El edema miocárdico y pericárdico actúa como un aislante que 'ahoga' las señales eléctricas[cite: 49].",
+    "options": [
+      {
+        "text": "A) Taquicardia sinusal desproporcionada y bajo voltaje del QRS",
+        "isCorrect": true,
+        "explanation": "Correcto. La inflamación viral 'silencia' los vectores, produciendo QRS de baja amplitud (<5 mm). La taquicardia compensa la caída del gasto cardíaco[cite: 50, 51]."
+      },
+      {
+        "text": "B) Bloqueo de rama derecha y ondas Q de necrosis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las ondas Q de necrosis masiva son típicas del infarto o ALCAPA[cite: 52]."
+      },
+      {
+        "text": "C) Ondas P gigantes y picudas aisladas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las ondas P gigantes son típicas de la dilatación auricular, como en la Anomalía de Ebstein[cite: 52]."
+      },
+      {
+        "text": "D) Eje desviado a la derecha e hipertrofia ventricular",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Estos signos son más propios de cardiopatías como el Fallot o estenosis pulmonar[cite: 53]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Seguimiento en Enfermedad de Kawasaki",
+    "text": "¿Qué estudio de imágenes es obligatorio al diagnóstico de Kawasaki y luego a las 2 y 6 semanas?",
+    "hint": "El examen debe medir el diámetro exacto de los vasos que nutren el músculo cardíaco[cite: 62].",
+    "options": [
+      {
+        "text": "A) Radiografía de tórax",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La radiografía no permite visualizar la anatomía de las coronarias[cite: 65]."
+      },
+      {
+        "text": "B) Ecocardiograma Doppler bidimensional",
+        "isCorrect": true,
+        "explanation": "Correcto. Es fundamental para la pesquisa precoz de inflamación, dilatación o formación de aneurismas coronarios (Z-score)[cite: 63, 64]."
+      },
+      {
+        "text": "C) AngioTAC de arterias pulmonares",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se utiliza para sospecha de tromboembolismo o secuestros pulmonares[cite: 65]."
+      },
+      {
+        "text": "D) Cintigrama de perfusión miocárdica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un examen de elección en la fase aguda febril infantil para evaluar coronarias[cite: 66]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Tratamiento Enfermedad de Kawasaki",
+    "text": "¿Cuál es el tratamiento de urgencia para reducir el riesgo de aneurismas coronarios en Kawasaki y en qué ventana temporal?",
+    "hint": "Se requiere una infusión masiva de anticuerpos para neutralizar la tormenta inflamatoria antes de que las paredes vasculares cedan[cite: 73].",
+    "options": [
+      {
+        "text": "A) Ciclos de Corticoides endovenosos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los corticoides suelen ser de segunda línea para casos refractarios a la inmunoglobulina[cite: 77]."
+      },
+      {
+        "text": "B) Inmunoglobulina Intravenosa (IGIV) y Aspirina antes de los 10 días",
+        "isCorrect": true,
+        "explanation": "Correcto. La IGIV (2g/kg) reduce el riesgo de aneurismas del 25% a menos del 5% si se administra antes del décimo día de fiebre[cite: 75, 76]."
+      },
+      {
+        "text": "C) Fármacos biológicos e Infliximab",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se reservan para casos graves que no responden a la terapia inicial estándar[cite: 78]."
+      },
+      {
+        "text": "D) Ciclosporina y antiagregantes antes del 5to día",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es la pauta de primera línea para la prevención de aneurismas[cite: 78]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Administración de Adenosina",
+    "text": "Al administrar Adenosina para revertir una TSV, ¿cuál es la técnica mandataria dada su vida media corta?",
+    "hint": "La adenosina es degradada velozmente por enzimas en los glóbulos rojos; debe llegar al nodo AV antes de inactivarse[cite: 85, 86].",
+    "options": [
+      {
+        "text": "A) Infusión lenta controlada en 30 minutos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las infusiones lentas destruyen la droga antes de que alcance su objetivo[cite: 90]."
+      },
+      {
+        "text": "B) Inyección en bolo lento (1 a 2 minutos)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No permite alcanzar una concentración terapéutica efectiva[cite: 90]."
+      },
+      {
+        "text": "C) Bolo rápido (1-2 seg) seguido de flush inmediato de suero",
+        "isCorrect": true,
+        "explanation": "Correcto. Debe inyectarse lo más rápido posible en una vía proximal, empujándola con 5-10 ml de suero y elevando la extremidad[cite: 89]."
+      },
+      {
+        "text": "D) Administración intramuscular profunda",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La vía intramuscular no es apta para emergencias arrítmicas agudas[cite: 91]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Profilaxis de TSV en Lactantes",
+    "text": "Lactante de 3 meses tras primer episodio de TSV. ¿Qué fármaco profiláctico se indica habitualmente como primera línea?",
+    "hint": "Se busca frenar la vía de conducción de forma segura, pero evitando fármacos peligrosos para menores de un año[cite: 100, 102].",
+    "options": [
+      {
+        "text": "A) Digoxina en dosis calculadas por kilo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Está contraindicada si existe sospecha de WPW porque acelera la conducción por la vía accesoria[cite: 101]."
+      },
+      {
+        "text": "B) Betabloqueadores (ej. Propranolol) o Amiodarona",
+        "isCorrect": true,
+        "explanation": "Correcto. El Propranolol oral es la primera línea clásica para prevenir recurrencias frenando la conducción del nodo AV[cite: 100]."
+      },
+      {
+        "text": "C) Infusiones de Lidocaína o Flecainida",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No son fármacos de primera línea para manejo ambulatorio crónico en lactantes[cite: 96]."
+      },
+      {
+        "text": "D) Verapamilo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. ABSOLUTAMENTE contraindicado en menores de 1 año por riesgo de shock cardiogénico y paro irreversible[cite: 102]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Cardioversión Eléctrica Pediátrica",
+    "text": "Escolar con TSV a 240 lpm, mal perfundido e hipotenso. ¿Dosis de energía inicial recomendada para Cardioversión Sincronizada?",
+    "hint": "Se requiere un golpe eléctrico sutil para romper el circuito de reentrada sin causar caos absoluto[cite: 112].",
+    "options": [
+      {
+        "text": "A) 0.5 a 1 Joule por kilogramo de peso",
+        "isCorrect": true,
+        "explanation": "Correcto. En ritmos organizados se requiere poca energía. Si falla la dosis inicial, se escala a 2 J/kg[cite: 113, 115]."
+      },
+      {
+        "text": "B) 2 a 4 Joules por kilogramo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Estas dosis son las indicadas para desfibrilación en ritmos de paro[cite: 116]."
+      },
+      {
+        "text": "C) 10 Joules por kilogramo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una dosis de rescate máxima, no la inicial para cardioversión[cite: 108]."
+      },
+      {
+        "text": "D) Descarga asincrónica fija de 200 Joules",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta es una dosis de adultos y resultaría dañina en pediatría[cite: 117]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Desfibrilación en Pediatría",
+    "text": "Niño en paro cardiorrespiratorio con Fibrilación Ventricular en el monitor. ¿Dosis de energía inicial para desfibrilación asincrónica?",
+    "hint": "Se requiere una cantidad de energía mayor para despolarizar toda la masa cardíaca caótica de golpe[cite: 127].",
+    "options": [
+      {
+        "text": "A) 0.5 Joules por kilogramo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Dosis insuficiente, propia de la cardioversión[cite: 130]."
+      },
+      {
+        "text": "B) 1 Joule por kilogramo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sigue siendo una dosis para ritmos organizados[cite: 130]."
+      },
+      {
+        "text": "C) 2 Joules por kilogramo",
+        "isCorrect": true,
+        "explanation": "Correcto. Según guías PALS, el primer choque para ritmos desfibrilables (FV o TV sin pulso) es de 2 J/kg[cite: 128]."
+      },
+      {
+        "text": "D) 5 Joules por kilogramo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es la dosis inicial estándar; se llega a ella tras el escalamiento si persiste el ritmo[cite: 129]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "RCP Pediátrica (2 Reanimadores)",
+    "text": "En RCP básica de un lactante o preescolar con DOS reanimadores capacitados, ¿cuál es la relación compresión-ventilación?",
+    "hint": "El cerebro pediátrico exige un recambio de oxígeno más frecuente debido a que el paro suele ser por asfixia[cite: 137].",
+    "options": [
+      {
+        "text": "A) 30 compresiones y 2 ventilaciones",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es la relación universal para adultos o cuando hay un solo reanimador[cite: 139]."
+      },
+      {
+        "text": "B) 15 compresiones y 2 ventilaciones",
+        "isCorrect": true,
+        "explanation": "Correcto. Cuando hay dos profesionales, se privilegia la oxigenación acortando la relación a 15:2[cite: 138]."
+      },
+      {
+        "text": "C) 3 compresiones y 1 ventilación",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Relación exclusiva para el período neonatal inmediato en sala de partos[cite: 140]."
+      },
+      {
+        "text": "D) 15 compresiones y 1 ventilación",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No corresponde a los protocolos actuales de reanimación pediátrica[cite: 135]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Profilaxis Endocarditis Bacteriana",
+    "text": "Niño con Fallot paliado y CIV residual requiere extracción de molar. ¿Pauta profiláctica de primera línea (no alérgico)?",
+    "hint": "Se busca una cobertura oral de alta concentración contra estreptococos comunes de la boca[cite: 148].",
+    "options": [
+      {
+        "text": "A) Amoxicilina 50 mg/kg vía oral, 1 hora antes",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el estándar para cubrir Streptococcus del grupo viridans antes de procedimientos dentales cruentos[cite: 149]."
+      },
+      {
+        "text": "B) Ceftriaxona 100 mg/kg intramuscular al momento",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es la vía ni el fármaco de primera elección para profilaxis oral[cite: 144]."
+      },
+      {
+        "text": "C) Clindamicina 10 mg/kg cada 8 horas por 3 días",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La clindamicina se reserva para alérgicos a penicilina y no se da por 3 días[cite: 150]."
+      },
+      {
+        "text": "D) No requiere profilaxis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al tener una CIV residual y material protético paliativo, el riesgo es extremo[cite: 151]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Nutrición en Insuficiencia Cardíaca",
+    "text": "Lactante con gran cortocircuito I-D e IC severa. ¿Cuál es la estrategia nutricional recomendada ante la restricción hídrica?",
+    "hint": "El bebé requiere muchas calorías para respirar pero su sistema vascular se inundaría con volúmenes normales de leche[cite: 159, 160].",
+    "options": [
+      {
+        "text": "A) Diluir la fórmula habitual con más agua",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Provocaría desnutrición marasmática al reducir el aporte calórico[cite: 162]."
+      },
+      {
+        "text": "B) Administrar únicamente suero glucosado",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El suero glucosado no aporta las proteínas ni grasas vitales para el crecimiento[cite: 162]."
+      },
+      {
+        "text": "C) Concentrar fórmulas o usar suplementos lipídicos en bajo volumen",
+        "isCorrect": true,
+        "explanation": "Correcto. Se busca llegar a 1 kcal/ml mediante fortificadores o módulos calóricos para dar alta energía en poco volumen[cite: 161]."
+      },
+      {
+        "text": "D) Uso exclusivo de nutrición parenteral total",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se reserva para casos de falla intestinal por su alto riesgo de infección[cite: 163]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Uso de IECAs en Pediatría",
+    "text": "¿Cuál es el objetivo hemodinámico primordial de los IECAs (Captopril/Enalapril) en el manejo crónico de una CIV de hiperflujo?",
+    "hint": "Si relajamos las paredes del tubo normal (aorta), la sangre preferirá ir por ahí que por el agujero anormal[cite: 172].",
+    "options": [
+      {
+        "text": "A) Aumentar la frecuencia cardíaca basal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los IECAs no tienen como objetivo principal elevar la frecuencia cardíaca[cite: 176]."
+      },
+      {
+        "text": "B) Disminuir la resistencia vascular sistémica (postcarga)",
+        "isCorrect": true,
+        "explanation": "Correcto. Al causar vasodilatación periférica, facilitan el vaciamiento del VI hacia la aorta, 'robándole' flujo al cortocircuito que iba al pulmón[cite: 173, 175]."
+      },
+      {
+        "text": "C) Promover el cierre anatómico del defecto",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los fármacos no cierran defectos septales anatómicos[cite: 176]."
+      },
+      {
+        "text": "D) Aumentar la resistencia vascular pulmonar",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los IECAs actúan sobre la resistencia sistémica, no vasoconstriñen el pulmón[cite: 176]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Intoxicación Digitálica",
+    "text": "Niño de 1 año con Digoxina presenta anorexia, vómitos repetitivos y somnolencia con FC de 60 lpm. ¿Sospecha diagnóstica?",
+    "hint": "Las células del tracto digestivo suelen ser las primeras en alarmar sobre una sobredosis de este fármaco[cite: 186].",
+    "options": [
+      {
+        "text": "A) Gastroenteritis viral aguda",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque da vómitos, la bradicardia profunda no es típica de una gastroenteritis común[cite: 180]."
+      },
+      {
+        "text": "B) Intoxicación digitálica",
+        "isCorrect": true,
+        "explanation": "Correcto. La digoxina tiene un margen terapéutico estrecho. La toxicidad debuta con síntomas digestivos y bradicardias por supresión del nodo sinusal/AV[cite: 187, 189]."
+      },
+      {
+        "text": "C) Hipertensión endocraneana",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Menos probable que la intoxicación dado el antecedente de toma diaria de Digoxina[cite: 182]."
+      },
+      {
+        "text": "D) Efecto adverso benigno esperado",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La bradicardia y los vómitos son signos de alarma que obligan a suspender el fármaco[cite: 190]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Supervivencia en Miocardiopatía Dilatada",
+    "text": "¿Qué familia de fármacos ha demostrado mejorar la supervivencia global al inhibir la apoptosis y el remodelado cardíaco en la IC estable?",
+    "hint": "Protegen al músculo del desgaste provocado por la adrenalina crónica (estímulo simpático hiperactivo)[cite: 197, 198].",
+    "options": [
+      {
+        "text": "A) Diuréticos de asa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Mejoran los síntomas congestivos, pero no detienen el daño muscular primario[cite: 200]."
+      },
+      {
+        "text": "B) Inótropos adrenérgicos orales",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque mejoran la contractilidad, agotan el corazón y aumentan la mortalidad a largo plazo[cite: 201]."
+      },
+      {
+        "text": "C) Agentes Betabloqueadores cardioselectivos",
+        "isCorrect": true,
+        "explanation": "Correcto. Bloquean el estímulo tóxico de las catecolaminas, logrando que el ventrículo se repare y mejore su fracción de eyección[cite: 199]."
+      },
+      {
+        "text": "D) Bloqueadores de canales de calcio",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No son el pilar para revertir el remodelado en la insuficiencia cardíaca sistólica[cite: 195]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Síncope Vasovagal",
+    "text": "Adolescente de 14 años se desmaya tras estar de pie al sol. Tuvo visión borrosa, náuseas y sudoración previa. ¿Diagnóstico?",
+    "hint": "Los pródromos autonómicos (aviso previo) definen la causa más común y benigna de pérdida de conciencia en esta edad[cite: 210].",
+    "options": [
+      {
+        "text": "A) Síncope vasovagal (Neurocardiogénico)",
+        "isCorrect": true,
+        "explanation": "Correcto. Se produce por un reflejo vagal ante el calor o bipedestación prolongada que baja el retorno venoso y el flujo cerebral momentáneamente[cite: 211]."
+      },
+      {
+        "text": "B) Crisis convulsiva generalizada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suelen cursar con movimientos tónicos o mordedura de lengua, sin los pródromos descritos[cite: 213]."
+      },
+      {
+        "text": "C) Síncope arrítmico maligno",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ocurre de forma súbita, sin aviso premonitorio de varios minutos[cite: 214]."
+      },
+      {
+        "text": "D) Síncope cardiogénico estructural",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele asociarse a esfuerzo físico y ser súbito[cite: 214]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Bandera Roja en Síncope",
+    "text": "¿Cuál es la 'Bandera Roja' más crítica en la anamnesis de un síncope que obliga a derivación inmediata?",
+    "hint": "Cualquier desmayo cuando el corazón intenta satisfacer una demanda máxima de gasto cardíaco es de origen letal hasta probar lo contrario[cite: 221].",
+    "options": [
+      {
+        "text": "A) Síncope tras ver sangre",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un desencadenante clásico de síncope vasovagal benigno[cite: 223]."
+      },
+      {
+        "text": "B) Síncope al levantarse abruptamente de la cama",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se debe a ortostatismo, un evento generalmente benigno[cite: 223]."
+      },
+      {
+        "text": "C) Síncope durante el esfuerzo o ejercicio físico máximo",
+        "isCorrect": true,
+        "explanation": "Correcto. Es marcador de patologías graves como isquemia coronaria, arritmias ventriculares letales u obstrucciones de salida[cite: 222]."
+      },
+      {
+        "text": "D) Despertar con mareos tras recuperación espontánea",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque requiere evaluación, no es el marcador de riesgo vital inminente que es el síncope de esfuerzo[cite: 219]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Dolor Precordial en Pediatría",
+    "text": "¿Cuál es la etiología largamente predominante del dolor precordial en escolares y adolescentes?",
+    "hint": "En niños duele lo 'externo': estructuras articulares e inflamación por mochilas o malas posturas[cite: 231].",
+    "options": [
+      {
+        "text": "A) Dolor musculoesquelético (ej. Costocondritis)",
+        "isCorrect": true,
+        "explanation": "Correcto. Representa el 90-98% de los casos. Solo un 1-2% es de origen cardiológico primario[cite: 232, 233]."
+      },
+      {
+        "text": "B) Angina isquémica e infarto",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es extremadamente raro en pediatría sin anomalías coronarias previas[cite: 233]."
+      },
+      {
+        "text": "C) Pericarditis aguda",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque posible, no es la causa estadística principal en este grupo etario[cite: 228]."
+      },
+      {
+        "text": "D) Asma y neumonías basales",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causan dolor pero no son la etiología predominante de consulta por dolor al pecho aislado[cite: 229]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Desdoblamiento Paradójico del 2R",
+    "text": "El componente aórtico (A2) ocurre después del pulmonar (P2) y el desdoblamiento se fusiona durante la inspiración. ¿Qué indica?",
+    "hint": "Si el orden está invertido, el ventrículo izquierdo se demoró muchísimo en vaciarse por obstrucción o retraso eléctrico[cite: 242].",
+    "options": [
+      {
+        "text": "A) Desdoblamiento fisiológico normal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Lo normal es que A2 ocurra antes que P2 y se separen más en la inspiración[cite: 241]."
+      },
+      {
+        "text": "B) Comunicación Interauricular",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La CIA presenta un desdoblamiento amplio y permanentemente fijo[cite: 245]."
+      },
+      {
+        "text": "C) Desdoblamiento paradójico (Estenosis Aórtica severa)",
+        "isCorrect": true,
+        "explanation": "Correcto. El retraso del cierre aórtico hace que en inspiración el retraso normal de P2 fusione ambos ruidos, escuchándose como uno solo[cite: 243, 244]."
+      },
+      {
+        "text": "D) Segundo ruido único",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El 2R único se observa en patologías como el tronco arterioso o atresia pulmonar[cite: 239]."
+      }
+    ]
+  }
+]
