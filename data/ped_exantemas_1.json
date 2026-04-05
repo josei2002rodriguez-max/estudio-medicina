@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Sarampión",
+    "text": "Un niño de 4 años, no vacunado, presenta fiebre, tos intensa, coriza y conjuntivitis[cite: 5, 6]. Al examinar la boca, se observan puntos blancos en la mucosa yugal frente a los molares[cite: 6]. ¿Cuál es el diagnóstico más probable? [cite: 7]",
+    "hint": "Busca el epónimo de las manchas \"como granos de sal sobre fondo rojo\"[cite: 18].",
+    "options": [
+      {
+        "text": "A) Sarampión",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 12]. La clínica describe la tríada de los \"tres catarros\" (tos, coriza, conjuntivitis) junto a las manchas de Koplik (enantema), que son patognomónicas del sarampión en fase prodrómica[cite: 13]."
+      },
+      {
+        "text": "B) Rubéola",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 15]. En la rubéola los síntomas catarrales son leves o ausentes, y presenta adenopatías retroauriculares, no manchas de Koplik[cite: 15]."
+      },
+      {
+        "text": "C) Escarlatina",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 16]. La escarlatina es bacteriana, presenta faringoamigdalitis exudativa y lengua en frambuesa, sin compromiso conjuntival ni tos[cite: 16]."
+      },
+      {
+        "text": "D) Mononucleosis infecciosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 17]. La mononucleosis da faringitis pseudomembranosa y esplenomegalia; el rash suele aparecer tras el uso de Amoxicilina[cite: 17]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Complicaciones del Sarampión",
+    "text": "¿Cuál de las siguientes complicaciones es la causa más frecuente de muerte en pacientes con Sarampión? [cite: 19]",
+    "hint": "El virus destruye el epitelio respiratorio facilitando la invasión de bacterias[cite: 30].",
+    "options": [
+      {
+        "text": "A) Encefalitis aguda",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 27]. Es una complicación grave (1 por 1.000), pero menos frecuente como causa de muerte que la respiratoria[cite: 27]."
+      },
+      {
+        "text": "B) Otitis media aguda",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 28]. Es la complicación MÁS frecuente en términos de incidencia, pero rara vez es letal[cite: 28]."
+      },
+      {
+        "text": "C) Neumonía",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 24]. La neumonía (ya sea por el propio virus o sobreinfección bacteriana como S. pneumoniae) es la responsable de la gran mayoría de los fallecimientos por sarampión[cite: 25]."
+      },
+      {
+        "text": "D) Panencefalitis esclerosante subaguda",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 29]. Es una complicación degenerativa muy tardía (años después) y extremadamente rara[cite: 29]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Exantema Súbito (6ta enfermedad)",
+    "text": "Lactante de 10 meses con fiebre de 39,5°C de 3 días de evolución sin foco claro[cite: 31, 32]. Hoy la fiebre desaparece bruscamente y aparece un exantema maculopapular rosado en tronco que dura pocas horas[cite: 32]. Diagnóstico: [cite: 33]",
+    "hint": "El nombre \"Súbito\" se refiere a la aparición del rash tras caer la fiebre[cite: 45].",
+    "options": [
+      {
+        "text": "A) Eritema Infeccioso",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 42]. El eritema infeccioso suele ser afebril y empieza en las mejillas (\"bofetada\"), no tras 3 días de fiebre alta[cite: 42]."
+      },
+      {
+        "text": "B) Exantema Súbito (6ta enfermedad)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 38]. El patrón temporal es la clave: fiebre muy alta en un niño que luce bien, que desaparece por lisis justo cuando brota el exantema, causado por el Virus Herpes Humano 6[cite: 39, 40]."
+      },
+      {
+        "text": "C) Varicela inicial",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 43]. La varicela tiene vesículas (no solo máculas) y la fiebre suele persistir mientras aparecen nuevas lesiones[cite: 43]."
+      },
+      {
+        "text": "D) Rubéola",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 44]. En la rubéola el exantema es simultáneo a la fiebre (que es leve) y dura 3 días, no horas[cite: 44]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Riesgo de Parvovirus B19 en el embarazo",
+    "text": "¿Cuál es el riesgo principal de una embarazada que toma contacto con un niño con Eritema Infeccioso (Parvovirus B19)? [cite: 46]",
+    "hint": "El virus ataca directamente a la médula ósea fetal[cite: 55].",
+    "options": [
+      {
+        "text": "A) Malformaciones cardíacas congénitas",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 54]. Componente típico del síndrome de Rubéola congénita o infección por CMV, no del Parvovirus[cite: 54]."
+      },
+      {
+        "text": "B) Hidrops fetalis por anemia severa",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 51]. El Parvovirus B19 infecta los eritroblastos del feto, causando anemia aplásica, insuficiencia cardíaca y edema generalizado (hidropesía)[cite: 52]."
+      },
+      {
+        "text": "C) Sordera neurosensorial",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 54]. Asociado a Rubéola congénita o CMV[cite: 54]."
+      },
+      {
+        "text": "D) Microcefalia y calcificaciones",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 54]. Típico de infección por Citomegalovirus (CMV)[cite: 54]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Contagio en Varicela",
+    "text": "En la Varicela, ¿hasta qué momento se considera que el paciente es contagioso y requiere aislamiento? [cite: 56]",
+    "hint": "Si la ampolla tiene \"agüita\", todavía contagia[cite: 68].",
+    "options": [
+      {
+        "text": "A) Hasta 3 días después de desaparecer la fiebre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 65]. La fiebre puede ceder mientras aún hay vesículas activas[cite: 65]."
+      },
+      {
+        "text": "B) Hasta que todas las lesiones están en etapa de costra.",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 61]. El virus está presente en la nasofaringe y en el líquido de las vesículas; una vez que la última vesícula se seca y forma costra, ya no hay virus infectante[cite: 62, 63]."
+      },
+      {
+        "text": "C) Hasta 24 horas después de iniciar el Aciclovir.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 66]. El Aciclovir no garantiza la esterilización inmediata de las ampollas[cite: 66]."
+      },
+      {
+        "text": "D) Durante los primeros 15 días desde el contacto.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 67]. El periodo es variable según el niño; lo que define el fin es el estado de la lesión cutánea[cite: 67]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Contraindicación de Ibuprofeno en Varicela",
+    "text": "Se contraindica el uso de Ibuprofeno en niños con Varicela debido al riesgo de: [cite: 69]",
+    "hint": "Solo Paracetamol para bajar la fiebre de la \"peste cristal\"[cite: 80].",
+    "options": [
+      {
+        "text": "A) Síndrome de Reye",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 77]. El Síndrome de Reye se asocia a la Aspirina, no al Ibuprofeno[cite: 77]."
+      },
+      {
+        "text": "B) Fascitis necrotizante por S. pyogenes",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 74]. Existe una asociación epidemiológica entre el uso de AINEs en varicela y el desarrollo de infecciones invasivas profundas por Estreptococo grupo A[cite: 75]."
+      },
+      {
+        "text": "C) Insuficiencia renal aguda súbita",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 78]. Es un efecto adverso general de AINEs pero no la contraindicación específica en este exantema[cite: 78]."
+      },
+      {
+        "text": "D) Púrpura Trombocitopénica Inmune",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 79]. La PTI puede ser una secuela de la varicela, pero no es gatillada por el ibuprofeno[cite: 79]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Escarlatina",
+    "text": "Un niño de 6 años presenta fiebre, odinofagia marcada, lengua en frambuesa y un exantema micropapular que se siente como \"lija\" al tacto[cite: 81]. Diagnóstico: [cite: 82]",
+    "hint": "Es la única \"peste\" de origen bacteriano de la lista[cite: 95].",
+    "options": [
+      {
+        "text": "A) Enfermedad de Kawasaki",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 91]. El Kawasaki tiene conjuntivitis seca y fiebre prolongada (>5 días); no tiene exudado amigdalino bacteriano[cite: 91, 92]."
+      },
+      {
+        "text": "B) Escarlatina",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 87]. Es el cuadro clásico de la toxina eritrogénica del Streptococcus pyogenes; el exantema áspero, las líneas de Pastia y la angina lo definen[cite: 88, 89]."
+      },
+      {
+        "text": "C) Síndrome de Piel Escaldada",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 93]. El síndrome estafilocócico tiene signo de Nikolsky (+) y ampollas, no pápulas ásperas en lija[cite: 93]."
+      },
+      {
+        "text": "D) Eritema Multiforme",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 94]. Presenta lesiones en \"blanco de tiro\" o dianas concéntricas[cite: 94]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Objetivo del tratamiento en Escarlatina",
+    "text": "¿Cuál es el objetivo principal de tratar la Escarlatina con antibióticos por 10 días completos? [cite: 96]",
+    "hint": "Buscamos proteger las válvulas del corazón del niño[cite: 107].",
+    "options": [
+      {
+        "text": "A) Prevenir la Glomerulonefritis post-estreptocócica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 104]. El tratamiento antibiótico lamentablemente no ha demostrado prevenir la glomerulonefritis[cite: 104]."
+      },
+      {
+        "text": "B) Prevenir la Fiebre Reumática.",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 101]. El tratamiento oportuno con Penicilina/Amoxicilina erradica el germen y previene la respuesta inmune que causa la fiebre reumática[cite: 102]."
+      },
+      {
+        "text": "C) Lograr que el exantema desaparezca en menos de 24 horas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 105]. El antibiótico no acelera la resolución del exantema, que es mediado por toxina[cite: 105]."
+      },
+      {
+        "text": "D) Evitar la descamación posterior de las manos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 106]. La descamación ocurrirá igual como parte de la evolución natural[cite: 106]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Meningococcemia",
+    "text": "Lactante febril que presenta petequias que rápidamente evolucionan a equimosis con centro necrótico en tronco y piernas[cite: 108]. Debe sospechar de urgencia: [cite: 109]",
+    "hint": "Requiere administración de antibióticos endovenosos en la primera hora[cite: 121].",
+    "options": [
+      {
+        "text": "A) Meningococcemia (Púrpura fulminante)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 114]. La Neisseria meningitidis causa vasculitis y CID, manifestándose como este púrpura necrótico explosivo. Es una emergencia vital[cite: 115, 116]."
+      },
+      {
+        "text": "B) Púrpura de Schonlein-Henoch",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 118]. Es un púrpura palpable en nalgas y piernas en un niño con buen estado general, no necrótico fulminante[cite: 118]."
+      },
+      {
+        "text": "C) Reacción alérgica a picadura de insecto",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 119]. Daría una urticaria o ronchas, no necrosis cutánea hemorrágica[cite: 119]."
+      },
+      {
+        "text": "D) Déficit de vitamina C (Escorbuto)",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 120]. Da petequias perifoliculares y sangrado de encías, pero es un cuadro crónico nutricional[cite: 120]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Signo de Nikolsky",
+    "text": "El signo de Nikolsky positivo (desprendimiento de la epidermis con una presión suave) es característico de: [cite: 122]",
+    "hint": "La piel parece una \"quemadura\" que se sale al rozarla[cite: 133].",
+    "options": [
+      {
+        "text": "A) Impétigo vulgar",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 130]. El impétigo da costras melicéricas localizadas, no desprendimiento difuso[cite: 130]."
+      },
+      {
+        "text": "B) Síndrome de Piel Escaldada Estafilocócica (SSSS)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 127]. La toxina exfoliativa del S. aureus rompe los puentes intercelulares de la epidermis superficial, provocando el despegamiento de la piel[cite: 128]."
+      },
+      {
+        "text": "C) Varicela",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 131]. Las vesículas de varicela son tensas y no se deslizan[cite: 131]."
+      },
+      {
+        "text": "D) Molusco contagioso",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 132]. Son pápulas umbilicadas firmes sin afectación de la cohesión epidérmica[cite: 132]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Enfermedad de Kawasaki",
+    "text": "Un niño de 3 años presenta fiebre de 6 días, conjuntivitis bilateral no purulenta, labios rojos fisurados, lengua en frambuesa y edema en manos[cite: 135]. Diagnóstico: [cite: 136]",
+    "hint": "El riesgo principal son los aneurismas de las arterias coronarias[cite: 148].",
+    "options": [
+      {
+        "text": "A) Síndrome de Stevens-Johnson",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 145]. Presenta compromiso mucoso con úlceras profundas y desprendimiento de piel, no solo edema[cite: 145]."
+      },
+      {
+        "text": "B) Enfermedad de Kawasaki",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 141]. Cumple el criterio mayor (fiebre ≥ 5 días) y 4 criterios menores de vasculitis; es la presentación clásica[cite: 142, 143]."
+      },
+      {
+        "text": "C) Escarlatina recurrente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 146]. La escarlatina cede rápido con antibióticos y no da conjuntivitis seca[cite: 146]."
+      },
+      {
+        "text": "D) Sarampión atípico",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 147]. El sarampión tiene tos/coriza prominente y manchas de Koplik[cite: 147]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Tratamiento inicial en Kawasaki",
+    "text": "¿Cuál es el tratamiento inicial recomendado para evitar las secuelas cardíacas en la Enfermedad de Kawasaki? [cite: 149]",
+    "hint": "Se utiliza un derivado de la sangre para \"modular\" el sistema inmune[cite: 161].",
+    "options": [
+      {
+        "text": "A) Corticoides a altas dosis (Metilprednisolona)",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 158]. Se reservan para casos refractarios a la inmunoglobulina[cite: 158]."
+      },
+      {
+        "text": "B) Inmunoglobulina Intravenosa (IGIV) y Aspirina",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 154]. La IGIV en dosis única combinada con Aspirina es el estándar para frenar la vasculitis coronaria[cite: 155, 156]."
+      },
+      {
+        "text": "C) Ceftriaxona y Vancomicina",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 159]. No es una infección bacteriana; los antibióticos no sirven[cite: 159]."
+      },
+      {
+        "text": "D) Ganciclovir y soporte hemodinámico",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 160]. No es una infección viral activa por CMV[cite: 160]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Diferencia PIMS vs Kawasaki",
+    "text": "Diferencia diagnóstica fundamental entre PIMS (Síndrome Inflamatorio Multisistémico) y Kawasaki: [cite: 162]",
+    "hint": "Surgió como una entidad nueva durante la pandemia de COVID-19[cite: 174].",
+    "options": [
+      {
+        "text": "A) El Kawasaki no presenta exantema.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 170]. Ambos suelen presentar exantema[cite: 170]."
+      },
+      {
+        "text": "B) El PIMS se asocia a antecedente de COVID-19 y suele cursar con shock y dolor abdominal.",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 167]. El PIMS es una complicación post-infecciosa del SARS-CoV-2 que afecta a niños más grandes y tiene compromiso hemodinámico más frecuente[cite: 168]."
+      },
+      {
+        "text": "C) El Kawasaki es exclusivo de adolescentes mayores.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 171]. El Kawasaki es típico de lactantes y preescolares menores de 5 años[cite: 171]."
+      },
+      {
+        "text": "D) El PIMS no eleva los reactantes de fase aguda (PCR).",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 172]. En el PIMS la PCR suele estar masivamente elevada (> 100)[cite: 172, 173]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Enfermedad Mano-Pie-Boca",
+    "text": "Lactante de 18 meses con fiebre, vesículas en palmas y plantas, úlceras en pilares anteriores y rash en glúteos[cite: 175]. Diagnóstico: [cite: 176]",
+    "hint": "Su nombre nos dice exactamente dónde buscar las lesiones[cite: 188].",
+    "options": [
+      {
+        "text": "A) Varicela",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 185]. El rash de la varicela es central (tronco) y no es tan selectivo de extremidades al inicio[cite: 185]."
+      },
+      {
+        "text": "B) Enfermedad Mano-Pie-Boca",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 181]. Causada por el virus Coxsackie A16; la distribución acral y glútea es su marca característica[cite: 182, 183]."
+      },
+      {
+        "text": "C) Herpangina",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 186]. La herpangina SOLO presenta lesiones en la garganta[cite: 186]."
+      },
+      {
+        "text": "D) Escabiosis (Sarna)",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 187]. Da prurito nocturno intenso y surcos, sin fiebre ni úlceras orales[cite: 187]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Exantema por Amoxicilina en EBV",
+    "text": "Un adolescente con amigdalitis recibe Amoxicilina y al 5to día desarrolla un exantema maculopapular intenso y generalizado. Sospecha: [cite: 189]",
+    "hint": "Se le conoce como la \"enfermedad del beso\"[cite: 200].",
+    "options": [
+      {
+        "text": "A) Alergia severa a la Penicilina",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 197]. La alergia tipo I es inmediata (minutos), no al 5to día[cite: 197]."
+      },
+      {
+        "text": "B) Mononucleosis Infecciosa (Virus Epstein-Barr)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 194]. El uso de aminopenicilinas en pacientes con VEB desencadena una reacción de hipersensibilidad tipo exantema en el 90% de los casos[cite: 195]."
+      },
+      {
+        "text": "C) Escarlatina no diagnosticada",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 198]. El exantema de la escarlatina es simultáneo a la fiebre, no aparece días después del antibiótico[cite: 198]."
+      },
+      {
+        "text": "D) Reacción de Jarisch-Herxheimer",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 199]. Reacción al tratar sífilis, no amigdalitis[cite: 199]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Eritema Multiforme",
+    "text": "Niña con lesiones eritematosas en forma de anillos concéntricos (\"diana\") en manos y pies tras herpes labial. Diagnóstico: [cite: 202]",
+    "hint": "Parece un tablero de tiro al blanco en la piel[cite: 213].",
+    "options": [
+      {
+        "text": "A) Eritema Multiforme menor",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 207]. Las lesiones en diana son el sello del Eritema Multiforme, gatillado frecuentemente por Herpes Simple[cite: 208]."
+      },
+      {
+        "text": "B) Síndrome de Stevens-Johnson",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 210]. El SSJ es grave, con gran compromiso de mucosas y desprendimiento cutáneo[cite: 210]."
+      },
+      {
+        "text": "C) Tiña corporis",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 211]. Da una placa anular con borde activo escamoso y centro claro[cite: 211]."
+      },
+      {
+        "text": "D) Urticaria papular",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 212]. Son picaduras de insecto hiperreactivas, suelen ser pápulas pruriginosas[cite: 212]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Agente etiológico del Exantema Súbito",
+    "text": "Agente etiológico principal del Exantema Súbito: [cite: 214]",
+    "hint": "Pertenece a la familia de los virus Herpes[cite: 225].",
+    "options": [
+      {
+        "text": "A) Virus Herpes Humano 6 (HHV-6)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 219]. El HHV-6 es el responsable de la gran mayoría de los casos de Roséola Infantum en lactantes menores de 2 años[cite: 220]."
+      },
+      {
+        "text": "B) Parvovirus B19",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 222]. Causa la 5ta enfermedad (Eritema infeccioso)[cite: 222]."
+      },
+      {
+        "text": "C) Virus de la Rubéola",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 223]. Causa la rubéola (3ra enfermedad)[cite: 223]."
+      },
+      {
+        "text": "D) Enterovirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 224]. Causan típicamente Mano-Pie-Boca o Herpangina[cite: 224]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Eritema Infeccioso (Signo de la bofetada)",
+    "text": "Exantema que presenta el característico \"Signo de la bofetada\" en la cara: [cite: 226]",
+    "hint": "Parece que le hubieran pegado en ambas mejillas[cite: 237].",
+    "options": [
+      {
+        "text": "A) Escarlatina",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 234]. Tiene palidez perioral pero el rash es micropapular en todo el cuerpo[cite: 234]."
+      },
+      {
+        "text": "B) Eritema Infeccioso (5ta enfermedad)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 231]. Fase inicial del Parvovirus B19; las mejillas se ven rojas pero la zona peribucal está pálida[cite: 232]."
+      },
+      {
+        "text": "C) Sarampión",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 235]. Tiene un rash morbiliforme que empieza detrás de las orejas[cite: 235]."
+      },
+      {
+        "text": "D) Rubéola",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 236]. Da un exantema rosado tenue generalizado[cite: 236]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Manchas de Forchheimer",
+    "text": "Las manchas de Forchheimer (petequias en el paladar blando) se asocian a: [cite: 238]",
+    "hint": "\"Forchheimer\" rima con paladar en rubéola[cite: 249].",
+    "options": [
+      {
+        "text": "A) Sarampión",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 246]. Tiene manchas de Koplik en la mucosa yugal[cite: 246]."
+      },
+      {
+        "text": "B) Rubéola",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 243]. Hallazgo clásico descrito en la fase inicial del exantema de la rubéola[cite: 244]."
+      },
+      {
+        "text": "C) Varicela",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 247]. En la boca puede haber vesículas, no típicamente petequias de paladar[cite: 247]."
+      },
+      {
+        "text": "D) Exantema Súbito",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 248]. El paladar suele estar normal en la roséola[cite: 248]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Líneas de Pastia",
+    "text": "Las líneas de Pastia (acentuación del exantema en pliegues axilares e inguinales) son de: [cite: 250]",
+    "hint": "Busca marcas rojas en el pliegue del codo[cite: 259].",
+    "options": [
+      {
+        "text": "A) Sarampión",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 258]. No presenta este fenómeno de fragilidad capilar lineal característico[cite: 258]."
+      },
+      {
+        "text": "B) Escarlatina",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 255]. Se producen por fragilidad capilar debida a la toxina del estreptococo en zonas de mayor roce[cite: 256]."
+      },
+      {
+        "text": "C) Kawasaki",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 258]. No presenta fragilidad capilar lineal en pliegues como signo guía[cite: 258]."
+      },
+      {
+        "text": "D) Varicela",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 258]. No asociado típicamente a este signo[cite: 258]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Ataxia cerebelosa en Varicela",
+    "text": "¿Qué complicación neurológica post-infecciosa es típica de la Varicela? [cite: 260]",
+    "hint": "El niño camina \"como borracho\" tras recuperarse de las costras[cite: 272].",
+    "options": [
+      {
+        "text": "A) Encefalitis necrotizante de lóbulos temporales",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 269]. Complicación del virus Herpes Simple (VHS), no de la Varicela común[cite: 269]."
+      },
+      {
+        "text": "B) Ataxia cerebelosa aguda",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 265]. Ocurre 7-10 días después del exantema; el niño presenta inestabilidad de marcha y nistagmus. Curso benigno[cite: 266, 267]."
+      },
+      {
+        "text": "C) Mielitis transversa aislada",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 270]. Es posible pero extremadamente rara comparada con la ataxia[cite: 270]."
+      },
+      {
+        "text": "D) Síndrome de West",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 271]. Tipo de epilepsia del lactante, no secuela de varicela[cite: 271]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Síndrome de Piel Escaldada Estafilocócica",
+    "text": "En el Síndrome de Piel Escaldada Estafilocócica, la bacteria se encuentra habitualmente en: [cite: 273]",
+    "hint": "No busques el germen en la piel que se sale[cite: 284].",
+    "options": [
+      {
+        "text": "A) El líquido de las ampollas",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 282]. Las ampollas son estériles, solo contienen toxina exfoliativa[cite: 279, 282]."
+      },
+      {
+        "text": "B) Un foco a distancia (ej. conjuntiva, cordón umbilical, nariz)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 278]. Cuadro mediado por toxinas sistémicas; el foco infeccioso suele ser pequeño y lejano[cite: 279, 280]."
+      },
+      {
+        "text": "C) La sangre (hemocultivos positivos en 100%)",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 283]. Los hemocultivos suelen ser negativos en niños, a diferencia de los adultos[cite: 283]."
+      },
+      {
+        "text": "D) No hay bacteria, es solo reacción alérgica",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 279]. Sí hay una infección bacteriana liberando toxinas[cite: 279]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Vacuna Tres Vírica (SRP)",
+    "text": "¿A qué edad se administra la vacuna Tres Vírica (Sarampión, Rubéola, Paperas) según el PNI de Chile? [cite: 285]",
+    "hint": "Protege contra tres enfermedades en una sola inyección[cite: 295].",
+    "options": [
+      {
+        "text": "A) 2, 4 y 6 meses",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 293]. Esquema de vacunas inactivadas como la Hexavalente[cite: 293]."
+      },
+      {
+        "text": "B) 12 y 36 meses",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 290]. Se administra al cumplir el año y el refuerzo a los 36 meses (3 años)[cite: 291]."
+      },
+      {
+        "text": "C) 6 meses y 1ero básico",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 294]. Era el esquema antiguo, ya modificado[cite: 294]."
+      },
+      {
+        "text": "D) Recién nacido",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 285]. No se administra al nacimiento[cite: 285]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Escarlatina (Triángulo de Filatov)",
+    "text": "El \"Triángulo de Filatov\" en la Escarlatina se caracteriza por: [cite: 296]",
+    "hint": "Es como un \"maquillaje\" rojo que no toca los labios[cite: 306].",
+    "options": [
+      {
+        "text": "A) Rash intenso en nariz y pómulos",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 304]. Eso sería un signo de bofetada o rash lúpico[cite: 304]."
+      },
+      {
+        "text": "B) Palidez circumoral contrastando con mejillas rojas",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 301]. El exantema respeta la zona peribucal, resaltando la palidez de esa área[cite: 302]."
+      },
+      {
+        "text": "C) Vesículas agrupadas en forma de triángulo",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 305]. No hay vesículas en la escarlatina[cite: 305]."
+      },
+      {
+        "text": "D) Adenopatías en la base del cuello",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 296]. No corresponde a la definición del signo de Filatov[cite: 296]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Herpangina vs Gingivoestomatitis",
+    "text": "Diferencia clínica entre Herpangina y Gingivoestomatitis Herpética: [cite: 307]",
+    "hint": "Mira si las encías están rojas y sangrantes[cite: 316].",
+    "options": [
+      {
+        "text": "A) La presencia de diarrea",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 307]. No es la diferencia clave definida[cite: 307]."
+      },
+      {
+        "text": "B) La ubicación de las úlceras (Posterior vs Anterior)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 312]. Herpangina afecta pilares y úvula (atrás). Herpes afecta labios, lengua y encías (adelante)[cite: 313, 314]."
+      },
+      {
+        "text": "C) El grado de fiebre",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 315]. Ambos pueden dar fiebre alta[cite: 315]."
+      },
+      {
+        "text": "D) El compromiso del estado general",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 315]. Ambos comprometen significativamente el estado general[cite: 315]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Sobreinfección en Varicela",
+    "text": "Un niño con Varicela consulta por una lesión muy dolorosa con calor local y fiebre persistente tras 4 días[cite: 317]. Sospecha: [cite: 318]",
+    "hint": "Trata la bacteria que entró por las uñas sucias[cite: 328].",
+    "options": [
+      {
+        "text": "A) Evolución normal de la costra",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 326]. La costra normal no duele ni da fiebre mantenida[cite: 326]."
+      },
+      {
+        "text": "B) Sobreinfección bacteriana (Celulitis)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 323]. Es la complicación MÁS común; el rascado introduce S. aureus o S. pyogenes[cite: 324]."
+      },
+      {
+        "text": "C) Púrpura fulminante",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 327]. El púrpura es hemorrágico, no inflamatorio localizado[cite: 327]."
+      },
+      {
+        "text": "D) Alergia a la loción de calamina",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 317]. No explica el dolor intenso ni la fiebre persistente[cite: 317]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Eritema Infeccioso (Aspecto de encaje)",
+    "text": "¿Qué exantema se describe con aspecto de \"encaje\" o \"reticulado\"? [cite: 329]",
+    "hint": "Mejilla roja + extremidades en encaje[cite: 337].",
+    "options": [
+      {
+        "text": "A) Sarampión",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 336]. Son máculas o pápulas sólidas[cite: 336]."
+      },
+      {
+        "text": "B) Eritema Infeccioso (5ta enfermedad)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 334]. Tras la bofetada, el rash baja a extremidades tomando este aspecto reticular característico[cite: 335]."
+      },
+      {
+        "text": "C) Rubéola",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 336]. No presenta patrón reticulado en encaje[cite: 336]."
+      },
+      {
+        "text": "D) Urticaria",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 336]. Presenta habones, no patrón de encaje[cite: 336]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Onicomadesis post Mano-Pie-Boca",
+    "text": "La onicomadesis (caída indolora de las uñas) ocurre semanas después de: [cite: 338]",
+    "hint": "Las uñas vuelven a crecer solas; es benigno[cite: 347].",
+    "options": [
+      {
+        "text": "A) Escarlatina",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 346]. No es una secuela descrita habitualmente para la escarlatina[cite: 346]."
+      },
+      {
+        "text": "B) Enfermedad Mano-Pie-Boca",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 343]. El Coxsackie puede causar un arresto temporal en la matriz de la uña; se desprende semanas después[cite: 344, 345]."
+      },
+      {
+        "text": "C) Varicela",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 346]. Secuela no típica de la varicela[cite: 346]."
+      },
+      {
+        "text": "D) Sarampión",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 346]. Secuela no típica del sarampión[cite: 346]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Tratamiento de Escarlatina en alérgicos a Penicilina",
+    "text": "Tratamiento de la Escarlatina en un niño alérgico a la Penicilina: [cite: 348]",
+    "hint": "Usa un antibiótico que no sea del grupo de los betalactámicos[cite: 358].",
+    "options": [
+      {
+        "text": "A) Cefadroxilo",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 356]. Existe riesgo de reacción cruzada en alérgicos a penicilina[cite: 356]."
+      },
+      {
+        "text": "B) Macrólidos (Azitromicina o Claritromicina)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 353]. Alternativa de elección para erradicar el estreptococo y prevenir fiebre reumática en alérgicos[cite: 354]."
+      },
+      {
+        "text": "C) Vancomicina oral",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 357]. No se absorbe vía oral para tratar faringitis[cite: 357]."
+      },
+      {
+        "text": "D) Ácido acetilsalicílico",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 348]. No es un antibiótico para tratar la infección[cite: 348]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Varicela (Pleomorfismo regional)",
+    "text": "El \"Pleomorfismo regional\" es el signo guía para diagnosticar: [cite: 359]",
+    "hint": "Se le llama \"imagen en cielo estrellado\"[cite: 367].",
+    "options": [
+      {
+        "text": "A) Sarampión",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 366]. Las manchas suelen estar en la misma etapa evolutiva[cite: 366]."
+      },
+      {
+        "text": "B) Varicela",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 364]. Significa ver máculas, pápulas, vesículas y costras al mismo tiempo en una misma zona[cite: 365]."
+      },
+      {
+        "text": "C) Rubéola",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 366]. No presenta pleomorfismo regional característico[cite: 366]."
+      },
+      {
+        "text": "D) Exantema Súbito",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 366]. No presenta este signo[cite: 366]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "LCR en Kawasaki",
+    "text": "Un niño con Kawasaki está muy irritable. ¿Qué hallazgo en el LCR apoyaría el diagnóstico? [cite: 368]",
+    "hint": "Es una meningitis \"clara\" que no cultiva nada[cite: 378].",
+    "options": [
+      {
+        "text": "A) Pus y bacterias",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 376]. No es una infección bacteriana[cite: 376]."
+      },
+      {
+        "text": "B) Pleocitosis mononuclear con glucosa normal (Meningitis aséptica)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 373]. El Kawasaki inflama las meninges de forma estéril, provocando meningitis aséptica secundaria que justifica la irritabilidad[cite: 374]."
+      },
+      {
+        "text": "C) Glóbulos rojos frescos",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 377]. No cursa habitualmente con hemorragia subaracnoidea[cite: 377]."
+      },
+      {
+        "text": "D) LCR completamente normal",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 368]. Se espera encontrar meningitis aséptica ante irritabilidad extrema[cite: 368]."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Complicación de Rubéola en adultos",
+    "text": "Complicación más común de la Rubéola en mujeres jóvenes y adolescentes: [cite: 379]",
+    "hint": "Dolor en las manos después de las manchas rosadas[cite: 389].",
+    "options": [
+      {
+        "text": "A) Orquitis",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 387]. Es típica de la Parotiditis[cite: 387]."
+      },
+      {
+        "text": "B) Artralgia o artritis simétrica de pequeñas articulaciones",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 384]. Complicación inmunomediada transitoria muy frecuente en el sexo femenino post-puberal[cite: 385]."
+      },
+      {
+        "text": "C) Ceguera por cataratas",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 388]. Ocurre en la rubéola CONGÉNITA, no en la adquirida[cite: 388]."
+      },
+      {
+        "text": "D) Miocarditis aguda",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 379]. No es la complicación más común descrita[cite: 379]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Imagen en Kawasaki",
+    "text": "Examen de imagen OBLIGATORIO en todo niño con sospecha de Kawasaki: [cite: 390]",
+    "hint": "Busca prevenir el infarto en el niño[cite: 398].",
+    "options": [
+      {
+        "text": "A) Radiografía de tórax",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 397]. No evalúa el riesgo vital vascular específico[cite: 397]."
+      },
+      {
+        "text": "B) Ecocardiograma",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 395]. Se debe evaluar el diámetro de las arterias coronarias para buscar dilataciones o aneurismas[cite: 396]."
+      },
+      {
+        "text": "C) TC de abdomen",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 397]. No es el examen obligatorio para riesgo vital coronario[cite: 397]."
+      },
+      {
+        "text": "D) Resonancia Magnética cerebral",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 397]. No evalúa el compromiso vascular cardíaco prioritario[cite: 397]."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Vitamina A en Sarampión",
+    "text": "Vitamina que reduce la mortalidad en niños con Sarampión: [cite: 399]",
+    "hint": "Protege la \"vista\" y los epitelios[cite: 408].",
+    "options": [
+      {
+        "text": "A) Vitamina C",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 407]. No tiene evidencia de reducción de mortalidad en este cuadro[cite: 407]."
+      },
+      {
+        "text": "B) Vitamina A",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 404]. El virus depleta las reservas; su suplementación protege la mucosa respiratoria y ocular[cite: 405, 406]."
+      },
+      {
+        "text": "C) Vitamina D",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 407]. No tiene evidencia específica de reducción de mortalidad aquí[cite: 407]."
+      },
+      {
+        "text": "D) Vitamina E",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 407]. Sin evidencia científica para este fin[cite: 407]."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Eritema Infeccioso (Reaparición)",
+    "text": "Un exantema que reaparece con el sol, el calor o el ejercicio semanas después sugiere: [cite: 409]",
+    "hint": "La peste del \"encaje\" que va y vuelve[cite: 417].",
+    "options": [
+      {
+        "text": "A) Alergia solar crónica",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 416]. Las demás virales una vez que se van no vuelven reactivamente con el calor[cite: 416]."
+      },
+      {
+        "text": "B) Eritema Infeccioso (Parvovirus B19)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 414]. El rash reticular del Parvovirus puede gatillarse por cambios de temperatura durante varios meses[cite: 415]."
+      },
+      {
+        "text": "C) Reaparición de la Varicela",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 416]. No reaparece reactivamente de esta forma semanas después[cite: 416]."
+      },
+      {
+        "text": "D) Escarlatina recurrente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 416]. No presenta este comportamiento oscilante con la temperatura[cite: 416]."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Rubéola (Adenopatías)",
+    "text": "La presencia de adenopatías retroauriculares y occipitales es el sello prodrómico de: [cite: 418]",
+    "hint": "Toca detrás de la oreja del niño con manchas tenues[cite: 428].",
+    "options": [
+      {
+        "text": "A) Rubéola",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 423]. Hallazgo físico más constante y precoz antes de que aparezcan las manchas rosadas[cite: 424]."
+      },
+      {
+        "text": "B) Sarampión",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 426]. El sarampión tiene pródromo de tos y conjuntivitis[cite: 426]."
+      },
+      {
+        "text": "C) Escarlatina",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 418]. No se asocia a adenopatías retroauriculares como signo guía[cite: 418]."
+      },
+      {
+        "text": "D) Mononucleosis",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 427]. Da adenopatías cervicales ANTERIORES masivas[cite: 427]."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Lesión de la Varicela",
+    "text": "Definición clásica de la lesión de la Varicela: [cite: 429]",
+    "hint": "Metáfora botánica para la \"peste cristal\"[cite: 440].",
+    "options": [
+      {
+        "text": "A) Mácula color salmón",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 437]. Característica de la Rubéola[cite: 437]."
+      },
+      {
+        "text": "B) Gota de rocío sobre pétalo de rosa",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 434]. Describe la vesícula clara sobre una base roja inflamatoria[cite: 435]."
+      },
+      {
+        "text": "C) Pápula umbilicada perlada",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 438]. Característica del Molusco contagioso[cite: 438]."
+      },
+      {
+        "text": "D) Costra melicérica en \"quemadura de cigarrillo\"",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 439]. Característica del Impétigo bacteriano[cite: 439]."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Kawasaki incompleto",
+    "text": "Para sospechar Kawasaki incompleto en un lactante, basta con: [cite: 441]",
+    "hint": "El corazón manda cuando los signos externos son escasos[cite: 451].",
+    "options": [
+      {
+        "text": "A) Fiebre de 24 horas y diarrea",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 450]. Requiere obligatoriamente fiebre prolongada[cite: 450]."
+      },
+      {
+        "text": "B) Fiebre ≥ 5 días y alteración en el Ecocardiograma (coronarias)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 447]. En lactantes menores de 6 meses con pocos síntomas, el eco es el desempate diagnóstico[cite: 448]."
+      },
+      {
+        "text": "C) Solo tener los ojos rojos",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 441]. No es criterio suficiente[cite: 441]."
+      },
+      {
+        "text": "D) Antecedente de vacuna reciente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 441]. No es un criterio diagnóstico[cite: 441]."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "SSJ vs NET",
+    "text": "Diferencia diagnóstica entre Síndrome de Stevens-Johnson (SSJ) y Necrólisis Epidérmica Tóxica (NET): [cite: 452]",
+    "hint": "Es una cuestión de cantidad de piel \"quemada\" por el fármaco[cite: 463].",
+    "options": [
+      {
+        "text": "A) El medicamento que lo causó",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 462]. Ambos pueden ser causados por los mismos fármacos[cite: 462]."
+      },
+      {
+        "text": "B) El porcentaje de superficie corporal afectada (<10% vs >30%)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 459]. Es la misma enfermedad en distinto grado; se define por la extensión de piel que se desprende[cite: 460, 461]."
+      },
+      {
+        "text": "C) La presencia de fiebre",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 462]. Ambos cuadros presentan fiebre[cite: 462]."
+      },
+      {
+        "text": "D) La edad del paciente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 462]. Pueden ocurrir a cualquier edad[cite: 462]."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Exantemas Pediátricos",
+    "topic": "Vacuna Tres Vírica (SRP) y Rubéola congénita",
+    "text": "Vacuna que previene el síndrome de Rubéola congénita al inmunizar a la población infantil: [cite: 464]",
+    "hint": "Se pone al año de vida[cite: 472].",
+    "options": [
+      {
+        "text": "A) Vacuna contra Hepatitis B",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 471]. No contiene protección contra la rubéola[cite: 471]."
+      },
+      {
+        "text": "B) Vacuna Tres Vírica (SRP)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 469]. Al vacunar a los niños, se elimina el reservorio y se evita que el virus llegue a embarazadas susceptibles[cite: 470]."
+      },
+      {
+        "text": "C) Vacuna Pentavalente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 471]. No protege contra la rubéola[cite: 471]."
+      },
+      {
+        "text": "D) Vacuna contra el Neumococo",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 471]. No protege contra la rubéola[cite: 471]."
+      }
+    ]
+  }
+]
