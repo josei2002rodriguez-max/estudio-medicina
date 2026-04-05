@@ -1,0 +1,992 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Síndrome de Down y Cardiopatía",
+    "text": "Un recién nacido con fenotipo de Síndrome de Down presenta un soplo holosistólico rudo en mesocardio. El ECG revela un eje del QRS a -60° (eje superior izquierdo). ¿Cuál es la cardiopatía más probable? [cite: 4, 5, 6]",
+    "hint": "Down + Soplo + Eje superior izquierdo = Canal AV. [cite: 21]",
+    "options": [
+      {
+        "text": "A) Comunicación Interventricular (CIV) aislada.",
+        "isCorrect": false,
+        "explanation": "Aunque es común en Down, su eje eléctrico suele ser normal o derecho; el eje superior es específico del Canal AV. [cite: 16, 17]"
+      },
+      {
+        "text": "B) Defecto del Canal Auriculoventricular (Canal AV).",
+        "isCorrect": true,
+        "explanation": "El Canal AV completo es la cardiopatía patognomónica del Down (40-50% de sus cardiopatías). El hallazgo de \"eje superior\" en el ECG es el marcador diferencial que indica un defecto de los cojinetes endocárdicos. [cite: 12, 13, 14]"
+      },
+      {
+        "text": "C) Tetralogía de Fallot.",
+        "isCorrect": false,
+        "explanation": "Es una cardiopatía cianótica característica del Síndrome de DiGeorge o Síndrome de Patau, no es el sello del Down. [cite: 18]"
+      },
+      {
+        "text": "D) Coartación de la Aorta.",
+        "isCorrect": false,
+        "explanation": "Es la asociación vascular clásica del Síndrome de Turner y se reconoce por la diferencia de pulsos entre brazos y piernas. [cite: 19, 20]"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Mecanismo Citogenético del Down",
+    "text": "¿Cuál es el mecanismo citogenético responsable de la recurrencia familiar del Síndrome de Down en una madre joven (ej. 20 años)? [cite: 22]",
+    "hint": "\"Madre joven\" + \"Recurrencia\" = Translocación. [cite: 37]",
+    "options": [
+      {
+        "text": "A) No disyunción meiótica materna accidental.",
+        "isCorrect": false,
+        "explanation": "Es la causa del 95% de los casos, pero es un evento al azar ligado a la edad materna avanzada, no explica la recurrencia en jóvenes. [cite: 32, 33]"
+      },
+      {
+        "text": "B) Translocación Robertsoniana balanceada en un progenitor.",
+        "isCorrect": true,
+        "explanation": "Las translocaciones (usualmente t(14;21)) representan el 3-4% de los casos y son las únicas hereditarias; si un padre es portador, el riesgo de repetición es alto e independiente de la edad materna. [cite: 28, 29, 30]"
+      },
+      {
+        "text": "C) Mosaicismo post-cigótico.",
+        "isCorrect": false,
+        "explanation": "Ocurre por un error tras la fecundación, da un fenotipo más leve y el riesgo de recurrencia es igual al de la población general. [cite: 34, 35]"
+      },
+      {
+        "text": "D) Isocromosoma del brazo largo del X.",
+        "isCorrect": false,
+        "explanation": "Es una alteración estructural exclusiva del Síndrome de Turner, no tiene relación con el cromosoma 21. [cite: 36]"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Síndrome de Down y Malformación Digestiva",
+    "text": "Un recién nacido con Síndrome de Down presenta vómitos biliosos desde las primeras 12 horas de vida. La radiografía de abdomen muestra el signo de la \"doble burbuja\". ¿Cuál es el diagnóstico? [cite: 38, 39]",
+    "hint": "Vómito verde (bilioso) + Neonato + Down = Atresia Duodenal. [cite: 52]",
+    "options": [
+      {
+        "text": "A) Estenosis hipertrófica del píloro.",
+        "isCorrect": false,
+        "explanation": "Los vómitos son NO biliosos (contenido gástrico) y aparecen a la 3ra semana de vida, no al nacer. [cite: 49]"
+      },
+      {
+        "text": "B) Atresia duodenal.",
+        "isCorrect": true,
+        "explanation": "La atresia duodenal afecta al 5-8% de los niños con Down. El signo de la \"doble burbuja\" representa el estómago y el duodeno proximal dilatados por la obstrucción. [cite: 45, 46, 47]"
+      },
+      {
+        "text": "C) Enfermedad de Hirschsprung.",
+        "isCorrect": false,
+        "explanation": "Aunque se asocia al Down, es una obstrucción baja (distensión abdominal), no produce el signo de doble burbuja gástrica. [cite: 50]"
+      },
+      {
+        "text": "D) Atresia esofágica.",
+        "isCorrect": false,
+        "explanation": "Cursa con sialorrea, atragantamiento y la imposibilidad de pasar una sonda nasogástrica. [cite: 51]"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Tamizaje de Hipotiroidismo en Down",
+    "text": "Respecto al tamizaje de hipotiroidismo en el Síndrome de Down, ¿cuál es la conducta recomendada tras un screening neonatal de talón normal? [cite: 53]",
+    "hint": "La tiroides en el Down se chequea todos los años (protocolo UC). [cite: 67]",
+    "options": [
+      {
+        "text": "A) Medir TSH y T4 libre a los 6 meses, 12 meses y luego anualmente.",
+        "isCorrect": true,
+        "explanation": "El hipotiroidismo es muy prevalente en Down. El tamizaje debe ser frecuente y proactivo porque el déficit hormonal agrava el retraso cognitivo y se confunde con la clínica basal. [cite: 59, 60]"
+      },
+      {
+        "text": "B) Medir TSH solo si el niño presenta piel seca o macroglosia evidente.",
+        "isCorrect": false,
+        "explanation": "La hipotonía y lengua protruyente del Down enmascaran el hipotiroidismo; esperar a los síntomas es llegar tarde. [cite: 62, 63]"
+      },
+      {
+        "text": "C) Realizar ecografía de tiroides semestral desde el nacimiento.",
+        "isCorrect": false,
+        "explanation": "No evalúa la función glandular, que es el problema metabólico principal en la trisomía. [cite: 64]"
+      },
+      {
+        "text": "D) Medir TSH solo al inicio de la etapa escolar (6 años).",
+        "isCorrect": false,
+        "explanation": "Es un intervalo demasiado largo; el daño neurológico del hipotiroidismo ocurre en la primera infancia. [cite: 65, 66]"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Hallazgos Hematológicos en Down",
+    "text": "¿Qué hallazgo hematológico neonatal se observa en el 10% de los recién nacidos con Down y debe distinguirse de una leucemia mieloide real? [cite: 68]",
+    "hint": "Es una \"falsa leucemia\" que se cura sola en el recién nacido Down. [cite: 80]",
+    "options": [
+      {
+        "text": "A) Leucemia Megacarioblástica Aguda (M7).",
+        "isCorrect": false,
+        "explanation": "Es la leucemia real y agresiva que afecta a estos niños después de los 2 años, no es transitoria. [cite: 77]"
+      },
+      {
+        "text": "B) Trastorno Mieloproliferativo Transitorio (TMT).",
+        "isCorrect": true,
+        "explanation": "El TMT es una proliferación de blastos que aparece al nacer en el Down y remite espontáneamente en 3 meses. No requiere quimioterapia inicial pero sí vigilancia. [cite: 73, 74, 75]"
+      },
+      {
+        "text": "C) Anemia de Fanconi.",
+        "isCorrect": false,
+        "explanation": "Enfermedad de falla medular que asocia aplasia radial, no relacionada con el Down. [cite: 78]"
+      },
+      {
+        "text": "D) Trombocitopenia aloinmune neonatal.",
+        "isCorrect": false,
+        "explanation": "Es por anticuerpos maternos contra plaquetas fetales, no es una patología proliferativa del Down. [cite: 79]"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Neonatología y Síndrome de Turner",
+    "text": "Una recién nacida presenta linfedema marcado en el dorso de manos y pies, junto con piel redundante en el cuello (cuello alado). ¿Qué cardiopatía debe descartarse prioritariamente? [cite: 81, 82]",
+    "hint": "Niña hinchada al nacer + cuello ancho = Turner (Busca Coartación). [cite: 94]",
+    "options": [
+      {
+        "text": "A) Comunicación Interauricular (CIA).",
+        "isCorrect": false,
+        "explanation": "Muy común en general, pero no es la lesión distintiva ni la de mayor riesgo vascular en el Turner. [cite: 91]"
+      },
+      {
+        "text": "B) Coartación de la Aorta.",
+        "isCorrect": true,
+        "explanation": "El cuadro describe un Síndrome de Turner (45,X0) neonatal. La coartación aórtica es su asociación clásica; debe evaluarse con pulsos femorales. [cite: 87, 88, 89]"
+      },
+      {
+        "text": "C) Defecto del Canal AV.",
+        "isCorrect": false,
+        "explanation": "Es el sello del Síndrome de Down, no de la monosomía X. [cite: 92]"
+      },
+      {
+        "text": "D) Tetralogía de Fallot.",
+        "isCorrect": false,
+        "explanation": "Asociación típica del Síndrome de DiGeorge o Patau. [cite: 93]"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Anomalías Renales en Turner",
+    "text": "¿Cuál es la anomalía renal de fusión característica del Síndrome de Turner? [cite: 95]",
+    "hint": "Riñones que se \"dan la mano\" por debajo. [cite: 107]",
+    "options": [
+      {
+        "text": "A) Agenesia renal unilateral.",
+        "isCorrect": false,
+        "explanation": "Es la falta de un riñón; puede ocurrir pero no es una anomalía de \"fusión\". [cite: 104]"
+      },
+      {
+        "text": "B) Riñón en herradura.",
+        "isCorrect": true,
+        "explanation": "El riñón en herradura afecta al 30% de las pacientes Turner. Ocurre por fusión de los polos inferiores durante el ascenso embrionario. [cite: 100, 101, 102]"
+      },
+      {
+        "text": "C) Riñón poliquístico autosómico recesivo.",
+        "isCorrect": false,
+        "explanation": "Enfermedad monogénica hereditaria, no ligada a la cromosomopatía del X. [cite: 105]"
+      },
+      {
+        "text": "D) Ectopia renal cruzada.",
+        "isCorrect": false,
+        "explanation": "Riñón en posición anómala, pero la fusión bilateral simétrica (herradura) es la marca del Turner. [cite: 106]"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Perfil Hormonal en Turner",
+    "text": "Paciente de 15 años con Síndrome de Turner consulta por amenorrea primaria. El laboratorio muestra Testosterona baja, con FSH y LH elevadas. ¿A qué se debe este perfil? [cite: 108, 109]",
+    "hint": "La fábrica (ovario) no funciona, por eso el cerebro \"grita\" (FSH alta). [cite: 122]",
+    "options": [
+      {
+        "text": "A) Hipogonadismo hipogonadotrófico central.",
+        "isCorrect": false,
+        "explanation": "Las hormonas cerebrales (FSH/LH) estarían BAJAS (ej. Síndrome de Kallmann). [cite: 118]"
+      },
+      {
+        "text": "B) Falla gonadal primaria por estrías gonadales.",
+        "isCorrect": true,
+        "explanation": "Es un hipogonadismo hipergonadotrófico. Los ovarios fibrosos no producen estrógenos y, por falta de feedback negativo, la hipófisis dispara la FSH/LH. [cite: 114, 115, 116]"
+      },
+      {
+        "text": "C) Síndrome de Insensibilidad a los Andrógenos.",
+        "isCorrect": false,
+        "explanation": "Es el Síndrome de Morris (46,XY); no tienen útero ni vello, distinto al Turner. [cite: 119, 120]"
+      },
+      {
+        "text": "D) Hiperplasia suprarrenal congénita.",
+        "isCorrect": false,
+        "explanation": "Cursa con virilización (vello, acné) y genitales ambiguos, no infantilismo sexual. [cite: 121]"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Muerte Súbita en Turner",
+    "text": "¿Cuál es la principal causa de muerte súbita cardiovascular en mujeres adultas con Síndrome de Turner? [cite: 123]",
+    "hint": "El vaso sanguíneo más grande es su punto más débil. [cite: 134]",
+    "options": [
+      {
+        "text": "A) Infarto agudo al miocardio por ateroesclerosis.",
+        "isCorrect": false,
+        "explanation": "Tienen riesgo metabólico, pero la disección es la causa de muerte súbita \"sindrómica\". [cite: 131]"
+      },
+      {
+        "text": "B) Disección o ruptura de la aorta ascendente.",
+        "isCorrect": true,
+        "explanation": "Debido a la debilidad de la pared aórtica (vasculopatía intrínseca) y válvula bicúspide, tienen riesgo de disección letal. [cite: 128, 129]"
+      },
+      {
+        "text": "C) Insuficiencia renal crónica secundaria.",
+        "isCorrect": false,
+        "explanation": "Sus malformaciones rara vez llevan a diálisis o muerte súbita. [cite: 132]"
+      },
+      {
+        "text": "D) Miocardiopatía dilatada idiopática.",
+        "isCorrect": false,
+        "explanation": "No es asociación primaria; el problema es vascular (arterias). [cite: 133]"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Dismorfología del Síndrome de Edwards",
+    "text": "Neonato con microcefalia, occipucio prominente, esternón corto y dedos de las manos superpuestos (índice sobre el medio). Diagnóstico: [cite: 135]",
+    "hint": "Edwards = Dedos en puño cerrado \"abrazados\". [cite: 146]",
+    "options": [
+      {
+        "text": "A) Síndrome de Down.",
+        "isCorrect": false,
+        "explanation": "Tienen occipucio plano (braquicefalia) y pliegue palmar único, no dedos montados. [cite: 143]"
+      },
+      {
+        "text": "B) Síndrome de Edwards (T18).",
+        "isCorrect": true,
+        "explanation": "La dolicocéfalia (occipucio saliente) y los dedos encabalgados son signos patognomónicos del Edwards al nacer. [cite: 140, 141]"
+      },
+      {
+        "text": "C) Síndrome de Patau (T13).",
+        "isCorrect": false,
+        "explanation": "Presenta labio leporino central, polidactilia y microftalmía, no típicamente estos dedos. [cite: 144]"
+      },
+      {
+        "text": "D) Síndrome de Turner.",
+        "isCorrect": false,
+        "explanation": "No asocia malformaciones craneales destructivas ni dedos montados; es un cuadro neonatal más leve. [cite: 145]"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Hallazgos Ortopédicos en Edwards",
+    "text": "En la ecografía de segundo trimestre de un feto con Trisomía 18, el hallazgo en los pies más característico es: [cite: 147]",
+    "hint": "La planta del pie parece la base de una silla mecedora. [cite: 158]",
+    "options": [
+      {
+        "text": "A) Polidactilia postaxial.",
+        "isCorrect": false,
+        "explanation": "Es el rasgo característico de las extremidades del Síndrome de Patau (T13). [cite: 155]"
+      },
+      {
+        "text": "B) Pie en mecedora (Piolet).",
+        "isCorrect": true,
+        "explanation": "El pie en \"piolet\" o \"mecedora\" (calcáneo prominente y planta convexa) es el marcador ortopédico estrella del Edwards. [cite: 152, 153]"
+      },
+      {
+        "text": "C) Sindactilia de 2do y 3er dedo.",
+        "isCorrect": false,
+        "explanation": "Fusión de dedos común en el Síndrome de Smith-Lemli-Opitz. [cite: 156]"
+      },
+      {
+        "text": "D) Ausencia total de pies.",
+        "isCorrect": false,
+        "explanation": "Patologías disruptivas o bridas amnióticas, no típico de trisomías. [cite: 157]"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Fenotipo Facial en Down",
+    "text": "Hallazgo en el ángulo interno del ojo de niños con Down que da apariencia de ojos rasgados: [cite: 159]",
+    "hint": "El pliegue \"clásico\" de la mirada Down. [cite: 170]",
+    "options": [
+      {
+        "text": "A) Coloboma de iris.",
+        "isCorrect": false,
+        "explanation": "Hendidura en la pupila típica de Patau o síndrome de CHARGE. [cite: 167]"
+      },
+      {
+        "text": "B) Pliegue epicántico.",
+        "isCorrect": true,
+        "explanation": "El epicanto es el pliegue de piel que cubre el canto interno, característica facial icónica del Down. [cite: 164, 165]"
+      },
+      {
+        "text": "C) Enoftalmos bilateral.",
+        "isCorrect": false,
+        "explanation": "Ojos hundidos; signo de deshidratación severa. [cite: 168]"
+      },
+      {
+        "text": "D) Mancha rojo cereza.",
+        "isCorrect": false,
+        "explanation": "Encontrada en el fondo de ojo de enfermedades como Tay-Sachs. [cite: 169]"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Síndrome de Klinefelter",
+    "text": "Varón de 30 años con infertilidad, talla alta, ginecomastia leve y testículos de 2 ml muy firmes. ¿Qué cariotipo es el más probable? [cite: 171, 172]",
+    "hint": "Varón con un cromosoma X de más = Testículos de niño. [cite: 183]",
+    "options": [
+      {
+        "text": "A) 45, X0.",
+        "isCorrect": false,
+        "explanation": "Cariotipo de Síndrome de Turner (femenino). [cite: 180]"
+      },
+      {
+        "text": "B) 47, XXY.",
+        "isCorrect": true,
+        "explanation": "El Síndrome de Klinefelter es la causa #1 de hipogonadismo primario y azoospermia en hombres altos con ginecomastia. [cite: 177, 178]"
+      },
+      {
+        "text": "C) 47, XYY.",
+        "isCorrect": false,
+        "explanation": "Varones muy altos con testículos normales y fértiles; asocian problemas de conducta. [cite: 181]"
+      },
+      {
+        "text": "D) 46, XY (deleción brazo largo).",
+        "isCorrect": false,
+        "explanation": "Causa infertilidad pero no el fenotipo ginecoide ni testículos tan pequeños/firmes. [cite: 182]"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Hallazgos Oculares en Down",
+    "text": "Hallazgo blanquecino en la periferia del iris de lactantes con Down: [cite: 184]",
+    "hint": "\"Pecas\" blancas en el iris. [cite: 195]",
+    "options": [
+      {
+        "text": "A) Nódulos de Lisch.",
+        "isCorrect": false,
+        "explanation": "Hamartomas pigmentados patognomónicos de la Neurofibromatosis tipo 1. [cite: 192]"
+      },
+      {
+        "text": "B) Manchas de Brushfield.",
+        "isCorrect": true,
+        "explanation": "Acumulaciones de tejido conectivo en el estroma del iris, benignas y frecuentes en T21. [cite: 189, 190]"
+      },
+      {
+        "text": "C) Heterocromía de iris.",
+        "isCorrect": false,
+        "explanation": "Ojos de distinto color; típica del Síndrome de Waardenburg. [cite: 193]"
+      },
+      {
+        "text": "D) Catarata congénita.",
+        "isCorrect": false,
+        "explanation": "Opacidad del cristalino, no una mancha en el iris. [cite: 194]"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Dismorfología del Síndrome de Patau",
+    "text": "Recién nacido con labio leporino de línea media, polidactilia postaxial y holoprosencefalia en la ecografía cerebral. Diagnóstico: [cite: 196]",
+    "hint": "Patau = Polidactilia + Prostíbulo cerebral (Holoprosencefalia). [cite: 207]",
+    "options": [
+      {
+        "text": "A) Trisomía 18.",
+        "isCorrect": false,
+        "explanation": "Presentan micrognatia y puños cerrados, no holoprosencefalia de regla. [cite: 204]"
+      },
+      {
+        "text": "B) Trisomía 13 (Patau).",
+        "isCorrect": true,
+        "explanation": "El Patau se define por fallas masivas en división de línea media facial y cerebral junto con dedos supernumerarios. [cite: 201, 202]"
+      },
+      {
+        "text": "C) Síndrome de Down.",
+        "isCorrect": false,
+        "explanation": "No presenta malformaciones de línea media tan destructivas ni dedos extra. [cite: 205]"
+      },
+      {
+        "text": "D) Asociación VACTERL.",
+        "isCorrect": false,
+        "explanation": "Asociación estructural sin base cromosómica única definida. [cite: 206]"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Signo de Archibald",
+    "text": "Signo de Archibald (4to nudillo hundido al cerrar el puño) se asocia a: [cite: 208]",
+    "hint": "Cierra el puño; si falta la \"montaña\" del anular, es Turner. [cite: 219]",
+    "options": [
+      {
+        "text": "A) Síndrome de Down.",
+        "isCorrect": false,
+        "explanation": "Tienen manos cortas y anchas (braquidactilia), pero el signo del nudillo es de Turner. [cite: 216]"
+      },
+      {
+        "text": "B) Síndrome de Turner.",
+        "isCorrect": true,
+        "explanation": "Se debe al acortamiento congénito del cuarto metacarpiano, un estigma esquelético clásico en la monosomía X. [cite: 213, 214]"
+      },
+      {
+        "text": "C) Síndrome de Klinefelter.",
+        "isCorrect": false,
+        "explanation": "Tienen extremidades muy largas; sus metacarpianos suelen ser normales. [cite: 217]"
+      },
+      {
+        "text": "D) Síndrome de Edwards.",
+        "isCorrect": false,
+        "explanation": "Problema de posición de dedos (montados), no de longitud de metacarpianos. [cite: 218]"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Cribado Bioquímico Prenatal",
+    "text": "Respecto al cribado de segundo trimestre (Cuádruple Test), ¿qué marcador está ELEVADO en Down pero BAJO en Edwards? [cite: 220]",
+    "hint": "Down = hCG Alta. Edwards = hCG Baja. [cite: 230]",
+    "options": [
+      {
+        "text": "A) Alfa-fetoproteína (AFP).",
+        "isCorrect": false,
+        "explanation": "Está baja en AMBOS síndromes, por lo que no sirve para diferenciarlos. [cite: 228]"
+      },
+      {
+        "text": "B) Gonadotropina Coriónica humana (hCG).",
+        "isCorrect": true,
+        "explanation": "En el Down la hCG sube, mientras que en Edwards todos los marcadores fetoplacentarios (incluyendo hCG) tienden a estar muy bajos. [cite: 225, 226]"
+      },
+      {
+        "text": "C) Estriol libre.",
+        "isCorrect": false,
+        "explanation": "Está bajo en AMBOS síndromes, por lo que no sirve para diferenciarlos. [cite: 228]"
+      },
+      {
+        "text": "D) PAPP-A.",
+        "isCorrect": false,
+        "explanation": "Es un marcador del primer trimestre (11-14 sem), no del segundo. [cite: 229]"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Down y Enfermedad de Alzheimer",
+    "text": "¿Cuál es la causa biológica de que casi el 100% de los pacientes con Down desarrollen Alzheimer a los 60 años? [cite: 231]",
+    "hint": "El Alzheimer es \"el destino genético\" del adulto con Down. [cite: 240]",
+    "options": [
+      {
+        "text": "A) Ingesta excesiva de hidratos de carbono.",
+        "isCorrect": false,
+        "explanation": "Factor de riesgo general de salud, pero no explica la patogenia genética de la Trisomía 21. [cite: 239]"
+      },
+      {
+        "text": "B) Exceso del gen de la Proteína Precursora de Amiloide (APP) en el cromosoma 21.",
+        "isCorrect": true,
+        "explanation": "El gen APP se ubica en el par 21. Al tener 3 copias, producen amiloide de forma masiva desde jóvenes, destruyendo neuronas precozmente. [cite: 236, 237]"
+      },
+      {
+        "text": "C) Hipotonía crónica de los vasos sanguíneos cerebrales.",
+        "isCorrect": false,
+        "explanation": "Factor de riesgo de demencia vascular, no explica la causa genética obligada del Down. [cite: 239]"
+      },
+      {
+        "text": "D) Infecciones virales recurrentes en la infancia.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con el desarrollo sistemático de placas de amiloide en el Down. [cite: 239]"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Tórax en Escudo",
+    "text": "El \"Tórax en escudo\" con pezones ampliamente separados (hipertelorismo mamario) caracteriza a: [cite: 241]",
+    "hint": "Niña con pezones hacia afuera = Turner. [cite: 252]",
+    "options": [
+      {
+        "text": "A) Varón con Klinefelter.",
+        "isCorrect": false,
+        "explanation": "El varón XXY tiene ginecomastia (glándula), pero el tórax no tiene la forma ósea de escudo. [cite: 249]"
+      },
+      {
+        "text": "B) Mujer con Turner.",
+        "isCorrect": true,
+        "explanation": "Es parte de la dismorfia torácica clásica del Turner, dándole un aspecto ancho al pecho. [cite: 246, 247]"
+      },
+      {
+        "text": "C) Neonato con Patau.",
+        "isCorrect": false,
+        "explanation": "Suelen presentar defectos de pared como onfalocele, no típicamente tórax en escudo. [cite: 250]"
+      },
+      {
+        "text": "D) Escolar con Noonan.",
+        "isCorrect": false,
+        "explanation": "Puede tenerlo, pero asocia pectus excavatum marcado y cardiopatía derecha; el Turner es la respuesta clásica. [cite: 251]"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Radiología en Atresia Duodenal",
+    "text": "El signo de la \"doble burbuja\" en la radiografía de un recién nacido con Down indica: [cite: 253]",
+    "hint": "El aire no puede pasar de la primera parte del intestino. [cite: 265]",
+    "options": [
+      {
+        "text": "A) Atresia de esófago.",
+        "isCorrect": false,
+        "explanation": "Daría ausencia de gas distal si no hay fístula, no la imagen de doble burbuja. [cite: 262]"
+      },
+      {
+        "text": "B) Atresia duodenal.",
+        "isCorrect": true,
+        "explanation": "Es el hallazgo de una obstrucción alta; las burbujas corresponden al estómago y al duodeno proximal llenos de aire. [cite: 258, 259, 260]"
+      },
+      {
+        "text": "C) Megacolon agangliónico.",
+        "isCorrect": false,
+        "explanation": "Es una obstrucción baja; se verían múltiples asas intestinales dilatadas, no solo dos. [cite: 263]"
+      },
+      {
+        "text": "D) Hernia diafragmática.",
+        "isCorrect": false,
+        "explanation": "Se verían asas intestinales dentro del tórax, rompiendo la silueta gástrica normal. [cite: 264]"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Riesgo de Cáncer en Klinefelter",
+    "text": "¿En qué paciente el riesgo de cáncer de mama es 50 veces mayor que en el hombre normal? [cite: 266]",
+    "hint": "Único varón con alto riesgo de cáncer de mama. [cite: 277]",
+    "options": [
+      {
+        "text": "A) Mujer con Turner.",
+        "isCorrect": false,
+        "explanation": "Su riesgo es incluso menor al de otras mujeres por baja exposición a estrógenos. [cite: 274]"
+      },
+      {
+        "text": "B) Hombre con Klinefelter (47,XXY).",
+        "isCorrect": true,
+        "explanation": "Debido al hiperestrogenismo relativo del cariotipo 47,XXY, estos varones desarrollan tejido mamario con alto riesgo de malignización. [cite: 271, 272]"
+      },
+      {
+        "text": "C) Niño con Down.",
+        "isCorrect": false,
+        "explanation": "Su principal riesgo oncológico es la Leucemia, no el cáncer de mama. [cite: 275]"
+      },
+      {
+        "text": "D) Varón con Síndrome de XYY.",
+        "isCorrect": false,
+        "explanation": "Tienen testosterona normal y no suelen desarrollar ginecomastia. [cite: 276]"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Aplasia Cutis en Patau",
+    "text": "La \"Aplasia cutis\" congénita (defecto de piel en cuero cabelludo) es el sello de: [cite: 278]",
+    "hint": "Patau = Falta un \"Parche\" de piel. [cite: 289]",
+    "options": [
+      {
+        "text": "A) Síndrome de Down.",
+        "isCorrect": false,
+        "explanation": "Tienen el occipucio plano pero la piel del cuero cabelludo está íntegra. [cite: 286]"
+      },
+      {
+        "text": "B) Síndrome de Patau (Trisomía 13).",
+        "isCorrect": true,
+        "explanation": "Se refiere a una úlcera sin piel en el vértex (coronilla) que se ve al nacer, signo muy específico de la Trisomía 13. [cite: 283, 284]"
+      },
+      {
+        "text": "C) Síndrome de Turner.",
+        "isCorrect": false,
+        "explanation": "Tienen piel redundante en el cuello, no úlceras en el cráneo. [cite: 287]"
+      },
+      {
+        "text": "D) Síndrome de Edwards.",
+        "isCorrect": false,
+        "explanation": "Sus signos óseos principales son micrognatia y esternón corto. [cite: 288]"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Sandal Gap en Down",
+    "text": "El signo de la sandalia (Sandal gap) en el pie consiste en: [cite: 290]",
+    "hint": "Pie listo para usar chalas hawaianas. [cite: 302]",
+    "options": [
+      {
+        "text": "A) Espacio amplio entre el 1er y 2do dedo del pie en el Down.",
+        "isCorrect": true,
+        "explanation": "Es un estigma menor del Down; a menudo se asocia a un surco plantar profundo que nace de ese espacio. [cite: 295, 296, 297]"
+      },
+      {
+        "text": "B) Calcáneo prominente en el Edwards.",
+        "isCorrect": false,
+        "explanation": "Característica del \"pie en mecedora\" de la Trisomía 18. [cite: 299]"
+      },
+      {
+        "text": "C) Polidactilia en el Patau.",
+        "isCorrect": false,
+        "explanation": "Significa tener dedos de más, no un espacio amplio entre ellos. [cite: 300]"
+      },
+      {
+        "text": "D) Edema del dorso del pie en el Turner.",
+        "isCorrect": false,
+        "explanation": "Corresponde al linfedema neonatal característico de la monosomía X. [cite: 301]"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Epidemiología del Down Hereditario",
+    "text": "¿Qué porcentaje de casos de Síndrome de Down corresponden a una Translocación Robertsoniana? [cite: 303]",
+    "hint": "Pocos casos, pero son los que \"se heredan\". [cite: 313]",
+    "options": [
+      {
+        "text": "A) 95%.",
+        "isCorrect": false,
+        "explanation": "Porcentaje correspondiente a la No disyunción accidental ligada a la edad materna. [cite: 311]"
+      },
+      {
+        "text": "B) 3-4%.",
+        "isCorrect": true,
+        "explanation": "Representa la minoría de los casos; es la causa que obliga a realizar cariotipo a los padres para evaluar el riesgo de recurrencia. [cite: 308, 309]"
+      },
+      {
+        "text": "C) 50%.",
+        "isCorrect": false,
+        "explanation": "No corresponde a la prevalencia de translocaciones en el Down. [cite: 306]"
+      },
+      {
+        "text": "D) 1%.",
+        "isCorrect": false,
+        "explanation": "Porcentaje aproximado que corresponde al Mosaicismo. [cite: 312]"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Pronóstico Vital en Trisomías 13 y 18",
+    "text": "La esperanza de vida mediana de los recién nacidos con Edwards y Patau es de: [cite: 314]",
+    "hint": "Tiempo de vida extremadamente corto. [cite: 323]",
+    "options": [
+      {
+        "text": "A) 10 años.",
+        "isCorrect": false,
+        "explanation": "Sobrevida improbable para estas trisomías severas. [cite: 315]"
+      },
+      {
+        "text": "B) Menos de 15 días.",
+        "isCorrect": true,
+        "explanation": "Ambas son trisomías letales con muerte neonatal muy precoz debido a apneas o fallas cardíacas complejas. [cite: 319, 320]"
+      },
+      {
+        "text": "C) 40 años.",
+        "isCorrect": false,
+        "explanation": "Corresponde a la sobrevida promedio actual del Síndrome de Down. [cite: 322]"
+      },
+      {
+        "text": "D) Normal con soporte médico.",
+        "isCorrect": false,
+        "explanation": "El soporte médico no logra normalizar la esperanza de vida en cuadros tan destructivos. [cite: 318]"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Inestabilidad Atlanto-Axial en Down",
+    "text": "La inestabilidad atlanto-axial es una complicación ortopédica que debe vigilarse en: [cite: 324]",
+    "hint": "Peligro en el cuello antes de gimnasia o cirugía. [cite: 334]",
+    "options": [
+      {
+        "text": "A) Turner.",
+        "isCorrect": false,
+        "explanation": "Su complicación ósea típica es la Escoliosis o el cuarto metacarpiano corto. [cite: 332]"
+      },
+      {
+        "text": "B) Down.",
+        "isCorrect": true,
+        "explanation": "La laxitud ligamentosa entre C1 y C2 puede causar compresión medular catastrófica en niños con Down, especialmente en deportes o intubación. [cite: 329, 330]"
+      },
+      {
+        "text": "C) Klinefelter.",
+        "isCorrect": false,
+        "explanation": "Su principal riesgo óseo es la Osteoporosis por falta de testosterona. [cite: 333]"
+      },
+      {
+        "text": "D) Patau.",
+        "isCorrect": false,
+        "explanation": "No es una complicación clásica asociada a la Trisomía 13. [cite: 328]"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Linfedema Neonatal en Turner",
+    "text": "El linfedema neonatal de manos y pies (hinchazón) es característico de: [cite: 335]",
+    "hint": "Niña con manos y pies hinchados al nacer. [cite: 345]",
+    "options": [
+      {
+        "text": "A) Down.",
+        "isCorrect": false,
+        "explanation": "Tienen manos cortas pero no suelen presentar linfedema masivo con fóvea. [cite: 343]"
+      },
+      {
+        "text": "B) Turner.",
+        "isCorrect": true,
+        "explanation": "Ocurre por falla del sistema linfático fetal, desaparece en meses pero deja piel redundante en el cuello (cuello alado). [cite: 340, 341]"
+      },
+      {
+        "text": "C) Edwards.",
+        "isCorrect": false,
+        "explanation": "Presentan puños cerrados con dedos superpuestos en lugar de hinchazón. [cite: 344]"
+      },
+      {
+        "text": "D) Patau.",
+        "isCorrect": false,
+        "explanation": "No corresponde a su fenotipo típico de extremidades. [cite: 339]"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Forma del Cráneo en Edwards",
+    "text": "La dolicocéfalia (occipucio muy prominente) caracteriza al cráneo de: [cite: 346]",
+    "hint": "Edwards tiene cabeza larga, Down tiene cabeza plana. [cite: 356]",
+    "options": [
+      {
+        "text": "A) Down.",
+        "isCorrect": false,
+        "explanation": "Se caracteriza por braquicefalia (occipucio plano). [cite: 354]"
+      },
+      {
+        "text": "B) Edwards (T18).",
+        "isCorrect": true,
+        "explanation": "A diferencia del Down, el Edwards tiene el cráneo estirado hacia atrás de forma exagerada. [cite: 351, 352]"
+      },
+      {
+        "text": "C) Patau.",
+        "isCorrect": false,
+        "explanation": "Suele presentar microcefalia severa. [cite: 355]"
+      },
+      {
+        "text": "D) Turner.",
+        "isCorrect": false,
+        "explanation": "No presenta esta alteración craneal específica. [cite: 350]"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Polidactilia en Patau",
+    "text": "La polidactilia postaxial (dedo extra en el lado del meñique) orienta a: [cite: 357]",
+    "hint": "Patau suma dedos. [cite: 367]",
+    "options": [
+      {
+        "text": "A) Down.",
+        "isCorrect": false,
+        "explanation": "Característicamente presentan clinodactilia (meñique curvo), no dedos extra. [cite: 365]"
+      },
+      {
+        "text": "B) Patau (T13).",
+        "isCorrect": true,
+        "explanation": "Es el hallazgo clásico en extremidades del Patau junto a la polidactilia en los pies. [cite: 362, 363]"
+      },
+      {
+        "text": "C) Edwards.",
+        "isCorrect": false,
+        "explanation": "Tiene dedos encabalgados, no supernumerarios. [cite: 366]"
+      },
+      {
+        "text": "D) Turner.",
+        "isCorrect": false,
+        "explanation": "No asocia dedos extra; presentan uñas hiperconvexas. [cite: 361]"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Braquicefalia en Down",
+    "text": "La braquicefalia (cabeza plana en la región posterior) es el rasgo craneal del: [cite: 368]",
+    "hint": "Lo opuesto al Edwards. [cite: 377]",
+    "options": [
+      {
+        "text": "A) Edwards.",
+        "isCorrect": false,
+        "explanation": "Es dolicocéfalo (cráneo largo). [cite: 376]"
+      },
+      {
+        "text": "B) Down.",
+        "isCorrect": true,
+        "explanation": "Forma ancha y corta del cráneo, rasgo fenotípico universal del Síndrome de Down. [cite: 373, 374]"
+      },
+      {
+        "text": "C) Klinefelter.",
+        "isCorrect": false,
+        "explanation": "No asocia malformaciones de la forma craneal. [cite: 371]"
+      },
+      {
+        "text": "D) Patau.",
+        "isCorrect": false,
+        "explanation": "Suele tener microcefalia marcada. [cite: 372]"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Ginecomastia en Klinefelter",
+    "text": "La ginecomastia (crecimiento de mamas) ocurre en el 50% de los casos de: [cite: 378]",
+    "hint": "Pecho femenino en hombre. [cite: 387]",
+    "options": [
+      {
+        "text": "A) Down.",
+        "isCorrect": false,
+        "explanation": "No es una asociación fenotípica común descrita. [cite: 379]"
+      },
+      {
+        "text": "B) Klinefelter (47,XXY).",
+        "isCorrect": true,
+        "explanation": "Se produce por el desbalance entre el exceso de estrógenos y el déficit de testosterona propio del varón XXY. [cite: 383, 384]"
+      },
+      {
+        "text": "C) Turner.",
+        "isCorrect": false,
+        "explanation": "Al contrario, tienen mamas hipoplásicas o ausentes por falla ovárica primaria. [cite: 386]"
+      },
+      {
+        "text": "D) Edwards.",
+        "isCorrect": false,
+        "explanation": "No corresponde a sus hallazgos clínicos principales. [cite: 382]"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Pronóstico en Mosaicismo Turner",
+    "text": "El mosaicismo 45,X0 / 46,XX en una mujer Turner suele implicar: [cite: 388]",
+    "hint": "Menos error celular = mejor clínica. [cite: 399]",
+    "options": [
+      {
+        "text": "A) Que el cuadro clínico sea mucho más severo.",
+        "isCorrect": false,
+        "explanation": "El mosaicismo siempre es más leve que la monosomía pura. [cite: 396]"
+      },
+      {
+        "text": "B) Que el fenotipo sea más leve y pueda tener menstruación espontánea.",
+        "isCorrect": true,
+        "explanation": "La presencia de una línea celular normal atenúa los síntomas y mejora el pronóstico fértil inicial. [cite: 393, 394]"
+      },
+      {
+        "text": "C) Que el paciente sea genéticamente un varón sano.",
+        "isCorrect": false,
+        "explanation": "Eso solo ocurriría si hubiera presencia de un cromosoma Y. [cite: 397]"
+      },
+      {
+        "text": "D) Que el riesgo de Alzheimer sea el mismo que en Down.",
+        "isCorrect": false,
+        "explanation": "No existe relación biológica descrita entre Turner y Alzheimer. [cite: 398]"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Clinodactilia en Down",
+    "text": "La clinodactilia del 5to dedo (meñique torcido hacia adentro) es característica de: [cite: 400]",
+    "hint": "El dedo pequeño mira hacia el anular. [cite: 410]",
+    "options": [
+      {
+        "text": "A) Turner.",
+        "isCorrect": false,
+        "explanation": "Presentan el Signo de Archibald por acortamiento del 4to metacarpiano. [cite: 408]"
+      },
+      {
+        "text": "B) Down.",
+        "isCorrect": true,
+        "explanation": "Se debe a la hipoplasia de la falange media del meñique, un rasgo menor muy frecuente en la Trisomía 21. [cite: 405, 406]"
+      },
+      {
+        "text": "C) Klinefelter.",
+        "isCorrect": false,
+        "explanation": "Sus dedos suelen ser largos y proporcionalmente normales. [cite: 409]"
+      },
+      {
+        "text": "D) Patau.",
+        "isCorrect": false,
+        "explanation": "No es una característica definitoria de su fenotipo de extremidades. [cite: 404]"
+      }
+    ]
+  }
+]
