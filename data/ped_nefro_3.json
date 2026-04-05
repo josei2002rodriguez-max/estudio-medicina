@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Hipertensión Arterial Secundaria",
+    "text": "Durante un control de niño sano, se detecta hipertensión arterial sostenida en un escolar de 9 años. Al interrogar a la madre, refiere que el niño sufrió 'infecciones de riñón graves con fiebre' de bebé. ¿A qué se debe esta complicación cardiovascular?",
+    "hint": "Cicatriz = Isquemia focal = Activación hormonal.",
+    "options": [
+      {
+        "text": "A) Desarrollo de un Feocromocitoma idiopático.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un tumor secretor de adrenalina sin relación etiológica con las ITU previas."
+      },
+      {
+        "text": "B) Presencia de cicatrices renales previas que activaron el sistema renina-angiotensina focal.",
+        "isCorrect": true,
+        "explanation": "Correcto. La pielonefritis destruye tejido sano dejando cicatrices fibróticas isquémicas. Al recibir poca sangre, estas áreas estimulan la secreción crónica de renina, elevando la presión arterial sistémica."
+      },
+      {
+        "text": "C) Reflujo vesicoureteral que refluyó la presión directamente al corazón.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una explicación fisiológicamente imposible; el daño es hormonal por hipoperfusión renal, no por presión mecánica al corazón."
+      },
+      {
+        "text": "D) Falla hepática crónica secundaria a paracetamol en su infancia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No guarda relación con las secuelas de la infección urinaria."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Diagnóstico por Punción Suprapúbica",
+    "text": "¿Cuál es el recuento de colonias necesario para diagnosticar ITU mediante una Punción Suprapúbica (PSP) en un lactante?",
+    "hint": "Es la técnica más estéril disponible; no debería haber nada allí.",
+    "options": [
+      {
+        "text": "A) > 100.000 UFC/ml.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este valor es para muestras por chorro medio donde hay riesgo de contaminación."
+      },
+      {
+        "text": "B) Cualquier crecimiento de bacilos Gram negativos.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al extraer la orina directamente de la vejiga con aguja, cualquier crecimiento (incluso 1 colonia) confirma la infección, ya que la orina vesical es normalmente estéril."
+      },
+      {
+        "text": "C) > 10.000 UFC/ml.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este es el umbral para muestras por sondeo según algunas guías, pero en PSP el umbral es menor."
+      },
+      {
+        "text": "D) Solo si hay presencia de piuria asociada.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El diagnóstico de oro es el cultivo; la piuria puede faltar en fases muy precoces o en inmunosuprimidos."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Virulencia de E. coli",
+    "text": "¿Qué factor de virulencia de la Escherichia coli le permite ascender y causar daño en el parénquima renal?",
+    "hint": "Son como 'ganchos' que se anclan a receptores específicos del riñón.",
+    "options": [
+      {
+        "text": "A) La cápsula de polisacáridos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La cápsula ayuda a evadir la fagocitosis, pero no es el mecanismo de anclaje tisular."
+      },
+      {
+        "text": "B) Presencia de Fimbrias tipo P.",
+        "isCorrect": true,
+        "explanation": "Correcto. Las fimbrias P se unen a receptores glicolípicos en las células renales, permitiendo que la bacteria resista el flujo de la orina y colonice el riñón."
+      },
+      {
+        "text": "C) Producción de ureasa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La ureasa es característica del Proteus mirabilis, no típicamente de la E. coli uropatogénica."
+      },
+      {
+        "text": "D) Producción de gas carbónico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un mecanismo de patogenicidad relevante en la ITU pediátrica."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Profilaxis Antibiótica",
+    "text": "¿En cuál de los siguientes casos está indicada la profilaxis antibiótica prolongada?",
+    "hint": "Buscamos proteger riñones con malformaciones de alto riesgo.",
+    "options": [
+      {
+        "text": "A) Lactante con Reflujo Vesicoureteral Grado IV o V.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los grados altos de reflujo tienen un riesgo inaceptable de daño parenquimatoso ante nuevas infecciones, por lo que requieren dosis bajas de antibiótico diarias."
+      },
+      {
+        "text": "B) Primer episodio de cistitis en una niña escolar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No requiere más que el tratamiento agudo y medidas de higiene."
+      },
+      {
+        "text": "C) Presencia de bacteriuria asintomática.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No debe tratarse ni mucho menos recibir profilaxis prolongada."
+      },
+      {
+        "text": "D) Antecedente de fimosis resuelta por circuncisión.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La resolución quirúrgica elimina el factor de riesgo, cesando la necesidad de antibióticos."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Diagnóstico Diferencial: Vulvovaginitis",
+    "text": "Niña de 3 años con prurito genital, eritema vulvar y dolor al orinar (al final de la micción). Urocultivo negativo. ¿Cuál es el diagnóstico más probable?",
+    "hint": "La disuria es 'externa' por irritación cutánea.",
+    "options": [
+      {
+        "text": "A) Pielonefritis aguda.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Daría fiebre alta y el urocultivo sería francamente positivo."
+      },
+      {
+        "text": "B) Vulvovaginitis inespecífica o irritativa.",
+        "isCorrect": true,
+        "explanation": "Correcto. La inflamación de la piel vulvar causa dolor cuando la orina (ácida) entra en contacto con la piel herida, simulando una ITU."
+      },
+      {
+        "text": "C) Diabetes Mellitus Tipo 1.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presentaría poliuria y polidipsia, no necesariamente inflamación vulvar aislada."
+      },
+      {
+        "text": "D) Litiasis renal bilateral.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El síntoma principal sería el dolor cólico o hematuria, no prurito vulvar."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Estudio por Imágenes post-ITU",
+    "text": "¿Qué estudio de medicina nuclear es el estándar de oro para detectar cicatrices renales permanentes?",
+    "hint": "Se debe realizar 6 meses después de la infección aguda.",
+    "options": [
+      {
+        "text": "A) Cintigrama Renal con DMSA.",
+        "isCorrect": true,
+        "explanation": "Correcto. El DMSA se fija en las células tubulares funcionantes; las zonas de cicatriz no captan el radiofármaco, permitiendo cuantificar el daño renal crónico."
+      },
+      {
+        "text": "B) Cintigrama Renal con MAG-3.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El MAG-3 se usa para evaluar la función excretora y descartar obstrucciones (hidronefrosis), no para ver cicatrices."
+      },
+      {
+        "text": "C) Uretrocistografía miccional.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un examen radiológico con contraste para ver reflujo, no parénquima renal."
+      },
+      {
+        "text": "D) Tomografía Computada con contraste.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque puede ver daño, no es el examen de elección inicial por la alta carga de radiación comparado con el DMSA."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Sepsis de Origen Urinario",
+    "text": "¿En qué grupo etario es MANDATORIO solicitar hemocultivos ante la sospecha de ITU febril?",
+    "hint": "En los más pequeños, las bacterias pasan del riñón a la sangre con mucha facilidad.",
+    "options": [
+      {
+        "text": "A) Escolares mayores de 10 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En niños sanos mayores el riesgo de bacteriemia es muy bajo."
+      },
+      {
+        "text": "B) Lactantes menores de 2 a 3 meses.",
+        "isCorrect": true,
+        "explanation": "Correcto. Debido a la inmadurez de las barreras y del sistema inmune, hasta un 10-15% de las ITU en neonatos y lactantes pequeños asocian bacteriemia/sepsis."
+      },
+      {
+        "text": "C) Niñas con cistitis recurrente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La cistitis es una infección superficial que rara vez causa siembra hemática."
+      },
+      {
+        "text": "D) Adolescentes con vida sexual activa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque tienen riesgo de ITU, no es criterio de hemocultivo sistemático si están estables."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Medidas de Higiene en Niñas",
+    "text": "¿Cuál es la recomendación de higiene más importante para prevenir la colonización uretral por bacterias fecales en niñas?",
+    "hint": "Todo depende de la dirección en la que se arrastra el papel.",
+    "options": [
+      {
+        "text": "A) Lavado con jabón antiséptico tres veces al día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Altera la flora normal (Lactobacillus) y facilita que crezcan uropatógenos."
+      },
+      {
+        "text": "B) Limpieza genital de adelante hacia atrás tras defecar.",
+        "isCorrect": true,
+        "explanation": "Correcto. Evita que las bacterias de la zona perianal sean arrastradas mecánicamente hacia el meato urinario."
+      },
+      {
+        "text": "C) Uso de toallitas húmedas con perfume.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los químicos y perfumes irritan la uretra y predisponen a inflamación."
+      },
+      {
+        "text": "D) Limpieza de atrás hacia adelante.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el error más común que gatilla infecciones urinarias por arrastre de E. coli."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Antibióticos y Función Renal",
+    "text": "¿Cuál es el principal riesgo de utilizar Aminoglicósidos (ej. Amikacina) en un paciente pediátrico deshidratado con Pielonefritis?",
+    "hint": "El fármaco se concentra masivamente en el túbulo renal.",
+    "options": [
+      {
+        "text": "A) Ototoxicidad irreversible.",
+        "isCorrect": false,
+        "explanation": "Es un riesgo real de los aminoglicósidos, pero en fase aguda deshidratada el riesgo renal es prioritario."
+      },
+      {
+        "text": "B) Nefrotoxicidad (Insuficiencia Renal Aguda).",
+        "isCorrect": true,
+        "explanation": "Correcto. Al haber poca volemia, el fármaco alcanza concentraciones tóxicas en las células del túbulo renal, pudiendo causar falla renal aguda aguda."
+      },
+      {
+        "text": "C) Manchas permanentes en el esmalte dental.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto es típico de las tetraciclinas, no de aminoglicósidos."
+      },
+      {
+        "text": "D) Diarrea por Clostridioides difficile.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es menos frecuente con aminoglicósidos que con otros antibióticos de amplio espectro oral."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Válvulas de Uretra Posterior (VUP)",
+    "text": "Un recién nacido varón presenta hidronefrosis bilateral masiva en la ecografía prenatal y una vejiga muy distendida y palpable al nacer. ¿Sospecha diagnóstica?",
+    "hint": "Es la causa más frecuente de obstrucción urinaria baja grave en varones.",
+    "options": [
+      {
+        "text": "A) Reflujo Vesicoureteral bilateral grado V.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque dilata los riñones, no explicaría una vejiga tensa y difícil de vaciar."
+      },
+      {
+        "text": "B) Válvulas de Uretra Posterior (VUP).",
+        "isCorrect": true,
+        "explanation": "Correcto. Son membranas en la uretra que impiden la salida de orina; la presión daña la vejiga y los riñones de forma irreversible si no se trata."
+      },
+      {
+        "text": "C) Estenosis de la unión ureteropélvica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La obstrucción es alta (arriba), por lo que la vejiga estaría normal."
+      },
+      {
+        "text": "D) Riñón Multiquístico bilateral.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No explicaría la distensión vesical ni la hidronefrosis secundaria a presión."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Antibióticos en Cistitis",
+    "text": "¿Por qué la Nitrofurantoína NO debe utilizarse en casos sospechosos de Pielonefritis Aguda?",
+    "hint": "El fármaco solo llega a niveles altos en el 'agua' de la orina, no en el tejido.",
+    "options": [
+      {
+        "text": "A) Porque causa mucha náusea en niños.",
+        "isCorrect": false,
+        "explanation": "Es un efecto adverso, pero no la razón médica para evitarla en PNA."
+      },
+      {
+        "text": "B) Porque tiene nula penetración en el parénquima renal.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se concentra excelente en la vejiga (orina), pero no alcanza niveles terapéuticos en la sangre ni en el tejido del riñón, dejando la infección profunda sin tratamiento."
+      },
+      {
+        "text": "C) Porque es inactiva contra E. coli.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es muy efectiva contra E. coli, pero solo a nivel vesical."
+      },
+      {
+        "text": "D) Porque está contraindicada en pacientes con fiebre.",
+        "isCorrect": false,
+        "explanation": "No es una contraindicación absoluta, sino que la fiebre sugiere compromiso renal donde el fármaco no actúa."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Factores de Riesgo: Estreñimiento",
+    "text": "¿Cuál es el mecanismo por el cual el estreñimiento crónico favorece las ITU en niños?",
+    "hint": "Efecto de vecindad: el recto lleno presiona a la vejiga.",
+    "options": [
+      {
+        "text": "A) Las heces duras tienen bacterias más agresivas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La agresividad bacteriana no cambia por la consistencia de las heces."
+      },
+      {
+        "text": "B) El recto distendido comprime mecánicamente la vejiga, impidiendo su vaciamiento completo.",
+        "isCorrect": true,
+        "explanation": "Correcto. El residuo de orina que queda tras la micción actúa como caldo de cultivo para que las bacterias se multipliquen."
+      },
+      {
+        "text": "C) El estreñimiento causa fiebre que baja las defensas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No existe tal mecanismo fisiopatológico."
+      },
+      {
+        "text": "D) La falta de fibra en la dieta debilita el urotelio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay evidencia de que la fibra fortalezca directamente las paredes de la vejiga."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Bacteriuria de Acecho: Falsos Positivos",
+    "text": "Un urocultivo por chorro medio informa crecimiento de 3 bacterias distintas (E. coli, Klebsiella y Enterococo), todas >100.000 UFC. ¿Cómo interpreta este resultado?",
+    "hint": "En una infección real, generalmente manda un solo germen.",
+    "options": [
+      {
+        "text": "A) Infección urinaria grave polimicrobiana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las ITU polimicrobianas son extremadamente raras en niños sin catéteres permanentes."
+      },
+      {
+        "text": "B) Muestra contaminada por técnica de recolección deficiente.",
+        "isCorrect": true,
+        "explanation": "Correcto. El crecimiento de múltiples géneros bacterianos indica que la muestra arrastró flora de la piel y el periné; debe repetirse con mejor técnica."
+      },
+      {
+        "text": "C) Debe tratar con tres antibióticos de amplio espectro.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sería un error terapéutico grave basándose en un examen contaminado."
+      },
+      {
+        "text": "D) El laboratorio cometió un error de anotación.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un hallazgo común cuando la toma de muestra es incorrecta, no un error del proceso de laboratorio."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Sonda Vesical: Recuento Diagnóstico",
+    "text": "¿Cuál es el punto de corte (UFC/ml) para diagnosticar ITU en una muestra obtenida por sondeo vesical transuretral?",
+    "hint": "Se requiere menos cantidad que en la orina espontánea pero más que en la punción suprapúbica.",
+    "options": [
+      {
+        "text": "A) > 10.000 UFC/ml.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Valor clásico en desuso; las guías actuales prefieren un umbral un poco mayor para mayor certeza."
+      },
+      {
+        "text": "B) > 50.000 UFC/ml.",
+        "isCorrect": true,
+        "explanation": "Correcto. Según las normativas actuales (ej. AAP), el crecimiento de >50.000 colonias de un único uropatógeno en orina por sonda confirma la ITU."
+      },
+      {
+        "text": "C) > 100.000 UFC/ml.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este valor se reserva para muestras de micción espontánea (acecho)."
+      },
+      {
+        "text": "D) Cualquier crecimiento es positivo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo en la punción suprapúbica se acepta cualquier crecimiento como diagnóstico absoluto."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Diagnóstico Diferencial: Piuria Estéril",
+    "text": "Niño presenta leucocitos abundantes en orina pero urocultivos repetidamente negativos. Esto se conoce como 'Piuria Estéril'. ¿Qué causa debe descartarse?",
+    "hint": "Piense en microorganismos que no crecen en medios comunes o inflamación no bacteriana.",
+    "options": [
+      {
+        "text": "A) Tuberculosis Renal o infección por Adenovirus.",
+        "isCorrect": true,
+        "explanation": "Correcto. El bacilo de Koch y ciertos virus irritan la vía urinaria causando piuria, pero no crecen en los cultivos bacterianos estándar de 48-72 horas."
+      },
+      {
+        "text": "B) Consumo excesivo de vitamina C.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La vitamina C puede dar falsos negativos en la tira reactiva para glucosa/sangre, pero no causa piuria estéril."
+      },
+      {
+        "text": "C) Ingesta insuficiente de agua.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La deshidratación concentra la orina pero no atrae glóbulos blancos por sí sola."
+      },
+      {
+        "text": "D) Alergia al látex del pañal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una causa reconocida de piuria interna."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Complicaciones: Absceso Renal",
+    "text": "Paciente con Pielonefritis Aguda persiste febril tras 72 horas de antibiótico intravenoso adecuado según sensibilidad. ¿Cuál es el siguiente paso?",
+    "hint": "Hay algo oculto que el antibiótico no está logrando limpiar.",
+    "options": [
+      {
+        "text": "A) Cambiar el antibiótico a uno de mayor espectro inmediatamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Si el germen es sensible, el problema no es el fármaco, sino una complicación anatómica."
+      },
+      {
+        "text": "B) Solicitar Ecografía o TC Renal para descartar absceso renal o perirrenal.",
+        "isCorrect": true,
+        "explanation": "Correcto. Las colecciones de pus (abscesos) o malformaciones obstructivas no diagnosticadas impiden la resolución de la fiebre a pesar del antibiótico."
+      },
+      {
+        "text": "C) Duplicar la dosis de paracetamol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo enmascara el síntoma sin resolver la causa del fracaso terapéutico."
+      },
+      {
+        "text": "D) Dar el alta para manejo domiciliario.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La persistencia de fiebre en hospitalizados es un signo de alarma grave."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Tratamiento Secuencial (Switch)",
+    "text": "¿Cuándo es seguro realizar el paso de antibiótico parenteral (EV) a la vía oral en un niño hospitalizado por Pielonefritis?",
+    "hint": "Se requiere estabilidad clínica y tolerancia gástrica.",
+    "options": [
+      {
+        "text": "A) En cuanto se recibe el informe del urocultivo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El informe puede llegar mientras el paciente aún está febril o inestable."
+      },
+      {
+        "text": "B) Tras 48-72 horas de tratamiento, si el paciente lleva 24 horas afebril y tolera la vía oral.",
+        "isCorrect": true,
+        "explanation": "Correcto. El éxito clínico inicial permite completar el curso de tratamiento (7-14 días totales) de forma ambulatoria con seguridad."
+      },
+      {
+        "text": "C) Al cumplirse exactamente el séptimo día de inyecciones.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay necesidad de prolongar la vía EV si el niño está estable antes."
+      },
+      {
+        "text": "D) Solo si la PCR bajó a menos de 5 mg/L.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La PCR puede tardar días en normalizarse; la clínica del paciente es el mejor indicador."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Inmunología y Daño Renal",
+    "text": "¿Por qué el riñón del lactante es más susceptible a cicatrices permanentes tras una ITU febril que el del adulto?",
+    "hint": "Es un tejido en fase de rápido crecimiento y diferenciación.",
+    "options": [
+      {
+        "text": "A) Porque los lactantes tienen riñones más pequeños.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El tamaño absoluto no define la susceptibilidad al daño."
+      },
+      {
+        "text": "B) Por la inmadurez del parénquima y una respuesta inflamatoria local más desorganizada.",
+        "isCorrect": true,
+        "explanation": "Correcto. El tejido renal en desarrollo responde a la infección con una fibrosis rápida que sustituye a las nefronas funcionales, dejando secuelas permanentes."
+      },
+      {
+        "text": "C) Porque los lactantes no fabrican anticuerpos contra E. coli.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sí fabrican anticuerpos, pero el daño ocurre por la respuesta inflamatoria innata local (neutrófilos/citoquinas)."
+      },
+      {
+        "text": "D) Porque la orina del lactante es más ácida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un factor determinante en la formación de cicatrices."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Hidratación en la Fase Aguda",
+    "text": "¿Cuál es el objetivo primordial de forzar la ingesta de líquidos durante un episodio de ITU?",
+    "hint": "Se busca un efecto físico de barrido.",
+    "options": [
+      {
+        "text": "A) Para que el antibiótico no dañe los túbulos renales.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ayuda en fármacos nefrotóxicos, pero no es el fin principal en el manejo de la infección misma."
+      },
+      {
+        "text": "B) Favorecer el arrastre mecánico de las bacterias y reducir la densidad bacteriana vesical.",
+        "isCorrect": true,
+        "explanation": "Correcto. El flujo urinario constante dificulta que las bacterias se adhieran y asciendan, apoyando el efecto bactericida del antibiótico."
+      },
+      {
+        "text": "C) Para evitar que el niño pierda peso por la fiebre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La hidratación maneja la volemia, no el balance calórico."
+      },
+      {
+        "text": "D) Para que la orina no tenga olor fuerte.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El olor es una consecuencia, no el objetivo terapéutico médico."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Errores en la Toma de Muestra",
+    "text": "Una madre trae una muestra de orina en bolsa perineal recolectada hace 4 horas que estuvo a temperatura ambiente. El cultivo informa >1.000.000 UFC de E. coli. ¿Conducta?",
+    "hint": "Calor + Tiempo + Bolsa = Caldo de cultivo de bacterias de la piel.",
+    "options": [
+      {
+        "text": "A) Confirmar el diagnóstico e iniciar antibióticos intravenosos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sometería al niño a un tratamiento innecesario por un examen con altísima probabilidad de falso positivo."
+      },
+      {
+        "text": "B) Iniciar tratamiento por 'bacteriuria asintomática'.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En niños no se trata la bacteriuria asintomática y la muestra es de mala calidad."
+      },
+      {
+        "text": "C) Invalidar el resultado y repetir la muestra mediante un método estéril (sondeo o PSP).",
+        "isCorrect": true,
+        "explanation": "Correcto. La muestra estuvo demasiado tiempo al calor y en un método no estéril, lo que permitió que las bacterias de la piel se multiplicaran in-vitro. No es confiable."
+      },
+      {
+        "text": "D) Pedir un urocultivo de control en 1 mes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Si hay sospecha clínica, el diagnóstico debe ser ahora, pero con una técnica correcta."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Anatomía: Duplicidad Ureteral",
+    "text": "¿Qué anomalía se asocia característicamente al polo SUPERIOR de un riñón con duplicidad ureteral completa?",
+    "hint": "El polo superior suele tener problemas para 'desaguar'.",
+    "options": [
+      {
+        "text": "A) Reflujo Vesicoureteral masivo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Según la Ley de Weigert-Meyer, el reflujo es típico del polo INFERIOR."
+      },
+      {
+        "text": "B) Ureterocele y obstrucción.",
+        "isCorrect": true,
+        "explanation": "Correcto. El uréter del polo superior drena más abajo y medial en la vejiga (o ectópico), asociándose frecuentemente a dilatación quística del uréter distal (ureterocele) y obstrucción."
+      },
+      {
+        "text": "C) Estenosis de la arteria renal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No existe una asociación anatómica directa con la duplicidad ureteral."
+      },
+      {
+        "text": "D) Agenesia suprarrenal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene relación con la formación de los sistemas colectores."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Medidas de Prevención: Fimosis",
+    "text": "¿Por qué la circuncisión se considera una medida preventiva eficaz en lactantes varones con ITU recurrentes?",
+    "hint": "Elimina el 'escondite' de las bacterias cerca de la uretra.",
+    "options": [
+      {
+        "text": "A) Porque el prepucio fabrica toxinas uropatogénicas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El prepucio no fabrica toxinas, es solo un reservorio mecánico."
+      },
+      {
+        "text": "B) Porque elimina el saco prepucial, reduciendo la carga bacteriana de E. coli en el meato.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al retirar el prepucio, el área se mantiene más seca y limpia, dificultando que las bacterias asciendan hacia la vejiga."
+      },
+      {
+        "text": "C) Porque aumenta la longitud de la uretra.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La longitud uretral no cambia con la circuncisión."
+      },
+      {
+        "text": "D) Porque hace que el niño orine con más fuerza.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La presión miccional depende del músculo detrusor de la vejiga."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Antibióticos y Antibiograma",
+    "text": "Lactante con PNA por E. coli sensible a Amikacina pero resistente a Amoxicilina/Clavulánico. ¿Cuál es la conducta terapéutica correcta?",
+    "hint": "Siga la guía de sensibilidad del laboratorio para asegurar la curación.",
+    "options": [
+      {
+        "text": "A) Mantener Amoxicilina/Clavulánico para no usar inyectables.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Llevaría al fracaso del tratamiento y riesgo de daño renal por persistencia bacteriana."
+      },
+      {
+        "text": "B) Utilizar el antibiótico al que la bacteria es sensible (Amikacina) por el tiempo estipulado.",
+        "isCorrect": true,
+        "explanation": "Correcto. El antibiograma manda sobre la terapia empírica inicial; se debe usar un fármaco con sensibilidad probada."
+      },
+      {
+        "text": "C) Dar el alta sin tratamiento porque E. coli es parte de la flora normal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La E. coli es normal en el intestino, pero patológica y destructiva en el riñón."
+      },
+      {
+        "text": "D) Usar Vancomicina para cubrir posibles resistencias cruzadas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La vancomicina no tiene actividad contra bacterias Gram negativas como E. coli."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Interpretación: Nitritos Negativos",
+    "text": "¿Cuál es la causa más probable de encontrar Nitritos negativos en una tira reactiva de un lactante con ITU confirmada por urocultivo?",
+    "hint": "Las bacterias necesitan tiempo para 'cocinar' el nitrito en la vejiga.",
+    "options": [
+      {
+        "text": "A) La bacteria no es Gram negativa.",
+        "isCorrect": false,
+        "explanation": "Es posible (ej. Enterococo), pero en lactantes la causa más común de nitritos falsos negativos es el tiempo."
+      },
+      {
+        "text": "B) Vaciamiento vesical frecuente (menor a 4 horas de permanencia de la orina).",
+        "isCorrect": true,
+        "explanation": "Correcto. Los lactantes orinan muy seguido; las bacterias no alcanzan a reducir los nitratos a nitritos, proceso que requiere permanencia prolongada de la orina en la vejiga."
+      },
+      {
+        "text": "C) El niño está tomando mucha agua.",
+        "isCorrect": false,
+        "explanation": "La dilución puede influir, pero el tiempo de incubación vesical es el factor crítico."
+      },
+      {
+        "text": "D) Los nitritos solo aparecen en adultos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Pueden aparecer a cualquier edad si se cumplen las condiciones bioquímicas."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Vejiga Neurogénica: Estigmas Cutáneos",
+    "text": "¿Qué hallazgo en el examen físico de la espalda de un niño con ITU recurrentes obliga a descartar una malformación espinal?",
+    "hint": "Busque signos de que el tubo neural no cerró perfectamente.",
+    "options": [
+      {
+        "text": "A) Escoliosis leve.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una alteración postural que no suele asociar vejiga neurogénica por sí sola."
+      },
+      {
+        "text": "B) Fosita sacra profunda, mechón de pelo o hemangioma en línea media lumbosacra.",
+        "isCorrect": true,
+        "explanation": "Correcto. Son marcadores cutáneos de disrafismo espinal oculto, lo que puede significar una médula anclada que altera los nervios de la vejiga."
+      },
+      {
+        "text": "C) Manchas de café con leche.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugieren neurofibromatosis, no malformaciones del tubo neural que afecten la micción."
+      },
+      {
+        "text": "D) Puntos rubí en el tronco.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son hallazgos dermatológicos benignos sin relevancia nefrourológica."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Indicaciones de Ecografía de Urgencia",
+    "text": "¿Cuándo se debe realizar una Ecografía Renal de forma URGENTE (dentro de las primeras 24h) en una ITU?",
+    "hint": "Cuando el niño se ve muy mal o no mejora con medicina.",
+    "options": [
+      {
+        "text": "A) En todas las niñas con su primer episodio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se puede programar de forma electiva si la respuesta inicial es buena."
+      },
+      {
+        "text": "B) Paciente con aspecto tóxico, shock séptico o masa abdominal palpable.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se requiere descartar de inmediato abscesos, pionefrosis u obstrucciones masivas que exijan drenaje quirúrgico."
+      },
+      {
+        "text": "C) Solo si los padres están muy angustiados.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las indicaciones deben ser clínicas y basadas en la seguridad del paciente."
+      },
+      {
+        "text": "D) Si el niño tiene menos de 15 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un rango de edad demasiado amplio para definir una urgencia de imagen."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Uso de Cefalosporinas de 3ra Generación",
+    "text": "¿Cuál es la ventaja de la Ceftriaxona en el manejo de la Pielonefritis hospitalizada?",
+    "hint": "Permite un manejo más cómodo para el paciente.",
+    "options": [
+      {
+        "text": "A) Que es el único antibiótico que mata a E. coli.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Muchos otros antibióticos (como los aminoglicósidos) también son efectivos."
+      },
+      {
+        "text": "B) Su vida media larga que permite una sola administración al día.",
+        "isCorrect": true,
+        "explanation": "Correcto. Esto facilita el manejo de enfermería y disminuye el número de punciones o manipulaciones de la vía venosa en el niño."
+      },
+      {
+        "text": "C) Que no tiene efectos secundarios.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Como todo fármaco, tiene efectos adversos (ej. barro biliar o riesgo de kernicterus en neonatos)."
+      },
+      {
+        "text": "D) Que tiene sabor a frutilla.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se administra por vía inyectable, no tiene sabor relevante."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Reflujo: Grado I vs Grado V",
+    "text": "¿Cuál es la diferencia fundamental en el manejo de un RVU Grado I versus un Grado V?",
+    "hint": "Piense en la probabilidad de curación espontánea.",
+    "options": [
+      {
+        "text": "A) El Grado I se opera de inmediato.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El grado I casi siempre cura solo con el tiempo y no requiere cirugía."
+      },
+      {
+        "text": "B) El Grado I suele manejarse con observación; el Grado V suele requerir cirugía o profilaxis estricta.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los grados bajos tienen alta tasa de resolución espontánea; los grados altos dañan el riñón rápidamente y exigen medidas agresivas."
+      },
+      {
+        "text": "C) El Grado V no necesita antibióticos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el que más los necesita para prevenir nuevas cicatrices."
+      },
+      {
+        "text": "D) No hay diferencia, ambos se tratan igual.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La clasificación de grados existe precisamente para guiar manejos distintos según el riesgo."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Higiene y Pañales",
+    "text": "¿Qué recomendación respecto al cambio de pañales ayuda a prevenir la ITU en lactantes?",
+    "hint": "Menos tiempo de contacto con las heces es mejor.",
+    "options": [
+      {
+        "text": "A) Cambiar el pañal solo cuando esté muy pesado.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aumenta el tiempo de exposición de la uretra a las bacterias fecales."
+      },
+      {
+        "text": "B) Realizar cambios frecuentes de pañal, especialmente tras la defecación.",
+        "isCorrect": true,
+        "explanation": "Correcto. Minimiza la carga de E. coli que puede migrar desde las heces hacia el tracto urinario."
+      },
+      {
+        "text": "C) No usar pañales desechables.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los pañales desechables modernos son muy efectivos para mantener la piel seca si se cambian a tiempo."
+      },
+      {
+        "text": "D) Aplicar talco dentro de la uretra.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una medida peligrosa que causa inflamación y obstrucción."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Hematuria y ITU",
+    "text": "La presencia de hematuria (sangre en la orina) durante un episodio de cistitis en un niño indica:",
+    "hint": "La inflamación rompe pequeños capilares de la pared vesical.",
+    "options": [
+      {
+        "text": "A) Cáncer de vejiga inminente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El cáncer de vejiga es extremadamente raro en la infancia."
+      },
+      {
+        "text": "B) Es un hallazgo común por la inflamación intensa de la mucosa vesical (cistitis hemorrágica).",
+        "isCorrect": true,
+        "explanation": "Correcto. No implica necesariamente mayor gravedad ni compromiso renal; es una consecuencia del daño superficial inflamatorio."
+      },
+      {
+        "text": "C) Que el niño tiene cálculos gigantes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque los cálculos dan hematuria, la cistitis infecciosa es una causa mucho más frecuente en pediatría."
+      },
+      {
+        "text": "D) Que el antibiótico no está funcionando.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La hematuria puede persistir unos días incluso tras iniciar un tratamiento efectivo."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Cistografía Isotópica",
+    "text": "¿Cuál es la ventaja de la Cistografía Isotópica comparada con la Uretrocistografía convencional?",
+    "hint": "Buscamos proteger al niño de los rayos.",
+    "options": [
+      {
+        "text": "A) Que ve mejor la anatomía de la uretra.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La convencional ve mucho mejor los detalles anatómicos y la uretra."
+      },
+      {
+        "text": "B) Que utiliza una dosis de radiación significativamente menor.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es ideal para el seguimiento de niños que ya tienen diagnóstico de reflujo y necesitan controles repetidos para ver si desapareció."
+      },
+      {
+        "text": "C) Que no requiere sonda vesical.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ambas requieren la colocación de una sonda para llenar la vejiga con el trazador o contraste."
+      },
+      {
+        "text": "D) Que se puede hacer en el hogar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Requiere equipamiento de medicina nuclear y personal especializado."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "ITU en el Neonato: Etiología",
+    "text": "¿Qué germen Gram positivo es especialmente relevante en la ITU del recién nacido?",
+    "hint": "Es un coco que vive en el intestino y puede colonizar el canal del parto.",
+    "options": [
+      {
+        "text": "A) Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es raro como causa de ITU primaria en neonatos sanos."
+      },
+      {
+        "text": "B) Enterococcus faecalis.",
+        "isCorrect": true,
+        "explanation": "Correcto. Junto con los Gram negativos, los Enterococos tienen una prevalencia aumentada en el periodo neonatal y lactancia pequeña."
+      },
+      {
+        "text": "C) Streptococcus pyogenes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa faringitis o infecciones de piel, no ITU pediátrica habitualmente."
+      },
+      {
+        "text": "D) Bacillus anthracis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un agente de bioterrorismo/zoonosis sin relación con la pediatría común."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Sedimento: Cilindros Leucocitarios",
+    "text": "La presencia de 'Cilindros Leucocitarios' en el examen de orina sugiere fuertemente:",
+    "hint": "Los cilindros se moldean dentro de los túbulos del riñón.",
+    "options": [
+      {
+        "text": "A) Cistitis simple.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En la cistitis hay leucocitos sueltos, pero no cilindros ya que la infección es baja."
+      },
+      {
+        "text": "B) Compromiso del parénquima renal (Pielonefritis).",
+        "isCorrect": true,
+        "explanation": "Correcto. Indica que la inflamación está ocurriendo dentro del riñón, donde los leucocitos se agrupan tomando la forma de los túbulos."
+      },
+      {
+        "text": "C) Deshidratación severa sin infección.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La deshidratación puede dar cilindros hialinos, pero no leucocitarios."
+      },
+      {
+        "text": "D) Ingesta excesiva de calcio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Daría cristales, no cilindros de glóbulos blancos."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Profilaxis: Dosis",
+    "text": "¿Cómo es la dosis de antibiótico utilizada para profilaxis comparada con la dosis de tratamiento?",
+    "hint": "Se busca frenar el crecimiento bacteriano, no esterilizar un tejido infectado masivamente.",
+    "options": [
+      {
+        "text": "A) Es el doble de la dosis de tratamiento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sería tóxico y fomentaría resistencias rápidamente."
+      },
+      {
+        "text": "B) Es aproximadamente un tercio o un cuarto (1/3 - 1/4) de la dosis terapéutica normal.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se busca mantener una concentración mínima inhibitoria en la orina de forma constante, usualmente administrada en una sola dosis nocturna."
+      },
+      {
+        "text": "C) Es exactamente la misma dosis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se requiere tanta potencia para prevención."
+      },
+      {
+        "text": "D) Se da solo los fines de semana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La profilaxis efectiva debe ser diaria para evitar ventanas de colonización."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Estudio en el Varón: Timing",
+    "text": "¿Cuál es la recomendación de estudio tras el PRIMER episodio de ITU febril en un niño varón de 6 meses?",
+    "hint": "En varones no se espera al segundo episodio.",
+    "options": [
+      {
+        "text": "A) No realizar ningún estudio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una conducta negligente dado el alto riesgo de malformaciones en varones con ITU."
+      },
+      {
+        "text": "B) Realizar Ecografía renal y vesical, y considerar Uretrocistografía (UCG).",
+        "isCorrect": true,
+        "explanation": "Correcto. Por la alta frecuencia de anomalías anatómicas (ej. VUP) en varones, el estudio debe iniciarse desde el primer evento confirmado."
+      },
+      {
+        "text": "C) Esperar a que cumpla 2 años para estudiar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Para entonces el daño renal por nuevas infecciones podría ser irreversible."
+      },
+      {
+        "text": "D) Solo pedir exámenes de sangre de control.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No permiten evaluar la anatomía de la vía urinaria."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Tratamiento: Duración en Cistitis",
+    "text": "¿Cuál es la duración recomendada del tratamiento antibiótico para una cistitis aguda en una niña escolar?",
+    "hint": "Son cursos cortos de pocos días.",
+    "options": [
+      {
+        "text": "A) 1 día (dosis única).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En pediatría las dosis únicas tienen mayor tasa de falla que en adultos."
+      },
+      {
+        "text": "B) 3 a 5 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es suficiente para eliminar la infección superficial de la vejiga y tiene menos efectos adversos que los cursos largos."
+      },
+      {
+        "text": "C) 14 días.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es excesivo para una infección baja no complicada."
+      },
+      {
+        "text": "D) 1 mes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Duración injustificada para una cistitis."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Sonda Vesical: Complicaciones",
+    "text": "¿Cuál es el principal riesgo de realizar un sondeo vesical para toma de muestra en un niño con vulvovaginitis o balanitis activa?",
+    "hint": "Podemos 'empujar' el problema hacia adentro.",
+    "options": [
+      {
+        "text": "A) Que el niño llore mucho.",
+        "isCorrect": false,
+        "explanation": "Es una consecuencia, pero no el riesgo médico principal."
+      },
+      {
+        "text": "B) Introducir bacterias de la zona infectada externa hacia la vejiga, causando una ITU iatrogénica.",
+        "isCorrect": true,
+        "explanation": "Correcto. Ante infecciones externas activas, se debe extremar la asepsia o preferir otros métodos si es posible para evitar contaminar un órgano sano."
+      },
+      {
+        "text": "C) Que la sonda se rompa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las sondas pediátricas son muy resistentes y seguras."
+      },
+      {
+        "text": "D) Que el niño deje de orinar por miedo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un fenómeno psicogénico raro y transitorio, no un riesgo médico mayor."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Reflujo y Cicatrices",
+    "text": "¿Por qué el Reflujo Vesicoureteral (RVU) facilita la formación de cicatrices renales?",
+    "hint": "La orina infectada llega a presión a un lugar donde no debería estar.",
+    "options": [
+      {
+        "text": "A) Porque la orina tiene ácidos que queman el riñón.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La orina es ácida pero el riñón está diseñado para manejarla; el problema es la infección."
+      },
+      {
+        "text": "B) Facilita el ascenso de bacterias infectadas desde la vejiga hacia el parénquima renal bajo presión.",
+        "isCorrect": true,
+        "explanation": "Correcto. La presión del reflujo 'inyecta' bacterias en los túbulos renales, gatillando una respuesta inflamatoria destructiva."
+      },
+      {
+        "text": "C) Porque el reflujo quita el hambre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sin relación con el mecanismo de daño tisular."
+      },
+      {
+        "text": "D) El reflujo no tiene relación con las cicatrices.",
+        "isCorrect": false,
+        "explanation": "Falso; es uno de los principales factores de riesgo conocidos de nefropatía por reflujo."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Disfunción de Eliminación",
+    "text": "¿Qué conjunto de síntomas define a la 'Disfunción de Eliminación' en niños?",
+    "hint": "Problemas de 'entrada y salida' tanto en vejiga como en intestino.",
+    "options": [
+      {
+        "text": "A) Tos y mocos constantes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Corresponde a patología respiratoria."
+      },
+      {
+        "text": "B) Combinación de estreñimiento, enuresis, urgencia miccional e ITU recurrentes.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un trastorno funcional muy común donde los malos hábitos intestinales y miccionales se potencian, perpetuando las infecciones urinarias."
+      },
+      {
+        "text": "C) Miopía y dolor de cabeza.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sin relación con el sistema excretor."
+      },
+      {
+        "text": "D) Solo tener muchas ganas de orinar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un síntoma aislado (urgencia), no el síndrome completo."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Nefrourología",
+    "topic": "Muestra de Bolsa: Valor Predictivo",
+    "text": "¿Cuál es la principal utilidad de una muestra de orina recolectada por bolsa perineal?",
+    "hint": "Solo sirve si sale 'limpia'.",
+    "options": [
+      {
+        "text": "A) Confirmar una ITU grave.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Por su alta tasa de contaminación, no sirve para confirmación certera."
+      },
+      {
+        "text": "B) Descartar una ITU si el resultado del sedimento y cultivo son negativos.",
+        "isCorrect": true,
+        "explanation": "Correcto. Tiene un alto valor predictivo negativo: si sale limpia, es muy probable que el niño no tenga nada. Si sale alterada, hay que repetir por sondeo."
+      },
+      {
+        "text": "C) Diagnosticar malformaciones renales.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La orina solo ve infección/inflamación, no forma anatómica."
+      },
+      {
+        "text": "D) Ver el color de la orina únicamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque permite verlo, su fin clínico es el tamizaje de infección."
+      }
+    ]
+  }
+]
