@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Síndrome Opioide",
+    "text": "Un lactante de 2 años presenta compromiso de conciencia brusco, FC 60 lpm, FR 12 rpm, miosis puntiforme bilateral y ruidos hidroaéreos disminuidos. La madre refiere que pudo haber ingerido un medicamento del abuelo para el dolor crónico. ¿Cuál es el diagnóstico más probable?",
+    "hint": "Busque la tríada clásica de depresión del sistema nervioso central, depresión respiratoria y miosis.",
+    "options": [
+      {
+        "text": "A) Intoxicación por benzodiazepinas.",
+        "isCorrect": false,
+        "explanation": "Causan compromiso de conciencia, pero raramente miosis puntiforme o depresión respiratoria tan severa en dosis aisladas."
+      },
+      {
+        "text": "B) Intoxicación por organofosforados.",
+        "isCorrect": false,
+        "explanation": "Aunque causan miosis, se acompañan de síntomas 'húmedos' (sialorrea, broncorrea) y fasciculaciones."
+      },
+      {
+        "text": "C) Intoxicación por opioides.",
+        "isCorrect": true,
+        "explanation": "Correcto. La combinación de depresión del sensorio, bradipnea y miosis puntiforme es la tríada patognomónica del síndrome narcótico/opioide (ej. tramadol, morfina)."
+      },
+      {
+        "text": "D) Intoxicación por antidepresivos tricíclicos.",
+        "isCorrect": false,
+        "explanation": "Causan midriasis (anticolinérgico) y alteraciones en el EKG (prolongación del QRS), no miosis."
+      },
+      {
+        "text": "E) Intoxicación por bloqueadores de canales de calcio.",
+        "isCorrect": false,
+        "explanation": "Predomina la hipotensión y bradicardia extrema, con glicemia elevada, pero sin miosis específica."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Síndrome Colinérgico (Organofosforados)",
+    "text": "Niño de 4 años traído por sialorrea profusa, lagrimeo, vómitos, diarrea, miosis y fasciculaciones musculares tras jugar en un galpón agrícola. Al examen destaca bradicardia y estertores húmedos bilaterales. ¿Cuál es el antídoto de elección?",
+    "hint": "Se requiere un fármaco que bloquee de forma competitiva los receptores muscarínicos de la acetilcolina.",
+    "options": [
+      {
+        "text": "A) Naloxona.",
+        "isCorrect": false,
+        "explanation": "Es el antídoto para opioides, no tiene efecto en receptores de acetilcolina."
+      },
+      {
+        "text": "B) Atropina.",
+        "isCorrect": true,
+        "explanation": "Correcto. La atropina revierte los efectos muscarínicos (bradicardia, secreciones) de la intoxicación por organofosforados/carbamatos."
+      },
+      {
+        "text": "C) Flumazenil.",
+        "isCorrect": false,
+        "explanation": "Antídoto para benzodiazepinas; su uso en intoxicaciones mixtas puede gatillar convulsiones."
+      },
+      {
+        "text": "D) Fisostigmina.",
+        "isCorrect": false,
+        "explanation": "Es un inhibidor de la colinesterasa; empeoraría drásticamente una intoxicación por organofosforados."
+      },
+      {
+        "text": "E) N-acetilcisteína.",
+        "isCorrect": false,
+        "explanation": "Se utiliza específicamente para la intoxicación por paracetamol."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Intoxicación por Paracetamol",
+    "text": "Escolar de 8 años ingiere accidentalmente una dosis desconocida de paracetamol hace 2 horas. Se encuentra asintomático. ¿Cuál es la conducta inicial más adecuada?",
+    "hint": "El nivel plasmático es el único predictor confiable de daño hepático, pero requiere tiempo para estabilizarse.",
+    "options": [
+      {
+        "text": "A) Iniciar N-acetilcisteína de inmediato sin esperar exámenes.",
+        "isCorrect": false,
+        "explanation": "Solo se hace si la ingesta fue masiva y tardía; a las 2 horas no se ha alcanzado el pico plasmático."
+      },
+      {
+        "text": "B) Realizar lavado gástrico y administrar carbón activado.",
+        "isCorrect": true,
+        "explanation": "Correcto. Por estar dentro de la 'hora de oro' (hasta 2h), el carbón activado es muy efectivo para disminuir la absorción."
+      },
+      {
+        "text": "C) Medir niveles plasmáticos de paracetamol de inmediato.",
+        "isCorrect": false,
+        "explanation": "Los niveles deben medirse a las 4 horas post-ingesta para ser interpretables según el nomograma de Rumack-Matthew."
+      },
+      {
+        "text": "D) Inducir el vómito con jarabe de Ipecacuana.",
+        "isCorrect": false,
+        "explanation": "La Ipecacuana está en desuso por riesgo de aspiración y retraso en el uso de carbón activado."
+      },
+      {
+        "text": "E) Dar el alta si el paciente se mantiene asintomático tras 2 horas.",
+        "isCorrect": false,
+        "explanation": "La hepatotoxicidad es silente al inicio; dar el alta precoz es peligroso."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Síndrome Anticolinérgico",
+    "text": "Paciente adolescente presenta agitación psicomotriz, piel roja y seca, midriasis no reactiva, taquicardia y retención urinaria. La madre refiere que ingirió 'unas pastillas para la alergia' (clorfenamina). ¿Cuál es el síndrome tóxico?",
+    "hint": "Se resume clásicamente como: 'rojo como betarraga, seco como un hueso, ciego como un topo y loco como una cabra'.",
+    "options": [
+      {
+        "text": "A) Síndrome Simpaticomimético.",
+        "isCorrect": false,
+        "explanation": "Similar, pero el simpaticomimético (ej. cocaína) cursa con sudoración profusa (piel húmeda), no seca."
+      },
+      {
+        "text": "B) Síndrome Anticolinérgico.",
+        "isCorrect": true,
+        "explanation": "Correcto. El bloqueo de receptores muscarínicos impide la sudoración y causa midriasis, taquicardia y delirio."
+      },
+      {
+        "text": "C) Síndrome Serotoninérgico.",
+        "isCorrect": false,
+        "explanation": "Presenta hiperreflexia y clonus, síntomas no descritos en este cuadro puramente muscarínico."
+      },
+      {
+        "text": "D) Intoxicación por monóxido de carbono.",
+        "isCorrect": false,
+        "explanation": "Causa cefalea y náuseas; la piel se describe como 'rojo cereza' pero sin midriasis o sequedad de mucosas."
+      },
+      {
+        "text": "E) Síndrome Extrapiramidal.",
+        "isCorrect": false,
+        "explanation": "Se caracteriza por distonías y crisis oculógiras, no por este cuadro vegetativo autonómico."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Cáusticos",
+    "text": "Lactante de 3 años ingiere soda cáustica (álcali fuerte) hace 30 minutos. Se observa sialorrea y lesiones eritematosas en la boca. ¿Cuál es la conducta contraindicada?",
+    "hint": "Nunca intente 'sacar' lo que ya bajó si eso implica que vuelva a pasar por el esófago.",
+    "options": [
+      {
+        "text": "A) Mantener al paciente en régimen cero (NPO).",
+        "isCorrect": false,
+        "explanation": "Es una medida correcta para evitar más daño y preparar una posible endoscopia."
+      },
+      {
+        "text": "B) Inducir el vómito o realizar lavado gástrico.",
+        "isCorrect": true,
+        "explanation": "Correcto. Contraindicado. El cáustico daña al bajar y volvería a dañar al subir, aumentando el riesgo de perforación y neumonía aspirativa."
+      },
+      {
+        "text": "C) Solicitar una endoscopia digestiva alta precoz.",
+        "isCorrect": false,
+        "explanation": "Es el estándar de oro para evaluar el grado de quemadura esofágica (entre las 6 y 24 horas)."
+      },
+      {
+        "text": "D) Administrar analgésicos endovenosos.",
+        "isCorrect": false,
+        "explanation": "Es adecuado para el manejo del dolor severo por la quemadura química."
+      },
+      {
+        "text": "E) Intentar neutralizar con jugo de limón o vinagre.",
+        "isCorrect": false,
+        "explanation": "También está contraindicado (reacción exotérmica), pero la inducción del vómito es el error más crítico en urgencias."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Intoxicación por Salicilatos",
+    "text": "Un niño presenta polipnea (respiración profunda y rápida), vómitos, tinnitus y fiebre tras la ingesta de múltiples tabletas de Aspirina. ¿Qué alteración del equilibrio ácido-base es característica al inicio?",
+    "hint": "El fármaco estimula directamente el centro respiratorio del bulbo raquídeo.",
+    "options": [
+      {
+        "text": "A) Acidosis respiratoria pura.",
+        "isCorrect": false,
+        "explanation": "Los salicilatos causan hiperventilación, por lo que el CO2 baja, no sube."
+      },
+      {
+        "text": "B) Alcalosis metabólica compensada.",
+        "isCorrect": false,
+        "explanation": "No es el patrón inicial; la aspirina es un ácido débil y genera acidosis metabólica posterior."
+      },
+      {
+        "text": "C) Alcalosis respiratoria inicial seguida de acidosis metabólica con anion gap elevado.",
+        "isCorrect": true,
+        "explanation": "Correcto. Primero hay hiperventilación central (alcalosis respiratoria) y luego acumulación de ácidos orgánicos e interferencia mitocondrial (acidosis metabólica)."
+      },
+      {
+        "text": "D) Acidosis metabólica hiperclorémica.",
+        "isCorrect": false,
+        "explanation": "La acidosis por salicilatos es con anion gap elevado (acumulación de lactato y cetonas)."
+      },
+      {
+        "text": "E) Alcalosis respiratoria pura persistente.",
+        "isCorrect": false,
+        "explanation": "La fase de alcalosis es transitoria y rápidamente se suma el componente metabólico ácido."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Hidrocarburos",
+    "text": "Lactante ingiere parafina (queroseno) hace una hora. Presenta tos persistente y dificultad respiratoria leve. ¿Cuál es el principal riesgo de esta intoxicación?",
+    "hint": "La baja viscosidad y alta volatilidad facilitan que el líquido se 'deslice' a la vía aérea.",
+    "options": [
+      {
+        "text": "A) Insuficiencia hepática fulminante.",
+        "isCorrect": false,
+        "explanation": "Los hidrocarburos destilados del petróleo no tienen toxicidad hepática primaria."
+      },
+      {
+        "text": "B) Neumonitis química por aspiración.",
+        "isCorrect": true,
+        "explanation": "Correcto. El riesgo no es la absorción gástrica (que es mínima), sino la entrada al pulmón, donde destruye el surfactante y causa inflamación masiva."
+      },
+      {
+        "text": "C) Arritmias ventriculares por sensibilización miocárdica.",
+        "isCorrect": false,
+        "explanation": "Es un riesgo de los hidrocarburos clorados o inhalantes (pegamentos), pero no el principal de la parafina ingerida."
+      },
+      {
+        "text": "D) Insuficiencia renal aguda.",
+        "isCorrect": false,
+        "explanation": "No es una complicación característica de la ingesta de parafina."
+      },
+      {
+        "text": "E) Perforación gástrica inmediata.",
+        "isCorrect": false,
+        "explanation": "A diferencia de los cáusticos, la parafina no es corrosiva para la mucosa gástrica."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Intoxicación por Hierro",
+    "text": "Escolar ingiere un frasco de sulfato ferroso. Presenta vómitos hemorrágicos intensos y dolor abdominal. ¿Cuál es el antídoto específico?",
+    "hint": "Se requiere un agente que forme un complejo estable con el hierro libre en sangre para que sea eliminado por la orina.",
+    "options": [
+      {
+        "text": "A) N-acetilcisteína.",
+        "isCorrect": false,
+        "explanation": "Antídoto para paracetamol."
+      },
+      {
+        "text": "B) Deferoxamina.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el quelante específico para la intoxicación por hierro; su eliminación causa orina color 'vino rosado'."
+      },
+      {
+        "text": "C) Penicilamina.",
+        "isCorrect": false,
+        "explanation": "Quelante usado principalmente para cobre (Enfermedad de Wilson) y plomo."
+      },
+      {
+        "text": "D) EDTA disódico cálcico.",
+        "isCorrect": false,
+        "explanation": "Quelante para el tratamiento de la intoxicación por plomo."
+      },
+      {
+        "text": "E) Glucagón.",
+        "isCorrect": false,
+        "explanation": "Antídoto usado en la intoxicación por betabloqueadores."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Antidepresivos Tricíclicos (ATC)",
+    "text": "Paciente con ingesta de Amitriptilina presenta taquicardia, midriasis y convulsiones. El EKG muestra un QRS ensanchado (>100 ms) y una onda R prominente en aVR. ¿Cuál es el tratamiento de elección para la toxicidad cardíaca?",
+    "hint": "Se busca estabilizar la membrana del miocito aumentando el gradiente de sodio y alcalinizando el medio.",
+    "options": [
+      {
+        "text": "A) Lidocaína en bolo.",
+        "isCorrect": false,
+        "explanation": "Está contraindicada porque puede empeorar el bloqueo de los canales de sodio provocado por los ATC."
+      },
+      {
+        "text": "B) Bicarbonato de Sodio (1-2 mEq/kg).",
+        "isCorrect": true,
+        "explanation": "Correcto. El bicarbonato aumenta la carga de sodio (vence el bloqueo) y la alcalinización disminuye la unión del fármaco al canal de sodio."
+      },
+      {
+        "text": "C) Amiodarona.",
+        "isCorrect": false,
+        "explanation": "Puede prolongar el QT y exacerbar la inestabilidad eléctrica en este contexto."
+      },
+      {
+        "text": "D) Gluconato de Calcio.",
+        "isCorrect": false,
+        "explanation": "Estabiliza membrana en hiperkalemia, pero no es la terapia específica para el bloqueo de canales de sodio por triclíclicos."
+      },
+      {
+        "text": "E) Atropina.",
+        "isCorrect": false,
+        "explanation": "Los ATC ya tienen efectos anticolinérgicos masivos; la atropina empeoraría la taquicardia y el delirio."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Monóxido de Carbono (CO)",
+    "text": "Niño es rescatado de un incendio domiciliario. Presenta cefalea, mareos, náuseas y somnolencia. La oximetría de pulso marca 100%. ¿Cuál es el examen diagnóstico de elección?",
+    "hint": "El oxímetro de pulso estándar no distingue entre la oxihemoglobina y la carboxihemoglobina.",
+    "options": [
+      {
+        "text": "A) Gases arteriales con medición de presión parcial de oxígeno (PaO2).",
+        "isCorrect": false,
+        "explanation": "La PaO2 suele ser normal en intoxicación por CO porque el oxígeno disuelto en plasma no cambia."
+      },
+      {
+        "text": "B) Co-oximetría para medir niveles de carboxihemoglobina (COHb).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el único examen que mide directamente la saturación de la hemoglobina por monóxido de carbono."
+      },
+      {
+        "text": "C) Radiografía de tórax frontal.",
+        "isCorrect": false,
+        "explanation": "Útil para ver daño pulmonar por humo, pero no diagnostica la intoxicación por CO."
+      },
+      {
+        "text": "D) Electrolitos plasmáticos y lactato.",
+        "isCorrect": false,
+        "explanation": "El lactato puede subir por hipoxia tisular, pero no es diagnóstico específico."
+      },
+      {
+        "text": "E) Escáner (TC) de cerebro.",
+        "isCorrect": false,
+        "explanation": "Solo vería daño isquémico tardío en los ganglios basales (globo pálido), no sirve para el diagnóstico agudo."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Tratamiento Monóxido de Carbono",
+    "text": "¿Cuál es el tratamiento inicial para el paciente del caso anterior (intoxicación por CO)?",
+    "hint": "Se busca desplazar el monóxido de carbono de la hemoglobina mediante competencia directa.",
+    "options": [
+      {
+        "text": "A) Oxígeno al 21% (aire ambiental).",
+        "isCorrect": false,
+        "explanation": "La vida media del CO en aire ambiental es muy larga (4-6 horas)."
+      },
+      {
+        "text": "B) Oxígeno al 100% mediante mascarilla con reservorio.",
+        "isCorrect": true,
+        "explanation": "Correcto. El O2 al 100% reduce la vida media del CO a 60-90 minutos."
+      },
+      {
+        "text": "C) Ventilación mecánica no invasiva (CPAP).",
+        "isCorrect": false,
+        "explanation": "No es la terapia de elección para el lavado de carboxihemoglobina."
+      },
+      {
+        "text": "D) Administración de azul de metileno.",
+        "isCorrect": false,
+        "explanation": "Es el antídoto para la metahemoglobinemia, no para la intoxicación por CO."
+      },
+      {
+        "text": "E) Hidratación agresiva con suero fisiológico.",
+        "isCorrect": false,
+        "explanation": "No tiene efecto sobre la eliminación del monóxido de carbono de la sangre."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Metahemoglobinemia",
+    "text": "Lactante presenta cianosis severa ('bebé azul') que no mejora tras la administración de oxígeno. La sangre extraída tiene un color achocolatado. ¿Qué fármaco pudo haber causado esto?",
+    "hint": "Ciertos agentes oxidantes (como anestésicos locales o nitritos) transforman el hierro del grupo hemo a estado férrico (Fe3+).",
+    "options": [
+      {
+        "text": "A) Benzocaína (anestésico tópico).",
+        "isCorrect": true,
+        "explanation": "Correcto. La benzocaína es un agente oxidante común en pediatría que gatilla metahemoglobinemia."
+      },
+      {
+        "text": "B) Ibuprofeno.",
+        "isCorrect": false,
+        "explanation": "No tiene capacidad oxidante sobre la hemoglobina."
+      },
+      {
+        "text": "C) Penicilina.",
+        "isCorrect": false,
+        "explanation": "No se asocia a la producción de metahemoglobina."
+      },
+      {
+        "text": "D) Carbón activado.",
+        "isCorrect": false,
+        "explanation": "Es un adsorbente gástrico inerte, no se absorbe sistémicamente."
+      },
+      {
+        "text": "E) Salbutamol.",
+        "isCorrect": false,
+        "explanation": "Es un broncodilatador que no altera el estado de oxidación del hierro del hemo."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Metanol",
+    "text": "Un niño ingiere por error líquido limpiaparabrisas. Presenta visión borrosa ('como una tormenta de nieve') y acidosis metabólica con anion gap elevado. ¿Cuál es el tratamiento específico?",
+    "hint": "Se debe bloquear la enzima alcohol deshidrogenasa para evitar la formación de ácido fórmico.",
+    "options": [
+      {
+        "text": "A) N-acetilcisteína.",
+        "isCorrect": false,
+        "explanation": "Antídoto para paracetamol."
+      },
+      {
+        "text": "B) Fomepizol o Etanol.",
+        "isCorrect": true,
+        "explanation": "Correcto. El fomepizol inhibe la alcohol deshidrogenasa con alta afinidad, bloqueando la formación de metabolitos tóxicos."
+      },
+      {
+        "text": "C) Naloxona.",
+        "isCorrect": false,
+        "explanation": "Antídoto para opioides."
+      },
+      {
+        "text": "D) Vitamina K.",
+        "isCorrect": false,
+        "explanation": "Se usa para revertir la toxicidad por anticoagulantes cumarínicos."
+      },
+      {
+        "text": "E) Piridoxina (Vitamina B6).",
+        "isCorrect": false,
+        "explanation": "Se usa en la intoxicación por isoniazida o setas del género Gyromitra."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Alcohol Etílico",
+    "text": "¿Cuál es la complicación metabólica aguda más peligrosa de la intoxicación por alcohol etílico (etanol) en niños pequeños?",
+    "hint": "Los niños tienen escasas reservas de glucógeno y el metabolismo del alcohol bloquea la formación de azúcar nueva.",
+    "options": [
+      {
+        "text": "A) Hiperglicemia severa.",
+        "isCorrect": false,
+        "explanation": "Es lo opuesto; el alcohol causa hipoglicemia en pediatría."
+      },
+      {
+        "text": "B) Hipoglicemia profunda.",
+        "isCorrect": true,
+        "explanation": "Correcto. El etanol inhibe la gluconeogénesis hepática, lo que en niños (con poco glucógeno) lleva rápidamente a hipoglicemia letal."
+      },
+      {
+        "text": "C) Hipocalcemia.",
+        "isCorrect": false,
+        "explanation": "No es una complicación aguda característica del etanol."
+      },
+      {
+        "text": "D) Alcalosis metabólica.",
+        "isCorrect": false,
+        "explanation": "La intoxicación etílica tiende a causar acidosis láctica o cetoacidosis, no alcalosis."
+      },
+      {
+        "text": "E) Diabetes insípida.",
+        "isCorrect": false,
+        "explanation": "Aunque el alcohol inhibe la ADH (causando poliuria), no es la complicación más peligrosa en comparación con la hipoglicemia."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Benzodiazepinas",
+    "text": "Niño ingiere Diazepam de su madre. Presenta ataxia y somnolencia, pero mantiene buena ventilación. ¿Por qué se recomienda EVITAR el uso rutinario de Flumazenil?",
+    "hint": "Considere qué sucede si el niño también ingirió triclíclicos o si es un usuario crónico de benzodiazepinas.",
+    "options": [
+      {
+        "text": "A) Porque causa insuficiencia renal.",
+        "isCorrect": false,
+        "explanation": "No tiene toxicidad renal directa."
+      },
+      {
+        "text": "B) Porque puede gatillar convulsiones refractarias, especialmente en ingestas mixtas.",
+        "isCorrect": true,
+        "explanation": "Correcto. El flumazenil baja el umbral convulsivo. Si hay antidepresivos triclíclicos asociados, las convulsiones pueden ser fatales."
+      },
+      {
+        "text": "C) Porque su efecto dura más que el de las benzodiazepinas.",
+        "isCorrect": false,
+        "explanation": "Es al revés; su vida media es muy corta y el paciente puede 'resedarse'."
+      },
+      {
+        "text": "D) Porque es extremadamente caro e inaccesible.",
+        "isCorrect": false,
+        "explanation": "Aunque tiene costo, la razón médica principal es la seguridad (riesgo de convulsiones)."
+      },
+      {
+        "text": "E) Porque causa arritmias ventriculares.",
+        "isCorrect": false,
+        "explanation": "No es el efecto adverso limitante principal en comparación con las convulsiones."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Inhalantes",
+    "text": "Adolescente es encontrado inhalando pegamento. Presenta euforia y luego se desploma con un paro cardiorrespiratorio súbito. ¿A qué se debe la muerte súbita por inhalantes ('Sudden Sniffing Death')?",
+    "hint": "Los solventes vuelven al corazón extremadamente sensible a la adrenalina propia del esfuerzo o el susto.",
+    "options": [
+      {
+        "text": "A) Depresión respiratoria central fulminante.",
+        "isCorrect": false,
+        "explanation": "Ocurre, pero no explica el colapso súbito durante el esfuerzo."
+      },
+      {
+        "text": "B) Arritmias ventriculares (Fibrilación Ventricular) por sensibilización del miocardio a catecolaminas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los hidrocarburos volátiles sensibilizan el corazón a la adrenalina; un susto o carrera posterior gatilla FV letal."
+      },
+      {
+        "text": "C) Edema agudo de pulmón no cardiogénico.",
+        "isCorrect": false,
+        "explanation": "Es una complicación respiratoria, no el mecanismo del colapso súbito."
+      },
+      {
+        "text": "D) Ruptura masiva de alvéolos (neumotórax).",
+        "isCorrect": false,
+        "explanation": "No es el mecanismo de muerte súbita clásica por inhalantes."
+      },
+      {
+        "text": "E) Hipocalcemia aguda.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con el mecanismo de acción de los solventes."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Beta-bloqueadores",
+    "text": "Lactante ingiere Propranolol. Presenta bradicardia, hipotensión y shock que no responde a fluidos ni adrenalina. ¿Cuál es el antídoto de elección?",
+    "hint": "Se busca activar una vía alterna para aumentar el AMP cíclico en el miocito, saltándose el receptor beta bloqueado.",
+    "options": [
+      {
+        "text": "A) Atropina.",
+        "isCorrect": false,
+        "explanation": "Útil para la bradicardia leve, pero ineficaz en intoxicaciones severas por bloqueo beta."
+      },
+      {
+        "text": "B) Glucagón.",
+        "isCorrect": true,
+        "explanation": "Correcto. El glucagón estimula la producción de AMPc a través de sus propios receptores, mejorando la contractilidad y FC a pesar del bloqueo beta."
+      },
+      {
+        "text": "C) Calcio intravenoso.",
+        "isCorrect": false,
+        "explanation": "Es el antídoto para bloqueadores de canales de calcio, no la primera línea para beta-bloqueadores."
+      },
+      {
+        "text": "D) Insulina a dosis altas (Terapia de Hiperinsulinemia-Euglicemia).",
+        "isCorrect": false,
+        "explanation": "Es muy efectiva y se usa en casos refractarios, pero el glucagón sigue siendo la respuesta clásica inicial."
+      },
+      {
+        "text": "E) Bicarbonato de Sodio.",
+        "isCorrect": false,
+        "explanation": "Antídoto para antidepresivos tricíclicos."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Bloqueadores de Canales de Calcio (BCC)",
+    "text": "En la intoxicación por Bloqueadores de Canales de Calcio (como Verapamilo), un hallazgo metabólico que ayuda a diferenciarla de la intoxicación por beta-bloqueadores es:",
+    "hint": "El bloqueo de los canales de calcio en las células beta del páncreas impide la liberación de una hormona clave.",
+    "options": [
+      {
+        "text": "A) Hipoglicemia.",
+        "isCorrect": false,
+        "explanation": "Típica de beta-bloqueadores o alcohol."
+      },
+      {
+        "text": "B) Hiperglicemia.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los BCC impiden la secreción de insulina (proceso calcio-dependiente), causando hiperglicemia."
+      },
+      {
+        "text": "C) Hiperpotasemia (Hiperkalemia).",
+        "isCorrect": false,
+        "explanation": "No es un hallazgo característico ni diferenciador primario."
+      },
+      {
+        "text": "D) Acidosis respiratoria.",
+        "isCorrect": false,
+        "explanation": "No ayuda a diferenciar ambas intoxicaciones."
+      },
+      {
+        "text": "E) Hiponatremia.",
+        "isCorrect": false,
+        "explanation": "No es una alteración característica de estas intoxicaciones cardiovasculares."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Terapia de Hiperinsulinemia-Euglicemia (HIE)",
+    "text": "¿En qué intoxicación está indicada la terapia con dosis altas de Insulina y Glucosa (HIE) como inótropo de rescate?",
+    "hint": "Se basa en que el corazón en shock prefiere usar glucosa como sustrato energético en lugar de ácidos grasos.",
+    "options": [
+      {
+        "text": "A) Intoxicación por Digitálicos.",
+        "isCorrect": false,
+        "explanation": "Se trata con fragmentos Fab específicos."
+      },
+      {
+        "text": "B) Intoxicación por bloqueadores de canales de calcio y beta-bloqueadores refractarios.",
+        "isCorrect": true,
+        "explanation": "Correcto. La insulina a dosis altas mejora la captación de glucosa por el miocardio chocado, mejorando la fuerza de contracción."
+      },
+      {
+        "text": "C) Intoxicación por Organofosforados.",
+        "isCorrect": false,
+        "explanation": "Se trata con atropina y oximas."
+      },
+      {
+        "text": "D) Intoxicación por Hierro.",
+        "isCorrect": false,
+        "explanation": "Se trata con deferoxamina."
+      },
+      {
+        "text": "E) Intoxicación por Salicilatos.",
+        "isCorrect": false,
+        "explanation": "Se trata con alcalinización urinaria y diálisis en casos graves."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Digitálicos (Digoxina)",
+    "text": "¿Cuál es la alteración electrolítica que más aumenta la toxicidad de la Digoxina?",
+    "hint": "La digoxina compite con este ion por el mismo sitio de unión en la bomba Na+/K+ ATPasa.",
+    "options": [
+      {
+        "text": "A) Hipernatremia.",
+        "isCorrect": false,
+        "explanation": "No influye directamente en la toxicidad digitálica."
+      },
+      {
+        "text": "B) Hipopotasemia (Hipokalemia).",
+        "isCorrect": true,
+        "explanation": "Correcto. Al haber poco potasio, la digoxina se une más fácilmente a la bomba, potenciando su efecto tóxico."
+      },
+      {
+        "text": "C) Hipercalcemia.",
+        "isCorrect": false,
+        "explanation": "Puede aumentar la toxicidad, pero la hipokalemia es el factor de riesgo clásico y más común."
+      },
+      {
+        "text": "D) Hipomagnesemia.",
+        "isCorrect": false,
+        "explanation": "Es un factor de riesgo, pero secundario a la potasemia."
+      },
+      {
+        "text": "E) Acidosis metabólica.",
+        "isCorrect": false,
+        "explanation": "No es el factor electrolítico determinante de la unión a la bomba."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Carbón Activado",
+    "text": "¿En cuál de las siguientes intoxicaciones el Carbón Activado es INEFICAZ?",
+    "hint": "Sustancias que son iones pequeños, metales o alcoholes no se 'pegan' al carbón.",
+    "options": [
+      {
+        "text": "A) Amitriptilina.",
+        "isCorrect": false,
+        "explanation": "Se adsorbe muy bien al carbón activado."
+      },
+      {
+        "text": "B) Ácido Valproico.",
+        "isCorrect": false,
+        "explanation": "Es una sustancia que el carbón activado puede adsorber."
+      },
+      {
+        "text": "C) Hierro, Litio y Alcoholes.",
+        "isCorrect": true,
+        "explanation": "Correcto. El mnemotécnico es PHAILS (Pesticidas, Hidrocarburos, Ácidos/álcalis, Iron/Hierro, Litio, Solventes/alcoholes)."
+      },
+      {
+        "text": "D) Paracetamol.",
+        "isCorrect": false,
+        "explanation": "Se adsorbe muy bien; es de hecho parte del tratamiento inicial."
+      },
+      {
+        "text": "E) Teofilina.",
+        "isCorrect": false,
+        "explanation": "Es una de las sustancias con mejor respuesta al carbón activado (incluso multidosis)."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Lavado Gástrico",
+    "text": "¿Cuál es el tiempo límite recomendado para realizar un lavado gástrico con beneficio clínico?",
+    "hint": "Pasado este tiempo, la mayor parte del tóxico ya cruzó el píloro.",
+    "options": [
+      {
+        "text": "A) Hasta 15 minutos post-ingesta.",
+        "isCorrect": false,
+        "explanation": "Demasiado restrictivo; aún hay beneficio después."
+      },
+      {
+        "text": "B) Dentro de los primeros 60 minutos (1 hora).",
+        "isCorrect": true,
+        "explanation": "Correcto. Se considera que el beneficio es máximo en la primera hora. Después de esto, la recuperación del tóxico es escasa."
+      },
+      {
+        "text": "C) Hasta las 4 horas post-ingesta.",
+        "isCorrect": false,
+        "explanation": "Solo se considera en fármacos que enlentecen el vaciamiento gástrico (anticolinérgicos)."
+      },
+      {
+        "text": "D) En cualquier momento si la dosis fue alta.",
+        "isCorrect": false,
+        "explanation": "Falso; el riesgo de aspiración y trauma esofágico no justifica su uso tardío generalizado."
+      },
+      {
+        "text": "E) Hasta las 12 horas.",
+        "isCorrect": false,
+        "explanation": "No existe evidencia que sustente un lavado gástrico tan tardío."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Lavado Intestinal Total",
+    "text": "¿En qué situación está indicado el Lavado Intestinal Total (con polietilenglicol)?",
+    "hint": "Para cosas que no se pegan al carbón y vienen en paquetes o son de liberación prolongada.",
+    "options": [
+      {
+        "text": "A) Ingesta de benzodiacepinas líquidas.",
+        "isCorrect": false,
+        "explanation": "No está indicado; las benzodiacepinas se manejan con soporte y carbón."
+      },
+      {
+        "text": "B) Ingesta masiva de hierro, pilas de botón o 'body packers' (bolsitas con droga).",
+        "isCorrect": true,
+        "explanation": "Correcto. Ayuda a barrer objetos o metales que el carbón no adsorbe a través de todo el tracto digestivo."
+      },
+      {
+        "text": "C) Ingesta de parafina.",
+        "isCorrect": false,
+        "explanation": "Contraindicado por riesgo de aspiración masiva de hidrocarburos."
+      },
+      {
+        "text": "D) Intoxicación por paracetamol al cuarto día.",
+        "isCorrect": false,
+        "explanation": "Inútil; a esa altura el tóxico ya fue metabolizado por el hígado."
+      },
+      {
+        "text": "E) Intoxicación por cáusticos.",
+        "isCorrect": false,
+        "explanation": "Contraindicado por riesgo de perforación intestinal."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Metahemoglobinemia (Antídoto)",
+    "text": "En un paciente con metahemoglobinemia sintomática (niveles >20-30%), ¿cuál es el tratamiento de elección?",
+    "hint": "Es un tinte que actúa como cofactor para la enzima que reduce la hemoglobina.",
+    "options": [
+      {
+        "text": "A) Oxígeno hiperbárico.",
+        "isCorrect": false,
+        "explanation": "Se usa en intoxicación por CO, no es la primera línea para metahemoglobina."
+      },
+      {
+        "text": "B) Azul de Metileno (1-2 mg/kg IV).",
+        "isCorrect": true,
+        "explanation": "Correcto. Acelera la reducción de metahemoglobina a hemoglobina normal."
+      },
+      {
+        "text": "C) Vitamina C en altas dosis.",
+        "isCorrect": false,
+        "explanation": "Es un reductor muy lento, solo se usa en casos leves o si no hay azul de metileno."
+      },
+      {
+        "text": "D) Exanguinotransfusión.",
+        "isCorrect": false,
+        "explanation": "Medida de último recurso en casos críticos que no responden al antídoto."
+      },
+      {
+        "text": "E) N-acetilcisteína.",
+        "isCorrect": false,
+        "explanation": "No tiene rol en el tratamiento de la metahemoglobinemia."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Alcalinización Urinaria",
+    "text": "¿En qué intoxicación la alcalinización urinaria (con Bicarbonato de Sodio) es una medida efectiva para aumentar la eliminación renal?",
+    "hint": "Para ácidos débiles que, al estar en un medio básico, se ionizan y no pueden ser reabsorbidos por el túbulo renal ('atrapamiento iónico').",
+    "options": [
+      {
+        "text": "A) Anfetaminas.",
+        "isCorrect": false,
+        "explanation": "Las anfetaminas son bases; se eliminarían mejor acidificando la orina (aunque esto no se recomienda por riesgo de rabdomiólisis)."
+      },
+      {
+        "text": "B) Salicilatos y Fenobarbital.",
+        "isCorrect": true,
+        "explanation": "Correcto. Son ácidos débiles cuya excreción aumenta drásticamente si la orina tiene un pH de 7.5 a 8.5."
+      },
+      {
+        "text": "C) Benzodiacepinas.",
+        "isCorrect": false,
+        "explanation": "No tienen eliminación renal significativa que dependa del pH urinario."
+      },
+      {
+        "text": "D) Organofosforados.",
+        "isCorrect": false,
+        "explanation": "No es una medida de eliminación reconocida para estos tóxicos."
+      },
+      {
+        "text": "E) Amitriptilina.",
+        "isCorrect": false,
+        "explanation": "No se elimina por riñón mediante cambios de pH."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Isoniazida",
+    "text": "Un adolescente en tratamiento por TBC ingiere una sobredosis de Isoniazida. Presenta convulsiones refractarias a benzodiacepinas. ¿Cuál es el antídoto específico?",
+    "hint": "La isoniazida causa déficit de vitamina B6, esencial para la síntesis de GABA (el inhibidor del cerebro).",
+    "options": [
+      {
+        "text": "A) Tiamina (Vitamina B1).",
+        "isCorrect": false,
+        "explanation": "No es el cofactor afectado por la isoniazida."
+      },
+      {
+        "text": "B) Piridoxina (Vitamina B6).",
+        "isCorrect": true,
+        "explanation": "Correcto. Repone los niveles necesarios para fabricar GABA y detener las convulsiones."
+      },
+      {
+        "text": "C) Cianocobalamina (Vitamina B12).",
+        "isCorrect": false,
+        "explanation": "No tiene rol en este cuadro agudo."
+      },
+      {
+        "text": "D) Ácido Fólico.",
+        "isCorrect": false,
+        "explanation": "No es el tratamiento para la toxicidad por isoniazida."
+      },
+      {
+        "text": "E) Biotina.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con el mecanismo de las convulsiones por este fármaco."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Cianuro",
+    "text": "Paciente rescatado de un incendio en un recinto cerrado con plásticos quemados. Presenta acidosis láctica severa (>10 mmol/L) y coma. Se sospecha intoxicación por Cianuro. ¿Cuál es el antídoto moderno más seguro?",
+    "hint": "Es un precursor de la vitamina B12 que 'atrapa' al cianuro para formar cianocobalamina.",
+    "options": [
+      {
+        "text": "A) Nitrito de Amilo.",
+        "isCorrect": false,
+        "explanation": "Antiguo, causa metahemoglobinemia, lo cual es peligroso si hay intoxicación por CO asociada."
+      },
+      {
+        "text": "B) Hidroxocobalamina (Cyanokit).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el antídoto de elección hoy en día por su rapidez y escasos efectos adversos graves."
+      },
+      {
+        "text": "C) Tiosulfato de Sodio.",
+        "isCorrect": false,
+        "explanation": "Es parte del kit antiguo, actúa lento; se usa como coadyuvante pero no es la primera línea sola."
+      },
+      {
+        "text": "D) EDTA.",
+        "isCorrect": false,
+        "explanation": "Es un quelante para metales pesados, no para cianuro."
+      },
+      {
+        "text": "E) Azul de metileno.",
+        "isCorrect": false,
+        "explanation": "Se usa para metahemoglobinemia."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Setas (Amanita phalloides)",
+    "text": "¿Cuál es el principal riesgo vital tras ingerir hongos silvestres del género Amanita phalloides?",
+    "hint": "La toxina (amatoxina) bloquea la ARN polimerasa II, impidiendo la síntesis de proteínas en las células con mayor recambio.",
+    "options": [
+      {
+        "text": "A) Insuficiencia renal aguda tubular.",
+        "isCorrect": false,
+        "explanation": "Ocurre en otros géneros de setas como Cortinarius, pero no es el sello de la Amanita."
+      },
+      {
+        "text": "B) Insuficiencia hepática fulminante.",
+        "isCorrect": true,
+        "explanation": "Correcto. Las amatoxinas causan necrosis masiva del hígado tras un periodo de latencia de 6-12 horas."
+      },
+      {
+        "text": "C) Convulsiones tónico-clónicas.",
+        "isCorrect": false,
+        "explanation": "Típico del género Gyromitra, no de Amanita phalloides."
+      },
+      {
+        "text": "D) Síndrome Colinérgico masivo.",
+        "isCorrect": false,
+        "explanation": "Ocurre con Amanita muscaria (muscarina), pero no con la phalloides que es la mortal."
+      },
+      {
+        "text": "E) Alucinaciones visuales.",
+        "isCorrect": false,
+        "explanation": "Propio de hongos psilocibios, no es el cuadro de la Amanita mortal."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Warfarina / Raticidas",
+    "text": "Niño ingiere un raticida de tipo cumarínico (superwarfarina). Al examen inicial está asintomático. ¿Cuál es el examen de laboratorio para monitorizar la toxicidad?",
+    "hint": "Estos venenos impiden la activación de los factores de coagulación dependientes de vitamina K (II, VII, IX, X).",
+    "options": [
+      {
+        "text": "A) Recuento de plaquetas.",
+        "isCorrect": false,
+        "explanation": "El raticida no afecta el número de plaquetas, sino los factores solubles."
+      },
+      {
+        "text": "B) Tiempo de Protrombina (TP) e INR.",
+        "isCorrect": true,
+        "explanation": "Correcto. El TP/INR se altera cuando los factores de coagulación descienden. Ojo: puede tardar 24-48h en alterarse."
+      },
+      {
+        "text": "C) Tiempo de Tromboplastina Parcial activado (TTPA).",
+        "isCorrect": false,
+        "explanation": "Se altera, pero el TP es mucho más sensible para detectar la falla de factores vitamina K dependientes."
+      },
+      {
+        "text": "D) Niveles plasmáticos de Warfarina.",
+        "isCorrect": false,
+        "explanation": "No se miden de rutina; el efecto biológico (INR) es lo que guía el manejo."
+      },
+      {
+        "text": "E) Hemoglobina y hematocrito.",
+        "isCorrect": false,
+        "explanation": "Solo bajarían si ya hay sangrado activo, no sirven para detección precoz."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Rodenticidas (Vitamina K)",
+    "text": "¿Por qué se desaconseja administrar Vitamina K de forma profiláctica inmediatamente después de la ingesta de un raticida si el INR es normal?",
+    "hint": "Si 'enmascaramos' el laboratorio, no sabremos si la dosis fue tóxica o cuánto tiempo durará el efecto.",
+    "options": [
+      {
+        "text": "A) Porque es altamente alérgica.",
+        "isCorrect": false,
+        "explanation": "Falso; es muy segura."
+      },
+      {
+        "text": "B) Porque enmascara el inicio de la coagulopatía y dificulta el seguimiento.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe esperar 48h; si el INR sigue normal, no hubo intoxicación significativa. Si se da Vit K antes, no sabremos si el niño está realmente protegido o no."
+      },
+      {
+        "text": "C) Porque el raticida bloquea la absorción de la Vitamina K.",
+        "isCorrect": false,
+        "explanation": "No bloquea la absorción, bloquea la enzima que la recicla."
+      },
+      {
+        "text": "D) Porque causa hemólisis en niños.",
+        "isCorrect": false,
+        "explanation": "Solo en recién nacidos con déficit de G6PD en dosis muy altas, no es el caso general."
+      },
+      {
+        "text": "E) Porque aumenta el riesgo de trombosis.",
+        "isCorrect": false,
+        "explanation": "No causa un estado de hipercoagulabilidad patológico."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Pilas de Botón",
+    "text": "Lactante ingiere una pila de botón. La radiografía muestra que la pila está alojada en el esófago. ¿Cuál es la conducta inmediata?",
+    "hint": "Las pilas en el esófago pueden causar perforación y fístulas letales en menos de 2 horas por quemadura eléctrica y química.",
+    "options": [
+      {
+        "text": "A) Observación domiciliaria y revisar deposiciones.",
+        "isCorrect": false,
+        "explanation": "Solo si la pila ya pasó al estómago y el niño es asintomático."
+      },
+      {
+        "text": "B) Remoción endoscópica de emergencia.",
+        "isCorrect": true,
+        "explanation": "Correcto. Una pila impactada en esófago es una de las mayores urgencias en pediatría."
+      },
+      {
+        "text": "C) Administrar jarabe de Ipecacuana para inducir el vómito.",
+        "isCorrect": false,
+        "explanation": "Peligro de aspiración y de impactar aún más la pila en el esfínter esofágico superior."
+      },
+      {
+        "text": "D) Dar leche o antiácidos para neutralizar.",
+        "isCorrect": false,
+        "explanation": "Inútil; el daño es principalmente por la corriente eléctrica que genera hidróxido de sodio en el tejido."
+      },
+      {
+        "text": "E) Repetir radiografía en 24 horas.",
+        "isCorrect": false,
+        "explanation": "Demasiado tarde; para entonces el esófago podría estar perforado."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Cocaína",
+    "text": "Adolescente ingresa por agitación, hipertensión, taquicardia y midriasis. Refiere consumo de cocaína. ¿Qué fármaco está CONTRAINDICADO para el manejo de su hipertensión?",
+    "hint": "Bloquear solo una vía deja la otra vía vasoconstrictora actuando sin oposición ('unpala-ted alpha stimulation').",
+    "options": [
+      {
+        "text": "A) Diazepam.",
+        "isCorrect": false,
+        "explanation": "Es de primera línea; calma la agitación y baja la presión de forma indirecta."
+      },
+      {
+        "text": "B) Propranolol (Beta-bloqueadores puros).",
+        "isCorrect": true,
+        "explanation": "Correcto. El bloqueo beta deja los receptores alfa libres para causar una vasoconstricción coronaria y sistémica masiva, pudiendo causar un infarto."
+      },
+      {
+        "text": "C) Nitroprusiato de Sodio.",
+        "isCorrect": false,
+        "explanation": "Se puede usar en crisis hipertensivas severas que no ceden con benzodiacepinas."
+      },
+      {
+        "text": "D) Lorazepam.",
+        "isCorrect": false,
+        "explanation": "Correcto; al igual que el diazepam, es parte del manejo inicial."
+      },
+      {
+        "text": "E) Fentolamina.",
+        "isCorrect": false,
+        "explanation": "Es un alfa-bloqueador, sería una opción lógica y segura si las benzodiacepinas fallan."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Escopolamina (Burundanga)",
+    "text": "La escopolamina es un alcaloide que produce un síndrome tóxico de tipo:",
+    "hint": "Causa amnesia y sumisión por su efecto potente en el sistema nervioso central.",
+    "options": [
+      {
+        "text": "A) Colinérgico.",
+        "isCorrect": false,
+        "explanation": "Es lo opuesto."
+      },
+      {
+        "text": "B) Anticolinérgico.",
+        "isCorrect": true,
+        "explanation": "Correcto. Bloquea los receptores muscarínicos (midriasis, taquicardia, sequedad, amnesia)."
+      },
+      {
+        "text": "C) Opioide.",
+        "isCorrect": false,
+        "explanation": "No actúa sobre receptores mu o kappa."
+      },
+      {
+        "text": "D) Sedante-hipnótico puro.",
+        "isCorrect": false,
+        "explanation": "Tiene efectos alucinatorios y autonómicos que lo diferencian de un sedante simple."
+      },
+      {
+        "text": "E) Serotoninérgico.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con los niveles de serotonina."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Plomo (Saturnismo)",
+    "text": "¿Cuál es el hallazgo clásico en el hemograma de un niño con intoxicación crónica por plomo?",
+    "hint": "El plomo interfiere con la síntesis del hemo y la degradación del ARN ribosomal.",
+    "options": [
+      {
+        "text": "A) Anemia macrocítica con neutrófilos hipersegmentados.",
+        "isCorrect": false,
+        "explanation": "Típico de déficit de B12 o ácido fólico."
+      },
+      {
+        "text": "B) Anemia microcítica con punteado basófilo en los hematíes.",
+        "isCorrect": true,
+        "explanation": "Correcto. El punteado basófilo es muy sugerente de saturnismo (aunque no patognomónico)."
+      },
+      {
+        "text": "C) Pancitopenia severa.",
+        "isCorrect": false,
+        "explanation": "No es el patrón habitual de la intoxicación por plomo."
+      },
+      {
+        "text": "D) Leucocitosis con desviación a la izquierda.",
+        "isCorrect": false,
+        "explanation": "Orientaría a una infección bacteriana aguda."
+      },
+      {
+        "text": "E) Trombocitosis esencial.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con la toxicidad del plomo."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Naloxona",
+    "text": "Al administrar Naloxona en un niño con sospecha de intoxicación por opioides, el objetivo terapéutico principal es:",
+    "hint": "No es necesario que el niño despierte y hable, solo que no deje de respirar.",
+    "options": [
+      {
+        "text": "A) Despertar completamente al paciente.",
+        "isCorrect": false,
+        "explanation": "No es el objetivo; despertarlo bruscamente puede gatillar un síndrome de abstinencia violento y agitación."
+      },
+      {
+        "text": "B) Restaurar una frecuencia respiratoria y ventilación adecuadas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se busca sacar al paciente del riesgo vital respiratorio usando la dosis mínima efectiva."
+      },
+      {
+        "text": "C) Revertir la miosis puntiforme.",
+        "isCorrect": false,
+        "explanation": "Ocurrirá, pero no es el objetivo clínico prioritario."
+      },
+      {
+        "text": "D) Aumentar la presión arterial.",
+        "isCorrect": false,
+        "explanation": "La naloxona no es un vasopresor primario."
+      },
+      {
+        "text": "E) Prevenir el daño hepático.",
+        "isCorrect": false,
+        "explanation": "Los opioides no son hepatotóxicos agudos."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Hierro (Fases)",
+    "text": "En la intoxicación por hierro, después de la fase inicial de vómitos y diarrea, hay un periodo de 6 a 24 horas donde el paciente parece mejorar clínicamente. ¿Cómo se llama esta fase?",
+    "hint": "Es una trampa para el clínico; el hierro está entrando silenciosamente a las mitocondrias.",
+    "options": [
+      {
+        "text": "A) Fase de recuperación total.",
+        "isCorrect": false,
+        "explanation": "Inexacto; la toxicidad sigue progresando a nivel celular."
+      },
+      {
+        "text": "B) Fase de estabilidad latente o 'falsa mejoría'.",
+        "isCorrect": true,
+        "explanation": "Correcto. El paciente luce mejor antes de caer en shock cardiogénico y falla hepática (Fase 3)."
+      },
+      {
+        "text": "C) Fase de absorción máxima.",
+        "isCorrect": false,
+        "explanation": "La absorción ya ocurrió; ahora ocurre la distribución tisular."
+      },
+      {
+        "text": "D) Fase de excreción renal.",
+        "isCorrect": false,
+        "explanation": "No corresponde a la descripción de la fase clínica latente."
+      },
+      {
+        "text": "E) Fase de cicatrización pilórica.",
+        "isCorrect": false,
+        "explanation": "Ocurre semanas después (Fase 5) debido a las quemaduras gástricas."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Alcohol Isopropílico",
+    "text": "Lactante ingiere alcohol de quemar (isopropílico). Presenta aliento con olor a fruta/quedor de uñas (acetona) pero SIN acidosis metabólica. ¿Cuál es el metabolito responsable?",
+    "hint": "A diferencia del metanol o etilenglicol, este alcohol se convierte en una cetona, no en un ácido.",
+    "options": [
+      {
+        "text": "A) Ácido Fórmico.",
+        "isCorrect": false,
+        "explanation": "Metabolito tóxico del metanol, causa acidosis severa."
+      },
+      {
+        "text": "B) Acetona.",
+        "isCorrect": true,
+        "explanation": "Correcto. El alcohol isopropílico se metaboliza a acetona. Causa depresión del SNC y gastritis, pero no acidosis."
+      },
+      {
+        "text": "C) Ácido Oxálico.",
+        "isCorrect": false,
+        "explanation": "Metabolito del etilenglicol, causa falla renal por cristales."
+      },
+      {
+        "text": "D) Acetaldehído.",
+        "isCorrect": false,
+        "explanation": "Metabolito intermedio del etanol."
+      },
+      {
+        "text": "E) Formaldehído.",
+        "isCorrect": false,
+        "explanation": "Metabolito transitorio del metanol."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Cannabis (Marihuana)",
+    "text": "¿Cuál es el signo clínico más común y constante en un niño pequeño con intoxicación accidental por cannabis (comestibles)?",
+    "hint": "El niño se ve profundamente dormido, algo inusual tras un evento brusco.",
+    "options": [
+      {
+        "text": "A) Agitación extrema.",
+        "isCorrect": false,
+        "explanation": "Ocurre en adultos, pero en niños predomina la depresión."
+      },
+      {
+        "text": "B) Letargia y somnolencia profunda (coma).",
+        "isCorrect": true,
+        "explanation": "Correcto. En pediatría, el THC causa una depresión del sensorio muy marcada que a menudo motiva estudios extensos."
+      },
+      {
+        "text": "C) Midriasis reactiva.",
+        "isCorrect": false,
+        "explanation": "No es un signo característico; lo clásico es la inyección conjuntival (ojos rojos)."
+      },
+      {
+        "text": "D) Hipertensión arterial.",
+        "isCorrect": false,
+        "explanation": "Suele causar taquicardia pero con presión arterial normal o baja."
+      },
+      {
+        "text": "E) Diarrea profusa.",
+        "isCorrect": false,
+        "explanation": "No tiene efectos gastrointestinales secretores."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Arsénico",
+    "text": "En la intoxicación aguda grave por arsénico, ¿cuál es el antídoto de elección?",
+    "hint": "Este quelante fue desarrollado durante la guerra como antídoto para gases arsenicales.",
+    "options": [
+      {
+        "text": "A) Dimercaprol (BAL).",
+        "isCorrect": true,
+        "explanation": "Correcto. El Dimercaprol (British Anti-Lewisite) es el tratamiento de elección para la intoxicación aguda grave por arsénico."
+      },
+      {
+        "text": "B) Deferoxamina.",
+        "isCorrect": false,
+        "explanation": "Para hierro."
+      },
+      {
+        "text": "C) N-acetilcisteína.",
+        "isCorrect": false,
+        "explanation": "Para paracetamol."
+      },
+      {
+        "text": "D) Bicarbonato de sodio.",
+        "isCorrect": false,
+        "explanation": "Para salicilatos/tricíclicos."
+      },
+      {
+        "text": "E) Etanol.",
+        "isCorrect": false,
+        "explanation": "Para metanol."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Intoxicaciones Pediátricas",
+    "topic": "Prevención",
+    "text": "¿Cuál es la principal recomendación de prevención de intoxicaciones que se debe entregar a los padres en el control de niño sano?",
+    "hint": "La mayoría de las intoxicaciones ocurren por descuido en el almacenamiento y uso de envases de bebidas para guardar químicos.",
+    "options": [
+      {
+        "text": "A) Enseñar al niño a no tocar frascos de colores.",
+        "isCorrect": false,
+        "explanation": "Los niños pequeños son exploradores por naturaleza; la educación no reemplaza la barrera física."
+      },
+      {
+        "text": "B) Mantener todos los medicamentos y productos químicos en sus envases originales y bajo llave.",
+        "isCorrect": true,
+        "explanation": "Correcto. El almacenamiento seguro (bajo llave o fuera del alcance/vista) y mantener los productos en envases originales evita confusiones letales."
+      },
+      {
+        "text": "C) Inducir el vómito inmediatamente ante cualquier sospecha.",
+        "isCorrect": false,
+        "explanation": "Medida peligrosa y actualmente desaconsejada en el hogar."
+      },
+      {
+        "text": "D) Tener jarabe de ipecacuana en el botiquín de emergencia.",
+        "isCorrect": false,
+        "explanation": "Ya no se recomienda su uso ni tenencia doméstica."
+      },
+      {
+        "text": "E) Neutralizar con leche cualquier ingesta de químicos.",
+        "isCorrect": false,
+        "explanation": "No neutraliza la mayoría de los tóxicos y puede retrasar el tratamiento médico efectivo."
+      }
+    ]
+  }
+]
