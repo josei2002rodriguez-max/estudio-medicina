@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "CIV e Insuficiencia Cardíaca",
+    "text": "Lactante diagnosticado con una CIV perimembranosa grande no restrictiva. ¿A qué edad suele iniciarse característicamente la clínica de insuficiencia cardíaca por hiperflujo pulmonar? [cite: 1, 2, 3]",
+    "hint": "El cortocircuito de sangre depende de la diferencia de presiones entre ambos circuitos[cite: 9]. Recuerda cuánto tiempo tardan las arteriolas pulmonares del recién nacido en relajar su gruesa capa muscular fetal[cite: 10].",
+    "options": [
+      {
+        "text": "A) Inmediatamente tras el clampeo del cordón umbilical en el parto",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 4]. Al nacer, las resistencias vasculares pulmonares (RVP) son muy altas (casi sistémicas), por lo que fluye poca sangre a través del defecto[cite: 11, 13]."
+      },
+      {
+        "text": "B) Durante la primera semana coincidiendo con el cierre del ductus",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 5]. Durante la primera semana la RVP aún está alta, protegiendo el pulmón[cite: 13]."
+      },
+      {
+        "text": "C) Entre las cuatro y las ocho semanas de vida posnatal",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 6, 8]. Al caer las RVP progresivamente hacia el mes o dos meses de vida, el gradiente presiona masivamente la sangre hacia los pulmones, apareciendo la congestión y falla de medro[cite: 11, 12]."
+      },
+      {
+        "text": "D) Habitualmente durante la etapa preescolar o escolar temprana",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 7]. Un gran defecto generará hiperflujo letal mucho antes del año[cite: 14]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Cianosis Diferencial",
+    "text": "Niño de 3 años presenta cianosis severa aislada en las extremidades inferiores y dedos de los pies en palillo de tambor, mientras que sus extremidades superiores mantienen coloración rosada normal. ¿Qué patología explica esta 'cianosis diferencial'? [cite: 15, 16]",
+    "hint": "La mitad superior del cuerpo recibe sangre oxigenada de la aorta ascendente[cite: 22]. La mitad inferior recibe sangre venosa de una vía de escape tras una obstrucción aórtica[cite: 23].",
+    "options": [
+      {
+        "text": "A) Transposición de grandes arterias sin mezcla auricular",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 17]. La TGA mezcla la sangre a nivel central, produciendo cianosis generalizada[cite: 27]."
+      },
+      {
+        "text": "B) Coartación preductal + Ductus persistente + Hipertensión pulmonar",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 18, 21]. La sangre oxigenada irriga cabeza y brazos[cite: 24, 25]. Al haber coartación preductal y HTP, el VD bombea sangre venosa por el ductus a la aorta descendente, cianotizando las piernas[cite: 24, 26]."
+      },
+      {
+        "text": "C) Tetralogía de Fallot con atresia de la válvula pulmonar severa",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 19]. El Fallot produce cianosis generalizada por mezcla central[cite: 27]."
+      },
+      {
+        "text": "D) Atresia tricúspide con fisiología de ventrículo único dominante",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 20]. Al igual que la TGA y el Fallot, produce cianosis generalizada por mezcla de sangre[cite: 27]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Estenosis Aórtica",
+    "text": "Adolescente sano acude por presentar un síncope de esfuerzo. Al examen físico se pesquisa pulso periférico de ascenso lento (parvus et tardus) y un soplo sistólico eyectivo en el segundo espacio intercostal derecho que se irradia a carótidas. Diagnóstico de sospecha: [cite: 28, 29, 30]",
+    "hint": "El síncope de esfuerzo y la irradiación del soplo al cuello apuntan a una obstrucción del flujo de salida izquierdo[cite: 36].",
+    "options": [
+      {
+        "text": "A) Estenosis de la válvula pulmonar de grado moderado a severo",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 31]. La estenosis pulmonar no se irradia al cuello y el pulso es normal[cite: 40]."
+      },
+      {
+        "text": "B) Estenosis de la válvula aórtica con gradiente transvalvular alto",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 32, 35]. La obstrucción disminuye el volumen y velocidad del pulso (parvus et tardus)[cite: 37]. El soplo se irradia por la aorta al cuello y hay alto riesgo de síncope o muerte súbita en ejercicio[cite: 38, 39]."
+      },
+      {
+        "text": "C) Miocardiopatía dilatada secundaria a miocarditis viral silente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 33]. Cursa con falla de bomba y 3R, no con soplo eyectivo[cite: 41]."
+      },
+      {
+        "text": "D) Coartación de la aorta torácica con circulación colateral masiva",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 34]. Genera HTA superior y asimetría de pulsos, pero no suele causar síncope de esfuerzo[cite: 42]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Semiología Cardíaca (3R)",
+    "text": "En la auscultación cardíaca pediátrica rutinaria, el tercer ruido (3R) suele ser un hallazgo frecuente y benigno. ¿Qué evento hemodinámico representa fisiológicamente este ruido? [cite: 43, 44]",
+    "hint": "Es un ruido de baja frecuencia tras el 2R, cuando la sangre cae de la aurícula a un ventrículo compliante[cite: 50].",
+    "options": [
+      {
+        "text": "A) El cierre simultáneo y abrupto de ambas válvulas auriculoventriculares",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 45]. Esta es la definición del primer ruido (1R)[cite: 52]."
+      },
+      {
+        "text": "B) La fase de llenado pasivo ventricular rápido al inicio de la diástole",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 46, 49]. Se produce por la distensión súbita de las paredes ventriculares en la diástole temprana[cite: 51]. En niños sanos es normal por la gran compliancia miocárdica[cite: 52]."
+      },
+      {
+        "text": "C) La contracción activa de la aurícula contra una pared rígida",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 47]. Esta es la definición del cuarto ruido (4R), el cual siempre es patológico[cite: 53]."
+      },
+      {
+        "text": "D) La apertura tensional de válvulas semilunares severamente estenóticas",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 48]. Corresponde a un chasquido de apertura o clic eyectivo[cite: 54]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "ALCAPA",
+    "text": "Lactante diagnosticado con origen anómalo de la arteria coronaria izquierda desde la arteria pulmonar (ALCAPA). ¿Cuál es la manifestación clínica aguda más característica de esta entidad en la etapa de lactante? [cite: 55, 56]",
+    "hint": "Imagina a un bebé con angina de pecho severa por falta de perfusión miocárdica a los 2 o 3 meses[cite: 62, 63].",
+    "options": [
+      {
+        "text": "A) Episodios sincopales recurrentes exclusivamente estando en reposo",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 57]. El síncope no es la presentación primaria de la isquemia coronaria en el lactante[cite: 66]."
+      },
+      {
+        "text": "B) Crisis de llanto, palidez y sudoración extremas que simulan cólicos",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 58, 61]. Al caer las RVP, ocurre un 'robo' de flujo de la coronaria a la pulmonar, causando isquemia[cite: 64]. El dolor se manifiesta como llanto, palidez y sudoración (equivalente anginoso)[cite: 65]."
+      },
+      {
+        "text": "C) Cuadros de cianosis generalizada persistente refractaria a O2",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 59]. La cianosis profunda no es la presentación típica de este cuadro de isquemia[cite: 66]."
+      },
+      {
+        "text": "D) Crisis de hipertensión arterial maligna con encefalopatía aguda",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 60]. La HTA no es la manifestación primaria; el lactante debuta con dolor o IC aguda[cite: 66]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Profilaxis de Endocarditis",
+    "text": "¿En cuál de las siguientes cardiopatías congénitas se indica Profilaxis Antibiótica para Endocarditis Infecciosa antes de someterse a procedimientos dentales cruentos? [cite: 67]",
+    "hint": "La profilaxis se reserva para pacientes de altísimo riesgo vital donde las bacterias pueden cruzar al sistema arterial sin pasar por los pulmones[cite: 73].",
+    "options": [
+      {
+        "text": "A) Comunicación interauricular tipo ostium secundum pequeña y aislada",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 68]. La CIA ya no requiere profilaxis dental según las guías actuales[cite: 75]."
+      },
+      {
+        "text": "B) Comunicación interventricular operada hace 10 años sin defecto residual",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 69]. Una CIV completamente cerrada sin defectos residuales no requiere profilaxis[cite: 75]."
+      },
+      {
+        "text": "C) Cardiopatía congénita cianótica NO reparada o paliada con fístulas",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 70, 72]. Se reserva para riesgo máximo: válvulas protésicas, endocarditis previa o CC cianóticas no reparadas/con defectos residuales[cite: 74]."
+      },
+      {
+        "text": "D) Paciente preescolar sano que presenta un soplo de Still documentado",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 71]. Los soplos inocentes no requieren profilaxis[cite: 75]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Isquemia Coronaria Infantil",
+    "text": "Niño de 7 años evaluado por intenso dolor torácico durante el ejercicio. El EKG muestra ondas Q patológicas profundas y anchas en derivaciones anterolaterales. ¿Qué diagnóstico estructural debe sospecharse? [cite: 76, 77]",
+    "hint": "Las ondas Q anchas son huellas de tejido necrosado (infartado). Un niño con infarto debe tener problemas en las 'tuberías' cardiacas[cite: 83, 84].",
+    "options": [
+      {
+        "text": "A) Un defecto amplio del tabique interauricular no pesquisado previamente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 78]. La CIA no genera necrosis tisular isquémica ni dolor anginoso clásico[cite: 86]."
+      },
+      {
+        "text": "B) Una persistencia del conducto arterioso con desarrollo de Eisenmenger",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 79]. El DAP no causa este patrón de isquemia y necrosis[cite: 86]."
+      },
+      {
+        "text": "C) Origen anómalo de coronaria o curso interarterial maligno de la misma",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 80, 82]. Anomalías como el ALCAPA o cursos interarteriales comprimidos causan isquemia, necrosis (ondas Q) y riesgo de muerte súbita en el deporte[cite: 85]."
+      },
+      {
+        "text": "D) Un síndrome de preexcitación eléctrica tipo Wolff-Parkinson-White",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 81]. El WPW no genera necrosis por isquemia[cite: 86]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Evolución EKG Pediátrico",
+    "text": "¿Aproximadamente a qué edad el patrón EKG hace la transición completa a dominancia ventricular izquierda (patrón tipo adulto)? [cite: 87, 88]",
+    "hint": "El corazón derecho nace hipertrófico por las presiones in utero y se atrofia mientras el izquierdo gana masa progresivamente[cite: 94, 95].",
+    "options": [
+      {
+        "text": "A) Alrededor de los 3 a 4 años de edad (etapa preescolar)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 89, 93]. Tras el nacimiento el eje es derecho. Cerca de los 3-4 años el VI asume la presión sistémica y el EKG adopta el patrón adulto (R altas en V5-V6)[cite: 96, 97, 98]."
+      },
+      {
+        "text": "B) A la primera semana de vida post-cierre del conducto arterioso",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 90]. Es un proceso más lento que requiere años para la transición de masa muscular[cite: 95]."
+      },
+      {
+        "text": "C) Recién iniciada la pubertad y estirón del desarrollo a los 10 años",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 91]. La transición ocurre mucho antes de la pubertad, en la etapa preescolar[cite: 93, 98]."
+      },
+      {
+        "text": "D) Invariablemente antes de cumplir los 6 primeros meses de vida",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 92]. A los 6 meses el proceso de cambio a dominancia izquierda aún no es completo[cite: 97]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Atresia Pulmonar y PGE1",
+    "text": "RN con cianosis profunda que se agrava al llorar. Rx tórax campos negros, EKG hipertrofia VD. Atresia Pulmonar con septum intacto. Requiere PGE1 con el objetivo de: [cite: 99, 100, 101]",
+    "hint": "Si la válvula pulmonar es una pared infranqueable, la sangre debe llegar a los pulmones en 'reversa' desde la aorta[cite: 107].",
+    "options": [
+      {
+        "text": "A) Disminuir drásticamente el retorno venoso periférico al corazón derecho",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 102]. No es el objetivo terapéutico en esta patología ductus-dependiente[cite: 109]."
+      },
+      {
+        "text": "B) Recanalizar farmacológicamente la válvula pulmonar atrésica obstruida",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 103]. La PGE1 no abre válvulas atrésicas, mantiene permeable el conducto arterioso[cite: 104, 108]."
+      },
+      {
+        "text": "C) Mantener permeable el conducto arterioso y lograr algo de flujo pulmonar",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 104, 106]. La supervivencia depende de que la sangre pase de la aorta a las arterias pulmonares vía ductus para oxigenarse[cite: 108, 109, 110]."
+      },
+      {
+        "text": "D) Promover el cierre inmediato de la comunicación interauricular fetal",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 105]. Cerrar la CIA sería contraproducente para la mezcla obligatoria[cite: 109]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Radiología en CIV",
+    "text": "Lactante con CIV grande no restrictiva. ¿Qué hallazgo radiológico esperaría encontrar clásicamente en una placa de tórax frontal? [cite: 111]",
+    "hint": "La sangre extra pasa al pulmón y retorna masivamente a la aurícula y ventrículo izquierdos[cite: 117].",
+    "options": [
+      {
+        "text": "A) Silueta cardíaca pequeña y vasculatura pulmonar severamente disminuida",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 112]. Una CIV grande produce cardiomegalia e hiperflujo, no lo contrario[cite: 114]."
+      },
+      {
+        "text": "B) Cardiomegalia aislada del ventrículo derecho con botón aórtico muy prominente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 113]. La aorta prominente es más típica de coartación; la CIV sobrecarga cavidades izquierdas[cite: 122]."
+      },
+      {
+        "text": "C) Cardiomegalia a expensas de VI, AI y VD, asociado a claro hiperflujo pulmonar",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 114, 116]. El cortocircuito dilata vasos pulmonares y sobrecarga de volumen a AI y VI[cite: 118, 119, 120]. El VD también crece por adaptación a presión[cite: 121]."
+      },
+      {
+        "text": "D) Corazón con morfología clásica en forma de zueco e hipoflujo perihiliar",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 115]. Estos son signos clásicos de la Tetralogía de Fallot[cite: 121]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Comunicación Interauricular (CIA)",
+    "text": "Respecto a la CIA tipo ostium secundum, indique la afirmación clínica y semiológica correcta: [cite: 123]",
+    "hint": "La presión entre aurículas es baja y similar; cruzar el tabique no hace ruido. El ruido ocurre en la siguiente válvula[cite: 129, 130].",
+    "options": [
+      {
+        "text": "A) La mayoría de las CIA grandes se cierran de forma espontánea durante la adolescencia tardía",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 124]. Las CIA grandes raramente cierran solas y suelen requerir intervención[cite: 134]."
+      },
+      {
+        "text": "B) Resultan ser lesiones gravemente sintomáticas durante los primeros tres meses de vida",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 125]. Suelen tolerarse bien hasta la adultez joven[cite: 134]."
+      },
+      {
+        "text": "C) El soplo clásico de la CIA es originado por la fricción del flujo directo a través del agujero septal",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 126]. El paso por la CIA no genera turbulencia sonora audible[cite: 131]."
+      },
+      {
+        "text": "D) El soplo audible es de tipo pulmonar eyectivo causado por hiperflujo a través de una válvula sana",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 127, 128]. El VD debe bombear mucho más volumen hacia los pulmones, generando turbulencia al pasar por la válvula pulmonar normal[cite: 132, 133]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Prevalencia de Cardiopatías",
+    "text": "¿Cuál es la malformación cardíaca congénita estructural diagnosticada con mayor frecuencia en la población general (excluyendo válvulas aórticas bicúspides)? [cite: 135]",
+    "hint": "Es un defecto en la pared de la principal cavidad de bombeo que representa el 25-30% de las malformaciones pediátricas[cite: 141].",
+    "options": [
+      {
+        "text": "A) Tetralogía de Fallot de presentación clásica",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 136]. No es la más frecuente en la población general[cite: 142]."
+      },
+      {
+        "text": "B) Comunicación Interventricular de tipo perimembranosa o muscular",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 137, 140]. Es la anomalía estructural más común, constituyendo cerca del 25-30% de todas las CC[cite: 142]. Aunque muchas cierran solas, es la más prevalente globalmente[cite: 143]."
+      },
+      {
+        "text": "C) Comunicación Interauricular en su variante tipo ostium secundum",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 138]. Es frecuente, pero la CIV la supera en prevalencia[cite: 142]."
+      },
+      {
+        "text": "D) Persistencia patológica crónica del foramen oval sintomático",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 139]. No se considera la cardiopatía estructural más diagnosticada en comparación con la CIV[cite: 142]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Efectos Adversos de AINEs",
+    "text": "RN prematuro recibe ibuprofeno para cierre del DAP y presenta oliguria severa. ¿Qué conducta tomaría? [cite: 144, 145, 146]",
+    "hint": "El fármaco inhibe prostaglandinas renales (PGE2) vitales para mantener el flujo sanguíneo al glomérulo en riñones inmaduros[cite: 152].",
+    "options": [
+      {
+        "text": "A) Aumentar la dosis del fármaco para asegurar el cierre ductal rápido",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 147]. Aumentar la dosis empeoraría la vasoconstricción renal y la falla orgánica[cite: 153]."
+      },
+      {
+        "text": "B) Agregar indometacina en bolo para un bloqueo enzimático sinérgico",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 148]. La indometacina también es un AINE y agravaría el daño renal[cite: 153]."
+      },
+      {
+        "text": "C) Suspender inmediatamente el fármaco por falla renal intrínseca y reevaluar",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 149, 151]. Los AINEs causan vasoconstricción de la arteriola aferente renal, precipitando IRA isquémica[cite: 153]. Ante oliguria se debe suspender o retrasar la dosis[cite: 154]."
+      },
+      {
+        "text": "D) Administrar Furosemida concomitante y mantener la pauta de ibuprofeno",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 150]. La prioridad es retirar el agente causal de la falla renal isquémica[cite: 153, 154]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Truncus Arteriosus",
+    "text": "¿Cuál es el defecto fisiopatológico o embrionario primario que define al Truncus Arteriosus? [cite: 155, 156]",
+    "hint": "Su nombre refiere a un 'tronco' primitivo que nunca llegó a dividirse en dos tubos independientes[cite: 162].",
+    "options": [
+      {
+        "text": "A) Ausencia total del desarrollo de los primordios de las válvulas semilunares",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 157]. El problema no es la ausencia de primordios, sino la falta de división del tronco común[cite: 163]."
+      },
+      {
+        "text": "B) Falla en el tabicamiento y rotación del tronco embrionario común en arterias aorta y pulmonar",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 158, 161]. No se forma el tabique espiral aortopulmonar[cite: 163]. Un único vaso cabalga sobre una CIV y da origen a coronarias, sistémica y pulmonar mezclando sangre[cite: 164]."
+      },
+      {
+        "text": "C) Drenaje aberrante de todas las venas pulmonares de forma directa hacia la aurícula derecha",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 159]. Esto define al Drenaje Venoso Anómalo Pulmonar Total[cite: 163]."
+      },
+      {
+        "text": "D) Obliteración prematura intrauterina del conducto arterioso causando atrofia ventricular",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 160]. No corresponde a la definición embriológica del Truncus[cite: 163]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Secuelas post-corrección de Fallot",
+    "text": "Paciente operado de Fallot hace 15 años consulta por fatiga crónica. ¿Cuál es la secuela alejada más frecuente? [cite: 165, 166]",
+    "hint": "Para corregir el Fallot se suele ampliar el tracto de salida derecho, sacrificando la competencia de esa válvula[cite: 172].",
+    "options": [
+      {
+        "text": "A) Insuficiencia pulmonar severa progresiva secundaria a la manipulación quirúrgica del tracto",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 167, 171]. El parche transanular alivia la estenosis pero deja la válvula incontinente[cite: 173]. El reflujo dilata el VD y suele requerir recambio valvular en la adultez joven[cite: 174, 175]."
+      },
+      {
+        "text": "B) Estenosis valvular aórtica severa de rápido avance",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 168]. No es la secuela típica ni más frecuente tras la reparación de un Fallot[cite: 173]."
+      },
+      {
+        "text": "C) Rotura espontánea del parche del tabique interventricular por alta presión",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 169]. Aunque posible, no es la causa más frecuente de reintervención tardía[cite: 173]."
+      },
+      {
+        "text": "D) Endocarditis de la válvula mitral por lesión endocardíaca residual",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 170]. La principal complicación valvular tras corregir Fallot ocurre en el lado derecho (pulmonar)[cite: 175]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Situs y Cardiopatías",
+    "text": "¿Qué posición del eje y punta del corazón es altísimamente indicativa de cardiopatías estructurales complejas (sin situs inversus totalis)? [cite: 176]",
+    "hint": "El problema ocurre cuando el corazón gira al lado contrario pero el resto de los órganos abdominales giran al lado normal[cite: 182].",
+    "options": [
+      {
+        "text": "A) Levocardia con órganos abdominales de distribución simétrica normal",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 177]. Esta es la posición anatómica normal (Situs Solitus)[cite: 183]."
+      },
+      {
+        "text": "B) Dextrocardia aislada con posición de órganos abdominales en situs solitus",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 178, 181]. La discordancia atriovisceral se asocia en >90-95% a malformaciones severas como canal AV complejo o ventrículos únicos[cite: 184]."
+      },
+      {
+        "text": "C) Mesocardia con situs inversus esplácnico completo de las vísceras",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 179]. El riesgo máximo de CC complejas es con la dextrocardia aislada en situs solitus[cite: 184]."
+      },
+      {
+        "text": "D) Posición de la punta a la izquierda pero ausente a la palpación por obesidad",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 180]. La obesidad puede dificultar la palpación, pero no indica malformación estructural per se[cite: 183]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Evaluación de Insuficiencia Cardíaca",
+    "text": "Lactante con sospecha de IC. ¿Cuál de los siguientes estudios NO es útil para confirmar diagnóstico anatómico ni cuantificar falla de bomba? [cite: 185, 186]",
+    "hint": "Busca el examen que mide vectores eléctricos pero es 'ciego' para evaluar volúmenes de sangre o fuerza contráctil[cite: 192].",
+    "options": [
+      {
+        "text": "A) Radiografía de tórax frontal buscando redistribución de flujos y cardiomegalia",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 187]. La RX es muy útil para evaluar la congestión pulmonar secundaria a la falla[cite: 194]."
+      },
+      {
+        "text": "B) Electrocardiograma (EKG) de 12 derivaciones estándar de superficie",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 188, 191]. El EKG detecta arritmias o isquemia, pero NO confirma falla de bomba ni cuantifica fracción de eyección[cite: 193]."
+      },
+      {
+        "text": "C) Medición de los niveles plasmáticos de Péptido natriurético tipo B (BNP)",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 189]. Los BNP son biomarcadores de sobrecarga y estiramiento, útiles en el diagnóstico de falla[cite: 194]."
+      },
+      {
+        "text": "D) Ecocardiograma Doppler bidimensional a pie de cama",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 190]. Es el estándar de oro para evaluar la función contráctil y anatomía[cite: 194]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Taquicardia Supraventricular (TSV)",
+    "text": "Niño con dolor torácico súbito, FC 220 lpm, EKG con QRS estrecho rítmico y sin ondas P visibles. ¿Sospecha prioritaria? [cite: 195, 196, 197]",
+    "hint": "Una FC de 220 es difícil de alcanzar fisiológicamente. El QRS estrecho indica origen arriba del ventrículo[cite: 203, 204].",
+    "options": [
+      {
+        "text": "A) Taquicardia sinusal refleja secundaria a crisis de pánico o fiebre",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 198]. La taquicardia sinusal tiene variabilidad y ondas P visibles; a 220 lpm es improbable en este contexto[cite: 207]."
+      },
+      {
+        "text": "B) Fibrilación auricular con respuesta ventricular caótica y rápida",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 199]. La FA sería rítmicamente irregular (arrítmica)[cite: 208]."
+      },
+      {
+        "text": "C) Taquicardia Supraventricular paroxística por circuito de reentrada (TSV)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 200, 202]. Es la arritmia clínica más frecuente en pediatría[cite: 206]. La FC es alta y fija, QRS estrecho y ondas P escondidas o retrógradas[cite: 207]."
+      },
+      {
+        "text": "D) Taquicardia Ventricular idiopática con pulso conservado",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 201]. La TV cursa con complejos QRS notoriamente anchos[cite: 208]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Manejo de la TSV estable",
+    "text": "En un niño con TSV hemodinámicamente ESTABLE, ¿cuál es el manejo de primera elección? [cite: 209]",
+    "hint": "En pacientes con buena perfusión se intentan técnicas no invasivas para aumentar el tono parasimpático antes del fármaco 'reseteador'[cite: 215, 216].",
+    "options": [
+      {
+        "text": "A) Cardioversión eléctrica sincronizada bajo sedación rápida en box",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 210]. Se reserva exclusivamente para pacientes INESTABLES (shock, compromiso de conciencia)[cite: 219]."
+      },
+      {
+        "text": "B) Maniobras vagales (ej. reflejo de inmersión/hielo) seguidas de bolo rápido de Adenosina IV",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 211, 214]. Primero se intenta romper el circuito con reflejos vagales (Valsalva o hielo). Si falla, el fármaco de elección es la Adenosina en bolo veloz[cite: 217, 218]."
+      },
+      {
+        "text": "C) Infusión de Amiodarona por vía venosa central y observación estricta",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 212]. La adenosina es la primera línea farmacológica para revertir una TSV estable[cite: 218]."
+      },
+      {
+        "text": "D) Inyección de Adrenalina intracardíaca directa por abordaje subxifoideo",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 213]. La adrenalina es un estimulante que empeoraría la taquiarritmia[cite: 218]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Cardioversión Eléctrica",
+    "text": "¿Ante qué presentación clínica se indica la Cardioversión Eléctrica Sincronizada inmediata e impostergable? [cite: 220]",
+    "hint": "Se reserva para cuando el corazón late tan ineficientemente que hay isquemia orgánica por falta de riego y no hay tiempo para fármacos[cite: 226].",
+    "options": [
+      {
+        "text": "A) Cualquier Bradicardia que descienda por debajo de los 60 latidos por minuto",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 221]. Las bradicardias severas se manejan con adrenalina o RCP, no con cardioversión[cite: 228]."
+      },
+      {
+        "text": "B) Una Taquicardia Supraventricular prolongada que mantiene al paciente rosado y alerta",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 222]. Si el paciente está estable, se inician maniobras vagales y adenosina[cite: 217, 218]."
+      },
+      {
+        "text": "C) Cualquier Taquiarritmia (TSV o Ventricular) acompañada de signos francos de inestabilidad hemodinámica y shock",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 223, 225]. Si la arritmia produce hipotensión o alteración del sensorio, las guías PALS indican cardiovertir de inmediato (0.5 a 1 J/kg sincronizado)[cite: 227]."
+      },
+      {
+        "text": "D) En la detección casual de un Bloqueo Auriculoventricular completo congénito asintomático",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 224]. El bloqueo estable requiere evaluación para marcapasos electivo, no cardioversión de urgencia[cite: 228]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Síndrome de Williams",
+    "text": "Lactante con fenotipo facial de 'duendecillo', retraso psicomotor, hipercalcemia e hiperacusia. ¿Qué anomalía cardiovascular es clásica? [cite: 229, 230]",
+    "hint": "El cuadro es un Síndrome de Williams por deleción del gen de la elastina[cite: 236].",
+    "options": [
+      {
+        "text": "A) Coartación de la aorta de tipo preductal severa y persistencia de ductus",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 231]. Esta asociación es más frecuente en el Síndrome de Turner[cite: 239]."
+      },
+      {
+        "text": "B) Estenosis aórtica supravalvular estrecha y estenosis de las ramas pulmonares",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 232, 235]. La pérdida de elastina genera engrosamiento de grandes vasos; la estenosis supravalvular aórtica es su sello (hasta 75%) junto a estenosis de ramas pulmonares[cite: 237, 238]."
+      },
+      {
+        "text": "C) Comunicación interventricular muscular asociada a múltiples fenestraciones",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 233]. Las CIV son más comunes en trisomías como el Síndrome de Down[cite: 239]."
+      },
+      {
+        "text": "D) Atresia tricúspide con patrón morfológico univentricular funcional",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 234]. No es la cardiopatía característica descrita para el Síndrome de Williams[cite: 238]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Síndrome de Marfan",
+    "text": "Adolescente con talla alta, hiperlaxitud, aracnodactilia y subluxación de cristalino. ¿Qué complicación cardiovascular es la principal causa de mortalidad súbita? [cite: 240, 241]",
+    "hint": "El defecto en la fibrilina-1 debilita las paredes de los vasos de alta presión[cite: 247, 248].",
+    "options": [
+      {
+        "text": "A) Miocardiopatía dilatada autoinmune progresiva y fibrilación auricular",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 242]. El Marfan afecta principalmente el tejido conectivo vascular, no es primariamente una miocardiopatía autoinmune[cite: 249]."
+      },
+      {
+        "text": "B) Dilatación masiva y posterior disección letal de la raíz aórtica",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 243, 246]. La mutación debilita la capa media aórtica. La presión dilata el anillo provocando aneurismas y riesgo de disección o ruptura letal[cite: 249, 250, 251]."
+      },
+      {
+        "text": "C) Insuficiencia cardíaca derecha progresiva por atresia pulmonar valvular",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 244]. No es la patología asociada al Marfan[cite: 251]."
+      },
+      {
+        "text": "D) Estenosis severa y múltiple de las arteriolas pulmonares periféricas",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 245]. El problema central del Marfan reside en la aorta sistémica[cite: 251]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Lupus Neonatal",
+    "text": "RN hijo de madre con LES (anti-Ro/SSA y anti-La/SSB positivos) presenta FC de 50 lpm asintomático. ¿Qué alteración presenta? [cite: 252, 253, 254]",
+    "hint": "Las IgG maternas cruzan la placenta y atacan el tejido de conducción embrionario entre aurículas y ventrículos[cite: 260].",
+    "options": [
+      {
+        "text": "A) Bradicardia sinusal vagotónica fisiológica por adaptación transitoria",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 255]. Una FC de 50 es demasiado baja para ser considerada meramente fisiológica en un neonato[cite: 262]."
+      },
+      {
+        "text": "B) Bloqueo Auriculoventricular completo (de tercer grado) de origen congénito",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 256, 259]. Es la manifestación clásica del lupus neonatal. Los anticuerpos destruyen el nodo AV, dejando un ritmo de escape lento (40-60 lpm) irreversible[cite: 261, 262, 263]."
+      },
+      {
+        "text": "C) Estenosis aórtica crítica con falla de bomba y perfusión cerebral deprimida",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 257]. No explica la bradicardia aislada en el contexto de anticuerpos lúpicos maternos[cite: 261]."
+      },
+      {
+        "text": "D) Miocarditis lúpica destructiva activa con necrosis muscular miocárdica",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 258]. Aunque puede haber inflamación, el hallazgo patognomónico es la destrucción del sistema de conducción[cite: 262]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Hijo de Madre Diabética (Teratogenia)",
+    "text": "Gestante con diabetes Tipo 1 mal controlada. ¿Qué cardiopatías tienen incidencia aumentada en el feto? [cite: 264, 265]",
+    "hint": "A diferencia de la diabetes gestacional, la preexistente actúa como teratógeno en la 4ta semana interfiriendo con la tabicación del cono[cite: 271].",
+    "options": [
+      {
+        "text": "A) Anomalía de Ebstein y bloqueos eléctricos bifasciculares",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 266]. El Ebstein se asocia clásicamente al litio, no a la diabetes materna[cite: 272]."
+      },
+      {
+        "text": "B) Transposición de Grandes Arterias (TGA) y Truncus Arteriosus",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 267, 270]. La diabetes pregestacional mal controlada afecta la migración celular al tronco conal, disparando el riesgo de TGA (asociación más fuerte), Truncus y CIV[cite: 272, 273]."
+      },
+      {
+        "text": "C) Drenaje venoso anómalo pulmonar total de tipo supracardíaco",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 268]. No es la asociación característica principal con la diabetes pregestacional[cite: 272]."
+      },
+      {
+        "text": "D) Cor pulmonale crónico y agenesia de la válvula tricúspide",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 269]. La diabetes materna afecta principalmente los tractos de salida y tabiques[cite: 273]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Síndrome de Holt-Oram",
+    "text": "Paciente con ausencia de pulgar derecho y agenesia de radio, con desdoblamiento fijo del 2R. ¿Sospecha sindromática? [cite: 274, 275]",
+    "hint": "Existe un síndrome 'corazón-mano' que asocia defectos de los rayos preaxiales del miembro superior con defectos septales cardíacos[cite: 281].",
+    "options": [
+      {
+        "text": "A) Síndrome de Turner y Coartación aórtica asociada",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 276]. El Turner no asocia aplasia radial o defectos del pulgar como su rasgo definitorio[cite: 283]."
+      },
+      {
+        "text": "B) Síndrome de DiGeorge y atresia esofágica secundaria",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 277]. El DiGeorge asocia defectos conotruncales e hipocalcemia[cite: 283]."
+      },
+      {
+        "text": "C) Síndrome de Holt-Oram (o Síndrome Corazón-Mano)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 278, 280]. Causado por mutación en TBX5. Combina malformaciones esqueléticas (radio/pulgar) con CC septales, muy característicamente CIA (que explica el 2R fijo)[cite: 282, 283]."
+      },
+      {
+        "text": "D) Secuencia VACTERL con Tetralogía de Fallot silente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 279]. Aunque VACTERL tiene defectos de extremidades, la tríada corazón-mano con CIA apunta específicamente a Holt-Oram[cite: 283]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Enfermedad de Pompe",
+    "text": "Lactante con hipotonía profunda, macroglosia y cardiomegalia masiva. EKG: PR muy corto con QRS de voltaje gigante. Diagnóstico diferencial: [cite: 284, 285, 286]",
+    "hint": "El glucógeno se acumula en lisosomas que estallan, engrosando masivamente el músculo cardíaco con material no degradable[cite: 292].",
+    "options": [
+      {
+        "text": "A) Hipotiroidismo congénito sin tratamiento sustitutivo de levotiroxina precoz",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 287]. El hipotiroidismo causa bajo voltaje en el EKG, no alto[cite: 296]."
+      },
+      {
+        "text": "B) Síndrome de Down en etapa avanzada con disfunción cardíaca silente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 288]. El cuadro de PR corto y QRS gigantes es específico de este trastorno metabólico[cite: 295]."
+      },
+      {
+        "text": "C) Enfermedad de Pompe de inicio infantil temprano (Glucogenosis tipo II)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 289, 291]. Déficit de alfa-glucosidasa ácida. El depósito masivo de glucógeno causa hipotonía, cardiomegalia letal y altera la conducción (PR corto y QRS gigantes)[cite: 293, 294, 295]."
+      },
+      {
+        "text": "D) Miocarditis viral fulminante por citomegalovirus adquirida en parto",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 290]. La miocarditis no presenta este patrón EKG específico de PR corto y voltajes extremos[cite: 295]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Coartación y Válvula Bicúspide",
+    "text": "¿Qué otra malformación se asocia sincrónicamente con la Coartación Aórtica en hasta el 85% de los casos? [cite: 297, 298]",
+    "hint": "La alteración del desarrollo del lado izquierdo tiende a ser 'en cascada', afectando a la válvula inmediatamente proximal[cite: 304].",
+    "options": [
+      {
+        "text": "A) Comunicación interauricular aislada pequeña",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 299]. La asociación no es tan frecuente ni específica como con la válvula bicúspide[cite: 305]."
+      },
+      {
+        "text": "B) Válvula aórtica bicúspide con tendencia a estenosis/insuficiencia",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 300, 303]. Presente en un 50-85% de los pacientes coartados. Requieren ecocardiogramas de por vida para vigilar calcificación o estenosis valvular[cite: 305, 306]."
+      },
+      {
+        "text": "C) Estenosis mitral de patrón reumático adquirida e idiopática",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 301]. La coartación es congénita; la estenosis reumática es una complicación adquirida[cite: 306]."
+      },
+      {
+        "text": "D) Ductus venoso hepático persistente intrahepático sintomático",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 302]. No existe una asociación epidemiológica fuerte documentada con la coartación[cite: 305]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "CIA Ostium Primum",
+    "text": "¿Con qué otra anomalía se asocia casi obligatoriamente la CIA 'Ostium Primum' dada su posición? [cite: 307, 308]",
+    "hint": "Es el extremo más leve del espectro de defectos del Canal Auriculoventricular y afecta la cruz del corazón[cite: 314, 315].",
+    "options": [
+      {
+        "text": "A) Drenaje anómalo parcial de varias venas pulmonares superiores derechas",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 309]. Esto se asocia clásicamente a la CIA tipo seno venoso alto[cite: 318]."
+      },
+      {
+        "text": "B) Hendidura anatómica (Cleft) de la valva anterior de la válvula mitral",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 310, 313]. Es un defecto de los cojinetes endocárdicos. Invariablemente se acompaña de esta malformación valvular que genera insuficiencia mitral[cite: 316, 317]."
+      },
+      {
+        "text": "C) Válvula aórtica bicúspide no funcional con calcificación precoz silente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 311]. La válvula bicúspide se asocia a coartación, no típicamente a la CIA ostium primum[cite: 305]."
+      },
+      {
+        "text": "D) Estenosis fibrosa concéntrica múltiple de todas las venas pulmonares",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 312]. No es la asociación característica de este defecto de cojinetes[cite: 317]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Semiología de la CIV",
+    "text": "¿Cuál de las siguientes afirmaciones constituye un axioma semiológico confiable respecto a la CIV? [cite: 319]",
+    "hint": "Un agujero minúsculo forzará el paso de sangre a altísima velocidad, mientras uno masivo igualará presiones silenciosamente[cite: 326].",
+    "options": [
+      {
+        "text": "A) A menor tamaño del orificio de la CIV, mayor hiperflujo y daño pulmonar",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 320]. Las CIV pequeñas (Roger) tienen cortocircuito insignificante sin síntomas de hiperflujo[cite: 328]."
+      },
+      {
+        "text": "B) A menor tamaño del defecto septal, más ruidoso e intenso es el soplo auscultable",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 321, 324]. El orificio pequeño produce enormes gradientes tensionales y alta velocidad, generando soplos holosistólicos muy fuertes y ásperos[cite: 328, 329]."
+      },
+      {
+        "text": "C) A mayor tamaño diametral de la CIV, el niño no presentará síntomas ni disnea",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 322]. Los defectos gigantes inundan el pulmón de volumen silencioso causando IC sintomática[cite: 330]."
+      },
+      {
+        "text": "D) El soplo de la CIV grande es un soplo continuo similar a una fístula arteriovenosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 323]. El soplo de la CIV es holosistólico, no continuo[cite: 329]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Tratamiento del DAP",
+    "text": "Escolar de 6 años con DAP pequeño-moderado sin repercusión. ¿Terapia de elección actual? [cite: 331, 332]",
+    "hint": "A esta edad el ductus es un tubo endurecido inaccesible a fármacos, pero ocluible desde el interior de los vasos[cite: 338].",
+    "options": [
+      {
+        "text": "A) Tratamiento curativo en base a ibuprofeno endovenoso en altas dosis semanales",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 333]. En niños mayores el tejido está maduro y ya no responde a AINEs[cite: 339]."
+      },
+      {
+        "text": "B) Ligadura quirúrgica abierta clásica de rescate mediante toracotomía posterolateral",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 334]. Se relega a niños de muy bajo peso o anatomías inviables para catéter[cite: 341]."
+      },
+      {
+        "text": "C) Cierre percutáneo mínimamente invasivo por cateterismo (Amplatzer/Coil)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 335, 337]. Es el gold standard moderno: se coloca un tapón guiado por hemodinamia con rápida recuperación[cite: 340]. Se hace para prevenir endarteritis[cite: 342]."
+      },
+      {
+        "text": "D) Observación pasiva indefinida hasta que el paciente alcance la edad adulta temprana",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 336]. No se deja a evolución espontánea para prevenir el riesgo de endarteritis bacteriana[cite: 342]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Canal Atrioventricular",
+    "text": "Lactante con Down presenta IC y EKG con 'eje QRS superior' (entre -30° y -90°). ¿Sello diagnóstico de? [cite: 343, 344, 345]",
+    "hint": "La falla en la cruz del corazón desplaza el sistema de conducción, haciendo que la despolarización 'suba' en el trazado[cite: 351].",
+    "options": [
+      {
+        "text": "A) Tetralogía de Fallot de progresión aguda hacia la etapa cianótica",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 346]. El Fallot cursa típicamente con eje derecho por hipertrofia de VD[cite: 353]."
+      },
+      {
+        "text": "B) Comunicación interventricular de tipo muscular con cierre parcial anatómico",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 347]. No se asocia a este patrón de desviación extrema del eje[cite: 353]."
+      },
+      {
+        "text": "C) Defecto de los cojinetes endocárdicos o Canal Atrioventricular (AV) completo",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 348, 350]. La ausencia de tabiques inferiores desplaza el haz de His. La despolarización de inferior a superior produce el eje superior izquierdo patognomónico en neonatos con Down[cite: 352, 353, 354]."
+      },
+      {
+        "text": "D) Transposición de Grandes Arterias con comunicación interauricular aislada",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 349]. No presenta esta alteración específica del sistema de conducción[cite: 353]."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "DVAPT Obstruido",
+    "text": "RN con cianosis severa, RX con edema pulmonar y silueta cardíaca PEQUEÑA. PGE1 no mejora la hipoxia. ¿Sospecha? [cite: 355, 356, 357]",
+    "hint": "Las venas pulmonares conectan a un tubo que choca con un obstáculo físico (hígado). La sangre 'limpia' no llega al corazón y revienta los alvéolos[cite: 363, 364].",
+    "options": [
+      {
+        "text": "A) Tetralogía de Fallot extrema y descompensada hemodinámicamente a nivel infundibular",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 358]. El Fallot presentaría pulmones negros (hipoflujo), no edema pulmonar[cite: 366]."
+      },
+      {
+        "text": "B) Drenaje Venoso Anómalo Pulmonar Total (DVAPT) de variedad OBSTRUIDA infradiafragmática",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 359, 362]. Las venas bajan al abdomen y se estrangulan. El corazón es pequeño por falta de retorno e inunda el pulmón (edema severo). La PGE1 es inútil; es una emergencia quirúrgica[cite: 365, 366, 368, 369]."
+      },
+      {
+        "text": "C) Síndrome de Hipoplasia de Corazón Izquierdo masiva y estenosis de la aorta ascendente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 360]. En el SHCI la PGE1 es vital y sí mejoraría el cuadro inicialmente al permitir flujo sistémico[cite: 368]."
+      },
+      {
+        "text": "D) Atresia Pulmonar con septo intacto y circulación bronquial escasamente desarrollada",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 361]. Presentaría hipoflujo pulmonar y no explicaría el edema con corazón pequeño[cite: 366]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Operación de Jatene",
+    "text": "En TGA, ¿cuándo debe realizarse idealmente la cirugía de 'Switch Arterial' (Jatene)? [cite: 370, 371]",
+    "hint": "El VI bombea sangre a baja presión al pulmón. Si se espera meses, el músculo se vuelve flojo y fallará al conectarlo a la resistencia sistémica[cite: 377, 378].",
+    "options": [
+      {
+        "text": "A) Al cumplir exactamente el primer año de vida, tras ganar peso suficiente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 372]. A un año el VI ya habría perdido su masa muscular necesaria para manejar la presión sistémica[cite: 381]."
+      },
+      {
+        "text": "B) De forma electiva entre los seis y los doce meses de vida cronológica",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 373]. El tiempo ideal es en el período neonatal temprano[cite: 380]."
+      },
+      {
+        "text": "C) En las primeras dos a tres semanas de vida posnatal (período neonatal)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 374, 376]. Debe hacerse antes de que el VI pierda su masa muscular adaptada a la resistencia. Después de un mes, sería incapaz de bombear a la aorta (falla letal)[cite: 379, 380, 381]."
+      },
+      {
+        "text": "D) Inmediatamente extraído del canal del parto en la sala de atención perinatal",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 375]. Aunque es urgente, se dispone de una ventana de 2 a 3 semanas para la intervención[cite: 380]."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Fístula de Blalock-Taussig",
+    "text": "¿Qué arterias se conectan estructuralmente mediante la Fístula de Blalock-Taussig modificada? [cite: 382, 383]",
+    "hint": "La intervención recrea la función de un conducto arterioso: toma sangre a alta presión del brazo y la inyecta a los pulmones[cite: 389, 390].",
+    "options": [
+      {
+        "text": "A) La gran Vena Cava Superior anastomótica directo a la Arteria Pulmonar derecha",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 384]. Esto describe el procedimiento de Glenn[cite: 392]."
+      },
+      {
+        "text": "B) La Arteria Subclavia (o tronco braquiocefálico) injertada con la arteria Pulmonar",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 385, 388]. Se usa un injerto (Gore-Tex) para unir una arteria sistémica con la pulmonar, creando un 'ductus artificial' para asegurar flujo pulmonar y oxigenación[cite: 391]."
+      },
+      {
+        "text": "C) La cara anterior de la Aorta ascendente anastomosada con el tronco Pulmonar principal",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 386]. No corresponde a la descripción anatómica de la fístula de Blalock-Taussig[cite: 391]."
+      },
+      {
+        "text": "D) El infundíbulo del Ventrículo Derecho de manera tubular con la Arteria Pulmonar distal",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 387]. Describe un conducto valvado de Rastelli[cite: 392]."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Cirugía de Fontan",
+    "text": "¿En qué consiste el cambio circulatorio definitivo de la Cirugía de Fontan en un corazón univentricular? [cite: 393, 394]",
+    "hint": "La cirugía 'by-passea' el corazón derecho: la sangre sin oxígeno fluye por gravedad desde las venas a los pulmones sin bomba ventricular[cite: 400, 401].",
+    "options": [
+      {
+        "text": "A) Recreación artificial de un tabique septal ventricular con material puramente sintético",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 395]. El Fontan es una paliación para corazones inoperables de forma biventricular[cite: 402]."
+      },
+      {
+        "text": "B) Derivación cavopulmonar total (se conectan la VCI y VCS directamente a las arterias pulmonares)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 396, 399]. Se redirige todo el retorno venoso a las arterias pulmonares puenteando el corazón[cite: 402]. El ventrículo único queda solo para bombear a la aorta, resolviendo la cianosis[cite: 404]."
+      },
+      {
+        "text": "C) Conexión unificada de la aorta sistémica al ventrículo único y el vaso pulmonar a un tubo externo artificial",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 397]. El objetivo del Fontan es eliminar la mezcla de sangre y proveer flujo pulmonar pasivo[cite: 402]."
+      },
+      {
+        "text": "D) Procedimiento de sustitución masiva y trasplante cardíaco total y de grandes vasos profiláctico",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 398]. Es una cirugía reconstructiva, no un trasplante[cite: 402]."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Hipoplasia de Corazón Izquierdo (SHCI)",
+    "text": "En el SHCI, ¿qué papel vital cumple el Ductus Arterioso en las primeras horas antes de cerrarse? [cite: 405]",
+    "hint": "El lado izquierdo es incapaz de eyectar nada; el VD debe enviar sangre para todo el cuerpo por la única ruta posible[cite: 411].",
+    "options": [
+      {
+        "text": "A) Derivar la sangre altamente oxigenada desde el ventrículo izquierdo a la arteria aorta inferior",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 406]. El VI no tiene función eyectiva útil en esta patología[cite: 412]."
+      },
+      {
+        "text": "B) Mantener un flujo sistémico en dirección RETRÓGRADA desde la arteria pulmonar cruzando hacia la aorta",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 407, 410]. El VD eyecta toda la sangre mezclada a la pulmonar. El ductus permite que fluya 'en reversa' a la aorta descendente y suba al arco para nutrir cerebro y coronarias[cite: 413, 414]. Su cierre es letal[cite: 415]."
+      },
+      {
+        "text": "C) Redirigir el excedente de sangre desoxigenada velozmente hacia los pulmones para evitar colapso tisular",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 408]. El problema vital es la falta de perfusión sistémica (al cuerpo), no pulmonar[cite: 414]."
+      },
+      {
+        "text": "D) Descomprimir drásticamente la enorme hipertensión diastólica alojada en la gran aurícula derecha",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 409]. No es la función hemodinámica vital del ductus en el SHCI[cite: 414]."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Operación de Norwood",
+    "text": "¿Cuál es la compleja cirugía paliativa de primera etapa para el SHCI realizada en la primera semana? [cite: 416, 417]",
+    "hint": "Se transforma la gran arteria pulmonar en una neoaorta y se genera un tubo artificial para nutrir los pulmones[cite: 423].",
+    "options": [
+      {
+        "text": "A) Operación de Norwood para conformar una neoaorta y proveer de flujo pulmonar colateral",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 418, 422]. El tronco pulmonar se sutura a la pequeña aorta nativa creando una 'neo-aorta' que conecta el VD al cuerpo[cite: 424, 425]. El flujo pulmonar se restaura con una fístula de Blalock-Taussig[cite: 426]."
+      },
+      {
+        "text": "B) Operación bidireccional de Glenn para conectar cabeza y pulmones excluyendo VCI",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 419]. El Glenn es la segunda etapa de la paliación escalonada[cite: 427]."
+      },
+      {
+        "text": "C) Procedimiento septostómico de Rashkind percutáneo seguido de seguimiento anual pasivo",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 420]. El Rashkind es una medida de soporte inicial en TGA, no la cirugía reconstructiva del SHCI[cite: 427]."
+      },
+      {
+        "text": "D) Reparación anatómica y switch arterial de Jatene en circulación extracorpórea completa",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 421]. El Jatene es para la transposición de grandes arterias[cite: 427]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "EKG en Ebstein",
+    "text": "Niño de 4 años con anomalía de Ebstein. ¿Qué hallazgo eléctrico extremadamente clásico se espera en su EKG? [cite: 428, 429]",
+    "hint": "La aurícula derecha está auricularizada, tensa y expandida, y suelen existir puentes eléctricos aberrantes[cite: 435, 436].",
+    "options": [
+      {
+        "text": "A) Fibrilación ventricular sostenida y paroxística recurrente e invalidante clínicamente",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 430]. Aunque hay riesgo de arritmias, no es el hallazgo patognomónico del EKG en Ebstein[cite: 438]."
+      },
+      {
+        "text": "B) Bloqueo auriculoventricular anatómico completo de tipo transitorio sin marcapasos",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 431]. No es la característica eléctrica principal de esta anomalía[cite: 439]."
+      },
+      {
+        "text": "C) Ondas P gigantes picudas ('Himalayas') y eventual patrón de preexcitación (WPW) asociado",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 432, 434]. La AD gigante e hipertrófica genera ondas P altísimas ('P Himalayas')[cite: 438, 439]. Se asocia en 20-30% a haces accesorios y síndrome de WPW[cite: 440]."
+      },
+      {
+        "text": "D) Ondas Q de gran profundidad en las derivaciones de cara anterolateral sugerentes de necrosis",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 433]. Las ondas Q profundas sugieren necrosis miocárdica (ej. ALCAPA), no Ebstein[cite: 439]."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "EKG en Atresia Tricuspídea",
+    "text": "RN cianótico. EKG: Desviación marcada del eje a la izquierda e Hipertrofia Ventricular Izquierda. ¿Cardiopatía probable? [cite: 441, 442, 443]",
+    "hint": "Al no pasar sangre al ventrículo pulmonar, este queda atrófico. El VI asume todo el trabajo dual[cite: 449, 450].",
+    "options": [
+      {
+        "text": "A) Atresia Pulmonar crítica con septo conservado sin vías accesorias",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 444]. Presentaría eje derecho por hipertrofia de VD secundario a la obstrucción[cite: 451]."
+      },
+      {
+        "text": "B) Tetralogía de Fallot con agenesia completa de la válvula del tracto derecho",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 445]. El Fallot presenta dominancia del corazón derecho en el EKG[cite: 451]."
+      },
+      {
+        "text": "C) Transposición de Grandes Arterias con comunicación interauricular aislada restrictiva",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 446]. Suele tener eje normal o derecho en el recién nacido[cite: 453]."
+      },
+      {
+        "text": "D) Atresia de Válvula Tricúspide con hipoplasia y exclusión severa del ventrículo derecho",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 447, 448]. La sangre va de AD a AI y luego toda al VI[cite: 452]. El VD queda atrófico. El VI crecido genera un eje izquierdo inusual para un neonato, guiando la sospecha clínica[cite: 453]."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Taquicardia Ventricular post-cirugía",
+    "text": "Niño post-cirugía cardíaca con taquicardia sostenida regular a 180 lpm, QRS ensanchado (>0.12s), pálido y sudoroso. ¿Diagnóstico a descartar? [cite: 454, 455, 456, 457]",
+    "hint": "Cualquier ritmo rápido con origen debajo del Haz de His es potencialmente fulminante ante tejido intervenido quirúrgicamente[cite: 463].",
+    "options": [
+      {
+        "text": "A) Taquicardia Supraventricular rítmica por conducción anterógrada ortodrómica simple",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 458]. La TSV ortodrómica cursa en un 95% con QRS finos y estrechos[cite: 465]."
+      },
+      {
+        "text": "B) Bloqueo transitorio completo de rama izquierda aislado con ritmo de escape de bajo voltaje",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 459]. No explicaría la frecuencia de 180 lpm en un contexto agudo post-quirúrgico[cite: 465]."
+      },
+      {
+        "text": "C) Taquicardia Ventricular maligna potencialmente descompensable a fibrilación y shock de paro",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 460, 462]. En un niño con cicatriz quirúrgica, una taquicardia con QRS ancho debe tratarse como TV por presunción[cite: 464]. El origen en la cicatriz arrastra riesgo de fibrilación[cite: 464]."
+      },
+      {
+        "text": "D) Ritmo idioventricular fisiológicamente acelerado secundario a anestésicos inhalatorios basales",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 461]. El RIVA suele ser un ritmo de escape lento, no una taquicardia de 180 lpm con compromiso clínico[cite: 465]."
+      }
+    ]
+  }
+]
