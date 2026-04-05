@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Acidosis y Sobrecarga en AKI",
+    "text": "El manejo de la acidosis metabólica en un paciente pediátrico oligúrico es complejo. Si un niño presenta un pH de 7.10 por AKI, pero tiene francos signos de SOBRECARGA de volumen generalizada (edema pulmonar), la terapia óptima y resolutiva sería:",
+    "hint": "Considera que no puedes agregar más sodio ni agua a un cuerpo que ya está rebalsando.",
+    "options": [
+      {
+        "text": "A) Dar infusión de Bicarbonato de Sodio de forma rápida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En un paciente con sobrecarga de volumen, el aporte de sodio del bicarbonato arrastrará más agua al intravascular, agravando letalmente el edema pulmonar."
+      },
+      {
+        "text": "B) Terapia de Reemplazo Renal (Diálisis).",
+        "isCorrect": true,
+        "explanation": "Correcto. La diálisis permite corregir la acidosis (aportando base) y remover el exceso de agua (ultrafiltración) simultáneamente, sin riesgo de empeorar la congestión."
+      },
+      {
+        "text": "C) Hiperventilar al paciente con bolsa autoinflable.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una medida paliativa temporal (alcalosis respiratoria compensatoria) que no soluciona la acidosis metabólica celular ni la sobrecarga hídrica."
+      },
+      {
+        "text": "D) Administrar Cloruro de Potasio en goteo lento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El potasio suele estar elevado en AKI; su administración podría gatillar arritmias mortales."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Fisiopatología: Backleak tubular",
+    "text": "Durante la fase de mantenimiento de una Necrosis Tubular Aguda, el fenómeno llamado 'Fuga' o 'Backleak' tubular se explica por:",
+    "hint": "Imagina que la tubería pierde su revestimiento plástico interno y el agua se sale por los costados.",
+    "options": [
+      {
+        "text": "A) La obstrucción intratubular celular y la pérdida del epitelio aislante, causando que el filtrado gotee de vuelta a la sangre intersticial.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al morir las células tubulares, el filtrado glomerular no puede ser contenido en el lumen y se filtra ('gotea') de regreso al intersticio y capilares, anulando la formación de orina."
+      },
+      {
+        "text": "B) Un aumento masivo y compensatorio de la filtración glomerular central.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En la fase de mantenimiento de la NTA, la filtración glomerular está profundamente disminuida."
+      },
+      {
+        "text": "C) El rechazo fulminante del órgano por los macrófagos alveolares.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un fenómeno puramente isquémico/tóxico local, no inmunológico."
+      },
+      {
+        "text": "D) La apertura forzada de la arteriola aferente a diámetros mortales.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Existe una vasoconstricción aferente marcada por el feedback tubuloglomerular."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Complicaciones: Hipocalcemia",
+    "text": "¿Cuál es la causa principal de hipocalcemia en la fase aguda de una AKI severa?",
+    "hint": "El riñón deja de fabricar una hormona vital y deja de botar un mineral 'enemigo' del calcio.",
+    "options": [
+      {
+        "text": "A) Pérdida masiva de calcio por la orina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El riñón oligúrico no bota nada; al contrario, el problema es la retención de otros iones."
+      },
+      {
+        "text": "B) Hiperfosfatemia y déficit de producción de 1,25-dihidroxivitamina D.",
+        "isCorrect": true,
+        "explanation": "Correcto. La retención de fósforo precipita el calcio en los tejidos y el riñón dañado no puede activar la vitamina D necesaria para absorber calcio en el intestino."
+      },
+      {
+        "text": "C) Destrucción masiva de las glándulas paratiroides.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las paratiroides suelen estar hiperactivas intentando compensar el calcio bajo (hiperparatiroidismo secundario)."
+      },
+      {
+        "text": "D) Ingesta excesiva de quelantes de calcio en la dieta.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Fase de Recuperación (Poliuria)",
+    "text": "Un escolar en fase de recuperación de una NTA comienza a orinar 4 litros al día (fase poliúrica). ¿Cuál es el principal riesgo en este momento?",
+    "hint": "El riñón está 'limpiando' pero aún no sabe cómo 'cerrar la llave' del agua y los minerales.",
+    "options": [
+      {
+        "text": "A) Hipertensión arterial maligna.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El riesgo suele ser la hipotensión por deshidratación masiva."
+      },
+      {
+        "text": "B) Deshidratación y desequilibrios electrolíticos (ej. hipokalemia).",
+        "isCorrect": true,
+        "explanation": "Correcto. Los túbulos se están regenerando pero aún no pueden concentrar orina ni reabsorber electrolitos eficientemente, causando pérdidas masivas de agua y sales."
+      },
+      {
+        "text": "C) Insuficiencia hepática fulminante.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No existe relación fisiopatológica entre la poliuria renal y la falla hepática."
+      },
+      {
+        "text": "D) Infección urinaria por Proteus.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es el riesgo fisiológico primario de la fase poliúrica."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Evaluación: Microalbuminuria",
+    "text": "¿Cuál es la utilidad de medir microalbuminuria en el seguimiento de un niño que sobrevivió a una AKI?",
+    "hint": "Es el primer 'goteo' que avisa que los filtros están bajo mucha presión.",
+    "options": [
+      {
+        "text": "A) Diagnosticar una infección urinaria silente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Para eso se usa el urocultivo o sedimento."
+      },
+      {
+        "text": "B) Pesquisar precozmente el desarrollo de Enfermedad Renal Crónica por hiperfiltración.",
+        "isCorrect": true,
+        "explanation": "Correcto. La presencia de pequeñas cantidades de albúmina indica que las nefronas restantes están sufriendo daño por sobrecarga de trabajo (hiperfiltración)."
+      },
+      {
+        "text": "C) Determinar el tipo de sangre del paciente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Evaluar la madurez pulmonar del paciente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Antibióticos y AKI (Dosis)",
+    "text": "En un paciente con AKI grado 3 de KDIGO que requiere Amikacina, la conducta farmacológica correcta es:",
+    "hint": "No dejes de tratar la infección, pero no envenenes el riñón atascado.",
+    "options": [
+      {
+        "text": "A) Mantener dosis habituales para asegurar la curación.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causaría toxicidad sistémica masiva (sordera y agravamiento de la AKI)."
+      },
+      {
+        "text": "B) Ajustar dosis y/o intervalos según el clearance de creatinina estimado.",
+        "isCorrect": true,
+        "explanation": "Correcto. La amikacina se elimina por riñón; si este no funciona, la dosis debe reducirse drásticamente o espaciarse para evitar niveles tóxicos."
+      },
+      {
+        "text": "C) Suspender todos los fármacos hasta que el riñón cure solo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Moriría por la infección antes de que el riñón recupere función."
+      },
+      {
+        "text": "D) Cambiar a vía oral inmediatamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La vía oral no soluciona la falta de eliminación renal."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI y Nutrición (Proteínas)",
+    "text": "¿Por qué no se debe realizar una restricción proteica severa en niños con AKI hipercatabólica (ej. sepsis)?",
+    "hint": "El niño necesita ladrillos para reconstruir sus defensas y tejidos.",
+    "options": [
+      {
+        "text": "A) Porque las proteínas diluyen el potasio en la sangre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Para prevenir el autocatabolismo muscular, el cual libera urea y potasio endógenos de forma incontrolada.",
+        "isCorrect": true,
+        "explanation": "Correcto. Si el niño no recibe proteínas/calorías, 'quema' su propio músculo, lo que empeora la uremia y la hiperkalemia que se quería evitar."
+      },
+      {
+        "text": "C) Porque las proteínas actúan como un diurético natural.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Porque los niños no pueden sentir hambre en AKI.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hiperkalemia: Gluconato de Calcio",
+    "text": "¿Cuál es el objetivo principal de administrar Gluconato de Calcio al 10% en un paciente con AKI e hiperkalemia con cambios en el ECG?",
+    "hint": "No toca los niveles de potasio, pero protege al 'cableado' del corazón.",
+    "options": [
+      {
+        "text": "A) Bajar el nivel de potasio plasmático rápidamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El calcio no disminuye el potasio; solo estabiliza la membrana miocárdica."
+      },
+      {
+        "text": "B) Estabilizar el potencial de membrana del miocardiocito para prevenir arritmias letales.",
+        "isCorrect": true,
+        "explanation": "Correcto. El calcio antagoniza el efecto tóxico del potasio en la conducción eléctrica del corazón, ganando tiempo para usar otras medidas."
+      },
+      {
+        "text": "C) Aumentar la fuerza de contracción del diafragma.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Disolver los cristales de potasio en los túbulos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI y Anemia",
+    "text": "Si un niño con AKI de 48 horas de evolución presenta una caída brusca de la Hemoglobina de 12 a 7 g/dL, debe sospecharse:",
+    "hint": "La anemia de la falla renal crónica no ocurre así de rápido.",
+    "options": [
+      {
+        "text": "A) Déficit de eritropoyetina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La falta de EPO causa anemia crónica en semanas, no una caída aguda en 2 días."
+      },
+      {
+        "text": "B) Hemólisis (ej. Síndrome Hemolítico Urémico) o sangrado activo.",
+        "isCorrect": true,
+        "explanation": "Correcto. Una caída aguda de la hemoglobina en AKI sugiere destrucción de glóbulos rojos (SHU) o hemorragia."
+      },
+      {
+        "text": "C) Hemodilución por exceso de aire inspirado.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Absorción de hierro por los túbulos necróticos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Creatinina Basal en Niños",
+    "text": "¿Por qué es fundamental conocer la Creatinina basal del paciente para aplicar los criterios KDIGO?",
+    "hint": "La AKI se define por el cambio respecto a lo normal de cada niño.",
+    "options": [
+      {
+        "text": "A) Porque todos los niños deben tener Cr de 1.0 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Un lactante normal puede tener Cr de 0.2; si sube a 0.6 ya tiene una AKI grave."
+      },
+      {
+        "text": "B) Porque la AKI se define como un aumento relativo (ej. x1.5 o x2) respecto al valor previo del paciente.",
+        "isCorrect": true,
+        "explanation": "Correcto. El diagnóstico se basa en la elevación porcentual sobre la línea de base individual."
+      },
+      {
+        "text": "C) Para calcular el peso del niño sin usar balanza.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) No es necesaria, se usan valores fijos universales.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Ecografía Doppler: Trombosis Vena Renal",
+    "text": "Recién nacido hijo de madre diabética, con deshidratación y masa palpable en flanco con anuria. La ecografía Doppler es útil para diagnosticar:",
+    "hint": "Un coágulo atascado en la 'carretera' de salida de la sangre del riñón.",
+    "options": [
+      {
+        "text": "A) Trombosis de la vena renal.",
+        "isCorrect": true,
+        "explanation": "Correcto. La policitemia (común en hijos de madre diabética) sumada a la deshidratación predispone a trombosis venosa renal, que causa aumento del riñón y AKI."
+      },
+      {
+        "text": "B) Reflujo vesicoureteral grado I.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se ve con uretrocistografía."
+      },
+      {
+        "text": "C) Cáncer de colon neonatal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Estenosis pilórica hipertrófica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI Prerrenal: FENa",
+    "text": "Un FENa < 1% en un escolar con oliguria sugiere:",
+    "hint": "El riñón está trabajando perfectamente para retener sal porque le falta sangre.",
+    "options": [
+      {
+        "text": "A) Daño intrínseco (NTA).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En la NTA el FENa es > 2%."
+      },
+      {
+        "text": "B) AKI Prerrenal.",
+        "isCorrect": true,
+        "explanation": "Correcto. Un FENa bajo indica que los túbulos están sanos y responden a la hipoperfusión reabsorbiendo el sodio al máximo."
+      },
+      {
+        "text": "C) Obstrucción uretral.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Ingesta excesiva de papas fritas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hiperuricemia en AKI",
+    "text": "Paciente con leucemia inicia quimioterapia y desarrolla AKI anúrica masiva. ¿Causa probable?",
+    "hint": "Las células cancerosas al morir liberan cristales que 'tapan' el riñón.",
+    "options": [
+      {
+        "text": "A) Síndrome de Lisis Tumoral (AKI por depósito de ácido úrico).",
+        "isCorrect": true,
+        "explanation": "Correcto. La destrucción masiva de células libera purinas que se convierten en ácido úrico, el cual precipita en los túbulos causando obstrucción."
+      },
+      {
+        "text": "B) Alergia a la camilla de hospital.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) Deshidratación por falta de agua en la sala.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Intoxicación por paracetamol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI: Indicación de Diálisis (Uremia)",
+    "text": "¿A qué nivel de BUN (Nitrógeno Ureico) se suele considerar la diálisis por riesgo de encefalopatía o pericarditis urémica?",
+    "hint": "Es un valor de tres cifras.",
+    "options": [
+      {
+        "text": "A) > 20 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) > 50 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) > 100 mg/dL.",
+        "isCorrect": true,
+        "explanation": "Correcto. Niveles de BUN > 80-100 mg/dL se asocian a alto riesgo de complicaciones urémicas graves, siendo indicación de soporte."
+      },
+      {
+        "text": "D) > 500 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Sedimento en NTA",
+    "text": "Hallazgo microscópico en la orina clásico de la Necrosis Tubular Aguda:",
+    "hint": "Parece 'barro' o suciedad celular.",
+    "options": [
+      {
+        "text": "A) Cilindros hialinos transparentes.",
+        "isCorrect": false,
+        "explanation": "Comunes en deshidratación simple."
+      },
+      {
+        "text": "B) Cilindros granulosos 'café parduzco' y células epiteliales.",
+        "isCorrect": true,
+        "explanation": "Correcto. Representan los restos de las células tubulares muertas que se desprenden y se agrupan en el lumen."
+      },
+      {
+        "text": "C) Cristales de azúcar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Glóbulos rojos dismórficos.",
+        "isCorrect": false,
+        "explanation": "Típicos del daño glomerular."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI: Hipertensión Arterial",
+    "text": "En un niño con AKI y sobrecarga de volumen, la hipertensión arterial se maneja principalmente con:",
+    "hint": "Si el problema es que sobra agua, hay que intentar sacarla o restringirla.",
+    "options": [
+      {
+        "text": "A) Restricción de sodio, agua y uso de diuréticos (si responde) o diálisis.",
+        "isCorrect": true,
+        "explanation": "Correcto. La HTA en AKI suele ser dependiente de volumen. Sacar el exceso de líquido es lo más efectivo."
+      },
+      {
+        "text": "B) Propanolol en altas dosis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) Infusión masiva de suero fisiológico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Dieta rica en potasio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Nefritis Intersticial: Fármacos",
+    "text": "Niño desarrolla fiebre, rash y eosinofilia tras 5 días de Amoxicilina, con elevación de creatinina. ¿Diagnóstico?",
+    "hint": "Una reacción alérgica localizada en el riñón.",
+    "options": [
+      {
+        "text": "A) Nefritis Intersticial Aguda (NIA).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una reacción de hipersensibilidad a fármacos que inflama el intersticio renal."
+      },
+      {
+        "text": "B) Sarampión complicado.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) Cálculos renales de oxalato.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Infección por VIH.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI Postrenal: VUP",
+    "text": "¿Cuál es el tratamiento definitivo inicial de las Valvas de Uretra Posterior?",
+    "hint": "Hay que romper la 'puerta' que no deja salir la orina.",
+    "options": [
+      {
+        "text": "A) Antibióticos de por vida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Ablación endoscópica de las valvas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se introduce un cistoscopio y se destruyen las membranas obstructivas."
+      },
+      {
+        "text": "C) Extirpación de ambos riñones.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Solo poner una sonda y esperar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "DMSA y AKI",
+    "text": "Un DMSA realizado a las 24 horas de una Pielonefritis Aguda muestra un defecto de captación. ¿Esto confirma una cicatriz permanente?",
+    "hint": "La inflamación 'apaga' temporalmente la luz del riñón sin que el foco esté quemado aún.",
+    "options": [
+      {
+        "text": "A) Sí, las cicatrices se forman instantáneamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) No, solo indica un área de inflamación aguda.",
+        "isCorrect": true,
+        "explanation": "Correcto. En fase aguda, el DMSA detecta focos de infección que pueden curar sin dejar rastro si se tratan bien."
+      },
+      {
+        "text": "C) Indica que el niño tiene solo un riñón.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Indica que el examen falló.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI: Pronóstico Vital",
+    "text": "¿Cuál es la causa más frecuente de muerte en pacientes con Injuria Renal Aguda?",
+    "hint": "No es la falla renal misma, sino los 'vecinos' que se enferman o la defensa que cae.",
+    "options": [
+      {
+        "text": "A) Infecciones y Sepsis.",
+        "isCorrect": true,
+        "explanation": "Correcto. La uremia deprime el sistema inmune, siendo las infecciones la principal causa de mortalidad."
+      },
+      {
+        "text": "B) Falta de orina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) Picadura de abeja.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Dolor lumbar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Creatinina y Masa Muscular",
+    "text": "Un adolescente deportista tiene una Cr de 1.2 mg/dL. Un lactante tiene una Cr de 1.2 mg/dL. ¿Cuál es la interpretación?",
+    "hint": "Lo normal depende del tamaño de los músculos.",
+    "options": [
+      {
+        "text": "A) Ambos tienen falla renal severa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) El adolescente es probablemente normal; el lactante tiene una AKI muy grave.",
+        "isCorrect": true,
+        "explanation": "Correcto. Un valor de 1.2 en un lactante implica una pérdida masiva de función glomerular (>75%)."
+      },
+      {
+        "text": "C) El adolescente tiene falla renal y el lactante es normal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) La Cr no sirve para comparar edades.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI: Hiperkalemia y ECG (QRS)",
+    "text": "En la hiperkalemia avanzada, tras la onda T picuda, ¿qué cambio sigue en la progresión del ECG antes del paro?",
+    "hint": "El latido se ensancha y se vuelve 'lento' y deforme.",
+    "options": [
+      {
+        "text": "A) Desaparición de la onda P y ensanchamiento del QRS.",
+        "isCorrect": true,
+        "explanation": "Correcto. El exceso de potasio bloquea la conducción auricular y ensancha el complejo (imagen sinusoidal)."
+      },
+      {
+        "text": "B) Acortamiento del QRS.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) Taquicardia paroxística supraventricular.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) El ECG se vuelve normal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Prueba de Furosemida",
+    "text": "Usted administra Furosemida a un niño oligúrico euvolémico y este no responde orinando en 2 horas. ¿Qué concluye?",
+    "hint": "La bomba de agua no funciona porque la tubería está destruida por dentro.",
+    "options": [
+      {
+        "text": "A) Que el niño no tiene riñones.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Que existe un daño tubular severo (NTA) que impide la acción del fármaco.",
+        "isCorrect": true,
+        "explanation": "Correcto. La falta de respuesta en un paciente hidratado confirma el daño intrínseco."
+      },
+      {
+        "text": "C) Que la furosemida estaba vencida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Que el niño necesita tomar jugo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hiperkalemia: Manejo (Resinas)",
+    "text": "¿Cuál es la función del Poliestirensulfonato de Sodio (Kayexalate) en el manejo del potasio?",
+    "hint": "Actúa en el intestino, no en la sangre.",
+    "options": [
+      {
+        "text": "A) Mete el potasio dentro de las células.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Intercambia sodio por potasio en el colon para eliminar el exceso por las heces.",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite eliminar potasio del cuerpo de forma definitiva."
+      },
+      {
+        "text": "C) Es un diurético potente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Se usa para blanquear los dientes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI: Hemofiltración",
+    "text": "En un niño inestable en la UCI con shock séptico y AKI, ¿qué modalidad de diálisis se prefiere?",
+    "hint": "Una máquina que limpie la sangre 'despacito' para no bajarle más la presión.",
+    "options": [
+      {
+        "text": "A) Hemodiálisis intermitente rápida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Terapias de Reemplazo Renal Continuo (TRRC / Hemofiltración).",
+        "isCorrect": true,
+        "explanation": "Correcto. Permiten remover toxinas y agua de forma lenta y constante, manteniendo la estabilidad."
+      },
+      {
+        "text": "C) Diálisis peritoneal con agua de la llave.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) No se hace diálisis en niños inestables.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI: Hipocalcemia y Convulsiones",
+    "text": "Un niño con AKI presenta una convulsión tónico-clónica. El Calcio iónico es de 0.6 mmol/L. ¿Tratamiento?",
+    "hint": "Aporte directo del mineral por la vena.",
+    "options": [
+      {
+        "text": "A) Diazepam solo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Gluconato de Calcio al 10% endovenoso lento.",
+        "isCorrect": true,
+        "explanation": "Correcto. La hipocalcemia sintomática es una emergencia que requiere reposición inmediata."
+      },
+      {
+        "text": "C) Dar leche.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Realizar un escáner.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI: Prevención (Contraste)",
+    "text": "Niño requiere un TAC con contraste. ¿Medida de prevención de AKI por contraste?",
+    "hint": "Diluye el veneno y protege el flujo al riñón.",
+    "options": [
+      {
+        "text": "A) Hidratación vigorosa previa al examen.",
+        "isCorrect": true,
+        "explanation": "Correcto. La hidratación expande el volumen y diluye el contraste, disminuyendo su toxicidad."
+      },
+      {
+        "text": "B) Dar el contraste frío.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) No darle comida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Vitamina C.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Falla Renal post-estreptocócica",
+    "text": "¿Cuál es el hallazgo inmunológico clásico en sangre de una Glomerulonefritis post-estreptocócica?",
+    "hint": "Una de las proteínas del sistema de defensa 'cae' porque se consume peleando en el riñón.",
+    "options": [
+      {
+        "text": "A) Elevación de la Insulina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Descenso de los niveles de Complemento C3.",
+        "isCorrect": true,
+        "explanation": "Correcto. El consumo de complemento C3 por el depósito de inmunocomplejos es el sello laboratorial."
+      },
+      {
+        "text": "C) Aumento de Vitamina B12.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Anemia falciforme.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Deterioro de la Función: Signos",
+    "text": "En un paciente con AKI, ¿qué signo clínico indica el paso a falla multiorgánica?",
+    "hint": "El corazón y los pulmones empiezan a fallar por la acidosis y el potasio.",
+    "options": [
+      {
+        "text": "A) Arritmias ventriculares y shock refractario.",
+        "isCorrect": true,
+        "explanation": "Correcto. Indica que las alteraciones metabólicas han superado la capacidad de compensación."
+      },
+      {
+        "text": "B) Que el niño tenga sueño.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) Tener tos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Que no le gusten los remedios.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Creatinina en Neonatos (Primeros días)",
+    "text": "Usted mide Cr a un recién nacido de 12 horas de vida y sale 0.9 mg/dL. ¿Cómo lo interpreta?",
+    "hint": "A esta edad, la sangre del bebé aún 'huele' a la sangre de la madre.",
+    "options": [
+      {
+        "text": "A) Falla renal congénita.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Refleja la creatinina materna.",
+        "isCorrect": true,
+        "explanation": "Correcto. En las primeras 48-72 horas, la Cr del neonato es idéntica a la de la madre."
+      },
+      {
+        "text": "C) Valor normal de por vida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Mucha fuerza muscular.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI: Hiperkalemia (Insulina)",
+    "text": "¿Cómo ayuda la mezcla de Insulina y Glucosa a bajar el potasio?",
+    "hint": "Abre las puertas de las células para que el potasio entre a 'esconderse' de la sangre.",
+    "options": [
+      {
+        "text": "A) Fabrica más orina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Desplaza el potasio del espacio extracelular al intracelular.",
+        "isCorrect": true,
+        "explanation": "Correcto. La insulina estimula la entrada de potasio a la célula activando la bomba Na/K ATPasa."
+      },
+      {
+        "text": "C) Neutraliza el potasio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Se pega al potasio en el estómago.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hidronefrosis Prenatal",
+    "text": "¿Cuál es la conducta inicial tras el nacimiento de un niño con hidronefrosis detectada prenatalmente?",
+    "hint": "Confirma con una foto externa si lo que viste en el útero sigue ahí.",
+    "options": [
+      {
+        "text": "A) Cirugía inmediata.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Realizar Ecografía renal de control a las 48-72 horas de vida.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se espera 48h para que la ecografía sea real tras hidratarse el niño."
+      },
+      {
+        "text": "C) No hacer nada.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Antibiótico ciego.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI: Acidosis Metabólica",
+    "text": "La acidosis en la AKI se debe fundamentalmente a:",
+    "hint": "El riñón no puede botar los ácidos que fabricamos al comer y respirar.",
+    "options": [
+      {
+        "text": "A) Ingesta de limones.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Retención de ácidos fijos (sulfatos, fosfatos).",
+        "isCorrect": true,
+        "explanation": "Correcto. El metabolismo genera ácidos que solo el riñón puede excretar; si falla, el cuerpo se acidifica."
+      },
+      {
+        "text": "C) Ejercicio físico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Pérdida de bicarbonato.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Saturación Regional de O2 (NIRS)",
+    "text": "En la UCI, la medición de NIRS renal es útil porque:",
+    "hint": "Es como un oxímetro de pulso pero pegado directamente sobre el riñón.",
+    "options": [
+      {
+        "text": "A) Permite detectar hipoperfusión renal de forma precoz.",
+        "isCorrect": true,
+        "explanation": "Correcto. Detecta la caída de oxigenación del tejido antes de que suba la creatinina."
+      },
+      {
+        "text": "B) Mide agua.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) Diagnostica piedras.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Cambia el color del riñón.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Creatinina y Dieta",
+    "text": "¿Puede la dieta influir en los niveles de creatinina sérica en un niño?",
+    "hint": "Ciertos alimentos contienen el precursor directo de esta sustancia.",
+    "options": [
+      {
+        "text": "A) No.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Sí, la ingesta masiva de carne cocida puede elevarla transitoriamente.",
+        "isCorrect": true,
+        "explanation": "Correcto. La creatina de la carne se convierte en creatinina al cocinarse y absorberse."
+      },
+      {
+        "text": "C) Solo brócoli.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Agua dulce.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI: Hipertensión y Encefalopatía",
+    "text": "Niño con AKI presenta cefalea intensa y PA de 150/100 mmHg. ¿Diagnóstico?",
+    "hint": "La presión alta está 'hinchando' el cerebro.",
+    "options": [
+      {
+        "text": "A) Encefalopatía hipertensiva.",
+        "isCorrect": true,
+        "explanation": "Correcto. La HTA brusca causa edema cerebral vasogénico y riesgo de convulsiones."
+      },
+      {
+        "text": "B) Falta de anteojos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) Resfrío.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Intoxicación por chocolate.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Falla Renal y Hemorragia",
+    "text": "¿Por qué los pacientes con uremia alta sangran con más facilidad?",
+    "hint": "Las plaquetas están presentes pero se vuelven 'tontas' por las toxinas.",
+    "options": [
+      {
+        "text": "A) No tienen plaquetas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Disfunción plaquetaria (agregación alterada) por toxinas urémicas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Las toxinas impiden que las plaquetas se peguen entre sí eficientemente."
+      },
+      {
+        "text": "C) Piel delgada.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Exceso Vitamina K.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI y Crecimiento",
+    "text": "¿Cómo afecta la AKI prolongada al crecimiento del niño?",
+    "hint": "La acidosis y la inflamación frenan las señales de estiramiento.",
+    "options": [
+      {
+        "text": "A) Crecen más rápido.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Detiene el crecimiento por resistencia a la hormona de crecimiento.",
+        "isCorrect": true,
+        "explanation": "Correcto. La falla renal altera el eje endocrino y el ambiente ácido desmineraliza el hueso."
+      },
+      {
+        "text": "C) No afecta.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Color del pelo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI: Trombosis Venosa (Masa)",
+    "text": "Un neonato con masa palpable dura en el flanco y hematuria. ¿Diagnóstico?",
+    "hint": "Un coágulo gigante en la vena del riñón.",
+    "options": [
+      {
+        "text": "A) Trombosis de la vena renal.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la tríada clásica: Masa + Hematuria + AKI. Se confirma con Doppler."
+      },
+      {
+        "text": "B) Tumor de Wilms.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) Cólico nefrítico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Riñón en herradura.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Fase Poliúrica: Manejo",
+    "text": "En la fase poliúrica de recuperación de una NTA, usted debe:",
+    "hint": "Sé la sombra del niño: lo que sale por el pañal, entra por la vena.",
+    "options": [
+      {
+        "text": "A) Restringir líquidos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causaría deshidratación severa; el niño no puede concentrar orina aún."
+      },
+      {
+        "text": "B) Reponer pérdidas hídricas y electrolíticas 'volumen a volumen'.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe monitorizar cuánto orina y reponerlo para evitar el colapso circulatorio."
+      },
+      {
+        "text": "C) Dar diuréticos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Dar el alta.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  }
+]
