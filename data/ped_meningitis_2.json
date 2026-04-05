@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Tratamiento Antimicrobiano y Corticoides",
+    "text": "Un lactante de 4 meses con sospecha de meningitis bacteriana inicia tratamiento empírico. ¿Cuál es el esquema de elección según el Manual UC para cubrir Neumococo y Meningococo? [cite: 5, 6]",
+    "hint": "Se requiere un \"doble escudo\" contra la bacteria más resistente tras el primer mes de vida. [cite: 17]",
+    "options": [
+      {
+        "text": "A) Penicilina G sódica a dosis altas. [cite: 7]",
+        "isCorrect": false,
+        "explanation": "La penicilina ya no es segura como terapia empírica inicial debido a las altas tasas de resistencia del Neumococo. [cite: 13]"
+      },
+      {
+        "text": "B) Ceftriaxona + Vancomicina. [cite: 8]",
+        "isCorrect": true,
+        "explanation": "Debido a que el S. pneumoniae presenta en Chile niveles significativos de resistencia a penicilina y sensibilidad disminuida a cefalosporinas, la guía UC recomienda asociar Vancomicina para asegurar la esterilización del LCR mientras la Ceftriaxona cubre al Meningococo. [cite: 11, 12]"
+      },
+      {
+        "text": "C) Ampicilina + Gentamicina. [cite: 9]",
+        "isCorrect": false,
+        "explanation": "Este es el esquema para el periodo neonatal (menores de 28 días) para cubrir Listeria y bacilos Gram negativos; no es adecuado para la flora del lactante mayor. [cite: 14, 15]"
+      },
+      {
+        "text": "D) Cefotaxima sola. [cite: 10]",
+        "isCorrect": false,
+        "explanation": "La cefalosporina sola puede fallar si la Concentración Inhibitoria Mínima (CIM) del Neumococo es elevada. [cite: 16]"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Dosis de Antibióticos",
+    "text": "¿Cuál es la dosis de Ceftriaxona recomendada para el tratamiento de meningitis en pediatría? [cite: 18]",
+    "hint": "Es la dosis máxima permitida para esta droga en niños. [cite: 32]",
+    "options": [
+      {
+        "text": "A) 50 mg/kg/día cada 24 horas. [cite: 19, 20]",
+        "isCorrect": false,
+        "explanation": "Es la dosis estándar para infecciones no meníngeas como neumonía o ITU. [cite: 29]"
+      },
+      {
+        "text": "B) 100 mg/kg/día cada 12 o 24 horas. [cite: 21, 22]",
+        "isCorrect": true,
+        "explanation": "Para atravesar la barrera hematoencefálica inflamada y alcanzar concentraciones terapéuticas en el LCR, se requiere duplicar la dosis sistémica habitual. [cite: 27, 28]"
+      },
+      {
+        "text": "C) 200 mg/kg/día cada 6 horas. [cite: 23, 24]",
+        "isCorrect": false,
+        "explanation": "Corresponde a la dosificación máxima de la Cefotaxima, no de la Ceftriaxona. [cite: 30]"
+      },
+      {
+        "text": "D) 10 mg/kg/dosis cada 8 horas. [cite: 25, 26]",
+        "isCorrect": false,
+        "explanation": "Es una dosis infraterapéutica que no alcanzaría niveles bactericidas en el SNC. [cite: 31]"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Contraindicaciones en Neonatos",
+    "text": "¿Por qué está contraindicado el uso de Ceftriaxona en el periodo neonatal inmediato (menores de 28 días)? [cite: 33]",
+    "hint": "El problema radica en la ictericia grave del recién nacido. [cite: 44]",
+    "options": [
+      {
+        "text": "A) Produce falla renal aguda por cristales de calcio. [cite: 34]",
+        "isCorrect": false,
+        "explanation": "Si bien puede precipitar con sales de calcio en pulmón y riñón, la razón principal de contraindicación absoluta neonatal es el riesgo de kernicterus. [cite: 41]"
+      },
+      {
+        "text": "B) Desplaza la bilirrubina de su unión a la albúmina, aumentando el riesgo de kernicterus. [cite: 35]",
+        "isCorrect": true,
+        "explanation": "La ceftriaxona compite por los sitios de unión de la albúmina. En el neonato, esto deja bilirrubina libre que puede cruzar la barrera hematoencefálica inmadura y causar daño permanente. [cite: 38, 39, 40]"
+      },
+      {
+        "text": "C) Es inactiva contra el agente Streptococcus agalactiae. [cite: 36]",
+        "isCorrect": false,
+        "explanation": "Falso; la ceftriaxona sí es activa contra EGB, pero se prefiere Cefotaxima por seguridad en este grupo. [cite: 42]"
+      },
+      {
+        "text": "D) Causa una anemia hemolítica mediada por anticuerpos en el recién nacido. [cite: 37]",
+        "isCorrect": false,
+        "explanation": "No es un efecto adverso característico ni la causa de la contraindicación neonatal. [cite: 43]"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Uso de Corticoides",
+    "text": "Respecto al uso de Dexametasona en la meningitis por Haemophilus influenzae tipo b (Hib), ¿cuál es la conducta correcta? [cite: 45]",
+    "hint": "Debes poner \"el bombero antes del incendio\". [cite: 56]",
+    "options": [
+      {
+        "text": "A) Administrarla 15-20 minutos antes o junto con la primera dosis de antibiótico. [cite: 46]",
+        "isCorrect": true,
+        "explanation": "El corticoide debe estar presente en el sitio de acción antes de que el antibiótico destruya a las bacterias, liberando endotoxinas que disparan la respuesta inflamatoria dañina. [cite: 50, 51]"
+      },
+      {
+        "text": "B) Iniciar solo si el paciente persiste febril tras 48 horas de tratamiento. [cite: 47]",
+        "isCorrect": false,
+        "explanation": "A las 48 horas la inflamación ya es máxima; administrarlo entonces no previene las secuelas auditivas. [cite: 52, 53]"
+      },
+      {
+        "text": "C) Usarla únicamente si hay evidencia de papiledema. [cite: 48]",
+        "isCorrect": false,
+        "explanation": "Su indicación no es el manejo de la hipertensión endocraneana severa, sino la inflamación del VIII par craneal. [cite: 54]"
+      },
+      {
+        "text": "D) Mantener el tratamiento corticoide por un total de 10 días. [cite: 49]",
+        "isCorrect": false,
+        "explanation": "El curso habitual de corticoides en meningitis es corto, típicamente de solo 2 a 4 días. [cite: 55]"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Beneficios de la Dexametasona",
+    "text": "El beneficio demostrado más importante del uso de dexametasona en la meningitis bacteriana es: [cite: 57]",
+    "hint": "Protege uno de los cinco sentidos. [cite: 67]",
+    "options": [
+      {
+        "text": "A) Reducir la mortalidad global en un 50%. [cite: 58]",
+        "isCorrect": false,
+        "explanation": "Aunque mejora el pronóstico, no reduce la mortalidad de forma tan masiva por sí sola. [cite: 64]"
+      },
+      {
+        "text": "B) Disminuir la incidencia de hipoacusia neurosensorial. [cite: 59]",
+        "isCorrect": true,
+        "explanation": "Al reducir la inflamación en el acueducto coclear y las estructuras del oído interno, protege la función auditiva, especialmente en casos de Hib. [cite: 62, 63]"
+      },
+      {
+        "text": "C) Prevenir la aparición de epilepsia post-meningitis. [cite: 60]",
+        "isCorrect": false,
+        "explanation": "La epilepsia se debe a cicatrices corticales; el corticoide no ha demostrado prevenirla de forma fehaciente. [cite: 65]"
+      },
+      {
+        "text": "D) Acortar el tiempo de estancia en la UCI. [cite: 61]",
+        "isCorrect": false,
+        "explanation": "No tiene un impacto directo demostrado en la duración de la hospitalización. [cite: 66]"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Duración del Tratamiento",
+    "text": "¿Cuál es la duración recomendada del tratamiento antibiótico para una meningitis meningocócica no complicada? [cite: 68]",
+    "hint": "Es la bacteria que requiere el curso más corto de hospitalización. [cite: 78]",
+    "options": [
+      {
+        "text": "A) 5 a 7 días. [cite: 69]",
+        "isCorrect": true,
+        "explanation": "El meningococo es altamente sensible a las cefalosporinas y se esteriliza rápidamente en el LCR, lo que permite cursos de tratamiento más breves. [cite: 73, 74]"
+      },
+      {
+        "text": "B) 14 días. [cite: 70]",
+        "isCorrect": false,
+        "explanation": "Es la duración estándar recomendada para el Neumococo. [cite: 75]"
+      },
+      {
+        "text": "C) 21 días. [cite: 71]",
+        "isCorrect": false,
+        "explanation": "Se reserva para Gram negativos entéricos (como E. coli) o Listeria. [cite: 76]"
+      },
+      {
+        "text": "D) Solo 48 horas. [cite: 72]",
+        "isCorrect": false,
+        "explanation": "Es un tiempo insuficiente para asegurar que no habrá recaídas infecciosas. [cite: 77]"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Tratamiento de Neumococo",
+    "text": "En una meningitis confirmada por Streptococcus pneumoniae, la duración del tratamiento suele ser: [cite: 79]",
+    "hint": "Son casi dos semanas de terapia endovenosa. [cite: 89]",
+    "options": [
+      {
+        "text": "A) 7 días. [cite: 80]",
+        "isCorrect": false,
+        "explanation": "Se considera un curso corto con riesgo de falla terapéutica para este agente. [cite: 86]"
+      },
+      {
+        "text": "B) 10 a 14 días. [cite: 81]",
+        "isCorrect": true,
+        "explanation": "El neumococo es más agresivo y requiere al menos 10 días de tratamiento efectivo para asegurar la erradicación biológica completa. [cite: 84, 85]"
+      },
+      {
+        "text": "C) 28 días. [cite: 82]",
+        "isCorrect": false,
+        "explanation": "Solo se usa en complicaciones graves como abscesos o ventriculitis. [cite: 87]"
+      },
+      {
+        "text": "D) Hasta que la proteína C reactiva (PCR) se normalice. [cite: 83]",
+        "isCorrect": false,
+        "explanation": "El laboratorio ayuda, pero la duración se rige por tiempos microbiológicos probados. [cite: 88]"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Alergias Medicamentosas",
+    "text": "Si un paciente tiene sospecha de meningitis y es alérgico a la penicilina (reacción tipo I), ¿qué antibiótico alternativo es adecuado para cubrir bacterias Gram positivas? [cite: 90]",
+    "hint": "Busca opciones que no pertenezcan a la familia de los betalactámicos. [cite: 102]",
+    "options": [
+      {
+        "text": "A) Vancomicina + Meropenem. [cite: 91]",
+        "isCorrect": false,
+        "explanation": "El Meropenem es un carbapenem; existe riesgo de reacción cruzada en alérgicos severos a penicilina. [cite: 98, 99]"
+      },
+      {
+        "text": "B) Vancomicina + Cloranfenicol (o Ciprofloxacino en algunos casos). [cite: 92]",
+        "isCorrect": true,
+        "explanation": "Ante alergia severa a betalactámicos, se deben usar fármacos de otras familias. La Vancomicina cubre cocos Gram (+). [cite: 95, 96, 97]"
+      },
+      {
+        "text": "C) Amoxicilina/Clavulánico. [cite: 93]",
+        "isCorrect": false,
+        "explanation": "Es una penicilina, por lo que está estrictamente contraindicada en este paciente. [cite: 100]"
+      },
+      {
+        "text": "D) Azitromicina oral. [cite: 94]",
+        "isCorrect": false,
+        "explanation": "La vía oral no tiene lugar en el tratamiento inicial de la meningitis aguda. [cite: 101]"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Tratamiento Viral",
+    "text": "¿Cuál es el tratamiento recomendado para una meningitis viral por Enterovirus? [cite: 103]",
+    "hint": "Requiere paciencia y control del dolor. [cite: 114]",
+    "options": [
+      {
+        "text": "A) Aciclovir 60 mg/kg/día. [cite: 104]",
+        "isCorrect": false,
+        "explanation": "Este tratamiento es para virus herpes y no sirve contra enterovirus. [cite: 111]"
+      },
+      {
+        "text": "B) Manejo de soporte (hidratación, analgesia y control térmico). [cite: 105]",
+        "isCorrect": true,
+        "explanation": "No existe un tratamiento antiviral específico para los enterovirus; la enfermedad es benigna y se resuelve espontáneamente con cuidados básicos. [cite: 108, 109, 110]"
+      },
+      {
+        "text": "C) Inmunoglobulina intravenosa obligatoria. [cite: 106]",
+        "isCorrect": false,
+        "explanation": "Solo se usa en casos extremos de sepsis neonatal por enterovirus, no de rutina en meningitis clara. [cite: 112]"
+      },
+      {
+        "text": "D) Amoxicilina profiláctica para evitar sobreinfección. [cite: 107]",
+        "isCorrect": false,
+        "explanation": "No se utilizan antibióticos para \"prevenir\" sobreinfecciones en cuadros virales puros. [cite: 113]"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Complicaciones Metabólicas",
+    "text": "Niño de 5 años con meningitis evoluciona con Sodio 125 mEq/L, normovolemia y orina muy concentrada. ¿Cuál es el manejo de elección? [cite: 116, 117]",
+    "hint": "Hay que \"cerrar la llave\" del agua extra que retiene el cuerpo. [cite: 128]",
+    "options": [
+      {
+        "text": "A) Bolo de Suero Fisiológico al 0,9%. [cite: 118]",
+        "isCorrect": false,
+        "explanation": "Si el paciente no está deshidratado, el bolo puede empeorar la dilución del sodio sistémico. [cite: 125]"
+      },
+      {
+        "text": "B) Restricción hídrica relativa (60-75% de las necesidades basales). [cite: 119]",
+        "isCorrect": true,
+        "explanation": "El cuadro describe un SIADH. Al restringir el agua, permitimos que el cuerpo elimine el exceso de líquido libre y el sodio plasmático suba por concentración. [cite: 122, 123, 124]"
+      },
+      {
+        "text": "C) Administrar Bicarbonato de sodio. [cite: 120]",
+        "isCorrect": false,
+        "explanation": "El problema clínico no es de pH, sino de balance de agua libre. [cite: 126]"
+      },
+      {
+        "text": "D) Usar suero glucosado al 10%. [cite: 121]",
+        "isCorrect": false,
+        "explanation": "Este manejo no corrige la hiponatremia dilucional característica del cuadro. [cite: 127]"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Herniación Cerebral",
+    "text": "Medida de rescate inmediata ante sospecha de herniación uncal (pupila dilatada unilateral y bradicardia): [cite: 129]",
+    "hint": "Se usa un azúcar \"pesado\" para deshinchar el tejido cerebral. [cite: 140]",
+    "options": [
+      {
+        "text": "A) Realizar una punción lumbar evacuadora. [cite: 130]",
+        "isCorrect": false,
+        "explanation": "Sería una medida fatal; \"succionaría\" el cerebro hacia el agujero occipital acelerando la herniación. [cite: 137]"
+      },
+      {
+        "text": "B) Administrar Manitol al 20% (0,5-1 g/kg) IV o Salino Hipertónico. [cite: 131, 132]",
+        "isCorrect": true,
+        "explanation": "Los agentes osmóticos sacan agua del cerebro hacia el torrente sanguíneo, reduciendo la presión intracraneana de forma crítica en minutos. [cite: 135, 136]"
+      },
+      {
+        "text": "C) Aumentar la hidratación al doble. [cite: 133]",
+        "isCorrect": false,
+        "explanation": "Aumentar la hidratación agravaría peligrosamente el edema cerebral. [cite: 138]"
+      },
+      {
+        "text": "D) Poner al paciente con la cabeza hacia abajo (Trendelenburg). [cite: 134]",
+        "isCorrect": false,
+        "explanation": "Esta posición aumenta el retorno venoso al cráneo, subiendo aún más la presión intracraneana. [cite: 139]"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Efusión Subdural",
+    "text": "En lactantes, la aparición de una \"efusión subdural\" se sospecha clínicamente por: [cite: 141]",
+    "hint": "La cabeza del bebé parece crecer más rápido de lo normal. [cite: 151]",
+    "options": [
+      {
+        "text": "A) Hundimiento de la fontanela. [cite: 142]",
+        "isCorrect": false,
+        "explanation": "Este signo clínico suele indicar deshidratación, no colección de líquido. [cite: 148]"
+      },
+      {
+        "text": "B) Aumento persistente del perímetro craneal o fontanela abombada que no cede. [cite: 143]",
+        "isCorrect": true,
+        "explanation": "La acumulación de líquido en el espacio subdural es común en lactantes y expande el cráneo ya que las suturas aún no están cerradas. [cite: 146, 147]"
+      },
+      {
+        "text": "C) Desaparición rápida de la fiebre. [cite: 144]",
+        "isCorrect": false,
+        "explanation": "La desaparición de la fiebre sería un signo de mejoría clínica, no de una colección. [cite: 149]"
+      },
+      {
+        "text": "D) Hipotensión arterial marcada. [cite: 145]",
+        "isCorrect": false,
+        "explanation": "Es un signo característico de shock hemodinámico. [cite: 150]"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Vasculitis e Infartos",
+    "text": "¿Cuál de los siguientes agentes es el que causa con mayor frecuencia vasculitis e infartos cerebrales como complicación? [cite: 152]",
+    "hint": "Es la bacteria más destructiva e inflamatoria de las opciones. [cite: 161]",
+    "options": [
+      {
+        "text": "A) Neisseria meningitidis. [cite: 153]",
+        "isCorrect": false,
+        "explanation": "Causa daño vascular pero suele manifestarse de forma más sistémica, como petequias. [cite: 159]"
+      },
+      {
+        "text": "B) Streptococcus pneumoniae. [cite: 154]",
+        "isCorrect": true,
+        "explanation": "El neumococo genera una respuesta inflamatoria masiva que daña la pared de los vasos sanguíneos cerebrales (endarteritis), pudiendo ocluirlos. [cite: 157, 158]"
+      },
+      {
+        "text": "C) Enterovirus. [cite: 155]",
+        "isCorrect": false,
+        "explanation": "Son virus que raramente causan daño estructural isquémico mayor en el cerebro. [cite: 160]"
+      },
+      {
+        "text": "D) Virus de la parotiditis. [cite: 156]",
+        "isCorrect": false,
+        "explanation": "Al igual que otros virus, raramente provoca este tipo de daño isquémico estructural. [cite: 160]"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Diabetes Insípida",
+    "text": "Un paciente desarrolla poliuria masiva y sodio plasmático de 155 mEq/L durante la meningitis. Sospecha: [cite: 162, 163]",
+    "hint": "El cuerpo \"se desinfla\" perdiendo agua pura por la orina. [cite: 173]",
+    "options": [
+      {
+        "text": "A) Secreción inadecuada de ADH (SIADH). [cite: 164]",
+        "isCorrect": false,
+        "explanation": "El SIADH causa típicamente sodio BAJO y orina escasa (lo opuesto al caso expuesto). [cite: 170]"
+      },
+      {
+        "text": "B) Diabetes Insípida Central. [cite: 165]",
+        "isCorrect": true,
+        "explanation": "La falta de hormona antidiurética por inflamación del eje hipofisario hace que el riñón pierda solo agua, concentrando el sodio en la sangre. [cite: 168, 169]"
+      },
+      {
+        "text": "C) Cerebro perdedor de sal. [cite: 166]",
+        "isCorrect": false,
+        "explanation": "Esta condición causa sodio BAJO asociado a hipovolemia. [cite: 171]"
+      },
+      {
+        "text": "D) Insuficiencia renal aguda. [cite: 167]",
+        "isCorrect": false,
+        "explanation": "La insuficiencia renal aguda suele cursar con oliguria (producción de orina escasa). [cite: 172]"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Seguimiento Post-Meningitis",
+    "text": "Examen obligatorio al alta en todo niño que sobrevivió a una meningitis bacteriana: [cite: 174]",
+    "hint": "Debes verificar que el niño escuche bien para poder hablar después. [cite: 184]",
+    "options": [
+      {
+        "text": "A) Audiometría o Potenciales Evocados Auditivos de Tronco (BERA). [cite: 175]",
+        "isCorrect": true,
+        "explanation": "La hipoacusia es la secuela #1 (hasta en el 20% de los casos). Debe detectarse precozmente para iniciar rehabilitación y evitar retraso en el lenguaje. [cite: 179, 180, 181]"
+      },
+      {
+        "text": "B) Resonancia Magnética de rutina. [cite: 176]",
+        "isCorrect": false,
+        "explanation": "Solo se indican si hay sospecha clínica de daño focal o convulsiones, no son de rutina. [cite: 182]"
+      },
+      {
+        "text": "C) Electroencefalograma basal. [cite: 177]",
+        "isCorrect": false,
+        "explanation": "Al igual que la RM, el EEG no es un examen que deba pedirse de rutina al alta. [cite: 182]"
+      },
+      {
+        "text": "D) Espirometría. [cite: 178]",
+        "isCorrect": false,
+        "explanation": "Este examen no tiene relación alguna con las secuelas neurológicas del sistema nervioso central. [cite: 183]"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Factores Pronósticos",
+    "text": "¿Cuál es el principal factor pronóstico de secuelas neurológicas en el momento del ingreso? [cite: 185]",
+    "hint": "El estado de vigilia define qué tan dañado está el sistema. [cite: 196]",
+    "options": [
+      {
+        "text": "A) Grado de fiebre. [cite: 186]",
+        "isCorrect": false,
+        "explanation": "La magnitud de la temperatura no correlaciona directamente con el daño tisular cerebral. [cite: 193]"
+      },
+      {
+        "text": "B) Compromiso de conciencia severo (Glasgow <= 8). [cite: 187, 188]",
+        "isCorrect": true,
+        "explanation": "El coma o estupor profundo al llegar a urgencias es el predictor más fuerte de daño cerebral ya establecido o hipertensión endocraneana crítica. [cite: 191, 192]"
+      },
+      {
+        "text": "C) Número de leucocitos en el LCR. [cite: 189]",
+        "isCorrect": false,
+        "explanation": "Es posible tener millones de células y recuperarse bien, o tener pocas y presentar un infarto extenso. [cite: 194]"
+      },
+      {
+        "text": "D) Presencia de tos. [cite: 190]",
+        "isCorrect": false,
+        "explanation": "Es un síntoma respiratorio inespecífico sin valor pronóstico neurológico. [cite: 195]"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Manejo de Convulsiones",
+    "text": "Ante una convulsión activa durante la fase aguda de la meningitis, el fármaco de primera línea es: [cite: 197]",
+    "hint": "Siempre empieza con una benzodiacepina para apagar el incendio eléctrico. [cite: 207]",
+    "options": [
+      {
+        "text": "A) Fenitoína. [cite: 198]",
+        "isCorrect": false,
+        "explanation": "Se usa para mantenimiento; su acción tarda 20-30 minutos en ser efectiva. [cite: 204]"
+      },
+      {
+        "text": "B) Lorazepam o Diazepam. [cite: 199]",
+        "isCorrect": true,
+        "explanation": "Las benzodiacepinas son las únicas capaces de detener la crisis de forma inmediata por su rapidez de acción en los receptores GABA. [cite: 202, 203]"
+      },
+      {
+        "text": "C) Fenobarbital. [cite: 200]",
+        "isCorrect": false,
+        "explanation": "Es de segunda línea o para neonatos, pero su acción es más lenta que la de las benzodiacepinas. [cite: 205]"
+      },
+      {
+        "text": "D) Ácido Valproico. [cite: 201]",
+        "isCorrect": false,
+        "explanation": "No se utiliza para el manejo del estatus convulsivo agudo en este contexto de meningitis. [cite: 206]"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Complicaciones Tardías",
+    "text": "Si un paciente persiste con fiebre y focalidad neurológica tras 5 días de tratamiento efectivo, se debe descartar: [cite: 208]",
+    "hint": "Hay una \"bolsa de pus\" oculta que la medicina no está logrando limpiar. [cite: 217]",
+    "options": [
+      {
+        "text": "A) Evolución normal de la enfermedad. [cite: 209]",
+        "isCorrect": false,
+        "explanation": "No se considera normal que la fiebre persista tanto tiempo con el antibiótico adecuado. [cite: 215]"
+      },
+      {
+        "text": "B) Absceso cerebral o empiema subdural. [cite: 210]",
+        "isCorrect": true,
+        "explanation": "Una colección de pus (absceso) no se cura solo con antibióticos sistémicos y mantiene la fiebre y el daño focal por compresión. [cite: 213, 214]"
+      },
+      {
+        "text": "C) Intolerancia a la vía oral. [cite: 211]",
+        "isCorrect": false,
+        "explanation": "Este factor no explica la parálisis o debilidad focal que presenta el paciente. [cite: 216]"
+      },
+      {
+        "text": "D) Efecto rebote de la dexametasona. [cite: 212]",
+        "isCorrect": false,
+        "explanation": "Tampoco justifica la presencia de focalidad neurológica en el paciente. [cite: 216]"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Efectos Adversos de Antibióticos",
+    "text": "Complicación asociada a la infusión rápida de Vancomicina: [cite: 218]",
+    "hint": "El paciente se pone \"rojo como un tomate\" en la parte superior del cuerpo. [cite: 229]",
+    "options": [
+      {
+        "text": "A) Sordera súbita. [cite: 219]",
+        "isCorrect": false,
+        "explanation": "La ototoxicidad por vancomicina es rara y no depende de la velocidad de infusión aguda. [cite: 226]"
+      },
+      {
+        "text": "B) Síndrome de Hombre Rojo (eritema y prurito por liberación de histamina). [cite: 220]",
+        "isCorrect": true,
+        "explanation": "Es una reacción pseudoalérgica por degranulación de mastocitos. Se evita pasando el fármaco en al menos 60 minutos. [cite: 223, 224, 225]"
+      },
+      {
+        "text": "C) Insuficiencia hepática fulminante. [cite: 221]",
+        "isCorrect": false,
+        "explanation": "La vancomicina no es un fármaco clásicamente hepatotóxico. [cite: 227]"
+      },
+      {
+        "text": "D) Paro respiratorio central. [cite: 222]",
+        "isCorrect": false,
+        "explanation": "Este medicamento no tiene reportado este tipo de efecto adverso respiratorio. [cite: 228]"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Profilaxis y Salud Pública",
+    "text": "Quimioprofilaxis de elección para contactos cercanos de meningitis meningocócica: [cite: 231]",
+    "hint": "Tratamiento muy corto de solo 48 horas. [cite: 241]",
+    "options": [
+      {
+        "text": "A) Amoxicilina por 7 días. [cite: 232]",
+        "isCorrect": false,
+        "explanation": "Este antibiótico no es efectivo para erradicar el estado de portador de Neisseria. [cite: 238]"
+      },
+      {
+        "text": "B) Rifampicina por 2 días. [cite: 233]",
+        "isCorrect": true,
+        "explanation": "La Rifampicina alcanza altos niveles en la saliva y secreciones, permitiendo eliminar la bacteria de la nasofaringe del portador sano. [cite: 236, 237]"
+      },
+      {
+        "text": "C) Ceftriaxona dosis única intramuscular. [cite: 234]",
+        "isCorrect": false,
+        "explanation": "Es una alternativa si la vía oral no es posible, pero no es la primera línea estándar. [cite: 239]"
+      },
+      {
+        "text": "D) Penicilina benzatina. [cite: 235]",
+        "isCorrect": false,
+        "explanation": "No tiene utilidad contra bacterias Gram negativas como la Neisseria. [cite: 240]"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Definición de Contacto",
+    "text": "¿Quién se considera contacto estrecho para recibir profilaxis de Meningococo? [cite: 242]",
+    "hint": "Personas que comparten \"el mismo aire\" por mucho tiempo o duermen bajo el mismo techo. [cite: 252]",
+    "options": [
+      {
+        "text": "A) El médico que examinó al niño con mascarilla. [cite: 243]",
+        "isCorrect": false,
+        "explanation": "Si el personal de salud utilizó la protección adecuada, no existe riesgo de contagio. [cite: 250]"
+      },
+      {
+        "text": "B) Familiares que conviven en el mismo hogar o personas que pernoctaron allí. [cite: 244]",
+        "isCorrect": true,
+        "explanation": "El riesgo requiere contacto íntimo y prolongado (> 4 horas) o exposición directa a secreciones. [cite: 247, 248, 249]"
+      },
+      {
+        "text": "C) Compañeros de colegio que no comparten la misma sala de clases. [cite: 245]",
+        "isCorrect": false,
+        "explanation": "Se consideran contactos casuales que no justifican el inicio de profilaxis. [cite: 251]"
+      },
+      {
+        "text": "D) Persona que le entregó un paquete al paciente en la puerta. [cite: 246]",
+        "isCorrect": false,
+        "explanation": "Al igual que el caso anterior, es un contacto de bajo riesgo que no requiere tratamiento. [cite: 251]"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Profilaxis para Hib",
+    "text": "Profilaxis recomendada para contactos íntimos de un caso por Haemophilus influenzae tipo b (Hib): [cite: 253]",
+    "hint": "Es el mismo fármaco que para meningococo pero por el doble de tiempo. [cite: 262]",
+    "options": [
+      {
+        "text": "A) No requiere profilaxis. [cite: 254]",
+        "isCorrect": false,
+        "explanation": "Es incorrecto; sí se requiere realizar profilaxis en los contactos de riesgo definidos. [cite: 259]"
+      },
+      {
+        "text": "B) Rifampicina por 4 días. [cite: 255]",
+        "isCorrect": true,
+        "explanation": "A diferencia del meningococo, el Hib requiere un curso de 4 días para asegurar la eliminación de la bacteria en contactos de riesgo. [cite: 258, 259]"
+      },
+      {
+        "text": "C) Rifampicina por 2 días. [cite: 256]",
+        "isCorrect": false,
+        "explanation": "Este es el esquema de duración para meningococo, siendo insuficiente para erradicar el Hib. [cite: 260]"
+      },
+      {
+        "text": "D) Vacunación inmediata únicamente. [cite: 257]",
+        "isCorrect": false,
+        "explanation": "La vacuna es necesaria pero no reemplaza la protección inmediata que ofrece el antibiótico. [cite: 261]"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Suspensión de Aislamiento",
+    "text": "¿Cuándo se debe suspender el aislamiento de gotitas en un paciente con meningitis meningocócica? [cite: 263]",
+    "hint": "Solo se queda en aislamiento el primer día de su hospitalización. [cite: 272]",
+    "options": [
+      {
+        "text": "A) Al momento del alta hospitalaria. [cite: 264]",
+        "isCorrect": false,
+        "explanation": "Este periodo es excesivo e innecesario, aumentando costos hospitalarios y estrés al paciente. [cite: 270]"
+      },
+      {
+        "text": "B) A las 24 horas de haber iniciado un antibiótico efectivo. [cite: 265]",
+        "isCorrect": true,
+        "explanation": "Las cefalosporinas de 3ra generación esterilizan la nasofaringe en menos de 24 horas, eliminando el riesgo de contagio. [cite: 268, 269]"
+      },
+      {
+        "text": "C) Cuando el paciente deje de tener fiebre. [cite: 266]",
+        "isCorrect": false,
+        "explanation": "La fiebre puede persistir más tiempo que la presencia efectiva de la bacteria en la vía respiratoria. [cite: 271]"
+      },
+      {
+        "text": "D) Nunca, debe estar aislado 14 días. [cite: 267]",
+        "isCorrect": false,
+        "explanation": "Periodo excesivo e injustificado según la microbiología del meningococo tratado. [cite: 270]"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Profilaxis en Embarazo",
+    "text": "Conducta de profilaxis ante un contacto estrecho de Meningococo que es una mujer embarazada: [cite: 273]",
+    "hint": "Una sola inyección que es segura para el bebé. [cite: 285]",
+    "options": [
+      {
+        "text": "A) Rifampicina oral normal. [cite: 274]",
+        "isCorrect": false,
+        "explanation": "La rifampicina es teratogénica en modelos animales y supone un riesgo potencial para el feto. [cite: 280, 282]"
+      },
+      {
+        "text": "B) Ceftriaxona 250 mg IM dosis única. [cite: 275, 276]",
+        "isCorrect": true,
+        "explanation": "La Ceftriaxona intramuscular es una alternativa segura para el feto y altamente efectiva en el embarazo. [cite: 279, 281]"
+      },
+      {
+        "text": "C) No indicar nada por riesgo de malformaciones. [cite: 277]",
+        "isCorrect": false,
+        "explanation": "Omitir la profilaxis es peligroso para la madre y el feto si ella desarrolla la enfermedad invasiva. [cite: 283]"
+      },
+      {
+        "text": "D) Azitromicina por 14 días. [cite: 278]",
+        "isCorrect": false,
+        "explanation": "Este medicamento no constituye el esquema estándar de profilaxis para meningococo. [cite: 284]"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Esquema de Vacunación Neumococo",
+    "text": "Esquema de vacunación contra Neumococo (conjugada) en el lactante sano en Chile: [cite: 287]",
+    "hint": "Coincide con casi todos los controles de salud del primer año de vida. [cite: 295]",
+    "options": [
+      {
+        "text": "A) Al nacer y al mes. [cite: 288]",
+        "isCorrect": false,
+        "explanation": "No corresponde al esquema ministerial definido por el PNI para este agente. [cite: 294]"
+      },
+      {
+        "text": "B) 2, 4, 6 y 12 meses. [cite: 289]",
+        "isCorrect": true,
+        "explanation": "Es el esquema \"3+1\" para proteger al niño en su etapa de mayor vulnerabilidad a las infecciones invasoras por neumococo. [cite: 292, 293]"
+      },
+      {
+        "text": "C) Solo al cumplir el primer año. [cite: 290]",
+        "isCorrect": false,
+        "explanation": "Este es un esquema incompleto que deja ventanas de riesgo graves durante el primer año. [cite: 294]"
+      },
+      {
+        "text": "D) A los 12 y 18 meses únicamente. [cite: 291]",
+        "isCorrect": false,
+        "explanation": "Al igual que la opción anterior, deja al lactante desprotegido en su periodo más crítico. [cite: 294]"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Vacuna Meningocócica Tetravalente",
+    "text": "¿A qué edad se administra la vacuna Meningocócica conjugada tetravalente (A, C, W, Y)? [cite: 296]",
+    "hint": "Es la vacuna del \"año de vida\" junto con la Tres Vírica. [cite: 304]",
+    "options": [
+      {
+        "text": "A) 2 meses. [cite: 297]",
+        "isCorrect": false,
+        "explanation": "A los 2 meses se aplican otras vacunas del programa, como la Hexavalente. [cite: 303]"
+      },
+      {
+        "text": "B) 12 meses (1 año). [cite: 298]",
+        "isCorrect": true,
+        "explanation": "Según el calendario nacional, se aplica al año de vida para proteger contra los cuatro serogrupos más comunes tras esa edad. [cite: 301, 302]"
+      },
+      {
+        "text": "C) Al ingreso escolar (1ero básico). [cite: 299]",
+        "isCorrect": false,
+        "explanation": "A esta edad se administran otros refuerzos como la dpaT, no la tetravalente de meningococo. [cite: 303]"
+      },
+      {
+        "text": "D) A los 6 meses. [cite: 300]",
+        "isCorrect": false,
+        "explanation": "A esta edad se completan terceras dosis de otras vacunas según el PNI. [cite: 303]"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Vacuna Meningococo B",
+    "text": "La vacuna contra el Meningococo B (Bexsero) se incorporó recientemente al PNI para ser administrada a los: [cite: 305]",
+    "hint": "Se pone en las mismas citas que la vacuna Hexavalente. [cite: 313]",
+    "options": [
+      {
+        "text": "A) 2 y 4 meses (con refuerzo). [cite: 306]",
+        "isCorrect": true,
+        "explanation": "Se administra precozmente para frenar la enfermedad por serogrupo B, que causa más casos en lactantes pequeños. [cite: 310, 311]"
+      },
+      {
+        "text": "B) Al nacer. [cite: 307]",
+        "isCorrect": false,
+        "explanation": "No corresponde al grupo de edad de riesgo ni al esquema ministerial actual. [cite: 312]"
+      },
+      {
+        "text": "C) A los 6 años. [cite: 308]",
+        "isCorrect": false,
+        "explanation": "No es la edad definida para esta inmunización en el Programa Nacional de Inmunizaciones. [cite: 312]"
+      },
+      {
+        "text": "D) Solo en adultos mayores. [cite: 309]",
+        "isCorrect": false,
+        "explanation": "El PNI ha incorporado esta vacuna específicamente para la protección de lactantes. [cite: 312]"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Impacto de Vacuna Hib",
+    "text": "Vacuna responsable de haber reducido casi a cero la meningitis por Haemophilus influenzae tipo b: [cite: 314]",
+    "hint": "Es la vacuna \"estrella\" que agrupa 6 protecciones en una. [cite: 322]",
+    "options": [
+      {
+        "text": "A) Vacuna Neumocócica. [cite: 315]",
+        "isCorrect": false,
+        "explanation": "Esta vacuna protege contra S. pneumoniae, una bacteria distinta al Hib. [cite: 321]"
+      },
+      {
+        "text": "B) Vacuna Hexavalente. [cite: 316]",
+        "isCorrect": true,
+        "explanation": "El componente Hib está dentro de la Hexavalente, la cual tiene una cobertura altísima en Chile. [cite: 319, 320]"
+      },
+      {
+        "text": "C) Vacuna SRP. [cite: 317]",
+        "isCorrect": false,
+        "explanation": "La vacuna SRP protege contra agentes virales (Sarampión, Rubéola, Paperas). [cite: 321]"
+      },
+      {
+        "text": "D) Vacuna BCG. [cite: 318]",
+        "isCorrect": false,
+        "explanation": "Esta vacuna protege contra formas diseminadas de tuberculosis. [cite: 321]"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Vacunas Conjugadas",
+    "text": "¿Por qué las vacunas actuales contra la meningitis son \"conjugadas\" con una proteína? [cite: 323]",
+    "hint": "Permite que el sistema inmune \"bebé\" reconozca y recuerde al enemigo. [cite: 332]",
+    "options": [
+      {
+        "text": "A) Para que el líquido sea más estable. [cite: 324]",
+        "isCorrect": false,
+        "explanation": "La conjugación no tiene relación con la estabilidad química del preparado. [cite: 331]"
+      },
+      {
+        "text": "B) Para inducir una respuesta inmunitaria T-dependiente en lactantes menores de 2 años. [cite: 325]",
+        "isCorrect": true,
+        "explanation": "Los polisacáridos puros no generan memoria en niños pequeños. Al unirlos a una proteína, el sistema inmune inmaduro fabrica anticuerpos duraderos. [cite: 328, 329, 330]"
+      },
+      {
+        "text": "C) Para que la inyección duela menos. [cite: 326]",
+        "isCorrect": false,
+        "explanation": "La tecnología de conjugación no influye en el nivel de dolor de la inyección. [cite: 331]"
+      },
+      {
+        "text": "D) Para poder mezclar varios agentes en la misma jeringa. [cite: 327]",
+        "isCorrect": false,
+        "explanation": "La conjugación es para mejorar la inmunogenicidad, no para facilitar mezclas físicas en la jeringa. [cite: 329]"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Reacciones Adversas Vacunales",
+    "text": "Reacción adversa más frecuente reportada con la vacuna contra el Meningococo B (Bexsero): [cite: 333]",
+    "hint": "Es la vacuna que más \"hace transpirar\" a los bebés tras pincharles. [cite: 342]",
+    "options": [
+      {
+        "text": "A) Parálisis de Bell. [cite: 334]",
+        "isCorrect": false,
+        "explanation": "Este signo neurológico no es un efecto adverso reportado de forma frecuente para Bexsero. [cite: 341]"
+      },
+      {
+        "text": "B) Fiebre alta. [cite: 335]",
+        "isCorrect": true,
+        "explanation": "Es una vacuna muy reactogénica; por eso se recomienda paracetamol preventivo o ante el primer signo de alza térmica. [cite: 338, 339, 340]"
+      },
+      {
+        "text": "C) Diarrea profusa. [cite: 336]",
+        "isCorrect": false,
+        "explanation": "No se describe como un efecto adverso frecuente de esta vacuna. [cite: 341]"
+      },
+      {
+        "text": "D) Pérdida de la audición. [cite: 337]",
+        "isCorrect": false,
+        "explanation": "No tiene relación causal reportada con la administración de este biológico. [cite: 341]"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Objetivo de la BCG",
+    "text": "El objetivo principal de la vacuna BCG al nacer respecto al sistema nervioso es: [cite: 343]",
+    "hint": "Protege el \"centro de mando\" contra el bacilo de Koch. [cite: 351]",
+    "options": [
+      {
+        "text": "A) Evitar cualquier resfrío. [cite: 344]",
+        "isCorrect": false,
+        "explanation": "La BCG no previene infecciones respiratorias virales comunes. [cite: 350]"
+      },
+      {
+        "text": "B) Prevenir las formas diseminadas y la meningitis tuberculosa en niños. [cite: 345]",
+        "isCorrect": true,
+        "explanation": "Aunque no previene bien la TBC pulmonar del adulto, es excelente para evitar que la bacteria llegue al cerebro o la sangre en niños pequeños. [cite: 348, 349]"
+      },
+      {
+        "text": "C) Curar la tuberculosis latente. [cite: 346]",
+        "isCorrect": false,
+        "explanation": "La vacuna es preventiva y no tiene capacidad curativa para enfermedades establecidas. [cite: 350]"
+      },
+      {
+        "text": "D) Evitar la infección pulmonar en el adulto. [cite: 347]",
+        "isCorrect": false,
+        "explanation": "Su efectividad para prevenir la forma pulmonar en adultos es limitada. [cite: 349]"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Inmunidad de Rebaño",
+    "text": "¿Qué efecto tiene la vacunación masiva sobre la \"portación\" de las bacterias en la comunidad? [cite: 352]",
+    "hint": "Al \"limpiar\" la comunidad, protegemos a todos. [cite: 360]",
+    "options": [
+      {
+        "text": "A) Ninguno, la vacuna solo protege al que se pincha. [cite: 353]",
+        "isCorrect": false,
+        "explanation": "Es un concepto opuesto a la inmunidad colectiva o de rebaño demostrada. [cite: 359]"
+      },
+      {
+        "text": "B) Disminuye la portación nasofaríngea del germen (Inmunidad de rebaño). [cite: 354]",
+        "isCorrect": true,
+        "explanation": "Las vacunas conjugadas eliminan la bacteria de la garganta de los sanos, evitando que contagien a los no vacunados. [cite: 357, 358]"
+      },
+      {
+        "text": "C) Aumenta la agresividad de las bacterias que quedan. [cite: 355]",
+        "isCorrect": false,
+        "explanation": "No es un efecto biológico que se observe como consecuencia de la vacunación. [cite: 359]"
+      },
+      {
+        "text": "D) Solo funciona si se vacuna a los perros. [cite: 356]",
+        "isCorrect": false,
+        "explanation": "No existe relación con la transmisión humana de estas bacterias específicas. [cite: 359]"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Manejo de Contactos Incompletos",
+    "text": "Manejo de un niño de 5 años con esquema de vacunas incompleto que es contacto estrecho de Hib: [cite: 361]",
+    "hint": "Doble protección: para hoy y para mañana. [cite: 370]",
+    "options": [
+      {
+        "text": "A) Solo vacunarlo hoy. [cite: 362]",
+        "isCorrect": false,
+        "explanation": "La vacuna tarda semanas en generar defensas efectivas, dejando al niño vulnerable en lo inmediato. [cite: 368]"
+      },
+      {
+        "text": "B) Quimioprofilaxis con Rifampicina e iniciar/completar esquema de vacunación. [cite: 363]",
+        "isCorrect": true,
+        "explanation": "Requiere protección inmediata con antibiótico y protección a largo plazo con vacunas debido a su vulnerabilidad. [cite: 366, 367]"
+      },
+      {
+        "text": "C) Observación domiciliaria. [cite: 364]",
+        "isCorrect": false,
+        "explanation": "Es una conducta muy riesgosa dada la alta infectividad y potencial gravedad del Hib. [cite: 369]"
+      },
+      {
+        "text": "D) Inyectar Inmunoglobulina G humana. [cite: 365]",
+        "isCorrect": false,
+        "explanation": "No es el protocolo de manejo estándar para este tipo de contacto estrecho. [cite: 367]"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Vacunación Post-Enfermedad",
+    "text": "¿Se debe vacunar contra el Meningococo a un niño que ya sobrevivió a una meningitis por el serogrupo W? [cite: 371]",
+    "hint": "Existen muchas \"marcas\" de meningococo; el niño solo conoció una. [cite: 381]",
+    "options": [
+      {
+        "text": "A) No, ya tiene inmunidad natural de por vida. [cite: 372]",
+        "isCorrect": false,
+        "explanation": "La inmunidad natural es demasiado específica para el serogrupo que causó la infección únicamente. [cite: 379]"
+      },
+      {
+        "text": "B) Sí, para protegerlo contra los otros serogrupos (A, C, Y, B). [cite: 373]",
+        "isCorrect": true,
+        "explanation": "Haber padecido un tipo de meningococo no protege contra los demás; la vacuna asegura una defensa amplia. [cite: 376, 377, 378]"
+      },
+      {
+        "text": "C) Solo si va a viajar a África. [cite: 374]",
+        "isCorrect": false,
+        "explanation": "El riesgo de los otros serogrupos no es exclusivo de viajes, también existe en Chile. [cite: 380]"
+      },
+      {
+        "text": "D) Está contraindicado por riesgo de alergia. [cite: 375]",
+        "isCorrect": false,
+        "explanation": "No existe tal contraindicación universal reportada tras haber padecido la enfermedad. [cite: 380]"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Vacuna SRP y Meningitis",
+    "text": "Vacuna que previene la meningitis viral causada por el virus de las paperas: [cite: 382]",
+    "hint": "Es la vacuna que se pone a los 12 y 36 meses. [cite: 390]",
+    "options": [
+      {
+        "text": "A) Hexavalente. [cite: 383]",
+        "isCorrect": false,
+        "explanation": "Esta vacuna no contiene el antígeno necesario contra el virus de la parotiditis. [cite: 389]"
+      },
+      {
+        "text": "B) SRP (Tres Vírica). [cite: 384]",
+        "isCorrect": true,
+        "explanation": "El componente \"P\" de la SRP es contra la Parotiditis, causa antes muy frecuente de meningitis aséptica. [cite: 387, 388]"
+      },
+      {
+        "text": "C) Influenza. [cite: 385]",
+        "isCorrect": false,
+        "explanation": "La vacuna de la influenza no ofrece protección contra el virus de la parotiditis. [cite: 389]"
+      },
+      {
+        "text": "D) Varicela. [cite: 386]",
+        "isCorrect": false,
+        "explanation": "Esta vacuna está diseñada específicamente para proteger contra el virus varicela-zóster. [cite: 389]"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Signos de Alarma Post-Vacuna",
+    "text": "Signo de alarma post-vacunación que obliga a consultar a urgencias de inmediato: [cite: 391]",
+    "hint": "El niño llora de una forma que nunca antes habías escuchado. [cite: 401]",
+    "options": [
+      {
+        "text": "A) Enrojecimiento de 1 cm en el brazo. [cite: 392, 393]",
+        "isCorrect": false,
+        "explanation": "Es un efecto esperable, leve y frecuente que se puede manejar en el hogar. [cite: 400]"
+      },
+      {
+        "text": "B) Llanto persistente inconsolable por más de 3 horas o convulsiones. [cite: 394]",
+        "isCorrect": true,
+        "explanation": "Sugieren una reacción neurológica severa o encefalopatía post-vacunal, que es una urgencia médica. [cite: 398, 399]"
+      },
+      {
+        "text": "C) Sueño levemente aumentado por una tarde. [cite: 395]",
+        "isCorrect": false,
+        "explanation": "Se considera un efecto leve frecuente que no reviste gravedad inmediata. [cite: 400]"
+      },
+      {
+        "text": "D) Febrícula de 37,8°C. [cite: 396, 397]",
+        "isCorrect": false,
+        "explanation": "Es un efecto sistémico leve y frecuente tras la administración de vacunas. [cite: 400]"
+      }
+    ]
+  }
+]
