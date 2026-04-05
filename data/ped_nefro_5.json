@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Definición de AKI",
+    "text": "Se evalúa a un paciente pediátrico hospitalizado y se constata una disminución abrupta de la tasa de filtración glomerular. Fisiopatológicamente, ¿cuál es la principal consecuencia inicial de esta condición?",
+    "hint": "Considera las funciones vitales de 'limpieza' y 'equilibrio' que pierde el riñón rápidamente[cite: 19].",
+    "options": [
+      {
+        "text": "A) Desarrollo inmediato de anemia normocítica normocrómica severa",
+        "isCorrect": false,
+        "explanation": "La caída de la eritropoyetina y la anemia secundaria toman semanas en desarrollarse, siendo clásicas de la Enfermedad Renal Crónica (ERC)[cite: 15]."
+      },
+      {
+        "text": "B) Incapacidad para mantener el balance hidroelectrolítico, ácido-base y excretar productos nitrogenados",
+        "isCorrect": true,
+        "explanation": "Esta es la definición clínica y funcional exacta de la Injuria Renal Aguda (AKI)[cite: 12]. El riñón pierde súbitamente su capacidad de depurar desechos (urea/creatinina) y de regular agua, electrolitos y pH[cite: 13]."
+      },
+      {
+        "text": "C) Aumento masivo de la síntesis de vitamina D activa",
+        "isCorrect": false,
+        "explanation": "La hidroxilación de la vitamina D ocurre en el riñón [cite: 16]; si este falla, sus niveles de forma activa disminuyen[cite: 17]."
+      },
+      {
+        "text": "D) Poliuria osmótica compensatoria universal",
+        "isCorrect": false,
+        "explanation": "Lo más habitual en la fase aguda inicial es la oliguria o anuria, no la poliuria[cite: 18]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Criterios Diagnósticos KDIGO",
+    "text": "De acuerdo a las guías clínicas actuales, ¿cuáles son los dos parámetros fundamentales que utilizan los criterios KDIGO para diagnosticar y estratificar la severidad de la AKI?",
+    "hint": "Un examen de sangre clásico y un signo clínico del volumen recolectado[cite: 32].",
+    "options": [
+      {
+        "text": "A) Niveles de Nitrógeno Ureico (BUN) y Fracción Excretada de Sodio (FENa)",
+        "isCorrect": false,
+        "explanation": "Son útiles para el diagnóstico diferencial de la causa, pero no definen si existe o no AKI según KDIGO[cite: 29]."
+      },
+      {
+        "text": "B) Aumento de la creatinina sérica y disminución del débito urinario (diuresis)",
+        "isCorrect": true,
+        "explanation": "Los criterios KDIGO estadifican la falla renal basándose exclusivamente en cuánto se eleva la creatinina respecto al basal y cuántos ml/kg/h está orinando el paciente[cite: 27]."
+      },
+      {
+        "text": "C) Presencia de hematuria microscópica y proteinuria en 24 horas",
+        "isCorrect": false,
+        "explanation": "Indican daño en la estructura (glomérulo/túbulo), pero no miden la tasa de filtración glomerular aguda[cite: 30]."
+      },
+      {
+        "text": "D) Alteraciones en la ecografía renal Doppler y elevación de cistatina C",
+        "isCorrect": false,
+        "explanation": "Son exámenes complementarios excelentes, pero no forman parte de la tabla de clasificación estándar actual[cite: 31]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Limitaciones de la Creatinina",
+    "text": "Un niño de 3 años sufre un shock hipovolémico severo. A las 6 horas de reanimación, sus niveles de creatinina sérica son normales, pero presenta anuria. ¿Por qué la creatinina sérica NO es un marcador ideal para detectar el daño renal hiperagudo?",
+    "hint": "Considera la cinética o velocidad a la que se 'estanca la basura' en la sangre cuando se apaga el filtro[cite: 48].",
+    "options": [
+      {
+        "text": "A) Porque la creatinina se sintetiza en el hígado y su producción cesa durante el shock.",
+        "isCorrect": false,
+        "explanation": "Falso; la creatinina proviene del metabolismo de la creatina en el músculo esquelético[cite: 45]."
+      },
+      {
+        "text": "B) Porque en los niños la creatinina se excreta exclusivamente por las heces.",
+        "isCorrect": false,
+        "explanation": "Se excreta casi exclusivamente por filtración glomerular renal[cite: 46]."
+      },
+      {
+        "text": "C) Porque su elevación es un marcador tardío que refleja el daño ocurrido aproximadamente 48 horas antes.",
+        "isCorrect": true,
+        "explanation": "La creatinina requiere tiempo para acumularse en la sangre tras dejar de filtrarse[cite: 42]. Un paciente puede perder el 100% de la función hoy, pero la elevación se verá 1 o 2 días después[cite: 43]."
+      },
+      {
+        "text": "D) Porque los fluidos de reanimación destruyen la creatinina intravascular.",
+        "isCorrect": false,
+        "explanation": "Los fluidos pueden hemodiluirla levemente, pero no la destruyen químicamente[cite: 47]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Definición de Oliguria",
+    "text": "Al aplicar los criterios KDIGO por débito urinario, ¿qué valor de diuresis sostenido define clínicamente la presencia de oliguria en un paciente pediátrico?",
+    "hint": "Es exactamente la mitad de un mililitro por cada kilo de peso en una hora[cite: 61].",
+    "options": [
+      {
+        "text": "A) < 2,0 ml/kg/h",
+        "isCorrect": false,
+        "explanation": "Es un volumen normal o incluso poliúrico para niños mayores[cite: 58]."
+      },
+      {
+        "text": "B) < 1,0 ml/kg/h",
+        "isCorrect": false,
+        "explanation": "Es el límite inferior fisiológico en lactantes, pero no constituye oliguria patológica que defina falla renal[cite: 59]."
+      },
+      {
+        "text": "C) < 0,5 ml/kg/h",
+        "isCorrect": true,
+        "explanation": "El punto de corte estandarizado por KDIGO para definir oliguria es una diuresis menor a 0.5 ml/kg/h durante al menos 6 horas[cite: 56]."
+      },
+      {
+        "text": "D) < 0,1 ml/kg/h",
+        "isCorrect": false,
+        "explanation": "Este valor define la anuria (ausencia prácticamente total de orina)[cite: 60]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI No Oligúrica",
+    "text": "Un lactante prematuro de 32 semanas cursa con sepsis y elevación de creatinina. Su diuresis se mantiene en 1.5 ml/kg/h. El residente descarta AKI argumentando que el niño 'está orinando bien'. ¿Cuál es el error conceptual del residente?",
+    "hint": "Hacer mucha agua transparente no significa que esa agua esté sacando la 'basura' del cuerpo[cite: 77].",
+    "options": [
+      {
+        "text": "A) Desconoce que la diuresis normal del prematuro debe ser > 5 ml/kg/h.",
+        "isCorrect": false,
+        "explanation": "Sería poliuria marcada, no el valor normal estricto[cite: 74]."
+      },
+      {
+        "text": "B) Ignora que en neonatos y lactantes puede existir falla renal aguda de tipo no oligúrica.",
+        "isCorrect": true,
+        "explanation": "En neonatos o daño por toxinas, el túbulo puede perder la capacidad de concentrar la orina[cite: 70]. El riñón filtra poca sangre, pero el agua se pierde como orina diluida, manteniendo volúmenes normales sin depurar toxinas[cite: 71, 72]."
+      },
+      {
+        "text": "C) No consideró que la sepsis aumenta falsamente la diuresis por liberación de ADH.",
+        "isCorrect": false,
+        "explanation": "La ADH retiene agua, causando oliguria, no aumentando la diuresis[cite: 75]."
+      },
+      {
+        "text": "D) Asume erróneamente que la creatinina del prematuro proviene de la madre.",
+        "isCorrect": false,
+        "explanation": "Hay traspaso los primeros días, pero la elevación posterior en sepsis indica falla propia[cite: 76]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Etiología Global de AKI",
+    "text": "¿Cuál es la causa etiológica global más frecuente (70-85% de los casos) de Injuria Renal Aguda en la población pediátrica comunitaria?",
+    "hint": "La bomba que le da agua al riñón se queda sin líquido que bombear[cite: 91].",
+    "options": [
+      {
+        "text": "A) AKI Intrínseca por Síndrome Hemolítico Urémico",
+        "isCorrect": false,
+        "explanation": "Es la causa número uno de daño renal intrínseco, pero palidece en número frente a las deshidrataciones[cite: 88]."
+      },
+      {
+        "text": "B) AKI Prerrenal (funcional) secundaria a hipoperfusión",
+        "isCorrect": true,
+        "explanation": "La inmensa mayoría de los casos se debe a disminución del volumen de sangre que llega al riñón (hipoperfusión) [cite: 85], principalmente por deshidratación aguda (gastroenteritis), hemorragias y sepsis[cite: 86]."
+      },
+      {
+        "text": "C) AKI Postrenal por Valvas de Uretra Posterior",
+        "isCorrect": false,
+        "explanation": "Son raras a nivel poblacional, responsables de un pequeño porcentaje[cite: 89]."
+      },
+      {
+        "text": "D) AKI Intrínseca por nefrotoxicidad medicamentosa",
+        "isCorrect": false,
+        "explanation": "Es frecuente en el hospital (UCI), pero no en la comunidad general[cite: 90]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Mecanismos Compensatorios Prerrenales",
+    "text": "En la fisiopatología de la AKI prerrenal, la hipoperfusión activa mecanismos compensatorios endógenos. ¿Cuáles son los principales sistemas que se activan para intentar restaurar la volemia y la presión?",
+    "hint": "El cuerpo ordena a los riñones ahorrar agua y sal a toda costa[cite: 106].",
+    "options": [
+      {
+        "text": "A) Liberación de péptido natriurético auricular y bradicininas",
+        "isCorrect": false,
+        "explanation": "Botan sodio y vasodilatan, empeorando el shock; se liberan en hipervolemia[cite: 103]."
+      },
+      {
+        "text": "B) Sistema Renina-Angiotensina-Aldosterona (SRAA) y Hormona Antidiurética (ADH)",
+        "isCorrect": true,
+        "explanation": "El riñón libera renina activando el SRAA para vasoconstricción y retención de sodio (aldosterona)[cite: 100]. La hipófisis libera ADH para retener agua libre, buscando rellenar el intravascular a expensas de oliguria[cite: 101]."
+      },
+      {
+        "text": "C) Inhibición simpática periférica",
+        "isCorrect": false,
+        "explanation": "En shock el simpático se activa al máximo, no se inhibe[cite: 104]."
+      },
+      {
+        "text": "D) Destrucción de los podocitos para aumentar el filtrado",
+        "isCorrect": false,
+        "explanation": "Es patológico, no un mecanismo fisiológico de defensa[cite: 105]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Evolución de AKI Prerrenal a NTA",
+    "text": "Un niño de 4 años cursa con deshidratación grave (AKI prerrenal). Si no se repone el volumen oportunamente y la isquemia renal se prolonga, ¿a qué entidad patológica evolucionará inevitablemente?",
+    "hint": "La falla de suministro pasa de ser temporal a causar la muerte de las células del filtro[cite: 122].",
+    "options": [
+      {
+        "text": "A) Glomerulonefritis postinfecciosa",
+        "isCorrect": false,
+        "explanation": "Es mediada por anticuerpos e inmunocomplejos, no por isquemia[cite: 119]."
+      },
+      {
+        "text": "B) Obstrucción postrenal por cristales de ácido úrico",
+        "isCorrect": false,
+        "explanation": "Típica de lisis tumoral, no de deshidratación pura[cite: 120]."
+      },
+      {
+        "text": "C) Necrosis Tubular Aguda (Daño intrínseco isquémico)",
+        "isCorrect": true,
+        "explanation": "La AKI prerrenal es funcional y reversible rápido con fluidos[cite: 115]. Si la isquemia se mantiene, las células del epitelio tubular mueren y se desprenden, transformándose en daño 'intrínseco' establecido[cite: 116, 117]."
+      },
+      {
+        "text": "D) Trombosis de la vena cava inferior",
+        "isCorrect": false,
+        "explanation": "Ocurre por hipercoagulabilidad, no es el paso evolutivo habitual del parénquima sin sangre[cite: 121]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Causa Intrínseca Más Frecuente",
+    "text": "¿Cuál es la causa intrínseca (daño directo al parénquima) más frecuente de Injuria Renal Aguda en pediatría?",
+    "hint": "Suele presentarse días después de un cuadro de diarrea con sangre[cite: 136].",
+    "options": [
+      {
+        "text": "A) Nefropatía por IgA",
+        "isCorrect": false,
+        "explanation": "Es crónica y suele dar hematuria leve, rara vez AKI fulminante aislada[cite: 133]."
+      },
+      {
+        "text": "B) Vasculitis por anticuerpos ANCA",
+        "isCorrect": false,
+        "explanation": "Es más típica de adultos[cite: 134]."
+      },
+      {
+        "text": "C) Toxicidad por medio de contraste yodado",
+        "isCorrect": false,
+        "explanation": "Importante en hospitalizados, pero no supera al SHU en incidencia general[cite: 135]."
+      },
+      {
+        "text": "D) Síndrome Hemolítico Urémico (SHU)",
+        "isCorrect": true,
+        "explanation": "Es la primera causa de falla renal aguda intrínseca en pediatría[cite: 131]. Típicamente causado por toxina Shiga de E. coli O157:H7, ataca el endotelio vascular causando trombosis y destrucción renal[cite: 130]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "AKI Postrenal",
+    "text": "Un lactante varón de 15 días de vida es hospitalizado por anuria y globo vesical palpable. ¿En qué grupo etiológico de AKI se clasifica este cuadro y cuál es su causa más probable?",
+    "hint": "La cañería está tapada justo después de la vejiga[cite: 151].",
+    "options": [
+      {
+        "text": "A) Prerrenal; estenosis de la arteria renal",
+        "isCorrect": false,
+        "explanation": "La anuria prerrenal deja la vejiga vacía, no hay globo vesical[cite: 148]."
+      },
+      {
+        "text": "B) Intrínseca; displasia multiquística",
+        "isCorrect": false,
+        "explanation": "Presenta masas en el flanco (riñón), no una masa central baja (vejiga)[cite: 149]."
+      },
+      {
+        "text": "C) Postrenal (obstructiva); valvas de uretra posterior",
+        "isCorrect": true,
+        "explanation": "El globo vesical indica que la orina llega a la vejiga pero no puede salir (obstrucción)[cite: 145]. En recién nacidos varones, la causa más común son las valvas de uretra posterior[cite: 146]."
+      },
+      {
+        "text": "D) Postrenal; litiasis renal bilateral",
+        "isCorrect": false,
+        "explanation": "Extremadamente raro en neonatos comparado con las valvas[cite: 150]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Nefrotoxicidad Medicamentosa",
+    "text": "¿Qué grupo antibiótico de uso común causa característicamente Necrosis Tubular Aguda directa en pediatría?",
+    "hint": "Son medicamentos que también pueden dejar sordo al paciente (ototóxicos)[cite: 165].",
+    "options": [
+      {
+        "text": "A) Amoxicilina y Penicilinas",
+        "isCorrect": false,
+        "explanation": "Muy seguras; rara vez causan nefritis intersticial alérgica, pero no NTA tóxica clásica[cite: 162]."
+      },
+      {
+        "text": "B) Aminoglucósidos (ej. Amikacina, Gentamicina)",
+        "isCorrect": true,
+        "explanation": "Tienen el efecto adverso de acumularse en lisosomas de células del túbulo proximal, causando necrosis y falla renal aguda (habitualmente no oligúrica al inicio)[cite: 160]."
+      },
+      {
+        "text": "C) Paracetamol",
+        "isCorrect": false,
+        "explanation": "Produce necrosis hepática masiva, no renal primaria[cite: 163]."
+      },
+      {
+        "text": "D) Ceftriaxona",
+        "isCorrect": false,
+        "explanation": "Genera barro biliar, pero su toxicidad tubular directa es mínima[cite: 164]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Síndrome Nefrítico",
+    "text": "Un preescolar acude con edema palpebral, oliguria e hipertensión arterial, a tres semanas de haber sufrido un impétigo. ¿Cuál es la causa intrínseca de AKI más probable?",
+    "hint": "El sistema inmune ataca el filtro renal semanas después de combatir una infección de la piel o garganta[cite: 180].",
+    "options": [
+      {
+        "text": "A) Necrosis Tubular Aguda isquémica",
+        "isCorrect": false,
+        "explanation": "No hay antecedentes de shock ni isquemia[cite: 177]."
+      },
+      {
+        "text": "B) Síndrome Hemolítico Urémico",
+        "isCorrect": false,
+        "explanation": "Falta diarrea previa y microangiopatía (anemia/plaquetopenia)[cite: 178]."
+      },
+      {
+        "text": "C) Nefrotoxicidad por AINEs",
+        "isCorrect": false,
+        "explanation": "Causa alergia renal, no encaja con la historia del impétigo lejano[cite: 179]."
+      },
+      {
+        "text": "D) Glomerulonefritis aguda post-infecciosa",
+        "isCorrect": true,
+        "explanation": "Corresponde al Síndrome Nefrítico clásico[cite: 174]. La latencia de 3 a 6 semanas tras una infección por Streptococcus pyogenes (impétigo) es característica de la GNA post-estreptocócica[cite: 175]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Fracción Excretada de Sodio (FENa)",
+    "text": "En el diagnóstico diferencial entre AKI prerrenal e intrínseca, se solicita la FENa. ¿Cuál es la base fisiológica de este examen?",
+    "hint": "Verifica si la 'tubería' aún es capaz de obedecer la orden de recuperar la sal[cite: 196].",
+    "options": [
+      {
+        "text": "A) Mide la destrucción de los glomérulos a través de las proteínas.",
+        "isCorrect": false,
+        "explanation": "Las proteínas evalúan daño glomerular, no manejo tubular de iones[cite: 193]."
+      },
+      {
+        "text": "B) Cuantifica el sodio ingerido en la dieta de las últimas 24 horas.",
+        "isCorrect": false,
+        "explanation": "No es un índice dietético, es una medida de función celular[cite: 194]."
+      },
+      {
+        "text": "C) Evalúa la indemnidad del túbulo para reabsorber sodio como respuesta a la hipovolemia.",
+        "isCorrect": true,
+        "explanation": "Mide el porcentaje de sodio filtrado que se pierde. Si está sano (prerrenal), el túbulo reabsorbe sodio frenéticamente (FENa <1%)[cite: 189, 190]. Si está muerto (intrínseco), el sodio se escapa (FENa >2%)[cite: 191]."
+      },
+      {
+        "text": "D) Determina el nivel exacto de Hormona Antidiurética en sangre.",
+        "isCorrect": false,
+        "explanation": "La ADH se evalúa vía osmolaridad y sodio plasmático, no por FENa[cite: 195]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Índices Urinarios Prerrenales",
+    "text": "Un lactante de 1 año ingresa deshidratado y oligúrico. Se obtiene un FENa de 0.4% y un Sodio urinario (NaU) de 10 mEq/L. ¿Qué indican estos resultados?",
+    "hint": "El riñón guarda cada gota de sal para salvar la vida del niño[cite: 210].",
+    "options": [
+      {
+        "text": "A) Falla renal intrínseca establecida (Necrosis Tubular Aguda)",
+        "isCorrect": false,
+        "explanation": "Tendría FENa elevado (>2%) porque células muertas no reabsorben sodio[cite: 207]."
+      },
+      {
+        "text": "B) Obstrucción urinaria severa (Postrenal)",
+        "isCorrect": false,
+        "explanation": "No se diagnostica por el manejo del sodio[cite: 208]."
+      },
+      {
+        "text": "C) Exceso severo de ingesta de sal en el hogar",
+        "isCorrect": false,
+        "explanation": "El riñón sano botaría el exceso (NaU >40 mEq/L)[cite: 209]."
+      },
+      {
+        "text": "D) Falla renal prerrenal (funcional)",
+        "isCorrect": true,
+        "explanation": "Un FENa <1% y NaU <20 mEq/L demuestran que el tejido está sano y trabaja al máximo para retener sodio y agua por la hipovolemia[cite: 205]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "FENa en Neonatos",
+    "text": "Al evaluar a un neonato de término con sospecha de AKI prerrenal, ¿qué valor de FENa es el punto de corte aceptado debido a su inmadurez tubular fisiológica?",
+    "hint": "El riñón del recién nacido 'gotea' un poco más de sal que un riñón maduro por defecto[cite: 224].",
+    "options": [
+      {
+        "text": "A) < 1.0%",
+        "isCorrect": false,
+        "explanation": "Es el corte para niños mayores y adultos[cite: 221]."
+      },
+      {
+        "text": "B) < 2.5%",
+        "isCorrect": true,
+        "explanation": "Los neonatos tienen inmadurez tubular normal que los hace 'perdedores de sal'[cite: 218]. Por ello, el límite para definir esfuerzo de retención se flexibiliza hasta el 2.5%[cite: 219]."
+      },
+      {
+        "text": "C) > 5.0%",
+        "isCorrect": false,
+        "explanation": "Indica daño intrínseco grave a cualquier edad[cite: 222]."
+      },
+      {
+        "text": "D) No se puede usar el FENa en neonatos",
+        "isCorrect": false,
+        "explanation": "Sí se usa clínicamente con este ajuste fisiológico[cite: 223]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Índices Urinarios en NTA",
+    "text": "Niño de 7 años politraumatizado desarrolla oliguria al tercer día. Se calcula un FENa de 3.5% y un NaU de 50 mEq/L. ¿Cuál es el diagnóstico fisiopatológico?",
+    "hint": "El filtro se rompió y la sal se escapa sin control[cite: 240].",
+    "options": [
+      {
+        "text": "A) Falla prerrenal pura por deshidratación",
+        "isCorrect": false,
+        "explanation": "El riñón estaría reteniendo el sodio (FENa < 1%)[cite: 237]."
+      },
+      {
+        "text": "B) Riñón hiperfuncionante normal",
+        "isCorrect": false,
+        "explanation": "Un riñón oligúrico en trauma no está hiperfuncionando[cite: 238]."
+      },
+      {
+        "text": "C) Aumento patológico del flujo plasmático renal",
+        "isCorrect": false,
+        "explanation": "El trauma con shock disminuye el flujo plasmático[cite: 239]."
+      },
+      {
+        "text": "D) Daño renal intrínseco (probable Necrosis Tubular Aguda)",
+        "isCorrect": true,
+        "explanation": "Un paciente oligúrico que bota grandes cantidades de sodio (FENa >2-3% y NaU >40) tiene sus túbulos necrosados[cite: 234]. El shock prolongado destruyó células encargadas de reabsorber sodio[cite: 235]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Imagenología Inicial en AKI",
+    "text": "¿Qué estudio de imágenes es el gold standard inicial y obligatorio en todo paciente pediátrico que debuta con AKI de causa no precisada?",
+    "hint": "Necesitas una herramienta anatómica inofensiva para descartar si el problema es estructural[cite: 254].",
+    "options": [
+      {
+        "text": "A) Tomografía Axial Computarizada (TAC) de abdomen con contraste",
+        "isCorrect": false,
+        "explanation": "El contraste yodado es extremadamente tóxico para un riñón fallando[cite: 251]."
+      },
+      {
+        "text": "B) Cintigrama renal con DMSA",
+        "isCorrect": false,
+        "explanation": "Examen diferido para ver cicatrices, inútil en la emergencia aguda[cite: 252]."
+      },
+      {
+        "text": "C) Ecografía renal y vesical con Doppler",
+        "isCorrect": true,
+        "explanation": "Es rápida, inocua y sin radiación ni contraste[cite: 248]. Permite descartar causas postrenales (hidronefrosis), evaluar tamaño renal y, con Doppler, verificar trombosis de grandes vasos[cite: 249]."
+      },
+      {
+        "text": "D) Resonancia magnética pélvica",
+        "isCorrect": false,
+        "explanation": "Examen largo, costoso y requiere anestesia; incompatible con urgencia inicial[cite: 253]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Relación BUN/Creatinina",
+    "text": "Lactante con diarrea y deshidratación severa. Al realizar examen de sangre inicial, ¿qué hallazgo en la relación BUN/Creatinina es esperable?",
+    "hint": "Uno de los desechos nitrogenados acompaña al agua de regreso al cuerpo por la lentitud del flujo[cite: 269].",
+    "options": [
+      {
+        "text": "A) Relación BUN/Cr conservada (menor a 10)",
+        "isCorrect": false,
+        "explanation": "Se ve en daño intrínseco (NTA), donde ambos suben proporcionalmente porque ninguno se reabsorbe[cite: 266]."
+      },
+      {
+        "text": "B) Disminución profunda del BUN a casi cero",
+        "isCorrect": false,
+        "explanation": "La deshidratación concentra y eleva el BUN[cite: 267]."
+      },
+      {
+        "text": "C) Sodio plasmático siempre mayor a 160 mEq/L",
+        "isCorrect": false,
+        "explanation": "Puede ser isonatrémica o hiponatrémica, no siempre hipernatrémica[cite: 268]."
+      },
+      {
+        "text": "D) Elevación desproporcionada del BUN (Relación BUN/Cr > 20)",
+        "isCorrect": true,
+        "explanation": "En hipovolemia, el flujo lento permite que la urea (BUN) filtrada se reabsorba junto al agua[cite: 263]. La creatinina no se reabsorbe, haciendo que el BUN suba mucho más alto proporcionalmente[cite: 264]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Tratamiento Inicial AKI Prerrenal",
+    "text": "Frente a una alta sospecha de AKI prerrenal por hipovolemia, ¿cuál es la medida terapéutica inicial de elección para confirmar el diagnóstico y evitar daño estructural?",
+    "hint": "Rellenar el estanque vacío es la primera prueba del mecánico[cite: 283].",
+    "options": [
+      {
+        "text": "A) Administración de Furosemida en bolo endovenoso",
+        "isCorrect": false,
+        "explanation": "Deshidratar a un paciente hipovolémico agravará letalmente la isquemia renal[cite: 280]."
+      },
+      {
+        "text": "B) Restricción de líquidos a solo pérdidas insensibles",
+        "isCorrect": false,
+        "explanation": "Se usa en paciente sobrecargado, no en deshidratado[cite: 281]."
+      },
+      {
+        "text": "C) Prueba de volumen con cristaloides (Suero Fisiológico 10-20 ml/kg)",
+        "isCorrect": true,
+        "explanation": "Rellenar el sistema vascular rápidamente es lógico y salvavidas si falta sangre[cite: 277]. Restaurar la diuresis confirma la causa prerrenal y salva el parénquima[cite: 278]."
+      },
+      {
+        "text": "D) Inicio inmediato de hemodiálisis",
+        "isCorrect": false,
+        "explanation": "No se inicia diálisis sin antes probar reanimación básica con líquidos[cite: 282]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Manejo Hídrico en AKI Intrínseca",
+    "text": "Paciente de 5 años con AKI intrínseca (NTA) post-cirugía cardíaca, euvolémico pero oligúrico. ¿Cuál es el pilar central del manejo hídrico?",
+    "hint": "Entregar gota a gota exactamente la misma cantidad que el cuerpo pierde[cite: 297].",
+    "options": [
+      {
+        "text": "A) Administrar expansores de plasma cada 4 horas",
+        "isCorrect": false,
+        "explanation": "Causará sobrecarga de volumen y edema pulmonar fulminante[cite: 295]."
+      },
+      {
+        "text": "B) Aportar el 150% de los requerimientos basales diarios",
+        "isCorrect": false,
+        "explanation": "Exceso de líquido en un anúrico es letal[cite: 295]."
+      },
+      {
+        "text": "C) Restricción absoluta de líquidos (cero aporte)",
+        "isCorrect": false,
+        "explanation": "Se deshidrataría por pérdidas insensibles, sufriendo shock hipovolémico sobreagregado[cite: 296]."
+      },
+      {
+        "text": "D) Balance hídrico estricto aportando sólo pérdidas insensibles más la diuresis medida",
+        "isCorrect": true,
+        "explanation": "Si ya es euvolémico pero no orina, cualquier extra irá a pulmones y tejidos[cite: 292]. Se debe reponer exactamente lo evaporado (insensibles) más lo poco que orine[cite: 293]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Alteraciones Electrolíticas Críticas",
+    "text": "En el contexto de una AKI establecida con oliguria prolongada, ¿cuál es la alteración electrolítica más temida y potencialmente mortal a corto plazo?",
+    "hint": "Es el mineral intracelular que al salir a la sangre frena la actividad eléctrica del corazón[cite: 312].",
+    "options": [
+      {
+        "text": "A) Hipercalcemia",
+        "isCorrect": false,
+        "explanation": "Lo habitual es la hipocalcemia por falla de vitamina D y retención de fósforo[cite: 309]."
+      },
+      {
+        "text": "B) Hipomagnesemia",
+        "isCorrect": false,
+        "explanation": "No es la urgencia vital primaria[cite: 310]."
+      },
+      {
+        "text": "C) Hipernatremia extrema",
+        "isCorrect": false,
+        "explanation": "Lo más común es la hiponatremia dilucional por retención de agua[cite: 311]."
+      },
+      {
+        "text": "D) Hiperkalemia (potasio elevado)",
+        "isCorrect": true,
+        "explanation": "Si el riñón se detiene, el potasio se acumula violentamente[cite: 306]. Niveles altos alteran el potencial de membrana cardíaco, provocando arritmias letales y paro en diástole en minutos[cite: 307]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Electrocardiograma en Hiperkalemia",
+    "text": "Lactante con AKI y Potasio de 6.8 mEq/L. ¿Qué alteración precoz espera encontrar en el ECG?",
+    "hint": "La onda que representa el final del latido se levanta puntiaguda como un pico de montaña[cite: 326].",
+    "options": [
+      {
+        "text": "A) Depresión profunda del segmento ST",
+        "isCorrect": false,
+        "explanation": "Signo de isquemia o hipokalemia[cite: 323]."
+      },
+      {
+        "text": "B) Acortamiento del intervalo QT a menos de 0.2s",
+        "isCorrect": false,
+        "explanation": "Signo clásico de hipercalcemia[cite: 324]."
+      },
+      {
+        "text": "C) Ondas U prominentes post onda T",
+        "isCorrect": false,
+        "explanation": "Hallazgo patognomónico de hipokalemia (potasio bajo)[cite: 325]."
+      },
+      {
+        "text": "D) Ondas T picudas y simétricas",
+        "isCorrect": true,
+        "explanation": "Es la primera y más característica manifestación de hiperkalemia (y señal de alarma), donde la onda T se vuelve alta, estrecha y simétrica ('en tienda de campaña')[cite: 321]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Hiponatremia en AKI",
+    "text": "Paciente con AKI intrínseca oligúrica presenta Sodio de 125 mEq/L. ¿Cuál es la causa fisiopatológica y manejo de primera línea?",
+    "hint": "Si echas agua a un caldo salado y no dejas que se derrame, el caldo perderá su sabor a sal[cite: 342].",
+    "options": [
+      {
+        "text": "A) Pérdida masiva de sodio por el sudor; reponer con bolos de Suero Hipertónico.",
+        "isCorrect": false,
+        "explanation": "No hay déficit real de sal; el hipertónico en sobrecarga causará edema pulmonar[cite: 339]."
+      },
+      {
+        "text": "B) Consumo de sodio por parte de los glóbulos rojos; transfundir sangre.",
+        "isCorrect": false,
+        "explanation": "No existe ese mecanismo fisiopatológico[cite: 340]."
+      },
+      {
+        "text": "C) Aumento de la excreción fraccional de sodio a niveles fatales; diálisis inmediata.",
+        "isCorrect": false,
+        "explanation": "El problema central es el exceso de agua extracelular, no solo la pérdida urinaria[cite: 341]."
+      },
+      {
+        "text": "D) Hiponatremia dilucional por incapacidad de excretar agua libre; manejar con restricción hídrica.",
+        "isCorrect": true,
+        "explanation": "El riñón oligúrico no elimina el agua; esta se acumula 'aguando' la concentración de sodio existente[cite: 335, 336]. El tratamiento es cerrar el aporte (restricción hídrica) para recuperar la concentración[cite: 337]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Corrección con Bicarbonato",
+    "text": "¿Por qué la administración rutinaria de Bicarbonato de Sodio en AKI con acidosis es riesgosa y se reserva solo para casos graves?",
+    "hint": "Recuerda qué metal acompaña al bicarbonato en el envase del medicamento[cite: 360].",
+    "options": [
+      {
+        "text": "A) Porque el bicarbonato empeora la coagulación sanguínea.",
+        "isCorrect": false,
+        "explanation": "No es su efecto adverso principal[cite: 356]."
+      },
+      {
+        "text": "B) Porque el riñón requiere un ambiente ácido para curarse de la isquemia.",
+        "isCorrect": false,
+        "explanation": "Falso, la acidosis severa es tóxica para las células[cite: 357]."
+      },
+      {
+        "text": "C) Porque cruza inmediatamente la barrera hematoencefálica causando convulsiones.",
+        "isCorrect": false,
+        "explanation": "No la cruza bien; puede causar acidosis paradojal en LCR al convertirse en CO2 que sí cruza[cite: 358, 359]."
+      },
+      {
+        "text": "D) Porque el bicarbonato viene en una sal sódica que aporta gran carga de volumen y sodio, precipitando edema pulmonar en un paciente oligúrico.",
+        "isCorrect": true,
+        "explanation": "Las ampollas son de Bicarbonato de Sodio[cite: 352]. Entregan un bolo inmenso de sal que atrae agua al torrente. Si el niño no orina el exceso, se inundarán los pulmones (edema pulmonar)[cite: 353, 354]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Uso de Furosemida en AKI",
+    "text": "¿Cuál es la utilidad clínica real del uso de diuréticos de asa (Furosemida) en el paciente con NTA establecida?",
+    "hint": "Destapa la llave de agua, aunque el agua siga saliendo sucia[cite: 375].",
+    "options": [
+      {
+        "text": "A) Revierte la enfermedad acelerando la regeneración de los túbulos renales.",
+        "isCorrect": false,
+        "explanation": "Falso. No cambia el pronóstico de recuperación celular ni mortalidad[cite: 372]."
+      },
+      {
+        "text": "B) Aumenta la Tasa de Filtración Glomerular directamente dilatando la arteriola.",
+        "isCorrect": false,
+        "explanation": "No actúa dilatando la arteriola aferente[cite: 373]."
+      },
+      {
+        "text": "C) Previene de forma efectiva la infección del tracto urinario intrahospitalaria.",
+        "isCorrect": false,
+        "explanation": "No tiene efecto profiláctico antimicrobiano[cite: 374]."
+      },
+      {
+        "text": "D) Transformar una AKI oligúrica en no oligúrica para facilitar el manejo de la hipervolemia y la nutrición.",
+        "isCorrect": true,
+        "explanation": "No cura el riñón ni mejora el filtrado para limpiar sangre[cite: 368]. Pero si logra forzar la micción de agua, permite dar nutrición y fármacos sin riesgo de edema pulmonar[cite: 369, 370]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Nutrición en AKI",
+    "text": "Respecto al manejo nutricional del niño con AKI severa en UCI, ¿cuál de las siguientes afirmaciones es correcta?",
+    "hint": "Evita que el paciente consuma sus propias reservas musculares de emergencia[cite: 390].",
+    "options": [
+      {
+        "text": "A) Se debe restringir la ingesta de proteínas a cero para evitar la producción de uremia.",
+        "isCorrect": false,
+        "explanation": "Condena al niño a desnutrición aguda, pérdida de cicatrización y defensas[cite: 387]."
+      },
+      {
+        "text": "B) Debe instaurarse un ayuno prolongado por 72 horas para asegurar reposo intestinal.",
+        "isCorrect": false,
+        "explanation": "Agrava el catabolismo y atrofia el intestino[cite: 388]."
+      },
+      {
+        "text": "C) Solo se deben administrar soluciones glucosadas al 5% por vía venosa para proteger el riñón.",
+        "isCorrect": false,
+        "explanation": "Aporta calorías irrisorias insuficientes para el estrés[cite: 389]."
+      },
+      {
+        "text": "D) Es un estado hipercatabólico, por lo que se debe asegurar un aporte calórico adecuado precozmente sin restricción proteica excesiva.",
+        "isCorrect": true,
+        "explanation": "Sin alimento, el cuerpo 'comerá' su propio músculo (autocatabolismo) para energía[cite: 383, 384]. Esto libera inmensas cantidades de potasio, urea y ácidos, agravando letalmente la falla[cite: 385]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Indicación de Diálisis por Sobrecarga",
+    "text": "Un lactante con SHU cursa anuria, dificultad respiratoria, crépitos bilaterales e hipertensión severa. ¿Cuál es el diagnóstico sindromático y la conducta indicada?",
+    "hint": "El niño se está 'ahogando' desde adentro porque el cuerpo es una botella sellada llena de agua[cite: 405].",
+    "options": [
+      {
+        "text": "A) Neumonía intrahospitalaria; iniciar ceftriaxona.",
+        "isCorrect": false,
+        "explanation": "Es falla de bomba (congestión), no proceso infeccioso pulmonar primario[cite: 402]."
+      },
+      {
+        "text": "B) Acidosis metabólica extrema; administrar bicarbonato en bolo.",
+        "isCorrect": false,
+        "explanation": "Administrar más salino a un paciente en edema pulmonar es letal[cite: 403]."
+      },
+      {
+        "text": "C) Reacción anafiláctica al suero; usar adrenalina.",
+        "isCorrect": false,
+        "explanation": "Presentaría sibilancias y shock hipotensivo, no HTA y crépitos[cite: 404]."
+      },
+      {
+        "text": "D) Sobrecarga de volumen severa refractaria; indicación absoluta de Diálisis.",
+        "isCorrect": true,
+        "explanation": "Describe un Edema Pulmonar Agudo por sobrecarga[cite: 399]. Sin función renal ni respuesta a diuréticos (anuria), la única vía para extraer agua y salvar la vida es la terapia de reemplazo renal[cite: 400]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Criterio Dialítico Electrolítico",
+    "text": "¿Cuál alteración de laboratorio es un criterio ABSOLUTO de inicio de Diálisis aguda si no responde al manejo médico inicial?",
+    "hint": "Es el veneno iónico del corazón en el paciente renal[cite: 419].",
+    "options": [
+      {
+        "text": "A) Hiponatremia de 130 mEq/L",
+        "isCorrect": false,
+        "explanation": "Es leve-moderada, se maneja con restricción de agua libre[cite: 416]."
+      },
+      {
+        "text": "B) Hipocalcemia leve asintomática",
+        "isCorrect": false,
+        "explanation": "Se trata aportando calcio suplementario[cite: 417]."
+      },
+      {
+        "text": "C) Hiperfosfatemia aislada",
+        "isCorrect": false,
+        "explanation": "Se maneja con quelantes orales de fósforo y dieta[cite: 418]."
+      },
+      {
+        "text": "D) Hiperkalemia refractaria o con alteraciones en el electrocardiograma",
+        "isCorrect": true,
+        "explanation": "El potasio elevado que no cede a medidas médicas amenaza con paro cardíaco inminente[cite: 413]. La diálisis limpia inmediatamente el plasma, siendo una indicación vital irrefutable[cite: 414]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Encefalopatía Urémica",
+    "text": "Paciente escolar con Creatinina de 6.0 mg/dl presenta confusión, mioclonías y asterixis (flapping tremor). ¿Qué síndrome explica estos síntomas y cuál es la terapia definitiva?",
+    "hint": "El cerebro pierde su función normal al intoxicarse por la 'basura' de la sangre[cite: 436].",
+    "options": [
+      {
+        "text": "A) Epilepsia primaria; iniciar Ácido Valproico.",
+        "isCorrect": false,
+        "explanation": "El origen es claramente metabólico toxicológico secundario a la AKI[cite: 433]."
+      },
+      {
+        "text": "B) Meningis aguda; realizar punción lumbar.",
+        "isCorrect": false,
+        "explanation": "No es el diagnóstico primario ante Cr 6.0 sin signos meníngeos ni fiebre[cite: 434]."
+      },
+      {
+        "text": "C) Hipoglicemia severa; administrar Glucagón.",
+        "isCorrect": false,
+        "explanation": "Aunque debe descartarse, asterixis con anuria grita uremia[cite: 435]."
+      },
+      {
+        "text": "D) Encefalopatía urémica; requiere Diálisis de urgencia.",
+        "isCorrect": true,
+        "explanation": "La acumulación masiva de productos nitrogenados (uremia) cruza la barrera hematoencefálica e intoxica neuronas[cite: 429]. El flapping y confusión son signos clásicos pre-coma de uremia avanzada que exigen diálisis absoluta[cite: 430, 431]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Pronóstico a Largo Plazo",
+    "text": "¿Qué concepto contemporáneo sobre el pronóstico de la AKI pediátrica es crucial para el seguimiento post-alta?",
+    "hint": "Un órgano que casi muere en la infancia funcionará con 'menos piezas' el resto de la vida del adulto[cite: 450].",
+    "options": [
+      {
+        "text": "A) La AKI es 100% reversible y el riñón infantil queda inmune a nuevas injurias toda su vida.",
+        "isCorrect": false,
+        "explanation": "Mito superado; evidencia demuestra secuelas fibróticas en casi todos los eventos severos[cite: 447]."
+      },
+      {
+        "text": "B) Solo las AKIs causadas por el SHU dejan secuelas, las prerrenales jamás.",
+        "isCorrect": false,
+        "explanation": "Cualquier isquemia prolongada (NTA post prerrenal no tratada) deja cicatriz[cite: 448]."
+      },
+      {
+        "text": "C) El seguimiento puede suspenderse al normalizarse la creatinina sérica al alta.",
+        "isCorrect": false,
+        "explanation": "Cr normal solo indica compensación temporal, el daño silencioso prosigue[cite: 449]."
+      },
+      {
+        "text": "D) La AKI deja a los pacientes con alto riesgo de desarrollar Enfermedad Renal Crónica a largo plazo.",
+        "isCorrect": true,
+        "explanation": "Células muertas dejan cicatrices y pérdida definitiva de nefronas[cite: 444]. Los filtros restantes sufren hiperfiltración, lo que a largo plazo los fatiga y conduce a Enfermedad Renal Crónica décadas después[cite: 445]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Seguimiento en APS post-AKI",
+    "text": "Niño de 8 años con antecedente de AKI severa en UCI a los 3 años. ¿Qué parámetros se deben evaluar rigurosamente en APS para pesquisar secuelas tardías?",
+    "hint": "Busca signos de 'desgaste' mecánico: aumento de presión del sistema o agujeros por donde se escapan sustancias útiles[cite: 466].",
+    "options": [
+      {
+        "text": "A) Niveles de PCR y velocidad de sedimentación (VHS).",
+        "isCorrect": false,
+        "explanation": "Marcadores de inflamación aguda, no de deterioro crónico filtrante[cite: 463]."
+      },
+      {
+        "text": "B) Medición seriada de FENa.",
+        "isCorrect": false,
+        "explanation": "Útil para diagnóstico agudo diferencial, inútil para seguimiento ambulatorio[cite: 464]."
+      },
+      {
+        "text": "C) Ecografía Doppler de venas de las extremidades inferiores.",
+        "isCorrect": false,
+        "explanation": "No evalúa parénquima renal ni su función[cite: 465]."
+      },
+      {
+        "text": "D) Presión Arterial y examen de orina en busca de proteinuria o microalbuminuria.",
+        "isCorrect": true,
+        "explanation": "La hiperfiltración daña capilares glomerulares[cite: 460]. Los primeros signos de fracaso funcional tardío son HTA sistémica y escape de proteínas por orina[cite: 461]."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Evitar Segundas Injurias",
+    "text": "Frente a un niño en riesgo de AKI (ej. tratamiento con Amikacina), ¿qué implica el concepto clínico de 'evitar segundas injurias'?",
+    "hint": "No le pongas más carga a quien ya está caminando al borde del abismo[cite: 480].",
+    "options": [
+      {
+        "text": "A) Mantener al paciente en coma inducido para reducir el consumo de oxígeno.",
+        "isCorrect": false,
+        "explanation": "Medida agresiva no justificada para prevenir daño renal en planta[cite: 477]."
+      },
+      {
+        "text": "B) Administrar corticoides en altas dosis preventivas.",
+        "isCorrect": false,
+        "explanation": "No previenen daño tóxico tubular directo ni isquemia[cite: 478]."
+      },
+      {
+        "text": "C) Suspender la lactancia materna para evitar hiperproteinemia.",
+        "isCorrect": false,
+        "explanation": "La leche materna no empeora el riñón y asegura nutrición[cite: 479]."
+      },
+      {
+        "text": "D) Evitar asociar otros fármacos nefrotóxicos (ej. AINEs) y asegurar correcta hidratación/oxigenación.",
+        "isCorrect": true,
+        "explanation": "Si ya lidia con un insulto tóxico, agregarle deshidratación leve o ibuprofeno colapsará sus mecanismos de compensación, empujándolo a NTA grave evitable[cite: 475]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Mecanismo Postrenal",
+    "text": "Lactante con AKI por obstrucción ureteral bilateral. ¿Cuál mecanismo explica la detención INMEDIATA del filtrado glomerular?",
+    "hint": "Sigue las leyes de la física hidráulica para líquidos atrancados en un tubo estrecho[cite: 496].",
+    "options": [
+      {
+        "text": "A) Isquemia cortical secundaria a vasoconstricción sistémica generalizada.",
+        "isCorrect": false,
+        "explanation": "Mecanismo prerrenal, no obstructivo[cite: 493]."
+      },
+      {
+        "text": "B) Destrucción mediada por linfocitos T de la barrera de filtración.",
+        "isCorrect": false,
+        "explanation": "Mecanismo inmunológico (ej. nefritis)[cite: 494]."
+      },
+      {
+        "text": "C) Pérdida de la presión oncótica plasmática global.",
+        "isCorrect": false,
+        "explanation": "Bajaría la fuerza de retención en sangre, aumentando filtrado antes de edema[cite: 495]."
+      },
+      {
+        "text": "D) Aumento de la presión hidrostática intratubular y en la cápsula de Bowman que iguala y se opone a la presión capilar.",
+        "isCorrect": true,
+        "explanation": "La orina se produce a favor de un gradiente[cite: 489]. Si está tapada la salida, la orina retrocede y se acumula aumentando presión hasta igualar la de la sangre; sin diferencia, el fluido deja de filtrarse[cite: 490, 491]."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Diagnóstico de SHU",
+    "text": "El SHU causa daño intrínseco mediante microangiopatía trombótica. ¿Qué examen de laboratorio hematológico apoya fuertemente este diagnóstico?",
+    "hint": "Evidencia visual de que las células de la sangre están siendo cortadas en pedazos pequeños[cite: 511].",
+    "options": [
+      {
+        "text": "A) Aumento del recuento de plaquetas (Trombocitosis).",
+        "isCorrect": false,
+        "explanation": "Falso, las plaquetas se consumen en trombos, presentando trombocitopenia grave[cite: 508]."
+      },
+      {
+        "text": "B) Prueba de Coombs Directo francamente positiva.",
+        "isCorrect": false,
+        "explanation": "La hemólisis es física/mecánica, no por anticuerpos; el Coombs resulta negativo[cite: 509]."
+      },
+      {
+        "text": "C) Elevación extrema del fibrinógeno plasmático.",
+        "isCorrect": false,
+        "explanation": "Reactante de fase aguda inespecífico[cite: 510]."
+      },
+      {
+        "text": "D) Presencia de esquistocitos en el frotis de sangre periférica.",
+        "isCorrect": true,
+        "explanation": "Son 'glóbulos rojos rotos'[cite: 505]. Se producen cuando eritrocitos pasan a la fuerza por capilares renales obstruidos por microcoágulos de fibrina/plaquetas, sello de la anemia hemolítica microangiopática[cite: 506]."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Sondaje en Falla Renal",
+    "text": "Varón en anuria de 12 horas; se introduce sonda Foley y drena 800 cc de orina clara inmediatamente. Diagnóstico definitivo:",
+    "hint": "La fábrica de orina funcionaba; la puerta de salida a la calle estaba con candado[cite: 526].",
+    "options": [
+      {
+        "text": "A) AKI Prerrenal resuelta.",
+        "isCorrect": false,
+        "explanation": "Se resolvería orinando paulatinamente tras sueros, no tras un sondaje mecánico aislado[cite: 523]."
+      },
+      {
+        "text": "B) Necrosis Tubular Aguda en fase de recuperación poliúrica.",
+        "isCorrect": false,
+        "explanation": "La diuresis se recupera lenta y gradualmente, no drena 800 cc de golpe[cite: 524]."
+      },
+      {
+        "text": "C) Infección urinaria baja productora de gas obstructivo.",
+        "isCorrect": false,
+        "explanation": "No justifica obstrucción de esta magnitud[cite: 525]."
+      },
+      {
+        "text": "D) AKI Postrenal secundaria a obstrucción del tracto de salida (uretral).",
+        "isCorrect": true,
+        "explanation": "El vaciamiento masivo al pasar la sonda demuestra que el riñón filtraba perfectamente, pero la orina quedaba atrapada por un obstáculo uretral (valvas, coágulo, lito)[cite: 521]."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Ajuste de Fármacos en AKI",
+    "text": "¿Por qué es perentorio ajustar las dosis de medicamentos en un niño con Falla Renal Aguda?",
+    "hint": "El 'basurero' está atascado, así que debes ingresar mucha menos basura química al sistema[cite: 540].",
+    "options": [
+      {
+        "text": "A) Para evitar potenciar la hiperkalemia por excipientes ricos en potasio.",
+        "isCorrect": false,
+        "explanation": "No todos los fármacos aportan carga de potasio relevante[cite: 537]."
+      },
+      {
+        "text": "B) Para asegurar que alcancen altas concentraciones en la orina.",
+        "isCorrect": false,
+        "explanation": "La prioridad es evitar la toxicidad sistémica sanguínea[cite: 538]."
+      },
+      {
+        "text": "C) Porque en la AKI se destruyen los receptores celulares de las drogas.",
+        "isCorrect": false,
+        "explanation": "El problema es farmacocinético (no puede salir del cuerpo), no farmacodinámico[cite: 539]."
+      },
+      {
+        "text": "D) Porque la disminución de la tasa de filtración disminuye el aclaramiento, provocando toxicidad.",
+        "isCorrect": true,
+        "explanation": "Fármacos renales dependen de riñón sano para no acumularse[cite: 534]. Si el riñón funciona al 10%, la dosis habitual circulará por días envenenando al niño (sordera, coma)[cite: 535]."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Contraindicación de Prueba de Volumen",
+    "text": "¿En cuál situación estaría formalmente CONTRAINDICADO el uso de un desafío de volumen (Bolo de SF)?",
+    "hint": "No puedes echar agua a un vaso que ya se está rebalsando sobre la mesa[cite: 552].",
+    "options": [
+      {
+        "text": "A) Niño con historia de vómitos profusos.",
+        "isCorrect": false,
+        "explanation": "Es indicación absoluta y salva-vidas para restaurar perfusión[cite: 551]."
+      },
+      {
+        "text": "B) Lactante con hemorragia digestiva alta masiva.",
+        "isCorrect": false,
+        "explanation": "Indicación precisa de expansión vigorosa[cite: 551]."
+      },
+      {
+        "text": "C) Paciente en shock séptico con FENa de 0.2%.",
+        "isCorrect": false,
+        "explanation": "Indica estado prerrenal que requiere volumen urgente[cite: 551]."
+      },
+      {
+        "text": "D) Niño anúrico con edema palpebral, ingurgitación yugular y disnea.",
+        "isCorrect": true,
+        "explanation": "Los signos indican Sobrecarga de Volumen[cite: 548]. Expandir a este niño anúrico lo llevará a paro por edema pulmonar fulminante (asfixia alveolar)[cite: 549]."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Nefritis Intersticial Aguda",
+    "text": "Adolescente con fiebre, exantema y eosinofilia tras usar Ibuprofeno. Desarrolla AKI y eosinófilos en orina. Diagnóstico:",
+    "hint": "Es una verdadera 'alergia a los medicamentos' que decidió inflamar el interior de los riñones[cite: 568].",
+    "options": [
+      {
+        "text": "A) Síndrome Hemolítico Urémico",
+        "isCorrect": false,
+        "explanation": "Es trombótico vascular, no presenta eosinofilia ni rash clásico[cite: 565]."
+      },
+      {
+        "text": "B) Glomerulonefritis aguda post-infecciosa",
+        "isCorrect": false,
+        "explanation": "Aparece tras estreptococo, no desencadenada por analgésicos simples[cite: 566]."
+      },
+      {
+        "text": "C) Necrosis cortical bilateral fulminante",
+        "isCorrect": false,
+        "explanation": "Consecuencia terminal de isquemia sin patrón alérgico[cite: 567]."
+      },
+      {
+        "text": "D) Nefritis Intersticial Aguda (inmunoalérgica)",
+        "isCorrect": true,
+        "explanation": "Reacción alérgica grave del tejido intersticial frente a un fármaco (AINEs, penicilinas)[cite: 562]. La tríada de fiebre, rash y eosinofilia periférica/urinaria confirma el diagnóstico[cite: 563]."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Trombosis de la Vena Renal",
+    "text": "¿Utilidad de Ecografía Doppler renal en recién nacido prematuro, hijo de madre diabética, con deshidratación, anuria y masa dura en flanco?",
+    "hint": "Esta técnica de imagen evalúa el movimiento y las obstrucciones en las 'carreteras' rojas y azules del cuerpo[cite: 584].",
+    "options": [
+      {
+        "text": "A) Confirmar reflujo vesicoureteral grado V.",
+        "isCorrect": false,
+        "explanation": "Se diagnostica dinámicamente con Uretrocistografía (UCG)[cite: 581]."
+      },
+      {
+        "text": "B) Medir exactamente el grosor microscópico de la cápsula de Bowman.",
+        "isCorrect": false,
+        "explanation": "Nivel histológico no distinguible por eco[cite: 582]."
+      },
+      {
+        "text": "C) Descartar una infección del tracto urinario severa in utero.",
+        "isCorrect": false,
+        "explanation": "No se diagnostica con ondas de sonido vasculares[cite: 583]."
+      },
+      {
+        "text": "D) Diagnosticar una trombosis de la vena renal.",
+        "isCorrect": true,
+        "explanation": "Hijos de madres diabéticas sufren a menudo policitemia[cite: 576]. Con deshidratación, la sangre espesa se coagula en la vena renal, llenando el riñón a presión (masa dura) y anulando el filtrado[cite: 577, 578]. El Doppler confirma ausencia de flujo venoso[cite: 579]."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Nefrología",
+    "topic": "Acidosis en Paciente Sobrecargado",
+    "text": "Niño oligúrico con pH 7.10, HCO3 8 mEq/L y francos signos de sobrecarga de volumen (edema). Terapia óptima:",
+    "hint": "Requieres de una máquina externa que 'lave' el ácido de la sangre sin mojar más al paciente[cite: 600].",
+    "options": [
+      {
+        "text": "A) Dar infusión de Bicarbonato de Sodio al 8.4% de forma rápida.",
+        "isCorrect": false,
+        "explanation": "Inyectar el sodio del bicarbonato mata al paciente por congestión en sobrecarga[cite: 597]."
+      },
+      {
+        "text": "B) Hiperventilar al paciente manualmente hasta normalizar el pH.",
+        "isCorrect": false,
+        "explanation": "Es paliativo; no cura la acidosis celular subyacente[cite: 598]."
+      },
+      {
+        "text": "C) Administrar cloruro de potasio al 10% en goteo lento.",
+        "isCorrect": false,
+        "explanation": "Riesgo de arritmias letales y agrava la acidosis por cloro[cite: 599]."
+      },
+      {
+        "text": "D) Terapia de reemplazo renal (Diálisis) de emergencia.",
+        "isCorrect": true,
+        "explanation": "Acidosis severa (pH <7.20) requiere base[cite: 593]. No puedes usar bicarbonato EV en sobrecargados por riesgo de edema pulmonar[cite: 594]. La Diálisis purifica ácidos y aporta solución equilibrada sin añadir agua al cuerpo[cite: 595]."
+      }
+    ]
+  }
+]
