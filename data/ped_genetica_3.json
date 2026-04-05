@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Tamizaje Prenatal: NIPT",
+    "text": "En el tamizaje prenatal moderno, el test de ADN fetal libre en sangre materna (NIPT) destaca por su alta sensibilidad para detectar Trisomía 21. ¿Cuál es la conducta recomendada ante un resultado 'positivo' o de 'alto riesgo' en este examen?",
+    "hint": "El NIPT es un test de tamizaje, no diagnóstico.",
+    "options": [
+      {
+        "text": "A) Realizar una interrupción inmediata del embarazo.",
+        "isCorrect": false,
+        "explanation": "Es una conducta ilegal y éticamente incorrecta sin un diagnóstico de certeza y consejería adecuada."
+      },
+      {
+        "text": "B) Confirmar mediante un procedimiento invasivo (Amniocentesis o Biopsia de Vellosidades).",
+        "isCorrect": true,
+        "explanation": "Todo resultado alterado en un test de tamizaje requiere confirmación diagnóstica mediante el cariotipo de las células fetales obtenidas por técnica invasiva, debido al riesgo de falsos positivos (ej. mosaicismos placentarios)."
+      },
+      {
+        "text": "C) Repetir el NIPT en 2 semanas para confirmar.",
+        "isCorrect": false,
+        "explanation": "No aporta seguridad diagnóstica adicional, ya que los factores biológicos que causaron el primer resultado suelen persistir."
+      },
+      {
+        "text": "D) Iniciar tratamiento con ácido fólico a dosis altas.",
+        "isCorrect": false,
+        "explanation": "El ácido fólico previene defectos del tubo neural antes de la concepción, no trata cromosomopatías ya detectadas."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Diagnóstico de Certeza: Cariotipo",
+    "text": "¿Cuál es el estudio de laboratorio definitivo para confirmar un Síndrome de Down en un recién nacido con sospecha clínica?",
+    "hint": "Necesitas ver los cromosomas 'con tus propios ojos' al microscopio.",
+    "options": [
+      {
+        "text": "A) Hemograma completo y frotis sanguíneo.",
+        "isCorrect": false,
+        "explanation": "Puede mostrar anomalías hematológicas asociadas, pero no diagnostica la trisomía."
+      },
+      {
+        "text": "B) Estudio de Cariotipo por bandas G.",
+        "isCorrect": true,
+        "explanation": "Es el estándar de oro para confirmar la presencia del cromosoma 21 extra y determinar si es una trisomía libre, translocación o mosaicismo."
+      },
+      {
+        "text": "C) Radiografía de manos para ver maduración ósea.",
+        "isCorrect": false,
+        "explanation": "No es un método diagnóstico para cromosomopatías."
+      },
+      {
+        "text": "D) Resonancia magnética cerebral.",
+        "isCorrect": false,
+        "explanation": "Permite ver anomalías estructurales pero no la base genética del cuadro."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Turner: Complicación Vascular",
+    "text": "Una adolescente con Síndrome de Turner presenta dolor torácico súbito e irradiado a la espalda. Usted debe sospechar inmediatamente:",
+    "hint": "Recuerda el punto más débil de las arterias en este síndrome.",
+    "options": [
+      {
+        "text": "A) Crisis de pánico por ansiedad.",
+        "isCorrect": false,
+        "explanation": "Diagnóstico de exclusión que nunca debe primar ante un riesgo vital vascular."
+      },
+      {
+        "text": "B) Disección aórtica.",
+        "isCorrect": true,
+        "explanation": "Las pacientes con Turner tienen una debilidad intrínseca de la capa media de la aorta; el dolor súbito es un signo de alarma roja para disección o ruptura."
+      },
+      {
+        "text": "C) Reflujo gastroesofágico severo.",
+        "isCorrect": false,
+        "explanation": "Causa pirosis pero no dolor torácico súbito con compromiso sistémico sugerido."
+      },
+      {
+        "text": "D) Neumonía basal derecha.",
+        "isCorrect": false,
+        "explanation": "Cursa con fiebre y tos, no con dolor de características vasculares."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Klinefelter: Desarrollo Puberal",
+    "text": "Respecto al Síndrome de Klinefelter (47,XXY), ¿cuál es la característica más común del desarrollo puberal?",
+    "hint": "La pubertad inicia bien, pero la 'gasolina' se acaba pronto.",
+    "options": [
+      {
+        "text": "A) Pubertad precoz verdadera.",
+        "isCorrect": false,
+        "explanation": "No es una asociación típica del Klinefelter."
+      },
+      {
+        "text": "B) Inicio normal de la pubertad con falla testicular progresiva posterior.",
+        "isCorrect": true,
+        "explanation": "El inicio suele ser a la edad normal, pero a medida que avanza, los testículos fallan en producir testosterona suficiente, resultando en caracteres sexuales secundarios incompletos."
+      },
+      {
+        "text": "C) Virilización extrema y precoz.",
+        "isCorrect": false,
+        "explanation": "Ocurre en tumores adrenales o hiperplasia suprarrenal, no en Klinefelter."
+      },
+      {
+        "text": "D) Ausencia total de cualquier signo de pubertad.",
+        "isCorrect": false,
+        "explanation": "Tienen algún grado de desarrollo inicial mediado por las gonadotropinas."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Edwards: Signo de los Pies",
+    "text": "¿Cómo se describe técnicamente la deformidad de los pies en el Síndrome de Edwards?",
+    "hint": "El hueso del tobillo está parado de punta, empujando la planta hacia afuera.",
+    "options": [
+      {
+        "text": "A) Pie Bot (Equinovaro).",
+        "isCorrect": false,
+        "explanation": "Es una deformidad del eje, no la planta convexa característica."
+      },
+      {
+        "text": "B) Pie en mecedora (Calcáneo prominente y astrágalo vertical).",
+        "isCorrect": true,
+        "explanation": "Es el hallazgo ortopédico estrella de la Trisomía 18; la planta se ve redondeada hacia afuera como la base de una mecedora."
+      },
+      {
+        "text": "C) Pie plano valgo severo.",
+        "isCorrect": false,
+        "explanation": "Es una pérdida de arco, no una convexidad ósea estructural."
+      },
+      {
+        "text": "D) Pie cavo con dedos en garra.",
+        "isCorrect": false,
+        "explanation": "Típico de enfermedades neuromusculares."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Patau: Defecto Craneal",
+    "text": "Recién nacido con Trisomía 13 (Patau) presenta una úlcera costrosa circular de 2 cm en el vértex del cráneo donde falta la piel. ¿Cómo se llama este signo?",
+    "hint": "Patau = Falta un 'parche' de piel.",
+    "options": [
+      {
+        "text": "A) Caput succedaneum.",
+        "isCorrect": false,
+        "explanation": "Edema de partes blandas por el parto, no falta de piel."
+      },
+      {
+        "text": "B) Aplasia cutis congénita.",
+        "isCorrect": true,
+        "explanation": "Es un defecto del cierre de la piel en la línea media del cuero cabelludo, signo muy sugerente de Patau."
+      },
+      {
+        "text": "C) Cefalohematoma.",
+        "isCorrect": false,
+        "explanation": "Hemorragia subperióstica traumática."
+      },
+      {
+        "text": "D) Fontanela amplia.",
+        "isCorrect": false,
+        "explanation": "Es una variante de tamaño del espacio entre huesos, no una úlcera."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Down: Riesgo de Leucemia",
+    "text": "¿Qué tipo de leucemia es la más frecuente en niños con Síndrome de Down menores de 2 a 3 años?",
+    "hint": "Es la leucemia de las plaquetas (Megacarioblástica).",
+    "options": [
+      {
+        "text": "A) Leucemia Linfoblástica Aguda (LLA).",
+        "isCorrect": false,
+        "explanation": "Es la más común en niños con Down mayores de 3 años, pero no en lactantes."
+      },
+      {
+        "text": "B) Leucemia Megacarioblástica Aguda (M7).",
+        "isCorrect": true,
+        "explanation": "Es una forma de leucemia mieloide muy específica y frecuente en niños pequeños con Down."
+      },
+      {
+        "text": "C) Leucemia Mieloide Crónica.",
+        "isCorrect": false,
+        "explanation": "Extremadamente rara en pediatría."
+      },
+      {
+        "text": "D) Linfoma de Hodgkin.",
+        "isCorrect": false,
+        "explanation": "No es una leucemia y su frecuencia no es la dominante en este grupo."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Turner: Hallazgo EKG",
+    "text": "¿Qué hallazgo es común en el EKG de pacientes con Turner debido a la elongación del corazón?",
+    "hint": "El corazón está 'estirado' en un tórax ancho.",
+    "options": [
+      {
+        "text": "A) Bloqueo AV de tercer grado.",
+        "isCorrect": false,
+        "explanation": "Asociado a lupus neonatal, no a Turner."
+      },
+      {
+        "text": "B) Intervalo QT prolongado y eje a la izquierda.",
+        "isCorrect": true,
+        "explanation": "Las pacientes Turner presentan a menudo anomalías de la repolarización y desviaciones del eje por su configuración torácica."
+      },
+      {
+        "text": "C) Ondas P picudas (P pulmonale).",
+        "isCorrect": false,
+        "explanation": "Indica sobrecarga de cavidades derechas."
+      },
+      {
+        "text": "D) Infracuadrantectomía del segmento ST.",
+        "isCorrect": false,
+        "explanation": "Término no aplicable al EKG."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Klinefelter: Manejo",
+    "text": "¿Cuál es el pilar del tratamiento hormonal en el adolescente con Klinefelter para prevenir la osteoporosis y mejorar la masa muscular?",
+    "hint": "Reponer la hormona que el testículo pequeño no puede fabricar.",
+    "options": [
+      {
+        "text": "A) Suplementación con Zinc y Calcio.",
+        "isCorrect": false,
+        "explanation": "Ayudan, pero no tratan la causa endocrina primaria."
+      },
+      {
+        "text": "B) Terapia de reemplazo con Testosterona.",
+        "isCorrect": true,
+        "explanation": "La testosterona exógena permite el desarrollo de caracteres secundarios, protege el hueso y mejora el bienestar psicofísico."
+      },
+      {
+        "text": "C) Inhibidores de la aromatasa.",
+        "isCorrect": false,
+        "explanation": "No son el tratamiento de primera línea para el hipogonadismo."
+      },
+      {
+        "text": "D) Inyecciones de Hormona de Crecimiento.",
+        "isCorrect": false,
+        "explanation": "Innecesarias, ya que suelen tener talla alta por defecto."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Sandal Gap",
+    "text": "Un lactante presenta un espacio inusualmente amplio entre el primer y el segundo dedo del pie. ¿A qué síndrome se asocia este estigma menor?",
+    "hint": "Pie listo para usar chalas hawaianas.",
+    "options": [
+      {
+        "text": "A) Síndrome de Down.",
+        "isCorrect": true,
+        "explanation": "Es el 'Sandal gap', un signo menor muy frecuente y característico de la Trisomía 21."
+      },
+      {
+        "text": "B) Síndrome de Turner.",
+        "isCorrect": false,
+        "explanation": "Presentan uñas hiperconvexas y cuarto metacarpiano corto."
+      },
+      {
+        "text": "C) Síndrome de Edwards.",
+        "isCorrect": false,
+        "explanation": "Presentan pie en mecedora."
+      },
+      {
+        "text": "D) Síndrome de Klinefelter.",
+        "isCorrect": false,
+        "explanation": "No presenta malformaciones en los pies de este tipo."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Klinefelter: Perfil Cognitivo",
+    "text": "Un varón escolar alto y tímido presenta retraso en el lenguaje expresivo y dificultades en el aprendizaje de la lectura. ¿Qué síndrome sugiere este conjunto?",
+    "hint": "El niño alto al que 'no le salen las palabras'.",
+    "options": [
+      {
+        "text": "A) Síndrome de Down.",
+        "isCorrect": false,
+        "explanation": "Presentan un retraso intelectual más global y fenotipo característico diferente."
+      },
+      {
+        "text": "B) Síndrome de Klinefelter.",
+        "isCorrect": true,
+        "explanation": "Es el perfil neurocognitivo clásico del XXY: inteligencia normal-baja con déficit selectivo en el área verbal y del lenguaje."
+      },
+      {
+        "text": "C) TDAH.",
+        "isCorrect": false,
+        "explanation": "Puede coexistir, pero la talla alta y el déficit verbal orientan a Klinefelter."
+      },
+      {
+        "text": "D) Autismo leve.",
+        "isCorrect": false,
+        "explanation": "La timidez se confunde a veces, pero el Klinefelter no tiene los rasgos nucleares del autismo por definición."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Genética",
+    "topic": "Supervivencia y Pronóstico",
+    "text": "Comparando la supervivencia, ¿cuál de estos síndromes tiene mayor probabilidad de llegar a los 50 años en la actualidad?",
+    "hint": "Es el único síndrome de la lista con una vida promedio cercana a la normalidad.",
+    "options": [
+      {
+        "text": "A) Patau (Trisomía 13).",
+        "isCorrect": false,
+        "explanation": "La mayoría fallece antes del mes de vida."
+      },
+      {
+        "text": "B) Edwards (Trisomía 18).",
+        "isCorrect": false,
+        "explanation": "Mortalidad neonatal extremadamente alta."
+      },
+      {
+        "text": "C) Down (Trisomía 21).",
+        "isCorrect": true,
+        "explanation": "Gracias a los avances médicos (cirugía cardíaca), la esperanza de vida del Down supera hoy los 60 años."
+      },
+      {
+        "text": "D) Triploidía completa.",
+        "isCorrect": false,
+        "explanation": "Condición letal en el periodo neonatal o aborto espontáneo."
+      }
+    ]
+  }
+]
