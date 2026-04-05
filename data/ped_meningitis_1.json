@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Etiología Neonatal",
+    "text": "Un recién nacido de 12 días presenta fiebre, rechazo alimentario y episodios de apnea[cite: 5]. ¿Cuál es el agente etiológico más probable de meningitis en este paciente? [cite: 6]",
+    "hint": "Piensa en las bacterias que el bebé encuentra al pasar por el canal del parto[cite: 16].",
+    "options": [
+      {
+        "text": "A) Streptococcus agalactiae (EGB)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 11]. El EGB coloniza el tracto genital materno y es la causa #1 de sepsis y meningitis en el primer mes de vida debido a la transmisión vertical durante el parto[cite: 12, 13]."
+      },
+      {
+        "text": "B) Streptococcus pneumoniae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este es el agente principal una vez superado el primer mes de vida[cite: 14]."
+      },
+      {
+        "text": "C) Haemophilus influenzae tipo b",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es raro en neonatos por la transferencia pasiva de anticuerpos maternos y baja exposición inicial[cite: 15]."
+      },
+      {
+        "text": "D) Neisseria meningitidis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que Hib, es poco común en este grupo etario por la protección inmunológica materna[cite: 15]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Epidemiología Post-vacunación",
+    "text": "Lactante de 4 meses con cuadro de meningitis bacteriana[cite: 17]. Según la epidemiología actual en Chile tras la vacunación masiva, el agente más probable es: [cite: 18]",
+    "hint": "Es la bacteria que se intenta cubrir con la vacuna de los 2, 4 y 6 meses[cite: 27].",
+    "options": [
+      {
+        "text": "A) Streptococcus agalactiae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este agente es propio del periodo neonatal[cite: 25]."
+      },
+      {
+        "text": "B) Streptococcus pneumoniae",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 23]. El Neumococo es el agente más frecuente y agresivo en lactantes tras el periodo neonatal, siendo el principal responsable de casos invasores hoy en día[cite: 24]."
+      },
+      {
+        "text": "C) Listeria monocytogenes",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que EGB, se asocia principalmente a recién nacidos[cite: 25]."
+      },
+      {
+        "text": "D) Haemophilus influenzae tipo b",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su incidencia ha disminuido más de un 95% gracias a la vacuna del Programa Nacional de Inmunizaciones (PNI)[cite: 26]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Listeria monocytogenes",
+    "text": "¿En cuál de los siguientes escenarios clínicos es imperativo sospechar Listeria monocytogenes como causa de meningitis? [cite: 28]",
+    "hint": "Es una bacteria intracelular que 'aprovecha' defensas celulares bajas[cite: 38].",
+    "options": [
+      {
+        "text": "A) Escolar previamente sano con otitis media previa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este factor de riesgo orienta hacia Streptococcus pneumoniae[cite: 35]."
+      },
+      {
+        "text": "B) Recién nacido en su primera semana de vida o paciente inmunocomprometido",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 33]. Listeria afecta a los extremos de la vida y a personas con inmunidad celular deficiente, como pacientes con cáncer, VIH o bajo uso de corticoides[cite: 34]."
+      },
+      {
+        "text": "C) Lactante con esquema de vacunación incompleto",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En este caso el riesgo principal es por Hib o Neumococo[cite: 36]."
+      },
+      {
+        "text": "D) Adolescente con asma bronquial en tratamiento con Salbutamol",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ni el asma ni el salbutamol generan la inmunosupresión celular necesaria para este patógeno[cite: 37]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Fístula de LCR",
+    "text": "Agente etiológico asociado frecuentemente a meningitis en pacientes con fístula de LCR secundaria a traumatismo craneal antiguo: [cite: 39]",
+    "hint": "Es la bacteria encapsulada más 'oportunista' ante fallas en la barrera anatómica[cite: 50].",
+    "options": [
+      {
+        "text": "A) Neisseria meningitidis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El meningococo no tiene una predilección específica por fístulas anatómicas[cite: 47]."
+      },
+      {
+        "text": "B) Streptococcus pneumoniae",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 44]. El neumococo coloniza la rinofaringe y, ante una brecha ósea, asciende por contigüidad al espacio subaracnoideo[cite: 45, 46]."
+      },
+      {
+        "text": "C) Staphylococcus epidermidis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un contaminante de piel asociado a infecciones en válvulas de derivación[cite: 48]."
+      },
+      {
+        "text": "D) Pseudomonas aeruginosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Típica de infecciones nosocomiales o post-procedimientos neuroquirúrgicos[cite: 49]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Brotes en Comunidades",
+    "text": "Adolescente que asiste a un internado y presenta meningitis aguda[cite: 51]. ¿Qué agente debe considerarse por su alto potencial de brotes epidémicos en comunidades cerradas? [cite: 52]",
+    "hint": "Se asocia clásicamente al 'signo de la petequia' y púrpura fulminante[cite: 61].",
+    "options": [
+      {
+        "text": "A) Streptococcus pneumoniae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele causar casos esporádicos en lugar de brotes comunitarios[cite: 59]."
+      },
+      {
+        "text": "B) Neisseria meningitidis",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 57]. Posee una alta tasa de portación nasofaríngea y se transmite por gotitas, facilitando brotes en dormitorios compartidos o colegios[cite: 58]."
+      },
+      {
+        "text": "C) Mycoplasma pneumoniae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa principalmente cuadros respiratorios como neumonía atípica[cite: 59]."
+      },
+      {
+        "text": "D) Virus Varicela Zóster",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No suele presentarse como brotes explosivos de meningitis bacteriana[cite: 60]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Meningitis Aséptica",
+    "text": "¿Cuál es la causa más común de meningitis aséptica (viral) en la edad pediátrica? [cite: 62]",
+    "hint": "Virus de transmisión fecal-oral muy frecuentes en pediatría[cite: 72].",
+    "options": [
+      {
+        "text": "A) Virus Herpes Simple 1",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tiende a causar encefalitis focal más que meningitis aséptica pura[cite: 69]."
+      },
+      {
+        "text": "B) Virus de la Parotiditis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su incidencia ha bajado drásticamente gracias a la vacuna SRP[cite: 70]."
+      },
+      {
+        "text": "C) Enterovirus (Echovirus y Coxsackie)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 67]. Explican más del 80% de las meningitis virales, con predominio en verano y otoño[cite: 68]."
+      },
+      {
+        "text": "D) Adenovirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa faringitis y conjuntivitis, pero raramente meningitis aislada[cite: 71]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Semiología en Lactantes",
+    "text": "Un lactante de 2 meses consulta por fiebre e irritabilidad[cite: 74]. Al examen físico se nota que llora más fuerte cuando su madre lo toma en brazos para consolarlo[cite: 75]. ¿Cómo se denomina este signo? [cite: 76]",
+    "hint": "El consuelo materno produce el efecto opuesto al esperado[cite: 85].",
+    "options": [
+      {
+        "text": "A) Rigidez de nuca",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un signo de irritación meníngea en niños mayores, pero ausente en menores de 6 meses[cite: 84]."
+      },
+      {
+        "text": "B) Signo de Brudzinski",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Difícil de evaluar en lactantes pequeños[cite: 84]."
+      },
+      {
+        "text": "C) Irritabilidad paradójica",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 81]. Las meninges inflamadas duelen con el movimiento; el niño se irrita al ser manipulado o mecido en lugar de calmarse[cite: 82, 83]."
+      },
+      {
+        "text": "D) Signo de Kerning",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que Brudzinski, suele estar ausente en este grupo de edad[cite: 84]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Signo de Brudzinski",
+    "text": "El signo de Brudzinski positivo consiste en: [cite: 86]",
+    "hint": "Relaciona la B de Brudzinski con Bajar la cabeza y subir las piernas[cite: 97].",
+    "options": [
+      {
+        "text": "A) Dolor a la extensión de la pierna con cadera flectada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta descripción corresponde al signo de Kernig[cite: 94]."
+      },
+      {
+        "text": "B) Flexión involuntaria de rodillas y caderas al flectar pasivamente el cuello",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 91]. Al flectar el cuello se tracciona la duramadre inflamada; el paciente flexiona las piernas para aliviar la tensión y el dolor[cite: 92, 93]."
+      },
+      {
+        "text": "C) Incapacidad para tocar el pecho con el mentón",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta es la definición clínica de rigidez de nuca[cite: 95]."
+      },
+      {
+        "text": "D) Extensión del dedo gordo al frotar la planta del pie",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este es el signo de Babinski, que indica daño de la vía piramidal[cite: 96]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Meningococcemia",
+    "text": "En un escolar con sospecha de meningitis, la presencia de petequias y equimosis de rápida progresión en extremidades inferiores debe orientar de inmediato a: [cite: 98]",
+    "hint": "Es una emergencia vital que requiere antibiótico antes de que las lesiones se unan[cite: 108].",
+    "options": [
+      {
+        "text": "A) Sepsis por Neumococo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es menos frecuente que este agente cause un daño vascular de tal magnitud[cite: 105]."
+      },
+      {
+        "text": "B) Meningococcemia (Enfermedad Meningocócica Invasora)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 103]. La toxina del meningococo provoca vasculitis y coagulopatía de consumo masiva, resultando en lesiones purpúricas[cite: 104]."
+      },
+      {
+        "text": "C) Púrpura de Schonlein-Henoch",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No presenta fiebre alta ni el compromiso agudo del estado general que vemos en meningitis[cite: 106]."
+      },
+      {
+        "text": "D) Leucemia Linfoblástica Aguda",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un cuadro que evoluciona durante semanas, no en cuestión de horas[cite: 107]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Hipertensión Endocraneana",
+    "text": "¿Cuál de los siguientes es un signo clínico confiable de hipertensión endocraneana en un lactante de 6 meses? [cite: 109]",
+    "hint": "Toca la 'mollera' del bebé; debe sentirse plana, no como una cúpula[cite: 119].",
+    "options": [
+      {
+        "text": "A) Microcefalia progresiva",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un hallazgo propio de malformaciones crónicas[cite: 117]."
+      },
+      {
+        "text": "B) Fontanela anterior abombada y tensa",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 114]. Debido a que los huesos del cráneo no están fusionados, el aumento de volumen del LCR purulento empuja la fontanela hacia afuera[cite: 115]."
+      },
+      {
+        "text": "C) Enoftalmos (ojos hundidos)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un signo de deshidratación, donde la fontanela suele estar hundida[cite: 112, 118]."
+      },
+      {
+        "text": "D) Bradipnea aislada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Puede ser parte de la respuesta de Cushing, pero no es el signo inicial más confiable[cite: 118]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Tríada de Cushing",
+    "text": "La 'Tríada de Cushing', que indica hipertensión endocraneana severa con riesgo de herniación, incluye: [cite: 120]",
+    "hint": "El corazón late lento pero la presión está por las nubes[cite: 131].",
+    "options": [
+      {
+        "text": "A) Taquicardia, hipotensión y polipnea",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este es el patrón clínico característico del shock[cite: 128]."
+      },
+      {
+        "text": "B) Bradicardia, hipertensión arterial y alteraciones del ritmo respiratorio",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 125]. Es una respuesta autonómica para mantener la perfusión cerebral; el corazón late lento pero fuerte para vencer la resistencia[cite: 126, 127]."
+      },
+      {
+        "text": "C) Fiebre, cefalea y vómitos explosivos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son síntomas generales de meningitis sin compromiso vital inminente[cite: 129]."
+      },
+      {
+        "text": "D) Convulsiones, midriasis y coma",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Corresponden a complicaciones neurológicas generales[cite: 130]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Pares Craneales",
+    "text": "En un paciente con meningitis, la parálisis del VI par craneal (nervio motor ocular externo) suele interpretarse como: [cite: 132]",
+    "hint": "El paciente no puede mover el ojo hacia afuera (abducción)[cite: 141].",
+    "options": [
+      {
+        "text": "A) Infección directa por virus herpes simple",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque el herpes puede dar focalidad, no es el mecanismo de esta parálisis en meningitis común[cite: 139]."
+      },
+      {
+        "text": "B) Signo indirecto de hipertensión endocraneana",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 137]. El VI par tiene el trayecto intracraneal más largo, por lo que es el primero en estirarse o comprimirse ante el aumento de presión[cite: 138]."
+      },
+      {
+        "text": "C) Efecto secundario metabólico por hipoglucorraquia",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No existe base fisiopatológica para esta relación[cite: 140]."
+      },
+      {
+        "text": "D) Reacción alérgica a las cefalosporinas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que la opción C, carece de sustento fisiopatológico[cite: 140]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Contraindicaciones de PL (Imágenes)",
+    "text": "Antes de realizar una punción lumbar en un niño con sospecha de meningitis, ¿cuál de los siguientes hallazgos obliga a solicitar una TC de cerebro urgente? [cite: 143]",
+    "hint": "Busca signos de 'efecto de masa' o hipertensión que impidan pinchar con seguridad[cite: 153].",
+    "options": [
+      {
+        "text": "A) Fiebre superior a 40°C",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una contraindicación; de hecho, aumenta la necesidad de obtener LCR pronto[cite: 151, 152]."
+      },
+      {
+        "text": "B) Presencia de papiledema en el fondo de ojo o focalidad neurológica",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 148]. El papiledema indica presión alta; realizar la PL podría causar una herniación cerebral súbita por el cambio de presión[cite: 149, 150]."
+      },
+      {
+        "text": "C) Antecedente de otitis media supurada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que la fiebre, refuerza la sospecha clínica de infección[cite: 151, 152]."
+      },
+      {
+        "text": "D) Rigidez de nuca muy marcada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No contraindica el procedimiento de forma inmediata[cite: 151]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Contraindicaciones de PL (Estabilidad)",
+    "text": "Contraindicación absoluta para realizar la punción lumbar inmediata en el servicio de urgencias: [cite: 154]",
+    "hint": "Primero salva la vida (estabiliza), luego busca el germen (LCR)[cite: 163].",
+    "options": [
+      {
+        "text": "A) Paciente en shock séptico o inestable hemodinámicamente",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 159]. El ABC es la prioridad; el posicionamiento para la PL puede comprometer la ventilación y el retorno venoso en un paciente chocado[cite: 160, 161]."
+      },
+      {
+        "text": "B) Rash petequial en tronco",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una razón para realizar la PL lo antes posible tras estabilizar al paciente[cite: 162]."
+      },
+      {
+        "text": "C) Vómitos persistentes",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No impide la realización del procedimiento una vez estabilizado el cuadro[cite: 162]."
+      },
+      {
+        "text": "D) Tratamiento previo con amoxicilina",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque altera los cultivos, no es una contraindicación clínica[cite: 162]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Manejo de Retraso en PL",
+    "text": "Si la punción lumbar debe retrasarse por necesidad de TC o inestabilidad, ¿cuál es la conducta correcta? [cite: 164]",
+    "hint": "'Tiempo es cerebro'. No esperes el líquido para matar a la bacteria[cite: 173].",
+    "options": [
+      {
+        "text": "A) Esperar a que el paciente esté estable y tenga la TC para iniciar antibióticos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Constituye mala praxis[cite: 171]. La meningitis es tiempo-dependiente y el retraso aumenta la letalidad[cite: 170]."
+      },
+      {
+        "text": "B) Iniciar antibióticos empíricos de inmediato, idealmente tras tomar hemocultivos",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 169]. No se debe retrasar el tratamiento por la realización de exámenes diagnósticos si el paciente está en riesgo[cite: 170]."
+      },
+      {
+        "text": "C) Administrar solo Dexametasona y esperar 6 horas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No trata la causa infecciosa primaria[cite: 171]."
+      },
+      {
+        "text": "D) Realizar una punción capilar para diagnóstico diferencial",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una técnica útil para diagnosticar meningitis bacteriana[cite: 172]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Técnica de PL",
+    "text": "¿A qué nivel se recomienda realizar la punción lumbar en lactantes y niños pequeños? [cite: 174]",
+    "hint": "Siempre por debajo de la línea imaginaria que une las crestas ilíacas[cite: 184].",
+    "options": [
+      {
+        "text": "A) Entre L1 y L2",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un nivel peligroso con alto riesgo de punción medular[cite: 182]."
+      },
+      {
+        "text": "B) Entre L4 y L5 o L3 y L4",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 179]. En niños, la médula termina más abajo (L3 en RN); pinchar en L4-L5 asegura no lesionar el cono medular[cite: 180, 181]."
+      },
+      {
+        "text": "C) En el espacio T12-L1",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que L1-L2, conlleva riesgo de lesión medular[cite: 182]."
+      },
+      {
+        "text": "D) Directamente sobre el sacro",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una estructura ósea sin acceso al espacio subaracnoideo[cite: 183]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Patrón de LCR (Bacteriana)",
+    "text": "Un LCR con 1.500 leucocitos/mm³, 95% de polimorfonucleares (PMN), glucosa 10 mg/dl y proteínas 250 mg/dl es compatible con: [cite: 185]",
+    "hint": "Las bacterias 'comen' el azúcar y 'ensucian' el líquido con proteínas[cite: 194].",
+    "options": [
+      {
+        "text": "A) Meningitis Viral",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los cuadros virales suelen presentar niveles de glucosa normales[cite: 192]."
+      },
+      {
+        "text": "B) Meningitis Bacteriana Aguda",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 190]. La pleocitosis neutrofílica masiva con hipoglucorraquia severa es el patrón patognomónico de bacterias piógenas[cite: 191]."
+      },
+      {
+        "text": "C) Meningitis Tuberculosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele presentar un predominio de células linfocitarias[cite: 192]."
+      },
+      {
+        "text": "D) LCR Normal de un neonato",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Un LCR neonatal normal tiene un máximo de 30 células[cite: 193]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Hipoglucorraquia",
+    "text": "La relación glucosa LCR / glucosa plasmática considerada patológica (hipoglucorraquia) es: [cite: 195]",
+    "hint": "Si en la sangre hay 100 y en el líquido hay menos de 40, es bacteria[cite: 205].",
+    "options": [
+      {
+        "text": "A) Inferior a 0,4 (40%)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 200]. Normalmente el LCR tiene el 60% de la glucosa sanguínea; si baja del 40%, indica consumo activo por bacterias o inflamación[cite: 201, 202]."
+      },
+      {
+        "text": "B) Superior a 0,6",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un valor considerado normal o típico de cuadros virales[cite: 203]."
+      },
+      {
+        "text": "C) Igual a 1,0",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es imposible debido a los mecanismos de transporte facilitado[cite: 204]."
+      },
+      {
+        "text": "D) Superior a 0,8",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se encuentra dentro de los parámetros de normalidad[cite: 203]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Patrón de LCR (Viral)",
+    "text": "Un LCR con 50 leucocitos (80% Linfocitos), glucosa 65 mg/dl y proteínas 45 mg/dl sugiere: [cite: 206]",
+    "hint": "Es un líquido 'claro' que no consume energía[cite: 215].",
+    "options": [
+      {
+        "text": "A) Meningitis por Neumococo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presentaría predominio de PMN y glucosa disminuida[cite: 213]."
+      },
+      {
+        "text": "B) Meningitis Viral (Aséptica)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 211]. El predominio linfocitario con glucosa y proteínas normales define el cuadro viral típico[cite: 212]."
+      },
+      {
+        "text": "C) Meningitis Tuberculosa inicial",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La TBC suele tener la glucosa muy baja desde el inicio[cite: 214]."
+      },
+      {
+        "text": "D) Hemorragia subaracnoidea",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se caracterizaría por la presencia abundante de glóbulos rojos[cite: 214]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Gram de LCR (Neumococo)",
+    "text": "En el Gram de LCR se observan diplococos Gram positivos en forma de lanza. El agente es: [cite: 216]",
+    "hint": "Piensa en la 'punta de lanza' del neumococo[cite: 225].",
+    "options": [
+      {
+        "text": "A) Neisseria meningitidis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Estos son diplococos Gram negativos[cite: 223]."
+      },
+      {
+        "text": "B) Streptococcus pneumoniae",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 221]. Es la descripción morfológica y tintorial clásica del neumococo al microscopio[cite: 222]."
+      },
+      {
+        "text": "C) Streptococcus agalactiae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se observan como cocos dispuestos en cadenas[cite: 223]."
+      },
+      {
+        "text": "D) Haemophilus influenzae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son bacilos Gram negativos pequeños[cite: 224]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Gram de LCR (Meningococo)",
+    "text": "La presencia de diplococos Gram negativos intracelulares en el LCR sugiere: [cite: 226]",
+    "hint": "Neisseria = Negativo[cite: 235].",
+    "options": [
+      {
+        "text": "A) Streptococcus pneumoniae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un agente Gram positivo[cite: 233]."
+      },
+      {
+        "text": "B) Neisseria meningitidis",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 231]. El meningococo es el principal diplococo Gram negativo causante de meningitis, a menudo visto dentro de los neutrófilos[cite: 232]."
+      },
+      {
+        "text": "C) Escherichia coli",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se identifica como un bacilo Gram negativo[cite: 233]."
+      },
+      {
+        "text": "D) Listeria monocytogenes",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se trata de un bacilo Gram positivo pequeño[cite: 234]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "LCR Neonatal",
+    "text": "Un recién nacido tiene 20 leucocitos en su LCR con predominio de PMN. Usted informa que este resultado es: [cite: 236]",
+    "hint": "Los estándares cambian en el primer mes de vida[cite: 246].",
+    "options": [
+      {
+        "text": "A) Normal para el periodo neonatal",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 241]. Se aceptan hasta 20-30 células/mm³ en neonatos debido a la mayor permeabilidad de la barrera al nacer[cite: 242, 243]."
+      },
+      {
+        "text": "B) Indicativo de meningitis bacteriana incipiente",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se considera meningitis si la glucosa y las proteínas son normales[cite: 244]."
+      },
+      {
+        "text": "C) Patognomónico de infección por Listeria",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que la opción B, no indica infección per se en este contexto[cite: 244]."
+      },
+      {
+        "text": "D) Producto de una punción traumática",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay evidencia de sangre en la muestra para sustentar esta afirmación[cite: 245]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Meningitis Decapitada",
+    "text": "¿Qué es la 'Meningitis Decapitada'? [cite: 247]",
+    "hint": "Al diagnóstico le falta la 'cabeza' (el crecimiento de la bacteria)[cite: 255].",
+    "options": [
+      {
+        "text": "A) Una meningitis viral complicada con encefalitis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No corresponde a la definición clínica de este término[cite: 254]."
+      },
+      {
+        "text": "B) Una meningitis bacteriana donde el paciente recibió antibióticos previos a la PL, alterando el cultivo",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 252]. El antibiótico puede negativizar el cultivo, pero el citoquímico sigue alterado, permitiendo la sospecha diagnóstica[cite: 253]."
+      },
+      {
+        "text": "C) Una infección del SNC por parásitos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se ajusta a la definición proporcionada[cite: 254]."
+      },
+      {
+        "text": "D) Una meningitis neonatal fulminante",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que las anteriores, es una definición errónea para este concepto[cite: 254]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Lactato en LCR",
+    "text": "El valor de lactato en LCR por sobre 4 mmol/L es útil para: [cite: 256]",
+    "hint": "Es un marcador metabólico de 'sufrimiento y consumo' bacteriano[cite: 265].",
+    "options": [
+      {
+        "text": "A) Diferenciar una meningitis bacteriana de una viral",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 261]. El lactato se eleva por el intenso metabolismo anaerobio bacteriano; valores altos orientan fuertemente a bacterias[cite: 262, 263]."
+      },
+      {
+        "text": "B) Diagnosticar muerte cerebral",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene relación con este diagnóstico[cite: 264]."
+      },
+      {
+        "text": "C) Confirmar el uso de corticoides",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se utiliza para monitorear el tratamiento esteroidal[cite: 264]."
+      },
+      {
+        "text": "D) Identificar el serogrupo del meningococo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene utilidad en la tipificación del germen[cite: 264]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "PL Traumática",
+    "text": "¿Qué debe hacerse ante una punción lumbar traumática (con sangre) para interpretar los leucocitos? [cite: 266]",
+    "hint": "Hay que 'limpiar' matemáticamente la muestra de la sangre intrusa[cite: 275].",
+    "options": [
+      {
+        "text": "A) Invalidar el examen y repetirlo en 24 horas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Invalidar el examen retrasa innecesariamente el diagnóstico[cite: 273]."
+      },
+      {
+        "text": "B) Restar 1 leucocito por cada 700 a 1000 glóbulos rojos presentes",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 271]. Esta fórmula permite estimar cuántos leucocitos son de la sangre contaminante y cuántos por la inflamación del LCR[cite: 272]."
+      },
+      {
+        "text": "C) Multiplicar los leucocitos por 10",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un estándar técnico de interpretación[cite: 274]."
+      },
+      {
+        "text": "D) Solo considerar el valor de la glucosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que la opción C, carece de validez técnica[cite: 274]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Xantocromía",
+    "text": "Un LCR xantocrómico (amarillento) tras la centrifugación indica: [cite: 276]",
+    "hint": "Indica que hubo sangre 'vieja' en el líquido[cite: 286].",
+    "options": [
+      {
+        "text": "A) Presencia de pus masiva",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El pus confiere un aspecto turbio o blanquecino al líquido[cite: 284]."
+      },
+      {
+        "text": "B) Hemorragia subaracnoidea antigua o niveles muy altos de proteínas",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 281]. El color amarillo resulta de la degradación de hemoglobina a bilirrubina (sangre de >6 horas) o por proteínas >150 mg/dl[cite: 282, 283]."
+      },
+      {
+        "text": "C) Ingesta excesiva de zanahorias (betacarotenos)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La dieta no tiñe el líquido cefalorraquídeo[cite: 285]."
+      },
+      {
+        "text": "D) Contaminación con antiséptico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No produce esta coloración específica[cite: 285]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Procalcitonina (PCT)",
+    "text": "La Procalcitonina (PCT) plasmática en el diagnóstico de meningitis tiene: [cite: 287]",
+    "hint": "Si la PCT está baja, respira tranquilo (probablemente no es bacteria)[cite: 297].",
+    "options": [
+      {
+        "text": "A) Un alto valor predictivo negativo para descartar etiología bacteriana",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 292]. Una PCT normal (<0,5 ng/ml) hace muy poco probable la causa bacteriana en un niño con pleocitosis[cite: 293, 294]."
+      },
+      {
+        "text": "B) Utilidad nula en pediatría",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un marcador muy útil en este rango de edad[cite: 295]."
+      },
+      {
+        "text": "C) Especificidad del 100% para Neumococo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es específica de un germen en particular[cite: 295]."
+      },
+      {
+        "text": "D) Valores altos solo en meningitis virales",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los virus no suelen elevar los niveles de PCT[cite: 296]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Test de Látex",
+    "text": "¿Cuándo se solicita el test de Látex o aglutinación en LCR? [cite: 298]",
+    "hint": "Es el examen para rescatar el diagnóstico en la 'meningitis decapitada'[cite: 307].",
+    "options": [
+      {
+        "text": "A) Solo en recién nacidos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se utiliza en pacientes de cualquier edad[cite: 305]."
+      },
+      {
+        "text": "B) Cuando el paciente recibió antibióticos previos y el Gram es negativo",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 303]. Detecta antígenos (pedazos de pared) incluso si la bacteria está muerta o no crece en el cultivo[cite: 304]."
+      },
+      {
+        "text": "C) Para diagnosticar virus herpes",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene utilidad para agentes virales[cite: 305]."
+      },
+      {
+        "text": "D) Para medir la presión intracraneana",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un método de medición de presión[cite: 306]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Patrón de LCR (TBC)",
+    "text": "Un LCR con predominio de linfocitos y glucosa muy baja (hipoglucorraquia marcada) orienta a: [cite: 308]",
+    "hint": "Células de 'virus' pero azúcar de 'bacteria' = TBC[cite: 317].",
+    "options": [
+      {
+        "text": "A) Virus Coxsackie",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los virus mantienen niveles de glucosa normales[cite: 315]."
+      },
+      {
+        "text": "B) Meningitis Tuberculosa o micótica",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 313]. Es el patrón mixto: respuesta celular crónica (linfocitos) con un consumo de energía muy alto típico de TBC[cite: 314]."
+      },
+      {
+        "text": "C) Meningitis Bacteriana común",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En bacterias comunes predomina el recuento de PMN[cite: 316]."
+      },
+      {
+        "text": "D) LCR Normal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se ajusta a los parámetros de normalidad[cite: 312]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Seguridad en PL",
+    "text": "¿Cuál es el riesgo de realizar una flexión excesiva del cuello en un lactante durante la PL? [cite: 318]",
+    "hint": "La seguridad de la respiración es prioritaria sobre la técnica de punción[cite: 327].",
+    "options": [
+      {
+        "text": "A) Ruptura de ligamentos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se considera un riesgo principal frente al compromiso respiratorio[cite: 326]."
+      },
+      {
+        "text": "B) Obstrucción de la vía aérea superior y apnea",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 323]. La vía aérea del lactante es muy colapsable y el posicionamiento forzado puede causar hipoxia grave[cite: 324, 325]."
+      },
+      {
+        "text": "C) Salida excesiva de líquido",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una complicación mayor asociada directamente a la flexión del cuello[cite: 326]."
+      },
+      {
+        "text": "D) Cefalea post-punción",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que las anteriores, es un riesgo menor comparado con la obstrucción respiratoria[cite: 326]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Volumen de LCR",
+    "text": "El volumen de LCR a recolectar en un tubo para citoquímico suele ser: [cite: 328]",
+    "hint": "Un par de mililitros bastan para el diagnóstico[cite: 336].",
+    "options": [
+      {
+        "text": "A) 10 ml",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un volumen excesivo para la recolección pediátrica[cite: 335]."
+      },
+      {
+        "text": "B) 1 a 2 ml (unas 10-20 gotas)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 333]. Es el volumen estándar suficiente para el recuento celular y bioquímica sin depletar al niño[cite: 334]."
+      },
+      {
+        "text": "C) Solo una gota",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cantidad insuficiente para que el laboratorio realice los análisis básicos[cite: 335]."
+      },
+      {
+        "text": "D) 50 ml",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Volumen desproporcionado y peligroso[cite: 335]."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Aspecto de LCR",
+    "text": "¿Qué indica un LCR turbio 'como agua de roca' en la descripción macroscópica? [cite: 337]",
+    "hint": "Es una descripción de pureza y normalidad[cite: 345].",
+    "options": [
+      {
+        "text": "A) Presencia de pus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El pus confiere turbidez al líquido cefalorraquídeo[cite: 344]."
+      },
+      {
+        "text": "B) Que el líquido es normal y cristalino",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 342]. 'Agua de roca' es el término semiológico clásico para un LCR normal y transparente[cite: 343]."
+      },
+      {
+        "text": "C) Presencia de sangre",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La sangre da una coloración rojiza o rosada[cite: 344]."
+      },
+      {
+        "text": "D) Infección por hongos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No corresponde a esta descripción macroscópica clásica[cite: 341]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Pleocitosis Eosinofílica",
+    "text": "La pleocitosis eosinofílica en el LCR debe hacer sospechar: [cite: 346]",
+    "hint": "Piensa en parásitos o plástico dentro del cerebro[cite: 354].",
+    "options": [
+      {
+        "text": "A) Neumococo resistente",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este agente no gatilla una respuesta eosinofílica típica[cite: 353]."
+      },
+      {
+        "text": "B) Presencia de parásitos (ej. neurocisticercosis) o derivaciones ventriculares",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 351]. Los eosinófilos responden ante infecciones por helmintos o cuerpos extraños como las válvulas en el SNC[cite: 352]."
+      },
+      {
+        "text": "C) Meningitis viral por enterovirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tampoco es un hallazgo asociado a virus respiratorios o entéricos[cite: 353]."
+      },
+      {
+        "text": "D) Reacción alérgica al látex de los guantes",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se describe como causa de este fenómeno en el LCR[cite: 353]."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Prueba de los Tres Tubos",
+    "text": "¿Qué importancia tiene el recuento de glóbulos rojos en el primer y último tubo de la PL? [cite: 355]",
+    "hint": "Se llama 'prueba de los tres tubos'[cite: 364].",
+    "options": [
+      {
+        "text": "A) Ninguna",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es fundamental para la interpretación del sangrado[cite: 361]."
+      },
+      {
+        "text": "B) Diferenciar una punción traumática (los rojos disminuyen) de una hemorragia intracraneana (los rojos se mantienen)",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 360]. Si el sangrado es por la aguja el líquido se aclara al final; si es HSA, todos los tubos serán igual de rojos[cite: 361, 362]."
+      },
+      {
+        "text": "C) Ver si el paciente tiene anemia",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una prueba primaria para diagnosticar anemia[cite: 363]."
+      },
+      {
+        "text": "D) Diagnosticar leucemia",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que para la anemia, no es su función diagnóstica principal[cite: 363]."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Proteínas en LCR",
+    "text": "La proteinorraquia superior a 500 mg/dl en un niño con meningitis es un signo de: [cite: 365]",
+    "hint": "Indica que el líquido está muy 'espeso' por la inflamación[cite: 373].",
+    "options": [
+      {
+        "text": "A) Buen pronóstico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un signo de gravedad y mal pronóstico[cite: 371, 372]."
+      },
+      {
+        "text": "B) Bloqueo del flujo de LCR o inflamación extrema",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 370]. Indica una ruptura masiva de la barrera hematoencefálica o estasis del líquido cefalorraquídeo[cite: 371]."
+      },
+      {
+        "text": "C) Infección por virus herpes",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es exclusivo ni definitorio de herpes viral[cite: 368]."
+      },
+      {
+        "text": "D) Deshidratación severa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No existe una relación directa descrita para este nivel proteico[cite: 369]."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Meningitis Pediátrica",
+    "topic": "Gram vs Citoquímico",
+    "text": "Ante un Gram de LCR que no muestra bacterias pero el citoquímico es francamente bacteriano, usted concluye: [cite: 374]",
+    "hint": "No verlas no significa que no estén ahí[cite: 383].",
+    "options": [
+      {
+        "text": "A) Que el diagnóstico es viral",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El citoquímico bacteriano prevalece para la decisión terapéutica[cite: 382]."
+      },
+      {
+        "text": "B) Que la carga bacteriana puede ser baja o el paciente recibió antibióticos previos",
+        "isCorrect": true,
+        "explanation": "Correcto[cite: 379]. El Gram tiene un límite de detección (10^5 bacterias/ml); una carga menor o daño por antibióticos impide verlas pero no descarta la infección[cite: 380, 381]."
+      },
+      {
+        "text": "C) Que el laboratorio cometió un error",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una limitación técnica conocida del examen[cite: 382]."
+      },
+      {
+        "text": "D) Que no necesita tratamiento antibiótico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se debe iniciar tratamiento basándose en el citoquímico alterado[cite: 382]."
+      }
+    ]
+  }
+]
