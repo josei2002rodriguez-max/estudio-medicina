@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Comunicación Interventricular (CIV)",
+    "text": "Lactante de 3 meses, asintomático. En control sano se ausculta un soplo holosistólico 3/6 en el borde esternal inferior izquierdo. Rx tórax y EKG normales. ¿Cuál es el diagnóstico más probable?",
+    "hint": "La topografía del soplo (borde esternal inferior izquierdo) y su temporalidad (holosistólico) son claves. La falta de síntomas habla de un orificio que, aunque ruidoso, no causa sobrecarga.",
+    "options": [
+      {
+        "text": "A) Defecto del tabique interauricular aislado",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La CIA produce un desdoblamiento fijo del segundo ruido y un soplo eyectivo pulmonar por hiperflujo, no un soplo holosistólico en el borde esternal inferior."
+      },
+      {
+        "text": "B) Comunicación interventricular restrictiva",
+        "isCorrect": true,
+        "explanation": "Correcto. En la CIV pequeña (tipo Roger), el alto gradiente de presión entre ventrículos genera gran turbulencia (soplo ruidoso holosistólico), pero el orificio pequeño evita el hiperflujo pulmonar y la cardiomegalia, manteniendo al paciente asintomático."
+      },
+      {
+        "text": "C) Persistencia del conducto arterioso",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El DAP genera un soplo continuo ('en maquinaria') típicamente en la región infraclavicular izquierda, no holosistólico bajo."
+      },
+      {
+        "text": "D) Estenosis valvular aórtica moderada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El soplo de la estenosis aórtica es eyectivo (crescendo-decrescendo) en el foco aórtico con irradiación característica al cuello."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Comunicación Interauricular (CIA)",
+    "text": "Niño de 8 años, asintomático. Al examen destaca un soplo sistólico eyectivo en foco pulmonar y un desdoblamiento amplio y fijo del segundo ruido cardíaco. ¿Qué alteración anatómica presenta?",
+    "hint": "El soplo no se produce en el defecto mismo, sino por el aumento crónico de volumen que atraviesa una válvula sana contigua. El 2R alterado que no cambia con la respiración es el signo patognomónico.",
+    "options": [
+      {
+        "text": "A) Defecto perimembranoso del tabique ventricular",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las CIV perimembranosas dan soplos holosistólicos en el mesocardio, no se caracterizan por desdoblamiento fijo del segundo ruido."
+      },
+      {
+        "text": "B) Defecto del tabique interauricular tipo secundum",
+        "isCorrect": true,
+        "explanation": "Correcto. El hiperflujo crónico de izquierda a derecha sobrecarga el ventrículo derecho, retrasando el cierre de la válvula pulmonar de forma constante (desdoblamiento fijo del 2R). El exceso de volumen genera el soplo eyectivo pulmonar."
+      },
+      {
+        "text": "C) Persistencia sintomática del conducto arterioso",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El DAP presenta un soplo continuo sístolo-diastólico y pulsos saltones."
+      },
+      {
+        "text": "D) Estenosis de la válvula pulmonar de grado leve",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque da un soplo eyectivo pulmonar, la estenosis suele asociar un clic de apertura y el desdoblamiento del 2R varía con la respiración."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Persistencia del Conducto Arterioso (DAP)",
+    "text": "Recién nacido prematuro de 28 semanas, al tercer día de vida presenta aumento de requerimientos de O2, pulsos saltones y precordio hiperactivo. A la auscultación hay un soplo continuo. ¿Cuál es el diagnóstico?",
+    "hint": "Busca la causa de un 'robo' de sangre hacia un circuito de menor resistencia que ocurre tanto en sístole como en diástole, lo que explica los pulsos saltones.",
+    "options": [
+      {
+        "text": "A) Persistencia del conducto arterioso con repercusión",
+        "isCorrect": true,
+        "explanation": "Correcto. El soplo continuo ('en maquinaria') indica flujo persistente de aorta a pulmonar. Los pulsos saltones ocurren por la caída brusca de la presión diastólica al escaparse el volumen hacia el pulmón."
+      },
+      {
+        "text": "B) Coartación de la aorta con gradiente significativo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En la coartación los pulsos femorales están débiles o ausentes, no saltones."
+      },
+      {
+        "text": "C) Tronco arterioso común con válvula troncal única",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El tronco arterioso suele presentarse con cianosis temprana severa y un segundo ruido único."
+      },
+      {
+        "text": "D) Comunicación interventricular amplia e hiperflujo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La CIV da un soplo holosistólico y no suele presentar pulsos saltones."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Farmacología en DAP",
+    "text": "En el paciente del caso anterior (prematuro con DAP sintomático), sin contraindicaciones, ¿cuál es el tratamiento farmacológico inicial de elección?",
+    "hint": "Debes buscar un fármaco que bloquee la vía de la ciclooxigenasa para reducir los niveles de prostaglandinas endógenas que mantienen el ductus permeable.",
+    "options": [
+      {
+        "text": "A) Infusión continua de Prostaglandina E1 (Alprostadil)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La Prostaglandina E1 mantiene el ductus abierto; se usa en cardiopatías ductus-dependientes, no para cerrarlo."
+      },
+      {
+        "text": "B) Inhibidores de la enzima ciclooxigenasa (Ibuprofeno)",
+        "isCorrect": true,
+        "explanation": "Correcto. Los AINEs como el ibuprofeno o la indometacina bloquean la producción de prostaglandinas, induciendo la constricción y el cierre del tejido ductal en prematuros."
+      },
+      {
+        "text": "C) Diuréticos de asa y antagonistas de aldosterona",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Pueden ayudar con la congestión, pero no cierran el defecto anatómico."
+      },
+      {
+        "text": "D) Digitálicos inotrópicos de acción farmacológica prolongada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tienen rol en el cierre del conducto arterioso."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Síndrome de Down y Cardiopatías",
+    "text": "Recién nacido con fenotipo de Síndrome de Down. Al nacer está estable, pero desarrolla signos de insuficiencia cardíaca a las 4 semanas. ¿Qué cardiopatía congénita es mandatorio descartar por su alta asociación?",
+    "hint": "Esta cromosomopatía afecta clásicamente el desarrollo de los cojinetes endocárdicos, las estructuras del 'centro' del corazón.",
+    "options": [
+      {
+        "text": "A) Tetralogía de Fallot con estenosis de grado variable",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El Fallot se asocia más frecuentemente al Síndrome de DiGeorge (deleción 22q11)."
+      },
+      {
+        "text": "B) Defecto del tabique aurículoventricular completo",
+        "isCorrect": true,
+        "explanation": "Correcto. El Canal AV completo es la cardiopatía más prevalente en pacientes con Síndrome de Down (cerca del 50%)."
+      },
+      {
+        "text": "C) Transposición clásica de las Grandes Arterias",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia más a hijos de madres diabéticas pregestacionales."
+      },
+      {
+        "text": "D) Coartación de la Aorta de tipo preductal severa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es la lesión clásica asociada al Síndrome de Turner (45,X0)."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Test de Hiperoxia y Cianosis",
+    "text": "Recién nacido de 1 hora de vida presenta cianosis severa generalizada. Se administra O2 al 100% sin lograr aumentar la saturación por encima del 70% (Test de Hiperoxia negativo). ¿Qué sospecha inicial debe tener?",
+    "hint": "Si el alvéolo está lleno de O2 puro pero la sangre sistémica sigue desaturada, la sangre no está pasando por los pulmones.",
+    "options": [
+      {
+        "text": "A) Cardiopatía acianótica con cortocircuito I-D",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las cardiopatías acianóticas no producen cianosis refractaria inmediata tras el nacimiento."
+      },
+      {
+        "text": "B) Neumonía congénita por aspiración de meconio",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En patologías pulmonares (causa respiratoria), el test de hiperoxia suele ser positivo (la PaO2 sube significativamente)."
+      },
+      {
+        "text": "C) Cardiopatía congénita cianótica estructural",
+        "isCorrect": true,
+        "explanation": "Correcto. El test negativo confirma un cortocircuito anatómico de derecha a izquierda: la sangre se salta el pulmón, por lo que el oxígeno administrado es inútil."
+      },
+      {
+        "text": "D) Síndrome de distrés respiratorio por déficit surfactante",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que otras causas pulmonares, respondería parcialmente al O2 al 100%."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Manejo Inicial Cardiopatía Cianótica",
+    "text": "En el recién nacido cianótico del caso anterior, ¿cuál es la medida farmacológica de urgencia más importante mientras se espera la confirmación ecocardiográfica?",
+    "hint": "La supervivencia depende de mantener abierta una estructura fetal que permite que la sangre llegue a los pulmones o al cuerpo.",
+    "options": [
+      {
+        "text": "A) Administrar indometacina endovenosa de emergencia",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La indometacina cierra el ductus, lo cual sería letal en una cardiopatía ductus-dependiente."
+      },
+      {
+        "text": "B) Iniciar infusión continua de Prostaglandina E1",
+        "isCorrect": true,
+        "explanation": "Correcto. La PGE1 evita el cierre del conducto arterioso, puente vital para oxigenar la sangre en lesiones derechas o perfundir el cuerpo en lesiones izquierdas obstructivas."
+      },
+      {
+        "text": "C) Administrar diuréticos de asa a máxima dosificación",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No resuelven la hipoxia originada por el cortocircuito anatómico."
+      },
+      {
+        "text": "D) Iniciar cobertura antibiótica de amplio espectro",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque es importante ante sospecha de sepsis, no revierte el colapso hemodinámico estructural."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Transposición de las Grandes Arterias (TGA)",
+    "text": "Cardiopatía congénita cianótica más frecuente en el período neonatal, clásicamente descrita con silueta cardíaca de 'huevo colgado de un hilo' en la radiografía de tórax.",
+    "hint": "La imagen se produce por un pedículo vascular estrecho, ya que la arteria pulmonar queda escondida detrás de la aorta ascendente.",
+    "options": [
+      {
+        "text": "A) Tetralogía de Fallot con atresia pulmonar asociada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El Fallot presenta una silueta en 'zueco' o bota."
+      },
+      {
+        "text": "B) Drenaje venoso anómalo pulmonar total obstruido",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El drenaje anómalo supracardíaco da la imagen de 'muñeco de nieve'."
+      },
+      {
+        "text": "C) Transposición de las Grandes Arterias (TGA)",
+        "isCorrect": true,
+        "explanation": "Correcto. La disposición anteroposterior anómala de los vasos estrecha el mediastino superior, dando el aspecto de 'huevo en un hilo'."
+      },
+      {
+        "text": "D) Atresia Tricuspídea con fisiología de ventrículo único",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No presenta una silueta característica en huevo; suele tener un eje izquierdo en el EKG."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Tetralogía de Fallot",
+    "text": "Cardiopatía cianótica más frecuente en mayores de 1 año. Se caracteriza por presentar grados variables de cianosis según la severidad de la obstrucción del tracto de salida del ventrículo derecho.",
+    "hint": "Su clínica es dinámica y la cianosis frecuentemente se retrasa meses hasta que la hipertrofia del infundíbulo derecho se hace limitante.",
+    "options": [
+      {
+        "text": "A) Tetralogía de Fallot en su presentación clásica o rosada",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la cianótica más común fuera del periodo neonatal; la cianosis progresa según empeora la estenosis infundibular."
+      },
+      {
+        "text": "B) Anomalía de Ebstein de la válvula tricúspide",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es poco común y suele cursar con cianosis leve o arritmias."
+      },
+      {
+        "text": "C) Atresia pulmonar con septum interventricular intacto",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Debuta con cianosis profunda casi inmediatamente tras el nacimiento."
+      },
+      {
+        "text": "D) Truncus arteriosus de tipo I, II o III",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presenta insuficiencia cardíaca precoz y cianosis desde el nacimiento."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Anatomía de la Tetralogía de Fallot",
+    "text": "¿Cuáles son los 4 componentes estructurales que definen anatómicamente a la Tetralogía de Fallot?",
+    "hint": "El defecto primario es un desplazamiento anterior del tabique infundibular, lo que aprieta la salida derecha y desalinea la aorta.",
+    "options": [
+      {
+        "text": "A) CIA, CIV amplia, estenosis pulmonar leve, hipertrofia VD",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La CIA no es parte de la tetralogía clásica (sería pentalogía)."
+      },
+      {
+        "text": "B) CIV, cabalgamiento aórtico, estenosis pulmonar, hipertrofia VD",
+        "isCorrect": true,
+        "explanation": "Correcto. El evento central es la desviación anterior del septum conal, causando estenosis pulmonar, CIV y cabalgamiento de la aorta. La hipertrofia del VD es secundaria a la obstrucción."
+      },
+      {
+        "text": "C) CIV, cabalgamiento aórtico, estenosis aórtica, hipertrofia VI",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Incluye estenosis aórtica e hipertrofia del VI, lo cual es opuesto a la fisiología de Fallot."
+      },
+      {
+        "text": "D) DAP, CIV perimembranosa, estenosis pulmonar, hipertrofia VD",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El DAP no es un componente de la Tetralogía de Fallot."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Crisis Hipoxémica en Fallot",
+    "text": "Niño de 2 años con Tetralogía de Fallot conocida, no operado. Tras un llanto intenso presenta irritabilidad, hiperpnea y aumento severo de la cianosis con compromiso de conciencia. ¿Qué cuadro clínico presenta?",
+    "hint": "El llanto genera un estímulo adrenérgico que contrae el tracto de salida del corazón derecho, obligando a la sangre desoxigenada a irse hacia la aorta.",
+    "options": [
+      {
+        "text": "A) Episodio de síncope vasovagal neuromediado",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El síncope vasovagal suele presentar palidez, no cianosis extrema."
+      },
+      {
+        "text": "B) Crisis hipoxémica secundaria a espasmo infundibular",
+        "isCorrect": true,
+        "explanation": "Correcto. El estrés causa espasmo del infundíbulo pulmonar, bloqueando el flujo a los pulmones e incrementando el cortocircuito derecha-izquierda por la CIV."
+      },
+      {
+        "text": "C) Insuficiencia cardíaca aguda por sobrecarga izquierda",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En este cuadro no hay edema pulmonar ni crepitaciones, sino hipoflujo pulmonar."
+      },
+      {
+        "text": "D) Tromboembolismo pulmonar agudo secundario a trombosis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es extremadamente raro en preescolares sin otros factores de riesgo."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Manejo de Crisis Hipoxémica",
+    "text": "Ante la crisis hipoxémica descrita anteriormente, ¿cuál de las siguientes medidas NO es parte del manejo inicial adecuado y resulta contraproducente?",
+    "hint": "Busca un medicamento que aumente la fuerza de contracción cardíaca, lo que empeoraría el cierre de un tracto de salida ya obstruido.",
+    "options": [
+      {
+        "text": "A) Posición genupectoral (llevar las rodillas al pecho)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una medida adecuada porque aumenta la resistencia sistémica, forzando más sangre hacia los pulmones."
+      },
+      {
+        "text": "B) Administrar Oxígeno suplementario de alto flujo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es adecuado, ya que el O2 actúa como vasodilatador pulmonar."
+      },
+      {
+        "text": "C) Administrar morfina por vía endovenosa o subcutánea",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es parte del manejo; ayuda a calmar al niño y deprimir el centro respiratorio, cortando el ciclo de hiperpnea."
+      },
+      {
+        "text": "D) Administrar Digoxina intravenosa de urgencia",
+        "isCorrect": true,
+        "explanation": "Correcto. La digoxina es un inótropo positivo que aumenta la fuerza de contracción, lo que empeora el espasmo muscular del infundíbulo derecho, obstruyendo aún más la vía pulmonar."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Coartación de la Aorta",
+    "text": "Recién nacido de 2 días. Durante la exploración física se palpan pulsos braquiales amplios y pulsos femorales muy débiles. La saturación postductal es 5% menor que la preductal. ¿Diagnóstico más probable?",
+    "hint": "La clave es la diferencia de flujo y presión entre las extremidades superiores y las inferiores.",
+    "options": [
+      {
+        "text": "A) Estenosis aórtica valvular de grado crítico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La estenosis aórtica disminuye todos los pulsos sistémicos por igual (pulso parvus et tardus)."
+      },
+      {
+        "text": "B) Coartación de la Aorta en el arco descendente",
+        "isCorrect": true,
+        "explanation": "Correcto. La obstrucción en el istmo aórtico mantiene alta la presión en los brazos y disminuye el flujo distal, causando pulsos femorales débiles y menor saturación postductal."
+      },
+      {
+        "text": "C) Interrupción del arco aórtico tipo A, B o C",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele debutar con shock fulminante masivo más que con una simple asimetría de pulsos."
+      },
+      {
+        "text": "D) Estenosis pulmonar periférica de las ramas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La estenosis pulmonar no altera la amplitud de los pulsos arteriales sistémicos."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Síndrome de Turner y Coartación",
+    "text": "Niña de 12 años, talla baja, cuello alado (pterigium colli) y amenorrea primaria. Se detecta hipertensión arterial en extremidades superiores y pulsos femorales disminuidos. ¿Qué síndrome presenta y cuál es su cardiopatía?",
+    "hint": "El fenotipo orienta a una disgenesia gonadal 45,X0. Piensa en la cardiopatía izquierda típicamente asociada.",
+    "options": [
+      {
+        "text": "A) Síndrome de Noonan con estenosis pulmonar valvular",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El Noonan asocia clásicamente estenosis pulmonar (derecha), no coartación."
+      },
+      {
+        "text": "B) Síndrome de Turner con coartación de la aorta",
+        "isCorrect": true,
+        "explanation": "Correcto. El fenotipo es de Turner (45,X0), síndrome asociado en un 30% a malformaciones del corazón izquierdo, principalmente válvula aórtica bicúspide y coartación."
+      },
+      {
+        "text": "C) Síndrome de DiGeorge con defecto truncoconal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El DiGeorge asocia defectos del tracto de salida como Fallot o Truncus."
+      },
+      {
+        "text": "D) Síndrome de Marfan con aneurisma de la raíz aórtica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El Marfan cursa con talla alta y aracnodactilia."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca en Lactantes",
+    "text": "Lactante de 6 meses presenta dificultad para alimentarse, sudoración profusa al mamar y escasa ganancia de peso. Al examen: taquipnea, taquicardia y hepatomegalia de 4 cm. Este cuadro es compatible con:",
+    "hint": "En un bebé, comer es la actividad de mayor esfuerzo físico. La sudoración profusa es una respuesta simpática ante el bajo gasto.",
+    "options": [
+      {
+        "text": "A) Desnutrición calórico-proteica severa tipo Marasmo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque causa falla de medro, no explica la taquipnea ni la hepatomegalia aguda."
+      },
+      {
+        "text": "B) Insuficiencia Cardíaca Congestiva descompensada",
+        "isCorrect": true,
+        "explanation": "Correcto. La fatiga al comer es el equivalente a la disnea de esfuerzo. La diaforesis indica hipertono simpático y la hepatomegalia evidencia congestión venosa sistémica."
+      },
+      {
+        "text": "C) Neumonía atípica adquirida en la comunidad",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presentaría fiebre y hallazgos en la auscultación, no sudoración focalizada al alimentarse."
+      },
+      {
+        "text": "D) Enfermedad por Reflujo gastroesofágico severo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Genera vómitos y rechazo, pero no hepatomegalia ni taquicardia persistente en reposo."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Lesiones Ductus-dependientes",
+    "text": "¿Cuál es la causa más frecuente de Insuficiencia Cardíaca y shock cardiogénico en la PRIMERA SEMANA de vida del recién nacido?",
+    "hint": "Busca lesiones que se desenmascaran catastróficamente cuando se cierra fisiológicamente el conducto arterioso.",
+    "options": [
+      {
+        "text": "A) Miocarditis viral fulminante por Enterovirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es más frecuente en niños mayores, no en la primera semana de vida."
+      },
+      {
+        "text": "B) Anomalías coronarias congénitas tipo ALCAPA",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele dar síntomas a los 2-3 meses de vida cuando cae la resistencia pulmonar."
+      },
+      {
+        "text": "C) Cardiopatías dependientes de ductus (obstrucción izquierda)",
+        "isCorrect": true,
+        "explanation": "Correcto. Lesiones como la hipoplasia de VI o la coartación crítica dependen del ductus para la perfusión sistémica; al cerrarse este en los primeros días, el paciente colapsa."
+      },
+      {
+        "text": "D) Comunicaciones interventriculares de gran tamaño",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las CIV grandes dan síntomas de hiperflujo hacia el mes o mes y medio de vida."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Manejo de la Insuficiencia Cardíaca",
+    "text": "¿Cuál es el tratamiento farmacológico de primera línea para el manejo crónico de los síntomas congestivos en la Insuficiencia Cardíaca pediátrica por cortocircuito de izquierda a derecha?",
+    "hint": "El problema es el exceso de volumen que inunda los pulmones. Se requiere algo que alivie la precarga.",
+    "options": [
+      {
+        "text": "A) Diuréticos de asa (como la Furosemida oral o IV)",
+        "isCorrect": true,
+        "explanation": "Correcto. Son el pilar del tratamiento sintomático al promover la excreción de agua y sodio, reduciendo la precarga y aliviando la congestión pulmonar."
+      },
+      {
+        "text": "B) Betabloqueadores a dosis plenas de inicio rápido",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En fases agudas congestivas pueden ser contraproducentes al deprimir el inotropismo."
+      },
+      {
+        "text": "C) Fármacos antiarrítmicos clase III (Amiodarona)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo se usan si hay arritmias documentadas, no para la congestión."
+      },
+      {
+        "text": "D) Infusión crónica de Prostaglandina vasodilatadora",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las prostaglandinas se usan en neonatos con lesiones ductus-dependientes, no en el manejo crónico del hiperflujo."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Soplos Inocentes (Soplo de Still)",
+    "text": "Niño de 4 años, sano y asintomático. Se ausculta un soplo sistólico, vibratorio/musical, grado 2/6 en el borde esternal inferior izquierdo que se intensifica en decúbito supino. EKG normal. ¿Diagnóstico?",
+    "hint": "Es el hallazgo benigno más frecuente en preescolares. Su timbre 'como cuerda vibrando' es característico.",
+    "options": [
+      {
+        "text": "A) Soplo de Still (soplo inocente o fisiológico)",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el soplo inocente prototípico entre los 2 y 7 años. Se genera por vibración de cuerdas tendíneas, es musical y aumenta en decúbito por mayor retorno venoso."
+      },
+      {
+        "text": "B) Comunicación interventricular muscular pequeña",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El soplo de la CIV suele ser áspero o soplante, no musical."
+      },
+      {
+        "text": "C) Estenosis aórtica subvalvular leve aislada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presenta un soplo eyectivo rudo y a menudo alteraciones en el EKG."
+      },
+      {
+        "text": "D) Miocardiopatía hipertrófica familiar genotípica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El soplo es eyectivo y aumentaría con maniobras que disminuyen la precarga (como ponerse de pie), al revés que el Still."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Semiología de Soplos",
+    "text": "En relación a los soplos cardíacos en pediatría, ¿cuál de las siguientes características es indicativa de un soplo PATOLÓGICO que requiere estudio con ecocardiograma?",
+    "hint": "Los soplos benignos ocurren siempre durante la sístole. Los ruidos en la fase de llenado nunca son normales.",
+    "options": [
+      {
+        "text": "A) Soplo sistólico precoz de intensidad grado 2/6",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los soplos sistólicos de baja intensidad suelen ser inocentes."
+      },
+      {
+        "text": "B) Soplo de intensidad variable según la postura corporal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La variabilidad posicional es una característica de los soplos benignos."
+      },
+      {
+        "text": "C) Soplo predominantemente diastólico de cualquier grado",
+        "isCorrect": true,
+        "explanation": "Correcto. Cualquier soplo diastólico, pansistólico, continuo (fuera del periodo neonatal) o de intensidad ≥ 3/6 es patológico hasta demostrar lo contrario."
+      },
+      {
+        "text": "D) Soplo de características musicales sin frémito asociado",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El timbre musical es típico del soplo de Still (inocente)."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Atresia Tricuspídea",
+    "text": "Recién nacido con cianosis severa. El ecocardiograma muestra atresia de la válvula tricúspide, ventrículo derecho hipoplásico y gran ventrículo izquierdo. ¿Qué otras dos condiciones anatómicas son estrictamente necesarias para la supervivencia?",
+    "hint": "La sangre venosa debe poder salir de la aurícula derecha y algo de sangre debe llegar a los pulmones para oxigenarse.",
+    "options": [
+      {
+        "text": "A) CIA (o foramen oval) y CIV (o ductus permeable)",
+        "isCorrect": true,
+        "explanation": "Correcto. La CIA permite que la sangre pase de AD a AI (mezcla obligatoria). La CIV o el DAP permiten que la sangre llegue desde el lado izquierdo hacia los pulmones."
+      },
+      {
+        "text": "B) Estenosis aórtica severa y comunicación interauricular",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La estenosis aórtica solo complicaría la salida sistémica."
+      },
+      {
+        "text": "C) Drenaje venoso anómalo total y comunicación interventricular",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No asegura el flujo sistémico adecuado ni es parte de la fisiología típica de la atresia tricuspídea."
+      },
+      {
+        "text": "D) Válvula aórtica bicúspide e hipertrofia ventricular derecha",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El ventrículo derecho es hipoplásico por definición en esta patología."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Rubéola Congénita",
+    "text": "Lactante con antecedente de infección congénita presenta un soplo continuo en maquinaria en región infraclavicular izquierda y sordera. ¿Qué defecto cardíaco tiene mayor probabilidad de presentar?",
+    "hint": "La infección viral en el primer trimestre altera el tejido elástico de los grandes vasos e impide el cierre del conducto fetal.",
+    "options": [
+      {
+        "text": "A) Ductus arterioso persistente (DAP) y/o estenosis pulmonar",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la malformación clásica del Síndrome de Rubéola Congénita (tríada: DAP, sordera y cataratas)."
+      },
+      {
+        "text": "B) Defecto amplio del tabique interauricular (CIA)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La CIA no es la asociación característica de la rubéola."
+      },
+      {
+        "text": "C) Tetralogía de Fallot con anatomía desfavorable",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia más a microdeleciones cromosómicas (22q11)."
+      },
+      {
+        "text": "D) Coartación aórtica severa de tipo postductal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia clásicamente al Síndrome de Turner."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Efectos Adversos de Prostaglandinas",
+    "text": "¿Cuál es el principal efecto adverso que debe vigilarse al iniciar una infusión de Prostaglandina E1 (Alprostadil) en un recién nacido?",
+    "hint": "Este fármaco impacta directamente en el centro respiratorio del tronco cerebral.",
+    "options": [
+      {
+        "text": "A) Crisis hipertensiva de difícil manejo clínico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La PGE1 suele causar hipotensión por vasodilatación sistémica, no hipertensión."
+      },
+      {
+        "text": "B) Depresión respiratoria severa y crisis de apnea",
+        "isCorrect": true,
+        "explanation": "Correcto. La PGE1 causa apnea en un 10-15% de los neonatos, por lo que a menudo se requiere intubación profiláctica antes de traslados."
+      },
+      {
+        "text": "C) Hipoglicemia neonatal refractaria a suero",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un efecto adverso directo característico de la PGE1."
+      },
+      {
+        "text": "D) Arritmia ventricular maligna tipo fibrilación",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque puede haber fiebre o vasodilatación, las arritmias malignas no son comunes."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Miocarditis Viral",
+    "text": "Niño de 10 años presenta fatiga, dolor abdominal, disnea y taquicardia extrema. Semanas previas tuvo un cuadro viral. Rx tórax: cardiomegalia masiva global. ¿Diagnóstico más probable?",
+    "hint": "El pródromo respiratorio seguido de falla de bomba abrupta con corazón dilatado es típico de esta infección muscular.",
+    "options": [
+      {
+        "text": "A) Pericarditis aguda con derrame de escasa cuantía",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cursa con dolor torácico pleurítico y roces, pero no suele dar falla de bomba severa si el derrame es escaso."
+      },
+      {
+        "text": "B) Miocarditis aguda de origen probablemente viral",
+        "isCorrect": true,
+        "explanation": "Correcto. La inflamación del miocardio (frecuentemente por Coxsackie o Adenovirus) genera disfunción sistólica masiva, cardiomegalia y ritmos de galope tras un cuadro viral."
+      },
+      {
+        "text": "C) Endocarditis infecciosa de válvula tricúspide",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se caracteriza por fiebre prolongada, soplos y fenómenos embólicos, no por falla cardíaca aguda global."
+      },
+      {
+        "text": "D) Fiebre reumática en fase de brote inflamatorio",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele asociar poliartritis o corea, y la insuficiencia cardíaca aislada no es lo más común tras un cuadro gripal."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Radiología en Coartación Aórtica",
+    "text": "¿Qué hallazgo radiológico de tórax es patognomónico de una coartación de la aorta de larga evolución en un adolescente?",
+    "hint": "Se produce por la erosión crónica del reborde óseo de las costillas debido a la dilatación de las arterias colaterales.",
+    "options": [
+      {
+        "text": "A) Silueta cardíaca en forma de corazón en zueco",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el signo característico de la Tetralogía de Fallot."
+      },
+      {
+        "text": "B) Muescas costales inferiores (signo de Roesler)",
+        "isCorrect": true,
+        "explanation": "Correcto. Son erosiones en el borde inferior de las costillas (3ª a 8ª) causadas por la presión de las arterias intercostales dilatadas que actúan como bypass de la coartación."
+      },
+      {
+        "text": "C) Silueta cardíaca gigante en muñeco de nieve",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es típico del drenaje venoso anómalo total supracardíaco."
+      },
+      {
+        "text": "D) Corazón masivo con configuración de garrafa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indica un derrame pericárdico masivo."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Coartación Aórtica en Adolescentes",
+    "text": "Adolescente con HTA de 145/90 mmHg en brazo derecho y 100/60 mmHg en pierna derecha. Pulsos femorales retrasados respecto al radial. ¿Diagnóstico a descartar?",
+    "hint": "La diferencia tensional entre la parte superior e inferior del cuerpo es el signo cardinal.",
+    "options": [
+      {
+        "text": "A) Hipertensión arterial esencial por sedentarismo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La HTA esencial eleva la presión de forma simétrica en todas las extremidades."
+      },
+      {
+        "text": "B) Coartación de la aorta no diagnosticada en la infancia",
+        "isCorrect": true,
+        "explanation": "Correcto. Las formas leves o moderadas pueden debutar tardíamente como HTA sistémica confinada a los brazos con asimetría de pulsos inferiores."
+      },
+      {
+        "text": "C) Insuficiencia aórtica severa de origen reumático",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aumenta la presión diferencial (sistólica alta, diastólica baja) pero en todo el cuerpo."
+      },
+      {
+        "text": "D) Estenosis de la arteria renal unilateral derecha",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Eleva la presión en todo el sistema mediante el eje renina-angiotensina."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Síndrome de Eisenmenger",
+    "text": "¿Cuál es el mecanismo fisiopatológico cardinal del Síndrome de Eisenmenger?",
+    "hint": "Es la consecuencia terminal del bombardeo crónico de flujo y presión hacia los pulmones.",
+    "options": [
+      {
+        "text": "A) Estenosis adquirida de la válvula aórtica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene relación con la fisiopatología del Eisenmenger."
+      },
+      {
+        "text": "B) Disfunción diastólica severa del corazón derecho",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El problema central es vascular pulmonar, no miocárdico derecho primario."
+      },
+      {
+        "text": "C) Desarrollo de enfermedad vascular pulmonar obstructiva que invierte el shunt",
+        "isCorrect": true,
+        "explanation": "Correcto. El hiperflujo sostenido daña el lecho pulmonar, aumentando la resistencia hasta que esta supera la sistémica e invierte el flujo (D-I), apareciendo cianosis irreversible."
+      },
+      {
+        "text": "D) Cierre espontáneo muy tardío de un gran defecto septal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El cierre del defecto prevendría el síndrome, no lo causaría."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Cierre Espontáneo de CIV",
+    "text": "¿En qué subtipo de comunicación interventricular se observa con mayor frecuencia el cierre espontáneo durante los primeros años de vida?",
+    "hint": "El tejido muscular en crecimiento puede llegar a ocluir orificios pequeños atrapados entre sus fibras.",
+    "options": [
+      {
+        "text": "A) Comunicaciones del tracto de salida (subarteriales)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tienen bordes fibrosos rígidos y casi nunca cierran solas."
+      },
+      {
+        "text": "B) Comunicaciones de entrada o de canal AV",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Requieren corrección quirúrgica casi invariablemente."
+      },
+      {
+        "text": "C) Comunicaciones interventriculares pequeñas de la porción muscular",
+        "isCorrect": true,
+        "explanation": "Correcto. Hasta el 80% de las CIV musculares pequeñas cierran espontáneamente por el crecimiento del tejido circundante."
+      },
+      {
+        "text": "D) Ningún subtipo de CIV puede cerrarse espontáneamente",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Muchos defectos septales cierran sin necesidad de cirugía."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Drenaje Venoso Anómalo Pulmonar Total",
+    "text": "Lactante cianótico con aumento de trama vascular pulmonar y silueta cardíaca en 'muñeco de nieve'. ¿Diagnóstico esperado?",
+    "hint": "La 'cabeza' del muñeco es una vena vertical y la cava superior dilatadas que reciben sangre oxigenada.",
+    "options": [
+      {
+        "text": "A) Tetralogía de Fallot clásica o variante rosada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El Fallot presenta hipoflujo pulmonar y silueta en zueco."
+      },
+      {
+        "text": "B) Atresia Pulmonar con hipoplasia masiva ventricular",
+        "isCorrect": false,
+        "explanation": "Incorrecto. También cursa con hipoflujo (pulmones negros)."
+      },
+      {
+        "text": "C) Drenaje Venoso Anómalo Pulmonar Total de tipo supracardíaco",
+        "isCorrect": true,
+        "explanation": "Correcto. La convergencia de venas pulmonares en una vena vertical que drena a la cava superior ensanchada forma la 'cabeza' del muñeco de nieve."
+      },
+      {
+        "text": "D) Transposición de las grandes arterias con septum intacto",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La silueta típica es la de 'huevo en un hilo'."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Hijo de Madre Diabética",
+    "text": "Recién nacido de madre diabética presenta miocardiopatía hipertrófica asimétrica del septum. ¿Cuál es la evolución típica?",
+    "hint": "Este crecimiento muscular es estimulado por el hiperinsulinismo fetal, que desaparece al nacer.",
+    "options": [
+      {
+        "text": "A) Insuficiencia cardíaca refractaria que exige trasplante",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un proceso transitorio y reversible."
+      },
+      {
+        "text": "B) Requerirá miomectomía quirúrgica de urgencia",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo en casos de shock obstructivo rarísimos se plantea cirugía."
+      },
+      {
+        "text": "C) Resolución espontánea progresiva durante los primeros 6 meses",
+        "isCorrect": true,
+        "explanation": "Correcto. Al cesar el ambiente de hiperglicemia materna, los niveles de insulina fetal (factor anabólico) bajan y la hipertrofia involuciona espontáneamente."
+      },
+      {
+        "text": "D) Evolución inexorable a Síndrome de Eisenmenger",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El Eisenmenger es para cortocircuitos I-D, no para miocardiopatías hipertróficas."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Flujo Vascular Pulmonar",
+    "text": "¿Qué cardiopatía cursa característicamente con flujo vascular pulmonar DISMINUIDO (pulmones negros) en la radiografía?",
+    "hint": "Identifica la patología que obstruye físicamente la salida de sangre hacia los pulmones.",
+    "options": [
+      {
+        "text": "A) Comunicación interventricular perimembranosa grande",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cursa con hiperflujo (pulmones blancos) por cortocircuito I-D."
+      },
+      {
+        "text": "B) Tetralogía de Fallot con obstrucción infundibular severa",
+        "isCorrect": true,
+        "explanation": "Correcto. La estenosis pulmonar impide que la sangre llegue a los pulmones, desviándola a la aorta, lo que se ve como hipoperfusión radiológica."
+      },
+      {
+        "text": "C) Ductus arterioso persistente grande y sintomático",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que la CIV, genera hiperflujo pulmonar."
+      },
+      {
+        "text": "D) Transposición de grandes arterias con gran CIA",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele cursar con trama vascular aumentada."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "EKG en Atresia Tricuspídea",
+    "text": "Recién nacido con cianosis profunda e hipoflujo pulmonar. EKG: Eje desviado a la izquierda e hipertrofia de ventrículo izquierdo. ¿Diagnóstico probable?",
+    "hint": "En neonatos el ventrículo derecho suele ser dominante. Un eje izquierdo sugiere que el VD es hipoplásico.",
+    "options": [
+      {
+        "text": "A) Atresia de la Válvula Tricúspide clásica",
+        "isCorrect": true,
+        "explanation": "Correcto. Al no pasar sangre de AD a VD, este queda hipoplásico. El VI asume todo el trabajo, generando un eje izquierdo en el EKG, algo patognomónico en un neonato cianótico."
+      },
+      {
+        "text": "B) Tetralogía de Fallot con ausencia de válvula pulmonar",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El Fallot presenta eje derecho por hipertrofia del VD."
+      },
+      {
+        "text": "C) Transposición de grandes vasos aislada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele tener un eje normal o derecho en el recién nacido."
+      },
+      {
+        "text": "D) Coartación aórtica severa asociada a válvula bicúspide",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Puede dar falla izquierda, pero no cianosis universal inmediata."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Síndrome de DiGeorge",
+    "text": "¿Qué grupo de cardiopatías se asocia con mayor fuerza al Síndrome de DiGeorge (22q11)?",
+    "hint": "La deleción afecta la migración de las células de la cresta neural, encargadas de la tabicación del tronco de salida.",
+    "options": [
+      {
+        "text": "A) Defectos del tabique interauricular (ostium secundum)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocian más a síndromes como el de Holt-Oram."
+      },
+      {
+        "text": "B) Defectos conotruncales (Truncus arteriosus, Fallot)",
+        "isCorrect": true,
+        "explanation": "Correcto. Las alteraciones de la cresta neural en DiGeorge afectan típicamente los tractos de salida cardíacos, resultando en lesiones conotruncales."
+      },
+      {
+        "text": "C) Obstrucciones del corazón izquierdo (Coartación)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocian más a Turner o Williams."
+      },
+      {
+        "text": "D) Miocardiopatías primarias hipertróficas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suelen asociarse a trastornos metabólicos o neuromusculares."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Estenosis de Ramas Pulmonares Fisiológica",
+    "text": "RN de 24 horas presenta un soplo eyectivo suave en foco pulmonar que irradia a axilas y dorso. Asintomático. ¿Causa probable?",
+    "hint": "Al nacer, el aumento de flujo por las bifurcaciones pulmonares pequeñas genera una turbulencia benigna.",
+    "options": [
+      {
+        "text": "A) Estenosis valvular pulmonar crítica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presentaría cianosis o insuficiencia cardíaca derecha."
+      },
+      {
+        "text": "B) Soplo fisiológico por estenosis relativa de ramas periféricas",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un soplo inocente común en neonatos por el pequeño calibre y ángulo de las ramas pulmonares; desaparece a los pocos meses."
+      },
+      {
+        "text": "C) Comunicación interventricular perimembranosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un soplo holosistólico que no irradia típicamente a las axilas."
+      },
+      {
+        "text": "D) Persistencia del conducto arterioso con shunt masivo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El soplo del DAP es continuo e infraclavicular."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Zumbido Venoso",
+    "text": "¿Cómo se diferencia el 'Zumbido venoso yugular' (benigno) del soplo del DAP (patológico)?",
+    "hint": "Al ser un ruido generado por flujo venoso de baja presión, la compresión del vaso lo detiene.",
+    "options": [
+      {
+        "text": "A) Aumenta de intensidad al acostar al niño",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El zumbido venoso desaparece al acostarse porque disminuye la velocidad gravitacional de la sangre."
+      },
+      {
+        "text": "B) Desaparece al comprimir la yugular o rotar el cuello",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el único soplo continuo inocente; se detiene al obstruir el flujo venoso manualmente o mediante cambios de posición del cuello."
+      },
+      {
+        "text": "C) Se asocia siempre a un frémito palpable",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Un soplo con frémito es invariablemente patológico."
+      },
+      {
+        "text": "D) Es de característica diastólica pura",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ambos son continuos (sístolo-diastólicos)."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca Derecha",
+    "text": "Lactante con hígado palpable a 5 cm, edema de pies y yugulares ingurgitadas. ¿De qué es indicativo?",
+    "hint": "El hígado absorbe el reflujo de sangre cuando el ventrículo que bombea a los pulmones falla.",
+    "options": [
+      {
+        "text": "A) Falla ventricular izquierda aguda pura",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La falla izquierda predomina con síntomas respiratorios (disnea, crepitaciones)."
+      },
+      {
+        "text": "B) Insuficiencia cardíaca congestiva predominante de cavidades derechas",
+        "isCorrect": true,
+        "explanation": "Correcto. La hepatomegalia, el edema y la ingurgitación son signos de congestión venosa sistémica por fallo del corazón derecho."
+      },
+      {
+        "text": "C) Hipertensión portal primaria",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Daría esplenomegalia y ascitis, pero no ingurgitación yugular."
+      },
+      {
+        "text": "D) Falla renal aguda intrínseca",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque da edema, la hepatomegalia masiva orienta más a un origen cardíaco."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Tamizaje Cardiológico Neonatal",
+    "text": "¿Qué parámetro en la oximetría de pulso neonatal se considera patológico?",
+    "hint": "Las guías definen un valor absoluto muy bajo o una asimetría significativa como criterios de falla.",
+    "options": [
+      {
+        "text": "A) Saturación < 90% o diferencia > 3% entre mano y pie en controles repetidos",
+        "isCorrect": true,
+        "explanation": "Correcto. El screening es positivo si cualquier medida es <90%, o si hay una diferencia >3% entre mano derecha y pie en 3 tomas separadas por una hora."
+      },
+      {
+        "text": "B) Saturación menor a 98% de forma aislada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Una saturación de 96-97% puede ser normal."
+      },
+      {
+        "text": "C) Saturación de 92% idéntica en ambas extremidades",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Valores entre 90-94% requieren repetir la prueba, no son pase automático pero tampoco falla inmediata si son iguales."
+      },
+      {
+        "text": "D) Diferencia de 1% con valor global de 96%",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se considera un resultado normal (pase)."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Anomalía de Ebstein",
+    "text": "¿Qué alteración define fundamentalmente a la Anomalía de Ebstein?",
+    "hint": "Esta anomalía genera la 'auricularización' de una porción del ventrículo derecho.",
+    "options": [
+      {
+        "text": "A) Ausencia o atresia completa de la tricúspide",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Eso define a la atresia tricuspídea."
+      },
+      {
+        "text": "B) Desplazamiento apical de la inserción de las valvas tricúspides",
+        "isCorrect": true,
+        "explanation": "Correcto. Las valvas están adheridas más abajo de lo normal, agrandando la AD e incorporando parte del ventrículo (auricularización), dejando un VD útil muy pequeño."
+      },
+      {
+        "text": "C) Nacimiento anómalo de la coronaria izquierda",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Eso describe al ALCAPA."
+      },
+      {
+        "text": "D) Fusión comisural de la válvula aórtica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es propio de la estenosis aórtica."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Teratogenia y Ebstein",
+    "text": "¿A qué antecedente farmacológico materno se asocia la Anomalía de Ebstein?",
+    "hint": "Es un fármaco usado para trastornos psiquiátricos afectivos severos como el trastorno bipolar.",
+    "options": [
+      {
+        "text": "A) Exposición a Ácido Valproico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia a defectos del tubo neural."
+      },
+      {
+        "text": "B) Consumo materno de Litio",
+        "isCorrect": true,
+        "explanation": "Correcto. La exposición prenatal temprana al Litio aumenta significativamente el riesgo de Anomalía de Ebstein."
+      },
+      {
+        "text": "C) Ingesta excesiva de alcohol",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Produce defectos septales (CIV/CIA) pero no Ebstein específicamente."
+      },
+      {
+        "text": "D) Infección activa por Citomegalovirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa microcefalia y calcificaciones, no esta malformación cardíaca."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Procedimiento de Rashkind",
+    "text": "En una TGA con septum intacto, ¿qué procedimiento de urgencia es vital?",
+    "hint": "Como los circuitos van en paralelo, hay que crear un agujero entre las aurículas para permitir la mezcla de sangre.",
+    "options": [
+      {
+        "text": "A) Instalación de oclusor Amplatzer",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cerrar una comunicación sería mortal en este caso."
+      },
+      {
+        "text": "B) Septostomía auricular con balón de Rashkind",
+        "isCorrect": true,
+        "explanation": "Correcto. Se desgarra el tabique interauricular con un balón para asegurar la mezcla de sangre y salvar al paciente de la hipoxia extrema."
+      },
+      {
+        "text": "C) Valvuloplastia pulmonar percutánea",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se usa para estenosis pulmonar crítica, no para TGA."
+      },
+      {
+        "text": "D) Ligadura de urgencia del conducto arterioso",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Anularía una de las pocas vías de mezcla, siendo fatal."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Cardiología",
+    "topic": "Endocarditis Infecciosa",
+    "text": "Niño con soplo previo presenta fiebre de 3 semanas, petequias, hematuria y esplenomegalia. ¿Diagnóstico a descartar?",
+    "hint": "La tríada de fiebre prolongada + cardiopatía previa + fenómenos embólicos es clásica.",
+    "options": [
+      {
+        "text": "A) Síndrome Inflamatorio Multisistémico (PIMS)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El PIMS es agudo post-COVID, no suele durar semanas con este curso subagudo."
+      },
+      {
+        "text": "B) Miocarditis viral fulminante",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En la miocarditis predomina la falla cardíaca aguda."
+      },
+      {
+        "text": "C) Endocarditis infecciosa de curso subagudo",
+        "isCorrect": true,
+        "explanation": "Correcto. La siembra bacteriana en un endotelio anómalo causa fiebre prolongada, cambios en soplos y fenómenos inmunológicos/embólicos (petequias, hematuria)."
+      },
+      {
+        "text": "D) Leucemia linfoblástica aguda",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque da fiebre y petequias, el antecedente de soplo y el cuadro clínico hacen obligatoria la sospecha de endocarditis."
+      }
+    ]
+  }
+]
