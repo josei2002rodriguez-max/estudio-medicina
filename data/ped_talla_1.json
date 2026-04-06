@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Definición de Talla Baja",
+    "text": "Un niño de 4 años acude a control sano. Al graficar su estatura, esta se encuentra exactamente en el percentil 2 de la curva de la OMS para su edad y sexo. Su velocidad de crecimiento en el último año fue de 7 cm/año. ¿Cómo se define el estado actual de este paciente? [cite: 4, 5, 6]",
+    "hint": "Considere el punto de corte estadístico para la definición de talla baja en las curvas de crecimiento. [cite: 13]",
+    "options": [
+      {
+        "text": "A) Crecimiento normal.",
+        "isCorrect": false,
+        "explanation": "Sería la correcta si la talla estuviera entre el percentil 3 y 97[cite: 17]. Aunque su velocidad de crecimiento es normal para su etapa (mínimo 4-6 cm/año), su estatura actual bajo el percentil 3 califica como talla baja[cite: 17, 263, 275]."
+      },
+      {
+        "text": "B) Talla baja.",
+        "isCorrect": true,
+        "explanation": "Correcto. La talla baja se define estadísticamente como una estatura por debajo del percentil 3 o a más de 2 desviaciones estándar (-2 DE) por debajo de la media para la edad y el sexo[cite: 14, 15]. Un percentil 2 cumple con este criterio[cite: 15]."
+      },
+      {
+        "text": "C) Retraso del crecimiento.",
+        "isCorrect": false,
+        "explanation": "Este término suele reservarse para la caída de carriles en la curva (pérdida de canalización), no solo para un punto estático bajo como en este caso[cite: 18]."
+      },
+      {
+        "text": "D) Talla baja familiar únicamente.",
+        "isCorrect": false,
+        "explanation": "Esta sería la etiología probable si los padres fueran bajos y la edad ósea fuera igual a la cronológica, pero no es la definición del hallazgo antropométrico inicial[cite: 19]."
+      },
+      {
+        "text": "E) Fracaso del crecimiento (Failure to thrive).",
+        "isCorrect": false,
+        "explanation": "Se refiere principalmente a la falla en la ganancia de peso (desnutrición) que secundariamente afecta la talla, no a la talla baja aislada[cite: 20]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Evaluación del Crecimiento",
+    "text": "¿Cuál es el indicador clínico más sensible y precoz para detectar una patología del crecimiento en un escolar? [cite: 22]",
+    "hint": "Mide el dinamismo del crecimiento en un periodo determinado de tiempo. [cite: 29]",
+    "options": [
+      {
+        "text": "A) La estatura actual en el percentil.",
+        "isCorrect": false,
+        "explanation": "Es una medida estática. Muchos niños con talla baja son variantes normales y niños con talla 'normal' pueden tener una patología en curso que aún no los baja del percentil 3[cite: 33]."
+      },
+      {
+        "text": "B) El cálculo de la Talla Diana (Talla Blanco Familiar).",
+        "isCorrect": false,
+        "explanation": "Es una meta genética teórica, no un indicador de la salud actual del proceso de crecimiento[cite: 34]."
+      },
+      {
+        "text": "C) La Velocidad de Crecimiento (VDC).",
+        "isCorrect": true,
+        "explanation": "Correcto. La VDC es el parámetro más sensible; permite detectar si un niño se aleja de su potencial genético antes de que su talla absoluta caiga bajo el percentil 3[cite: 30, 31]."
+      },
+      {
+        "text": "D) La Edad Ósea.",
+        "isCorrect": false,
+        "explanation": "Ayuda a evaluar el potencial de crecimiento, pero es un examen complementario y no el indicador inicial de sospecha clínica[cite: 35]."
+      },
+      {
+        "text": "E) El Índice de Masa Corporal (IMC).",
+        "isCorrect": false,
+        "explanation": "Evalúa el estado nutricional (relación peso/talla), no la progresión longitudinal de la estatura[cite: 36]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Retraso Constitucional (RCCP)",
+    "text": "Un varón de 14 años consulta por talla baja y ausencia de signos puberales. Al examen: Talla en percentil 1, Tanner 1. El padre refiere que creció tarde y la madre tuvo menarquia a los 16 años. La Edad Ósea es de 11 años. ¿Diagnóstico más probable? [cite: 38, 39, 40]",
+    "hint": "Busque el antecedente familiar de 'maduración tardía' y la edad ósea retrasada. [cite: 47]",
+    "options": [
+      {
+        "text": "A) Talla Baja Familiar.",
+        "isCorrect": false,
+        "explanation": "Requeriría que la Edad Ósea fuera igual a la cronológica y que el niño creciera en su carril genético bajo con pubertad a edad normal[cite: 51]."
+      },
+      {
+        "text": "B) Déficit de Hormona de Crecimiento.",
+        "isCorrect": false,
+        "explanation": "Se sospecharía si la VDC fuera muy baja (< 4 cm/año) con signos como frente prominente o micropene y una curva que se aplana progresivamente[cite: 52, 53]."
+      },
+      {
+        "text": "C) Retraso Constitucional del Crecimiento y la Pubertad (RCCP).",
+        "isCorrect": true,
+        "explanation": "Correcto. Se caracteriza por talla baja, pubertad retrasada, edad ósea significativamente menor que la cronológica (> 2 años) y antecedentes familiares similares[cite: 43, 48, 49]."
+      },
+      {
+        "text": "D) Hipotiroidismo.",
+        "isCorrect": false,
+        "explanation": "Presentaría bocio, estreñimiento, piel seca y una velocidad de crecimiento muy deteriorada[cite: 54]."
+      },
+      {
+        "text": "E) Síndrome de Turner.",
+        "isCorrect": false,
+        "explanation": "Incorrecto por el sexo; el Turner afecta exclusivamente a fenotipos femeninos[cite: 55, 56]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Talla Diana Familiar",
+    "text": "Usted debe calcular la Talla Diana para una niña. El padre mide 175 cm y la madre mide 160 cm. ¿Cuál es el valor correcto? [cite: 58, 59, 60]",
+    "hint": "Para niñas, se deben restar 13 cm a la altura del padre antes de promediar. [cite: 67, 68]",
+    "options": [
+      {
+        "text": "A) 174 cm",
+        "isCorrect": false,
+        "explanation": "Este valor es cercano al cálculo para un varón de esta misma pareja: [(160 + 13) + 175] / 2 = 174 cm[cite: 78, 79]."
+      },
+      {
+        "text": "B) 167.5 cm",
+        "isCorrect": false,
+        "explanation": "Es el promedio simple sin ajuste de sexo, lo cual es un error en el cálculo de talla diana[cite: 73, 74]."
+      },
+      {
+        "text": "C) 161 cm",
+        "isCorrect": true,
+        "explanation": "Correcto. La fórmula para niñas es: [(Talla padre - 13) + Talla madre] / 2. En este caso: [(175 - 13) + 160] / 2 = 161 cm[cite: 69, 70, 71]."
+      },
+      {
+        "text": "D) 154.5 cm",
+        "isCorrect": false,
+        "explanation": "Representa un error de cálculo o la aplicación inversa de la fórmula[cite: 75, 76]."
+      },
+      {
+        "text": "E) 160 cm",
+        "isCorrect": false,
+        "explanation": "Es simplemente la talla de la madre; no integra el potencial genético del padre[cite: 60]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Displasias Esqueléticas",
+    "text": "¿Cuál es la causa más frecuente de Talla Baja Patológica desproporcionada? [cite: 81]",
+    "hint": "El tronco y las extremidades no crecen de forma armónica. [cite: 88]",
+    "options": [
+      {
+        "text": "A) Desnutrición crónica.",
+        "isCorrect": false,
+        "explanation": "Causa talla baja proporcionada, ya que el insulto nutricional afecta a todo el organismo por igual[cite: 91]."
+      },
+      {
+        "text": "B) Displasias esqueléticas (ej. Acondroplasia).",
+        "isCorrect": true,
+        "explanation": "Correcto. Las displasias óseas afectan directamente el crecimiento de huesos largos o columna, rompiendo la relación normal entre segmentos corporales[cite: 83, 89]."
+      },
+      {
+        "text": "C) Hipotiroidismo congénito.",
+        "isCorrect": false,
+        "explanation": "Aunque puede causar un aspecto inmaduro, la desproporción extrema es característica de las displasias óseas primarias[cite: 92]."
+      },
+      {
+        "text": "D) Síndrome de Cushing.",
+        "isCorrect": false,
+        "explanation": "Provoca talla baja proporcionada asociada a obesidad central[cite: 85, 91]."
+      },
+      {
+        "text": "E) Enfermedad Celíaca.",
+        "isCorrect": false,
+        "explanation": "Es una causa de talla baja proporcionada por malabsorción sistémica[cite: 86, 91]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Causas Sistémicas",
+    "text": "Un niño de 5 años con talla baja presenta un IMC en percentil 2 y velocidad de crecimiento disminuida. ¿Qué tipo de causa debe sospecharse prioritariamente? [cite: 93, 94, 95]",
+    "hint": "El peso se afecta antes que la talla en este grupo de enfermedades. [cite: 102]",
+    "options": [
+      {
+        "text": "A) Causa Endocrina (ej. Déficit de GH).",
+        "isCorrect": false,
+        "explanation": "Se sospecharía si el niño tuviera un IMC normal o elevado (niño 'bajo y gordito'); las hormonas no suelen causar desnutrición primaria[cite: 105, 106]."
+      },
+      {
+        "text": "B) Causa Sistémica/Nutricional (ej. Malabsorción).",
+        "isCorrect": true,
+        "explanation": "Correcto. En enfermedades sistémicas (Celiaquía, Cardiopatías, Crohn), el niño primero deja de ganar peso (IMC bajo) y luego frena el crecimiento lineal[cite: 97, 103]."
+      },
+      {
+        "text": "C) Talla Baja Familiar.",
+        "isCorrect": false,
+        "explanation": "Es una variante normal donde el IMC debería ser normal para la estatura del niño[cite: 107]."
+      },
+      {
+        "text": "D) Retraso Constitucional.",
+        "isCorrect": false,
+        "explanation": "Al igual que la TBF, es una variante normal con IMC típicamente adecuado[cite: 107]."
+      },
+      {
+        "text": "E) Exceso de glucocorticoides.",
+        "isCorrect": false,
+        "explanation": "Causa obesidad central con talla baja, no bajo peso o IMC disminuido[cite: 108]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Estudio de Talla Baja en Niñas",
+    "text": "En el estudio inicial de una niña con talla baja sin causa evidente, ¿qué examen genético se recomienda solicitar de forma sistemática? [cite: 109, 110]",
+    "hint": "El Síndrome de Turner puede presentarse solo como talla baja aislada durante años. [cite: 117]",
+    "options": [
+      {
+        "text": "A) Cariotipo.",
+        "isCorrect": true,
+        "explanation": "Correcto. Debido a la alta prevalencia de mosaicismo en el Síndrome de Turner, se recomienda cariotipo en toda niña con talla baja inexplicada[cite: 111, 118]."
+      },
+      {
+        "text": "B) Secuenciación de genoma completo.",
+        "isCorrect": false,
+        "explanation": "Examen excesivo que no es el primer paso; se reserva para síndromes malformativos complejos[cite: 120]."
+      },
+      {
+        "text": "C) Test de sudor.",
+        "isCorrect": false,
+        "explanation": "Se solicita ante sospecha específica de Fibrosis Quística por síntomas respiratorios o digestivos[cite: 121]."
+      },
+      {
+        "text": "D) Biopsia de médula.",
+        "isCorrect": false,
+        "explanation": "No tiene rol en el estudio de talla baja a menos que se sospeche una neoplasia oculta[cite: 122]."
+      },
+      {
+        "text": "E) Niveles de insulina.",
+        "isCorrect": false,
+        "explanation": "No es un examen de screening para la etiología de la talla baja[cite: 115]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Maduración Ósea",
+    "text": "¿A qué edad se considera que la 'Edad Ósea' es una herramienta útil y fiable para predecir la talla adulta? [cite: 123, 124]",
+    "hint": "Los centros de osificación del carpo aparecen de forma secuencial en los primeros años. [cite: 131]",
+    "options": [
+      {
+        "text": "A) Al nacer.",
+        "isCorrect": false,
+        "explanation": "Al nacer solo se observan los núcleos de la rodilla para evaluar madurez fetal, no para predicción de talla[cite: 135]."
+      },
+      {
+        "text": "B) A partir de los 2-3 años.",
+        "isCorrect": true,
+        "explanation": "Correcto. Antes de los 2 años hay mucha variabilidad; a partir de los 2-3 años la correlación con el crecimiento remanente es más estable[cite: 126, 132, 133]."
+      },
+      {
+        "text": "C) Solo después de la menarquia.",
+        "isCorrect": false,
+        "explanation": "A esta edad el crecimiento ya está finalizando, por lo que la utilidad predictiva es menor[cite: 136]."
+      },
+      {
+        "text": "D) A los 18 años.",
+        "isCorrect": false,
+        "explanation": "A esta edad el crecimiento lineal generalmente ya ha cesado por completo[cite: 128]."
+      },
+      {
+        "text": "E) Solo en el periodo neonatal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto; su mayor utilidad clínica es durante la infancia y pubertad[cite: 129]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Pequeño para la Edad Gestacional",
+    "text": "Un lactante de 12 meses tiene talla en percentil 50. Al nacer (38 semanas) pesó 1.500 g (< p3). ¿Cómo se clasifica su evolución? [cite: 138, 139, 140]",
+    "hint": "El niño nació pequeño para la edad gestacional (PEG) pero ya alcanzó el percentil 50. [cite: 147]",
+    "options": [
+      {
+        "text": "A) PEG con recuperación de talla (Catch-up).",
+        "isCorrect": true,
+        "explanation": "Correcto. El 90% de los niños PEG recuperan su canal de crecimiento antes de los 2 años, proceso denominado catch-up[cite: 141, 148]."
+      },
+      {
+        "text": "B) AEG con crecimiento normal.",
+        "isCorrect": false,
+        "explanation": "Falso; un peso de 1.500 g a término es claramente PEG[cite: 153]."
+      },
+      {
+        "text": "C) PEG sin recuperación de talla.",
+        "isCorrect": false,
+        "explanation": "Sería la correcta si a los 12 meses el niño siguiera bajo el percentil 3[cite: 151]."
+      },
+      {
+        "text": "D) Talla baja persistente.",
+        "isCorrect": false,
+        "explanation": "No aplica, ya que el paciente alcanzó el percentil 50[cite: 138, 144]."
+      },
+      {
+        "text": "E) Gigantismo.",
+        "isCorrect": false,
+        "explanation": "Crecimiento excesivo que no se describe en este caso clínico[cite: 145]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Screening de Talla Baja",
+    "text": "¿Cuál de los siguientes exámenes forma parte del 'Screening Mínimo' para estudiar una talla baja patológica en APS? [cite: 154, 155]",
+    "hint": "El objetivo es descartar causas sistémicas comunes (Anemia, IRC, Celiaquía, Hipotiroidismo). [cite: 162]",
+    "options": [
+      {
+        "text": "A) Hemograma, VHS, Creatinina, Electrolitos, Orina completa, Anticuerpos Antitransglutaminasa y TSH/T4L.",
+        "isCorrect": true,
+        "explanation": "Correcto. Antes de pensar en déficits hormonales raros, se deben descartar patologías orgánicas frecuentes con este panel básico[cite: 156, 163, 164]."
+      },
+      {
+        "text": "B) Resonancia Magnética de Silla Turca.",
+        "isCorrect": false,
+        "explanation": "Es un examen de segundo o tercer nivel realizado por especialidad ante sospecha de patología hipofisaria[cite: 157, 166]."
+      },
+      {
+        "text": "C) Test de estímulo con Clonidina para GH.",
+        "isCorrect": false,
+        "explanation": "Prueba de especialidad que se realiza solo cuando el screening básico es normal y la VDC es baja[cite: 158, 166]."
+      },
+      {
+        "text": "D) Niveles de IGF-1 únicamente.",
+        "isCorrect": false,
+        "explanation": "Niveles bajos pueden deberse a desnutrición, no solo a déficit de GH; no es suficiente como screening único[cite: 167]."
+      },
+      {
+        "text": "E) Radiografía de columna total.",
+        "isCorrect": false,
+        "explanation": "No es parte del screening metabólico/sistémico inicial de talla baja[cite: 160]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Talla Baja Familiar",
+    "text": "En la Talla Baja Familiar (TBF), ¿cómo se encuentra habitualmente la relación entre la Edad Ósea y la Edad Cronológica? [cite: 168, 169]",
+    "hint": "El niño está creciendo a su ritmo genético, no hay un retraso en la maduración. [cite: 179]",
+    "options": [
+      {
+        "text": "A) EO < EC (Retraso significativo).",
+        "isCorrect": false,
+        "explanation": "Esta es la característica del Retraso Constitucional (RCCP) o de causas patológicas endocrinas[cite: 184]."
+      },
+      {
+        "text": "B) EO = EC (Acorde a la edad).",
+        "isCorrect": true,
+        "explanation": "Correcto. En la TBF el potencial genético es menor, pero el ritmo de maduración es normal; la talla adulta coincide con la talla diana[cite: 173, 180, 181]."
+      },
+      {
+        "text": "C) EO > EC (Adelantada).",
+        "isCorrect": false,
+        "explanation": "Ocurre en la Pubertad Precoz o la obesidad, pudiendo llevar a talla baja final por cierre temprano de fisis[cite: 185]."
+      },
+      {
+        "text": "D) No se puede medir en TBF.",
+        "isCorrect": false,
+        "explanation": "La edad ósea es medible y fundamental en el diagnóstico diferencial de la TBF[cite: 176]."
+      },
+      {
+        "text": "E) La EO siempre es de 12 años.",
+        "isCorrect": false,
+        "explanation": "Valor arbitrario sin fundamento clínico[cite: 177]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Déficit de Hormona de Crecimiento",
+    "text": "Un niño de 3 años presenta talla baja, cara de 'muñeca' (frente prominente), voz aguda y hipoglicemia en ayunas. ¿Qué déficit sospecha? [cite: 186, 187, 188]",
+    "hint": "El fenotipo facial y la hipoglicemia son claves en el déficit congénito de esta hormona. [cite: 195]",
+    "options": [
+      {
+        "text": "A) Déficit de Hormona de Crecimiento (GH).",
+        "isCorrect": true,
+        "explanation": "Correcto. La GH es contrarreguladora (su ausencia favorece hipoglicemia) y su déficit causa facies inmadura de 'muñeca'[cite: 189, 196, 197]."
+      },
+      {
+        "text": "B) Hipotiroidismo.",
+        "isCorrect": false,
+        "explanation": "No causa hipoglicemia característica; el fenotipo incluye rasgos toscos y macroglosia[cite: 199]."
+      },
+      {
+        "text": "C) Diabetes Mellitus.",
+        "isCorrect": false,
+        "explanation": "Cursa con hiperglicemia, no con hipoglicemias en ayunas espontáneas[cite: 191]."
+      },
+      {
+        "text": "D) Exceso de Cortisol.",
+        "isCorrect": false,
+        "explanation": "Provoca facies de 'luna llena' (redonda y roja) e hiperglicemia[cite: 200]."
+      },
+      {
+        "text": "E) Déficit de Vitamina D.",
+        "isCorrect": false,
+        "explanation": "Asociado a raquitismo óseo, no al fenotipo facial descrito[cite: 193]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Síndrome de Cushing",
+    "text": "¿Cuál es la causa de talla baja en el Síndrome de Cushing pediátrico? [cite: 201, 202]",
+    "hint": "El cortisol en dosis supra-fisiológicas es un potente inhibidor del condrocito. [cite: 209]",
+    "options": [
+      {
+        "text": "A) El exceso de glucocorticoides inhibe la placa de crecimiento y la secreción de GH.",
+        "isCorrect": true,
+        "explanation": "Correcto. El Cushing en niños combina aumento de peso rápido con detención del crecimiento lineal[cite: 203, 210, 211]."
+      },
+      {
+        "text": "B) La falta de apetito.",
+        "isCorrect": false,
+        "explanation": "Falso; el Síndrome de Cushing aumenta característicamente el apetito[cite: 213]."
+      },
+      {
+        "text": "C) La pérdida de calcio por la orina.",
+        "isCorrect": false,
+        "explanation": "Aunque hay alteraciones minerales, el mecanismo primordial de talla baja es la inhibición directa del crecimiento[cite: 205, 209]."
+      },
+      {
+        "text": "D) La destrucción de la glándula tiroides.",
+        "isCorrect": false,
+        "explanation": "No es un mecanismo propio del exceso de cortisol[cite: 206]."
+      },
+      {
+        "text": "E) No causa talla baja, solo obesidad.",
+        "isCorrect": false,
+        "explanation": "En niños, el impacto en la talla es el signo clínico más fiel de la patología[cite: 214]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipopituitarismo Neonatal",
+    "text": "¿Qué hallazgo en un recién nacido varón debe hacer sospechar un hipopituitarismo? [cite: 215, 216]",
+    "hint": "La GH y gonadotrofinas son necesarias para el desarrollo genital fetal y función hepática neonatal. [cite: 223]",
+    "options": [
+      {
+        "text": "A) Ictericia neonatal prolongada y micropene.",
+        "isCorrect": true,
+        "explanation": "Correcto. El micropene refleja déficit hormonal in utero y la ictericia se debe a colestasis por falta de hormonas tróficas[cite: 217, 224, 225]."
+      },
+      {
+        "text": "B) Polidactilia.",
+        "isCorrect": false,
+        "explanation": "Es una malformación estructural no vinculada típicamente al déficit de GH[cite: 218]."
+      },
+      {
+        "text": "C) Manchas café con leche.",
+        "isCorrect": false,
+        "explanation": "Sugieren patologías como Neurofibromatosis o Síndrome de McCune-Albright[cite: 228]."
+      },
+      {
+        "text": "D) Pie Bot.",
+        "isCorrect": false,
+        "explanation": "Malformación ortopédica posicional o congénita aislada[cite: 220]."
+      },
+      {
+        "text": "E) Hipertonía.",
+        "isCorrect": false,
+        "explanation": "Los niños con hipopituitarismo suelen presentarse con hipotonía[cite: 229]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Enfermedad Celíaca",
+    "text": "En la Enfermedad Celíaca, ¿qué examen solicitaría para el tamizaje inicial de talla baja? [cite: 230, 231, 232]",
+    "hint": "Es fundamental medir la IgA total para descartar falsos negativos comunes. [cite: 239]",
+    "options": [
+      {
+        "text": "A) Anticuerpos Anti-Transglutaminasa tisular IgA y niveles de IgA total.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el screening de elección por su alta sensibilidad. Si es positivo, se procede a biopsia de duodeno[cite: 233, 240, 241]."
+      },
+      {
+        "text": "B) Colonoscopía.",
+        "isCorrect": false,
+        "explanation": "Inútil para celiaquía; la enfermedad afecta predominantemente al intestino delgado proximal[cite: 243]."
+      },
+      {
+        "text": "C) Test de aire espirado.",
+        "isCorrect": false,
+        "explanation": "Se utiliza para diagnosticar intolerancia a la lactosa o sobrecrecimiento bacteriano[cite: 244]."
+      },
+      {
+        "text": "D) Ecografía abdominal.",
+        "isCorrect": false,
+        "explanation": "No permite visualizar los cambios histológicos de la mucosa necesarios para el diagnóstico[cite: 236]."
+      },
+      {
+        "text": "E) Biopsia de piel.",
+        "isCorrect": false,
+        "explanation": "Solo se indica ante sospecha de dermatitis herpetiforme, no para estudio de talla baja[cite: 237]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Diagnóstico de TBF",
+    "text": "Un escolar tiene EO=8 años y EC=8 años. Los padres miden 150 cm y 162 cm. Su VDC es de 5 cm/año. ¿Diagnóstico? [cite: 245, 246, 247, 248, 249, 250]",
+    "hint": "EO = EC + Padres bajos + VDC normal = Variante normal familiar. [cite: 257, 258]",
+    "options": [
+      {
+        "text": "A) Talla Baja Familiar.",
+        "isCorrect": true,
+        "explanation": "Correcto. El niño crece según su potencial genético con una maduración esquelética acorde a su edad[cite: 251, 259]."
+      },
+      {
+        "text": "B) Retraso Constitucional.",
+        "isCorrect": false,
+        "explanation": "Requeriría una Edad Ósea retrasada respecto a la cronológica[cite: 261]."
+      },
+      {
+        "text": "C) Déficit de GH.",
+        "isCorrect": false,
+        "explanation": "La VDC de 5 cm/año es normal para un escolar; en el déficit de GH suele estar deteriorada[cite: 253]."
+      },
+      {
+        "text": "D) Acondroplasia.",
+        "isCorrect": false,
+        "explanation": "Cursaría con una desproporción física evidente y VDC alterada[cite: 254]."
+      },
+      {
+        "text": "E) Síndrome de Noonan.",
+        "isCorrect": false,
+        "explanation": "Presentaría rasgos fenotípicos específicos (cuello alado, tórax en escudo)[cite: 255]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Velocidad de Crecimiento Normal",
+    "text": "¿Cuál es la VDC mínima esperada para un niño de entre 4 años y el inicio de la pubertad? [cite: 262, 263]",
+    "hint": "Es el periodo de crecimiento más estable de la vida (fase infantil). [cite: 274]",
+    "options": [
+      {
+        "text": "A) 2 cm/año",
+        "isCorrect": false,
+        "explanation": "Valor patológico que obliga a estudio etiológico inmediato[cite: 265, 276]."
+      },
+      {
+        "text": "B) 4 - 6 cm/año",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el rango de normalidad para la etapa prepuberal; menos de 4 cm/año se considera patológico[cite: 267, 275, 276]."
+      },
+      {
+        "text": "C) 10 cm/año",
+        "isCorrect": false,
+        "explanation": "Corresponde habitualmente a la velocidad alcanzada durante el estirón puberal[cite: 279]."
+      },
+      {
+        "text": "D) 20 cm/año",
+        "isCorrect": false,
+        "explanation": "Velocidad típica del primer año de vida, no de la etapa escolar[cite: 281]."
+      },
+      {
+        "text": "E) No crecen en esa etapa.",
+        "isCorrect": false,
+        "explanation": "Falso; el crecimiento es continuo aunque más lento que en lactantes[cite: 272]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Acidosis Tubular Renal",
+    "text": "Un niño con talla baja presenta poliuria y polidipsia. Usted sospecha ATR. ¿Qué hallazgo apoya esto? [cite: 282, 283, 284]",
+    "hint": "La ATR es una causa sistémica de talla baja por pérdida crónica de bicarbonato. [cite: 292]",
+    "options": [
+      {
+        "text": "A) Acidosis metabólica con Anion Gap normal e hipopotasemia.",
+        "isCorrect": true,
+        "explanation": "Correcto. La acidosis crónica inhibe la acción de la GH en el cartílago; la ATR es una causa clásica de falla de medro[cite: 285, 293, 294]."
+      },
+      {
+        "text": "B) Glicemia de 300 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Sugeriría Diabetes Mellitus, que causa poliuria pero no la acidosis metabólica hiperclorémica propia de la ATR[cite: 296]."
+      },
+      {
+        "text": "C) Proteinuria masiva.",
+        "isCorrect": false,
+        "explanation": "Hallazgo típico de Síndrome Nefrótico, no de ATR pura[cite: 288]."
+      },
+      {
+        "text": "D) Hematuria franca.",
+        "isCorrect": false,
+        "explanation": "Indica daño glomerular o de vía urinaria, ajeno a la ATR[cite: 289]."
+      },
+      {
+        "text": "E) Orina muy concentrada.",
+        "isCorrect": false,
+        "explanation": "La ATR suele presentar incapacidad para concentrar adecuadamente la orina[cite: 290]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Tratamiento con GH",
+    "text": "¿Cuál es una indicación aprobada en Chile para el tratamiento con GH? [cite: 297, 298]",
+    "hint": "La GH se indica para condiciones médicas específicas donde hay déficit real o resistencia. [cite: 305]",
+    "options": [
+      {
+        "text": "A) Todos los niños bajo el percentil 3.",
+        "isCorrect": false,
+        "explanation": "No todos los niños bajos califican; se deben descartar primero variantes normales y patologías sistémicas[cite: 299, 308]."
+      },
+      {
+        "text": "B) Síndrome de Turner, PEG sin recuperación a los 4 años e IRC.",
+        "isCorrect": true,
+        "explanation": "Correcto. Estas condiciones tienen protocolos claros de beneficio con terapia de reemplazo o farmacológica[cite: 300, 306]."
+      },
+      {
+        "text": "C) Niños con TBF para que sean deportistas.",
+        "isCorrect": false,
+        "explanation": "No es una indicación médica aceptada; el uso en talla baja idiopática es muy controvertido[cite: 301, 308]."
+      },
+      {
+        "text": "D) Obesidad infantil.",
+        "isCorrect": false,
+        "explanation": "La obesidad suele acelerar la edad ósea inicialmente, no es indicación de GH[cite: 302]."
+      },
+      {
+        "text": "E) Solo en adultos con osteoporosis.",
+        "isCorrect": false,
+        "explanation": "Uso incorrecto; en adultos se usa ante déficit severo confirmado de GH[cite: 303]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Signo de Risser",
+    "text": "¿Qué es el 'Signo de Risser' y para qué sirve? [cite: 309, 310]",
+    "hint": "Fundamental para predecir el crecimiento remanente en la columna. [cite: 317]",
+    "options": [
+      {
+        "text": "A) Evalúa la madurez esquelética a través de la osificación de la cresta ilíaca.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se puntúa de 0 (mucho crecimiento) a 5 (fusión total y fin del crecimiento)[cite: 311, 318, 319]."
+      },
+      {
+        "text": "B) Mide la fuerza de los músculos.",
+        "isCorrect": false,
+        "explanation": "No evalúa parámetros neuromusculares[cite: 312]."
+      },
+      {
+        "text": "C) Detecta la sordera.",
+        "isCorrect": false,
+        "explanation": "Prueba ortopédico-radiológica, no auditiva[cite: 313]."
+      },
+      {
+        "text": "D) Es un examen de sangre.",
+        "isCorrect": false,
+        "explanation": "Se determina mediante radiografía de pelvis[cite: 314]."
+      },
+      {
+        "text": "E) Evalúa el tamaño del corazón.",
+        "isCorrect": false,
+        "explanation": "Sin relación con parámetros cardiovasculares[cite: 315]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo Adquirido",
+    "text": "Un niño de 8 años con talla baja presenta bocio palpable y leve retraso escolar. ¿Examen confirmatorio? [cite: 320, 321, 322]",
+    "hint": "Sospeche Hipotiroidismo Adquirido (Hashimoto). [cite: 329]",
+    "options": [
+      {
+        "text": "A) Niveles de TSH y T4 libre.",
+        "isCorrect": true,
+        "explanation": "Correcto. El hipotiroidismo es una causa tratable de detención del crecimiento; la TSH estará elevada[cite: 323, 330, 331]."
+      },
+      {
+        "text": "B) Radiografía de tórax.",
+        "isCorrect": false,
+        "explanation": "No aporta información diagnóstica sobre la función tiroidea o bocio[cite: 324]."
+      },
+      {
+        "text": "C) Ecografía de abdomen.",
+        "isCorrect": false,
+        "explanation": "No es útil para el estudio del retraso del crecimiento de origen endocrino tiroideo[cite: 325]."
+      },
+      {
+        "text": "D) Niveles de Cortisol.",
+        "isCorrect": false,
+        "explanation": "Se pediría ante sospecha de Cushing o insuficiencia adrenal, no bocio[cite: 326]."
+      },
+      {
+        "text": "E) Test de esfuerzo.",
+        "isCorrect": false,
+        "explanation": "Sin rol en la evaluación inicial de talla baja con bocio[cite: 327]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Variantes Normales",
+    "text": "¿Qué característica sugiere una Talla Baja Genética/Familiar? [cite: 332, 333]",
+    "hint": "La armonía y constancia de la curva sugieren un proceso fisiológico. [cite: 340]",
+    "options": [
+      {
+        "text": "A) El niño siempre ha crecido paralelo al percentil 3, con VDC normal.",
+        "isCorrect": true,
+        "explanation": "Correcto. El crecimiento 'en su carril' es signo de salud del proceso, independientemente del percentil absoluto[cite: 334, 341]."
+      },
+      {
+        "text": "B) El niño cruzó 2 carriles hacia abajo súbitamente.",
+        "isCorrect": false,
+        "explanation": "Es un signo de alarma de talla baja patológica (caída de carril)[cite: 335]."
+      },
+      {
+        "text": "C) La curva es plana desde los 2 años.",
+        "isCorrect": false,
+        "explanation": "Indica detención del crecimiento, propia de patologías severas como hipotiroidismo o tumores[cite: 336]."
+      },
+      {
+        "text": "D) El niño crece 15 cm por año.",
+        "isCorrect": false,
+        "explanation": "Indica un crecimiento excesivo o estirón puberal muy precoz[cite: 337]."
+      },
+      {
+        "text": "E) La curva sube y baja erráticamente.",
+        "isCorrect": false,
+        "explanation": "Sugeriría errores de medición antropométrica[cite: 338]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Proporciones Corporales",
+    "text": "Un niño con talla baja presenta una brazada mayor que su estatura. ¿Qué sospecharía? [cite: 342, 343, 344]",
+    "hint": "Evalúe la proporción de los segmentos. [cite: 351]",
+    "options": [
+      {
+        "text": "A) Síndrome de Marfán.",
+        "isCorrect": true,
+        "explanation": "Correcto. En el Marfán hay crecimiento excesivo de huesos largos; la desproporción orienta a patologías del tejido conectivo[cite: 345, 352, 353]."
+      },
+      {
+        "text": "B) Hipotiroidismo.",
+        "isCorrect": false,
+        "explanation": "Suele mantener proporciones inmaduras pero no el exceso de extremidades propio del Marfán[cite: 346]."
+      },
+      {
+        "text": "C) Acondroplasia.",
+        "isCorrect": false,
+        "explanation": "Cursa con acortamiento proximal (rizomelia), dando una brazada mucho menor que la talla[cite: 347]."
+      },
+      {
+        "text": "D) Raquitismo.",
+        "isCorrect": false,
+        "explanation": "Produce deformidades en incurvación pero no el hábito marfanoide[cite: 348]."
+      },
+      {
+        "text": "E) Obesidad.",
+        "isCorrect": false,
+        "explanation": "No altera característicamente la relación talla/brazada de esta forma[cite: 349]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Insuficiencia Renal Crónica",
+    "text": "¿Cuál es la causa de Talla Baja en un niño con IRC? [cite: 354, 355]",
+    "hint": "El ambiente urémico es tóxico para la placa de crecimiento. [cite: 362]",
+    "options": [
+      {
+        "text": "A) Resistencia periférica a GH e IGF-1, además de acidosis y anemia.",
+        "isCorrect": true,
+        "explanation": "Correcto. La IRC es indicación de tratamiento con GH para vencer esta resistencia incluso con niveles hormonales normales[cite: 356, 363]."
+      },
+      {
+        "text": "B) Que no come carne.",
+        "isCorrect": false,
+        "explanation": "La restricción proteica puede influir, pero el mecanismo fisiopatológico es la resistencia hormonal urémica[cite: 357]."
+      },
+      {
+        "text": "C) El uso de paracetamol.",
+        "isCorrect": false,
+        "explanation": "No tiene efecto conocido sobre el crecimiento longitudinal[cite: 358]."
+      },
+      {
+        "text": "D) La falta de sueño.",
+        "isCorrect": false,
+        "explanation": "Inespecífico; no es el pilar de la talla baja en la enfermedad renal[cite: 359]."
+      },
+      {
+        "text": "E) El exceso de ejercicio.",
+        "isCorrect": false,
+        "explanation": "El ejercicio suele ser limitado por la anemia de la IRC, no es la causa de la talla baja[cite: 360]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Nutrientes y Crecimiento",
+    "text": "¿Qué déficit vitamínico causa detención del crecimiento y Escorbuto? [cite: 364, 365]",
+    "hint": "Es necesaria para la hidroxilación de la prolina en la síntesis de colágeno. [cite: 372]",
+    "options": [
+      {
+        "text": "A) Vitamina C.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es esencial para la síntesis de colágeno en la placa de crecimiento; su déficit severo daña la matriz ósea[cite: 366, 373]."
+      },
+      {
+        "text": "B) Vitamina A.",
+        "isCorrect": false,
+        "explanation": "Su déficit causa xeroftalmia, no es la causa del escorbuto[cite: 367]."
+      },
+      {
+        "text": "C) Hierro.",
+        "isCorrect": false,
+        "explanation": "Causa anemia ferropénica y puede afectar el desarrollo, pero no causa escorbuto[cite: 368]."
+      },
+      {
+        "text": "D) Calcio.",
+        "isCorrect": false,
+        "explanation": "Asociado a raquitismo y osteomalacia[cite: 369]."
+      },
+      {
+        "text": "E) Magnesio.",
+        "isCorrect": false,
+        "explanation": "Cofactor importante pero no vinculado a la clínica del escorbuto[cite: 370]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Cierre de Epífisis",
+    "text": "¿Qué indica un 'Cierre Precoz de las Epífisis'? [cite: 374, 375]",
+    "hint": "El cartílago se ha transformado totalmente en hueso. [cite: 382]",
+    "options": [
+      {
+        "text": "A) Que al niño ya no le queda potencial de crecimiento lineal.",
+        "isCorrect": true,
+        "explanation": "Correcto. Una vez que la fisis se cierra, ninguna terapia puede aumentar la estatura del paciente[cite: 376, 383]."
+      },
+      {
+        "text": "B) Que el niño va a ser gigante.",
+        "isCorrect": false,
+        "explanation": "Falso; indica precisamente el fin del crecimiento[cite: 377]."
+      },
+      {
+        "text": "C) Que tiene falta de calcio.",
+        "isCorrect": false,
+        "explanation": "No es signo de hipocalcemia[cite: 378]."
+      },
+      {
+        "text": "D) Que necesita más vitaminas.",
+        "isCorrect": false,
+        "explanation": "Es un proceso fisiológico o patológico irreversible, no carencial simple[cite: 379]."
+      },
+      {
+        "text": "E) Que el hueso está roto.",
+        "isCorrect": false,
+        "explanation": "No se refiere a una fractura, sino a la osificación del cartílago de crecimiento[cite: 380]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Enanismo Psicosocial",
+    "text": "¿Cuál es el efecto de la deprivación psicosocial severa en el crecimiento? [cite: 384, 385]",
+    "hint": "El estrés crónico altera el eje hipotálamo-hipofisario. [cite: 392]",
+    "options": [
+      {
+        "text": "A) Provoca un hipopituitarismo funcional reversible.",
+        "isCorrect": true,
+        "explanation": "Correcto. El ambiente hostil frena el eje de GH; es reversible al cambiar al niño a un ambiente afectivo sano[cite: 386, 393]."
+      },
+      {
+        "text": "B) No afecta el crecimiento.",
+        "isCorrect": false,
+        "explanation": "Falso; el crecimiento es muy sensible al bienestar psicosocial del niño[cite: 387]."
+      },
+      {
+        "text": "C) Hace que el niño crezca más rápido por el estrés.",
+        "isCorrect": false,
+        "explanation": "El cortisol del estrés crónico es inhibidor del crecimiento[cite: 388]."
+      },
+      {
+        "text": "D) Solo afecta el peso.",
+        "isCorrect": false,
+        "explanation": "Afecta tanto el peso como la talla de forma severa[cite: 389]."
+      },
+      {
+        "text": "E) Causa macrocefalia.",
+        "isCorrect": false,
+        "explanation": "No existe tal asociación[cite: 390]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Predicción de Talla",
+    "text": "¿Qué es el 'Método de Bayley-Pinneau'? [cite: 394, 395]",
+    "hint": "Se usa junto con el atlas de Greulich y Pyle. [cite: 402]",
+    "options": [
+      {
+        "text": "A) Un método para calcular la predicción de talla adulta basado en la Edad Ósea.",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite estimar cuánto medirá el niño al final del desarrollo integrando su madurez esquelética actual[cite: 396, 403]."
+      },
+      {
+        "text": "B) Una técnica de cirugía.",
+        "isCorrect": false,
+        "explanation": "Es un método de cálculo antropométrico/radiológico[cite: 397]."
+      },
+      {
+        "text": "C) Una dieta para bajar de peso.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con nutrición dietética[cite: 398]."
+      },
+      {
+        "text": "D) Un test de inteligencia.",
+        "isCorrect": false,
+        "explanation": "Prueba de maduración ósea, no cognitiva[cite: 399]."
+      },
+      {
+        "text": "E) Una vacuna.",
+        "isCorrect": false,
+        "explanation": "Distractor irrelevante[cite: 400]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Síndrome de McCune-Albright",
+    "text": "Niño con talla baja, manchas café con leche de bordes irregulares y displasia fibrosa. ¿Diagnóstico? [cite: 404, 405, 406]",
+    "hint": "Se asocia a pubertad precoz periférica que luego causa talla baja final. [cite: 413]",
+    "options": [
+      {
+        "text": "A) Síndrome de McCune-Albright.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una mutación en la proteína G que activa múltiples ejes hormonales de forma autónoma[cite: 407, 414]."
+      },
+      {
+        "text": "B) Neurofibromatosis.",
+        "isCorrect": false,
+        "explanation": "Las manchas de la NF tienen bordes regulares ('costa de California'), no irregulares[cite: 408]."
+      },
+      {
+        "text": "C) Síndrome de Down.",
+        "isCorrect": false,
+        "explanation": "No se asocia característicamente con manchas pigmentadas ni displasia fibrosa[cite: 409]."
+      },
+      {
+        "text": "D) Síndrome de West.",
+        "isCorrect": false,
+        "explanation": "Es una encefalopatía epiléptica del lactante[cite: 410]."
+      },
+      {
+        "text": "E) Raquitismo.",
+        "isCorrect": false,
+        "explanation": "Produce deformidades óseas pero no las manchas cutáneas descritas[cite: 411]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Examen Físico - Brazada",
+    "text": "¿Cuál es la importancia de la 'Brazada' en la talla baja? [cite: 415, 416]",
+    "hint": "Normalmente la brazada es igual a la talla (+/- 2 cm). [cite: 423, 424]",
+    "options": [
+      {
+        "text": "A) Ayuda a diferenciar si la talla baja es proporcionada o desproporcionada.",
+        "isCorrect": true,
+        "explanation": "Correcto. Una brazada mucho menor sugiere displasias óseas de extremidades (rizomelia)[cite: 417, 425]."
+      },
+      {
+        "text": "B) Mide la fuerza del niño.",
+        "isCorrect": false,
+        "explanation": "Es una medida antropométrica de longitud, no de dinamometría[cite: 418]."
+      },
+      {
+        "text": "C) No sirve para nada.",
+        "isCorrect": false,
+        "explanation": "Falso; es un pilar fundamental del examen físico en crecimiento[cite: 419]."
+      },
+      {
+        "text": "D) Evalúa la audición.",
+        "isCorrect": false,
+        "explanation": "Sin relación con el sistema auditivo[cite: 420]."
+      },
+      {
+        "text": "E) Mide el tamaño de los pulmones.",
+        "isCorrect": false,
+        "explanation": "No correlaciona con la capacidad vital pulmonar[cite: 421]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Síndrome de Prader-Willi",
+    "text": "Preescolar con talla baja y peso muy elevado para su estatura. ¿Causa más probable? [cite: 426, 427, 428]",
+    "hint": "Se asocia a hipotonía neonatal y polifagia extrema posterior. [cite: 435]",
+    "options": [
+      {
+        "text": "A) Síndrome de Prader-Willi.",
+        "isCorrect": true,
+        "explanation": "Correcto. Síndrome genético clásico que cursa con obesidad, talla baja y discapacidad intelectual[cite: 429, 436]."
+      },
+      {
+        "text": "B) Enfermedad Celíaca.",
+        "isCorrect": false,
+        "explanation": "Suele cursar con bajo peso por malabsorción[cite: 430]."
+      },
+      {
+        "text": "C) Fibrosis Quística.",
+        "isCorrect": false,
+        "explanation": "Al igual que la celiaquía, se asocia a desnutrición por insuficiencia pancreática[cite: 431]."
+      },
+      {
+        "text": "D) Desnutrición.",
+        "isCorrect": false,
+        "explanation": "Causa peso bajo para la talla[cite: 432]."
+      },
+      {
+        "text": "E) Hipertiroidismo.",
+        "isCorrect": false,
+        "explanation": "Produce pérdida de peso y crecimiento acelerado (talla alta inicial)[cite: 433]."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "IGF-1 (Somatomedina C)",
+    "text": "¿Qué hormona es la responsable directa del crecimiento óseo en respuesta a la GH? [cite: 437, 438]",
+    "hint": "Sus niveles son más estables en sangre que los de la GH. [cite: 445]",
+    "options": [
+      {
+        "text": "A) IGF-1 (Somatomedina C).",
+        "isCorrect": true,
+        "explanation": "Correcto. La mayoría de los efectos promotores del crecimiento de la GH son mediados por la IGF-1 producida en el hígado[cite: 439, 446]."
+      },
+      {
+        "text": "B) Insulina.",
+        "isCorrect": false,
+        "explanation": "Es anabólica pero su rol principal es metabólico, no de elongación ósea directa[cite: 440]."
+      },
+      {
+        "text": "C) Adrenalina.",
+        "isCorrect": false,
+        "explanation": "Hormona del estrés agudo[cite: 441]."
+      },
+      {
+        "text": "D) Glucagón.",
+        "isCorrect": false,
+        "explanation": "Hormona hiperglicemiante[cite: 442]."
+      },
+      {
+        "text": "E) Oxitocina.",
+        "isCorrect": false,
+        "explanation": "Relacionada con el parto y lactancia[cite: 443]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Silla Turca Vacía",
+    "text": "¿Conducta ante hallazgo de 'Silla Turca Vacía' en RM de un niño con VDC baja? [cite: 447, 448]",
+    "hint": "Indica una malformación o destrucción de la glándula hipófisis. [cite: 455]",
+    "options": [
+      {
+        "text": "A) Confirmar el diagnóstico de déficit de GH y evaluar otros ejes. [cite: 449]",
+        "isCorrect": true,
+        "explanation": "Correcto. Requiere manejo por endocrinólogo infantil de por vida para sustituir las hormonas faltantes[cite: 449, 456]."
+      },
+      {
+        "text": "B) Es un hallazgo normal siempre.",
+        "isCorrect": false,
+        "explanation": "En un niño con retraso del crecimiento, es un hallazgo patológico definitorio[cite: 450]."
+      },
+      {
+        "text": "C) Dar antibióticos.",
+        "isCorrect": false,
+        "explanation": "No es un proceso infeccioso[cite: 451]."
+      },
+      {
+        "text": "D) Realizar cirugía de urgencia.",
+        "isCorrect": false,
+        "explanation": "No requiere intervención quirúrgica, sino reemplazo hormonal médico[cite: 452]."
+      },
+      {
+        "text": "E) No hacer nada.",
+        "isCorrect": false,
+        "explanation": "Dejaría al niño con panhipopituitarismo sin tratamiento, lo cual es grave[cite: 453]."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Rizomelia",
+    "text": "¿A qué se refiere el término 'Rizomelia'? [cite: 457, 458]",
+    "hint": "'Rizo' viene de raíz. [cite: 465]",
+    "options": [
+      {
+        "text": "A) Acortamiento del segmento proximal de las extremidades (fémur/húmero).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la desproporción característica del enanismo más común como la acondroplasia[cite: 459, 466]."
+      },
+      {
+        "text": "B) Dedos muy largos.",
+        "isCorrect": false,
+        "explanation": "Se denomina aracnodactilia[cite: 460]."
+      },
+      {
+        "text": "C) Cabeza pequeña.",
+        "isCorrect": false,
+        "explanation": "Se denomina microcefalia[cite: 461]."
+      },
+      {
+        "text": "D) Manchas en la piel.",
+        "isCorrect": false,
+        "explanation": "No es un término dermatológico[cite: 462]."
+      },
+      {
+        "text": "E) Falta de dientes.",
+        "isCorrect": false,
+        "explanation": "Se denomina edentulismo o agenesia dental[cite: 463]."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Diabetes Insípida",
+    "text": "¿Qué examen de orina permite descartar Diabetes Insípida en un niño con retraso de talla? [cite: 467, 468]",
+    "hint": "El riñón no puede concentrar la orina por falta de ADH. [cite: 475]",
+    "options": [
+      {
+        "text": "A) Densidad y Osmolaridad urinaria (estarán bajas).",
+        "isCorrect": true,
+        "explanation": "Correcto. La diabetes insípida central puede ser parte de un panhipopituitarismo que cause talla baja[cite: 469, 476]."
+      },
+      {
+        "text": "B) Sedimento urinario.",
+        "isCorrect": false,
+        "explanation": "Evalúa células y cristales, no la capacidad de concentración[cite: 470]."
+      },
+      {
+        "text": "C) Cultivo de orina.",
+        "isCorrect": false,
+        "explanation": "Para infecciones urinarias[cite: 471]."
+      },
+      {
+        "text": "D) Glucosuria.",
+        "isCorrect": false,
+        "explanation": "Para Diabetes Mellitus[cite: 472]."
+      },
+      {
+        "text": "E) Proteinuria.",
+        "isCorrect": false,
+        "explanation": "Marcador de daño renal glomerular[cite: 473]."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Corticoides y Crecimiento",
+    "text": "¿Efecto del tratamiento prolongado con Corticoides inhalados a dosis altas? [cite: 477, 478]",
+    "hint": "Aunque son seguros, a dosis altas tienen absorción sistémica. [cite: 485]",
+    "options": [
+      {
+        "text": "A) Puede causar reducción discreta de la talla final o retraso transitorio de VDC.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe usar siempre la dosis mínima eficaz para evitar este efecto secundario sistémico[cite: 479, 486]."
+      },
+      {
+        "text": "B) No tiene ningún efecto.",
+        "isCorrect": false,
+        "explanation": "Falso; existe riesgo potencial con dosis supra-terapéuticas crónicas[cite: 480]."
+      },
+      {
+        "text": "C) Hace que el niño crezca 10 cm más.",
+        "isCorrect": false,
+        "explanation": "Efecto opuesto al real[cite: 481]."
+      },
+      {
+        "text": "D) Provoca sordera.",
+        "isCorrect": false,
+        "explanation": "Sin toxicidad auditiva demostrada[cite: 482]."
+      },
+      {
+        "text": "E) Cura la diabetes.",
+        "isCorrect": false,
+        "explanation": "Los corticoides suelen ser hiperglicemiantes[cite: 483]."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Síndrome de Down",
+    "text": "¿Cuál es la causa de talla baja en el Síndrome de Down? [cite: 487, 488]",
+    "hint": "Es una condición multifactorial en este grupo. [cite: 495]",
+    "options": [
+      {
+        "text": "A) Fenotipo genético propio sumado al riesgo de hipotiroidismo y celiaquía.",
+        "isCorrect": true,
+        "explanation": "Correcto. Tienen sus propias curvas de crecimiento específicas debido a estos múltiples factores[cite: 489, 496]."
+      },
+      {
+        "text": "B) Solo la mala alimentación.",
+        "isCorrect": false,
+        "explanation": "La causa es primariamente genética y endocrina[cite: 490]."
+      },
+      {
+        "text": "C) Falta de ejercicio.",
+        "isCorrect": false,
+        "explanation": "Sin relación causal primaria[cite: 491]."
+      },
+      {
+        "text": "D) No tienen talla baja.",
+        "isCorrect": false,
+        "explanation": "Falso; la talla baja es una característica común del síndrome[cite: 492]."
+      },
+      {
+        "text": "E) El uso de vacunas.",
+        "isCorrect": false,
+        "explanation": "Falso[cite: 493]."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Diagnóstico de Déficit de GH",
+    "text": "¿Qué es el 'Test de Clonidina' o 'Test de Arginina'? [cite: 497, 498]",
+    "hint": "La GH se secreta en pulsos, por lo que una medición aislada no sirve. [cite: 505]",
+    "options": [
+      {
+        "text": "A) Pruebas farmacológicas para estimular la secreción de GH.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se requiere 'estresar' a la hipófisis para ver si es capaz de producir la hormona adecuadamente[cite: 499, 506]."
+      },
+      {
+        "text": "B) Pruebas para la vista.",
+        "isCorrect": false,
+        "explanation": "Inespecífico[cite: 500]."
+      },
+      {
+        "text": "C) Exámenes de audición.",
+        "isCorrect": false,
+        "explanation": "Inespecífico[cite: 501]."
+      },
+      {
+        "text": "D) Test de alergias.",
+        "isCorrect": false,
+        "explanation": "No evalúa respuestas inmunes[cite: 502]."
+      },
+      {
+        "text": "E) Una marca de zapatos.",
+        "isCorrect": false,
+        "explanation": "Distractor absurdo[cite: 503]."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Síndrome de Noonan",
+    "text": "Adolescente con talla baja, cuello alado y criptorquidia. Cariotipo 46,XY. ¿Diagnóstico? [cite: 507, 508, 509]",
+    "hint": "Se le llama el 'Turner masculino' (aunque también afecta a mujeres). [cite: 516]",
+    "options": [
+      {
+        "text": "A) Síndrome de Noonan.",
+        "isCorrect": true,
+        "explanation": "Correcto. Enfermedad genética con fenotipo similar al Turner pero con cariotipo normal[cite: 510, 517]."
+      },
+      {
+        "text": "B) Síndrome de Turner.",
+        "isCorrect": false,
+        "explanation": "Requeriría cariotipo 45,X y fenotipo femenino[cite: 511]."
+      },
+      {
+        "text": "C) Síndrome de Klinefelter.",
+        "isCorrect": false,
+        "explanation": "Cursa característicamente con talla alta y cariotipo 47,XXY[cite: 512]."
+      },
+      {
+        "text": "D) Raquitismo.",
+        "isCorrect": false,
+        "explanation": "Asociado a deformidades de extremidades, no a cuello alado[cite: 513]."
+      },
+      {
+        "text": "E) Acondroplasia.",
+        "isCorrect": false,
+        "explanation": "Presentaría macrocefalia y desproporción extrema de extremidades[cite: 514]."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Salud Pública",
+    "text": "¿Cuál es la medida de salud pública más efectiva para prevenir la talla baja por desnutrición en Chile? [cite: 518, 519]",
+    "hint": "La vigilancia constante ha erradicado la desnutrición calórica masiva. [cite: 526]",
+    "options": [
+      {
+        "text": "A) Los programas de control de niño sano y la entrega de leche fortificada (PNAC).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el pilar de la pediatría preventiva chilena para asegurar un crecimiento normal[cite: 520, 527]."
+      },
+      {
+        "text": "B) Prohibir los dulces.",
+        "isCorrect": false,
+        "explanation": "Medida para obesidad, no para prevención de talla baja por déficit[cite: 521]."
+      },
+      {
+        "text": "C) Hacer que todos los niños tomen GH.",
+        "isCorrect": false,
+        "explanation": "Absolutamente contraindicado y sin fundamento médico[cite: 522]."
+      },
+      {
+        "text": "D) No ir al colegio.",
+        "isCorrect": false,
+        "explanation": "Distractor absurdo[cite: 523]."
+      },
+      {
+        "text": "E) Vender vitaminas en el metro.",
+        "isCorrect": false,
+        "explanation": "Medida informal sin impacto en salud pública real[cite: 524]."
+      }
+    ]
+  }
+]
