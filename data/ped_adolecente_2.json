@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Tratamiento del Acné: Isotretinoína",
+    "text": "Una adolescente de 16 años consulta por acné nódulo-quístico severo que ha dejado cicatrices. Ha fallado a múltiples tratamientos tópicos y antibióticos orales. Se decide iniciar Isotretinoína oral. ¿Cuál es el requisito indispensable antes de iniciar este fármaco en una paciente en edad fértil?",
+    "hint": "El fármaco es altamente teratogénico.",
+    "options": [
+      {
+        "text": "A) Realizar un hemograma para descartar anemia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El hemograma no es el examen crítico previo. Se debe priorizar el perfil lipídico y las pruebas de función hepática (transaminasas), ya que la isotretinoína puede causar hipertrigliceridemia y hepatotoxicidad[cite: 298]."
+      },
+      {
+        "text": "B) Asegurar un método anticonceptivo eficaz y contar con dos pruebas de embarazo negativas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Debido al alto riesgo de malformaciones fetales severas (embriopatía), es obligatorio el uso de anticoncepción eficaz (idealmente dos métodos) y confirmar la ausencia de embarazo antes y durante el tratamiento[cite: 296]."
+      },
+      {
+        "text": "C) Realizar una biopsia cutánea para confirmar el tipo de acné.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El acné es un diagnóstico eminentemente clínico basado en la inspección de lesiones; la biopsia no aporta información relevante para el manejo habitual[cite: 299]."
+      },
+      {
+        "text": "D) Iniciar suplementación con Vitamina A.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al ser la isotretinoína un derivado de la Vitamina A, su suplementación conjunta aumentaría peligrosamente el riesgo de toxicidad por hipervitaminosis A[cite: 300]."
+      },
+      {
+        "text": "E) Evaluar la función renal mediante clearance de creatinina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El metabolismo del fármaco es principalmente hepático. Aunque se monitorizan lípidos y transaminasas, la función renal no es un requisito estándar de control[cite: 301]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Amenorrea Secundaria",
+    "text": "¿Cuál es la causa más frecuente de Amenorrea Secundaria en la adolescencia?",
+    "hint": "Siempre debe ser el primer descarte ante un retraso menstrual en una adolescente sexualmente activa.",
+    "options": [
+      {
+        "text": "A) Síndrome de Ovario Poliquístico (SOP).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Si bien es una causa frecuente de ciclos largos (oligomenorrea), el embarazo lo supera ampliamente en prevalencia y relevancia diagnóstica inicial[cite: 313]."
+      },
+      {
+        "text": "B) Embarazo.",
+        "isCorrect": true,
+        "explanation": "Correcto. Estadísticamente, la gestación es la causa número uno de amenorrea secundaria (ausencia de regla por >3 meses) en adolescentes con vida sexual activa[cite: 311]."
+      },
+      {
+        "text": "C) Anorexia Nerviosa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa amenorrea por hipogonadismo hipogonadotropo secundario a la restricción calórica, pero requiere la presencia de bajo peso crítico y distorsión de la imagen corporal[cite: 314]."
+      },
+      {
+        "text": "D) Hiperprolactinemia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una causa endocrina que debe estudiarse, pero solo después de haber descartado las causas más comunes como el embarazo[cite: 315]."
+      },
+      {
+        "text": "E) Hipotiroidismo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que otras causas endocrinas, se investiga de forma secundaria tras descartar gestación[cite: 315]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Varicocele",
+    "text": "Un varón de 15 años consulta por notar una 'masa de aspecto vermiforme' (como bolsa de gusanos) sobre el testículo izquierdo, que aumenta de tamaño al ponerse de pie y desaparece al acostarse. Está asintomático. ¿Diagnóstico probable?",
+    "hint": "Es más común en el lado izquierdo por la anatomía de la vena renal.",
+    "options": [
+      {
+        "text": "A) Hidrocele.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se presenta como un aumento de volumen liso, indoloro y con transiluminación positiva, sin el aspecto de vasos dilatados (gusanos)[cite: 329]."
+      },
+      {
+        "text": "B) Orquiepididimitis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cursaría con dolor agudo intenso, fiebre y signos inflamatorios locales como eritema y calor[cite: 330]."
+      },
+      {
+        "text": "C) Varicocele.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe a la dilatación del plexo pampiniforme. Su descripción clásica es la de una 'bolsa de gusanos' palpable, siendo muy común en la pubertad[cite: 326, 327]."
+      },
+      {
+        "text": "D) Torsión testicular.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una urgencia quirúrgica con dolor agudo súbito e invalidante, testículo ascendido y ausencia de reflejo cremastérico[cite: 331]."
+      },
+      {
+        "text": "E) Tumor de estirpe germinal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los tumores se palpan como masas sólidas, duras e indoloras dentro del parénquima testicular, no como una red venosa superficial[cite: 332]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Suicidio en Adolescentes",
+    "text": "En relación al suicidio en adolescentes en Chile, ¿cuál de las siguientes afirmaciones es correcta según las fuentes epidemiológicas actuales?",
+    "hint": "La historia previa de autolesiones o intentos es el predictor de mayor peso en la evaluación de riesgo.",
+    "options": [
+      {
+        "text": "A) Las mujeres tienen tasas de mortalidad por suicidio más altas que los hombres.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los hombres tienen tasas de mortalidad más altas porque utilizan métodos más violentos y letales, aunque las mujeres realizan más intentos[cite: 345]."
+      },
+      {
+        "text": "B) Es la tercera causa de muerte en este grupo etario.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En Chile, el suicidio es actualmente la primera o segunda causa de muerte externa (no natural) en este grupo etario[cite: 346]."
+      },
+      {
+        "text": "C) Los hombres tienen más intentos de suicidio, pero las mujeres utilizan métodos más letales.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es al revés: las mujeres tienen más intentos con métodos menos letales, mientras que los hombres consuman más suicidios con métodos más letales[cite: 347]."
+      },
+      {
+        "text": "D) El antecedente de un intento previo es el factor de riesgo individual más potente para un suicidio consumado.",
+        "isCorrect": true,
+        "explanation": "Correcto. Haber tenido un intento previo aumenta exponencialmente el riesgo de un evento futuro exitoso. Es el predictor individual más fuerte en la evaluación clínica[cite: 342]."
+      },
+      {
+        "text": "E) Preguntar directamente sobre ideas suicidas aumenta el riesgo de que el adolescente lo intente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un mito peligroso. Preguntar directamente permite al adolescente desahogarse y al profesional intervenir oportunamente; no 'da ideas'[cite: 348, 349]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Tratamiento de Dismenorrea",
+    "text": "¿Cuál es el tratamiento de primera línea para la Dismenorrea Primaria (dolor menstrual sin patología pélvica) en una adolescente?",
+    "hint": "El dolor está mediado por el exceso de prostaglandinas.",
+    "options": [
+      {
+        "text": "A) Paracetamol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un analgésico de potencia insuficiente para este cuadro, ya que no posee el efecto anti-prostaglandínico necesario en el endometrio[cite: 363]."
+      },
+      {
+        "text": "B) Antiinflamatorios no esteroidales (AINEs) iniciados ante los primeros síntomas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Fármacos como el ibuprofeno o naproxeno inhiben la síntesis de prostaglandinas, que son las responsables de las contracciones uterinas dolorosas[cite: 360]."
+      },
+      {
+        "text": "C) Cirugía laparoscópica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo se plantea ante sospecha de dismenorrea secundaria (ej. endometriosis) que no responde a manejo médico[cite: 364]."
+      },
+      {
+        "text": "D) Reposo absoluto en cama.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El ejercicio moderado suele mejorar la sintomatología; el reposo no tiene valor terapéutico[cite: 365]."
+      },
+      {
+        "text": "E) Antibióticos por sospecha de infección.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La dismenorrea primaria no es infecciosa. Solo se usarían si se sospechara una Enfermedad Inflamatoria Pélvica (EIP)[cite: 366]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Enfermedad de Osgood-Schlatter",
+    "text": "Adolescente de 13 años con dolor en la tuberosidad tibial anterior que empeora con el fútbol y mejora con el reposo. Al examen destaca aumento de volumen localizado. ¿Diagnóstico?",
+    "hint": "Es una apofisitis por tracción del tendón rotuliano sobre un núcleo de osificación inmaduro.",
+    "options": [
+      {
+        "text": "A) Artritis idiopática juvenil.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Afectaría la articulación con derrame o limitación del rango, no un punto óseo extraarticular específico[cite: 380]."
+      },
+      {
+        "text": "B) Enfermedad de Osgood-Schlatter.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una lesión de sobreuso común en el estirón puberal, caracterizada por dolor y prominencia en la inserción tibial del tendón rotuliano[cite: 377, 378]."
+      },
+      {
+        "text": "C) Sarcoma de Ewing.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un tumor maligno; el dolor sería constante, progresivo e incluso nocturno, sin ceder totalmente con el reposo[cite: 381]."
+      },
+      {
+        "text": "D) Desgarro de cuádriceps.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El dolor se localizaría en el vientre muscular o unión miotendinosa, no en el relieve óseo de la tibia[cite: 382]."
+      },
+      {
+        "text": "E) Bursitis rotuliana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El dolor y la inflamación serían anteriores a la rótula (pre-rotuliana), no debajo de ella en la tibia[cite: 383]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Escoliosis: Indicación Quirúrgica",
+    "text": "¿Cuál es el principal factor que determina la indicación quirúrgica en un adolescente con Escoliosis Idiopática?",
+    "hint": "A partir de estos grados, la curva tiende a progresar incluso después de que termina el crecimiento óseo.",
+    "options": [
+      {
+        "text": "A) El dolor lumbar intenso.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La escoliosis idiopática habitualmente es indolora. Un dolor intenso obligaría a buscar causas tumorales o infecciosas[cite: 397, 398]."
+      },
+      {
+        "text": "B) Un ángulo de Cobb mayor a 45-50°.",
+        "isCorrect": true,
+        "explanation": "Correcto. Este es el umbral para cirugía, ya que curvas de esta magnitud comprometen la función pulmonar a futuro y progresan de forma autónoma[cite: 395]."
+      },
+      {
+        "text": "C) El deseo estético de los padres.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque la estética es un factor, no es el criterio médico decisivo frente a los riesgos quirúrgicos[cite: 399]."
+      },
+      {
+        "text": "D) La presencia de una joroba leve (Giba).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La giba costal es el hallazgo clínico del test de Adams que indica rotación, pero su severidad se mide por el ángulo radiológico[cite: 391]."
+      },
+      {
+        "text": "E) Tener un signo de Risser 5.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Risser 5 indica que el crecimiento terminó. En curvas <40°, un Risser alto suele indicar que ya no se operará porque no progresará[cite: 402]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Diagnóstico de SOP",
+    "text": "¿Cuál es la triada clásica del Síndrome de Ovario Poliquístico (SOP) en adolescentes?",
+    "hint": "En adolescentes se debe ser más estricto con los criterios para evitar sobrediagnóstico.",
+    "options": [
+      {
+        "text": "A) Obesidad, hipertensión y diabetes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Estas son comorbilidades frecuentes del síndrome metabólico asociado, pero no son criterios diagnósticos de SOP[cite: 415]."
+      },
+      {
+        "text": "B) Oligo-anovulación, hiperandrogenismo (clínico/bioquímico) y morfología de ovarios poliquísticos en eco.",
+        "isCorrect": true,
+        "explanation": "Correcto. Según criterios de Rotterdam ajustados, se requieren 2 de estos 3 hallazgos (con énfasis en hiperandrogenismo en jóvenes)[cite: 412, 413]."
+      },
+      {
+        "text": "C) Infertilidad, galactorrea y acné.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La galactorrea sugiere hiperprolactinemia, un diagnóstico diferencial que debe excluirse antes de diagnosticar SOP[cite: 416]."
+      },
+      {
+        "text": "D) Menarquia precoz, talla baja y estrías.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No forman parte de los criterios diagnósticos internacionales del SOP[cite: 408]."
+      },
+      {
+        "text": "E) Solo requiere la presencia de quistes en la ecografía.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Muchos adolescentes normales tienen ovarios de aspecto polifolicular por la actividad puberal; la eco aislada no hace diagnóstico[cite: 417, 418]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Vitamina D en Adolescentes",
+    "text": "¿Cuál es el requerimiento de Vitamina D recomendado para un adolescente en Chile?",
+    "hint": "Es la dosis estándar para mantenimiento de salud ósea.",
+    "options": [
+      {
+        "text": "A) 200 UI/día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una dosis insuficiente para cubrir las demandas de mineralización del esqueleto adolescente[cite: 421]."
+      },
+      {
+        "text": "B) 600 - 800 UI/día.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la dosis de mantención recomendada por guías nacionales para prevenir el déficit y optimizar la absorción de calcio[cite: 82]."
+      },
+      {
+        "text": "C) 2000 UI/día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se considera una dosis de tratamiento para deficiencias ya documentadas, no de mantención rutinaria[cite: 83]."
+      },
+      {
+        "text": "D) 50.000 UI/día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una dosis de carga farmacológica masiva para casos de raquitismo o déficit severo[cite: 83]."
+      },
+      {
+        "text": "E) No requiere suplementación si toma leche.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En Chile, la baja exposición solar hace que la dieta sola no logre niveles suficientes de Vitamina D en la mayoría de los jóvenes[cite: 84]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Tanner 3 Masculino",
+    "text": "En la evaluación del desarrollo puberal masculino, el estadio Tanner 3 se caracteriza por:",
+    "hint": "Es la fase de crecimiento longitudinal del pene.",
+    "options": [
+      {
+        "text": "A) Testículos de 2 ml y vello lacio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Testículos de 1-3 ml corresponden al estadio Tanner 1 (prepuberal)[cite: 90]."
+      },
+      {
+        "text": "B) Aumento del volumen testicular (10-12 ml) y aumento principalmente de la longitud del pene.",
+        "isCorrect": true,
+        "explanation": "Correcto. El Tanner 3 destaca por el crecimiento del pene en longitud y el vello púbico que se vuelve más oscuro y rizado[cite: 89, 90]."
+      },
+      {
+        "text": "C) Pene de tipo adulto y vello que llega a los muslos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta descripción corresponde al estadio Tanner 5 (final del desarrollo)[cite: 91]."
+      },
+      {
+        "text": "D) Aparición de vello axilar y barba densa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son eventos tardíos de la pubertad que suelen consolidarse en Tanner 4 y 5[cite: 91]."
+      },
+      {
+        "text": "E) Ginecomastia severa obligatoria.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La ginecomastia es un hallazgo frecuente pero nunca es un requisito 'obligatorio' para definir el estadio de Tanner[cite: 88]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Evaluación de Depresión",
+    "text": "Un adolescente de 14 años consulta por 'sentirse triste todo el tiempo' desde hace 3 meses. ¿Cuál es el primer paso en la evaluación?",
+    "hint": "La privacidad es fundamental para que el adolescente revele sus sentimientos reales.",
+    "options": [
+      {
+        "text": "A) Iniciar Fluoxetina inmediatamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se debe farmacologizar sin un diagnóstico clínico formal y una evaluación previa de los factores psicosociales[cite: 98]."
+      },
+      {
+        "text": "B) Entrevistar a solas al adolescente para evaluar riesgo suicida y síntomas de depresión.",
+        "isCorrect": true,
+        "explanation": "Correcto. La entrevista privada garantiza la confidencialidad necesaria para explorar ideas de autolesión y anhedonia[cite: 97]."
+      },
+      {
+        "text": "C) Citar a los padres para recriminarles la falta de atención.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El enfoque debe ser colaborativo; recriminar destruye la alianza terapéutica con la familia[cite: 99]."
+      },
+      {
+        "text": "D) Solicitar un electroencefalograma.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un examen de rutina para el diagnóstico de trastornos del ánimo[cite: 95]."
+      },
+      {
+        "text": "E) Derivar a neurólogo por bajo rendimiento escolar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El cuadro es de salud mental (depresión), por lo que la derivación inicial debe ser a psicología o psiquiatría infantil[cite: 99]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Obesidad: Manejo",
+    "text": "¿Cuál es la conducta recomendada ante un adolescente con un IMC en percentil 97 (>+2 DE)?",
+    "hint": "La obesidad pediátrica se define por percentil ≥ 95.",
+    "options": [
+      {
+        "text": "A) Indicar una dieta de 800 calorías.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las dietas hipocalóricas extremas están prohibidas en adolescentes por riesgo de desnutrición oculta y trastornos alimentarios[cite: 106]."
+      },
+      {
+        "text": "B) Diagnosticar Obesidad y solicitar exámenes de tamizaje metabólico.",
+        "isCorrect": true,
+        "explanation": "Correcto. Requiere evaluar glicemia, perfil lipídico y transaminasas para detectar comorbilidades como resistencia a la insulina o hígado graso[cite: 101, 105]."
+      },
+      {
+        "text": "C) Decirle que es solo 'grasa de bebé' y que pasará con el estirón.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Minimizar el riesgo es un error clínico; el exceso de peso adolescente es el mayor predictor de obesidad mórbida adulta[cite: 107]."
+      },
+      {
+        "text": "D) Prohibirle comer pan de por vida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El enfoque debe ser la educación en hábitos y porciones, no prohibiciones drásticas ineficaces[cite: 103]."
+      },
+      {
+        "text": "E) Recetar fármacos anorexígenos como primera línea.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los fármacos son de último recurso y solo bajo estricta supervisión de especialista si fallan los cambios de estilo de vida[cite: 108]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Vacunación en Embarazo Adolescente",
+    "text": "¿Qué vacuna se debe administrar a una adolescente que cursa un embarazo a las 28 semanas de gestación?",
+    "hint": "El objetivo es el traspaso de anticuerpos transplacentarios para proteger al neonato de la coqueluche.",
+    "options": [
+      {
+        "text": "A) VPH.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se recomienda de rutina durante el embarazo por falta de estudios, aunque no sea teratogénica[cite: 113]."
+      },
+      {
+        "text": "B) dTpa (Difteria, Tétanos, Tos Convulsiva).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es obligatoria en el tercer trimestre (semana 28+) para que la madre transfiera inmunidad al bebé contra la tos convulsiva[cite: 112]."
+      },
+      {
+        "text": "C) Tres Vírica (SRP).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una vacuna de virus vivos atenuados y está formalmente contraindicada durante el embarazo por riesgo teórico[cite: 114]."
+      },
+      {
+        "text": "D) Varicela.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que la SRP, es de virus vivos y no debe administrarse a gestantes[cite: 114]."
+      },
+      {
+        "text": "E) Ninguna, las vacunas están prohibidas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Existen vacunas de virus inactivos (como Influenza y dTpa) que son vitales para la salud materna y neonatal[cite: 111]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Bulimia Nerviosa: Diferencia",
+    "text": "¿Cuál de los siguientes es un síntoma cardinal de la Bulimia Nerviosa que la diferencia de la Anorexia Nerviosa?",
+    "hint": "El ciclo atracón-purga es la característica definitoria.",
+    "options": [
+      {
+        "text": "A) Deseo de delgadez.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un rasgo compartido por ambos trastornos de la conducta alimentaria[cite: 119]."
+      },
+      {
+        "text": "B) Distorsión de la imagen corporal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presente tanto en anorexia como en bulimia nerviosa[cite: 119]."
+      },
+      {
+        "text": "C) Presencia de atracones seguidos de conductas compensatorias (vómitos/laxantes).",
+        "isCorrect": true,
+        "explanation": "Correcto. Mientras la anorexia se basa en la restricción extrema, la bulimia se define por la pérdida de control en la ingesta seguida de purgas[cite: 118]."
+      },
+      {
+        "text": "D) Amenorrea obligatoria.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ya no es criterio obligatorio en anorexia (DSM-5) y en bulimia las pacientes suelen menstruar normalmente[cite: 120]."
+      },
+      {
+        "text": "E) Pérdida de peso extrema (IMC < 17).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto es propio de la anorexia; las pacientes bulímicas suelen tener peso normal o sobrepeso leve[cite: 121]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Tratamiento de ITS: Chlamydia",
+    "text": "¿Cuál es el tratamiento de elección para una infección por Chlamydia trachomatis en un adolescente?",
+    "hint": "La clamidia es una bacteria intracelular sensible a macrólidos.",
+    "options": [
+      {
+        "text": "A) Penicilina benzatina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el tratamiento de elección para la Sífilis, no es eficaz contra Chlamydia[cite: 126]."
+      },
+      {
+        "text": "B) Azitromicina en dosis única o Doxiciclina por 7 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. La azitromicina oral de 1 gramo es preferida en adolescentes por asegurar la adherencia en una sola toma[cite: 123, 125]."
+      },
+      {
+        "text": "C) Aciclovir.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un antiviral usado para el tratamiento del Herpes Simple[cite: 126]."
+      },
+      {
+        "text": "D) Metronidazol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se utiliza para el manejo de Tricomoniasis o Vaginosis Bacteriana[cite: 127]."
+      },
+      {
+        "text": "E) Fluconazol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un fármaco antifúngico utilizado para Candidiasis vaginal[cite: 124]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Signo de Risser",
+    "text": "En el control del adolescente, el 'Signo de Risser' se evalúa para determinar:",
+    "hint": "Fundamental para predecir si una escoliosis seguirá progresando.",
+    "options": [
+      {
+        "text": "A) Presencia de fracturas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene relación con la detección de trauma óseo agudo[cite: 133]."
+      },
+      {
+        "text": "B) Grado de osificación de las crestas ilíacas (madurez esquelética).",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite estimar cuánto crecimiento óseo le queda al paciente. Un Risser bajo indica alto riesgo de progresión de curvas vertebrales[cite: 128, 131, 132]."
+      },
+      {
+        "text": "C) Tamaño de los ovarios.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un marcador óseo radiológico, no ecográfico de gónadas[cite: 133]."
+      },
+      {
+        "text": "D) Presencia de cálculos renales.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene utilidad en la detección de litiasis[cite: 133]."
+      },
+      {
+        "text": "E) Maduración pulmonar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La madurez pulmonar se evalúa de otras formas, no por osificación ilíaca[cite: 133]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Síndrome de Klinefelter: Diagnóstico",
+    "text": "Adolescente alto, con testículos pequeños y firmes, ginecomastia y poco vello facial. ¿Estudio confirmatorio?",
+    "hint": "El cuadro sugiere un cariotipo 47,XXY.",
+    "options": [
+      {
+        "text": "A) Niveles de hormona de crecimiento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El paciente ya tiene talla alta; no existe sospecha de déficit de GH[cite: 139]."
+      },
+      {
+        "text": "B) Cariotipo por bandas G.",
+        "isCorrect": true,
+        "explanation": "Correcto. El Klinefelter es una anomalía cromosómica. El cariotipo confirma la presencia del cromosoma X extra en el varón[cite: 137, 138]."
+      },
+      {
+        "text": "C) Ecografía abdominal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No aporta información relevante para el diagnóstico de esta cromosomopatía[cite: 136]."
+      },
+      {
+        "text": "D) TAC de silla turca.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se indicaría ante sospecha de tumor hipofisario, pero el fenotipo orienta a causa testicular primaria[cite: 140]."
+      },
+      {
+        "text": "E) Perfil lipídico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Útil para seguimiento metabólico, pero no confirma la patología genética de base[cite: 137]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "SOP: Beneficio de ACO",
+    "text": "¿Cuál es el beneficio de los Anticonceptivos Orales Combinados (AOC) en el tratamiento del SOP?",
+    "hint": "Los estrógenos del fármaco suben la proteína que 'atrapa' la testosterona.",
+    "options": [
+      {
+        "text": "A) Aumentan los niveles de testosterona.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Harían el cuadro más severo; el objetivo es justamente bajarlos[cite: 142]."
+      },
+      {
+        "text": "B) Regularizan ciclos, protegen el endometrio y bajan el andrógeno libre.",
+        "isCorrect": true,
+        "explanation": "Correcto. Elevan la SHBG, disminuyendo la testosterona libre circulante, lo que mejora el acné y el hirsutismo[cite: 142, 146]."
+      },
+      {
+        "text": "C) Ayudan a bajar de peso rápidamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los ACO no tienen efecto en la baja de peso; la obesidad debe tratarse con dieta y ejercicio[cite: 147]."
+      },
+      {
+        "text": "D) Curan la enfermedad de forma definitiva.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El SOP es una condición crónica de manejo sintomático; no hay cura biológica definitiva[cite: 148]."
+      },
+      {
+        "text": "E) Se usan solo para evitar el embarazo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En el SOP su principal indicación es el control endocrino y dermatológico, incluso sin vida sexual activa[cite: 144, 146]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Prevención de Accidentes",
+    "text": "¿Qué medida de prevención es más efectiva para reducir muertes por accidentes de tránsito en jóvenes?",
+    "hint": "El alcohol es el factor de mayor peso en los choques fatales.",
+    "options": [
+      {
+        "text": "A) Enseñarles mecánica básica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No influye en la prevención de la imprudencia o el consumo de sustancias[cite: 150]."
+      },
+      {
+        "text": "B) Política de tolerancia cero al alcohol y uso de cinturón.",
+        "isCorrect": true,
+        "explanation": "Correcto. Son las medidas de salud pública con mayor impacto en la reducción de letalidad por accidentes viales[cite: 150, 153]."
+      },
+      {
+        "text": "C) Comprarles autos más rápidos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aumentaría exponencialmente el riesgo de accidentes mortales[cite: 151]."
+      },
+      {
+        "text": "D) Solo permitirles conducir de noche.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La noche es el periodo de mayor riesgo por fatiga y baja visibilidad[cite: 154]."
+      },
+      {
+        "text": "E) El uso de cascos dentro del auto.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una medida de seguridad pasiva estandarizada ni superior al cinturón/airbag[cite: 152]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Derechos y Autonomía Progresiva",
+    "text": "¿Cuál es la edad legal en Chile para acceder a salud sexual de forma autónoma (Autonomía Progresiva)?",
+    "hint": "Se basa en la madurez evaluada caso a caso, no en un número fijo.",
+    "options": [
+      {
+        "text": "A) 12 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No existe un límite de edad fijo universal tan bajo en la ley chilena para todos los casos[cite: 156]."
+      },
+      {
+        "text": "B) 14 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque es la edad de responsabilidad penal, la salud sexual se rige por la madurez del paciente según la convención de derechos del niño[cite: 160]."
+      },
+      {
+        "text": "C) 18 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sería vulnerar el acceso a la salud preventiva de menores sexualmente activos[cite: 156]."
+      },
+      {
+        "text": "D) No hay una edad fija, depende de la madurez evaluada por el profesional.",
+        "isCorrect": true,
+        "explanation": "Correcto. El profesional evalúa si el adolescente comprende las implicancias del acto médico para otorgar atención confidencial[cite: 156, 158]."
+      },
+      {
+        "text": "E) 21 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es la mayoría de edad antigua, actualmente sin vigencia en Chile[cite: 157]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Enfermedad de Scheuermann",
+    "text": "Adolescente de 15 años con hipercifosis dorsal rígida. Rx muestra acuñamiento de 3 vértebras consecutivas ≥5°. ¿Diagnóstico?",
+    "hint": "Es la cifosis estructural más común del adolescente.",
+    "options": [
+      {
+        "text": "A) Cifosis postural.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La postural es flexible y se corrige totalmente al pedirle al paciente que se enderece[cite: 167]."
+      },
+      {
+        "text": "B) Enfermedad de Scheuermann.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se define radiográficamente por este acuñamiento anterior vertebral sucesivo que genera una joroba rígida[cite: 163, 166]."
+      },
+      {
+        "text": "C) Fractura por osteoporosis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cuadro extremadamente raro sin patología metabólica ósea severa previa[cite: 164, 168]."
+      },
+      {
+        "text": "D) Mal de Pott.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es la tuberculosis vertebral; cursa con fiebre, dolor agudo y compromiso del estado general[cite: 164, 168]."
+      },
+      {
+        "text": "E) Hernia discal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Produce dolor irradiado (ciática) y compromiso neurológico, no una deformidad en cifosis rígida[cite: 164, 168]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Gravedad en Anorexia",
+    "text": "¿Qué hallazgo en un adolescente con sospecha de Anorexia sugiere gravedad extrema?",
+    "hint": "Refleja el fallo de los mecanismos centrales de termorregulación.",
+    "options": [
+      {
+        "text": "A) Lanugo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un signo de desnutrición común pero no indica un riesgo vital inmediato de hospitalización[cite: 173]."
+      },
+      {
+        "text": "B) Erosiones dentales.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugieren conductas purgativas frecuentes pero no inestabilidad hemodinámica aguda[cite: 174]."
+      },
+      {
+        "text": "C) Hipotermia (< 35.5°C).",
+        "isCorrect": true,
+        "explanation": "Correcto. Indica un colapso del metabolismo basal y riesgo de falla multiorgánica inminente[cite: 170, 172]."
+      },
+      {
+        "text": "D) Estreñimiento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Hallazgo universal por la falta de ingesta de fibra y alimentos, sin valor de urgencia[cite: 175]."
+      },
+      {
+        "text": "E) Presencia de acné.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene relación con la gravedad nutricional del trastorno alimentario[cite: 170]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Mononucleosis e Antibióticos",
+    "text": "Ante sospecha de Mononucleosis Infecciosa, ¿qué fármaco debe evitarse para no causar exantema?",
+    "hint": "Es una reacción inmune específica entre el virus de Epstein-Barr y este antibiótico.",
+    "options": [
+      {
+        "text": "A) Paracetamol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es seguro para el manejo sintomático de la fiebre[cite: 180]."
+      },
+      {
+        "text": "B) Amoxicilina.",
+        "isCorrect": true,
+        "explanation": "Correcto. El uso de aminopenicilinas en pacientes con mononucleosis provoca un exantema máculo-papular intenso en el 90% de los casos[cite: 177, 179]."
+      },
+      {
+        "text": "C) Ibuprofeno.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Analgésico común sin asociación documentada con el exantema viral por EBV[cite: 180]."
+      },
+      {
+        "text": "D) Azitromicina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los macrólidos no producen esta reacción cutánea específica con el virus[cite: 180]."
+      },
+      {
+        "text": "E) Prednisona.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los corticoides a veces se usan en casos de obstrucción respiratoria por amígdalas gigantes[cite: 180]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Consumo de Agua",
+    "text": "¿Cuál es la recomendación de consumo de agua diaria para un adolescente?",
+    "hint": "Equivale a unos 6 a 8 vasos de agua pura.",
+    "options": [
+      {
+        "text": "A) 0.5 litros.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Dosis insuficiente que predispone a deshidratación y menor rendimiento cognitivo[cite: 181]."
+      },
+      {
+        "text": "B) 1.5 a 2 litros diarios.",
+        "isCorrect": true,
+        "explanation": "Correcto. Mantener una hidratación adecuada con agua pura es el estándar para la salud renal y metabólica[cite: 182, 184]."
+      },
+      {
+        "text": "C) Solo durante el ejercicio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se requiere hidratación basal constante independientemente de la actividad física[cite: 182]."
+      },
+      {
+        "text": "D) 5 litros diarios.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un volumen excesivo que puede llevar a hiponatremia dilucional en condiciones normales[cite: 185]."
+      },
+      {
+        "text": "E) No necesita agua si toma jugos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los jugos aportan exceso de azúcar libre y no reemplazan el agua pura como hidratante[cite: 186]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Definición de LARC",
+    "text": "¿Qué significa el término 'LARC' en salud sexual?",
+    "hint": "Son los métodos más recomendados para adolescentes por su altísima eficacia.",
+    "options": [
+      {
+        "text": "A) Métodos de barrera.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los métodos como el condón dependen del uso correcto en cada acto sexual, teniendo mayor tasa de falla típica[cite: 191]."
+      },
+      {
+        "text": "B) Anticonceptivos reversibles de larga duración (Implantes y DIU).",
+        "isCorrect": true,
+        "explanation": "Correcto. 'Long-Acting Reversible Contraception'. No dependen de la memoria de la usuaria y duran entre 3 a 5 años[cite: 188, 190]."
+      },
+      {
+        "text": "C) Anticonceptivos de emergencia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se usan solo tras un evento de riesgo, no son de larga duración[cite: 188]."
+      },
+      {
+        "text": "D) Métodos naturales.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tienen las tasas de falla más altas en población adolescente[cite: 188]."
+      },
+      {
+        "text": "E) Pruebas de ITS.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No corresponden a métodos anticonceptivos[cite: 189]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Diagnóstico de RGE Patológico",
+    "text": "¿Qué examen es el 'Gold Standard' para diagnosticar un reflujo patológico con síntomas atípicos?",
+    "hint": "Mide exactamente el tiempo de exposición al ácido en 24 horas.",
+    "options": [
+      {
+        "text": "A) Radiografía de contraste.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo evalúa anatomía (estenosis/hernias), no cuantifica la severidad del reflujo real[cite: 196]."
+      },
+      {
+        "text": "B) pH-metría con impedanciometría de 24 horas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite correlacionar los síntomas del adolescente con los episodios reales de reflujo ácido y no ácido[cite: 193, 195]."
+      },
+      {
+        "text": "C) Ecografía abdominal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene utilidad para cuantificar el reflujo gastroesofágico[cite: 193]."
+      },
+      {
+        "text": "D) Test de aliento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se utiliza exclusivamente para diagnosticar la presencia de H. pylori[cite: 194]."
+      },
+      {
+        "text": "E) Hemocultivos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tienen relación con la patología por reflujo[cite: 194]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Riesgo de Varicocele",
+    "text": "¿Cuál es el principal riesgo de la Varicocele no tratada?",
+    "hint": "El estancamiento venoso aumenta la temperatura local.",
+    "options": [
+      {
+        "text": "A) Cáncer de testículo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No existe evidencia de que el varicocele predisponga a neoplasias testiculares[cite: 202]."
+      },
+      {
+        "text": "B) Infecciones urinarias.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene relación con la colonización bacteriana urinaria[cite: 198]."
+      },
+      {
+        "text": "C) Atrofia testicular y compromiso de fertilidad futura.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la causa tratable más común de infertilidad masculina debido al daño que el calor provoca en la espermatogénesis[cite: 198, 200]."
+      },
+      {
+        "text": "D) Torsión testicular.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un factor predisponente para el giro del cordón espermático[cite: 203]."
+      },
+      {
+        "text": "E) Incontinencia urinaria.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El sistema de esfínteres es independiente de la vasculatura escrotal[cite: 198]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Síntomas de Depresión en Jóvenes",
+    "text": "¿Cuál es el síntoma más común de Depresión en adolescentes, que a veces sustituye a la tristeza?",
+    "hint": "En pediatría, la depresión suele 'disfrazarse' de mal humor.",
+    "options": [
+      {
+        "text": "A) Apetito aumentado.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque posible (depresión atípica), no es el síntoma sustitutivo cardinal de la tristeza[cite: 204]."
+      },
+      {
+        "text": "B) Irritabilidad o mal humor constante.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los adolescentes deprimidos a menudo se muestran hostiles o irritables en lugar de manifestar llanto o melancolía clásica[cite: 204, 206]."
+      },
+      {
+        "text": "C) Tics nerviosos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No son parte de los criterios diagnósticos nucleares del trastorno del ánimo[cite: 204]."
+      },
+      {
+        "text": "D) Hiperactividad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Característico del TDAH; el adolescente deprimido suele tener anhedonia y baja energía[cite: 207]."
+      },
+      {
+        "text": "E) Verborrea.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un síntoma de manía o hipomanía, lo opuesto a la depresión[cite: 204]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Osgood-Schlatter: Tratamiento",
+    "text": "Ante un diagnóstico de Osgood-Schlatter en un adolescente de 12 años, ¿cuál es el tratamiento inicial?",
+    "hint": "Es una condición autolimitada que cede al finalizar el crecimiento.",
+    "options": [
+      {
+        "text": "A) Cirugía inmediata.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se reserva solo para casos excepcionales en la adultez con fragmentos óseos dolorosos[cite: 214]."
+      },
+      {
+        "text": "B) Inmovilización con yeso.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causaría atrofia muscular innecesaria y no trata la causa de tracción del tendón[cite: 210]."
+      },
+      {
+        "text": "C) Manejo del dolor (AINEs), hielo post-ejercicio y modificar actividad física.",
+        "isCorrect": true,
+        "explanation": "Correcto. El manejo es conservador; el niño puede seguir haciendo deporte según su umbral de dolor[cite: 211, 213]."
+      },
+      {
+        "text": "D) Corticoides inyectados.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Contraindicado en niños por riesgo de daño en cartílago y tendón[cite: 211]."
+      },
+      {
+        "text": "E) Antibióticos endovenosos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un proceso infeccioso (osteomielitis), sino mecánico inflamatorio[cite: 212]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Test de Adams",
+    "text": "¿Cuál es la utilidad del 'Test de Adams' en el examen físico escolar?",
+    "hint": "Se le pide al paciente que se incline hacia adelante.",
+    "options": [
+      {
+        "text": "A) Evaluar visión.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Para ello se utiliza el test de Snellen[cite: 215]."
+      },
+      {
+        "text": "B) Detectar escoliosis (búsqueda de giba costal).",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite observar la rotación vertebral que se manifiesta como una prominencia asimétrica al inclinarse[cite: 216, 218]."
+      },
+      {
+        "text": "C) Evaluar audición.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No corresponde a una prueba auditiva[cite: 216]."
+      },
+      {
+        "text": "D) Medir flexibilidad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque se inclina, el objetivo clínico prioritario es la detección de asimetría ósea[cite: 219]."
+      },
+      {
+        "text": "E) Detectar pie plano.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se evalúa con el podoscopio o inspección directa de pie[cite: 217]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "HUA: Manejo inicial",
+    "text": "Adolescente con sangrado menstrual abundante y anemia leve (Hb 11). ¿Tratamiento inicial?",
+    "hint": "Se busca estabilizar el endometrio.",
+    "options": [
+      {
+        "text": "A) Cirugía inmediata.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Totalmente proscrito como primer paso en Hemorragia Uterina Anormal (HUA) adolescente."
+      },
+      {
+        "text": "B) Anticonceptivos orales combinados (AOC) y suplementación con hierro.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los AOC regularizan el ciclo y reducen el flujo, mientras el hierro trata la anemia ferropénica secundaria."
+      },
+      {
+        "text": "C) Solo vitaminas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tienen efecto hemostático ni detienen el sangrado excesivo."
+      },
+      {
+        "text": "D) Esperar a que se cure sola.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El riesgo de anemia severa obliga a intervenir farmacológicamente."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Alcohol: Binge Drinking",
+    "text": "¿Qué define al 'Binge Drinking' en adolescentes?",
+    "hint": "Consumo de gran cantidad en poco tiempo.",
+    "options": [
+      {
+        "text": "A) Una copa al mes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un consumo esporádico no catalogado como atracón."
+      },
+      {
+        "text": "B) Consumo de ≥ 5 tragos en una sola ocasión.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el patrón de mayor riesgo agudo por intoxicación, accidentes y conductas impulsivas."
+      },
+      {
+        "text": "C) Beber solo con comida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No define el patrón de atracón."
+      },
+      {
+        "text": "D) Mezclar tipos de alcohol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Vacuna VPH: Dosis",
+    "text": "¿Cuántas dosis de vacuna VPH se administran en el programa escolar chileno?",
+    "hint": "Esquema simplificado en educación básica.",
+    "options": [
+      {
+        "text": "A) 1 dosis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Insuficiente para generar inmunidad duradera según el esquema nacional."
+      },
+      {
+        "text": "B) 2 dosis.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se administran en 4to y 5to año básico para una protección óptima antes del inicio de vida sexual."
+      },
+      {
+        "text": "C) 3 dosis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esquema reservado para adultos o pacientes inmunosuprimidos."
+      },
+      {
+        "text": "D) 5 dosis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Signo de Russell",
+    "text": "En sospecha de bulimia o anorexia purgativa, el 'Signo de Russell' consiste en:",
+    "hint": "Cicatrices en la mano dominante.",
+    "options": [
+      {
+        "text": "A) Dolor al saltar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Signo de Blumberg o irritación peritoneal."
+      },
+      {
+        "text": "B) Callosidades o cicatrices en el dorso de los nudillos por inducción del vómito.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se producen por el roce constante de los dientes contra la mano al intentar provocar el reflejo nauseoso."
+      },
+      {
+        "text": "C) Manchas en la lengua.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Piel amarilla.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Signo de ictericia o carotinemia."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Higiene del Sueño",
+    "text": "¿Cuál es la recomendación de horas de sueño para un adolescente de 15 años?",
+    "hint": "Rango necesario para el desarrollo cerebral óptimo.",
+    "options": [
+      {
+        "text": "A) 6 horas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa déficit atencional, irritabilidad y mayor riesgo de obesidad."
+      },
+      {
+        "text": "B) 8 a 10 horas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el rango fisiológico necesario para consolidar la memoria y el crecimiento en esta etapa."
+      },
+      {
+        "text": "C) 12 horas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Requerimiento propio de niños en etapa preescolar."
+      },
+      {
+        "text": "D) 4 horas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Privación de sueño peligrosa para la salud mental."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Sindrome Metabólico: Cintura",
+    "text": "¿Qué medida de circunferencia de cintura sugiere riesgo metabólico en adolescentes?",
+    "hint": "Se compara con su propio percentil por edad y sexo.",
+    "options": [
+      {
+        "text": "A) > 100 cm.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Criterio fijo de adultos, no ajustado al crecimiento adolescente."
+      },
+      {
+        "text": "B) Percentil ≥ 90.",
+        "isCorrect": true,
+        "explanation": "Correcto. Indica obesidad abdominal, factor clave para predecir resistencia a la insulina futura."
+      },
+      {
+        "text": "C) Solo si tiene acné.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El acné es un signo hormonal, no una medida antropométrica de riesgo metabólico."
+      },
+      {
+        "text": "D) Cualquier medida es normal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Tratamiento de Metformina en SOP",
+    "text": "¿Cuál es la función de la Metformina en el manejo del SOP con obesidad y resistencia a la insulina?",
+    "hint": "Actúa a nivel del receptor de insulina y reduce la producción hepática de glucosa.",
+    "options": [
+      {
+        "text": "A) Evitar el embarazo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La metformina no es un anticonceptivo; de hecho, al mejorar la ovulación, puede aumentar el riesgo de embarazo."
+      },
+      {
+        "text": "B) Mejorar la sensibilidad a la insulina y ayudar en el manejo metabólico, favoreciendo la ovulación.",
+        "isCorrect": true,
+        "explanation": "Correcto. Ayuda a controlar el hiperinsulinismo, lo que reduce secundariamente la producción de andrógenos por el ovario[cite: 80]."
+      },
+      {
+        "text": "C) Quitar el vello de la cara inmediatamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El efecto sobre el hirsutismo es muy lento y menor que el de los anticonceptivos; tarda meses en notarse[cite: 80]."
+      },
+      {
+        "text": "D) Reemplazar la necesidad de hacer ejercicio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El ejercicio sigue siendo el pilar fundamental del manejo del SOP."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Criterio de Adicción",
+    "text": "¿Cuál es un criterio para sospechar adicción en lugar de uso recreativo ocasional?",
+    "hint": "La adicción implica pérdida de control y afectación de la vida diaria.",
+    "options": [
+      {
+        "text": "A) Probar una vez en una fiesta.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se clasifica como experimentación o uso ocasional[cite: 80]."
+      },
+      {
+        "text": "B) Abandonar responsabilidades, mentir para conseguir la sustancia y presentar tolerancia.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los criterios de dependencia incluyen la interferencia con la vida cotidiana y fenómenos neurobiológicos como la tolerancia[cite: 80]."
+      },
+      {
+        "text": "C) Saber el nombre de las drogas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es conocimiento informativo, no indica patrón de consumo[cite: 80]."
+      },
+      {
+        "text": "D) Tener amigos que fuman.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un factor de riesgo social, no un criterio diagnóstico de adicción propia[cite: 80]."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Hitos: Espermarquia",
+    "text": "¿Qué marca el inicio de la capacidad reproductiva potencial en el varón adolescente?",
+    "hint": "Primera presencia de espermatozoides.",
+    "options": [
+      {
+        "text": "A) Vello axilar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un signo de adrenarquia tardía."
+      },
+      {
+        "text": "B) Espermarquia (primera eyaculacion con espermatozoides).",
+        "isCorrect": true,
+        "explanation": "Correcto. Ocurre habitualmente entre los 13 y 14 años, coincidiendo con un estadio Tanner 3-4."
+      },
+      {
+        "text": "C) Crecimiento de barba.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Signo de pubertad muy avanzada."
+      },
+      {
+        "text": "D) Acné.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Factores de Riesgo Psicosocial",
+    "text": "¿Cuál es la principal causa de deserción escolar vinculada a la salud sexual en Chile?",
+    "hint": "Problema de salud pública y proyecto de vida.",
+    "options": [
+      {
+        "text": "A) Falta de uniformes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Embarazo adolescente no planificado.",
+        "isCorrect": true,
+        "explanation": "Correcto. Sigue siendo uno de los mayores disruptores del desarrollo educativo y personal en jóvenes de estratos vulnerables."
+      },
+      {
+        "text": "C) Gripes recurrentes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Mala conexión a internet.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  }
+]
