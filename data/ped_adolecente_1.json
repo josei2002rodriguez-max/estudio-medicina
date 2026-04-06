@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Desarrollo Puberal Femenino",
+    "text": "Una niña de 9 años acude a control. Al examen físico se palpa tejido mamario que no sobrepasa la areola, con aumento del diámetro areolar. No presenta vello púbico. ¿En qué estadio de Tanner se encuentra y cuál es la conducta más adecuada?",
+    "hint": "La pubertad precoz en niñas se define antes de los 8 años.",
+    "options": [
+      {
+        "text": "A) Tanner 1 - Control en 1 año.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tanner 1 representa el estado prepuberal (pecho infantil). La presencia de botón mamario palpable ya indica el inicio de la pubertad (Tanner 2)."
+      },
+      {
+        "text": "B) Tanner 2 - Desarrollo puberal normal, continuar controles habituales.",
+        "isCorrect": true,
+        "explanation": "Correcto. El botón mamario define el estadio Tanner 2 (Telarquia). Al tener 9 años (rango normal 8-13 años), es un desarrollo fisiológico esperado."
+      },
+      {
+        "text": "C) Tanner 2 - Sospecha de pubertad precoz, derivar a endocrinología.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo se consideraría pubertad precoz si el desarrollo mamario comenzara antes de los 8 años de edad cronológica."
+      },
+      {
+        "text": "D) Tanner 3 - Desarrollo puberal normal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En Tanner 3 hay un mayor aumento de la mama y la areola sin separación de sus contornos; la descripción actual corresponde estrictamente a Tanner 2."
+      },
+      {
+        "text": "E) Tanner 3 - Sospecha de pubertad precoz.",
+        "isCorrect": false,
+        "explanation": "Incorrecto por error de estadio y por edad (no es precoz)."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Pubertad Masculina",
+    "text": "¿Cuál es el primer signo físico de inicio puberal en el varón y cuál es el volumen testicular que lo define?",
+    "hint": "Ocurre habitualmente entre los 9 y 14 años.",
+    "options": [
+      {
+        "text": "A) Aparición de vello púbico - Tanner 2.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La adrenarquia (vello) puede preceder al inicio gonadal, pero el signo clínico de inicio puberal central es el crecimiento testicular."
+      },
+      {
+        "text": "B) Aumento del volumen testicular ≥ 4 ml.",
+        "isCorrect": true,
+        "explanation": "Correcto. El crecimiento de los testículos por estímulo de las gonadotropinas es el primer evento puberal. Un volumen ≥ 4 ml (o eje mayor ≥ 2.5 cm) marca el inicio (Tanner 2)."
+      },
+      {
+        "text": "C) Aparición de acné y cambio de voz.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Estos son signos tardíos de la pubertad, mediados por niveles de testosterona más elevados."
+      },
+      {
+        "text": "D) Estirón del crecimiento (Pico de velocidad).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El estirón masculino es un evento tardío (Tanner 3-4), a diferencia de las niñas donde ocurre al inicio."
+      },
+      {
+        "text": "E) Aumento del volumen testicular ≥ 2 ml.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. 2 ml es el volumen prepuberal normal; el umbral puberal es 4 ml."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Anticoncepción: Consentimiento",
+    "text": "Adolescente de 15 años acude sola a solicitar anticoncepción de emergencia tras relación sexual no protegida. Según la normativa chilena actual, ¿cuál es la conducta correcta?",
+    "hint": "La confidencialidad y la autonomía progresiva son pilares en la atención del adolescente.",
+    "options": [
+      {
+        "text": "A) Negar la atención hasta que acuda con un adulto responsable.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Vulneraría el derecho de acceso a la salud y autonomía del adolescente protegido por ley."
+      },
+      {
+        "text": "B) Administrar la anticoncepción de emergencia de forma autónoma y confidencial.",
+        "isCorrect": true,
+        "explanation": "Correcto. La Ley 20.418 garantiza que toda persona, incluidos menores de 14 años, tiene derecho a recibir anticoncepción de emergencia sin requerir permiso de terceros."
+      },
+      {
+        "text": "C) Atenderla pero informar obligatoriamente a sus padres vía telefónica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La confidencialidad es un derecho; informar sin consentimiento de la paciente (salvo riesgo vital o abuso) rompe la alianza terapéutica e infringe la ley."
+      },
+      {
+        "text": "D) Derivar a la asistente social antes de prescribir.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La entrega debe ser inmediata para garantizar la eficacia del fármaco."
+      },
+      {
+        "text": "E) Solicitar test de embarazo previo obligatorio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La anticoncepción de emergencia se da justamente para evitar el embarazo tras una exposición reciente; el test no es requisito."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Hitos de la Pubertad Femenina",
+    "text": "¿En qué estadio de Tanner ocurre habitualmente el pico de velocidad de crecimiento (estirón) en las niñas?",
+    "hint": "En las niñas, el estirón es precoz comparado con los varones.",
+    "options": [
+      {
+        "text": "A) Tanner 1.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el estado infantil con velocidad de crecimiento constante y baja."
+      },
+      {
+        "text": "B) Tanner 2-3.",
+        "isCorrect": true,
+        "explanation": "Correcto. El pico máximo de crecimiento en niñas se alcanza temprano, entre el estadio 2 y 3 de Tanner, poco antes de la menarquia."
+      },
+      {
+        "text": "C) Tras la Menarquia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tras la menarquia el crecimiento se desacelera significativamente (quedan aprox. 4-7 cm por crecer)."
+      },
+      {
+        "text": "D) Tanner 5.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el final del desarrollo, donde la velocidad de crecimiento es casi nula por cierre de epífisis."
+      },
+      {
+        "text": "E) Tanner 4.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. A esta altura la velocidad ya está en fase de descenso."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Ginecomastia Puberal",
+    "text": "Varón de 14 años consulta preocupado por aumento de volumen mamario bilateral, levemente sensible al tacto. Se palpa tejido firme de 2 cm bajo la areola. No presenta galactorrea. Conducta:",
+    "hint": "Afecta hasta al 50-60% de los varones durante la pubertad.",
+    "options": [
+      {
+        "text": "A) Solicitar mamografía bilateral urgente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene indicación en un adolescente con sospecha de ginecomastia fisiológica benigna."
+      },
+      {
+        "text": "B) Tranquilizar e informar que es un proceso fisiológico que suele involucionar en 1-2 años.",
+        "isCorrect": true,
+        "explanation": "Correcto. La ginecomastia puberal es común por desbalance transitorio estrógeno/testosterona. Si es menor de 4 cm y no hay signos de patología, solo requiere observación."
+      },
+      {
+        "text": "C) Derivar a cirugía plástica para resección inmediata.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La cirugía solo se plantea si persiste tras la pubertad o causa gran impacto psicológico/dolor tras periodo de observación."
+      },
+      {
+        "text": "D) Iniciar tratamiento con Tamoxifeno.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es la conducta inicial; se reserva para casos severos o dolorosos muy seleccionados."
+      },
+      {
+        "text": "E) Solicitar cariotipo para descartar Klinefelter.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo se pediría si el paciente tuviera testículos muy pequeños, talla muy alta u otros estigmas, no por ginecomastia aislada en plena pubertad."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Adrenarquia Precoz",
+    "text": "Niña de 7 años presenta aparición de vello púbico y axilar, además de olor axilar fuerte (tipo adulto). No presenta botón mamario. La velocidad de crecimiento es normal para su edad. ¿Diagnóstico?",
+    "hint": "Crecimiento del vello sin desarrollo de la glándula mamaria.",
+    "options": [
+      {
+        "text": "A) Pubertad precoz central.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La pubertad central requeriría activación del eje con aparición de botón mamario (telarquia)."
+      },
+      {
+        "text": "B) Adrenarquia precoz aislada.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe a la maduración temprana de la zona reticular suprarrenal (DHEA-S), sin activación del eje hipófisis-gonadal. Es una variante normal si no hay aceleración de talla."
+      },
+      {
+        "text": "C) Hiperplasia suprarrenal congénita clásica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Daría virilización más severa, aceleración marcada de la edad ósea y a menudo alteraciones electrolíticas al nacer."
+      },
+      {
+        "text": "D) Tumor ovárico virilizante.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presentaría niveles muy altos de testosterona y progresión rápida de virilización."
+      },
+      {
+        "text": "E) Uso de cremas con estrógenos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los estrógenos causarían desarrollo mamario, no vello púbico aislado (androgénico)."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Hemorragia Uterina Anormal (HUA)",
+    "text": "Adolescente de 13 años, con menarquia hace 6 meses, consulta por ciclos menstruales irregulares (cada 20 a 45 días) con sangrado de duración variable. Examen físico y ecografía normales. ¿Causa más probable?",
+    "hint": "El eje tarda en madurar tras la primera regla.",
+    "options": [
+      {
+        "text": "A) Síndrome de Ovario Poliquístico (SOP).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El SOP requiere criterios de hiperandrogenismo; la irregularidad aislada en el primer año post-menarquia es fisiológica."
+      },
+      {
+        "text": "B) Inmadurez transitoria del eje hipotálamo-hipófisis-gonadal.",
+        "isCorrect": true,
+        "explanation": "Correcto. Durante los primeros 2 años tras la menarquia, los ciclos suelen ser anovulatorios debido a que el eje aún no está maduro, lo que causa irregularidad normal."
+      },
+      {
+        "text": "C) Coagulopatía (Enfermedad de Von Willebrand).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se sospecha si el sangrado es masivo desde la primera regla (menorragia severa), no solo por irregularidad de intervalos."
+      },
+      {
+        "text": "D) Embarazo adolescente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque siempre debe descartarse, la irregularidad post-menarquia tiene una explicación fisiológica más frecuente."
+      },
+      {
+        "text": "E) Endometriosis juvenil.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cursa con dolor pélvico crónico severo (dismenorrea refractaria), no primariamente con ciclos irregulares."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Anemia en Adolescentes",
+    "text": "Adolescente mujer de 15 años consulta por fatiga. En sus exámenes destaca hemoglobina de 10.5 g/dl, VCM bajo y ferritina disminuida. ¿Cuál es la causa más probable de su anemia?",
+    "hint": "Combina el estirón de crecimiento con las pérdidas menstruales.",
+    "options": [
+      {
+        "text": "A) Anemia por deficiencia de Vitamina B12.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La deficiencia de B12 causa anemia macrocítica (VCM alto), no microcítica."
+      },
+      {
+        "text": "B) Anemia ferropénica.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la causa #1 de anemia en este grupo por el aumento de requerimientos de hierro (crecimiento) sumado a las pérdidas por la menstruación."
+      },
+      {
+        "text": "C) Talasemia minor.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque es microcítica, la ferritina suele estar normal o elevada, no baja."
+      },
+      {
+        "text": "D) Anemia de enfermedades crónicas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presentaría ferritina normal o alta (es un reactante de fase aguda)."
+      },
+      {
+        "text": "E) Leucemia aguda.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presentaría otras citopenias (plaquetas bajas) y compromiso del estado general marcado."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Aspectos Legales: Confidencialidad",
+    "text": "¿En cuál de las siguientes situaciones el profesional de salud está OBLIGADO a romper la confidencialidad con un adolescente?",
+    "hint": "La seguridad y la vida del paciente están por encima del secreto profesional.",
+    "options": [
+      {
+        "text": "A) Consumo ocasional de marihuana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Debe manejarse en la consulta buscando apoyo, pero no obliga a denuncia inmediata si no hay riesgo vital inminente."
+      },
+      {
+        "text": "B) Riesgo inminente de suicidio o sospecha fundamentada de abuso sexual.",
+        "isCorrect": true,
+        "explanation": "Correcto. Son excepciones legales y éticas al secreto profesional para proteger la integridad física y la vida del menor."
+      },
+      {
+        "text": "C) Inicio de actividad sexual consentida con pareja de su misma edad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un ámbito privado que debe ser orientado en salud sexual bajo estricta reserva."
+      },
+      {
+        "text": "D) Diagnóstico de una infección de transmisión sexual.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se debe incentivar la comunicación con los padres, pero no se rompe la confidencialidad de forma punitiva o automática."
+      },
+      {
+        "text": "E) Solicitud de test de VIH.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los adolescentes en Chile pueden solicitar y realizarse el test de forma autónoma desde los 14 años sin aviso a padres."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Nutrición: Obesidad",
+    "text": "Adolescente con IMC en percentil 97. Al examen físico destaca acantosis nigricans en cuello. ¿Qué complicación metabólica debe buscarse dirigidamente?",
+    "hint": "La mancha oscura en el cuello es un signo de exceso de una hormona pancreática.",
+    "options": [
+      {
+        "text": "A) Hipotiroidismo subclínico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se manifiesta clásicamente con acantosis nigricans."
+      },
+      {
+        "text": "B) Resistencia a la insulina / Diabetes Tipo 2.",
+        "isCorrect": true,
+        "explanation": "Correcto. La acantosis nigricans es un marcador cutáneo clínico de hiperinsulinismo secundario a resistencia a la insulina por obesidad."
+      },
+      {
+        "text": "C) Déficit de Hormona de Crecimiento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El déficit de GH causa talla baja, no acantosis."
+      },
+      {
+        "text": "D) Anemia megaloblástica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene relación con la pigmentación del cuello."
+      },
+      {
+        "text": "E) Síndrome de Turner.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se sospecha por talla baja y cuello alado, no por acantosis en paciente obeso."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Trastornos de la Conducta Alimentaria (TCA)",
+    "text": "Adolescente mujer consulta por amenorrea secundaria de 4 meses. Presenta lanugo en espalda, bradicardia, erosión del esmalte dental y signo de Russell en los nudillos. ¿Diagnóstico probable?",
+    "hint": "El signo de Russell indica lesiones por inducción manual del vómito.",
+    "options": [
+      {
+        "text": "A) Embarazo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque causa amenorrea, no explica el lanugo, la bradicardia ni las lesiones en manos."
+      },
+      {
+        "text": "B) Anorexia Nerviosa (tipo purgativo).",
+        "isCorrect": true,
+        "explanation": "Correcto. El lanugo y la bradicardia son signos de desnutrición/inanición, y las lesiones dentales/manos confirman conductas de purga."
+      },
+      {
+        "text": "C) Síndrome de Ovario Poliquístico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cursaría con acné e hirsutismo (exceso de vello androgénico), no lanugo ni bradicardia."
+      },
+      {
+        "text": "D) Prolactinoma.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa amenorrea y a veces galactorrea, pero no signos de conducta purgativa."
+      },
+      {
+        "text": "E) Hipotiroidismo severo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Da bradicardia, pero también piel seca/gruesa y estreñimiento, no los signos de purga."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Dismenorrea",
+    "text": "¿Cuál es el tratamiento de primera línea para la dismenorrea primaria (dolor menstrual) en adolescentes?",
+    "hint": "Se busca inhibir la síntesis de prostaglandinas uterinas.",
+    "options": [
+      {
+        "text": "A) Paracetamol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es menos efectivo que los AINEs para el dolor mediado por prostaglandinas."
+      },
+      {
+        "text": "B) Antiinflamatorios no esteroidales (AINEs) como Ibuprofeno o Ácido Mefenámico.",
+        "isCorrect": true,
+        "explanation": "Correcto. Bloquean la síntesis de prostaglandinas, que son las responsables de la contractilidad uterina dolorosa."
+      },
+      {
+        "text": "C) Antibióticos profilácticos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El dolor menstrual primario no es infeccioso."
+      },
+      {
+        "text": "D) Reposo absoluto en cama.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se recomienda actividad física moderada para mejorar el flujo y bienestar."
+      },
+      {
+        "text": "E) Cirugía laparoscópica inmediata.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo se plantea si hay sospecha de dismenorrea secundaria (ej. endometriosis) tras falla del tratamiento médico."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Consumo de Alcohol: Screening",
+    "text": "¿Cuál es la herramienta de tamizaje recomendada en APS para detectar consumo de riesgo de alcohol y drogas en adolescentes?",
+    "hint": "Es un acrónimo de 6 preguntas.",
+    "options": [
+      {
+        "text": "A) Test de Apgar familiar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Evalúa funcionalidad familiar, no consumo de sustancias."
+      },
+      {
+        "text": "B) CRAFFT.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el test validado internacionalmente para adolescentes; evalúa riesgos asociados al consumo de sustancias."
+      },
+      {
+        "text": "C) Test de Snellen.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Evalúa agudeza visual."
+      },
+      {
+        "text": "D) Escala de Glasgow.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Evalúa nivel de conciencia en urgencias."
+      },
+      {
+        "text": "E) Test de Denver.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Evalúa hitos del desarrollo en niños menores de 6 años."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Salud Mental: Depresión",
+    "text": "¿Cuál es el síntoma de presentación más común de la depresión en el adolescente, que difiere de la presentación en el adulto?",
+    "hint": "En lugar de tristeza, el adolescente suele estar 'de malas'.",
+    "options": [
+      {
+        "text": "A) Tristeza profunda y llanto.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el síntoma típico del adulto, pero el adolescente suele externalizar de otra forma."
+      },
+      {
+        "text": "B) Irritabilidad y cambios de humor constantes.",
+        "isCorrect": true,
+        "explanation": "Correcto. En pediatría y adolescencia, la irritabilidad suele reemplazar al ánimo depresivo melancólico del adulto."
+      },
+      {
+        "text": "C) Exceso de energía y falta de sueño.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto sugeriría un episodio maníaco."
+      },
+      {
+        "text": "D) Aumento del rendimiento escolar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El aislamiento y la baja de notas son signos de alerta."
+      },
+      {
+        "text": "E) Dolores musculares migratorios.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque puede haber somatización, la irritabilidad es el marcador afectivo clave."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Crecimiento: Retraso Constitucional",
+    "text": "Varón de 14 años consulta por baja talla. Sus padres son de estatura normal. Al examen: Tanner 1, testículos 3 ml. Edad ósea de 12 años. ¿Diagnóstico más probable?",
+    "hint": "El niño va a crecer, pero 'más tarde' que sus amigos.",
+    "options": [
+      {
+        "text": "A) Déficit de Hormona de Crecimiento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La velocidad de crecimiento suele estar muy caída y la edad ósea mucho más retrasada."
+      },
+      {
+        "text": "B) Retraso Constitucional del Crecimiento y la Pubertad (RCCP).",
+        "isCorrect": true,
+        "explanation": "Correcto. El retraso de la edad ósea respecto a la cronológica y el inicio puberal tardío son típicos de este cuadro ('late bloomer')."
+      },
+      {
+        "text": "C) Síndrome de Laron.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un enanismo severo por resistencia a la GH, no un retraso constitucional."
+      },
+      {
+        "text": "D) Talla baja familiar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los padres serían bajos y la edad ósea coincidiría con la edad cronológica."
+      },
+      {
+        "text": "E) Hipotiroidismo congénito.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se habría detectado al nacer; el hipotiroidismo adquirido daría bocio o piel seca."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Scoliosis",
+    "text": "¿Cuál es la prueba de tamizaje clínica para detectar Escoliosis Idiopática del Adolescente en el control de salud?",
+    "hint": "Se le pide al niño que se incline hacia adelante.",
+    "options": [
+      {
+        "text": "A) Maniobra de Ortolani.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es para detectar displasia de caderas en lactantes."
+      },
+      {
+        "text": "B) Test de Adams (Prueba de inclinación hacia adelante).",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite observar la asimetría del tronco (giba costal), indicando rotación vertebral patológica."
+      },
+      {
+        "text": "C) Maniobra de Barlow.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que Ortolani, es para caderas neonatales."
+      },
+      {
+        "text": "D) Signo de Trendelenburg.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Evalúa debilidad de los glúteos medios."
+      },
+      {
+        "text": "E) Test de Lachman.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Evalúa integridad del ligamento cruzado anterior en la rodilla."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Infecciones Transmisión Sexual (ITS)",
+    "text": "¿Cuál es la ITS bacteriana más frecuente en adolescentes sexualmente activos?",
+    "hint": "Suele ser asintomática y causar enfermedad inflamatoria pélvica si no se trata.",
+    "options": [
+      {
+        "text": "A) Sífilis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es menos prevalente que el agente principal de la lista."
+      },
+      {
+        "text": "B) Chlamydia trachomatis.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la causa bacteriana #1 de ITS en este grupo etario a nivel mundial."
+      },
+      {
+        "text": "C) Gonorrea.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es muy frecuente, pero estadísticamente la Clamidia la supera."
+      },
+      {
+        "text": "D) VIH.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una infección viral crónica, no una bacteria."
+      },
+      {
+        "text": "E) Herpes Simple Tipo 2.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Etiología viral, no bacteriana."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Sustancias: Tabaco",
+    "text": "¿Cuál es el principal efecto adverso agudo del consumo de tabaco en la capacidad pulmonar del adolescente?",
+    "hint": "Afecta el rendimiento en el deporte escolar.",
+    "options": [
+      {
+        "text": "A) Desarrollo inmediato de Enfisema.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El enfisema toma décadas de consumo para desarrollarse."
+      },
+      {
+        "text": "B) Disminución de la capacidad de transporte de oxígeno por carboxihemoglobina.",
+        "isCorrect": true,
+        "explanation": "Correcto. El monóxido de carbono del humo desplaza al oxígeno, reduciendo el rendimiento físico agudo."
+      },
+      {
+        "text": "C) Fibrosis pulmonar masiva.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un efecto agudo inicial."
+      },
+      {
+        "text": "D) Cáncer de pulmón antes de los 18 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Extremadamente raro; el riesgo aumenta con los años de consumo."
+      },
+      {
+        "text": "E) Ninguno, los pulmones de adolescente se limpian solos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El daño inflamatorio inicia desde el primer cigarrillo."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Desarrollo Puberal: Ginecomastia",
+    "text": "¿Cuál es el límite de tamaño para considerar que una ginecomastia puberal requiere estudio especializado y no solo observación?",
+    "hint": "Un tamaño mayor al de una areola normal.",
+    "options": [
+      {
+        "text": "A) > 1 cm.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el tamaño habitual del botón mamario puberal fisiológico."
+      },
+      {
+        "text": "B) > 4 cm de diámetro.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se considera 'Macromastia' y obliga a descartar causas endocrinas o tumorales subyacentes."
+      },
+      {
+        "text": "C) > 10 cm.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un tamaño masivo, pero la derivación debe hacerse mucho antes."
+      },
+      {
+        "text": "D) Cualquier tamaño si duele.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La sensibilidad es normal en la ginecomastia fisiológica temprana."
+      },
+      {
+        "text": "E) Solo si es unilateral.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La ginecomastia puberal suele empezar siendo unilateral; no es signo de alarma per se."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Vacunación Adolescente",
+    "text": "¿Qué vacuna se administra obligatoriamente en 8vo básico en el PNI de Chile?",
+    "hint": "Protege contra el tétanos, la difteria y la tos convulsiva.",
+    "options": [
+      {
+        "text": "A) Tres Vírica (SRP).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se pone a los 12 y 36 meses."
+      },
+      {
+        "text": "B) dTpa (Difteria, Tétanos, Pertussis acelular).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la dosis de refuerzo del adolescente según el calendario nacional."
+      },
+      {
+        "text": "C) Influenza.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una vacuna estacional anual, no de un curso específico por calendario."
+      },
+      {
+        "text": "D) BCG.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se pone exclusivamente al recién nacido."
+      },
+      {
+        "text": "E) Hepatitis A.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se pone a los 18 meses."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Adicciones: Marihuana",
+    "text": "¿Cuál es el impacto demostrado del consumo frecuente de marihuana en el cerebro del adolescente?",
+    "hint": "Afecta el centro de mando que aún se está cableando.",
+    "options": [
+      {
+        "text": "A) Mejora la memoria a corto plazo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Produce el efecto contrario (deterioro de memoria)."
+      },
+      {
+        "text": "B) Alteración irreversible del desarrollo de la corteza prefrontal y funciones ejecutivas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al estar el cerebro en maduración (poda sináptica), el THC interfiere con la conectividad de áreas de juicio y planificación."
+      },
+      {
+        "text": "C) Previene el desarrollo de psicosis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El consumo aumenta significativamente el riesgo de gatillar brotes psicóticos y esquizofrenia en personas vulnerables."
+      },
+      {
+        "text": "D) Aumenta la velocidad de procesamiento de información.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia a lentitud psicomotora y cognitiva."
+      },
+      {
+        "text": "E) No tiene efectos, es una droga natural.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una de las sustancias con mayor impacto negativo en el desarrollo neurocognitivo juvenil."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Trastorno de Ansiedad",
+    "text": "Adolescente consulta por crisis repetidas de palpitaciones, sensación de muerte inminente y sudoración. Tras descartar patología cardíaca, ¿cuál es el manejo inicial?",
+    "hint": "Se trata de un Trastorno de Pánico.",
+    "options": [
+      {
+        "text": "A) Cirugía de ablación cardíaca.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay arritmia orgánica de base."
+      },
+      {
+        "text": "B) Psicoterapia y evaluación por especialista (psiquiatra) para eventual uso de ISRS.",
+        "isCorrect": true,
+        "explanation": "Correcto. El manejo de los trastornos de pánico en adolescentes combina terapia conductual con fármacos moduladores de serotonina si es necesario."
+      },
+      {
+        "text": "C) Reposo deportivo por un año.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El deporte suele ayudar a canalizar la ansiedad; el reposo podría empeorar el cuadro."
+      },
+      {
+        "text": "D) Dieta sin cafeína exclusivamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ayuda a no exacerbar los síntomas, pero no trata el trastorno de fondo."
+      },
+      {
+        "text": "E) Uso de Propanolol solo cuando tenga crisis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo manejaría el síntoma físico (taquicardia), no la causa psiquiátrica de la crisis."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Hitos: Menarquia",
+    "text": "¿Cuál es la edad promedio de aparición de la menarquia en la población chilena actual?",
+    "hint": "Ocurre aproximadamente 2 años después de la aparición del botón mamario.",
+    "options": [
+      {
+        "text": "A) 10 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un inicio temprano que requeriría vigilancia."
+      },
+      {
+        "text": "B) 12.5 - 12.7 años.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el promedio estadístico en Chile; el rango normal es amplio (10-15 años)."
+      },
+      {
+        "text": "C) 15 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el límite superior para considerar amenorrea primaria."
+      },
+      {
+        "text": "D) 8 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se clasificaría como pubertad precoz."
+      },
+      {
+        "text": "E) 14 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque normal, es superior al promedio nacional."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Higiene del Sueño",
+    "text": "¿Cuál es el principal factor disruptor del sueño en el adolescente moderno según las encuestas de salud?",
+    "hint": "Tiene que ver con la luz azul de los dispositivos.",
+    "options": [
+      {
+        "text": "A) El exceso de tarea escolar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque influye, no es el factor transversal más potente."
+      },
+      {
+        "text": "B) Uso de pantallas (celular/RRSS) antes de dormir.",
+        "isCorrect": true,
+        "explanation": "Correcto. La luz azul suprime la melatonina y la hiperestimulación retrasa el inicio del sueño (vamping)."
+      },
+      {
+        "text": "C) Pesadillas nocturnas recurrentes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un trastorno del sueño específico, no un hábito poblacional masivo."
+      },
+      {
+        "text": "D) El consumo de leche tibia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. De hecho, puede ayudar a conciliar el sueño."
+      },
+      {
+        "text": "E) El ejercicio físico matutino.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El ejercicio temprano mejora la calidad del sueño nocturno."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Ovario Poliquístico (SOP) en Adolescentes",
+    "text": "Para diagnosticar SOP en una adolescente, ¿cuál de los siguientes criterios es MANDATORIO junto con la irregularidad menstrual?",
+    "hint": "No basta con ver quistes en la ecografía en esta edad.",
+    "options": [
+      {
+        "text": "A) Solo ver quistes en la ecografía.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En adolescentes, los ovarios polifoliculares son normales por la inmadurez del eje."
+      },
+      {
+        "text": "B) Evidencia clínica o bioquímica de hiperandrogenismo (ej. hirsutismo o testosterona alta).",
+        "isCorrect": true,
+        "explanation": "Correcto. Las guías internacionales exigen la presencia de exceso de andrógenos para evitar sobrediagnóstico en jóvenes."
+      },
+      {
+        "text": "C) Obesidad mórbida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia frecuentemente, pero hay adolescentes delgadas con SOP."
+      },
+      {
+        "text": "D) Talla baja extrema.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No forma parte de los criterios diagnósticos del SOP."
+      },
+      {
+        "text": "E) Resistencia a la insulina aislada.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que la obesidad, es una comorbilidad frecuente pero no un criterio diagnóstico per se."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Acne Vulgaris",
+    "text": "Adolescente con acné inflamatorio moderado que no responde a peróxido de benzilo tópico tras 3 meses. ¿Cuál es el siguiente paso terapéutico?",
+    "hint": "Se busca combatir la colonización por Cutibacterium acnes.",
+    "options": [
+      {
+        "text": "A) Suspender todo tratamiento y esperar a los 20 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Dejaría cicatrices permanentes físicas y psicológicas."
+      },
+      {
+        "text": "B) Agregar antibióticos orales (ej. Doxiciclina o Limeciclina) por periodo limitado.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el escalón terapéutico recomendado ante falla del manejo tópico inicial en acné moderado."
+      },
+      {
+        "text": "C) Iniciar Isotretinoína inmediatamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se reserva para acné severo, nódulo-quístico o refractario a antibióticos orales."
+      },
+      {
+        "text": "D) Dieta estricta sin grasas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La dieta tiene un impacto mínimo comparado con la terapia farmacológica en el acné moderado."
+      },
+      {
+        "text": "E) Lavado de cara 10 veces al día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El lavado excesivo irrita la piel y puede empeorar el cuadro (acné detergens)."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Conductas de Riesgo: SSH",
+    "text": "¿Qué evalúa el acrónimo SSH en la entrevista clínica del adolescente?",
+    "hint": "Sexualidad, Sustancias, Hábitos.",
+    "options": [
+      {
+        "text": "A) Situación Social y Habitación.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Incompleto."
+      },
+      {
+        "text": "B) Salud, Sueño e Higiene.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son temas generales pero no el acrónimo de screening de riesgos."
+      },
+      {
+        "text": "C) Sexualidad, Sustancias y Hábitos de riesgo/protección.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el núcleo de la entrevista de riesgo psicosocial en la atención integral del adolescente."
+      },
+      {
+        "text": "D) Solo el consumo de alcohol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Muy restrictivo."
+      },
+      {
+        "text": "E) Sociabilidad, Salud mental e Historia escolar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Forman parte de HEADDSSS, pero no definen a SSH."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Varicocele",
+    "text": "Hallazgo en el examen testicular del adolescente descrito como 'una bolsa de gusanos' sobre el testículo izquierdo. ¿Diagnóstico?",
+    "hint": "Dilatación de las venas del cordón espermático.",
+    "options": [
+      {
+        "text": "A) Hidrocele.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es acumulación de líquido en la túnica vaginal, se siente como un globo de agua."
+      },
+      {
+        "text": "B) Varicocele.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es muy común en adolescentes; su importancia radica en el riesgo potencial de infertilidad por aumento de temperatura testicular."
+      },
+      {
+        "text": "C) Tumor de células de Leydig.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se palpa como una masa sólida intrínseca del testículo, no venosa superficial."
+      },
+      {
+        "text": "D) Hernia inguinal indirecta.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Masa que protruye por el canal inguinal, no limitada al plexo venoso escrotal."
+      },
+      {
+        "text": "E) Orquitis bacteriana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cursa con dolor agudo, aumento de volumen generalizado, calor y fiebre."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Derechos: Acceso a VIH",
+    "text": "¿Desde qué edad un adolescente en Chile puede solicitar el examen de VIH sin acompañamiento ni autorización de sus padres?",
+    "hint": "Busca la edad de autonomía en salud sexual chilena.",
+    "options": [
+      {
+        "text": "A) 18 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es la mayoría de edad general, pero la ley otorga autonomía antes en este tema."
+      },
+      {
+        "text": "B) 14 años.",
+        "isCorrect": true,
+        "explanation": "Correcto. Según la modificación a la Ley del SIDA, los mayores de 14 años gozan de autonomía para el testeo y asesoría."
+      },
+      {
+        "text": "C) 16 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) 12 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Solo con orden judicial.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El acceso es libre y voluntario."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Sindrome Metabólico: Definición",
+    "text": "¿Cuál es el criterio de circunferencia de cintura para sospechar riesgo metabólico en un adolescente?",
+    "hint": "Se compara con su propio grupo de edad y sexo.",
+    "options": [
+      {
+        "text": "A) > 100 cm en todos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un criterio de adultos."
+      },
+      {
+        "text": "B) Percentil ≥ 90 para edad y sexo.",
+        "isCorrect": true,
+        "explanation": "Correcto. Indica obesidad abdominal, factor central en el desarrollo de resistencia a la insulina y riesgo cardiovascular."
+      },
+      {
+        "text": "C) Solo si tiene estrías moradas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las estrías sugieren Cushing o ganancia rápida de peso, pero no definen el riesgo metabólico per se."
+      },
+      {
+        "text": "D) > 80 cm en mujeres y 90 cm en hombres.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Valores fijos de población adulta latina, no aplicables directamente a adolescentes en crecimiento."
+      },
+      {
+        "text": "E) No se mide la cintura en pediatría.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una medición antropométrica obligatoria en el control de adolescentes obesos."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Prevención: Suicidio",
+    "text": "¿Cuál es la causa más frecuente de muerte externa (no natural) en adolescentes chilenos hombres?",
+    "hint": "Supera a los accidentes de tránsito en algunas estadísticas actuales.",
+    "options": [
+      {
+        "text": "A) Homicidios.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque presente, no es la primera causa nacional."
+      },
+      {
+        "text": "B) Suicidio.",
+        "isCorrect": true,
+        "explanation": "Correcto. Representa un grave problema de salud pública en Chile, siendo la principal causa de muerte violenta en adolescentes masculinos."
+      },
+      {
+        "text": "C) Accidentes de buceo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Muy poco frecuentes."
+      },
+      {
+        "text": "D) Sobredosis de heroína.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es el perfil epidemiológico de consumo predominante en Chile."
+      },
+      {
+        "text": "E) Caídas de altura.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Anemia: Diagnóstico Diferencial",
+    "text": "Ante una anemia microcítica en un adolescente con antecedentes de dieta vegetariana estricta sin suplementación, ¿qué otra carencia debe sospecharse además del hierro?",
+    "hint": "Afecta la maduración de los glóbulos rojos.",
+    "options": [
+      {
+        "text": "A) Vitamina C.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ayuda a absorber el hierro, pero no causa anemia carencial por sí sola en esta dieta."
+      },
+      {
+        "text": "B) Vitamina B12.",
+        "isCorrect": true,
+        "explanation": "Correcto. Las dietas veganas/vegetarianas estrictas carecen de B12, pudiendo coexistir una anemia ferropénica con una megaloblástica (anemia mixta)."
+      },
+      {
+        "text": "C) Vitamina D.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Afecta al hueso, no a la formación de glóbulos rojos."
+      },
+      {
+        "text": "D) Exceso de Selenio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Déficit de Vitamina K.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Afecta la coagulación, no la hematopoyesis eritroide."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Trastorno por Déficit de Atención (TDAH)",
+    "text": "¿Cuál es la complicación escolar más frecuente de un TDAH no diagnosticado ni tratado al llegar a la enseñanza media?",
+    "hint": "El adolescente se siente frustrado y abandona.",
+    "options": [
+      {
+        "text": "A) Genialidad incomprendida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Mito sin base científica."
+      },
+      {
+        "text": "B) Deserción escolar y aumento de conductas de riesgo (drogas/delincuencia).",
+        "isCorrect": true,
+        "explanation": "Correcto. La baja autoestima por fracaso académico acumulado predispone al adolescente a buscar pertenencia en grupos de riesgo y abandonar los estudios."
+      },
+      {
+        "text": "C) Mejora espontánea de los síntomas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque la hiperactividad motora puede bajar, el déficit atencional y la impulsividad suelen persistir."
+      },
+      {
+        "text": "D) Desarrollo de sordera funcional.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) No tiene impacto en la vida adulta.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Impacta en la empleabilidad y estabilidad emocional de por vida."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "HUA: Manejo Agudo",
+    "text": "Adolescente con sangrado menstrual masivo, anemia (Hb 8 g/dl) e inestabilidad leve. ¿Cuál es el tratamiento inicial de elección para detener el sangrado?",
+    "hint": "Se busca 'estabilizar' el endometrio con hormonas.",
+    "options": [
+      {
+        "text": "A) Histerectomía de urgencia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Medida extrema totalmente proscrita en adolescentes salvo cáncer incurable."
+      },
+      {
+        "text": "B) Estrógenos en altas dosis (o ACO combinados en esquema de ataque).",
+        "isCorrect": true,
+        "explanation": "Correcto. Los estrógenos detienen la descamación hemorrágica del endometrio de forma rápida."
+      },
+      {
+        "text": "C) Solo dar Hierro oral.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No detiene la causa del sangrado; solo intenta reponer lo perdido muy lentamente."
+      },
+      {
+        "text": "D) Vitaminas del complejo B.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tienen efecto hemostático."
+      },
+      {
+        "text": "E) Legrado uterino como primera opción.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se reserva solo si el tratamiento médico falla y el sangrado pone en riesgo la vida."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Urgencia Masculina: Torsión Testicular",
+    "text": "Varón de 13 años consulta por dolor testicular súbito de 2 horas de evolución, náuseas y ausencia de reflejo cremastérico. El testículo está ascendido y transverso. ¿Conducta?",
+    "hint": "Tiempo es tejido. Tienes 6 horas para salvar el testículo.",
+    "options": [
+      {
+        "text": "A) Solicitar urocultivo y esperar resultados.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El retraso causaría necrosis testicular irreversible."
+      },
+      {
+        "text": "B) Exploración quirúrgica de urgencia (Cirugía).",
+        "isCorrect": true,
+        "explanation": "Correcto. Ante la sospecha clínica de torsión testicular, la cirugía no debe retrasarse ni siquiera por una ecografía Doppler si esta demora la entrada a pabellón."
+      },
+      {
+        "text": "C) Hielo local y reposo deportivo por 1 semana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tratamiento para un golpe, no para una torsión vascular."
+      },
+      {
+        "text": "D) Antibióticos por sospecha de orquitis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La ausencia de reflejo cremastérico y el inicio súbito orientan a torsión, no a infección."
+      },
+      {
+        "text": "E) Masaje prostático transrectal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Totalmente contraindicado e inútil."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Higiene: Piercings y Tatuajes",
+    "text": "¿Cuál es el principal riesgo de infección viral crónica asociado a la realización de tatuajes en locales no autorizados?",
+    "hint": "Se transmite por sangre.",
+    "options": [
+      {
+        "text": "A) Resfrío común.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Hepatitis B, C y VIH.",
+        "isCorrect": true,
+        "explanation": "Correcto. El uso de agujas contaminadas es una vía clásica de transmisión de patógenos hematógenos de larga latencia."
+      },
+      {
+        "text": "C) Varicela.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Transmisión respiratoria/contacto cutáneo."
+      },
+      {
+        "text": "D) HPV (Virus del Papiloma Humano).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque posible por contacto, el riesgo sistémico mayor son las hepatitis y el VIH."
+      },
+      {
+        "text": "E) Mononucleosis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Transmisión por saliva."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Aspectos Legales: Abuso Sexual",
+    "text": "Ante la sospecha de abuso sexual en un adolescente, el médico debe realizar la denuncia de forma obligatoria antes de las:",
+    "hint": "Es un plazo legal perentorio para funcionarios públicos.",
+    "options": [
+      {
+        "text": "A) 1 semana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Demasiado tarde para proteger la evidencia y al paciente."
+      },
+      {
+        "text": "B) 24 horas.",
+        "isCorrect": true,
+        "explanation": "Correcto. El Código Procesal Penal chileno obliga a los profesionales de salud a denunciar delitos de los que tomen conocimiento en el ejercicio de su cargo en un plazo máximo de 24 horas."
+      },
+      {
+        "text": "C) 1 mes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) 48 horas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El plazo legal estricto es de 24 horas."
+      },
+      {
+        "text": "E) Solo si los padres están de acuerdo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La obligación de denuncia es independiente de la voluntad de los padres, especialmente si estos pudieran estar involucrados."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Factores Protectores",
+    "text": "¿Cuál es el principal factor protector frente al consumo de drogas en la adolescencia?",
+    "hint": "La familia y el entorno escolar son los pilares de la prevención.",
+    "options": [
+      {
+        "text": "A) Tener mucho dinero.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El nivel socioeconómico alto no es un factor protector; a veces se asocia a mayor acceso a sustancias."
+      },
+      {
+        "text": "B) Una relación cercana y de apoyo con los padres/cuidadores.",
+        "isCorrect": true,
+        "explanation": "Correcto. La supervisión parental afectiva y la comunicación abierta son los factores protectores más potentes documentados contra las conductas de riesgo."
+      },
+      {
+        "text": "C) Acceso a internet de alta velocidad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Puede ser un factor de riesgo por acceso a información/grupos no supervisados."
+      },
+      {
+        "text": "D) Vivir en una ciudad grande.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Tener muchos seguidores en redes sociales.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La búsqueda de validación externa digital a menudo correlaciona con mayor vulnerabilidad emocional."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Variantes del Desarrollo: Telarquia",
+    "text": "¿Qué es la 'Telarquia precoz aislada'?",
+    "hint": "No hay activación general del eje puberal.",
+    "options": [
+      {
+        "text": "A) Desarrollo mamario antes de los 8 años con aceleración de talla.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Si hay aceleración de talla y edad ósea avanzada, es una pubertad precoz verdadera."
+      },
+      {
+        "text": "B) Desarrollo mamario antes de los 8 años sin otros signos de pubertad (crecimiento normal, edad ósea normal).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una variante normal del desarrollo; solo requiere observación ya que no implica activación del eje central."
+      },
+      {
+        "text": "C) Menstruación a los 7 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se llama menarquia precoz y es siempre patológica."
+      },
+      {
+        "text": "D) Cáncer de mama infantil.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cuadro extremadamente raro y no corresponde a la definición de telarquia aislada."
+      },
+      {
+        "text": "E) Aumento de grasa en las mamas por obesidad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se denomina adipomastia o pseudoginecomastia, no telarquia."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Salud del Adolescente",
+    "topic": "Anemia Ferropénica",
+    "text": "Adolescente consulta por fatiga. Hemoglobina de 10.8 g/dl, ferritina baja. ¿Cuál es la causa más probable?",
+    "hint": "Falta de hierro por aumento de demanda y pérdidas.",
+    "options": [
+      {
+        "text": "A) Anemia de enfermedades crónicas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tendría ferritina normal o elevada."
+      },
+      {
+        "text": "B) Anemia ferropénica (por dieta pobre o aumento de pérdidas menstruales).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el cuadro de anemia más prevalente en la adolescencia mundial y nacional."
+      },
+      {
+        "text": "C) Talasemia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es genética; el VCM sería extremadamente bajo pero con ferritina normal."
+      },
+      {
+        "text": "D) Déficit de Vitamina B12.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Daría anemia macrocítica."
+      },
+      {
+        "text": "E) Leucemia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No encaja con la ferritina baja aislada sin otros signos sistémicos."
+      }
+    ]
+  }
+]
