@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Definición de Diarrea Aguda",
+    "text": "Clínicamente, ¿cuánto dura la diarrea aguda?",
+    "hint": "La OMS establece un límite de dos semanas para diferenciarla de la persistente.",
+    "options": [
+      {
+        "text": "A) Menos de 7 días",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque muchas diarreas virales autolimitadas duran menos de una semana, el límite cronológico para definir diarrea 'aguda' es de 14 días. Menos de 7 días no es una clasificación diagnóstica estándar."
+      },
+      {
+        "text": "B) Menos de 14 días",
+        "isCorrect": true,
+        "explanation": "Correcto. Según la OMS y el Manual de Pediatría UC, la diarrea aguda se define como un aumento en la frecuencia y disminución de la consistencia de las heces con una duración menor a 14 días."
+      },
+      {
+        "text": "C) Entre 14 y 30 días",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este rango temporal define a la diarrea como 'persistente' o 'subaguda', la cual suele asociar riesgos de malnutrición y daño de mucosa prolongado."
+      },
+      {
+        "text": "D) Más de 30 días",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Una duración superior a los 30 días (o 4 semanas) se clasifica como diarrea 'crónica', lo que obliga a investigar causas no infecciosas como enfermedad celíaca o EII."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Fisiopatología: Diarrea Osmótica",
+    "text": "¿Qué tipo de diarrea cesa con el ayuno?",
+    "hint": "Ocurre cuando hay sustancias en la luz intestinal que 'atraen' agua por diferencia de concentración.",
+    "options": [
+      {
+        "text": "A) Secretora",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La diarrea secretora (ej. cólera) se debe a la secreción activa de electrolitos por parte de los enterocitos mediada por toxinas; por tanto, el flujo de agua persiste incluso si el paciente no ingiere nada."
+      },
+      {
+        "text": "B) Inflamatoria",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La diarrea inflamatoria (o invasiva) resulta del daño directo a la mucosa, exudación de sangre, moco y pus; el daño estructural mantiene la diarrea independientemente del ayuno."
+      },
+      {
+        "text": "C) Osmótica",
+        "isCorrect": true,
+        "explanation": "Correcto. Se produce por la presencia de solutos no absorbibles en el lumen (como lactosa en déficit de lactasa). Al suspender la ingesta del soluto (ayuno), se elimina la fuerza osmótica que arrastra agua y la diarrea se detiene."
+      },
+      {
+        "text": "D) Motora",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Depende de alteraciones en el tránsito (ej. hipertiroidismo). Aunque puede variar con la comida, no es una característica definitoria que desaparezca estrictamente con el ayuno como la osmótica."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Etiología Viral: Rotavirus",
+    "text": "¿Qué patógeno causa frecuentemente diarrea grave en lactantes?",
+    "hint": "Es la principal causa de internación por deshidratación en menores de 5 años.",
+    "options": [
+      {
+        "text": "A) Norovirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque el Norovirus es muy frecuente y causa brotes masivos en todas las edades, el Rotavirus es históricamente el agente que provoca cuadros más deshidratantes y graves en el grupo de lactantes."
+      },
+      {
+        "text": "B) Rotavirus",
+        "isCorrect": true,
+        "explanation": "Correcto. El Rotavirus es el principal agente de gastroenteritis aguda grave en lactantes. Su patogenia incluye la destrucción de vellosidades y la acción de la enterotoxina NSP4."
+      },
+      {
+        "text": "C) Adenovirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los serotipos entéricos (40 y 41) causan diarrea prolongada pero generalmente menos explosiva y menos grave en términos de deshidratación aguda que el Rotavirus."
+      },
+      {
+        "text": "D) Astrovirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Produce cuadros similares a una gastroenteritis leve o moderada, con menor impacto clínico sistémico en comparación con el Rotavirus."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Síndrome Urémico Hemolítico (SUH)",
+    "text": "¿Qué bacteria se asocia al Síndrome Urémico Hemolítico (SUH)?",
+    "hint": "Busca la cepa que produce la toxina Shiga.",
+    "options": [
+      {
+        "text": "A) Campylobacter jejuni",
+        "isCorrect": false,
+        "explanation": "Incorrecto. C. jejuni es una causa común de disentería y se asocia clásicamente al Síndrome de Guillain-Barré por mimetismo molecular, pero no es la causa típica del SUH."
+      },
+      {
+        "text": "B) Vibrio cholerae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa diarrea secretora masiva ('agua de arroz') mediada por AMPc, pero no invade mucosa ni genera la microangiopatía trombótica característica del SUH."
+      },
+      {
+        "text": "C) E. coli enterohemorrágica (O157:H7)",
+        "isCorrect": true,
+        "explanation": "Correcto. Esta cepa produce la toxina Shiga, que tras pasar a la sangre daña el endotelio de los capilares glomerulares, causando la tríada de falla renal aguda, anemia hemolítica y trombocitopenia."
+      },
+      {
+        "text": "D) Shigella sonnei",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque Shigella dysenteriae tipo 1 puede causar SUH, S. sonnei (la más común en Chile) produce cuadros de disentería más leves sin liberación masiva de toxina Shiga sistémica."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Complicaciones de la Diarrea",
+    "text": "¿Cuál es la complicación más urgente de la diarrea aguda?",
+    "hint": "Es la causa inmediata de mortalidad si no se restituye el balance de fluidos.",
+    "options": [
+      {
+        "text": "A) Desnutrición",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una complicación severa a mediano plazo por malabsorción o dietas restrictivas, pero no compromete la vida en las primeras horas como lo hace el shock."
+      },
+      {
+        "text": "B) Deshidratación",
+        "isCorrect": true,
+        "explanation": "Correcto. La pérdida de agua y electrolitos en las deposiciones puede llevar rápidamente a hipovolemia, shock cardiogénico y muerte si no se inicia la rehidratación precoz (Plan A, B o C)."
+      },
+      {
+        "text": "C) Sepsis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque puede ocurrir en diarreas por Salmonella o en neonatos, estadísticamente el riesgo de muerte por deshidratación e inestabilidad hemodinámica es mucho mayor y más frecuente."
+      },
+      {
+        "text": "D) Anemia",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Puede ser una consecuencia en diarreas disentéricas crónicas o por parásitos, pero no es la emergencia vital prioritaria de la gastroenteritis aguda."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Diarrea del Viajero",
+    "text": "¿Qué microorganismo causa la 'diarrea del viajero' más a menudo?",
+    "hint": "Representa hasta el 80% de los casos en personas que viajan a áreas con saneamiento deficiente.",
+    "options": [
+      {
+        "text": "A) E. coli enterotoxigénica (ECET)",
+        "isCorrect": true,
+        "explanation": "Correcto. La ECET es la causa número uno de diarrea del viajero. Produce toxinas termolábiles (LT) y termoestables (ST) que generan una diarrea acuosa profusa."
+      },
+      {
+        "text": "B) Salmonella typhi",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa la fiebre tifoidea, un cuadro sistémico febril grave que suele iniciar con estreñimiento antes de la diarrea y requiere tratamiento antibiótico específico."
+      },
+      {
+        "text": "C) Giardia lamblia",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una causa posible en viajeros (especialmente tras beber agua de arroyos), pero su curso suele ser más subagudo o prolongado y no es el agente más frecuente."
+      },
+      {
+        "text": "D) Entamoeba histolytica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Provoca amebiasis (disentería con sangre y moco), pero epidemiológicamente representa un porcentaje muy pequeño comparado con las infecciones por E. coli."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Parásitos: Giardia lamblia",
+    "text": "¿Qué parásito es común tras beber agua de arroyos en la montaña?",
+    "hint": "Causa una diarrea con malabsorción de grasas (esteatorrea) y mucha flatulencia.",
+    "options": [
+      {
+        "text": "A) Ascaris lumbricoides",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un helminto que se transmite por tierra o alimentos contaminados con huevos; causa cuadros obstructivos o respiratorios (Löffler), no diarrea acuosa de montaña."
+      },
+      {
+        "text": "B) Cryptosporidium",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque se transmite por agua, se asocia más a brotes en piscinas públicas (resiste al cloro) y cuadros graves en inmunocomprometidos."
+      },
+      {
+        "text": "C) Giardia lamblia",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el parásito protozoario más común en aguas superficiales no tratadas. Sus quistes son muy resistentes y causan una diarrea crónica/persistente con esteatorrea."
+      },
+      {
+        "text": "D) Taenia solium",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se adquiere por la ingesta de carne de cerdo cruda con cisticercos, provocando teniasis intestinal, no gastroenteritis aguda por agua."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Clostridioides difficile",
+    "text": "¿Qué antibiótico se asocia más a la infección por C. difficile?",
+    "hint": "Altera drásticamente la microbiota del colon, permitiendo que esta bacteria anaerobia prolifere.",
+    "options": [
+      {
+        "text": "A) Penicilina G",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La penicilina simple tiene un espectro muy limitado y rara vez altera la flora colónica lo suficiente como para gatillar una colitis pseudomembranosa."
+      },
+      {
+        "text": "B) Clindamicina",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el antibiótico 'clásico' asociado a esta infección. Al barrer con los anaerobios protectores del colon, deja el nicho libre para la sobreproliferación de C. difficile."
+      },
+      {
+        "text": "C) Azitromicina",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque los macrólidos pueden causar diarrea (por estímulo de receptores de motilina), su asociación con C. difficile es sustancialmente menor que la de lincosamidas o cefalosporinas."
+      },
+      {
+        "text": "D) Gentamicina",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al ser un aminoglucósido administrado por vía parenteral y con nula actividad sobre anaerobios, no afecta de forma importante la microbiota intestinal distal."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Definición de Disentería",
+    "text": "¿Qué define a la disentería?",
+    "hint": "Es el signo clínico de invasión y destrucción de la mucosa intestinal.",
+    "options": [
+      {
+        "text": "A) Diarrea con moco y sangre",
+        "isCorrect": true,
+        "explanation": "Correcto. La disentería es un síndrome caracterizado por inflamación del colon, que se manifiesta con deposiciones de pequeño volumen con sangre visible, moco y a menudo pujo o tenesmo."
+      },
+      {
+        "text": "B) Diarrea acuosa profusa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto describe a las diarreas secretoras (ej. Cólera) donde no hay daño estructural de la mucosa, sino un desbalance iónico."
+      },
+      {
+        "text": "C) Diarrea con restos de alimentos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se denomina 'lientería' e indica un tránsito intestinal muy acelerado o un síndrome de malabsorción, no necesariamente un proceso invasivo."
+      },
+      {
+        "text": "D) Diarrea con pus exclusivamente",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque la disentería suele tener leucocitos (pus), la definición clásica y el signo de alarma que obliga a estudio es la presencia de sangre."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Tratamiento de C. difficile",
+    "text": "¿Cuál es el tratamiento de elección para C. difficile leve a moderado?",
+    "hint": "Se prefiere la vía oral para asegurar niveles altos del fármaco en el lumen del colon.",
+    "options": [
+      {
+        "text": "A) Metronidazol oral",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Antiguamente era la primera línea, pero las guías actuales (IDSA) lo han relegado a segunda opción debido a mayores tasas de falla terapéutica y recurrencias."
+      },
+      {
+        "text": "B) Vancomicina oral o Fidaxomicina",
+        "isCorrect": true,
+        "explanation": "Correcto. Son los fármacos de elección. La Vancomicina por vía oral no se absorbe, por lo que alcanza concentraciones bactericidas altísimas en el sitio de la infección (colon)."
+      },
+      {
+        "text": "C) Ciprofloxacino",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El uso de fluoroquinolonas es, de hecho, uno de los principales factores de riesgo para desarrollar esta infección; no sirve para tratarla."
+      },
+      {
+        "text": "D) Loperamida",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Está ABSOLUTAMENTE contraindicada en diarreas bacterianas invasivas o por toxinas, ya que favorece la retención de las mismas y el riesgo de megacolon tóxico."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Gap Osmótico Fecal",
+    "text": "¿En qué tipo de diarrea hay un 'gap osmótico' fecal elevado?",
+    "hint": "El gap mide la diferencia entre la osmolaridad total y los electrolitos medidos (Sodio + Potasio).",
+    "options": [
+      {
+        "text": "A) Secretora",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En la secretora, la diarrea está formada por agua y electrolitos propios del cuerpo; el gap es bajo (<50 mOsm/kg)."
+      },
+      {
+        "text": "B) Motora",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El tránsito rápido no añade solutos osmóticamente activos, por lo que el gap se mantiene en rangos normales."
+      },
+      {
+        "text": "C) Inflamatoria",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El líquido fecal es un exudado inflamatorio con niveles de electrolitos similares al plasma."
+      },
+      {
+        "text": "D) Osmótica",
+        "isCorrect": true,
+        "explanation": "Correcto. Existe una sustancia no medida (ej. lactosa o magnesio) que retiene agua. Esto genera un gap elevado (>100 mOsm/kg) al restar los electrolitos de la osmolaridad total."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Etiología: Vibrio cholerae",
+    "text": "¿Qué bacteria causa heces en 'agua de arroz'?",
+    "hint": "Es una diarrea extremadamente acuosa, blanquecina e incolora.",
+    "options": [
+      {
+        "text": "A) Shigella dysenteriae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa disentería (deposiciones escasas con mucha sangre y moco), no diarrea acuosa masiva incolora."
+      },
+      {
+        "text": "B) Vibrio cholerae",
+        "isCorrect": true,
+        "explanation": "Correcto. La toxina colérica provoca una secreción masiva de cloro y agua. El aspecto de 'agua de arroz' se debe a los cúmulos de moco y células epiteliales descamadas."
+      },
+      {
+        "text": "C) Salmonella enterica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Típicamente causa heces verdosas ('puré de guisantes') o sanguinolentas y con olor fétido."
+      },
+      {
+        "text": "D) Yersinia enterocolitica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa diarrea inflamatoria y dolor en fosa ilíaca derecha que imita a una apendicitis."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Farmacología: Loperamida",
+    "text": "¿Qué fármaco antidiarreico es un opioide sintético?",
+    "hint": "Actúa sobre los receptores mu del intestino pero no tiene efectos centrales.",
+    "options": [
+      {
+        "text": "A) Racecadotrilo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un inhibidor de la encefalinasa (antisecretor); no se une directamente a receptores opioides."
+      },
+      {
+        "text": "B) Loperamida",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un agonista de los receptores opioides mu en el plexo mientérico, lo que enlentece la motilidad intestinal y aumenta la absorción de agua."
+      },
+      {
+        "text": "C) Bismuto subsalicilato",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un compuesto con propiedades antiinflamatorias locales y bactericidas, sin relación con el sistema opioide."
+      },
+      {
+        "text": "D) Octreótido",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un análogo de la somatostatina que se usa en diarreas secretoras tumorales refractarias."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad Celíaca",
+    "text": "¿En qué patología se busca el anticuerpo antitransglutaminasa (anti-tTG)?",
+    "hint": "Es la prueba de tamizaje más sensible y específica para la sensibilidad al gluten.",
+    "options": [
+      {
+        "text": "A) Enfermedad de Crohn",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia a calprotectina fecal elevada y anticuerpos ASCA, pero no anti-tTG."
+      },
+      {
+        "text": "B) Colitis ulcerosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia a pANCA positivos y afectación rectal/colónica, no a intolerancia al trigo."
+      },
+      {
+        "text": "C) Enfermedad celíaca",
+        "isCorrect": true,
+        "explanation": "Correcto. El anticuerpo IgA anti-tTG es el marcador de elección. Su positividad obliga a confirmar mediante biopsia de duodeno (Escala de Marsh)."
+      },
+      {
+        "text": "D) Síndrome de intestino irritable",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un trastorno funcional sin base autoinmune; los marcadores serológicos son siempre negativos."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Marcadores: Calprotectina",
+    "text": "¿Qué examen fecal es el mejor marcador de inflamación intestinal?",
+    "hint": "Detecta la migración de neutrófilos hacia el lumen intestinal.",
+    "options": [
+      {
+        "text": "A) Coprocultivo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sirve para identificar patógenos bacterianos específicos, no mide la magnitud de la inflamación mucosa."
+      },
+      {
+        "text": "B) Calprotectina fecal",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una proteína muy estable liberada por leucocitos inflamatorios. Sus niveles altos diferencian patología orgánica de funcional (ej. SII)."
+      },
+      {
+        "text": "C) Sangre oculta en heces",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un test de tamizaje para cáncer o sangrado crónico, pero no es específico de inflamación aguda o crónica activa."
+      },
+      {
+        "text": "D) Elastasa fecal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se utiliza exclusivamente para diagnosticar insuficiencia pancreática exocrina (mide función de la glándula)."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Suplementación: Zinc",
+    "text": "¿Qué suplemento recomienda la OMS en niños con diarrea?",
+    "hint": "Reduce la duración del episodio y la probabilidad de nuevas diarreas en los siguientes meses.",
+    "options": [
+      {
+        "text": "A) Vitamina C",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene evidencia sólida para el manejo agudo de la gastroenteritis infantil."
+      },
+      {
+        "text": "B) Hierro",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Durante la fase aguda de la diarrea, el hierro puede ser irritante gástrico y no es la prioridad terapéutica inmediata."
+      },
+      {
+        "text": "C) Zinc",
+        "isCorrect": true,
+        "explanation": "Correcto. La OMS recomienda 20 mg diarios (10 mg en menores de 6 meses) por 10-14 días para reparar la mucosa y mejorar la inmunidad intestinal."
+      },
+      {
+        "text": "D) Calcio",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene rol en la fisiopatología ni recuperación de la diarrea aguda."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Fisiopatología: Diarrea Secretora",
+    "text": "¿Qué característica tiene la diarrea secretora?",
+    "hint": "Piense en el volumen y la relación con las comidas.",
+    "options": [
+      {
+        "text": "A) Mejora con el ayuno",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta es la característica clave de la diarrea osmótica; la secretora persiste a pesar de no comer."
+      },
+      {
+        "text": "B) Volúmenes fecales muy grandes (>1 litro/día en adultos)",
+        "isCorrect": true,
+        "explanation": "Correcto. La secreción activa masiva de iones hacia el lumen arrastra volúmenes de agua que sobrepasan la capacidad de reabsorción del colon."
+      },
+      {
+        "text": "C) Gap osmótico elevado",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El gap es bajo (<50) porque la diarrea es rica en electrolitos corporales."
+      },
+      {
+        "text": "D) Presencia de grasa visible",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto se denomina esteatorrea y es signo de malabsorción, no de hipersecreción iónica."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Salmonella no tifoidea",
+    "text": "¿Qué bacteria transmiten frecuentemente las aves de corral y los huevos?",
+    "hint": "Causa común de brotes tras comer mayonesa casera o pollo mal cocido.",
+    "options": [
+      {
+        "text": "A) Listeria monocytogenes",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia principalmente a lácteos no pasteurizados, quesos blandos y carnes frías (embutidos)."
+      },
+      {
+        "text": "B) Staphylococcus aureus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su reservorio es la piel humana; contamina pasteles y cremas por mala manipulación."
+      },
+      {
+        "text": "C) Salmonella no tifoidea",
+        "isCorrect": true,
+        "explanation": "Correcto. Salmonella enteritidis es el agente clásico transmitido por huevos contaminados y carne de ave insuficientemente cocida."
+      },
+      {
+        "text": "D) Bacillus cereus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia específicamente al consumo de arroz recalentado (toxina emética)."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Sales de Rehidratación Oral (SRO)",
+    "text": "¿Cuál es el tratamiento inicial para una deshidratación leve a moderada?",
+    "hint": "Aprovecha el mecanismo fisiológico de absorción acoplada Sodio-Glucosa.",
+    "options": [
+      {
+        "text": "A) Suero intravenoso (Ringer Lactato)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se reserva para el Plan C (deshidratación grave o shock) por ser invasivo y tener mayor riesgo de complicaciones electrolíticas."
+      },
+      {
+        "text": "B) Sales de Rehidratación Oral (SRO)",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el método más seguro y costo-efectivo. Las SRO de baja osmolaridad (OMS) logran rehidratar al 95% de los pacientes sin necesidad de vías venosas."
+      },
+      {
+        "text": "C) Agua pura en abundancia",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El agua libre puede diluir el sodio plasmático causando hiponatremia y convulsiones; faltan los electrolitos que se pierden en la diarrea."
+      },
+      {
+        "text": "D) Bebidas deportivas (tipo Gatorade)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tienen demasiada azúcar (pueden empeorar la diarrea osmótica) y muy poco sodio para corregir las pérdidas por gastroenteritis."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Intoxicación por S. aureus",
+    "text": "¿Qué bacteria suele causar intoxicación alimentaria rápida (1-6 horas) tras comer mayonesa o cremas?",
+    "hint": "Los síntomas son causados por una enterotoxina preformada en el alimento antes de ser ingerido.",
+    "options": [
+      {
+        "text": "A) Staphylococcus aureus",
+        "isCorrect": true,
+        "explanation": "Correcto. Produce una enterotoxina termoestable. Al ser una toxina ya lista, el inicio de los vómitos y náuseas es casi inmediato (pocas horas)."
+      },
+      {
+        "text": "B) Campylobacter jejuni",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Requiere un periodo de incubación de 2 a 5 días para colonizar e invadir el intestino."
+      },
+      {
+        "text": "C) Shigella",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su incubación es de 1 a 3 días y cursa típicamente con disentería febril, no vómitos rápidos."
+      },
+      {
+        "text": "D) Clostridium perfringens",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele demorar entre 8 y 16 horas y se asocia a carnes mal conservadas; el síntoma predominante es diarrea acuosa, no vómitos precoces."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Signos de Deshidratación Severa",
+    "text": "¿Qué signo indica deshidratación SEVERA en un bebé?",
+    "hint": "Refleja el fallo de la perfusión cerebral y el colapso de los depósitos hídricos.",
+    "options": [
+      {
+        "text": "A) Llanto con lágrimas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La presencia de lágrimas indica que las glándulas aún tienen perfusión y agua suficiente (deshidratación leve o nula)."
+      },
+      {
+        "text": "B) Sed intensa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el signo cardinal de la deshidratación moderada (Plan B). En la severa, el paciente suele estar demasiado deprimido para pedir agua."
+      },
+      {
+        "text": "C) Fontanela deprimida y letargo",
+        "isCorrect": true,
+        "explanation": "Correcto. Son signos de hipoperfusión orgánica extrema. El letargo indica compromiso del SNC por deshidratación e hipovolemia crítica."
+      },
+      {
+        "text": "D) Orina clara",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es signo de buen estado de hidratación. Un niño con deshidratación severa presenta anuria u orina muy concentrada escasa."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Diarrea Facticia",
+    "text": "¿Qué causa la 'diarrea facticia'?",
+    "hint": "Es un trastorno en el que el síntoma es autoinducido por el paciente.",
+    "options": [
+      {
+        "text": "A) Tumores secretores de gastrina",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una causa orgánica real (Síndrome de Zollinger-Ellison)."
+      },
+      {
+        "text": "B) Uso oculto de laxantes",
+        "isCorrect": true,
+        "explanation": "Correcto. El paciente simula o se provoca la enfermedad ingiriendo laxantes en secreto (ej. fenolftaleína), a menudo en el contexto de un trastorno psiquiátrico."
+      },
+      {
+        "text": "C) Isquemia de las arterias mesentéricas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una patología vascular orgánica grave, típica en ancianos o pacientes con riesgo cardiovascular."
+      },
+      {
+        "text": "D) Sobrecrecimiento bacteriano",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una causa orgánica demostrable de diarrea por alteración de la flora del intestino delgado."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "VIH y Diarrea Oportunista",
+    "text": "¿Qué patógeno es un riesgo mayor en pacientes con VIH con recuento de CD4 muy bajo?",
+    "hint": "Parásito oportunista que causa diarrea acuosa intratable en el SIDA.",
+    "options": [
+      {
+        "text": "A) Cryptosporidium parvum",
+        "isCorrect": true,
+        "explanation": "Correcto. En pacientes con CD4 < 100, este parásito causa una diarrea acuosa masiva de litros al día que puede ser mortal."
+      },
+      {
+        "text": "B) Helicobacter pylori",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia a gastritis y úlceras pépticas, pero no es una infección oportunista ligada al recuento de CD4 en el VIH."
+      },
+      {
+        "text": "C) Streptococcus pneumoniae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa neumonía y sepsis bacteriana, no cuadros de diarrea crónica oportunista."
+      },
+      {
+        "text": "D) Listeria monocytogenes",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En inmunocomprometidos causa principalmente meningitis o bacteriemia, no diarrea masiva crónica."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Loperamida: Contraindicaciones",
+    "text": "¿En qué caso ESTÁ CONTRAINDICADO el uso de Loperamida?",
+    "hint": "No debe usarse si se sospecha que hay bacterias dañando la pared intestinal.",
+    "options": [
+      {
+        "text": "A) Diarrea acuosa del viajero sin fiebre",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En diarreas puramente acuosas sin signos de invasión, puede usarse con precaución para alivio sintomático."
+      },
+      {
+        "text": "B) Diarrea secretora crónica funcional",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se usa a veces para regular el tránsito si se ha descartado infección activa."
+      },
+      {
+        "text": "C) Diarrea con sangre y fiebre alta (Disentería)",
+        "isCorrect": true,
+        "explanation": "Correcto. Paralizar el intestino en una disentería bacteriana prolonga el contacto del patógeno con la mucosa e impide la eliminación de toxinas, aumentando el riesgo de perforación y sepsis."
+      },
+      {
+        "text": "D) Síndrome de Intestino Irritable con predominio de diarrea",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una de sus indicaciones clínicas más frecuentes para el control del hábito intestinal."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Elastasa Fecal",
+    "text": "¿Qué evalúa el test de Elastasa fecal?",
+    "hint": "Determina si el páncreas está enviando suficientes enzimas digestivas al intestino.",
+    "options": [
+      {
+        "text": "A) Sangrado digestivo oculto",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Para eso se utiliza el test de guayaco o inmunoquímico en heces."
+      },
+      {
+        "text": "B) Infección por parásitos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se evalúa mediante el examen parasitológico seriado de deposiciones."
+      },
+      {
+        "text": "C) Insuficiencia pancreática exocrina",
+        "isCorrect": true,
+        "explanation": "Correcto. La elastasa-1 es una enzima pancreática que no se degrada al pasar por el intestino. Niveles bajos confirman que el páncreas no funciona bien (ej. Fibrosis Quística)."
+      },
+      {
+        "text": "D) Alergia a la proteína de la leche",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se diagnostica por clínica y respuesta a dieta de exclusión, no por niveles de enzimas pancreáticas."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Mecanismo de la Toxina Colérica",
+    "text": "¿Cómo es el mecanismo de la toxina del Cólera?",
+    "hint": "Altera la señalización química intracelular (AMP cíclico).",
+    "options": [
+      {
+        "text": "A) Destruye las vellosidades intestinales (atrofia)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este es el mecanismo del Rotavirus y otros virus que causan malabsorción por daño físico."
+      },
+      {
+        "text": "B) Bloquea la síntesis de proteínas (Ribosomas)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este es el mecanismo de la toxina Shiga (SUH)."
+      },
+      {
+        "text": "C) Activa el AMP cíclico, abriendo canales de cloro",
+        "isCorrect": true,
+        "explanation": "Correcto. La toxina estimula permanentemente la adenilato ciclasa; el cloro sale masivamente al lumen arrastrando sodio y agua."
+      },
+      {
+        "text": "D) Produce hemólisis de glóbulos rojos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El Cólera no produce hemólisis sistémica ni microangiopatía."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Escala de Bristol",
+    "text": "En la escala de heces de Bristol, ¿qué tipos corresponden a diarrea?",
+    "hint": "Busca las formas líquidas y desmoronadas.",
+    "options": [
+      {
+        "text": "A) Tipos 1 y 2",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indican estreñimiento o tránsito lento (bolitas duras)."
+      },
+      {
+        "text": "B) Tipos 3 y 4",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son las formas ideales y normales de las deposiciones."
+      },
+      {
+        "text": "C) Tipo 5",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son trozos de masa blanda con bordes cortados, aún no se consideran diarrea franca."
+      },
+      {
+        "text": "D) Tipos 6 y 7",
+        "isCorrect": true,
+        "explanation": "Correcto. El tipo 6 (trozos pastosos deshechos) y el tipo 7 (totalmente líquida) definen el cuadro de diarrea."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Campylobacter jejuni",
+    "text": "¿Qué bacteria causante de diarrea se asocia al Síndrome de Guillain-Barré?",
+    "hint": "La complicación neurológica ocurre semanas después de la diarrea.",
+    "options": [
+      {
+        "text": "A) Campylobacter jejuni",
+        "isCorrect": true,
+        "explanation": "Correcto. Los antígenos de su pared bacteriana inducen la formación de anticuerpos que reaccionan de forma cruzada contra los gangliósidos de los nervios periféricos."
+      },
+      {
+        "text": "B) Vibrio cholerae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene asociación conocida con neuropatías autoinmunes post-infecciosas."
+      },
+      {
+        "text": "C) E. coli O157:H7",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia clásicamente al Síndrome Urémico Hemolítico (daño renal)."
+      },
+      {
+        "text": "D) Clostridium perfringens",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa intoxicación por carnes contaminadas, pero sin secuelas neurológicas de este tipo."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Esteatorrea",
+    "text": "¿Qué define a la esteatorrea?",
+    "hint": "Es el signo clínico de mala absorción de grasas.",
+    "options": [
+      {
+        "text": "A) Heces con pus (leucocitos fecales)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indica inflamación colónica (colitis), no malabsorción de nutrientes."
+      },
+      {
+        "text": "B) Heces negras y alquitranadas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se llama melena e indica hemorragia digestiva alta."
+      },
+      {
+        "text": "C) Exceso de grasa en las heces (pálidas, brillantes y flotantes)",
+        "isCorrect": true,
+        "explanation": "Correcto. Se produce por déficit de lipasa pancreática o sales biliares, dejando la grasa sin digerir en el lumen intestinal."
+      },
+      {
+        "text": "D) Heces en forma de cinta delgada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugiere una disminución del calibre del colon distal o recto (ej. masa obstructiva)."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Síndrome de Intestino Irritable",
+    "text": "¿Qué síndrome se caracteriza por dolor abdominal que mejora al defecar y sin causa orgánica demostrable?",
+    "hint": "Es la causa más frecuente de consulta gastrointestinal funcional.",
+    "options": [
+      {
+        "text": "A) Enfermedad de Crohn",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una enfermedad orgánica inflamatoria con daño visible en la mucosa intestinal y marcadores de inflamación elevados."
+      },
+      {
+        "text": "B) Síndrome de Intestino Irritable (SII)",
+        "isCorrect": true,
+        "explanation": "Correcto. Cumple con los criterios de Roma IV: dolor abdominal recurrente asociado a la defecación y cambios en el hábito, con estudios de laboratorio normales."
+      },
+      {
+        "text": "C) Colitis microscópica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una causa orgánica que requiere biopsia para detectar inflamación no visible por endoscopia."
+      },
+      {
+        "text": "D) Cáncer colorrectal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una patología estructural con hallazgos neoplásicos en la colonoscopia y signos de alarma ausentes en el SII."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Norovirus: Epidemiología",
+    "text": "¿Qué virus es responsable de brotes clásicos en cruceros y recintos cerrados?",
+    "hint": "Es altamente resistente al alcohol y se transmite con solo unas pocas partículas virales.",
+    "options": [
+      {
+        "text": "A) Astrovirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Afecta mayormente a niños pequeños y no suele causar brotes epidémicos tan explosivos en adultos."
+      },
+      {
+        "text": "B) Rotavirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Principal causa en pediatría, pero poco común como causa de brotes en adultos sanos."
+      },
+      {
+        "text": "C) Norovirus",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el agente principal de gastroenteritis epidémica en todo el mundo, muy contagioso por vía fecal-oral y vómitos (aerosoles)."
+      },
+      {
+        "text": "D) Citomegalovirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa diarrea casi exclusivamente en pacientes con inmunosupresión severa (ej. SIDA o trasplantados)."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad de Whipple",
+    "text": "Paciente con diarrea crónica, artralgias y biopsia con macrófagos PAS positivos. ¿Diagnóstico?",
+    "hint": "Causada por la bacteria Tropheryma whipplei.",
+    "options": [
+      {
+        "text": "A) Enfermedad de Whipple",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la tríada clásica de síntomas sistémicos (diarrea, dolor articular, pérdida de peso) y el hallazgo histológico confirmatorio."
+      },
+      {
+        "text": "B) Colitis ulcerosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presenta sangre en heces e inflamación limitada al colon, sin macrófagos PAS positivos intestinales."
+      },
+      {
+        "text": "C) Sprue tropical",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se ve en personas que viven en el trópico; causa atrofia vellositaria pero no el hallazgo sistémico del Whipple."
+      },
+      {
+        "text": "D) Linfoma intestinal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una neoplasia maligna; la biopsia mostraría proliferación de linfocitos atípicos."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Diarrea por Lactosa: Mecanismo",
+    "text": "¿Qué mecanismo explica la diarrea por intolerancia a la lactosa?",
+    "hint": "El azúcar no digerido se queda en el intestino y atrae agua.",
+    "options": [
+      {
+        "text": "A) Toxinas bacterianas secretoras",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay participación de toxinas en este proceso bioquímico enzimático."
+      },
+      {
+        "text": "B) Invasión física de la mucosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La lactosa no daña la pared, solo se queda en la luz."
+      },
+      {
+        "text": "C) Mecanismo osmótico",
+        "isCorrect": true,
+        "explanation": "Correcto. La lactosa no absorbida retiene agua por ósmosis. Luego es fermentada por bacterias colónicas produciendo gas y ácidos."
+      },
+      {
+        "text": "D) Alteración del sistema nervioso entérico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La motilidad se altera secundariamente, pero el origen es puramente osmótico-químico."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Tratamiento: Antibióticos",
+    "text": "¿Qué antibiótico empírico se recomienda en disentería febril aguda?",
+    "hint": "Debe cubrir Gram negativos invasivos (Shigella, Salmonella).",
+    "options": [
+      {
+        "text": "A) Amoxicilina",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las tasas de resistencia bacteriana intestinal a la amoxicilina son altísimas en la actualidad."
+      },
+      {
+        "text": "B) Azitromicina o Ciprofloxacino",
+        "isCorrect": true,
+        "explanation": "Correcto. Son los fármacos de elección para acortar el curso de diarreas bacterianas invasivas confirmadas o con criterios de gravedad."
+      },
+      {
+        "text": "C) Metronidazol",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo es útil contra anaerobios y protozoos (Ameba/Giardia), no contra enterobacterias como Shigella."
+      },
+      {
+        "text": "D) Vancomicina oral",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se reserva única y exclusivamente para el tratamiento de la infección por Clostridioides difficile."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Colitis Microscópica",
+    "text": "¿Cómo se presenta habitualmente la 'Colitis Microscópica'?",
+    "hint": "Típica en mujeres de edad media con colonoscopia macroscópicamente normal.",
+    "options": [
+      {
+        "text": "A) Diarrea acuosa crónica sin sangre",
+        "isCorrect": true,
+        "explanation": "Correcto. La mucosa se ve sana a simple vista, pero la biopsia muestra una capa de colágeno engrosada o infiltrado linfocitario masivo."
+      },
+      {
+        "text": "B) Heces con grasa visible (esteatorrea)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este síntoma orienta a patología de intestino delgado o páncreas, no a colitis microscópica colónica."
+      },
+      {
+        "text": "C) Diarrea fulminante con fiebre de 40°C",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una enfermedad de curso crónico e indolente, no un proceso infeccioso agudo tóxico."
+      },
+      {
+        "text": "D) Estreñimiento severo de meses",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Por definición, la colitis microscópica es una causa de diarrea crónica."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Sobrecrecimiento Bacteriano (SIBO)",
+    "text": "¿Qué prueba diagnostica el Sobrecrecimiento Bacteriano del Intestino Delgado (SIBO)?",
+    "hint": "Mide el gas producido por las bacterias tras dar un azúcar al paciente.",
+    "options": [
+      {
+        "text": "A) Coprocultivo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Evalúa la flora del colon, no permite diagnosticar problemas de carga bacteriana en el intestino delgado proximal."
+      },
+      {
+        "text": "B) Prueba de aliento con glucosa o lactulosa (Hidrógeno)",
+        "isCorrect": true,
+        "explanation": "Correcto. Si las bacterias están en el intestino delgado, fermentan el azúcar prematuramente liberando hidrógeno que se detecta en el aire espirado."
+      },
+      {
+        "text": "C) Colonoscopia total",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El endoscopio no llega habitualmente a las zonas del intestino delgado donde ocurre el SIBO ni mide carga bacteriana."
+      },
+      {
+        "text": "D) Resonancia magnética",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo ve anatomía macroscópica, no un fenómeno funcional y microbiológico como el SIBO."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Diarrea Intrahospitalaria",
+    "text": "¿Cuál es la causa más común de diarrea nosocomial (adquirida en el hospital)?",
+    "hint": "Aparece tras el uso de antibióticos de amplio espectro en el piso de hospitalización.",
+    "options": [
+      {
+        "text": "A) Salmonella",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un patógeno característicamente adquirido en la comunidad por alimentos contaminados."
+      },
+      {
+        "text": "B) Clostridioides difficile",
+        "isCorrect": true,
+        "explanation": "Correcto. Es, con diferencia, el patógeno más importante y frecuente en pacientes hospitalizados bajo tratamiento antibiótico."
+      },
+      {
+        "text": "C) Rotavirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Puede causar brotes en servicios de pediatría, pero no es la causa dominante en la población hospitalizada general."
+      },
+      {
+        "text": "D) Shigella",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Infección típica de la comunidad asociada a fallas en la higiene fecal-oral."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Racecadotrilo: Mecanismo",
+    "text": "¿Qué fármaco inhibe la enzima encefalinasa para reducir la secreción intestinal?",
+    "hint": "Es un fármaco antisecretor puro que no causa estreñimiento.",
+    "options": [
+      {
+        "text": "A) Racecadotrilo",
+        "isCorrect": true,
+        "explanation": "Correcto. Al evitar la degradación de las encefalinas naturales, disminuye la secreción excesiva de agua hacia el lumen intestinal."
+      },
+      {
+        "text": "B) Loperamida",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Actúa por un mecanismo motor (frena el movimiento) al ser un agonista de receptores mu."
+      },
+      {
+        "text": "C) Colestiramina",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una resina de intercambio que se une a los ácidos biliares en el lumen."
+      },
+      {
+        "text": "D) Bismuto",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Actúa por efecto antiinflamatorio local y antibacteriano directo."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad Celíaca: Dieta",
+    "text": "Diarrea que desaparece al suspender el pan, pastas y cereales de trigo sugiere:",
+    "hint": "Tratamiento de por vida con dieta sin TACC.",
+    "options": [
+      {
+        "text": "A) Infección por amebas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Requiere tratamiento farmacológico y no depende de la ingesta de cereales."
+      },
+      {
+        "text": "B) Enfermedad Celíaca",
+        "isCorrect": true,
+        "explanation": "Correcto. La recuperación completa de la mucosa y el cese de los síntomas al eliminar el gluten es la base del manejo de esta patología."
+      },
+      {
+        "text": "C) Intolerancia a la lactosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El gatillo es la leche y sus derivados, no el gluten del trigo."
+      },
+      {
+        "text": "D) Insuficiencia pancreática",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Requiere suplementos enzimáticos; la dieta sin gluten no resuelve la falta de lipasa."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Plan A de Rehidratación",
+    "text": "¿Cuál es un signo de 'paciente sin deshidratación' (Plan A) según la OMS?",
+    "hint": "El paciente está alerta y no tiene cambios en su apariencia física.",
+    "options": [
+      {
+        "text": "A) Pliegue cutáneo que desaparece lento",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un signo clásico de deshidratación moderada (algún grado de deshidratación)."
+      },
+      {
+        "text": "B) Ojos francamente hundidos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indica una pérdida de fluidos de moderada a grave."
+      },
+      {
+        "text": "C) Estado de alerta normal y sed normal",
+        "isCorrect": true,
+        "explanation": "Correcto. Define al paciente que puede ser manejado en casa con líquidos habituales y SRO tras cada deposición líquida."
+      },
+      {
+        "text": "D) Inconsciencia",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el signo de alarma máximo de shock hipovolémico severo (Plan C)."
+      }
+    ]
+  }
+]
