@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Signos Clínicos de Shock",
+    "text": "¿Cuál es el signo clínico más precoz y característico del shock compensado en un lactante?",
+    "hint": "El cuerpo intenta mantener el gasto cardíaco aumentando la frecuencia ante la caída del volumen sistólico.",
+    "options": [
+      {
+        "text": "A) Hipotensión arterial sistólica.",
+        "isCorrect": false,
+        "explanation": "La hipotensión es un signo tardío en pediatría y define al shock descompensado; su aparición precede a menudo al paro cardiorrespiratorio inminente."
+      },
+      {
+        "text": "B) Taquicardia persistente.",
+        "isCorrect": true,
+        "explanation": "Es el mecanismo compensatorio inicial más importante. Permite mantener la presión arterial normal a pesar de la caída del volumen sistólico aumentando la frecuencia y la resistencia vascular periférica."
+      },
+      {
+        "text": "C) Llenado capilar > 5 segundos.",
+        "isCorrect": false,
+        "explanation": "Es un signo de shock avanzado o falla circulatoria grave. Aunque un llenado > 2s es patológico, la taquicardia suele ser más sensible y precoz."
+      },
+      {
+        "text": "D) Bradicardia extrema.",
+        "isCorrect": false,
+        "explanation": "Es un signo de shock terminal o hipoxia severa en neonatos y lactantes, indicando el fallo inminente de la bomba cardíaca."
+      },
+      {
+        "text": "E) Oliguria severa.",
+        "isCorrect": false,
+        "explanation": "Es un signo de hipoperfusión orgánica en shock establecido, pero requiere tiempo de observación y no es detectable en el examen físico inmediato inicial."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Fluidoterapia de Emergencia",
+    "text": "Según las guías PALS 2020 y el Consenso SLACIP, ¿cuál es el volumen y tipo de fluido recomendado para el primer bolo inicial en un niño con shock séptico sin hepatomegalia ni crépitos pulmonares?",
+    "hint": "Se prefieren soluciones isotónicas para la expansión rápida del volumen intravascular.",
+    "options": [
+      {
+        "text": "A) 10 ml/kg de Suero Glucosado al 5%.",
+        "isCorrect": false,
+        "explanation": "El suero glucosado nunca se usa para expansión de volumen; la glucosa se metaboliza rápido y el agua libre se mueve al intracelular, además de causar hiperglicemia osmótica."
+      },
+      {
+        "text": "B) 20 ml/kg de Suero Fisiológico (NaCl 0.9%) o Ringer Lactato.",
+        "isCorrect": true,
+        "explanation": "Es el estándar de reanimación inicial. Se administran cristaloides isotónicos en 5 a 10 minutos, evaluando respuesta y signos de sobrecarga tras cada bolo."
+      },
+      {
+        "text": "C) 50 ml/kg de Albúmina al 5%.",
+        "isCorrect": false,
+        "explanation": "Los coloides no son la primera línea; se reservan para casos con hipoalbuminemia severa o falta de respuesta a grandes volúmenes de cristaloides."
+      },
+      {
+        "text": "D) 20 ml/kg de Suero Fisiológico al 0.45%.",
+        "isCorrect": false,
+        "explanation": "Es una solución hipotónica. Su uso en shock está contraindicado porque favorece el edema celular y no expande eficazmente el vaso."
+      },
+      {
+        "text": "E) 10 ml/kg de Sangre total.",
+        "isCorrect": false,
+        "explanation": "La sangre se indica en shock hemorrágico masivo (Clase IV), no como primer bolo en el shock séptico estándar."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Clasificación Hemodinámica",
+    "text": "Un niño de 5 años ingresa con fiebre, piel fría, moteada, pulso periférico débil y llenado capilar de 4 segundos. La presión arterial es normal. ¿Cómo clasifica este tipo de shock séptico?",
+    "hint": "Piense en la temperatura de las extremidades y el estado de la resistencia vascular periférica.",
+    "options": [
+      {
+        "text": "A) Shock séptico caliente (vasopléjico).",
+        "isCorrect": false,
+        "explanation": "Presentaría extremidades calientes, pulsos saltones y llenado capilar rápido (< 1s), indicando vasodilatación."
+      },
+      {
+        "text": "B) Shock séptico frío (bajo gasto con alta resistencia).",
+        "isCorrect": true,
+        "explanation": "Es el más común en pediatría. Se caracteriza por bajo gasto cardíaco y vasoconstricción compensatoria intensa que produce frialdad y pulsos débiles."
+      },
+      {
+        "text": "C) Shock cardiogénico puro.",
+        "isCorrect": false,
+        "explanation": "Se sospecharía ante antecedentes de cardiopatía, ritmo de galope o ingurgitación yugular evidente."
+      },
+      {
+        "text": "D) Shock hipovolémico por deshidratación.",
+        "isCorrect": false,
+        "explanation": "Requeriría una historia clara de pérdidas (diarrea/vómitos) sin el contexto de foco infeccioso o fiebre."
+      },
+      {
+        "text": "E) Shock distributivo neurogénico.",
+        "isCorrect": false,
+        "explanation": "Cursaría con bradicardia asociada a la hipotensión y piel caliente bajo el nivel de una lesión medular."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Antibioterapia en Sepsis",
+    "text": "¿Cuál es el tiempo meta establecido como la 'Hora de Oro' para la administración del primer antibiótico en un niño con sospecha firme de shock séptico?",
+    "hint": "Cada hora de retraso en el antibiótico aumenta significativamente la mortalidad en sepsis.",
+    "options": [
+      {
+        "text": "A) Dentro de las primeras 6 horas.",
+        "isCorrect": false,
+        "explanation": "Las 6 horas son para metas de estabilización hemodinámica completa, pero el antibiótico es una prioridad inmediata."
+      },
+      {
+        "text": "B) Dentro de la primera hora desde el reconocimiento.",
+        "isCorrect": true,
+        "explanation": "La administración de antibióticos de amplio espectro debe ocurrir en los primeros 60 minutos para mejorar drásticamente el pronóstico."
+      },
+      {
+        "text": "C) Solo después de obtener los resultados de los hemocultivos.",
+        "isCorrect": false,
+        "explanation": "Nunca se debe retrasar el tratamiento esperando cultivos; la mortalidad aumenta exponencialmente con la espera."
+      },
+      {
+        "text": "D) Después de terminar la tercera carga de volumen.",
+        "isCorrect": false,
+        "explanation": "El tratamiento es simultáneo. No se debe postergar la terapia etiológica por la reanimación con fluidos."
+      },
+      {
+        "text": "E) A las 24 horas del ingreso.",
+        "isCorrect": false,
+        "explanation": "Plazo inaceptable que conlleva un altísimo riesgo de muerte por falla multiorgánica."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Soporte Vasoactivo",
+    "text": "En un lactante con shock séptico que persiste hipotenso y mal perfundido tras 40-60 ml/kg de cristaloides, ¿cuál es el vasoactivo de primera línea recomendado para el SHOCK FRÍO?",
+    "hint": "Se busca un fármaco que mejore la contractilidad (inotrópico) y venoconstricción.",
+    "options": [
+      {
+        "text": "A) Dopamina a dosis bajas.",
+        "isCorrect": false,
+        "explanation": "Guías antiguas la recomendaban, pero las actuales (PALS/SLACIP) la desplazan a favor de adrenalina/noradrenalina por mejor sobrevida."
+      },
+      {
+        "text": "B) Adrenalina (Epinefrina) en infusión continua.",
+        "isCorrect": true,
+        "explanation": "Es el fármaco de elección para el shock frío (dosis 0.05-0.3 mcg/kg/min). Mejora el inotropismo y supera la alta resistencia vascular periférica."
+      },
+      {
+        "text": "C) Noradrenalina (Norepinefrina).",
+        "isCorrect": false,
+        "explanation": "Es la elección para el shock 'caliente' (vasopléjico), donde predomina la pérdida de tono vascular."
+      },
+      {
+        "text": "D) Dobutamina sola.",
+        "isCorrect": false,
+        "explanation": "Útil ante disfunción miocárdica pura con presión normal, pero insuficiente en shock hipotenso comparado con adrenalina."
+      },
+      {
+        "text": "E) Nitroprusiato de sodio.",
+        "isCorrect": false,
+        "explanation": "Es un vasodilatador para crisis hipertensivas; está contraindicado en un shock séptico con hipotensión."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Monitorización de Sobrecarga hídrica",
+    "text": "Un paciente presenta hepatomegalia de 4 cm y ruidos húmedos pulmonares tras recibir 20 ml/kg de suero. ¿Conducta recomendada respecto a la fluidoterapia?",
+    "hint": "Los signos de sobrecarga indican que el corazón no tolera más precarga.",
+    "options": [
+      {
+        "text": "A) Administrar otros 20 ml/kg rápido.",
+        "isCorrect": false,
+        "explanation": "Provocaría un edema agudo de pulmón iatrogénico y mayor disfunción cardíaca."
+      },
+      {
+        "text": "B) Detener los bolos de fluidos y evaluar inicio precoz de vasoactivos.",
+        "isCorrect": true,
+        "explanation": "La aparición de signos de sobrecarga es una contraindicación para seguir expandiendo. Se requiere soporte inotrópico para mejorar el gasto sin 'encharcar'."
+      },
+      {
+        "text": "C) Cambiar a Suero Glucosado.",
+        "isCorrect": false,
+        "explanation": "No resuelve el problema de la perfusión ni de la sobrecarga hídrica en el shock."
+      },
+      {
+        "text": "D) Administrar Furosemida en bolo de inmediato.",
+        "isCorrect": false,
+        "explanation": "Solo se usa tras estabilizar el shock; en fase aguda puede empeorar la volemia efectiva a pesar de la sobrecarga."
+      },
+      {
+        "text": "E) Iniciar diálisis peritoneal.",
+        "isCorrect": false,
+        "explanation": "Es una terapia para falla renal establecida o sobrecarga refractaria en UCI, no el manejo inicial del shock."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Metas de Reanimación",
+    "text": "¿Cuál es la meta de Saturación de Oxígeno Venoso Central (ScvO2) que se busca alcanzar en la reanimación del shock séptico pediátrico?",
+    "hint": "Refleja el equilibrio entre el aporte de oxígeno (DO2) y el consumo tisular (VO2).",
+    "options": [
+      {
+        "text": "A) > 60%.",
+        "isCorrect": false,
+        "explanation": "Valor aceptable en cardiópatas crónicos, pero insuficiente como meta de reanimación en sepsis aguda."
+      },
+      {
+        "text": "B) > 70%.",
+        "isCorrect": true,
+        "explanation": "Es una de las metas hemodinámicas clave (junto con lactato normal y llenado < 2s), indicando que el gasto cardíaco cubre las demandas metabólicas."
+      },
+      {
+        "text": "C) > 90%.",
+        "isCorrect": false,
+        "explanation": "Un valor tan alto sugiere falla en la extracción celular de oxígeno (citotoxicidad mitocondrial) y es de mal pronóstico."
+      },
+      {
+        "text": "D) Exactamente 100%.",
+        "isCorrect": false,
+        "explanation": "Es imposible en sangre venosa; indicaría un error de medición o un 'shunt' masivo."
+      },
+      {
+        "text": "E) Entre 40-50%.",
+        "isCorrect": false,
+        "explanation": "Indica un estado de hipoperfusión severa con extracción compensatoria máxima de oxígeno."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Uso de Corticoides en Shock",
+    "text": "¿En qué situación clínica está indicado el uso de Hidrocortisona en el manejo del shock séptico pediátrico?",
+    "hint": "Se busca revertir la 'resistencia a catecolaminas'.",
+    "options": [
+      {
+        "text": "A) En todos los niños con sepsis desde el ingreso.",
+        "isCorrect": false,
+        "explanation": "No se recomienda de rutina; puede aumentar el riesgo de infecciones secundarias e hiperglicemia innecesaria."
+      },
+      {
+        "text": "B) En pacientes con shock séptico refractario a fluidos y que requieren dosis crecientes de vasoactivos.",
+        "isCorrect": true,
+        "explanation": "Se reserva para sospecha de insuficiencia adrenal relativa inducida por la enfermedad crítica. Se usa Hidrocortisona a 50 mg/m2/día o 2 mg/kg/día."
+      },
+      {
+        "text": "C) Solo si el paciente tiene una púrpura palpable.",
+        "isCorrect": false,
+        "explanation": "Aunque es típico en el Waterhouse-Friderichsen, la indicación de shock refractario es el criterio principal."
+      },
+      {
+        "text": "D) Solo en adolescentes con DM1.",
+        "isCorrect": false,
+        "explanation": "No es una indicación ligada exclusivamente a patología endocrina previa en este contexto."
+      },
+      {
+        "text": "E) Para tratar la fiebre alta.",
+        "isCorrect": false,
+        "explanation": "La fiebre se trata con antipiréticos; los corticoides tienen un rol hemodinámico y metabólico distinto."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Sepsis en Lactante Menor",
+    "text": "Un lactante de 2 meses presenta fiebre, mala succión y letargia. ¿Cuál es el antibiótico de elección inicial empírico mientras se esperan cultivos?",
+    "hint": "Se debe cubrir S. agalactiae, E. coli y Listeria monocytogenes.",
+    "options": [
+      {
+        "text": "A) Amoxicilina oral.",
+        "isCorrect": false,
+        "explanation": "Inaceptable; la sospecha de sepsis en lactantes menores requiere vía endovenosa obligatoria."
+      },
+      {
+        "text": "B) Cefotaxima (o Ceftriaxona) más Ampicilina.",
+        "isCorrect": true,
+        "explanation": "La ampicilina cubre Listeria y Enterococo, y la cefalosporina de 3ra generación cubre los Gram negativos del canal del parto."
+      },
+      {
+        "text": "C) Vancomicina sola.",
+        "isCorrect": false,
+        "explanation": "Insuficiente para cubrir la flora Gram negativa y Listeria característica de este grupo etario."
+      },
+      {
+        "text": "D) Ciprofloxacino.",
+        "isCorrect": false,
+        "explanation": "No es de primera línea debido a su espectro incompleto para patógenos neonatales y perfil de seguridad."
+      },
+      {
+        "text": "E) Metronidazol.",
+        "isCorrect": false,
+        "explanation": "Solo cubre anaerobios; no es el esquema base para una sepsis sistémica neonatal/lactante común."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Marcadores de Perfusión",
+    "text": "¿Qué marcador de laboratorio es el más útil para monitorizar la respuesta a la reanimación y el aclaramiento de toxinas en el shock?",
+    "hint": "Su elevación indica hipoxia tisular y metabolismo anaeróbico.",
+    "options": [
+      {
+        "text": "A) Hemoglobina.",
+        "isCorrect": false,
+        "explanation": "Mide capacidad de transporte pero no refleja la perfusión tisular minuto a minuto."
+      },
+      {
+        "text": "B) Lactato plasmático.",
+        "isCorrect": true,
+        "explanation": "Su descenso (aclaramiento) en las primeras horas es un potente predictor de supervivencia y confirma la mejora de la perfusión tisular."
+      },
+      {
+        "text": "C) Recuento de blancos (Leucocitos).",
+        "isCorrect": false,
+        "explanation": "Es un marcador de inflamación/infección, no un parámetro hemodinámico dinámico."
+      },
+      {
+        "text": "D) Proteína C Reactiva (PCR).",
+        "isCorrect": false,
+        "explanation": "Sube y baja lentamente (cinética de 24-48h); no sirve para guiar la reanimación inmediata."
+      },
+      {
+        "text": "E) Creatinina.",
+        "isCorrect": false,
+        "explanation": "Refleja función renal pero su elevación es lenta ante la injuria renal aguda del shock."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Optimización del Gasto Cardíaco",
+    "text": "¿Por qué se recomienda la intubación y ventilación mecánica precoz en casos de shock refractario a volumen?",
+    "hint": "El esfuerzo respiratorio en shock consume hasta el 40% del gasto cardíaco.",
+    "options": [
+      {
+        "text": "A) Porque todos los niños en shock dejan de respirar.",
+        "isCorrect": false,
+        "explanation": "Muchos mantienen respiración de Kussmaul; la intubación busca optimizar el gasto cardíaco, no solo tratar la apnea."
+      },
+      {
+        "text": "B) Para disminuir el trabajo respiratorio y redirigir el gasto cardíaco hacia órganos vitales.",
+        "isCorrect": true,
+        "explanation": "Elimina el enorme gasto metabólico de los músculos respiratorios fatigados, liberando flujo para el cerebro y corazón."
+      },
+      {
+        "text": "C) Solo para poder administrar sedantes más fuertes.",
+        "isCorrect": false,
+        "explanation": "La sedación es una consecuencia necesaria de la intubación, no el objetivo fisiopatológico primario."
+      },
+      {
+        "text": "D) Para que el niño no llore.",
+        "isCorrect": false,
+        "explanation": "No es un objetivo médico de seguridad hemodinámica."
+      },
+      {
+        "text": "E) Porque el oxígeno al 100% solo entra con tubo.",
+        "isCorrect": false,
+        "explanation": "Falso. El oxígeno al 100% se puede dar por mascarilla; la ventaja de la VM es mecánica y de control de presiones."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Accesos Vasculares",
+    "text": "¿Cuál es la vía de elección si no se logra acceso venoso periférico en 90 segundos o 3 intentos en un niño en shock descompensado?",
+    "hint": "'La médula ósea es una vena que no se colapsa'.",
+    "options": [
+      {
+        "text": "A) Vía Venosa Central por subclavia.",
+        "isCorrect": false,
+        "explanation": "Requiere mucho tiempo y destreza; tiene alto riesgo de complicaciones durante la reanimación activa."
+      },
+      {
+        "text": "B) Vía Intraósea.",
+        "isCorrect": true,
+        "explanation": "Es la alternativa de elección. Rápida de instalar, permite pasar cualquier fluido o fármaco a dosis de urgencia de forma segura."
+      },
+      {
+        "text": "C) Vía Intramuscular profunda.",
+        "isCorrect": false,
+        "explanation": "Absorción nula o errática en un paciente con mala perfusión periférica."
+      },
+      {
+        "text": "D) Vía Rectal.",
+        "isCorrect": false,
+        "explanation": "Inútil para la reanimación masiva de fluidos y fármacos en shock."
+      },
+      {
+        "text": "E) Disección de vena safena.",
+        "isCorrect": false,
+        "explanation": "Procedimiento quirúrgico lento y obsoleto ante la rapidez y eficacia de la aguja intraósea."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Shock 'Caliente' Pediátrico",
+    "text": "Un niño de 12 años con shock séptico presenta extremidades calientes, pulsos saltones y presión diastólica muy baja. ¿Vasoactivo de elección?",
+    "hint": "Se necesita un potente efecto alfa-1 para recuperar el tono vascular (vasoconstricción).",
+    "options": [
+      {
+        "text": "A) Adrenalina.",
+        "isCorrect": false,
+        "explanation": "Es de elección en el shock frío. En shock caliente se prefiere noradrenalina por ser más específica para la vasoplejía."
+      },
+      {
+        "text": "B) Noradrenalina.",
+        "isCorrect": true,
+        "explanation": "Elección para el shock 'caliente' o vasopléjico; su efecto es primordialmente vasoconstrictor para subir la resistencia vascular disminuida."
+      },
+      {
+        "text": "C) Milrinona.",
+        "isCorrect": false,
+        "explanation": "Es un inodilatador. Empeoraría el shock caliente al provocar mayor vasodilatación sistémica."
+      },
+      {
+        "text": "D) Vasopresina únicamente.",
+        "isCorrect": false,
+        "explanation": "Se usa como rescate en shock refractario a noradrenalina, no como primera línea aislada."
+      },
+      {
+        "text": "E) Propranolol.",
+        "isCorrect": false,
+        "explanation": "Es un betabloqueador; está contraindicado ya que deprimiría el gasto cardíaco en un paciente crítico."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Definición de Refractariedad",
+    "text": "¿Qué se entiende por 'Shock Séptico Refractario a Fluidos'?",
+    "hint": "Es el punto de corte para iniciar soporte vasoactivo según las guías internacionales.",
+    "options": [
+      {
+        "text": "A) Aquel que no mejora tras 10 ml/kg de suero.",
+        "isCorrect": false,
+        "explanation": "Es un volumen insuficiente; 10 ml/kg es el mínimo para un primer bolo evaluativo."
+      },
+      {
+        "text": "B) Persistencia de signos de hipoperfusión tras recibir al menos 40-60 ml/kg de cristaloides.",
+        "isCorrect": true,
+        "explanation": "Indica que el volumen administrado en la primera hora no logró restaurar la perfusión, obligando al uso de apoyo farmacológico."
+      },
+      {
+        "text": "C) Cuando el niño tiene mucha sed.",
+        "isCorrect": false,
+        "explanation": "La sed no define el estado hemodinámico patológico de refractariedad."
+      },
+      {
+        "text": "D) Cuando no se puede poner una vía venosa.",
+        "isCorrect": false,
+        "explanation": "Eso se define como dificultad de acceso vascular, no refractariedad del shock."
+      },
+      {
+        "text": "E) Aquel que requiere cirugía de inmediato.",
+        "isCorrect": false,
+        "explanation": "La necesidad quirúrgica depende del foco, no de la respuesta hemodinámica a fluidos."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Metas de Hemoglobina en Shock",
+    "text": "¿Cuál es el objetivo de hemoglobina (Hb) recomendado si la ScvO2 persiste < 70% tras volumen y vasoactivos?",
+    "hint": "Se busca optimizar el transporte de oxígeno (DO2).",
+    "options": [
+      {
+        "text": "A) Mantener Hb > 7 g/dL.",
+        "isCorrect": false,
+        "explanation": "Es el umbral para pacientes estables; en shock con hipoperfusión persistente se busca un nivel superior."
+      },
+      {
+        "text": "B) Mantener Hb > 10 g/dL.",
+        "isCorrect": true,
+        "explanation": "Si persiste la baja saturación venosa (alto consumo o bajo aporte), subir la Hb a 10 maximiza la capacidad de transporte de la sangre."
+      },
+      {
+        "text": "C) No transfundir nunca.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La transfusión es un pilar ante el fracaso de otras medidas para mejorar la oxigenación tisular."
+      },
+      {
+        "text": "D) Hb > 15 g/dL.",
+        "isCorrect": false,
+        "explanation": "Provocaría hiperviscosidad, dificultando la microcirculación en un paciente ya comprometido."
+      },
+      {
+        "text": "E) Solo transfundir si la Hb es < 5 g/dL.",
+        "isCorrect": false,
+        "explanation": "Umbral de riesgo vital extremo; se debe actuar mucho antes en el contexto de shock séptico."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Riesgos del Uso de Vasoactivos",
+    "text": "¿Principal complicación del uso de Noradrenalina a dosis altas con hipovolemia no corregida?",
+    "hint": "El vasoactivo 'aprieta' el vaso pero no hay suficiente líquido dentro.",
+    "options": [
+      {
+        "text": "A) Hemorragia cerebral.",
+        "isCorrect": false,
+        "explanation": "Menos frecuente que las complicaciones isquémicas por vasoconstricción visceral excesiva."
+      },
+      {
+        "text": "B) Isquemia esplácnica y renal severa.",
+        "isCorrect": true,
+        "explanation": "Usar alfa-agonistas sin repletar la volemia causa necrosis de órganos abdominales y falla renal por falta de flujo real."
+      },
+      {
+        "text": "C) Diabetes.",
+        "isCorrect": false,
+        "explanation": "Aunque causan hiperglicemia transitoria por estrés, no provocan diabetes mellitus."
+      },
+      {
+        "text": "D) Crecimiento de vello.",
+        "isCorrect": false,
+        "explanation": "Distractor sin base médica."
+      },
+      {
+        "text": "E) Hipoglicemia.",
+        "isCorrect": false,
+        "explanation": "Las catecolaminas suelen elevar la glicemia por efecto metabólico, no bajarla."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Definición Hemodinámica",
+    "text": "¿A qué se refiere el término 'Shock Frío' en la hemodinamia pediátrica?",
+    "hint": "El corazón falla y las arterias se cierran para intentar compensar.",
+    "options": [
+      {
+        "text": "A) Gasto cardíaco elevado y resistencia vascular baja.",
+        "isCorrect": false,
+        "explanation": "Esta descripción corresponde al shock 'caliente' o distributivo."
+      },
+      {
+        "text": "B) Gasto cardíaco bajo y resistencia vascular sistémica elevada.",
+        "isCorrect": true,
+        "explanation": "Es el patrón más común en niños: el ventrículo no bombea suficiente y el cuerpo responde con vasoconstricción extrema."
+      },
+      {
+        "text": "C) Gasto cardíaco normal y presión arterial baja.",
+        "isCorrect": false,
+        "explanation": "Inconsistencia hemodinámica; en shock el gasto suele estar alterado."
+      },
+      {
+        "text": "D) Presencia de hipotermia corporal.",
+        "isCorrect": false,
+        "explanation": "El término 'frío' se refiere a la temperatura de las extremidades por vasoconstricción, no a la temperatura central."
+      },
+      {
+        "text": "E) Un shock que se trata con mantas calientes.",
+        "isCorrect": false,
+        "explanation": "Distractor absurdo."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Sepsis Meningocócica",
+    "text": "Escolar con shock descompensado y petequias que progresan a púrpura necrótica rápida. ¿Patógeno probable?",
+    "hint": "La púrpura fulminans es su presentación clásica.",
+    "options": [
+      {
+        "text": "A) Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "Puede dar shock purpúrico pero es menos frecuente y característico que el meningococo para este patrón."
+      },
+      {
+        "text": "B) Neisseria meningitidis (Meningococo).",
+        "isCorrect": true,
+        "explanation": "Es la causa número uno de shock purpúrico fulminante en pediatría, asociado a CID, necrosis cutánea y falla adrenal."
+      },
+      {
+        "text": "C) Streptococcus pneumoniae.",
+        "isCorrect": false,
+        "explanation": "Causa neumonía y meningitis, pero raramente el cuadro purpúrico fulminante descrito."
+      },
+      {
+        "text": "D) Salmonella typhi.",
+        "isCorrect": false,
+        "explanation": "Suele dar fiebre tifoidea con 'roséola tífica', no púrpuras necróticas extensas de inicio brusco."
+      },
+      {
+        "text": "E) Candida albicans.",
+        "isCorrect": false,
+        "explanation": "Causa sepsis en inmunocomprometidos severos, no shock purpúrico en escolares sanos."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Glicemia en Sepsis",
+    "text": "¿Cuál es el valor diagnóstico de la Glicemia en un niño con sepsis?",
+    "hint": "El metabolismo de la glucosa se altera por las citoquinas inflamatorias y el consumo tisular.",
+    "options": [
+      {
+        "text": "A) Siempre es normal.",
+        "isCorrect": false,
+        "explanation": "Falso. La sepsis es un gran estresor metabólico que altera siempre los niveles de azúcar."
+      },
+      {
+        "text": "B) Puede presentarse tanto hipoglicemia como hiperglicemia por estrés.",
+        "isCorrect": true,
+        "explanation": "La hipoglicemia indica agotamiento de reservas (mal pronóstico en lactantes); la hiperglicemia es respuesta al cortisol/adrenalina."
+      },
+      {
+        "text": "C) Solo importa si es > 600.",
+        "isCorrect": false,
+        "explanation": "Eso sugeriría estado hiperosmolar; en sepsis valores menores ya indican disfunción metabólica."
+      },
+      {
+        "text": "D) No tiene valor en sepsis.",
+        "isCorrect": false,
+        "explanation": "Es fundamental para el soporte nutricional y cerebral del niño en shock."
+      },
+      {
+        "text": "E) La insulina cura la sepsis.",
+        "isCorrect": false,
+        "explanation": "La insulina trata la hiperglicemia, pero la sepsis requiere tratamiento etiológico y hemodinámico."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Objetivos de Reanimación",
+    "text": "¿Cuál de los siguientes es un objetivo clínico de reanimación exitosa en la primera hora?",
+    "hint": "Buscamos signos de restauración de la perfusión macro y microvascular.",
+    "options": [
+      {
+        "text": "A) Frecuencia Cardíaca de 200 lpm.",
+        "isCorrect": false,
+        "explanation": "Eso indica taquicardia severa persistente; el éxito es la normalización de la frecuencia para la edad."
+      },
+      {
+        "text": "B) Llenado capilar < 2 segundos y pulsos periféricos normales.",
+        "isCorrect": true,
+        "explanation": "Son los mejores indicadores al pie de la cama de que la perfusión de los tejidos se ha restaurado."
+      },
+      {
+        "text": "C) Diuresis de 0.1 ml/kg/hr.",
+        "isCorrect": false,
+        "explanation": "Eso es oliguria severa; la meta es al menos 1 ml/kg/hr en niños."
+      },
+      {
+        "text": "D) pH de 6.9.",
+        "isCorrect": false,
+        "explanation": "Indica acidosis extrema persistente; la meta es la normalización del equilibrio ácido-base."
+      },
+      {
+        "text": "E) Que el niño deje de llorar por somnolencia.",
+        "isCorrect": false,
+        "explanation": "La somnolencia indica compromiso de conciencia; el éxito es un niño alerta y conectado."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Ecografía a la cabecera (POCUS)",
+    "text": "¿Qué utilidad tiene la ecografía POCUS en el manejo del shock séptico?",
+    "hint": "Es una herramienta dinámica para guiar la fluidoterapia y evaluar la bomba.",
+    "options": [
+      {
+        "text": "A) Ver si el niño tiene hambre.",
+        "isCorrect": false,
+        "explanation": "Sin ninguna utilidad clínica nutricional en urgencias."
+      },
+      {
+        "text": "B) Evaluar contractilidad cardíaca y colapsabilidad de la vena cava inferior.",
+        "isCorrect": true,
+        "explanation": "Permite ver en tiempo real si el corazón necesita inótropos o si todavía tolera más volumen (cava colapsable)."
+      },
+      {
+        "text": "C) Diagnosticar neumonía únicamente.",
+        "isCorrect": false,
+        "explanation": "Es una de sus funciones, pero en shock la prioridad es la evaluación hemodinámica."
+      },
+      {
+        "text": "D) Medir la estatura del niño.",
+        "isCorrect": false,
+        "explanation": "No es el objetivo del examen en pacientes críticos."
+      },
+      {
+        "text": "E) Sustituye al hemograma.",
+        "isCorrect": false,
+        "explanation": "La ecografía da información anatómica/funcional; no mide células o bioquímica sanguínea."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Dosis de Adrenalina",
+    "text": "¿Cuál es la dosis inicial de la infusión de Adrenalina para shock séptico?",
+    "hint": "Se mide en microgramos por kilo por minuto debido a su alta potencia.",
+    "options": [
+      {
+        "text": "A) 1 mg/kg/min.",
+        "isCorrect": false,
+        "explanation": "Dosis letal; causaría isquemia generalizada masiva."
+      },
+      {
+        "text": "B) 0.05 - 0.1 mcg/kg/min.",
+        "isCorrect": true,
+        "explanation": "Es el rango de inicio estándar. Se titula según respuesta hemodinámica hasta alcanzar las metas."
+      },
+      {
+        "text": "C) 10 mcg/kg/min.",
+        "isCorrect": false,
+        "explanation": "Dosis de rescate extrema, muy por encima del inicio recomendado."
+      },
+      {
+        "text": "D) Una ampolla por hora para todos.",
+        "isCorrect": false,
+        "explanation": "En pediatría las dosis se calculan estrictamente por peso."
+      },
+      {
+        "text": "E) 500 mcg total.",
+        "isCorrect": false,
+        "explanation": "No se usa dosis fija 'total' en infusiones continuas pediátricas."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Cobertura en Foco Abdominal",
+    "text": "En un niño con shock y sospecha de peritonitis, ¿qué cobertura antibiótica se debe asegurar?",
+    "hint": "La flora intestinal es polimicrobiana.",
+    "options": [
+      {
+        "text": "A) Solo Vancomicina.",
+        "isCorrect": false,
+        "explanation": "No cubre los Gram negativos ni anaerobios entéricos, que son los principales patógenos."
+      },
+      {
+        "text": "B) Cobertura para Gram negativos y Anaerobios.",
+        "isCorrect": true,
+        "explanation": "Esquemas como Ceftriaxona + Metronidazol o Piperacilina-Tazobactam son los indicados para cubrir el foco abdominal."
+      },
+      {
+        "text": "C) Penicilina sola.",
+        "isCorrect": false,
+        "explanation": "Espectro muy limitado para la complejidad de una peritonitis."
+      },
+      {
+        "text": "D) Solo antifúngicos.",
+        "isCorrect": false,
+        "explanation": "No se usan de entrada a menos que haya factores de riesgo específicos para candidemia."
+      },
+      {
+        "text": "E) No se dan antibióticos hasta la cirugía.",
+        "isCorrect": false,
+        "explanation": "Falso. El antibiótico en la primera hora es vital antes de cualquier intervención quirúrgica."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Fisiopatología Adrenal en Sepsis",
+    "text": "¿A qué se refiere el término 'Insuficiencia Suprarrenal Relativa' en sepsis?",
+    "hint": "Es la base para el uso de hidrocortisona en el shock refractario.",
+    "options": [
+      {
+        "text": "A) A que las glándulas desaparecieron.",
+        "isCorrect": false,
+        "explanation": "No es una agenesia orgánica, sino una falla funcional."
+      },
+      {
+        "text": "B) A que la producción de cortisol es insuficiente para el estrés metabólico extremo del paciente.",
+        "isCorrect": true,
+        "explanation": "El eje falla ante la inflamación masiva, impidiendo una respuesta hemodinámica adecuada a las catecolaminas."
+      },
+      {
+        "text": "C) A que el niño tiene diabetes.",
+        "isCorrect": false,
+        "explanation": "Son patologías endocrinas distintas."
+      },
+      {
+        "text": "D) Solo ocurre en adultos mayores.",
+        "isCorrect": false,
+        "explanation": "Es un fenómeno bien documentado en pediatría crítica."
+      },
+      {
+        "text": "E) Se trata con mucha agua.",
+        "isCorrect": false,
+        "explanation": "Requiere reemplazo con glucocorticoides, no solo hidratación."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Perfusión Renal",
+    "text": "¿Cuál es la meta de Diuresis mínima en un niño que está saliendo del shock?",
+    "hint": "Indica que el flujo sanguíneo renal se ha restaurado con éxito.",
+    "options": [
+      {
+        "text": "A) > 1 ml/kg/hr.",
+        "isCorrect": true,
+        "explanation": "Es el estándar para escolares; en neonatos y lactantes se busca idealmente > 2 ml/kg/hr."
+      },
+      {
+        "text": "B) > 10 ml/kg/hr.",
+        "isCorrect": false,
+        "explanation": "Sería poliuria masiva, lo cual no es el objetivo de la reanimación."
+      },
+      {
+        "text": "C) 0.1 ml/kg/hr.",
+        "isCorrect": false,
+        "explanation": "Define oliguria severa; indica que el shock persiste o hay daño renal."
+      },
+      {
+        "text": "D) No importa si no orina.",
+        "isCorrect": false,
+        "explanation": "La diuresis es un marcador fundamental de la perfusión de órganos vitales."
+      },
+      {
+        "text": "E) Solo importa que la orina sea roja.",
+        "isCorrect": false,
+        "explanation": "La orina roja (hematuria) indicaría trauma o daño glomerular, no es signo de mejoría."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Diagnóstico Diferencial del Shock",
+    "text": "¿Qué síntoma permite diferenciar el Shock Séptico del Hipovolémico puro por deshidratación?",
+    "hint": "Busque la etiología inflamatoria o infecciosa.",
+    "options": [
+      {
+        "text": "A) La sed.",
+        "isCorrect": false,
+        "explanation": "Síntoma común en ambos ante la pérdida de líquidos o mala distribución."
+      },
+      {
+        "text": "B) La presencia de fiebre o foco infeccioso evidente.",
+        "isCorrect": true,
+        "explanation": "El contexto de infección y el compromiso del estado general previo son lo que definen al shock como séptico."
+      },
+      {
+        "text": "C) La hipotensión.",
+        "isCorrect": false,
+        "explanation": "Signo común a las fases avanzadas de cualquier tipo de shock pediátrico."
+      },
+      {
+        "text": "D) La taquicardia.",
+        "isCorrect": false,
+        "explanation": "Respuesta compensatoria universal ante la caída del gasto cardíaco."
+      },
+      {
+        "text": "E) La sequedad de mucosas.",
+        "isCorrect": false,
+        "explanation": "Más característica del hipovolémico pero puede verse en cualquier paciente deshidratado."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Administración Segura de Fármacos",
+    "text": "¿Cuál es el riesgo de administrar Dopamina o Adrenalina por una vía periférica pequeña?",
+    "hint": "Las catecolaminas causan vasoconstricción local potente si se salen del vaso.",
+    "options": [
+      {
+        "text": "A) Ninguno.",
+        "isCorrect": false,
+        "explanation": "Falso. El riesgo de daño tisular es extremadamente alto."
+      },
+      {
+        "text": "B) Riesgo de extravasación y necrosis tisular local severa.",
+        "isCorrect": true,
+        "explanation": "Por ello se prefiere vía venosa central o, temporalmente, una vía periférica gruesa o intraósea."
+      },
+      {
+        "text": "C) Que el niño se ponga azul.",
+        "isCorrect": false,
+        "explanation": "La cianosis es por falta de oxígeno, no por extravasación del fármaco."
+      },
+      {
+        "text": "D) Que la dopamina se convierta en azúcar.",
+        "isCorrect": false,
+        "explanation": "Absurdo fisiológicamente."
+      },
+      {
+        "text": "E) Que el niño crezca más rápido.",
+        "isCorrect": false,
+        "explanation": "Sin ninguna relación con el fármaco vasoactivo."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Síndrome de Shock Tóxico",
+    "text": "¿Qué es el 'Síndrome de Shock Tóxico'?",
+    "hint": "Presenta un exantema similar a la escarlatina y descamación posterior.",
+    "options": [
+      {
+        "text": "A) Una intoxicación por veneno.",
+        "isCorrect": false,
+        "explanation": "Es un cuadro infeccioso, no una ingesta de tóxicos externos."
+      },
+      {
+        "text": "B) Sepsis grave mediada por superantígenos bacterianos (Staph o Strep).",
+        "isCorrect": true,
+        "explanation": "Causan liberación masiva de citoquinas, rash cutáneo y falla multiorgánica. Requiere soporte agresivo."
+      },
+      {
+        "text": "C) Un tipo de alergia al polen.",
+        "isCorrect": false,
+        "explanation": "Sin relación con el mecanismo fisiopatológico del shock tóxico."
+      },
+      {
+        "text": "D) Solo ocurre por usar tampones.",
+        "isCorrect": false,
+        "explanation": "Incompleto. Fue la descripción inicial, pero puede ocurrir por cualquier foco estafilocócico o estreptocócico."
+      },
+      {
+        "text": "E) Una fractura del pie.",
+        "isCorrect": false,
+        "explanation": "Distractor absurdo."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Signos de Vasodilatación",
+    "text": "¿Cuál es el significado del 'Llenado Capilar Flash' (< 1 segundo) en el examen físico?",
+    "hint": "El flujo sanguíneo corre sin resistencia por los vasos dilatados.",
+    "options": [
+      {
+        "text": "A) Signo de salud excelente.",
+        "isCorrect": false,
+        "explanation": "Falso. En el contexto de un niño enfermo es un signo de patología vascular."
+      },
+      {
+        "text": "B) Signo de shock distributivo ('caliente').",
+        "isCorrect": true,
+        "explanation": "Indica vasodilatación periférica anormal; es la contraparte del llenado prolongado del shock frío."
+      },
+      {
+        "text": "C) Indica que el niño tiene frío.",
+        "isCorrect": false,
+        "explanation": "El frío causa vasoconstricción y llenado lento, no rápido."
+      },
+      {
+        "text": "D) Signo de anemia severa.",
+        "isCorrect": false,
+        "explanation": "La anemia causa palidez pero no altera el llenado capilar de esta forma específica."
+      },
+      {
+        "text": "E) No tiene valor clínico.",
+        "isCorrect": false,
+        "explanation": "Es un hallazgo semiológico fundamental en la evaluación del shock."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Complicaciones Mecánicas en Shock",
+    "text": "En un niño con shock y sospecha de neumonía, ¿qué complicación pleural debe buscarse si no mejora con volumen?",
+    "hint": "Son causas mecánicas que impiden el retorno venoso al corazón.",
+    "options": [
+      {
+        "text": "A) Neumotórax a tensión o derrame pleural masivo.",
+        "isCorrect": true,
+        "explanation": "Ambos aumentan la presión intratorácica y empeoran el shock. Requieren drenaje urgente para que la reanimación sea efectiva."
+      },
+      {
+        "text": "B) Solo tos.",
+        "isCorrect": false,
+        "explanation": "Es un síntoma común pero no explica la falla de reanimación del shock."
+      },
+      {
+        "text": "C) Hipo.",
+        "isCorrect": false,
+        "explanation": "Inespecífico."
+      },
+      {
+        "text": "D) Pelo en el pulmón.",
+        "isCorrect": false,
+        "explanation": "Distractor absurdo."
+      },
+      {
+        "text": "E) No hay complicaciones en el pulmón.",
+        "isCorrect": false,
+        "explanation": "Falso. La falla respiratoria mecánica es una causa frecuente de shock refractario."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Taquicardia por Edad",
+    "text": "¿A qué edad se considera que una frecuencia cardíaca de 180 lpm es una taquicardia severa en reposo?",
+    "hint": "Las frecuencias cardíacas normales disminuyen con la edad.",
+    "options": [
+      {
+        "text": "A) Al nacer.",
+        "isCorrect": false,
+        "explanation": "En el neonato puede ser normal ante el estrés o llanto."
+      },
+      {
+        "text": "B) En escolares y adolescentes.",
+        "isCorrect": true,
+        "explanation": "En este grupo el rango normal es 60-100; 180 sugiere taquicardia supraventricular o shock compensado extremo."
+      },
+      {
+        "text": "C) En lactantes menores.",
+        "isCorrect": false,
+        "explanation": "Pueden alcanzar estas cifras por fiebre o agitación sin ser necesariamente patológico de base."
+      },
+      {
+        "text": "D) Nunca es taquicardia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto; está muy por encima de los percentiles normales para niños mayores."
+      },
+      {
+        "text": "E) Solo en ancianos.",
+        "isCorrect": false,
+        "explanation": "Término ajeno a la pediatría."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Shock Neurogénico",
+    "text": "¿Qué característica de la piel sugiere Shock Neurogénico sobre el Séptico?",
+    "hint": "Se pierde el tono simpático por debajo de una lesión de la médula espinal.",
+    "options": [
+      {
+        "text": "A) Piel fría y moteada.",
+        "isCorrect": false,
+        "explanation": "Típico del shock séptico frío o hipovolémico."
+      },
+      {
+        "text": "B) Piel caliente, rosada y seca bajo el nivel de lesión, con bradicardia.",
+        "isCorrect": true,
+        "explanation": "Es un shock distributivo con bradicardia paradójica por pérdida de inervación simpática cardíaca."
+      },
+      {
+        "text": "C) Urticaria.",
+        "isCorrect": false,
+        "explanation": "Signo de anafilaxia, no de shock neurogénico puro."
+      },
+      {
+        "text": "D) Ictericia.",
+        "isCorrect": false,
+        "explanation": "Indica disfunción hepática o hemólisis, no define el tipo de shock."
+      },
+      {
+        "text": "E) Piel azul.",
+        "isCorrect": false,
+        "explanation": "Indica cianosis por hipoxia severa, común a muchos tipos de shock."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Seguridad de Fármacos en Neonatos",
+    "text": "¿Riesgo de usar Ceftriaxona en neonatos menores de 28 días con sepsis?",
+    "hint": "Se prefiere usar Cefotaxima en el primer mes de vida por esta razón.",
+    "options": [
+      {
+        "text": "A) Sordera.",
+        "isCorrect": false,
+        "explanation": "Efecto secundario de los aminoglucósidos, no de cefalosporinas."
+      },
+      {
+        "text": "B) Kernicterus y barro biliar.",
+        "isCorrect": true,
+        "explanation": "Desplaza la bilirrubina de la albúmina y puede precipitar con calcio. Se evita por seguridad metabólica en el recién nacido."
+      },
+      {
+        "text": "C) Diabetes.",
+        "isCorrect": false,
+        "explanation": "Sin relación con el fármaco."
+      },
+      {
+        "text": "D) Crecimiento excesivo.",
+        "isCorrect": false,
+        "explanation": "Distractor absurdo."
+      },
+      {
+        "text": "E) No tiene riesgos.",
+        "isCorrect": false,
+        "explanation": "Falso; el riesgo biliar y neurológico (kernicterus) es real en neonatos."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Screening de Sepsis",
+    "text": "¿Qué es el 'qSOFA' pediátrico?",
+    "hint": "Es una herramienta de screening rápido al pie de la cama.",
+    "options": [
+      {
+        "text": "A) Un tipo de sofá para niños.",
+        "isCorrect": false,
+        "explanation": "Distractor absurdo."
+      },
+      {
+        "text": "B) Score de disfunción orgánica rápida que evalúa estado mental, presión y frecuencia respiratoria.",
+        "isCorrect": true,
+        "explanation": "Identifica niños con alto riesgo de mortalidad por sospecha de infección, permitiendo una acción precoz."
+      },
+      {
+        "text": "C) Un examen de orina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Un test de inteligencia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) No existe en pediatría.",
+        "isCorrect": false,
+        "explanation": "Falso; existen adaptaciones validadas para la población infantil."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Manejo de Anafilaxia",
+    "text": "¿Conducta inmediata ante un niño en shock con sospecha de anafilaxia?",
+    "hint": "Es la única medida que salva la vida al revertir el edema de vía aérea y el colapso vascular.",
+    "options": [
+      {
+        "text": "A) Darle agua.",
+        "isCorrect": false,
+        "explanation": "Inútil y peligroso ante el riesgo de aspiración."
+      },
+      {
+        "text": "B) Adrenalina Intramuscular (0.01 mg/kg) de inmediato en el muslo.",
+        "isCorrect": true,
+        "explanation": "Es la primera medida, incluso antes que la vía venosa, para detener la cascada alérgica masiva y estabilizar al paciente."
+      },
+      {
+        "text": "C) Esperar al dermatólogo.",
+        "isCorrect": false,
+        "explanation": "Retraso inaceptable en una emergencia de riesgo vital."
+      },
+      {
+        "text": "D) Darle un jarabe de clorfenamina.",
+        "isCorrect": false,
+        "explanation": "Los antihistamínicos son lentos y no revierten el colapso cardiovascular del shock anafiláctico."
+      },
+      {
+        "text": "E) Indicar reposo en cama.",
+        "isCorrect": false,
+        "explanation": "Sin ningún efecto sobre la fisiopatología del cuadro."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Complicaciones del Suero Fisiológico",
+    "text": "¿Por qué se prefiere el Ringer Lactato sobre el Suero Fisiológico en grandes reanimaciones?",
+    "hint": "El Suero Fisiológico tiene una concentración de cloro mucho más alta que la del plasma.",
+    "options": [
+      {
+        "text": "A) Porque es más rico en azúcar.",
+        "isCorrect": false,
+        "explanation": "El Ringer no contiene glucosa de forma estándar."
+      },
+      {
+        "text": "B) Para evitar la Acidosis Metabólica Hiperclorémica.",
+        "isCorrect": true,
+        "explanation": "El exceso de cloro del SF puede acidificar la sangre, confundiendo el monitoreo del lactato y la recuperación del shock."
+      },
+      {
+        "text": "C) Porque es de color azul.",
+        "isCorrect": false,
+        "explanation": "Inmaterial."
+      },
+      {
+        "text": "D) Porque sabe mejor.",
+        "isCorrect": false,
+        "explanation": "Fármacos endovenosos, no orales."
+      },
+      {
+        "text": "E) No hay diferencia real.",
+        "isCorrect": false,
+        "explanation": "Existe una diferencia metabólica significativa documentada en reanimaciones masivas."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Signo de Descompensación",
+    "text": "¿Qué hallazgo clínico indica 'Shock Descompensado' en un niño?",
+    "hint": "Es el punto de no retorno de los mecanismos compensatorios circulatorios.",
+    "options": [
+      {
+        "text": "A) Taquicardia.",
+        "isCorrect": false,
+        "explanation": "Es el sello del shock compensado."
+      },
+      {
+        "text": "B) Hipotensión arterial (sistólica bajo el p5 para la edad).",
+        "isCorrect": true,
+        "explanation": "Una vez que la presión cae, la perfusión cerebral y coronaria se compromete críticamente. Es una emergencia extrema."
+      },
+      {
+        "text": "C) Llenado capilar de 2 segundos.",
+        "isCorrect": false,
+        "explanation": "Valor en el límite de la normalidad, no indica descompensación por sí solo."
+      },
+      {
+        "text": "D) Llanto fuerte.",
+        "isCorrect": false,
+        "explanation": "Suele indicar buen estado neurológico y de perfusión cerebral."
+      },
+      {
+        "text": "E) Orina clara.",
+        "isCorrect": false,
+        "explanation": "Signo de hidratación y buena perfusión renal."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Farmacología Avanzada",
+    "text": "¿Cuál es la función de la Milrinona en el shock séptico con disfunción ventricular?",
+    "hint": "Ayuda al corazón a bombear contra menos resistencia.",
+    "options": [
+      {
+        "text": "A) Vasoconstrictor potente.",
+        "isCorrect": false,
+        "explanation": "Efecto opuesto al real; la milrinona es vasodilatadora."
+      },
+      {
+        "text": "B) Inodilatador: mejora la contractilidad y disminuye la postcarga.",
+        "isCorrect": true,
+        "explanation": "Muy útil en shock de bajo gasto y resistencias altas, pero requiere que el paciente esté presoriamente estable."
+      },
+      {
+        "text": "C) Antibiótico.",
+        "isCorrect": false,
+        "explanation": "No tiene actividad antimicrobiana."
+      },
+      {
+        "text": "D) Quita el dolor.",
+        "isCorrect": false,
+        "explanation": "No tiene propiedades analgésicas."
+      },
+      {
+        "text": "E) Sube la glicemia.",
+        "isCorrect": false,
+        "explanation": "Sin efecto en el metabolismo de la glucosa."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Coagulación Intravascular Diseminada (CID)",
+    "text": "Niño en shock séptico con sangrado por sitios de punción. ¿Complicación hematológica?",
+    "hint": "Consumo masivo de factores de coagulación secundario a la sepsis severa.",
+    "options": [
+      {
+        "text": "A) Hemofilia A.",
+        "isCorrect": false,
+        "explanation": "Patología congénita por déficit de Factor VIII, no aguda por sepsis."
+      },
+      {
+        "text": "B) Coagulación Intravascular Diseminada (CID).",
+        "isCorrect": true,
+        "explanation": "Es un marcador de sepsis severa y shock. Requiere tratamiento de la causa base y aporte de hemoderivados si hay sangrado activo."
+      },
+      {
+        "text": "C) Déficit de vitamina C.",
+        "isCorrect": false,
+        "explanation": "Causa escorbuto, no sangrado agudo fulminante por sepsis."
+      },
+      {
+        "text": "D) Anemia ferropénica.",
+        "isCorrect": false,
+        "explanation": "Afecta la serie roja de forma crónica, no la coagulación aguda."
+      },
+      {
+        "text": "E) Exceso de plaquetas.",
+        "isCorrect": false,
+        "explanation": "En CID lo característico es la trombocitopenia por consumo."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Mensaje Final",
+    "text": "¿Mensaje final clave en el manejo del shock séptico pediátrico en la urgencia?",
+    "hint": "La mortalidad cae drásticamente si se actúa rápido.",
+    "options": [
+      {
+        "text": "A) Esperar a que lleguen los exámenes.",
+        "isCorrect": false,
+        "explanation": "Retraso inaceptable que compromete la vida del niño."
+      },
+      {
+        "text": "B) Reconocimiento precoz y manejo agresivo en la primera hora: 'Tiempo es Tejido'.",
+        "isCorrect": true,
+        "explanation": "La implementación de los 'bundles' de sepsis en la primera hora es el factor que más influye en el éxito terapéutico."
+      },
+      {
+        "text": "C) Darle mucha comida al niño.",
+        "isCorrect": false,
+        "explanation": "Incorrecto en fase aguda de shock por riesgo de isquemia mesentérica e intolerancia."
+      },
+      {
+        "text": "D) Solo observar si el niño se ve rosado.",
+        "isCorrect": false,
+        "explanation": "El color rosado puede engañar (shock caliente); se deben evaluar todos los parámetros hemodinámicos."
+      },
+      {
+        "text": "E) Es un cuadro siempre leve.",
+        "isCorrect": false,
+        "explanation": "Es una de las principales causas de mortalidad infantil en el mundo."
+      }
+    ]
+  }
+]
