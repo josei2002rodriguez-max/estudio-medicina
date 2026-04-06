@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Farmacología - Dosis Lorazepam",
+    "text": "¿Cuál es la dosis recomendada de Lorazepam por vía endovenosa para el manejo inicial de una crisis convulsiva en un preescolar?",
+    "hint": "Es la dosis estándar de primera línea en servicios de urgencia que cuentan con este fármaco.",
+    "options": [
+      {
+        "text": "A) 0.01 mg/kg.",
+        "isCorrect": false,
+        "explanation": "Dosis sub-terapéutica que no lograría el control efectivo de la descarga eléctrica cerebral."
+      },
+      {
+        "text": "B) 0.05 mg/kg.",
+        "isCorrect": false,
+        "explanation": "Es la dosis inicial habitual del Midazolam EV en algunas guías, pero para Lorazepam se requiere 0.1 para máxima eficacia."
+      },
+      {
+        "text": "C) 0.1 mg/kg.",
+        "isCorrect": true,
+        "explanation": "Correcto. La dosis estándar es 0.1 mg/kg (máximo 4 mg). Se prefiere por su mayor duración de efecto cerebral y menor redistribución."
+      },
+      {
+        "text": "D) 0.5 mg/kg.",
+        "isCorrect": false,
+        "explanation": "Esta es la dosis del Diazepam por vía rectal; por vía endovenosa resultaría tóxica."
+      },
+      {
+        "text": "E) 1 mg/kg.",
+        "isCorrect": false,
+        "explanation": "Dosis extremadamente alta que causaría depresión respiratoria inmediata y riesgo de paro cardiorrespiratorio."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Farmacología - Rescate fuera de vena",
+    "text": "Usted se encuentra en un servicio rural sin acceso a vía venosa inmediata. Un lactante presenta una convulsión de 7 minutos. ¿Cuál es la dosis y vía de Midazolam recomendada?",
+    "hint": "El Midazolam es altamente hidrosoluble, lo que permite una absorción rápida por mucosas y músculo.",
+    "options": [
+      {
+        "text": "A) 0.1 mg/kg IM.",
+        "isCorrect": false,
+        "explanation": "Dosis baja para la vía intramuscular; se requiere una concentración mayor para asegurar niveles plasmáticos terapéuticos rápidos."
+      },
+      {
+        "text": "B) 0.2 mg/kg Intranasal o Intramuscular.",
+        "isCorrect": true,
+        "explanation": "Correcto. Ante la falta de vía venosa, esta dosis por vía intranasal, bucal o IM es altamente efectiva y superior al diazepam rectal."
+      },
+      {
+        "text": "C) 0.5 mg/kg Oral.",
+        "isCorrect": false,
+        "explanation": "Fármacos orales están contraindicados durante una crisis activa por riesgo de aspiración y absorción errática."
+      },
+      {
+        "text": "D) 0.01 mg/kg Subcutáneo.",
+        "isCorrect": false,
+        "explanation": "La vía subcutánea no está validada para el manejo de emergencia de convulsiones debido a su lentitud."
+      },
+      {
+        "text": "E) 1 mg/kg Rectal.",
+        "isCorrect": false,
+        "explanation": "Dosis excesiva. Por vía rectal se prefiere el Diazepam, ya que el midazolam no es la primera opción por esta ruta."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Farmacología - Velocidad de Fenitoína",
+    "text": "¿Cuál es la velocidad de infusión máxima recomendada para la Fenitoína EV en pediatría para evitar toxicidad cardiovascular?",
+    "hint": "La administración rápida causa arritmias debido al solvente (propilenglicol).",
+    "options": [
+      {
+        "text": "A) 100 mg/min.",
+        "isCorrect": false,
+        "explanation": "Velocidad peligrosa que aumenta drásticamente el riesgo de asistolia y colapso cardiovascular."
+      },
+      {
+        "text": "B) 50 mg/min (o 1 mg/kg/min en niños pequeños).",
+        "isCorrect": true,
+        "explanation": "Correcto. Debe pasarse lentamente para minimizar el riesgo de hipotensión y bloqueos cardíacos."
+      },
+      {
+        "text": "C) 10 mg/min.",
+        "isCorrect": false,
+        "explanation": "Infusión innecesariamente lenta que retrasaría el control del estatus epiléptico en curso."
+      },
+      {
+        "text": "D) Bolo rápido de 1 minuto.",
+        "isCorrect": false,
+        "explanation": "Absolutamente contraindicado por letalidad cardiovascular inmediata."
+      },
+      {
+        "text": "E) 1 g/hora.",
+        "isCorrect": false,
+        "explanation": "Es un esquema de mantenimiento lento, no aplicable para la carga requerida en una urgencia."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Farmacología - Convulsión Neonatal",
+    "text": "En un recién nacido con convulsiones, tras administrar la carga inicial de Fenobarbital (20 mg/kg) y persistir la actividad, ¿cuál es la conducta recomendada?",
+    "hint": "El Fenobarbital permite dosis acumuladas altas en el neonato antes de pasar a un segundo fármaco.",
+    "options": [
+      {
+        "text": "A) Administrar una segunda carga de Fenobarbital de 10-20 mg/kg.",
+        "isCorrect": true,
+        "explanation": "Correcto. En neonatología se puede llegar a una dosis total de 40 mg/kg antes de considerar el fallo de la primera línea."
+      },
+      {
+        "text": "B) Cambiar de inmediato a Carbamazepina oral.",
+        "isCorrect": false,
+        "explanation": "No existe presentación parenteral de urgencia y su absorción en el periodo neonatal es deficiente."
+      },
+      {
+        "text": "C) Iniciar infusión de Propofol.",
+        "isCorrect": false,
+        "explanation": "Contraindicado en neonatos como primera o segunda línea por riesgo de acidosis metabólica severa."
+      },
+      {
+        "text": "D) Administrar Fenitoína a 5 mg/kg.",
+        "isCorrect": false,
+        "explanation": "La dosis de carga de fenitoína es siempre de 20 mg/kg; 5 mg/kg sería una dosis de mantenimiento ineficaz para frenar la crisis."
+      },
+      {
+        "text": "E) Suspender todo tratamiento y observar.",
+        "isCorrect": false,
+        "explanation": "Conducta negligente ante un cerebro neonatal que requiere protección frente a la actividad epiléptica persistente."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Farmacología - Dilución de Fenitoína",
+    "text": "¿Qué solución es la ÚNICA compatible para diluir la Fenitoína y evitar su precipitación?",
+    "hint": "La Fenitoína es un ácido débil que cristaliza en medios con glucosa.",
+    "options": [
+      {
+        "text": "A) Suero Glucosado al 5%.",
+        "isCorrect": false,
+        "explanation": "La presencia de glucosa provoca la formación inmediata de cristales (precipitación)."
+      },
+      {
+        "text": "B) Suero Fisiológico (NaCl 0.9%).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la única solución estable. El contacto con otros medios puede causar flebitis o embolia por cristales."
+      },
+      {
+        "text": "C) Suero Ringer Lactato.",
+        "isCorrect": false,
+        "explanation": "El calcio del Ringer puede favorecer la inestabilidad de la mezcla y su precipitación."
+      },
+      {
+        "text": "D) Agua destilada.",
+        "isCorrect": false,
+        "explanation": "No proporciona la estabilidad osmótica ni química necesaria para el fármaco."
+      },
+      {
+        "text": "E) Suero Glucosalino.",
+        "isCorrect": false,
+        "explanation": "Al contener glucosa, el fármaco precipitará igualmente."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Farmacología - Reacciones Cutáneas Graves",
+    "text": "¿Qué fármaco se asocia clásicamente al riesgo de Síndrome de Stevens-Johnson si se inicia a dosis altas de forma brusca?",
+    "hint": "Requiere un escalamiento de dosis muy lento ('Start low, go slow').",
+    "options": [
+      {
+        "text": "A) Levetiracetam.",
+        "isCorrect": false,
+        "explanation": "Tiene un riesgo bajísimo de reacciones cutáneas graves comparado con otros anticonvulsivantes."
+      },
+      {
+        "text": "B) Lamotrigina.",
+        "isCorrect": true,
+        "explanation": "Correcto. Tiene un riesgo significativo de reacciones graves; por ello, su dosis se aumenta quincenalmente durante meses."
+      },
+      {
+        "text": "C) Ácido Valproico.",
+        "isCorrect": false,
+        "explanation": "Puede causarlo raramente, pero no es el factor limitante principal de su titulación inicial."
+      },
+      {
+        "text": "D) Fenitoína.",
+        "isCorrect": false,
+        "explanation": "Aunque se asocia a erupciones, no es la asociación 'de libro' ligada a la velocidad de escalamiento como la lamotrigina."
+      },
+      {
+        "text": "E) Diazepam.",
+        "isCorrect": false,
+        "explanation": "Las benzodiazepinas no suelen asociarse a necrólisis epidérmica tóxica."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Farmacología - Valproato e Hiperamonemia",
+    "text": "¿Qué fármaco puede causar hiperamonemia (amonio alto) incluso con pruebas de función hepática normales?",
+    "hint": "El paciente puede presentarse con confusión o letargia inexplicada.",
+    "options": [
+      {
+        "text": "A) Carbamazepina.",
+        "isCorrect": false,
+        "explanation": "No interfiere con el ciclo de la urea ni suele causar elevaciones aisladas de amonio."
+      },
+      {
+        "text": "B) Ácido Valproico.",
+        "isCorrect": true,
+        "explanation": "Correcto. Interfiere con el ciclo de la urea en la mitocondria. Se trata suspendiendo el fármaco y a veces con L-carnitina."
+      },
+      {
+        "text": "C) Levetiracetam.",
+        "isCorrect": false,
+        "explanation": "No tiene metabolismo hepático significativo ni afecta la eliminación de nitrógeno."
+      },
+      {
+        "text": "D) Fenitoína.",
+        "isCorrect": false,
+        "explanation": "Su toxicidad es principalmente cerebelosa o sistémica (hipersensibilidad), no metabólica por amonio."
+      },
+      {
+        "text": "E) Lamotrigina.",
+        "isCorrect": false,
+        "explanation": "No se asocia a trastornos del ciclo de la urea."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Farmacología - Epilepsia Mioclónica Juvenil",
+    "text": "¿Cuál es el fármaco de elección para la Epilepsia Mioclónica Juvenil en un varón adolescente?",
+    "hint": "Es el síndrome donde el Valproato es más eficaz, aunque en mujeres se buscan alternativas por teratogenicidad.",
+    "options": [
+      {
+        "text": "A) Carbamazepina.",
+        "isCorrect": false,
+        "explanation": "Está contraindicada en este síndrome ya que puede empeorar las mioclonías y las ausencias."
+      },
+      {
+        "text": "B) Ácido Valproico.",
+        "isCorrect": true,
+        "explanation": "Correcto. Controla de forma excelente las mioclonías, ausencias y crisis tónico-clónicas características de este síndrome."
+      },
+      {
+        "text": "C) Etosuximida.",
+        "isCorrect": false,
+        "explanation": "Solo es efectiva para las ausencias, no controla las crisis tónico-clónicas ni las mioclonías."
+      },
+      {
+        "text": "D) Fenobarbital.",
+        "isCorrect": false,
+        "explanation": "Aunque es de amplio espectro, su perfil de efectos secundarios lo desplaza como primera línea en adolescentes."
+      },
+      {
+        "text": "E) Vigabatrina.",
+        "isCorrect": false,
+        "explanation": "Se reserva para espasmos infantiles; en este síndrome podría incluso ser ineficaz."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Farmacología - Manejo de Apnea",
+    "text": "¿Cuál es la medida más importante ante un paciente con estatus epiléptico que presenta apnea tras benzodiazepinas?",
+    "hint": "El ABC es la regla de oro de la medicina de urgencia.",
+    "options": [
+      {
+        "text": "A) Darle una bofetada.",
+        "isCorrect": false,
+        "explanation": "Acción no médica e inefectiva ante una depresión del centro respiratorio farmacológica."
+      },
+      {
+        "text": "B) Manejo de vía aérea con bolsa-máscara (Ambú) y evaluar intubación inmediata.",
+        "isCorrect": true,
+        "explanation": "Correcto. La depresión respiratoria es un efecto esperado; el médico debe estar preparado para ventilar al paciente de inmediato."
+      },
+      {
+        "text": "C) Inyectar adrenalina.",
+        "isCorrect": false,
+        "explanation": "Se usa para el shock anafiláctico o paro, no para revertir una apnea por sedantes."
+      },
+      {
+        "text": "D) Ponerle oxígeno por naricera.",
+        "isCorrect": false,
+        "explanation": "Insuficiente en apnea; se requiere ventilación con presión positiva para asegurar el intercambio gaseoso."
+      },
+      {
+        "text": "E) Esperar a que despierte.",
+        "isCorrect": false,
+        "explanation": "La hipoxia resultante causaría daño cerebral irreversible o paro cardíaco antes de que el fármaco se metabolice."
+      }
+    ]
+  }
+]
