@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Exantema súbito (Roséola)",
+    "text": "Un lactante de 10 meses presenta un cuadro de 3 días de fiebre muy alta (39.5 - 40.0°C), sin foco evidente, que cede bruscamente. Al desaparecer la fiebre, aparece un exantema de máculas y pápulas rosadas, no pruriginosas, que se inicia en el tronco y se extiende al cuello y extremidades. ¿Cuál es el diagnóstico más probable?",
+    "hint": "La clave es la relación temporal: la fiebre desaparece y luego aparece el exantema[cite: 13].",
+    "options": [
+      {
+        "text": "A) Sarampión",
+        "isCorrect": false,
+        "explanation": "El sarampión presenta un pródromo catarral intenso y la fiebre aumenta al aparecer el exantema, no desaparece[cite: 16]."
+      },
+      {
+        "text": "B) Eritema infeccioso (Quinta enfermedad)",
+        "isCorrect": false,
+        "explanation": "Se caracteriza por el signo de la 'mejilla abofeteada' y exantema reticulado, generalmente sin fiebre alta previa[cite: 17]."
+      },
+      {
+        "text": "C) Exantema súbito (Roséola infantil)",
+        "isCorrect": true,
+        "explanation": "Causado por el HVH-6, se define por fiebre alta de 3-5 días que remite bruscamente dando paso a un exantema rosado[cite: 14]."
+      },
+      {
+        "text": "D) Escarlatina",
+        "isCorrect": false,
+        "explanation": "Requiere faringoamigdalitis exudativa, lengua en frambuesa y exantema con textura de 'piel de lija'[cite: 18]."
+      },
+      {
+        "text": "E) Rubeola",
+        "isCorrect": false,
+        "explanation": "Presenta adenopatías retroauriculares marcadas y el exantema aparece simultáneamente con una fiebre leve[cite: 19]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Escarlatina",
+    "text": "Un escolar de 6 años presenta fiebre de 38.5°C, odinofagia y un exantema micropapular eritematoso, muy fino, que se siente como 'papel de lija' al tacto. Al examen destaca lengua de aspecto brillante con papilas prominentes (lengua en frambuesa) y líneas de coloración roja intensa en los pliegues del codo (líneas de Pastia). ¿Cuál es el agente etiológico responsable?",
+    "hint": "Busque los signos de toxina eritrogénica en una infección estreptocócica[cite: 31].",
+    "options": [
+      {
+        "text": "A) Virus Herpes Humano 7",
+        "isCorrect": false,
+        "explanation": "Causa exantema súbito, el cual no presenta los signos característicos de la escarlatina[cite: 35]."
+      },
+      {
+        "text": "B) Parvovirus B19",
+        "isCorrect": false,
+        "explanation": "Es el agente causal del eritema infeccioso, caracterizado por el signo de la bofetada[cite: 36]."
+      },
+      {
+        "text": "C) Streptococcus pyogenes",
+        "isCorrect": true,
+        "explanation": "La escarlatina es causada por cepas de Streptococcus pyogenes productoras de toxina eritrogénica[cite: 32]."
+      },
+      {
+        "text": "D) Virus Coxsackie A16",
+        "isCorrect": false,
+        "explanation": "Responsable de la enfermedad pie-mano-boca, caracterizada por vesículas acrales[cite: 37]."
+      },
+      {
+        "text": "E) Virus de la Varicela Zóster",
+        "isCorrect": false,
+        "explanation": "Causa un exantema polimorfo (máculas, pápulas, vesículas y costras) con intenso prurito[cite: 38]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Varicela",
+    "text": "Lactante de 18 meses presenta un exantema caracterizado por lesiones en diferentes estadios de evolución: máculas, pápulas, vesículas con contenido claro ('gotas de rocío') y algunas costras. Presenta intenso prurito y fiebre moderada. ¿Cuál es la conducta más adecuada en cuanto al aislamiento?",
+    "hint": "El 'pleomorfismo regional' es el sello de la varicela[cite: 48].",
+    "options": [
+      {
+        "text": "A) No requiere aislamiento",
+        "isCorrect": false,
+        "explanation": "Es incorrecto, ya que la varicela es altamente contagiosa por vía respiratoria y contacto directo[cite: 52]."
+      },
+      {
+        "text": "B) Aislamiento desde el inicio de la fiebre hasta que todas las lesiones estén en fase de costra",
+        "isCorrect": true,
+        "explanation": "El periodo de contagio dura desde 2 días antes del exantema hasta que la última lesión se seca; las costras ya no contagian[cite: 49, 50]."
+      },
+      {
+        "text": "C) Aislamiento solo mientras tenga fiebre",
+        "isCorrect": false,
+        "explanation": "Insuficiente; la contagiosidad persiste mientras existan vesículas con contenido líquido[cite: 49]."
+      },
+      {
+        "text": "D) Aislamiento respiratorio por 24 horas tras iniciar antibióticos",
+        "isCorrect": false,
+        "explanation": "Esta conducta corresponde a la escarlatina, no a la varicela que es viral[cite: 53]."
+      },
+      {
+        "text": "E) Aislamiento de contacto por 30 días",
+        "isCorrect": false,
+        "explanation": "Es un plazo excesivo considerando la historia natural de la enfermedad[cite: 54]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Eritema Infeccioso (Quinta enfermedad)",
+    "text": "Un niño de 5 años presenta un exantema eritematoso en ambas mejillas, que le da un aspecto de 'niño abofeteado'. Al examen del tronco y extremidades, se observa un exantema de aspecto reticulado (en encaje) que se acentúa con la exposición al sol y el ejercicio físico. ¿Qué riesgo presenta esta infección en una paciente embarazada?",
+    "hint": "El Parvovirus B19 tiene predilección por los precursores de la serie roja en la médula ósea[cite: 66].",
+    "options": [
+      {
+        "text": "A) Riesgo de malformaciones cardíacas congénitas",
+        "isCorrect": false,
+        "explanation": "Esto es propio de la rubeola congénita, no del parvovirus[cite: 70]."
+      },
+      {
+        "text": "B) Riesgo de Hidrops Fetal por anemia aplásica intrauterina",
+        "isCorrect": true,
+        "explanation": "El virus cruza la placenta e infecta eritroblastos fetales, causando anemia severa, insuficiencia cardíaca y muerte[cite: 68]."
+      },
+      {
+        "text": "C) Ningún riesgo demostrado",
+        "isCorrect": false,
+        "explanation": "Falso, el parvovirus B19 es un agente del complejo TORCH ampliado con riesgos fetales claros[cite: 71]."
+      },
+      {
+        "text": "D) Riesgo de sordera neurosensorial únicamente",
+        "isCorrect": false,
+        "explanation": "Es una secuela típica del Citomegalovirus o Rubeola[cite: 72]."
+      },
+      {
+        "text": "E) Riesgo de parto prematuro por infección urinaria",
+        "isCorrect": false,
+        "explanation": "No existe relación directa entre el eritema infeccioso y la infección urinaria materna[cite: 64]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Sarampión",
+    "text": "En el diagnóstico diferencial de los exantemas, ¿qué característica clínica orienta fuertemente hacia el Sarampión sobre otros exantemas virales?",
+    "hint": "Busque el 'catarro triple' (ojos, nariz, pulmón)[cite: 81].",
+    "options": [
+      {
+        "text": "A) Exantema que respeta la cara",
+        "isCorrect": false,
+        "explanation": "Incorrecto; el sarampión inicia típicamente en la línea del pelo y la cara para luego descender[cite: 84]."
+      },
+      {
+        "text": "B) Adenopatías retroauriculares y cervicales posteriores",
+        "isCorrect": false,
+        "explanation": "Este es el signo clínico cardinal de la rubeola[cite: 85]."
+      },
+      {
+        "text": "C) Prodromo con tos intensa, coriza, conjuntivitis palpebral y manchas de Koplik",
+        "isCorrect": true,
+        "explanation": "El sarampión presenta un pródromo respiratorio muy marcado y las manchas de Koplik preceden al exantema[cite: 82]."
+      },
+      {
+        "text": "D) Aparición de vesículas en la mucosa yugal",
+        "isCorrect": false,
+        "explanation": "Sugeriría herpangina o enfermedad pie-mano-boca[cite: 86]."
+      },
+      {
+        "text": "E) Despellejamiento de la punta de los dedos (descamación ungueal)",
+        "isCorrect": false,
+        "explanation": "Es una característica tardía de la escarlatina o la enfermedad de Kawasaki[cite: 87]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Enfermedad de Kawasaki",
+    "text": "Un niño de 5 años presenta fiebre de 6 días de evolución, inyección conjuntival bilateral no purulenta, labios rojos y agrietados (queilitis), lengua en fresa, edema de manos y pies, y una adenopatía cervical unilateral de 2 cm. ¿Cuál es la complicación más grave que se debe vigilar?",
+    "hint": "El cuadro clínico cumple criterios para Enfermedad de Kawasaki[cite: 133].",
+    "options": [
+      {
+        "text": "A) Glomerulonefritis post-estreptocócica",
+        "isCorrect": false,
+        "explanation": "Es una complicación propia de la escarlatina o impétigo estreptocócico[cite: 137]."
+      },
+      {
+        "text": "B) Aneurismas de las arterias coronarias",
+        "isCorrect": true,
+        "explanation": "Como vasculitis de vasos medianos, su riesgo principal es la formación de aneurismas coronarios[cite: 134, 135]."
+      },
+      {
+        "text": "C) Encefalitis viral",
+        "isCorrect": false,
+        "explanation": "Es una complicación rara asociada al sarampión o la varicela[cite: 138]."
+      },
+      {
+        "text": "D) Orquitis bilateral",
+        "isCorrect": false,
+        "explanation": "Complicación característica de la parotiditis[cite: 139]."
+      },
+      {
+        "text": "E) Desprendimiento de retina",
+        "isCorrect": false,
+        "explanation": "No es una complicación descrita para la enfermedad de Kawasaki[cite: 131]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Púrpura de Schönlein-Henoch",
+    "text": "Escolar de 7 años consulta por un exantema purpúrico palpable, localizado predominantemente en extremidades inferiores y glúteos. Refiere además dolor abdominal tipo cólico y artralgia de rodillas. El recuento de plaquetas es normal. ¿Cuál es el diagnóstico más probable?",
+    "hint": "La púrpura es 'palpable' y las plaquetas están normales[cite: 177].",
+    "options": [
+      {
+        "text": "A) Púrpura Trombocitopénica Inmune (PTI)",
+        "isCorrect": false,
+        "explanation": "En la PTI la púrpura es plana y las plaquetas están muy disminuidas (<20.000)[cite: 181, 182]."
+      },
+      {
+        "text": "B) Púrpura de Schönlein-Henoch",
+        "isCorrect": true,
+        "explanation": "Es una vasculitis por IgA definida por la tríada de púrpura palpable, artralgias y dolor abdominal[cite: 178, 179]."
+      },
+      {
+        "text": "C) Meningococcemia",
+        "isCorrect": false,
+        "explanation": "Cursaría con fiebre alta, aspecto tóxico y púrpuras que progresan rápidamente a necrosis[cite: 183]."
+      },
+      {
+        "text": "D) Sepsis por S. aureus",
+        "isCorrect": false,
+        "explanation": "No presenta la distribución ni los hallazgos sistémicos característicos de la PSH[cite: 174]."
+      },
+      {
+        "text": "E) Leucemia aguda",
+        "isCorrect": false,
+        "explanation": "Aunque puede dar púrpuras por trombocitopenia, no es el cuadro clínico de vasculitis palpable descrito[cite: 175]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Interacción Mononucleosis-Amoxicilina",
+    "text": "Un adolescente con faringitis inicia tratamiento con Amoxicilina. A las 48 horas presenta un exantema máculo-papular eritematoso generalizado muy intenso. El test de Mononucleosis resulta positivo. ¿Cuál es la interpretación de este exantema?",
+    "hint": "Ocurre en el 80-90% de los pacientes con mononucleosis que toman amoxicilina[cite: 205].",
+    "options": [
+      {
+        "text": "A) Es una alergia verdadera y permanente a la Penicilina",
+        "isCorrect": false,
+        "explanation": "Una alergia real (tipo I) se manifestaría con urticaria, angioedema o sibilancias[cite: 209]."
+      },
+      {
+        "text": "B) Es una reacción inmunológica producida por la interacción entre el virus de Epstein-Barr y las aminopenicilinas",
+        "isCorrect": true,
+        "explanation": "Es una reacción característica del virus EBV con amoxicilina que no contraindica el uso futuro de penicilinas[cite: 206, 207]."
+      },
+      {
+        "text": "C) Es un efecto tóxico del medicamento",
+        "isCorrect": false,
+        "explanation": "No es una toxicidad directa, sino una respuesta inmunomediada por la infección viral[cite: 200]."
+      },
+      {
+        "text": "D) Indica que la faringitis era estreptocócica",
+        "isCorrect": false,
+        "explanation": "Falso; el exantema es gatillado por la presencia del virus Epstein-Barr[cite: 206]."
+      },
+      {
+        "text": "E) Es un síntoma normal del sarampión",
+        "isCorrect": false,
+        "explanation": "No tiene relación clínica con el sarampión[cite: 203]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de Kawasaki",
+    "text": "¿Cuál es el tratamiento de la Enfermedad de Kawasaki en fase aguda para reducir el riesgo de aneurismas coronarios?",
+    "hint": "Debe iniciarse idealmente antes del día 10 de fiebre[cite: 410].",
+    "options": [
+      {
+        "text": "A) Antibióticos y corticoides",
+        "isCorrect": false,
+        "explanation": "Los antibióticos no tienen rol en Kawasaki y los corticoides no son el pilar inicial[cite: 403]."
+      },
+      {
+        "text": "B) Inmunoglobulina Humana EV (2 g/kg) y Aspirina a dosis antiinflamatoria",
+        "isCorrect": true,
+        "explanation": "La inmunoglobulina es esencial para frenar la inflamación vascular sistémica[cite: 405, 411]."
+      },
+      {
+        "text": "C) Solo reposo",
+        "isCorrect": false,
+        "explanation": "El reposo no previene el daño coronario irreversible de la enfermedad[cite: 406]."
+      },
+      {
+        "text": "D) Cirugía cardíaca inmediata",
+        "isCorrect": false,
+        "explanation": "La cirugía solo se plantearía en complicaciones tardías de aneurismas, no en fase aguda[cite: 407]."
+      },
+      {
+        "text": "E) Antivirales",
+        "isCorrect": false,
+        "explanation": "Kawasaki es una vasculitis inmunomediada, no una infección viral primaria tratable con antivirales[cite: 408]."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Mensaje Final en Exantemas",
+    "text": "¿Cuál es el mensaje final clave en el enfrentamiento de los exantemas pediátricos?",
+    "hint": "Semiología es la herramienta reina[cite: 513].",
+    "options": [
+      {
+        "text": "A) Todos necesitan antibióticos",
+        "isCorrect": false,
+        "explanation": "Falso; la mayoría son virales y el uso indiscriminado de antibióticos es perjudicial[cite: 508]."
+      },
+      {
+        "text": "B) La mayoría son virales y autolimitados, pero el diagnóstico sistemático permite detectar cuadros graves como Kawasaki o Sarampión",
+        "isCorrect": true,
+        "explanation": "El médico debe reconocer los signos de alarma mediante historia, morfología y pródromo[cite: 508, 514]."
+      },
+      {
+        "text": "C) Solo importa si pican o no",
+        "isCorrect": false,
+        "explanation": "El prurito es un síntoma, pero no define la gravedad del cuadro sistémico[cite: 509]."
+      },
+      {
+        "text": "D) El color es lo único importante",
+        "isCorrect": false,
+        "explanation": "La morfología (mácula, pápula, vesícula) y la distribución son tan importantes como el color[cite: 510]."
+      },
+      {
+        "text": "E) No se deben lavar",
+        "isCorrect": false,
+        "explanation": "La higiene es fundamental, especialmente para prevenir sobreinfecciones en la varicela[cite: 511]."
+      }
+    ]
+  }
+]
