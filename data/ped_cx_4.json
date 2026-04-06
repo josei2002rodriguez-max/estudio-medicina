@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Torsión Testicular Intermitente",
+    "text": "¿Cuál es la conducta más adecuada ante un adolescente de 16 años con un cuadro de dolor testicular recurrente de resolución espontánea (torsión intermitente) que consulta asintomático en el policlínico?",
+    "hint": "El antecedente de torsión-destorsión espontánea es un predictor de una torsión definitiva con pérdida de la gónada.",
+    "options": [
+      {
+        "text": "A) Realizar una ecografía Doppler y si es normal, dar de alta.",
+        "isCorrect": false,
+        "explanation": "La ecografía normal en un paciente asintomático no descarta la predisposición anatómica; solo evalúa el flujo en el momento del dolor."
+      },
+      {
+        "text": "B) Indicar reposo deportivo y control si el dolor vuelve.",
+        "isCorrect": false,
+        "explanation": "El reposo no previene la rotación mecánica del cordón si existe la deformidad anatómica de base."
+      },
+      {
+        "text": "C) Programar orquidopexia bilateral electiva.",
+        "isCorrect": true,
+        "explanation": "La torsión intermitente se asocia a la deformidad en 'badajo de campana' bilateral. Ante el alto riesgo de isquemia irreversible, se indica la fijación preventiva de ambos testículos."
+      },
+      {
+        "text": "D) Iniciar tratamiento con bloqueadores alfa-adrenérgicos.",
+        "isCorrect": false,
+        "explanation": "Fármacos usados en adultos para hiperplasia prostática o cálculos, sin rol en la torsión testicular."
+      },
+      {
+        "text": "E) Solicitar marcadores tumorales de urgencia.",
+        "isCorrect": false,
+        "explanation": "Los marcadores son prioridad ante una masa sólida e indolora, no ante cuadros de dolor paroxístico agudo."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Técnica Quirúrgica - Viabilidad",
+    "text": "En la técnica quirúrgica de la torsión testicular, tras realizar la detorsión del cordón, ¿cuál es el criterio para decidir realizar una orquiectomía (extirpación) en lugar de una orquidopexia (fijación)?",
+    "hint": "El cirujano busca signos objetivos de viabilidad microvascular como el sangrado capilar.",
+    "options": [
+      {
+        "text": "A) Que el testículo haya estado torcido más de 2 horas.",
+        "isCorrect": false,
+        "explanation": "El tiempo es un factor pronóstico, pero la decisión se basa en la apariencia y perfusión real observada tras la detorsión."
+      },
+      {
+        "text": "B) La ausencia de recuperación del color normal y de sangrado al realizar una incisión en la túnica albugínea tras 10-20 minutos de observación con compresas tibias.",
+        "isCorrect": true,
+        "explanation": "Si el testículo permanece negro/violáceo y no sangra al corte tras calor local, se considera inviable y debe extirparse para evitar abscesos e infertilidad inmunológica."
+      },
+      {
+        "text": "C) Que el paciente sea menor de 1 año.",
+        "isCorrect": false,
+        "explanation": "La conducta depende de la viabilidad encontrada en la gónada, no exclusivamente de la edad del paciente."
+      },
+      {
+        "text": "D) Que el testículo contralateral sea de mayor tamaño.",
+        "isCorrect": false,
+        "explanation": "El tamaño del testículo sano no determina la conducta sobre el testículo torcido."
+      },
+      {
+        "text": "E) Siempre se debe extirpar si hubo torsión de más de 360 grados.",
+        "isCorrect": false,
+        "explanation": "Un giro de 360° es grave, pero si se resuelve a tiempo y el tejido sangra, el testículo puede recuperarse."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Orquiepididimitis Prepúber",
+    "text": "Un niño de 5 años presenta dolor e inflamación escrotal. Se sospecha una orquiepididimitis. ¿Qué examen es prioritario realizar para orientar la causa etiológica en este grupo etario prepúber?",
+    "hint": "En niños pequeños, la infección testicular suele ser secundaria a anomalías anatómicas de la vía urinaria.",
+    "options": [
+      {
+        "text": "A) Espermiograma.",
+        "isCorrect": false,
+        "explanation": "Examen de fertilidad para adultos o adolescentes, sin utilidad en la fase aguda pediátrica."
+      },
+      {
+        "text": "B) Ecografía renal y vesical, y sedimento de orina/urocultivo.",
+        "isCorrect": true,
+        "explanation": "En prepúberes la orquiepididimitis obliga a descartar malformaciones urológicas (uréter ectópico, reflujo masivo) que favorecen la infección ascendente."
+      },
+      {
+        "text": "C) Cariotipo.",
+        "isCorrect": false,
+        "explanation": "Se indicaría ante ambigüedad genital o criptorquidia bilateral no palpable, no por un cuadro inflamatorio agudo."
+      },
+      {
+        "text": "D) Radiografía de tórax.",
+        "isCorrect": false,
+        "explanation": "No aporta información diagnóstica para la patología escrotal o urológica."
+      },
+      {
+        "text": "E) Niveles de testosterona.",
+        "isCorrect": false,
+        "explanation": "No ayuda a diagnosticar la causa de un proceso infeccioso escrotal."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Ecografía en Torsión de Hidátide",
+    "text": "Respecto a la torsión de la hidátide de Morgagni, ¿cuál es el hallazgo ecográfico más característico?",
+    "hint": "La ecografía debe confirmar que el testículo está sano mientras identifica el apéndice inflamado.",
+    "options": [
+      {
+        "text": "A) Ausencia de flujo Doppler en el parénquima testicular.",
+        "isCorrect": false,
+        "explanation": "Este es el hallazgo cardinal pero de la torsión testicular, no de la hidátide."
+      },
+      {
+        "text": "B) Masa pequeña hiperecogénica o heterogénea en el polo superior del testículo, extratesticular, con flujo Doppler testicular conservado.",
+        "isCorrect": true,
+        "explanation": "La ecografía Doppler muestra el apéndice aumentado de tamaño, a menudo rodeado de hidrocele reactivo, pero con vascularización normal del testículo."
+      },
+      {
+        "text": "C) Engrosamiento masivo de la pared del escroto únicamente.",
+        "isCorrect": false,
+        "explanation": "Hallazgo inespecífico que puede verse en edema idiopático o celulitis."
+      },
+      {
+        "text": "D) Presencia de aire dentro del escroto.",
+        "isCorrect": false,
+        "explanation": "Sugerente de hernia con neumatosis o gangrena de Fournier, no de torsión de hidátide."
+      },
+      {
+        "text": "E) Testículo de forma triangular.",
+        "isCorrect": false,
+        "explanation": "No es una descripción radiológica o anatómica estándar para esta patología."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Abordaje Quirúrgico",
+    "text": "¿Cuál es la vía de abordaje quirúrgico recomendada para la exploración de un escroto agudo con sospecha de torsión testicular?",
+    "hint": "Se busca el acceso más directo y rápido al testículo y la túnica vaginal.",
+    "options": [
+      {
+        "text": "A) Incisión inguinal.",
+        "isCorrect": false,
+        "explanation": "Vía de elección para tumores testiculares o hernias inguinales, pero no para la urgencia de la torsión."
+      },
+      {
+        "text": "B) Incisión escrotal transverso-oblicua o en el rafe medio.",
+        "isCorrect": true,
+        "explanation": "El abordaje transescrotal permite una rápida exposición de la gónada, la detorsión y la fijación de ambos lados."
+      },
+      {
+        "text": "C) Laparoscopía abdominal inicial.",
+        "isCorrect": false,
+        "explanation": "Se usa para el estudio del testículo no palpable (criptorquidia), no para la emergencia del escroto agudo."
+      },
+      {
+        "text": "D) Incisión de McBurney.",
+        "isCorrect": false,
+        "explanation": "Incisión específica para apendicectomía, sin relación con la cirugía escrotal."
+      },
+      {
+        "text": "E) Incisión lumbar.",
+        "isCorrect": false,
+        "explanation": "Acceso para cirugía renal, alejado del área del escroto agudo."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Pronóstico de Viabilidad",
+    "text": "¿Cuál es el principal factor que determina la viabilidad testicular tras una torsión?",
+    "hint": "A mayor giro y mayor tiempo, menos sangre llega y más daño ocurre.",
+    "options": [
+      {
+        "text": "A) El color del escroto.",
+        "isCorrect": false,
+        "explanation": "El color de la piel puede ser engañoso; la viabilidad es una cuestión de perfusión interna de la gónada."
+      },
+      {
+        "text": "B) El tiempo transcurrido desde el inicio del dolor y el grado de rotación del cordón.",
+        "isCorrect": true,
+        "explanation": "Son los dos determinantes críticos del pronóstico: el daño es tiempo-dependiente y proporcional a la magnitud de la oclusión vascular."
+      },
+      {
+        "text": "C) La estatura del paciente.",
+        "isCorrect": false,
+        "explanation": "No influye en la anatomía del cordón ni en la resistencia del tejido a la isquemia."
+      },
+      {
+        "text": "D) El tipo de alimentación.",
+        "isCorrect": false,
+        "explanation": "Sin ninguna relación biológica con la fisiopatología de la torsión mecánica."
+      },
+      {
+        "text": "E) El día de la semana.",
+        "isCorrect": false,
+        "explanation": "La viabilidad es un proceso biológico independiente del calendario."
+      }
+    ]
+  }
+]
