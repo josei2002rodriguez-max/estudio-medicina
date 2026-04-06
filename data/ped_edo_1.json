@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Amenorrea Primaria",
+    "text": "En una niña, ¿cuál es el límite de edad superior aceptado para la aparición de la menarquia antes de que se considere un retraso puberal (amenorrea primaria)?",
+    "hint": "Se define por la edad absoluta o por el tiempo transcurrido desde la telarquia. [cite: 11]",
+    "options": [
+      {
+        "text": "A) 13 años.",
+        "isCorrect": false,
+        "explanation": "A los 13 años la ausencia de telarquia (botón mamario) se considera pubertad retrasada, pero no es el límite para la menarquia. [cite: 14]"
+      },
+      {
+        "text": "B) 14 años.",
+        "isCorrect": false,
+        "explanation": "Este es el límite para el inicio del crecimiento testicular en el varón, no para la menarquia en la mujer. [cite: 15]"
+      },
+      {
+        "text": "C) 15 años.",
+        "isCorrect": true,
+        "explanation": "Correcto. La amenorrea primaria se define como la ausencia de menarquia a los 15 años con caracteres sexuales normales, o a los 13 años si están ausentes. [cite: 12]"
+      },
+      {
+        "text": "D) 16 años.",
+        "isCorrect": false,
+        "explanation": "Aunque se usa a menudo en clínica para descartar patología obstructiva, el límite oficial de definición es 15 años. [cite: 16, 17]"
+      },
+      {
+        "text": "E) 18 años.",
+        "isCorrect": false,
+        "explanation": "A esta edad el retraso es severo y patológico en cualquier contexto de desarrollo normal. [cite: 18, 19]"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Adrenarquia Precoz",
+    "text": "Un niño de 8 años presenta vello púbico incipiente (Tanner 2) y olor axilar. Al examen, sus testículos miden 2 ml bilateralmente y no tiene acné. La velocidad de crecimiento es normal. ¿Conducta más adecuada?",
+    "hint": "Presenta adrenarquia pero no gonadarquia. [cite: 30]",
+    "options": [
+      {
+        "text": "A) Realizar Test de estimulación con GnRH.",
+        "isCorrect": false,
+        "explanation": "Se indicaría si los testículos midieran ≥ 4 ml, sugiriendo activación del eje central. [cite: 34, 35]"
+      },
+      {
+        "text": "B) Solicitar RM de silla turca de urgencia.",
+        "isCorrect": false,
+        "explanation": "Solo se solicita si el Test de GnRH es positivo para descartar causas orgánicas centrales. [cite: 36]"
+      },
+      {
+        "text": "C) Controlar en 6 meses para vigilar progresión.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una adrenarquia precoz aislada (variante normal frecuente). Requiere observación para asegurar que no progrese a pubertad central. [cite: 31, 32]"
+      },
+      {
+        "text": "D) Iniciar tratamiento con análogos de GnRH.",
+        "isCorrect": false,
+        "explanation": "Requiere diagnóstico confirmado de Pubertad Precoz Central con impacto óseo, lo cual no ocurre aquí. [cite: 37]"
+      },
+      {
+        "text": "E) Realizar cariotipo.",
+        "isCorrect": false,
+        "explanation": "Se pediría ante sospecha de Klinefelter (testículos pequeños en adolescentes o con talla alta). [cite: 38]"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Síndrome de McCune-Albright",
+    "text": "¿Cuál es la causa más probable de una pubertad precoz en una niña que presenta manchas café con leche de bordes irregulares ('costa de Maine') y antecedentes de fracturas patológicas?",
+    "hint": "Es una enfermedad debida a una mutación activadora de la proteína G (mosaico). [cite: 47]",
+    "options": [
+      {
+        "text": "A) Síndrome de Turner.",
+        "isCorrect": false,
+        "explanation": "Causa talla baja y retraso puberal por falla ovárica, no pubertad precoz. [cite: 50]"
+      },
+      {
+        "text": "B) Síndrome de McCune-Albright.",
+        "isCorrect": true,
+        "explanation": "Correcto. La tríada clásica incluye pubertad precoz periférica, displasia fibrosa poliostótica (fracturas) y manchas café con leche. [cite: 48]"
+      },
+      {
+        "text": "C) Hamartoma hipotalámico.",
+        "isCorrect": false,
+        "explanation": "Causa pubertad precoz central, a menudo asociada a crisis de risa inapropiada (gelásticas). [cite: 51]"
+      },
+      {
+        "text": "D) Hiperplasia suprarrenal congénita.",
+        "isCorrect": false,
+        "explanation": "Su síntoma principal es la virilización sin desarrollo mamario. [cite: 52]"
+      },
+      {
+        "text": "E) Adenoma hipofisario productor de LH.",
+        "isCorrect": false,
+        "explanation": "Extremadamente raro en pediatría; la causa central suele ser idiopática o hamartoma. [cite: 53, 54]"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Tanner Vello Púbico Femenino",
+    "text": "En el estadio Tanner 4 de vello púbico femenino, ¿cuál es la característica que lo diferencia del estadio 5?",
+    "hint": "El estadio 4 es 'adulto en calidad' pero 'infantil en extensión'. [cite: 63]",
+    "options": [
+      {
+        "text": "A) El vello es lacio y escaso.",
+        "isCorrect": false,
+        "explanation": "Característica del estadio Tanner 2. [cite: 66]"
+      },
+      {
+        "text": "B) El vello es de tipo adulto pero no se extiende a la cara interna de los muslos.",
+        "isCorrect": true,
+        "explanation": "Correcto. El estadio 4 tiene la calidad del adulto pero distribución menor; el estadio 5 se define por la extensión a la superficie medial de los muslos. [cite: 64]"
+      },
+      {
+        "text": "C) El vello cubre todo el monte de Venus y llega hasta el ombligo.",
+        "isCorrect": false,
+        "explanation": "Descrito a veces como Tanner 6 (hirsutismo o línea alba masculina). [cite: 67]"
+      },
+      {
+        "text": "D) El vello es rizado pero solo está en los labios mayores.",
+        "isCorrect": false,
+        "explanation": "Corresponde al estadio Tanner 3, donde el vello comienza a rizarse pero es escaso. [cite: 68]"
+      },
+      {
+        "text": "E) No hay diferencia, son estadios equivalentes.",
+        "isCorrect": false,
+        "explanation": "Existen diferencias anatómicas claras en la extensión del vello. [cite: 61]"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "RCCP - Edad Ósea",
+    "text": "¿Qué hallazgo en la Edad Ósea (EO) es típico del Retraso Constitucional del Crecimiento y la Pubertad (RCCP)?",
+    "hint": "El 'reloj biológico' del niño está atrasado respecto al calendario. [cite: 80]",
+    "options": [
+      {
+        "text": "A) EO = Edad Cronológica (EC).",
+        "isCorrect": false,
+        "explanation": "Característico de la Talla Baja Familiar. [cite: 84]"
+      },
+      {
+        "text": "B) EO > EC (adelanto de más de 2 años).",
+        "isCorrect": false,
+        "explanation": "Hallazgo típico de la Pubertad Precoz por el impacto de esteroides sexuales. [cite: 85]"
+      },
+      {
+        "text": "C) EO < EC (retraso de más de 2 años).",
+        "isCorrect": true,
+        "explanation": "Correcto. En el RCCP la maduración es lenta, permitiendo que el niño crezca durante más tiempo que sus pares al cerrar las fisis más tarde. [cite: 76, 81, 82]"
+      },
+      {
+        "text": "D) La edad ósea no se puede medir en el RCCP.",
+        "isCorrect": false,
+        "explanation": "Es medible y esencial para el diagnóstico diferencial. [cite: 77]"
+      },
+      {
+        "text": "E) Ausencia de núcleos de osificación del carpo.",
+        "isCorrect": false,
+        "explanation": "Se asociaría a hipotiroidismo congénito severo al nacer (núcleos de rodilla), no es el hallazgo del RCCP escolar. [cite: 86]"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Fisiología Puberal - Cierre de Epífisis",
+    "text": "¿Cuál es la principal hormona responsable del cierre de las epífisis (fin del crecimiento lineal) tanto en hombres como en mujeres?",
+    "hint": "Los varones con déficit de aromatasa nunca dejan de crecer. [cite: 95]",
+    "options": [
+      {
+        "text": "A) Testosterona.",
+        "isCorrect": false,
+        "explanation": "Es responsable de la masa muscular y vello facial, pero no del cierre directo del cartílago. [cite: 99]"
+      },
+      {
+        "text": "B) Hormona de Crecimiento (GH).",
+        "isCorrect": false,
+        "explanation": "Estimula el crecimiento longitudinal antes del cierre de fisis. [cite: 100]"
+      },
+      {
+        "text": "C) Estrógenos (Estradiol).",
+        "isCorrect": true,
+        "explanation": "Correcto. El estradiol es el mediador final del cierre de los cartílagos en ambos sexos. Niveles altos (ej. Pubertad Precoz) comprometen la talla final. [cite: 91, 96, 97]"
+      },
+      {
+        "text": "D) Progesterona.",
+        "isCorrect": false,
+        "explanation": "No tiene un rol principal en la maduración ósea o cierre epifisario. [cite: 92]"
+      },
+      {
+        "text": "E) Cortisol.",
+        "isCorrect": false,
+        "explanation": "En exceso inhibe el crecimiento y causa obesidad (Cushing), pero no es el mediador del cierre puberal. [cite: 101]"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Síndrome de Klinefelter",
+    "text": "Un varón de 17 años consulta por ginecomastia persistente y dificultades de aprendizaje. Al examen: Talla alta (1.85 m), testículos de 3 ml (firmes) y Tanner 4 de vello. ¿Qué estudio solicita?",
+    "hint": "Sospeche Síndrome de Klinefelter (47, XXY). [cite: 112, 113]",
+    "options": [
+      {
+        "text": "A) Niveles de prolactina.",
+        "isCorrect": false,
+        "explanation": "Se pediría ante galactorrea y cefalea (prolactinoma). [cite: 117]"
+      },
+      {
+        "text": "B) Cariotipo.",
+        "isCorrect": true,
+        "explanation": "Correcto. El Klinefelter es la causa más común de hipogonadismo primario. Presenta microrquidia y talla alta por exceso de genes SHOX. [cite: 107, 114, 115]"
+      },
+      {
+        "text": "C) Ecografía de abdomen.",
+        "isCorrect": false,
+        "explanation": "Sin utilidad diagnóstica en esta sospecha cromosómica. [cite: 108]"
+      },
+      {
+        "text": "D) Niveles de hormona de crecimiento.",
+        "isCorrect": false,
+        "explanation": "Se pediría ante gigantismo, pero los testículos serían acordes al Tanner. [cite: 118]"
+      },
+      {
+        "text": "E) Test de estimulación con GnRH.",
+        "isCorrect": false,
+        "explanation": "Evalúa la reserva hipofisaria en causas de origen central, no periférico. [cite: 119]"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Síndrome de Kallmann",
+    "text": "¿Cuál es el síntoma guía que permite sospechar un Síndrome de Kallmann ante un adolescente con ausencia de desarrollo puberal?",
+    "hint": "Se debe a una falla en la migración de las neuronas GnRH y las del bulbo olfatorio. [cite: 128]",
+    "options": [
+      {
+        "text": "A) Sordera.",
+        "isCorrect": false,
+        "explanation": "No es el hallazgo característico asociado a la falla de GnRH. [cite: 122]"
+      },
+      {
+        "text": "B) Anosmia o hiposmia (falta de olfato).",
+        "isCorrect": true,
+        "explanation": "Correcto. El Kallmann asocia hipogonadismo hipogonadotropo (central) con alteraciones del olfato. Es un signo clínico clave. [cite: 123, 129, 130]"
+      },
+      {
+        "text": "C) Polidactilia.",
+        "isCorrect": false,
+        "explanation": "Signo característico del Síndrome de Bardet-Biedl. [cite: 132]"
+      },
+      {
+        "text": "D) Obesidad extrema.",
+        "isCorrect": false,
+        "explanation": "Hallazgo típico del Prader-Willi (con hipotonía y apetito voraz). [cite: 133]"
+      },
+      {
+        "text": "E) Ceguera nocturna.",
+        "isCorrect": false,
+        "explanation": "No forma parte de las manifestaciones del síndrome. [cite: 126]"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Pico de Crecimiento Puberal",
+    "text": "¿En qué momento del desarrollo puberal ocurre habitualmente el pico de velocidad de crecimiento ('estirón') en las niñas?",
+    "hint": "Las niñas dan el estirón mucho antes que los varones en relación a los caracteres sexuales. [cite: 142]",
+    "options": [
+      {
+        "text": "A) Antes de la telarquia.",
+        "isCorrect": false,
+        "explanation": "El 'mini-estirón' puede ocurrir antes, pero el pico máximo es puberal. [cite: 136]"
+      },
+      {
+        "text": "B) En estadios tempranos (Tanner 2-3 mamario).",
+        "isCorrect": true,
+        "explanation": "Correcto. El pico en niñas ocurre en Tanner 2 o 3. Al llegar la menarquia, la VDC ya está en descenso. [cite: 137, 143]"
+      },
+      {
+        "text": "C) Después de la menarquia.",
+        "isCorrect": false,
+        "explanation": "Tras la menarquia el crecimiento es remanente y final (5-7 cm). [cite: 145, 146]"
+      },
+      {
+        "text": "D) En el estadio Tanner 5 de vello.",
+        "isCorrect": false,
+        "explanation": "Etapa de madurez final donde el crecimiento ya se detuvo o es mínimo. [cite: 139]"
+      },
+      {
+        "text": "E) Coincidiendo con la aparición de la dentición definitiva.",
+        "isCorrect": false,
+        "explanation": "La dentición definitiva inicia mucho antes de la pubertad (6 años aprox.). [cite: 140]"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Ginecomastia Puberal",
+    "text": "Un adolescente de 13 años presenta ginecomastia bilateral de 3 cm, algo sensible y Tanner 3 gonadal. Está muy angustiado. ¿Conducta más adecuada?",
+    "hint": "Es la 'ginecomastia puberal fisiológica'. [cite: 158]",
+    "options": [
+      {
+        "text": "A) Indicar cirugía plástica de inmediato.",
+        "isCorrect": false,
+        "explanation": "Solo se considera si persiste tras los 18 años o causa daño psicológico severo refractario a educación. [cite: 162]"
+      },
+      {
+        "text": "B) Iniciar tratamiento con Tamoxifeno.",
+        "isCorrect": false,
+        "explanation": "No es la conducta inicial ni estándar en atención primaria. [cite: 163]"
+      },
+      {
+        "text": "C) Explicar que es un fenómeno normal y transitorio, y realizar seguimiento.",
+        "isCorrect": true,
+        "explanation": "Correcto. Ocurre por desbalance temporal estrógeno/andrógeno; resuelve solo en 12-24 meses. La educación es la primera línea. [cite: 154, 159, 160]"
+      },
+      {
+        "text": "D) Solicitar niveles de estrógenos y testosterona.",
+        "isCorrect": false,
+        "explanation": "No se requiere estudio hormonal ante un cuadro clínico fisiológico típico. [cite: 155]"
+      },
+      {
+        "text": "E) Prohibir el consumo de pollo.",
+        "isCorrect": false,
+        "explanation": "Es un mito sin base científica para la ginecomastia puberal común. [cite: 164]"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Ecografía Uterina en Pubertad",
+    "text": "¿Qué hallazgo ecográfico en una niña con sospecha de pubertad precoz central indica una estimulación estrogénica significativa?",
+    "hint": "El útero cambia de forma y tamaño por el efecto de las hormonas. [cite: 176]",
+    "options": [
+      {
+        "text": "A) Presencia de útero prepuberal (forma de 'martillo').",
+        "isCorrect": false,
+        "explanation": "Indicaría ausencia de estimulación (ej. telarquia precoz aislada). [cite: 180]"
+      },
+      {
+        "text": "B) Longitud uterina > 3.5 cm y presencia de línea endometrial visible.",
+        "isCorrect": true,
+        "explanation": "Correcto. Un útero piriforme de más de 3.5-4 cm con endometrio visible confirma exposición prolongada a estrógenos. [cite: 169, 177, 178]"
+      },
+      {
+        "text": "C) Ovarios con volumen menor a 1 ml.",
+        "isCorrect": false,
+        "explanation": "Hallazgo propio del estado prepuberal. [cite: 171]"
+      },
+      {
+        "text": "D) Ausencia total de folículos.",
+        "isCorrect": false,
+        "explanation": "Hallazgo inespecífico o de gónadas impúberes. [cite: 172]"
+      },
+      {
+        "text": "E) Presencia de un solo quiste de 4 cm.",
+        "isCorrect": false,
+        "explanation": "Sugeriría Pubertad Precoz Periférica (autónoma), no central. [cite: 181]"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Síndrome de Van Wyk-Grumbach",
+    "text": "¿Cuál es la consecuencia de un Hipotiroidismo Severo de larga data sobre el desarrollo puberal (Van Wyk-Grumbach)?",
+    "hint": "Los niveles altísimos de TSH pueden estimular débilmente los receptores de FSH. [cite: 190]",
+    "options": [
+      {
+        "text": "A) Retraso puberal severo siempre.",
+        "isCorrect": false,
+        "explanation": "Es la consecuencia habitual del hipotiroidismo común, pero no define este síndrome específico. [cite: 194]"
+      },
+      {
+        "text": "B) Una 'pseudopubertad precoz' paradójica con aumento mamario y sangrado, pero con retraso de la edad ósea.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una rareza donde hay signos puberales pero crecimiento óseo frenado. Resuelve al tratar el hipotiroidismo. [cite: 185, 191, 192]"
+      },
+      {
+        "text": "C) Menarquia a los 8 años con talla alta.",
+        "isCorrect": false,
+        "explanation": "Incorrecto; el hipotiroidismo siempre cursa con talla baja. [cite: 195]"
+      },
+      {
+        "text": "D) Virilización con vello púbico abundante.",
+        "isCorrect": false,
+        "explanation": "El síndrome afecta caracteres estrogénicos por estímulo de FSH, no androgénicos. [cite: 187]"
+      },
+      {
+        "text": "E) No afecta la pubertad.",
+        "isCorrect": false,
+        "explanation": "Tiene un impacto profundo y paradójico en el desarrollo. [cite: 188]"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Bioquímica de la Adrenarquia",
+    "text": "¿Qué hormona se mide para evaluar la maduración de la zona reticular de la corteza suprarrenal (adrenarquia)?",
+    "hint": "Es el marcador bioquímico de la activación adrenal. [cite: 204]",
+    "options": [
+      {
+        "text": "A) Cortisol basal.",
+        "isCorrect": false,
+        "explanation": "Se usa para evaluar sospecha de Insuficiencia Suprarrenal o Cushing. [cite: 208]"
+      },
+      {
+        "text": "B) DHEA-S (Sulfato de dehidroepiandrosterona).",
+        "isCorrect": true,
+        "explanation": "Correcto. Su aumento es el responsable del vello púbico y axilar; sus niveles correlacionan con la edad de la adrenarquia. [cite: 199, 205, 206]"
+      },
+      {
+        "text": "C) Aldosterona.",
+        "isCorrect": false,
+        "explanation": "Hormona de la zona glomerular, relacionada con el equilibrio hidroelectrolítico. [cite: 200]"
+      },
+      {
+        "text": "D) Insulina.",
+        "isCorrect": false,
+        "explanation": "Hormona metabólica pancreática. [cite: 201]"
+      },
+      {
+        "text": "E) ACTH.",
+        "isCorrect": false,
+        "explanation": "Estímulo hipofisario central para la zona fasciculada (cortisol). [cite: 202, 209]"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Tanner Vello Púbico Masculino",
+    "text": "¿Cómo se define el estadio Tanner 3 de vello púbico masculino?",
+    "hint": "Es el estadio intermedio de la pubarquia. [cite: 218]",
+    "options": [
+      {
+        "text": "A) Ausencia de vello (infantil).",
+        "isCorrect": false,
+        "explanation": "Estadio Tanner 1. [cite: 221]"
+      },
+      {
+        "text": "B) Vello oscuro, más grueso y rizado, extendiéndose sobre la sínfisis del pubis.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se caracteriza por el cambio de textura y color con extensión limitada a la sínfisis. [cite: 213, 219]"
+      },
+      {
+        "text": "C) Vello de tipo adulto que cubre el monte de Venus pero no los muslos.",
+        "isCorrect": false,
+        "explanation": "Corresponde al estadio Tanner 4. [cite: 222]"
+      },
+      {
+        "text": "D) Vello que se extiende a la cara interna de los muslos.",
+        "isCorrect": false,
+        "explanation": "Estadio Tanner 5 de madurez final. [cite: 223]"
+      },
+      {
+        "text": "E) Solo vello lacio en la base del pene.",
+        "isCorrect": false,
+        "explanation": "Característico del estadio Tanner 2. [cite: 224]"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Telarquia Precoz Aislada",
+    "text": "¿Conducta ante niña de 6 años con telarquia Tanner 2 unilateral, VDC normal y edad ósea acorde?",
+    "hint": "No hay signos de activación sistémica del eje (talla/hueso). [cite: 233]",
+    "options": [
+      {
+        "text": "A) Iniciar análogos de GnRH.",
+        "isCorrect": false,
+        "explanation": "Fármacos indicados solo ante pubertad precoz real confirmada. [cite: 227]"
+      },
+      {
+        "text": "B) Derivar a cirugía para biopsia de la mama.",
+        "isCorrect": false,
+        "explanation": "Nunca se biopsia el botón mamario; se arriesga a destruir la glándula para siempre. [cite: 237, 238]"
+      },
+      {
+        "text": "C) Diagnosticar Telarquia Precoz Aislada y observar.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una variante benigna frecuente si no hay aceleración de talla o adelanto óseo. [cite: 229, 234, 235]"
+      },
+      {
+        "text": "D) Solicitar RM de cerebro con contraste.",
+        "isCorrect": false,
+        "explanation": "Se indicaría ante sospecha de origen central (PP real). [cite: 230, 239]"
+      },
+      {
+        "text": "E) Realizar test de estimulación con GnRH inmediatamente.",
+        "isCorrect": false,
+        "explanation": "Solo si hubiera signos de progresión del eje (VDC alta/EO adelantada). [cite: 231, 239]"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Macrorquidia / Síndrome X Frágil",
+    "text": "¿A partir de qué volumen testicular se considera 'Macrorquidia' y con qué síndrome se asocia?",
+    "hint": "Testículos gigantes en un paciente con discapacidad intelectual. [cite: 252]",
+    "options": [
+      {
+        "text": "A) > 15 ml - Síndrome de Down.",
+        "isCorrect": false,
+        "explanation": "No existe tal asociación característica. [cite: 243]"
+      },
+      {
+        "text": "B) > 25 ml - Síndrome de X Frágil.",
+        "isCorrect": true,
+        "explanation": "Correcto. La macrorquidia post-puberal es un signo clínico distintivo del Síndrome de X Frágil. [cite: 245, 253]"
+      },
+      {
+        "text": "C) > 4 ml - Síndrome de Noonan.",
+        "isCorrect": false,
+        "explanation": "4 ml es el inicio puberal normal, no macrorquidia. [cite: 247]"
+      },
+      {
+        "text": "D) < 4 ml - Síndrome de Klinefelter.",
+        "isCorrect": false,
+        "explanation": "El Klinefelter asocia talla alta con microrquidia (testículos pequeños). [cite: 249, 255]"
+      },
+      {
+        "text": "E) No existe el término macrorquidia.",
+        "isCorrect": false,
+        "explanation": "El término existe y es semiológicamente importante. [cite: 250]"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Riesgo de Pubertad Precoz",
+    "text": "¿Cuál de los siguientes es un factor de riesgo para el inicio precoz de la pubertad en niñas?",
+    "hint": "El metabolismo y el tejido adiposo temprano influyen en el 'set-point' hipotalámico. [cite: 264]",
+    "options": [
+      {
+        "text": "A) Bajo peso al nacer con recuperación rápida (PEG con catch-up).",
+        "isCorrect": true,
+        "explanation": "Correcto. El aumento rápido de peso en los primeros años en niñas PEG eleva el riesgo de adrenarquia precoz y pubertad adelantada. [cite: 258, 265]"
+      },
+      {
+        "text": "B) Dieta vegetariana estricta.",
+        "isCorrect": false,
+        "explanation": "No se asocia de forma causal al adelanto puberal. [cite: 259]"
+      },
+      {
+        "text": "C) Práctica de gimnasia olímpica de alto rendimiento.",
+        "isCorrect": false,
+        "explanation": "Se asocia al retraso puberal (amenorrea de la deportista). [cite: 260, 267]"
+      },
+      {
+        "text": "D) Residir en zonas de alta montaña.",
+        "isCorrect": false,
+        "explanation": "Sin relación documentada con el adelanto puberal. [cite: 261]"
+      },
+      {
+        "text": "E) Anemia ferropénica crónica.",
+        "isCorrect": false,
+        "explanation": "Afecta el desarrollo general pero no gatilla pubertad precoz. [cite: 262]"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Bioquímica Pubertad Periférica",
+    "text": "En una Pubertad Precoz Periférica por tumor suprarrenal, ¿cómo esperaría los niveles de LH y FSH?",
+    "hint": "Las hormonas vienen 'de afuera' del eje hipofisario. [cite: 276]",
+    "options": [
+      {
+        "text": "A) Elevados (rango puberal).",
+        "isCorrect": false,
+        "explanation": "Hallazgo típico de la Pubertad Precoz Central. [cite: 270, 280]"
+      },
+      {
+        "text": "B) Suprimidos o muy bajos (rango prepuberal).",
+        "isCorrect": true,
+        "explanation": "Correcto. El feedback negativo de los esteroides externos frena a la hipófisis; la respuesta al test de GnRH será nula. [cite: 271, 277, 278]"
+      },
+      {
+        "text": "C) LH alta y FSH baja.",
+        "isCorrect": false,
+        "explanation": "No es el patrón habitual de supresión por feedback. [cite: 272]"
+      },
+      {
+        "text": "D) Normales para la edad.",
+        "isCorrect": false,
+        "explanation": "Estarían anormalmente bajos debido a la supresión. [cite: 273]"
+      },
+      {
+        "text": "E) Fluctúan cada hora.",
+        "isCorrect": false,
+        "explanation": "El patrón pulsátil se pierde por la supresión constante. [cite: 274]"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Mini-estirón Puberal",
+    "text": "¿Qué caracteriza al 'Mini-estirón' de la pubertad temprana?",
+    "hint": "Ocurre justo antes de que aparezcan los signos mamarios. [cite: 289]",
+    "options": [
+      {
+        "text": "A) Es el crecimiento del vello púbico.",
+        "isCorrect": false,
+        "explanation": "Eso corresponde a la pubarquia. [cite: 283]"
+      },
+      {
+        "text": "B) Es una aceleración leve de la VDC en niñas antes de la telarquia.",
+        "isCorrect": true,
+        "explanation": "Correcto. Algunas niñas aumentan su velocidad de crecimiento incluso antes de que el botón mamario sea palpable. [cite: 284, 290]"
+      },
+      {
+        "text": "C) Es un error de medición.",
+        "isCorrect": false,
+        "explanation": "Es un fenómeno biológico real. [cite: 285]"
+      },
+      {
+        "text": "D) Es el estirón final del varón.",
+        "isCorrect": false,
+        "explanation": "Ocurre en fases tardías del desarrollo masculino. [cite: 286]"
+      },
+      {
+        "text": "E) Es el crecimiento de las manos.",
+        "isCorrect": false,
+        "explanation": "Sin relación con el término clínico. [cite: 287]"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Virilización por Esteroides",
+    "text": "Varón de 15 años con testículos de 25 ml, acné severo, voz grave y masa muscular excesiva (va al gimnasio). ¿Sospecha?",
+    "hint": "Virilización extrema asociada a deporte de musculación. [cite: 300]",
+    "options": [
+      {
+        "text": "A) Pubertad normal precoz.",
+        "isCorrect": false,
+        "explanation": "No explicaría la masa muscular excesiva asociada a hábitos de gimnasio. [cite: 294]"
+      },
+      {
+        "text": "B) Consumo de esteroides anabólicos exógenos.",
+        "isCorrect": true,
+        "explanation": "Correcto. El uso de precursores causa virilización marcada. Nota: algunos suplementos o tumores pueden cursar con testículos grandes. [cite: 295, 301, 302]"
+      },
+      {
+        "text": "C) Déficit de hormona de crecimiento.",
+        "isCorrect": false,
+        "explanation": "Causaría talla baja y retraso madurativo. [cite: 296]"
+      },
+      {
+        "text": "D) Síndrome de Turner.",
+        "isCorrect": false,
+        "explanation": "Afecta exclusivamente a mujeres. [cite: 297]"
+      },
+      {
+        "text": "E) Hipotiroidismo.",
+        "isCorrect": false,
+        "explanation": "Cursa con metabolismo lento y retraso puberal. [cite: 298]"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Terminología Médica (Distractores)",
+    "text": "¿Qué es la 'Hipsarritmia' y con qué patología de la pubertad se asocia?",
+    "hint": "Distractor de 'crossover' con neurología. [cite: 311]",
+    "options": [
+      {
+        "text": "A) Es un patrón EEG del Síndrome de West; no tiene relación con la pubertad.",
+        "isCorrect": true,
+        "explanation": "Correcto. No se debe confundir terminología; la hipsarritmia es un hallazgo neurológico, no endocrino. [cite: 305, 312]"
+      },
+      {
+        "text": "B) Es un tipo de vello púbico.",
+        "isCorrect": false,
+        "explanation": "Término inexistente en endocrinología. [cite: 306]"
+      },
+      {
+        "text": "C) Es una arritmia cardíaca del estirón.",
+        "isCorrect": false,
+        "explanation": "Término inventado. [cite: 307]"
+      },
+      {
+        "text": "D) Es el nombre de la menarquia precoz.",
+        "isCorrect": false,
+        "explanation": "La menarquia precoz no tiene ese nombre. [cite: 308]"
+      },
+      {
+        "text": "E) Es un tumor de ovario.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. [cite: 309]"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Manejo Pubertad Precoz - Útero",
+    "text": "¿Efecto de los análogos de GnRH sobre el útero en niñas con pubertad precoz?",
+    "hint": "Al frenar los estrógenos, el estímulo trófico desaparece. [cite: 321]",
+    "options": [
+      {
+        "text": "A) Lo hacen crecer más rápido.",
+        "isCorrect": false,
+        "explanation": "Efecto opuesto al buscado. [cite: 315]"
+      },
+      {
+        "text": "B) Provocan su involución (regresión) hacia un estado prepuberal.",
+        "isCorrect": true,
+        "explanation": "Correcto. El tratamiento busca revertir los cambios anatómicos inducidos por la pubertad prematura. [cite: 316, 322]"
+      },
+      {
+        "text": "C) Causan cáncer de endometrio.",
+        "isCorrect": false,
+        "explanation": "No existe tal asociación reportada. [cite: 317]"
+      },
+      {
+        "text": "D) Inducen la menstruación inmediata.",
+        "isCorrect": false,
+        "explanation": "Su objetivo es precisamente detenerla. [cite: 318]"
+      },
+      {
+        "text": "E) No tienen efecto sobre el útero.",
+        "isCorrect": false,
+        "explanation": "Tienen un efecto trófico negativo al suprimir estrógenos. [cite: 319]"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Pubertad Precoz Asincrónica",
+    "text": "¿A qué se refiere el término 'Pubertad Precoz Asincrónica'?",
+    "hint": "Los caracteres no coinciden con el sexo fenotípico. [cite: 331]",
+    "options": [
+      {
+        "text": "A) Cuando los dos pechos crecen al mismo tiempo.",
+        "isCorrect": false,
+        "explanation": "Eso es crecimiento sincrónico normal. [cite: 325]"
+      },
+      {
+        "text": "B) Signos de virilización en niñas o feminización en niños (ej. mamas en varón).",
+        "isCorrect": true,
+        "explanation": "Correcto. Obliga a buscar tumores productores de hormonas del sexo opuesto o HSC. [cite: 326, 332]"
+      },
+      {
+        "text": "C) Cuando el niño crece 10 cm por mes.",
+        "isCorrect": false,
+        "explanation": "Ritmo de crecimiento imposible. [cite: 327]"
+      },
+      {
+        "text": "D) Cuando la edad ósea está retrasada.",
+        "isCorrect": false,
+        "explanation": "Se denomina retraso madurativo. [cite: 328]"
+      },
+      {
+        "text": "E) Sinónimo de pubertad normal.",
+        "isCorrect": false,
+        "explanation": "Es un proceso patológico por definición. [cite: 329]"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Adelanto Óseo y Pronóstico",
+    "text": "Adolescente con EO de 15 años y EC de 13 años. ¿Cómo se encuentra su pronóstico de talla final?",
+    "hint": "El 'adelanto óseo' consume el potencial de crecimiento rápido. [cite: 342]",
+    "options": [
+      {
+        "text": "A) Excelente, va a ser muy alto.",
+        "isCorrect": false,
+        "explanation": "Incorrecto; tiene menos tiempo para crecer. [cite: 336]"
+      },
+      {
+        "text": "B) Comprometido (talla final probablemente baja) por cierre precoz de cartílagos.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es característico de la pubertad precoz u obesidad severa, donde el potencial se agota antes. [cite: 337, 343]"
+      },
+      {
+        "text": "C) Normal.",
+        "isCorrect": false,
+        "explanation": "Un adelanto de 2 años es patológico. [cite: 338]"
+      },
+      {
+        "text": "D) No se puede determinar.",
+        "isCorrect": false,
+        "explanation": "La EO permite estimar el pronóstico de forma precisa. [cite: 339]"
+      },
+      {
+        "text": "E) Va a crecer hasta los 30 años.",
+        "isCorrect": false,
+        "explanation": "Las fisis cerrarán mucho antes de los 20 años. [cite: 340]"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Inducción Puberal en RCCP",
+    "text": "¿Dosis de Testosterona inyectable usada para inducir pubertad en RCCP severo?",
+    "hint": "Se busca una dosis baja que inicie el proceso sin cerrar las fisis bruscamente. [cite: 355]",
+    "options": [
+      {
+        "text": "A) 25 - 50 mg IM una vez al mes por 3-6 meses.",
+        "isCorrect": true,
+        "explanation": "Correcto. Busca mejorar la autoestima e inducir cambios secundarios sin comprometer la talla final. [cite: 347, 356]"
+      },
+      {
+        "text": "B) 1000 mg semanales.",
+        "isCorrect": false,
+        "explanation": "Dosis masiva que cerraría los cartílagos de inmediato. [cite: 349]"
+      },
+      {
+        "text": "C) 1 mg cada 10 años.",
+        "isCorrect": false,
+        "explanation": "Dosis e intervalo inútiles. [cite: 351]"
+      },
+      {
+        "text": "D) Se da por vía oral únicamente.",
+        "isCorrect": false,
+        "explanation": "La vía inyectable de depósito es el estándar en pediatría. [cite: 352]"
+      },
+      {
+        "text": "E) No se usa testosterona en niños.",
+        "isCorrect": false,
+        "explanation": "Se usa bajo protocolos estrictos en pubertad retrasada. [cite: 353]"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Alarmas Neurológicas en Pubertad Precoz",
+    "text": "¿Qué síntoma neurológico obliga a realizar una RM en una niña con pubertad precoz central?",
+    "hint": "Signos de alarma de masa ocupante de espacio en el SNC. [cite: 365]",
+    "options": [
+      {
+        "text": "A) Cefalea persistente, cambios de comportamiento o convulsiones.",
+        "isCorrect": true,
+        "explanation": "Correcto. Aunque la mayoría de las niñas son idiopáticas, estos síntomas hacen imperativo descartar tumores. [cite: 359, 366]"
+      },
+      {
+        "text": "B) Hambre.",
+        "isCorrect": false,
+        "explanation": "Síntoma inespecífico común. [cite: 360]"
+      },
+      {
+        "text": "C) Sueño reparador.",
+        "isCorrect": false,
+        "explanation": "Signo de salud neurológica. [cite: 361]"
+      },
+      {
+        "text": "D) Estornudos.",
+        "isCorrect": false,
+        "explanation": "Irrelevante. [cite: 362]"
+      },
+      {
+        "text": "E) No se hace RM en niñas nunca.",
+        "isCorrect": false,
+        "explanation": "Se hace ante sospecha de patología orgánica. [cite: 363]"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Nutrición y Pubertad",
+    "text": "¿Cuál es el efecto de la desnutrición crónica sobre la pubertad?",
+    "hint": "El cuerpo prioriza la supervivencia sobre la reproducción. [cite: 375]",
+    "options": [
+      {
+        "text": "A) La adelanta.",
+        "isCorrect": false,
+        "explanation": "Efecto opuesto; el déficit calórico frena el eje. [cite: 369]"
+      },
+      {
+        "text": "B) La retrasa considerablemente (freno metabólico del eje).",
+        "isCorrect": true,
+        "explanation": "Correcto. Causa frecuente de pubertad retrasada en trastornos alimentarios o países en desarrollo. [cite: 370, 376]"
+      },
+      {
+        "text": "C) No la afecta.",
+        "isCorrect": false,
+        "explanation": "El crecimiento y maduración son muy sensibles al estado nutricional. [cite: 371]"
+      },
+      {
+        "text": "D) Provoca testículos gigantes.",
+        "isCorrect": false,
+        "explanation": "La desnutrición suele causar hipogonadismo. [cite: 372]"
+      },
+      {
+        "text": "E) Causa acné.",
+        "isCorrect": false,
+        "explanation": "El acné es un signo de actividad hormonal androgénica. [cite: 373]"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Teletelia",
+    "text": "¿Qué es la 'Teletelia'?",
+    "hint": "Signo semiológico del tórax en escudo. [cite: 385]",
+    "options": [
+      {
+        "text": "A) Una enfermedad del ojo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. [cite: 379]"
+      },
+      {
+        "text": "B) Pezones muy separados, frecuente en el Síndrome de Turner.",
+        "isCorrect": true,
+        "explanation": "Correcto. Ayuda al diagnóstico clínico de genopatías asociadas a talla baja y retraso puberal. [cite: 380, 386]"
+      },
+      {
+        "text": "C) El crecimiento de un tercer pecho.",
+        "isCorrect": false,
+        "explanation": "Eso se denomina polimastia o pezón supernumerario (politelia). [cite: 381]"
+      },
+      {
+        "text": "D) La pérdida de la voz.",
+        "isCorrect": false,
+        "explanation": "Se denomina afonía. [cite: 382]"
+      },
+      {
+        "text": "E) Un tipo de vello.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. [cite: 383]"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hormonas Metabólicas - Leptina",
+    "text": "¿Qué hormona del tejido adiposo actúa como señal 'permisiva' para el inicio de GnRH?",
+    "hint": "'Leptos' significa delgado; si no hay leptina, el cerebro cree que está en hambruna. [cite: 395]",
+    "options": [
+      {
+        "text": "A) Insulina.",
+        "isCorrect": false,
+        "explanation": "Hormona anabólica pero no es la señal permisiva primaria del inicio puberal. [cite: 389]"
+      },
+      {
+        "text": "B) Leptina.",
+        "isCorrect": true,
+        "explanation": "Correcto. Informa al cerebro que existen suficientes reservas energéticas para iniciar la reproducción. [cite: 390, 396]"
+      },
+      {
+        "text": "C) Adrenalina.",
+        "isCorrect": false,
+        "explanation": "Hormona del estrés. [cite: 391]"
+      },
+      {
+        "text": "D) Glucagón.",
+        "isCorrect": false,
+        "explanation": "Hormona catabólica pancreática. [cite: 392]"
+      },
+      {
+        "text": "E) Tiroxina.",
+        "isCorrect": false,
+        "explanation": "Hormona metabólica tiroidea. [cite: 393]"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Menarquia - Conducta",
+    "text": "¿Cuál es la conducta ante niña de 14 años con telarquia Tanner 4 pero sin menarquia?",
+    "hint": "El desarrollo es armónico y está dentro de los límites cronológicos. [cite: 405]",
+    "options": [
+      {
+        "text": "A) Cirugía de útero.",
+        "isCorrect": false,
+        "explanation": "Innecesario sin sospecha de obstrucción. [cite: 399]"
+      },
+      {
+        "text": "B) Observación, ya que puede ocurrir normalmente hasta los 15 años.",
+        "isCorrect": true,
+        "explanation": "Correcto. La menarquia es el hito final; si el desarrollo progresa armoniosamente, es probable que llegue pronto. [cite: 400, 406]"
+      },
+      {
+        "text": "C) Iniciar estrógenos.",
+        "isCorrect": false,
+        "explanation": "No se indica si el eje ya está produciendo estrógenos propios (Tanner 4). [cite: 401]"
+      },
+      {
+        "text": "D) Solicitar cariotipo de urgencia.",
+        "isCorrect": false,
+        "explanation": "Se pediría si no hubiera iniciado telarquia a los 13 años. [cite: 402]"
+      },
+      {
+        "text": "E) Realizar test de embarazo.",
+        "isCorrect": false,
+        "explanation": "Menos probable sin menarquia previa, aunque es un descarte clínico general en amenorreas. [cite: 403]"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Pubertad Exógena",
+    "text": "¿Riesgo del uso de cremas con estrógenos por cuidadores en el desarrollo de los niños?",
+    "hint": "Los esteroides sexuales se absorben muy bien por la piel. [cite: 415]",
+    "options": [
+      {
+        "text": "A) Ninguno.",
+        "isCorrect": false,
+        "explanation": "Falso; el riesgo es real y frecuente. [cite: 409]"
+      },
+      {
+        "text": "B) Puede causar una pubertad precoz periférica por absorción cutánea accidental.",
+        "isCorrect": true,
+        "explanation": "Correcto. Causa frecuente de telarquia precoz o sangrado vaginal en niños pequeños. [cite: 410, 416]"
+      },
+      {
+        "text": "C) Mejora el crecimiento.",
+        "isCorrect": false,
+        "explanation": "Provoca adelanto óseo que finalmente compromete la talla. [cite: 411]"
+      },
+      {
+        "text": "D) Provoca caída del pelo.",
+        "isCorrect": false,
+        "explanation": "No es el efecto secundario característico. [cite: 412]"
+      },
+      {
+        "text": "E) El niño se vuelve azul.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. [cite: 413]"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Insensibilidad a Andrógenos",
+    "text": "¿Qué es el 'Síndrome de Insensibilidad a los Andrógenos' (Testículo Feminizante)?",
+    "hint": "Consultan por amenorrea primaria a los 15-16 años, con mamas normales pero sin vello púbico. [cite: 426]",
+    "options": [
+      {
+        "text": "A) Un varón que se comporta como mujer.",
+        "isCorrect": false,
+        "explanation": "Definición conductual no médica. [cite: 419]"
+      },
+      {
+        "text": "B) Cariotipo 46,XY con fenotipo femenino externo completo por falla del receptor.",
+        "isCorrect": true,
+        "explanation": "Correcto. Tienen testículos internos; la testosterona alta se convierte en estrógeno al no poder ser captada por su receptor. [cite: 420, 421, 427]"
+      },
+      {
+        "text": "C) Una mujer con mucho vello.",
+        "isCorrect": false,
+        "explanation": "Corresponde al hirsutismo o SOP. [cite: 422]"
+      },
+      {
+        "text": "D) Un tipo de cáncer.",
+        "isCorrect": false,
+        "explanation": "Es una condición genética del desarrollo sexual. [cite: 423]"
+      },
+      {
+        "text": "E) Una enfermedad de la piel.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. [cite: 424]"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "VDC Prepuberal",
+    "text": "¿Cuál es la VDC promedio durante la etapa prepuberal (fase infantil)?",
+    "hint": "Es la etapa de crecimiento más estable. [cite: 440]",
+    "options": [
+      {
+        "text": "A) 2 cm/año.",
+        "isCorrect": false,
+        "explanation": "Velocidad patológicamente lenta para esta etapa. [cite: 431, 442]"
+      },
+      {
+        "text": "B) 5 - 6 cm/año.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el rango de normalidad; una caída por debajo de 4 cm/año obliga a estudio. [cite: 432, 433, 442]"
+      },
+      {
+        "text": "C) 10 cm/año.",
+        "isCorrect": false,
+        "explanation": "Velocidad propia del estirón puberal. [cite: 435]"
+      },
+      {
+        "text": "D) 20 cm/año.",
+        "isCorrect": false,
+        "explanation": "Típico del primer año de vida. [cite: 437]"
+      },
+      {
+        "text": "E) No crecen.",
+        "isCorrect": false,
+        "explanation": "El crecimiento es continuo aunque sea lento. [cite: 438]"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Tanner 1 - Vello Axilar",
+    "text": "¿Cómo se encuentra el vello axilar en el estadio Tanner 1?",
+    "hint": "Tanner 1 siempre es 'nada' o 'infantil'. [cite: 451]",
+    "options": [
+      {
+        "text": "A) Escaso.",
+        "isCorrect": false,
+        "explanation": "Correspondería a un Tanner 2 incipiente. [cite: 445]"
+      },
+      {
+        "text": "B) Ausente (etapa infantil).",
+        "isCorrect": true,
+        "explanation": "Correcto. El Tanner 1 define la ausencia total de vello terminal. [cite: 446, 452]"
+      },
+      {
+        "text": "C) Abundante.",
+        "isCorrect": false,
+        "explanation": "Estadio Tanner 5. [cite: 447]"
+      },
+      {
+        "text": "D) Rizado.",
+        "isCorrect": false,
+        "explanation": "Propio de estadios maduros (Tanner 3-5). [cite: 448]"
+      },
+      {
+        "text": "E) De color rojo.",
+        "isCorrect": false,
+        "explanation": "Depende de la genética del individuo, no del Tanner. [cite: 449]"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Impacto Psicológico Pubertad Precoz",
+    "text": "¿Cuál es el impacto psicológico más frecuente de la Pubertad Precoz en niñas?",
+    "hint": "El niño se ve como un adulto pero piensa como un niño. [cite: 461]",
+    "options": [
+      {
+        "text": "A) Felicidad extrema.",
+        "isCorrect": false,
+        "explanation": "Incorrecto; suele generar angustia y confusión. [cite: 455]"
+      },
+      {
+        "text": "B) Ansiedad, problemas de autoimagen y desajuste madurativo física/emocional.",
+        "isCorrect": true,
+        "explanation": "Correcto. Existe además mayor riesgo de acoso sexual y dificultades de integración social. [cite: 456, 462]"
+      },
+      {
+        "text": "C) Mejora del rendimiento escolar.",
+        "isCorrect": false,
+        "explanation": "No existe una mejora cognitiva por el inicio precoz. [cite: 457]"
+      },
+      {
+        "text": "D) Sordera.",
+        "isCorrect": false,
+        "explanation": "Sin relación. [cite: 458]"
+      },
+      {
+        "text": "E) No tiene impacto.",
+        "isCorrect": false,
+        "explanation": "El manejo psicológico es un pilar fundamental del tratamiento. [cite: 459, 462]"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Diagnóstico Diferencial - Adrenarquia",
+    "text": "¿Qué examen permite diferenciar una Pubertad Precoz de una 'Adrenarquia Precoz'?",
+    "hint": "La adrenarquia no activa el eje gonadal (ovarios/útero). [cite: 471]",
+    "options": [
+      {
+        "text": "A) Ecografía ginecológica y niveles de LH (estarán normales en adrenarquia).",
+        "isCorrect": true,
+        "explanation": "Correcto. En la adrenarquia aislada el útero permanece pequeño y la LH no responde al estímulo. [cite: 465, 472]"
+      },
+      {
+        "text": "B) Solo el peso.",
+        "isCorrect": false,
+        "explanation": "No diferencia la activación de los ejes hormonales. [cite: 466]"
+      },
+      {
+        "text": "C) Test de inteligencia.",
+        "isCorrect": false,
+        "explanation": "Sin utilidad diagnóstica. [cite: 467]"
+      },
+      {
+        "text": "D) Radiografía de tórax.",
+        "isCorrect": false,
+        "explanation": "No aporta información sobre el eje puberal. [cite: 468]"
+      },
+      {
+        "text": "E) Urocultivo.",
+        "isCorrect": false,
+        "explanation": "Estudia infecciones urinarias. [cite: 469]"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Tratamiento Pubertad Precoz - Frecuencia",
+    "text": "¿Frecuencia de administración del Leuprolide de depósito para pubertad precoz?",
+    "hint": "Se busca un nivel constante de fármaco en sangre. [cite: 481]",
+    "options": [
+      {
+        "text": "A) Cada hora.",
+        "isCorrect": false,
+        "explanation": "Inviable."
+      },
+      {
+        "text": "B) Mensual o trimestral (según la formulación).",
+        "isCorrect": true,
+        "explanation": "Correcto. La adherencia al esquema inyectable es clave para mantener frenado el eje GnRH. [cite: 476, 482]"
+      },
+      {
+        "text": "C) Una vez en la vida.",
+        "isCorrect": false,
+        "explanation": "Requiere dosis repetidas hasta la edad puberal normal. [cite: 477]"
+      },
+      {
+        "text": "D) Diaria oral.",
+        "isCorrect": false,
+        "explanation": "Los análogos se degradan vía gástrica; requieren vía parenteral. [cite: 478]"
+      },
+      {
+        "text": "E) Cada 10 años.",
+        "isCorrect": false,
+        "explanation": "Intervalo ineficaz. [cite: 479]"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Pubertad Retrasada Femenina",
+    "text": "¿A qué edad se considera 'Pubertad Retrasada' en la mujer si no ha iniciado telarquia?",
+    "hint": "Dos años antes que la amenorrea primaria con caracteres. [cite: 491]",
+    "options": [
+      {
+        "text": "A) 11 años.",
+        "isCorrect": false,
+        "explanation": "Edad aún dentro del rango normal para prepúberes. [cite: 485]"
+      },
+      {
+        "text": "B) 13 años.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el límite cronológico superior aceptado para el inicio del botón mamario en niñas. [cite: 486, 492]"
+      },
+      {
+        "text": "C) 15 años.",
+        "isCorrect": false,
+        "explanation": "Límite para la aparición de la menarquia, no telarquia. [cite: 487]"
+      },
+      {
+        "text": "D) 18 años.",
+        "isCorrect": false,
+        "explanation": "Retraso extremadamente severo. [cite: 488]"
+      },
+      {
+        "text": "E) Al nacer.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. [cite: 489]"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Botón Mamario",
+    "text": "¿Qué es el 'Botón Mamario'?",
+    "hint": "Es el signo cardinal del inicio puberal femenino. [cite: 501]",
+    "options": [
+      {
+        "text": "A) Un tumor maligno.",
+        "isCorrect": false,
+        "explanation": "Hallazgo fisiológico normal. [cite: 495]"
+      },
+      {
+        "text": "B) Aparición de tejido glandular palpable bajo la areola (Tanner 2).",
+        "isCorrect": true,
+        "explanation": "Correcto. Debe diferenciarse de la grasa (pseudoginecomastia) mediante palpación meticulosa. [cite: 496, 502]"
+      },
+      {
+        "text": "C) Un tipo de acné.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. [cite: 497]"
+      },
+      {
+        "text": "D) Una peca.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. [cite: 498]"
+      },
+      {
+        "text": "E) Una vacuna.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. [cite: 499]"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Pronóstico RCCP",
+    "text": "¿Cuál es el pronóstico de talla en un niño con Retraso Constitucional (RCCP)?",
+    "hint": "El tiempo de crecimiento extra compensa la lentitud inicial. [cite: 511]",
+    "options": [
+      {
+        "text": "A) Será muy bajo siempre.",
+        "isCorrect": false,
+        "explanation": "Alcanzará su potencial genético total. [cite: 505]"
+      },
+      {
+        "text": "B) Alcanzará su talla diana genética; el retraso en la EO compensa el inicio tardío.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el mensaje de tranquilidad más importante para la familia ante este 'madurador lento'. [cite: 506, 512]"
+      },
+      {
+        "text": "C) Será un gigante.",
+        "isCorrect": false,
+        "explanation": "La meta es su talla genética familiar, no el gigantismo. [cite: 507]"
+      },
+      {
+        "text": "D) Depende de si toma vitaminas.",
+        "isCorrect": false,
+        "explanation": "No es un proceso que requiera suplementación nutricional. [cite: 508]"
+      },
+      {
+        "text": "E) No se puede saber.",
+        "isCorrect": false,
+        "explanation": "El pronóstico es altamente predecible y favorable. [cite: 509]"
+      }
+    ]
+  }
+]
