@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Infectología / Dermatología",
+    "topic": "Síndrome de la piel escaldada estafilocócica (SSSS)",
+    "text": "Un lactante de 14 meses presenta un cuadro de 2 días de fiebre moderada, irritabilidad y un eritema difuso muy doloroso que comenzó alrededor de la boca y pliegues. Al examen, la piel se desprende con facilidad al frotarla suavemente con el dedo. No presenta afectación de las mucosas. ¿Cuál es el diagnóstico más probable?",
+    "hint": "Busque el signo de Nikolsky positivo en un lactante con dolor cutáneo intenso pero mucosas respetadas.",
+    "options": [
+      {
+        "text": "A) Síndrome de Stevens-Johnson (SJS).",
+        "isCorrect": false,
+        "explanation": "Requiere el compromiso severo de al menos dos mucosas (ocular, oral o genital) y suele asociarse a la ingesta de fármacos."
+      },
+      {
+        "text": "B) Síndrome de la piel escaldada estafilocócica (SSSS).",
+        "isCorrect": true,
+        "explanation": "Causado por toxinas exfoliativas de S. aureus que afectan la capa granulosa. Se caracteriza por dolor intenso, signo de Nikolsky positivo y respeto de mucosas."
+      },
+      {
+        "text": "C) Necrólisis Epidérmica Tóxica (NET).",
+        "isCorrect": false,
+        "explanation": "Implica un desprendimiento cutáneo superior al 30% de la superficie corporal con compromiso sistémico masivo y afectación de mucosas."
+      },
+      {
+        "text": "D) Enfermedad de Kawasaki.",
+        "isCorrect": false,
+        "explanation": "Requiere fiebre de al menos 5 días, inyección conjuntival y lengua en fresa, pero no presenta signo de Nikolsky positivo."
+      },
+      {
+        "text": "E) Escarlatina severa.",
+        "isCorrect": false,
+        "explanation": "Presenta un exantema micropapular (piel de lija) y faringoamigdalitis, sin desprendimiento epidérmico."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Infectología / Dermatología",
+    "topic": "Síndrome de Gianotti-Crosti",
+    "text": "Un preescolar de 3 años presenta un exantema de pápulas eritematosas, monomorfas, de 2-3 mm, localizadas exclusivamente en las mejillas, glúteos y superficies extensoras de las extremidades. El tronco está respetado. El niño está afebril y en buen estado general. Tuvo un cuadro respiratorio leve hace 1 semana. ¿Cómo se denomina este síndrome?",
+    "hint": "Pápulas en extremidades y cara con respeto del tronco en un niño sano ('Acrodermatitis').",
+    "options": [
+      {
+        "text": "A) Síndrome de Gianotti-Crosti (Acrodermatitis papular).",
+        "isCorrect": true,
+        "explanation": "Es una respuesta inmunológica a diversos virus (HBV, EBV, Coxsackie) con distribución acral y curso benigno prolongado."
+      },
+      {
+        "text": "B) Enfermedad Pie-Mano-Boca.",
+        "isCorrect": false,
+        "explanation": "Presentaría vesículas en lugar de solo pápulas, además de lesiones ulcerosas en la mucosa oral."
+      },
+      {
+        "text": "C) Prúrigo actínico.",
+        "isCorrect": false,
+        "explanation": "Reacción a la luz solar que no concuerda con la distribución en glúteos ni con el antecedente viral."
+      },
+      {
+        "text": "D) Escabiolosis (Sarna).",
+        "isCorrect": false,
+        "explanation": "Sería intensamente pruriginoso, con surcos acarinos y afectación típica de pliegues interdigitales y zonas de flexión."
+      },
+      {
+        "text": "E) Liquen plano.",
+        "isCorrect": false,
+        "explanation": "Presenta pápulas poligonales, planas, púrpuras y pruriginosas, a menudo con estrías de Wickham."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Exantema Súbito (Roséola)",
+    "text": "Lactante de 9 meses presenta su primer episodio de convulsión febril asociada a un cuadro de fiebre de 40°C de 2 días de evolución. Al tercer día la fiebre cae y aparece un exantema rosado tenue en el tronco. ¿Cuál es la asociación más probable entre el virus causal y la convulsión?",
+    "hint": "El exantema súbito es la causa 'reina' de la consulta por fiebre y convulsión en el lactante pequeño.",
+    "options": [
+      {
+        "text": "A) El virus causa meningitis bacteriana asociada.",
+        "isCorrect": false,
+        "explanation": "La roséola es viral; la meningitis bacteriana es un cuadro distinto con clínica de compromiso del sensorio y signos meníngeos."
+      },
+      {
+        "text": "B) El Herpes Virus Humano 6 (HVH-6) tiene neurotropismo y es una causa frecuente de convulsiones febriles en lactantes.",
+        "isCorrect": true,
+        "explanation": "El HVH-6 invade el SNC y es responsable de un alto porcentaje de las primeras convulsiones febriles en menores de 2 años."
+      },
+      {
+        "text": "C) La convulsión indica que el niño tiene epilepsia.",
+        "isCorrect": false,
+        "explanation": "La epilepsia requiere crisis afebriles recurrentes; una convulsión por fiebre alta no establece este diagnóstico."
+      },
+      {
+        "text": "D) Es una reacción alérgica al paracetamol.",
+        "isCorrect": false,
+        "explanation": "El exantema de la roséola es post-febril y no presenta habones pruriginosos típicos de una alergia medicamentosa."
+      },
+      {
+        "text": "E) El virus destruye la mielina de forma permanente.",
+        "isCorrect": false,
+        "explanation": "Aunque es neurotropo, no causa una desmielinización permanente en casos habituales de exantema súbito."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Infectología / Dermatología",
+    "topic": "Varicela - Pleomorfismo Regional",
+    "text": "¿Qué es el 'Pleomorfismo Regional' en la Varicela?",
+    "hint": "Es el hallazgo cardinal que confirma la varicela en segundos.",
+    "options": [
+      {
+        "text": "A) Que le da a niños de todas las regiones de Chile.",
+        "isCorrect": false,
+        "explanation": "Es una interpretación errónea del término médico."
+      },
+      {
+        "text": "B) La coexistencia de lesiones en diferentes fases (mácula, pápula, vesícula y costra) en la misma área corporal.",
+        "isCorrect": true,
+        "explanation": "Refleja las oleadas sucesivas de viremia que producen brotes cutáneos en distintos momentos en una misma zona."
+      },
+      {
+        "text": "C) Que el niño cambia de personalidad.",
+        "isCorrect": false,
+        "explanation": "Término sin relación con la psiquiatría o conducta."
+      },
+      {
+        "text": "D) Que las manchas son de muchos colores.",
+        "isCorrect": false,
+        "explanation": "Se refiere a la fase evolutiva de la lesión, no a la coloración cromática variada."
+      },
+      {
+        "text": "E) Que el exantema solo da en un lado.",
+        "isCorrect": false,
+        "explanation": "Eso describiría una distribución unilateral o dermatómica, típica del Herpes Zóster."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Infectología / Dermatología",
+    "topic": "Razonamiento Clínico en Exantemas",
+    "text": "¿Cuál es el mensaje final para un médico que atiende un niño con fiebre y manchas en la piel?",
+    "hint": "El razonamiento clínico es la mejor herramienta.",
+    "options": [
+      {
+        "text": "A) Recetar antibióticos a todos por si acaso.",
+        "isCorrect": false,
+        "explanation": "Fomenta la resistencia bacteriana y no trata la mayoría de los casos que son virales."
+      },
+      {
+        "text": "B) Realizar una historia clínica detallada (exposición, vacunas, prodromo) y un examen físico minucioso para diferenciar cuadros benignos de emergencias.",
+        "isCorrect": true,
+        "explanation": "Un diagnóstico preciso basado en la clínica permite identificar cuadros críticos como Kawasaki o Meningococcemia que salvan vidas."
+      },
+      {
+        "text": "C) No tocar al niño por riesgo de contagio.",
+        "isCorrect": false,
+        "explanation": "Impide realizar un examen físico adecuado; se deben usar precauciones estándar."
+      },
+      {
+        "text": "D) Mandarlo a casa sin instrucciones.",
+        "isCorrect": false,
+        "explanation": "Es peligroso, ya que se deben explicar siempre los signos de alarma a los cuidadores."
+      },
+      {
+        "text": "E) Decirle que es una alergia a la comida siempre.",
+        "isCorrect": false,
+        "explanation": "Es una sobresimplificación errónea que puede retrasar diagnósticos infecciosos importantes."
+      }
+    ]
+  }
+]
