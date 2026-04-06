@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Espondilolisis",
+    "text": "Un adolescente de 14 años, gimnasta, consulta por dolor lumbar persistente que aumenta con la hiperextensión del tronco. No refiere trauma agudo. La radiografía lateral de columna muestra un defecto en la pars interarticularis de L5. ¿Cuál es el diagnóstico más probable?",
+    "hint": "Es la causa más frecuente de dolor lumbar identificado en adolescentes deportistas, especialmente en disciplinas que requieren hiperextensión. [cite: 5]",
+    "options": [
+      {
+        "text": "A) Hernia de núcleo pulposo.",
+        "isCorrect": false,
+        "explanation": "Se sospecharía si hubiera dolor irradiado (ciática) o déficit neurológico, lo cual es raro en adolescentes sin trauma mayor. [cite: 8]"
+      },
+      {
+        "text": "B) Espondilolisis.",
+        "isCorrect": true,
+        "explanation": "Es un defecto o fractura por estrés del istmo vertebral, típica en deportistas como gimnastas; se visualiza como el 'collar del perrito de Lachapelle'. [cite: 6, 7]"
+      },
+      {
+        "text": "C) Espondilolistesis de alto grado.",
+        "isCorrect": false,
+        "explanation": "Requiere que, además del defecto en la pars, exista un desplazamiento anterior del cuerpo vertebral. [cite: 9]"
+      },
+      {
+        "text": "D) Enfermedad de Scheuermann.",
+        "isCorrect": false,
+        "explanation": "Se caracteriza por hipercifosis dorsal rígida y acuñamiento vertebral, no por un defecto lumbar bajo. [cite: 10]"
+      },
+      {
+        "text": "E) Escoliosis idiopática.",
+        "isCorrect": false,
+        "explanation": "Se manifiesta con desviación lateral y rotación vertebral (test de Adams), no por dolor puro a la hiperextensión. [cite: 11]"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Síndrome Compartimental",
+    "text": "¿Cuál es la conducta inicial ante un niño de 8 años con una fractura de antebrazo desplazada que presenta parestesias en la mano y dolor desproporcionado al estiramiento pasivo de los dedos, a pesar de tener pulso radial palpable?",
+    "hint": "El 'dolor al estiramiento pasivo' es el signo más precoz y sensible de compromiso de espacio compartimental. [cite: 15]",
+    "options": [
+      {
+        "text": "A) Elevar la extremidad y aplicar hielo.",
+        "isCorrect": false,
+        "explanation": "La elevación está contraindicada en sospecha de síndrome compartimental porque disminuye la presión de perfusión arterial. [cite: 18]"
+      },
+      {
+        "text": "B) Abrir el yeso o venda circular de inmediato hasta la piel.",
+        "isCorrect": true,
+        "explanation": "Es la medida inicial obligatoria para eliminar restricciones externas ('bivalvar'); si no mejora, se procede a fasciotomía. [cite: 17]"
+      },
+      {
+        "text": "C) Administrar morfina y esperar 2 horas.",
+        "isCorrect": false,
+        "explanation": "El retraso en el diagnóstico conlleva necrosis muscular irreversible o contractura de Volkmann. [cite: 19]"
+      },
+      {
+        "text": "D) Realizar una arteriografía de urgencia.",
+        "isCorrect": false,
+        "explanation": "Se indicaría ante sospecha de sección arterial (ausencia de pulso), pero en el síndrome compartimental el pulso suele persistir inicialmente. [cite: 20]"
+      },
+      {
+        "text": "E) Solicitar una Resonancia Magnética de antebrazo.",
+        "isCorrect": false,
+        "explanation": "Es un diagnóstico puramente clínico; las imágenes tardan demasiado para esta emergencia. [cite: 21]"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Osteomielitis Hematógena Aguda",
+    "text": "Lactante de 10 meses presenta irritabilidad, rechazo a la marcha y aumento de volumen/calor en metáfisis distal de fémur. La ecografía muestra colección subperióstica. ¿Cuál es el agente etiológico más probable?",
+    "hint": "Sigue siendo el patógeno número uno en infecciones osteoarticulares pediátricas en casi todas las edades. [cite: 27]",
+    "options": [
+      {
+        "text": "A) Kingella kingae.",
+        "isCorrect": false,
+        "explanation": "Propia de menores de 4 años con cuadros más subagudos y menos compromiso sistémico. [cite: 29]"
+      },
+      {
+        "text": "B) Staphylococcus aureus.",
+        "isCorrect": true,
+        "explanation": "Es el responsable de la gran mayoría de las osteomielitis hematógenas agudas por su alta virulencia. [cite: 28]"
+      },
+      {
+        "text": "C) Streptococcus pneumoniae.",
+        "isCorrect": false,
+        "explanation": "Causa menos común que el S. aureus en este contexto clínico. [cite: 26]"
+      },
+      {
+        "text": "D) Haemophilus influenzae tipo b.",
+        "isCorrect": false,
+        "explanation": "Era frecuente antes de la vacunación masiva; actualmente es excepcional. [cite: 31]"
+      },
+      {
+        "text": "E) Salmonella typhi.",
+        "isCorrect": false,
+        "explanation": "Se sospecharía principalmente en pacientes con Anemia de Células Falciformes. [cite: 32]"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Fractura de Monteggia",
+    "text": "Niño de 10 años con fractura del cúbito proximal con angulación anterior asociada a luxación de la cabeza del radio. ¿Cómo se denomina esta lesión?",
+    "hint": "M-on-t-eggia: El daño está 'Arriba' (proximal) en el antebrazo. [cite: 36]",
+    "options": [
+      {
+        "text": "A) Fractura de Galeazzi.",
+        "isCorrect": false,
+        "explanation": "Consiste en fractura de radio distal con luxación radiocubital distal. [cite: 38]"
+      },
+      {
+        "text": "B) Fractura de Monteggia.",
+        "isCorrect": true,
+        "explanation": "Combina la fractura del cúbito proximal con la luxación de la articulación radiocubital proximal. [cite: 37]"
+      },
+      {
+        "text": "C) Fractura de Essex-Lopresti.",
+        "isCorrect": false,
+        "explanation": "Implica fractura de cabeza de radio, luxación distal y rotura de membrana interósea. [cite: 39]"
+      },
+      {
+        "text": "D) Fractura de Colles.",
+        "isCorrect": false,
+        "explanation": "Fractura metafisaria distal de radio con desplazamiento dorsal ('dorso de tenedor'). [cite: 40]"
+      },
+      {
+        "text": "E) Fractura de Smith.",
+        "isCorrect": false,
+        "explanation": "Fractura distal de radio con desplazamiento volar o anterior. [cite: 41]"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Osteosarcoma",
+    "text": "¿Cuál es la localización más frecuente de un Osteosarcoma en la población pediátrica/adolescente?",
+    "hint": "'Cerca de la rodilla y lejos del codo' es la regla de los tumores óseos primarios. [cite: 44]",
+    "options": [
+      {
+        "text": "A) Diáfisis del húmero.",
+        "isCorrect": false,
+        "explanation": "Ubicación más típica del Sarcoma de Ewing o Quiste Óseo Simple. [cite: 47]"
+      },
+      {
+        "text": "B) Metáfisis del fémur distal o tibia proximal.",
+        "isCorrect": true,
+        "explanation": "El osteosarcoma tiene predilección por zonas de crecimiento rápido, siendo la rodilla la ubicación número uno. [cite: 45, 46]"
+      },
+      {
+        "text": "C) Vértebras cervicales.",
+        "isCorrect": false,
+        "explanation": "Suelen albergar metástasis o tumores benignos como el osteoblastoma. [cite: 48]"
+      },
+      {
+        "text": "D) Huesos del carpo.",
+        "isCorrect": false,
+        "explanation": "Los tumores óseos malignos son extremadamente raros en huesos pequeños de la mano. [cite: 49]"
+      },
+      {
+        "text": "E) Escápula.",
+        "isCorrect": false,
+        "explanation": "No es la localización primaria más frecuente para este tumor. [cite: 44]"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Remodelación Ósea",
+    "text": "En un niño de 6 años con fractura de fémur, ¿qué factor permite aceptar mayores grados de angulación comparado con un adulto?",
+    "hint": "El hueso pediátrico tiene la capacidad de 'enderezarse' solo con el tiempo si la fisis está activa. [cite: 53]",
+    "options": [
+      {
+        "text": "A) La mayor densidad ósea.",
+        "isCorrect": false,
+        "explanation": "Al contrario, el hueso infantil es menos denso y más poroso. [cite: 56]"
+      },
+      {
+        "text": "B) El gran potencial de remodelación ósea por el crecimiento remanente.",
+        "isCorrect": true,
+        "explanation": "La ley de Wolff permite corregir espontáneamente angulaciones de hasta 15-20° en el fémur. [cite: 51, 54]"
+      },
+      {
+        "text": "C) La presencia de médula ósea roja.",
+        "isCorrect": false,
+        "explanation": "No influye directamente en la remodelación mecánica de la cortical. [cite: 57]"
+      },
+      {
+        "text": "D) La menor sensibilidad al dolor.",
+        "isCorrect": false,
+        "explanation": "No es un factor biológico que afecte la consolidación ósea. [cite: 52]"
+      },
+      {
+        "text": "E) El uso de corticoides.",
+        "isCorrect": false,
+        "explanation": "Los corticoides suelen afectar negativamente el metabolismo óseo. [cite: 52]"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Fractura por Avulsión",
+    "text": "Adolescente de 15 años siente dolor súbito en la ingle tras una carrera rápida. La Rx muestra un fragmento óseo desprendido de la EIAI. ¿Mecanismo?",
+    "hint": "El tendón es más fuerte que la unión del cartílago de crecimiento en adolescentes deportistas. [cite: 63]",
+    "options": [
+      {
+        "text": "A) Traumatismo directo contuso.",
+        "isCorrect": false,
+        "explanation": "Se daría por un golpe; las avulsiones son traumas indirectos por tracción muscular. [cite: 66]"
+      },
+      {
+        "text": "B) Avulsión ósea por contracción del recto femoral.",
+        "isCorrect": true,
+        "explanation": "Una contracción explosiva 'arranca' la apófisis inmadura en su sitio de origen (EIAI). [cite: 61, 65, 66]"
+      },
+      {
+        "text": "C) Fractura patológica por tumor.",
+        "isCorrect": false,
+        "explanation": "No hubo dolor previo ni signos de destrucción ósea en la Rx. [cite: 67]"
+      },
+      {
+        "text": "D) Infección de la placa de crecimiento.",
+        "isCorrect": false,
+        "explanation": "Cuadro febril e inflamatorio ausente en este caso. [cite: 62]"
+      },
+      {
+        "text": "E) Deslizamiento epifisario crónico.",
+        "isCorrect": false,
+        "explanation": "La epifisiolisis afecta la cabeza femoral interna, no la pelvis externa. [cite: 68]"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Maltrato Infantil",
+    "text": "¿Qué fractura se considera un 'indicador de sospecha' de maltrato infantil en un lactante de 6 meses?",
+    "hint": "Estas lesiones ocurren por sacudidas o tirones violentos de las extremidades. [cite: 72]",
+    "options": [
+      {
+        "text": "A) Fractura transversa de clavícula.",
+        "isCorrect": false,
+        "explanation": "Común y a menudo accidental, aunque requiere investigar el contexto en lactantes. [cite: 75]"
+      },
+      {
+        "text": "B) Fractura de tallo verde de cúbito.",
+        "isCorrect": false,
+        "explanation": "Frecuente por caídas, menos específica de trauma no accidental. [cite: 75]"
+      },
+      {
+        "text": "C) Fractura metafisaria en 'esquina' o 'asa de cubo' (CML).",
+        "isCorrect": true,
+        "explanation": "Es altamente específica de maltrato; ocurre por fuerzas de cizallamiento durante el zamarreo. [cite: 71, 73, 74]"
+      },
+      {
+        "text": "D) Fractura de rodete en radio distal.",
+        "isCorrect": false,
+        "explanation": "Lesión accidental común por compresión axial. [cite: 75]"
+      },
+      {
+        "text": "E) Luxación de hombro.",
+        "isCorrect": false,
+        "explanation": "Muy rara en lactantes; antes de luxarse suelen fracturar la fisis. [cite: 76]"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Codo de Niñera",
+    "text": "¿Qué hallazgo clínico es característico de la pronación dolorosa al examen físico inicial?",
+    "hint": "El niño 'protege' el brazo y parece que tuviera una parálisis (pseudoparálisis). [cite: 81]",
+    "options": [
+      {
+        "text": "A) Gran aumento de volumen y equimosis en el codo.",
+        "isCorrect": false,
+        "explanation": "Sugeriría fractura supracondílea, no una subluxación ligamentosa. [cite: 84]"
+      },
+      {
+        "text": "B) Brazo en extensión total y supinación.",
+        "isCorrect": false,
+        "explanation": "Posición inusual para esta lesión; lo típico es la pronación. [cite: 78]"
+      },
+      {
+        "text": "C) Brazo pegado al cuerpo en leve flexión y pronación.",
+        "isCorrect": true,
+        "explanation": "Es la actitud antálgica clásica; no presenta inflamación porque no hay rotura ósea. [cite: 79, 82, 83]"
+      },
+      {
+        "text": "D) Deformidad en 'bayoneta'.",
+        "isCorrect": false,
+        "explanation": "Deformidad típica de la fractura de Colles (radio distal). [cite: 85]"
+      },
+      {
+        "text": "E) Crepitación ósea a la palpación.",
+        "isCorrect": false,
+        "explanation": "Indica el roce de fragmentos en una fractura completa. [cite: 86]"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Pie Talo-Valgo",
+    "text": "Recién nacido con pie flexible donde el dorso contacta con la cara anterior de la tibia. ¿Diagnóstico y manejo?",
+    "hint": "Es la deformidad posicional más común por falta de espacio en el útero. [cite: 92]",
+    "options": [
+      {
+        "text": "A) Pie Bot - Método de Ponseti inmediato.",
+        "isCorrect": false,
+        "explanation": "El pie bot es una deformidad rígida que no permite llevar el dorso a la tibia. [cite: 95, 96]"
+      },
+      {
+        "text": "B) Pie Talo-Valgo posicional - Elongaciones y observación.",
+        "isCorrect": true,
+        "explanation": "Es benigno y flexible; tiene excelente pronóstico con kinesiología simple. [cite: 90, 93, 94]"
+      },
+      {
+        "text": "C) Astrágalo vertical - Cirugía precoz.",
+        "isCorrect": false,
+        "explanation": "Es un pie plano rígido en 'mecedora', no es flexible. [cite: 97, 98]"
+      },
+      {
+        "text": "D) Metatarso varo - Yesos correctores.",
+        "isCorrect": false,
+        "explanation": "Afecta la alineación del antepié, no presenta el contacto dorso-tibia descrito. [cite: 91]"
+      },
+      {
+        "text": "E) Pie plano congénito - Plantillas.",
+        "isCorrect": false,
+        "explanation": "No se diagnostica al nacer por el cojinete graso plantar normal. [cite: 99]"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Luxación de Rótula",
+    "text": "Niño de 12 años con rótula desplazada lateralmente, pierna en flexión y gran dolor. ¿Diagnóstico?",
+    "hint": "Ocurre frecuentemente en adolescentes mujeres con hiperlaxitud o valgo de rodillas. [cite: 104]",
+    "options": [
+      {
+        "text": "A) Rotura de menisco lateral.",
+        "isCorrect": false,
+        "explanation": "Causa dolor interarticular y bloqueo, pero la rótula permanece centrada. [cite: 107]"
+      },
+      {
+        "text": "B) Luxación aguda de rótula.",
+        "isCorrect": true,
+        "explanation": "Casi siempre es lateral; se trata inicialmente con reducción mediante extensión pasiva. [cite: 102, 105, 106]"
+      },
+      {
+        "text": "C) Fractura de espina tibial.",
+        "isCorrect": false,
+        "explanation": "Presentaría hemartrosis masiva pero anatomía externa de rótula normal. [cite: 108]"
+      },
+      {
+        "text": "D) Desgarro del tendón rotuliano.",
+        "isCorrect": false,
+        "explanation": "La rótula se desplazaría hacia arriba (rótula alta), no hacia lateral. [cite: 109]"
+      },
+      {
+        "text": "E) Quiste de Baker roto.",
+        "isCorrect": false,
+        "explanation": "Provoca dolor y aumento de volumen en la zona posterior (hueco poplíteo). [cite: 103]"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Artritis Séptica de Cadera",
+    "text": "¿Por qué la Artritis Séptica de cadera es una emergencia quirúrgica absoluta?",
+    "hint": "El daño condral es irreversible una vez que ocurre la condrólisis enzimática. [cite: 114]",
+    "options": [
+      {
+        "text": "A) Por el riesgo de que el niño no pueda jugar fútbol.",
+        "isCorrect": false,
+        "explanation": "Es una consecuencia funcional, no la justificación biológica de la urgencia. [cite: 111]"
+      },
+      {
+        "text": "B) Porque enzimas proteolíticas destruyen el cartílago en pocas horas.",
+        "isCorrect": true,
+        "explanation": "El pus a tensión compromete la vascularización y destruye el cartílago articular irreversiblemente. [cite: 112, 115]"
+      },
+      {
+        "text": "C) Porque causa fiebre muy alta.",
+        "isCorrect": false,
+        "explanation": "La fiebre es un síntoma, no la causa de la necesidad quirúrgica inmediata. [cite: 113]"
+      },
+      {
+        "text": "D) Porque el antibiótico no llega sin cirugía.",
+        "isCorrect": false,
+        "explanation": "Los antibióticos penetran el líquido sinovial, pero no eliminan eficazmente un absceso a tensión. [cite: 116]"
+      },
+      {
+        "text": "E) Solo por el riesgo de sepsis generalizada.",
+        "isCorrect": false,
+        "explanation": "Es un riesgo real, pero la urgencia ortopédica busca salvar la articulación. [cite: 117]"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Enfermedad de Legg-Calvé-Perthes",
+    "text": "¿A qué edad es más frecuente el diagnóstico de la Enfermedad de Legg-Calvé-Perthes?",
+    "hint": "Es la causa de cojera indolora o leve en el escolar varón. [cite: 120]",
+    "options": [
+      {
+        "text": "A) Recién nacidos.",
+        "isCorrect": false,
+        "explanation": "A esta edad predomina la Displasia de Cadera. [cite: 122]"
+      },
+      {
+        "text": "B) Niños de 4 a 8 años.",
+        "isCorrect": true,
+        "explanation": "Su pico de incidencia se sitúa entre los 5 y 6 años, siendo más común en varones. [cite: 119, 121, 122]"
+      },
+      {
+        "text": "C) Adolescentes de 14 a 16 años.",
+        "isCorrect": false,
+        "explanation": "En este rango la patología principal es la Epifisiolisis. [cite: 123]"
+      },
+      {
+        "text": "D) Solo en adultos jóvenes.",
+        "isCorrect": false,
+        "explanation": "Es una patología pediátrica autolimitada. [cite: 119]"
+      },
+      {
+        "text": "E) A los 2 años.",
+        "isCorrect": false,
+        "explanation": "Menos frecuente que en la etapa escolar descrita. [cite: 120]"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Sarcoma de Ewing",
+    "text": "Escolar de 9 años con dolor tibial tras golpe leve. Rx muestra aspecto geográfico en 'capas de cebolla'. ¿Tumor sospechado?",
+    "hint": "Es un tumor de células redondas y pequeñas con reacción perióstica laminar característica. [cite: 127]",
+    "options": [
+      {
+        "text": "A) Osteoma osteoide.",
+        "isCorrect": false,
+        "explanation": "Lesión pequeña (<1cm) con dolor nocturno que cede con aspirina. [cite: 130]"
+      },
+      {
+        "text": "B) Sarcoma de Ewing.",
+        "isCorrect": true,
+        "explanation": "Se localiza en diáfisis de huesos largos; las 'capas de cebolla' son su sello radiográfico. [cite: 126, 128, 129]"
+      },
+      {
+        "text": "C) Osteosarcoma.",
+        "isCorrect": false,
+        "explanation": "Muestra reacción en 'sol naciente' o triángulo de Codman, usualmente en metáfisis. [cite: 131]"
+      },
+      {
+        "text": "D) Quiste óseo simple.",
+        "isCorrect": false,
+        "explanation": "Lesión radiolúcida bien definida sin reacción perióstica agresiva. [cite: 132]"
+      },
+      {
+        "text": "E) Encondroma.",
+        "isCorrect": false,
+        "explanation": "Tumor cartilaginoso benigno intramedular. [cite: 126]"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "SCIWORA",
+    "text": "¿Qué se entiende por 'SCIWORA' en el contexto de trauma pediátrico?",
+    "hint": "'Spinal Cord Injury Without Radiographic Abnormality'. [cite: 136]",
+    "options": [
+      {
+        "text": "A) Una fractura de cráneo invisible.",
+        "isCorrect": false,
+        "explanation": "No corresponde a la definición del acrónimo. [cite: 139]"
+      },
+      {
+        "text": "B) Lesión medular sin evidencia radiográfica de fractura o luxación.",
+        "isCorrect": true,
+        "explanation": "Por la elasticidad infantil, la médula puede sufrir estiramiento sin romperse los huesos. [cite: 134, 137, 138]"
+      },
+      {
+        "text": "C) Un tipo de infección ósea.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con procesos infecciosos. [cite: 139]"
+      },
+      {
+        "text": "D) Una malformación de la cadera.",
+        "isCorrect": false,
+        "explanation": "Ubicación anatómica incorrecta. [cite: 139]"
+      },
+      {
+        "text": "E) Un acrónimo para la cirugía de escoliosis.",
+        "isCorrect": false,
+        "explanation": "Se refiere a una lesión traumática neurológica. [cite: 139]"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Fractura de Tillaux",
+    "text": "Adolescente con fractura lateral de epífisis tibial distal tras rotación externa. Fisis parcialmente cerrada. ¿Nombre?",
+    "hint": "Es la fractura 'de la ventana de vulnerabilidad' al final del crecimiento del tobillo. [cite: 143]",
+    "options": [
+      {
+        "text": "A) Fractura de Maisonneuve.",
+        "isCorrect": false,
+        "explanation": "Fractura de peroné proximal asociada a lesión ligamentosa del tobillo. [cite: 146]"
+      },
+      {
+        "text": "B) Fractura de Tillaux.",
+        "isCorrect": true,
+        "explanation": "Ocurre cuando la fisis tibial cierra (de medial a lateral); la zona lateral abierta es vulnerable. [cite: 142, 144, 145]"
+      },
+      {
+        "text": "C) Fractura triplanar.",
+        "isCorrect": false,
+        "explanation": "Afecta los tres planos (epífisis, fisis y metáfisis). [cite: 147]"
+      },
+      {
+        "text": "D) Esguince grado III.",
+        "isCorrect": false,
+        "explanation": "Lesión ligamentosa pura, no un trazo de fractura fisaria. [cite: 142]"
+      },
+      {
+        "text": "E) Fractura de Pilon tibial.",
+        "isCorrect": false,
+        "explanation": "Fractura conminuta de la superficie articular distal por carga axial. [cite: 142]"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Sinovitis Transitoria",
+    "text": "¿Cuál es el tratamiento de elección para una 'Sinovitis Transitoria de Cadera' confirmada?",
+    "hint": "Es un cuadro inflamatorio autolimitado. [cite: 150]",
+    "options": [
+      {
+        "text": "A) Antibióticos endovenosos por 10 días.",
+        "isCorrect": false,
+        "explanation": "Tratamiento para artritis séptica, no para procesos inflamatorios benignos. [cite: 153]"
+      },
+      {
+        "text": "B) Reposo relativo, evitar carga y AINEs por 5-7 días.",
+        "isCorrect": true,
+        "explanation": "La mayoría mejora en menos de una semana con medidas conservadoras. [cite: 149, 151]"
+      },
+      {
+        "text": "C) Tracción esquelética permanente.",
+        "isCorrect": false,
+        "explanation": "Innecesaria para este cuadro clínico leve. [cite: 149]"
+      },
+      {
+        "text": "D) Cirugía de limpieza articular.",
+        "isCorrect": false,
+        "explanation": "Reservada para infecciones bacterianas (artritis séptica). [cite: 153]"
+      },
+      {
+        "text": "E) Inmovilización con yeso pelvipedio.",
+        "isCorrect": false,
+        "explanation": "Innecesario; puede causar rigidez articular evitable. [cite: 154]"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Enfermedad de Sinding-Larsen-Johansson",
+    "text": "Niño de 12 años con sensibilidad exquisita y edema en el polo inferior de la rótula. No hay derrame. ¿Diagnóstico?",
+    "hint": "Es el 'hermano' del Osgood-Schlatter pero ubicado en el origen superior del tendón rotuliano. [cite: 158]",
+    "options": [
+      {
+        "text": "A) Osgood-Schlatter.",
+        "isCorrect": false,
+        "explanation": "El dolor se ubica varios centímetros abajo, en la tuberosidad anterior tibial. [cite: 160]"
+      },
+      {
+        "text": "B) Enfermedad de Sinding-Larsen-Johansson.",
+        "isCorrect": true,
+        "explanation": "Es una apofisitis por tracción en el polo inferior patelar, común en preadolescentes activos. [cite: 157, 159]"
+      },
+      {
+        "text": "C) Condromalacia rotuliana.",
+        "isCorrect": false,
+        "explanation": "Causa dolor retro-patelar difuso al subir escaleras, no sensibilidad puntual inferior. [cite: 157]"
+      },
+      {
+        "text": "D) Rotura de menisco.",
+        "isCorrect": false,
+        "explanation": "Presentaría dolor interarticular y usualmente derrame. [cite: 157]"
+      },
+      {
+        "text": "E) Artritis séptica.",
+        "isCorrect": false,
+        "explanation": "Cuadro agudo febril con derrame articular masivo. [cite: 158]"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Fractura de Cuello de Fémur",
+    "text": "¿Qué complicación se debe vigilar estrechamente en un paciente con fractura de cuello de fémur pediátrica?",
+    "hint": "La irrigación de la cabeza femoral en el niño depende de vasos precarios que cruzan el cuello. [cite: 163]",
+    "options": [
+      {
+        "text": "A) Infección urinaria.",
+        "isCorrect": false,
+        "explanation": "Complicación inespecífica del encamamiento, no vinculada a la anatomía ósea. [cite: 161]"
+      },
+      {
+        "text": "B) Necrosis avascular de la cabeza femoral.",
+        "isCorrect": true,
+        "explanation": "La tasa de necrosis tras estas fracturas es altísima (hasta 50%) y mucho más grave que en adultos. [cite: 162, 164, 165]"
+      },
+      {
+        "text": "C) Crecimiento excesivo de la pierna.",
+        "isCorrect": false,
+        "explanation": "No es una complicación característica de esta fractura intraarticular. [cite: 162]"
+      },
+      {
+        "text": "D) Obesidad.",
+        "isCorrect": false,
+        "explanation": "No tiene relación causal con la fractura física. [cite: 162]"
+      },
+      {
+        "text": "E) Hipertensión.",
+        "isCorrect": false,
+        "explanation": "Hallazgo sistémico independiente. [cite: 162]"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Escoliosis (Ángulo de Cobb)",
+    "text": "¿Cuál es el valor del 'Ángulo de Cobb' para definir formalmente una Escoliosis?",
+    "hint": "Por debajo de este valor se considera 'asimetría espinal' o actitud postural. [cite: 171]",
+    "options": [
+      {
+        "text": "A) Mayor a 1 grado.",
+        "isCorrect": false,
+        "explanation": "Umbral demasiado bajo; no diferencia variaciones normales. [cite: 167]"
+      },
+      {
+        "text": "B) Mayor a 10 grados.",
+        "isCorrect": true,
+        "explanation": "El diagnóstico de escoliosis estructural requiere una curva de al menos 10° medida en radiografía. [cite: 168, 172]"
+      },
+      {
+        "text": "C) Mayor a 25 grados.",
+        "isCorrect": false,
+        "explanation": "Punto de corte usual para considerar el uso de corsé, no para el diagnóstico inicial. [cite: 169]"
+      },
+      {
+        "text": "D) Mayor a 45 grados.",
+        "isCorrect": false,
+        "explanation": "Criterio frecuente para indicación quirúrgica. [cite: 170]"
+      },
+      {
+        "text": "E) Solo se define por dolor.",
+        "isCorrect": false,
+        "explanation": "La escoliosis estructural es a menudo indolora inicialmente. [cite: 171]"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Enfermedad de Blount",
+    "text": "¿Qué es la 'Enfermedad de Blount'?",
+    "hint": "Se ve en niños obesos o que caminaron muy precozmente; la deformidad es progresiva. [cite: 176]",
+    "options": [
+      {
+        "text": "A) Una infección de la sangre.",
+        "isCorrect": false,
+        "explanation": "No corresponde a un proceso séptico. [cite: 173]"
+      },
+      {
+        "text": "B) Tibia vara patológica por alteración del crecimiento de la fisis tibial proximal medial.",
+        "isCorrect": true,
+        "explanation": "A diferencia del varo fisiológico, el Blount empeora y requiere órtesis o cirugía. [cite: 174, 177]"
+      },
+      {
+        "text": "C) Un tipo de cáncer de pulmón.",
+        "isCorrect": false,
+        "explanation": "Localización y tipo de patología incorrectos. [cite: 175]"
+      },
+      {
+        "text": "D) Una fractura del pie.",
+        "isCorrect": false,
+        "explanation": "Afecta a la región de la rodilla (tibia proximal). [cite: 175]"
+      },
+      {
+        "text": "E) Es igual al genu varo fisiológico.",
+        "isCorrect": false,
+        "explanation": "El fisiológico mejora a los 2 años; el Blount es patológico y progresivo. [cite: 177]"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Enfermedad de Köhler",
+    "text": "Adolescente de 13 años con escafoides colapsado, escleroso y fragmentado en la Rx. ¿Diagnóstico?",
+    "hint": "Es una osteocondrosis del escafoides tarsiano. [cite: 181]",
+    "options": [
+      {
+        "text": "A) Enfermedad de Sever.",
+        "isCorrect": false,
+        "explanation": "Osteocondrosis de la apófisis del calcáneo (talón). [cite: 180]"
+      },
+      {
+        "text": "B) Enfermedad de Köhler.",
+        "isCorrect": true,
+        "explanation": "Causa dolor en mediopié y suele resolver con reposo o yeso por unas semanas. [cite: 180, 182, 183]"
+      },
+      {
+        "text": "C) Enfermedad de Freiberg.",
+        "isCorrect": false,
+        "explanation": "Osteocondrosis de la cabeza del segundo metatarsiano. [cite: 184]"
+      },
+      {
+        "text": "D) Pie Bot.",
+        "isCorrect": false,
+        "explanation": "Deformidad congénita rígida global del pie. [cite: 180]"
+      },
+      {
+        "text": "E) Fractura por estrés.",
+        "isCorrect": false,
+        "explanation": "Trazo lineal por sobrecarga, no una fragmentación esclerosa global del hueso. [cite: 180]"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Signo de la Almohadilla Grasa",
+    "text": "En fractura supracondílea, ¿qué indica la presencia de una 'línea grasa anterior' elevada o posterior visible (signo de la vela)?",
+    "hint": "La sangre dentro de la cápsula desplaza las almohadillas de grasa normales del codo. [cite: 188]",
+    "options": [
+      {
+        "text": "A) Que no hay fractura.",
+        "isCorrect": false,
+        "explanation": "Al contrario, sugiere fuertemente una lesión oculta. [cite: 186]"
+      },
+      {
+        "text": "B) Presencia de hemartrosis, sugiriendo una fractura oculta.",
+        "isCorrect": true,
+        "explanation": "El 'fat pad sign' es un marcador indirecto de fractura intraarticular cuando el trazo no es claro. [cite: 186, 189]"
+      },
+      {
+        "text": "C) Que el niño tiene mucha grasa en el brazo.",
+        "isCorrect": false,
+        "explanation": "Se refiere a almohadillas anatómicas normales desplazadas por líquido. [cite: 187]"
+      },
+      {
+        "text": "D) Una infección muscular.",
+        "isCorrect": false,
+        "explanation": "Signo puramente articular traumático. [cite: 187]"
+      },
+      {
+        "text": "E) Que la radiografía está mal tomada.",
+        "isCorrect": false,
+        "explanation": "Es un hallazgo clínico-radiológico de gran valor diagnóstico. [cite: 188]"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Osteogénesis Imperfecta",
+    "text": "¿Cuál es la triada clásica de la 'Osteogénesis Imperfecta'?",
+    "hint": "También se conoce como la enfermedad de los 'huesos de cristal'. [cite: 193]",
+    "options": [
+      {
+        "text": "A) Fiebre, púrpura y anemia.",
+        "isCorrect": false,
+        "explanation": "Sugeriría un proceso hematológico maligno o séptico. [cite: 190]"
+      },
+      {
+        "text": "B) Fracturas múltiples, escleras azules y sordera precoz.",
+        "isCorrect": true,
+        "explanation": "Se debe a un defecto en el colágeno tipo I; las escleras son azules por transparencia de la coroides. [cite: 191, 194]"
+      },
+      {
+        "text": "C) Obesidad, estrías y talla alta.",
+        "isCorrect": false,
+        "explanation": "Hallazgos de síndromes metabólicos o endocrinos. [cite: 191]"
+      },
+      {
+        "text": "D) Manchas café con leche, neurofibromas y escoliosis.",
+        "isCorrect": false,
+        "explanation": "Corresponde a la Neurofibromatosis tipo 1. [cite: 192]"
+      },
+      {
+        "text": "E) Dolor óseo, blastos y palidez.",
+        "isCorrect": false,
+        "explanation": "Manifestaciones cardinales de la Leucemia. [cite: 192]"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Torsión Tibial Interna",
+    "text": "Niño de 3 años camina con el pie 'hacia adentro'. Eje muslo-pie rotado medialmente, rotación de caderas normal. ¿Diagnóstico?",
+    "hint": "Es la causa más frecuente de marcha introgresa en el lactante y niño pequeño. [cite: 198]",
+    "options": [
+      {
+        "text": "A) Anteversión femoral.",
+        "isCorrect": false,
+        "explanation": "Presentaría una rotación interna de caderas aumentada. [cite: 197]"
+      },
+      {
+        "text": "B) Torsión tibial interna.",
+        "isCorrect": true,
+        "explanation": "Debida a posición fetal; suele resolver espontáneamente antes de los 5-6 años con remodelación. [cite: 197, 199]"
+      },
+      {
+        "text": "C) Metatarso varo.",
+        "isCorrect": false,
+        "explanation": "Afectaría solo al antepié, no al eje completo de la tibia. [cite: 197]"
+      },
+      {
+        "text": "D) Displasia de cadera.",
+        "isCorrect": false,
+        "explanation": "Se manifiesta con asimetría de pliegues o claudicación, no marcha introgresa aislada. [cite: 198]"
+      },
+      {
+        "text": "E) Pie Bot.",
+        "isCorrect": false,
+        "explanation": "Deformidad rígida evidente desde el nacimiento. [cite: 198]"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Síndrome de Grisel",
+    "text": "¿Qué es el 'Síndrome de Grisel'?",
+    "hint": "Ocurre tras una amigdalitis; el niño llega con el cuello 'torcido' y mucho dolor. [cite: 203]",
+    "options": [
+      {
+        "text": "A) Una fractura del fémur.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con traumatismos en extremidades. [cite: 200]"
+      },
+      {
+        "text": "B) Tortícolis por subluxación C1-C2 tras infección de vía aérea superior.",
+        "isCorrect": true,
+        "explanation": "La inflamación causa laxitud ligamentosa cervical alta; requiere reposo y collar. [cite: 201, 204, 205]"
+      },
+      {
+        "text": "C) Un tipo de tumor óseo.",
+        "isCorrect": false,
+        "explanation": "Es un proceso inflamatorio/mecánico benigno. [cite: 202]"
+      },
+      {
+        "text": "D) Una malformación del pie.",
+        "isCorrect": false,
+        "explanation": "Patología localizada en la columna cervical. [cite: 202]"
+      },
+      {
+        "text": "E) Una enfermedad de los riñones.",
+        "isCorrect": false,
+        "explanation": "No corresponde a patología renal. [cite: 202]"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Método de Ponseti",
+    "text": "¿Cuál es el objetivo principal del método de Ponseti para el Pie Bot?",
+    "hint": "El método busca aprovechar la plasticidad del tejido conectivo neonatal. [cite: 208]",
+    "options": [
+      {
+        "text": "A) Lograr un pie estético para usar sandalias.",
+        "isCorrect": false,
+        "explanation": "La estética es secundaria a la funcionalidad. [cite: 206]"
+      },
+      {
+        "text": "B) Lograr un pie funcional, indoloro y plantígrado sin cirugías extensas.",
+        "isCorrect": true,
+        "explanation": "Redujo drásticamente la necesidad de cirugías agresivas que dejaban pies rígidos. [cite: 206, 209]"
+      },
+      {
+        "text": "C) Evitar que el niño camine.",
+        "isCorrect": false,
+        "explanation": "El objetivo es precisamente facilitar la marcha normal. [cite: 207]"
+      },
+      {
+        "text": "D) Curar la diabetes asociada.",
+        "isCorrect": false,
+        "explanation": "No existe relación sistémica entre ambas condiciones. [cite: 207]"
+      },
+      {
+        "text": "E) Reemplazar el hueso astrágalo.",
+        "isCorrect": false,
+        "explanation": "Se busca su realineación mecánica, no su reemplazo. [cite: 207]"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Signo de Risser",
+    "text": "En un adolescente con Escoliosis, ¿qué indica un 'Signo de Risser 0 o 1'?",
+    "hint": "El Risser mide la osificación de la cresta ilíaca. [cite: 213]",
+    "options": [
+      {
+        "text": "A) Que la escoliosis ya se curó.",
+        "isCorrect": false,
+        "explanation": "Un valor bajo indica mayor riesgo, no resolución. [cite: 211]"
+      },
+      {
+        "text": "B) Gran potencial de crecimiento remanente y alto riesgo de progresión.",
+        "isCorrect": true,
+        "explanation": "Significa inmadurez esquelética; es clave para decidir el inicio de uso de corsé. [cite: 211, 214]"
+      },
+      {
+        "text": "C) Que el crecimiento ya terminó.",
+        "isCorrect": false,
+        "explanation": "Se indicaría con un Risser 4 o 5. [cite: 212]"
+      },
+      {
+        "text": "D) Que necesita cirugía mañana.",
+        "isCorrect": false,
+        "explanation": "El Risser ayuda a predecir evolución, no define cirugía inmediata por sí solo. [cite: 212]"
+      },
+      {
+        "text": "E) Que tiene osteoporosis.",
+        "isCorrect": false,
+        "explanation": "Mide madurez fisiológica, no densidad mineral patológica. [cite: 212]"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Raquitismo",
+    "text": "¿Qué hallazgo en la Rx de un niño con raquitismo es el más característico en las metáfisis?",
+    "hint": "La falta de mineralización hace que el cartílago crezca desordenadamente y se ensanche. [cite: 217]",
+    "options": [
+      {
+        "text": "A) Fracturas en espiral.",
+        "isCorrect": false,
+        "explanation": "Sugerirían maltrato o trauma accidental, no es el signo cardinal del raquitismo. [cite: 216]"
+      },
+      {
+        "text": "B) Metáfisis ensanchadas, deshilachadas y en 'copa' (cupping).",
+        "isCorrect": true,
+        "explanation": "Es el signo patognomónico del raquitismo activo por déficit de Vitamina D. [cite: 216, 218]"
+      },
+      {
+        "text": "C) Huesos muy blancos (esclerosos).",
+        "isCorrect": false,
+        "explanation": "Característico de la Osteopetrosis, opuesto al raquitismo. [cite: 216]"
+      },
+      {
+        "text": "D) Ausencia de cartílago.",
+        "isCorrect": false,
+        "explanation": "El cartílago está presente pero mal organizado y no mineralizado. [cite: 217]"
+      },
+      {
+        "text": "E) Metástasis.",
+        "isCorrect": false,
+        "explanation": "Hallazgo oncológico sin relación con deficiencias vitamínicas. [cite: 217]"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Quiste Óseo Simple",
+    "text": "¿Conducta ante un 'Quiste Óseo Simple' descubierto tras una fractura patológica?",
+    "hint": "Es una lesión benigna que suele ser asintomática hasta que se rompe. [cite: 222]",
+    "options": [
+      {
+        "text": "A) Amputación inmediata.",
+        "isCorrect": false,
+        "explanation": "No es una lesión maligna; medida desproporcionada e incorrecta. [cite: 220]"
+      },
+      {
+        "text": "B) Inmovilizar; a menudo cura espontáneamente tras consolidar la fractura.",
+        "isCorrect": true,
+        "explanation": "La fractura puede inducir formación de hueso nuevo que rellena la cavidad quística. [cite: 220, 223]"
+      },
+      {
+        "text": "C) Quimioterapia.",
+        "isCorrect": false,
+        "explanation": "Sin indicación en tumores óseos benignos. [cite: 221]"
+      },
+      {
+        "text": "D) Radioterapia.",
+        "isCorrect": false,
+        "explanation": "Podría causar daño en la fisis y riesgo de sarcomas secundarios. [cite: 221]"
+      },
+      {
+        "text": "E) Inyectar antibióticos dentro del quiste.",
+        "isCorrect": false,
+        "explanation": "No es una cavidad infectada por bacterias. [cite: 221]"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Coalición Tarsal",
+    "text": "¿Qué es la 'Coalición Tarsal'?",
+    "hint": "Causa pie plano rígido y doloroso en adolescentes. [cite: 227]",
+    "options": [
+      {
+        "text": "A) Un tipo de zapato.",
+        "isCorrect": false,
+        "explanation": "No es un elemento externo. [cite: 224]"
+      },
+      {
+        "text": "B) Unión anómala entre dos o más huesos del tarso.",
+        "isCorrect": true,
+        "explanation": "Puede ser ósea o fibrosa; se sospecha si el pie plano no corrige al ponerse de puntillas. [cite: 225, 228, 229]"
+      },
+      {
+        "text": "C) Una fractura del tobillo.",
+        "isCorrect": false,
+        "explanation": "Condición congénita del desarrollo, no traumática. [cite: 225]"
+      },
+      {
+        "text": "D) El nombre de un ligamento.",
+        "isCorrect": false,
+        "explanation": "Se refiere a una fusión ósea/tisular entre huesos. [cite: 226]"
+      },
+      {
+        "text": "E) Una infección del pie.",
+        "isCorrect": false,
+        "explanation": "No corresponde a un proceso infeccioso. [cite: 226]"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Osteoblastoma",
+    "text": "¿Cuál es el síntoma cardinal del Osteoblastoma?",
+    "hint": "Es como un 'osteoma osteoide gigante' (> 2 cm). [cite: 232]",
+    "options": [
+      {
+        "text": "A) No duele nada.",
+        "isCorrect": false,
+        "explanation": "Suele ser una lesión dolorosa por definición. [cite: 230]"
+      },
+      {
+        "text": "B) Dolor óseo persistente que NO cede tan bien con aspirina.",
+        "isCorrect": true,
+        "explanation": "A diferencia del osteoma osteoide, la respuesta a los AINEs es menor; afecta frecuentemente la columna. [cite: 231, 233]"
+      },
+      {
+        "text": "C) Diarrea.",
+        "isCorrect": false,
+        "explanation": "No presenta manifestaciones gastrointestinales. [cite: 231]"
+      },
+      {
+        "text": "D) Tos.",
+        "isCorrect": false,
+        "explanation": "Síntoma respiratorio ajeno a la patología ósea. [cite: 232]"
+      },
+      {
+        "text": "E) Sordera.",
+        "isCorrect": false,
+        "explanation": "No afecta a la audición. [cite: 232]"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Salter-Harris tipo II",
+    "text": "¿Qué caracteriza a la fractura de Salter-Harris tipo II?",
+    "hint": "Es la fractura de la placa de crecimiento más común. [cite: 237]",
+    "options": [
+      {
+        "text": "A) Solo afecta la epífisis.",
+        "isCorrect": false,
+        "explanation": "Correspondería a una tipo III o IV. [cite: 234]"
+      },
+      {
+        "text": "B) El trazo recorre la fisis y sale a través de la metáfisis.",
+        "isCorrect": true,
+        "explanation": "Incluye el 'triángulo de Thurston-Holland'; generalmente tiene buen pronóstico. [cite: 235, 238]"
+      },
+      {
+        "text": "C) El hueso se pulveriza.",
+        "isCorrect": false,
+        "explanation": "Se denominaría fractura conminuta. [cite: 235]"
+      },
+      {
+        "text": "D) Solo ocurre en el cráneo.",
+        "isCorrect": false,
+        "explanation": "Ocurre en huesos largos con placa de crecimiento activa. [cite: 236]"
+      },
+      {
+        "text": "E) No requiere yeso.",
+        "isCorrect": false,
+        "explanation": "Suele requerir inmovilización para asegurar consolidación. [cite: 236]"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Displasia de Cadera",
+    "text": "¿Manejo de una Displasia de Cadera diagnosticada a los 18 meses?",
+    "hint": "A los 18 meses la cadera ya está muy rígida y deformada para métodos ortopédicos simples. [cite: 241]",
+    "options": [
+      {
+        "text": "A) Solo observación.",
+        "isCorrect": false,
+        "explanation": "La displasia no se resuelve sola a esta edad; requiere intervención. [cite: 239]"
+      },
+      {
+        "text": "B) Arnés de Pavlik.",
+        "isCorrect": false,
+        "explanation": "Solo es útil hasta los 6 meses de vida. [cite: 240, 242]"
+      },
+      {
+        "text": "C) Reducción quirúrgica y yeso pelvipedio.",
+        "isCorrect": true,
+        "explanation": "Dada la rigidez, la cirugía (abierta o cerrada) es casi siempre necesaria tras los 6 meses. [cite: 240, 243]"
+      },
+      {
+        "text": "D) Plantillas.",
+        "isCorrect": false,
+        "explanation": "No corrigen la posición de la cabeza femoral en el acetábulo. [cite: 240]"
+      },
+      {
+        "text": "E) Vitaminas.",
+        "isCorrect": false,
+        "explanation": "No es un problema de carencia vitamínica. [cite: 240]"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Genu Varo Fisiológico",
+    "text": "¿Qué es el 'Genu Varo' fisiológico?",
+    "hint": "Se debe a la posición intrauterina plegada. [cite: 246]",
+    "options": [
+      {
+        "text": "A) Piernas en 'X'.",
+        "isCorrect": false,
+        "explanation": "Eso se denomina Genu Valgo. [cite: 244]"
+      },
+      {
+        "text": "B) Piernas en 'paréntesis', normal hasta los 18-24 meses.",
+        "isCorrect": true,
+        "explanation": "Remodela espontáneamente a medida que el niño camina y carga peso. [cite: 244, 247]"
+      },
+      {
+        "text": "C) Una pierna más corta que la otra.",
+        "isCorrect": false,
+        "explanation": "Se denomina dismetría de extremidades inferiores. [cite: 245]"
+      },
+      {
+        "text": "D) Un tumor de la rodilla.",
+        "isCorrect": false,
+        "explanation": "Es una variante postural normal del desarrollo. [cite: 245]"
+      },
+      {
+        "text": "E) Una fractura oculta.",
+        "isCorrect": false,
+        "explanation": "No tiene origen traumático. [cite: 245]"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Tríada de O'Donoghue",
+    "text": "¿Cuál es la importancia de la 'Tríada de O'Donoghue' en lesiones de rodilla?",
+    "hint": "Se produce por un traumatismo severo en valgo y rotación. [cite: 251]",
+    "options": [
+      {
+        "text": "A) Es una enfermedad de la piel.",
+        "isCorrect": false,
+        "explanation": "Es una lesión traumática osteoarticular. [cite: 249]"
+      },
+      {
+        "text": "B) Rotura de LCA, menisco medial y ligamento colateral medial.",
+        "isCorrect": true,
+        "explanation": "Es una lesión compleja que requiere manejo quirúrgico y rehabilitación prolongada. [cite: 249, 252]"
+      },
+      {
+        "text": "C) Solo ocurre en recién nacidos.",
+        "isCorrect": false,
+        "explanation": "Ocurre típicamente en deportistas o tras traumas de alta energía. [cite: 250]"
+      },
+      {
+        "text": "D) Es un tipo de fractura de fémur.",
+        "isCorrect": false,
+        "explanation": "Involucra estructuras ligamentosas y meniscales. [cite: 250]"
+      },
+      {
+        "text": "E) No tiene importancia médica.",
+        "isCorrect": false,
+        "explanation": "Es un cuadro grave con alta morbilidad funcional. [cite: 250]"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Fractura Expuesta",
+    "text": "En una fractura expuesta, ¿cuál es el 'tiempo de oro' para administrar antibiótico profiláctico?",
+    "hint": "La precocidad del antibiótico es el factor más importante para prevenir la osteomielitis. [cite: 256]",
+    "options": [
+      {
+        "text": "A) Después de la cirugía.",
+        "isCorrect": false,
+        "explanation": "Es demasiado tarde; la colonización bacteriana ya habrá avanzado. [cite: 254]"
+      },
+      {
+        "text": "B) Idealmente dentro de la primera hora del accidente.",
+        "isCorrect": true,
+        "explanation": "Debe administrarse en el primer contacto médico para reducir el riesgo de infección. [cite: 254, 257]"
+      },
+      {
+        "text": "C) A las 24 horas.",
+        "isCorrect": false,
+        "explanation": "Aumenta drásticamente la probabilidad de osteomielitis post-traumática. [cite: 254]"
+      },
+      {
+        "text": "D) Solo si hay pus.",
+        "isCorrect": false,
+        "explanation": "Es preventivo; no se debe esperar a que la infección sea evidente. [cite: 255]"
+      },
+      {
+        "text": "E) No se dan antibióticos.",
+        "isCorrect": false,
+        "explanation": "Son obligatorios en cualquier fractura expuesta. [cite: 255]"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Fibromatosis Plantar",
+    "text": "¿Qué es la 'Fibromatosis plantar' (Enfermedad de Ledderhose)?",
+    "hint": "Se palpan bultos duros en el arco del pie que pueden ser dolorosos al caminar. [cite: 260, 261]",
+    "options": [
+      {
+        "text": "A) Un cáncer de hueso.",
+        "isCorrect": false,
+        "explanation": "Es un crecimiento de tejido blando benigno. [cite: 258]"
+      },
+      {
+        "text": "B) Nódulos benignos de tejido fibroso en la fascia plantar.",
+        "isCorrect": true,
+        "explanation": "Es una condición benigna, prima de la enfermedad de Dupuytren en la mano. [cite: 259, 261]"
+      },
+      {
+        "text": "C) Un tipo de hongo.",
+        "isCorrect": false,
+        "explanation": "No es una infección micótica. [cite: 259]"
+      },
+      {
+        "text": "D) Una fractura del talón.",
+        "isCorrect": false,
+        "explanation": "No tiene origen traumático óseo. [cite: 259]"
+      },
+      {
+        "text": "E) Pie plano.",
+        "isCorrect": false,
+        "explanation": "No altera la arquitectura del arco de la misma forma que el pie plano. [cite: 260]"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Dedo en Gatillo",
+    "text": "¿Qué caracteriza al 'Dedo en Gatillo' pediátrico?",
+    "hint": "A menudo se nota al nacer o en los primeros meses; el niño no puede extender el dedo. [cite: 265, 266]",
+    "options": [
+      {
+        "text": "A) El dedo se mueve muy rápido.",
+        "isCorrect": false,
+        "explanation": "El dedo está precisamente 'atascado', no hipercinético. [cite: 262]"
+      },
+      {
+        "text": "B) Flexión fija por un nódulo (Notta) que se atasca en la polea A1.",
+        "isCorrect": true,
+        "explanation": "Si no resuelve con ejercicios, requiere una pequeña cirugía de liberación de la polea. [cite: 263, 266]"
+      },
+      {
+        "text": "C) El dedo se cae.",
+        "isCorrect": false,
+        "explanation": "Incapacidad motora extrema que no corresponde a este cuadro local. [cite: 264]"
+      },
+      {
+        "text": "D) Es una fractura.",
+        "isCorrect": false,
+        "explanation": "Es un problema tendinoso-mecánico. [cite: 264]"
+      },
+      {
+        "text": "E) Una infección por virus.",
+        "isCorrect": false,
+        "explanation": "No es un proceso infeccioso. [cite: 264]"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Traumatología Infantil",
+    "topic": "Consolidación de Fracturas",
+    "text": "¿Cuál es el factor más importante para la consolidación de una fractura pediátrica?",
+    "hint": "El periostio actúa como una 'funda' que guía y acelera la formación del callo. [cite: 269]",
+    "options": [
+      {
+        "text": "A) La marca del yeso.",
+        "isCorrect": false,
+        "explanation": "No influye en la biología de la consolidación. [cite: 267]"
+      },
+      {
+        "text": "B) La integridad del periostio, grueso y muy vascularizado.",
+        "isCorrect": true,
+        "explanation": "Es la razón por la que los niños consolidan en la mitad de tiempo que un adulto. [cite: 268, 270]"
+      },
+      {
+        "text": "C) Comer mucha carne.",
+        "isCorrect": false,
+        "explanation": "La nutrición es importante pero no es el factor biológico local clave. [cite: 268]"
+      },
+      {
+        "text": "D) El color del yeso.",
+        "isCorrect": false,
+        "explanation": "Sin relevancia médica. [cite: 269]"
+      },
+      {
+        "text": "E) No tomar agua.",
+        "isCorrect": false,
+        "explanation": "La hidratación es necesaria para el metabolismo celular. [cite: 269]"
+      }
+    ]
+  }
+]
