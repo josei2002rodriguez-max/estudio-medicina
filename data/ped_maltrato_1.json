@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Profilaxis de ITS",
+    "text": "En una niña de 4 años víctima de agresión sexual penetrante hace 6 horas, ¿cuál es el esquema profiláctico de elección para prevenir la Gonorrea (Neisseria gonorrhoeae) considerando que pesa 18 kg?",
+    "hint": "En niños menores de 45 kg, la dosis de ceftriaxona se reduce a la mitad de la dosis de adulto[cite: 16, 17].",
+    "options": [
+      {
+        "text": "A) Ceftriaxona 250 mg IM dosis única.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta es la dosis recomendada para adultos o adolescentes con peso superior a 45 kg[cite: 23, 24]. En una niña de 18 kg, esta dosis representaría un exceso innecesario para la profilaxis."
+      },
+      {
+        "text": "B) Ceftriaxona 125 mg IM dosis única.",
+        "isCorrect": true,
+        "explanation": "Correcto. Según la Guía Clínica de Maltrato Infantil del Minsal/HCSBA, para niños con peso inferior a 45 kg, la profilaxis de gonococia se realiza con una dosis única de 125 mg vía intramuscular[cite: 18, 19, 20]."
+      },
+      {
+        "text": "C) Ciprofloxacino 500 mg VO dosis única.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El ciprofloxacino está contraindicado como primera línea en niños debido a riesgos potenciales en cartílagos de crecimiento; además, existe una alta tasa de resistencia de Neisseria a las quinolonas[cite: 25]."
+      },
+      {
+        "text": "D) Amoxicilina 50 mg/kg por 7 días.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La amoxicilina no ofrece cobertura contra cepas de gonococo productoras de betalactamasas, las cuales son muy frecuentes en la actualidad[cite: 26, 27]."
+      },
+      {
+        "text": "E) Azitromicina 1 g VO dosis única.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La dosis de 1 g es efectiva para el tratamiento de Chlamydia en adultos, no para la prevención de Gonorrea en pacientes pediátricos de bajo peso[cite: 28, 29]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Fracturas Sospechosas",
+    "text": "Un lactante de 10 meses presenta una fractura espiroidea de fémur. La madre relata que el niño se 'enredó en la sábana al girar en la cuna'. ¿Cuál es el elemento de mayor sospecha de maltrato en este caso?",
+    "hint": "Evalúe si un giro accidental puede generar la fuerza de torsión necesaria para romper el fémur[cite: 40].",
+    "options": [
+      {
+        "text": "A) El tipo de fractura (espiroidea).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque son sospechosas, este tipo de fractura puede ocurrir accidentalmente en niños que ya corren (fractura de la tibia del deambulante), por lo que el patrón óseo solo no hace el diagnóstico[cite: 44]."
+      },
+      {
+        "text": "B) La ubicación (fémur).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El fémur es un hueso que se fractura con relativa frecuencia en niños mayores por caídas o juegos; la ubicación no es patognomónica de abuso por sí misma[cite: 45]."
+      },
+      {
+        "text": "C) La inconsistencia entre el mecanismo relatado y el desarrollo psicomotor.",
+        "isCorrect": true,
+        "explanation": "Correcto. En un lactante que no camina, el fémur solo se rompe por una fuerza externa de torsión masiva. Un giro en una sábana es incapaz de generar tal energía[cite: 41, 42]."
+      },
+      {
+        "text": "D) La edad del paciente únicamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La edad es un factor de riesgo para sufrir maltrato, pero no es una prueba de sospecha si el mecanismo de un accidente fuera coherente[cite: 46]."
+      },
+      {
+        "text": "E) La ausencia de hematomas visibles en la piel.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto suele confundir al clínico, pero muchas fracturas por torsión abusiva ocurren sin dejar marcas o moretones externos en la piel[cite: 47]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Profilaxis VIH",
+    "text": "¿Cuál es la conducta recomendada respecto a la profilaxis para el Virus de Inmunodeficiencia Humana (VIH) tras una agresión sexual en un niño?",
+    "hint": "La profilaxis post-exposición (PEP) es una medida de emergencia tiempo-dependiente[cite: 56].",
+    "options": [
+      {
+        "text": "A) Se administra a todos los niños por igual de forma rutinaria.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una medida rutinaria debido a la toxicidad y efectos secundarios de los antirretrovirales; se reserva para casos de alto riesgo[cite: 60]."
+      },
+      {
+        "text": "B) Solo se administra si el agresor es VIH positivo conocido.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. A menudo el estatus del agresor es desconocido; en esos casos, la decisión se toma asumiendo el riesgo según el tipo de acto sexual[cite: 61]."
+      },
+      {
+        "text": "C) Se evalúa el riesgo según el tipo de exposición y el tiempo transcurrido (idealmente < 72 horas).",
+        "isCorrect": true,
+        "explanation": "Correcto. La decisión de iniciar PEP depende de la severidad del contacto (ej. penetración con eyaculación) y debe iniciarse antes de las 72 horas para ser efectiva[cite: 52, 57, 58]."
+      },
+      {
+        "text": "D) Se espera el resultado del test de Elisa del niño antes de iniciar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El periodo de ventana impide que el test inicial detecte la agresión actual. La PEP debe ser inmediata para evitar que el virus se establezca[cite: 62]."
+      },
+      {
+        "text": "E) No se administra profilaxis para VIH en pediatría por toxicidad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sí se administra siguiendo protocolos de riesgo específicos, balanceando la toxicidad frente al riesgo de infección crónica[cite: 54]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Síndrome de Niño Sacudido",
+    "text": "Al realizar un fondo de ojo en un lactante con sospecha de zamarreo, ¿qué característica de las hemorragias retinianas sugiere mayor especificidad para maltrato?",
+    "hint": "El zamarreo rompe vasos en todas las profundidades de la retina simultáneamente[cite: 71].",
+    "options": [
+      {
+        "text": "A) Hemorragias puntiformes escasas en el polo posterior.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Estas pueden verse en accidentes leves o aumentos bruscos de presión intratorácica, por lo que son poco específicas de abuso[cite: 74]."
+      },
+      {
+        "text": "B) Hemorragias pre-retinales unilaterales.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque ocurren en maltrato, la afectación de un solo ojo es menos frecuente en el mecanismo de sacudida global[cite: 75]."
+      },
+      {
+        "text": "C) Hemorragias extensas, bilaterales y en múltiples capas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Las hemorragias masivas que llegan a la periferia y afectan varias capas de la retina son altamente específicas de trauma por aceleración-desaceleración[cite: 67, 72]."
+      },
+      {
+        "text": "D) Presencia de edema de papila sin hemorragias.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El edema indica hipertensión endocraneana generalizada, la cual tiene múltiples causas además del maltrato traumático[cite: 76]."
+      },
+      {
+        "text": "E) Presencia de exudados algodonosos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Estos indican microinfartos retinianos crónicos asociados a diabetes o hipertensión, no a trauma agudo por sacudida[cite: 69]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Marco Legal Judicial",
+    "text": "¿Cuál es el objetivo de la Ley 21.057 (Entrevista Investigativa Videograbada) en el sistema judicial chileno?",
+    "hint": "Se busca que el niño relate su historia una sola vez en un ambiente protegido[cite: 85].",
+    "options": [
+      {
+        "text": "A) Obligar a los médicos a grabar sus consultas pediátricas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La ley regula el testimonio ante la justicia, no el acto médico de la consulta rutinaria[cite: 79]."
+      },
+      {
+        "text": "B) Permitir que el niño declare muchas veces para recordar detalles.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es exactamente lo que la ley intenta EVITAR para prevenir el desgaste emocional del menor[cite: 80, 88]."
+      },
+      {
+        "text": "C) Prevenir la victimización secundaria de niños y adolescentes.",
+        "isCorrect": true,
+        "explanation": "Correcto. La ley busca reducir el número de veces que el niño relata los hechos, evitando interrogatorios repetidos por distintas instituciones[cite: 81, 86]."
+      },
+      {
+        "text": "D) Reemplazar el examen físico médico por una entrevista.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El examen físico forense sigue siendo una pericia independiente y necesaria para la investigación[cite: 82, 89]."
+      },
+      {
+        "text": "E) Que el niño caree al agresor para confirmar la verdad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La ley prohíbe explícitamente el contacto directo o careo entre la víctima y el agresor para evitar traumas adicionales[cite: 83, 90]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Lesiones Óseas Específicas",
+    "text": "En el contexto de maltrato físico, ¿qué se conoce como 'lesiones metafisarias clásicas' (CML)?",
+    "hint": "Son fracturas diminutas en el extremo del hueso, cerca de la placa de crecimiento[cite: 99].",
+    "options": [
+      {
+        "text": "A) Fracturas de la diáfisis de los huesos largos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las fracturas en el centro del hueso (diáfisis) son las más comunes en accidentes cotidianos como caídas[cite: 93, 103]."
+      },
+      {
+        "text": "B) Fracturas en 'asa de cubo' (bucket-handle) o en 'esquina'.",
+        "isCorrect": true,
+        "explanation": "Correcto. Estas fracturas son altamente específicas de maltrato. Ocurren por tirones o sacudidas violentas que arrancan fragmentos de la metáfisis ósea[cite: 94, 100, 101]."
+      },
+      {
+        "text": "C) Fracturas de cráneo con hundimiento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque son graves, no se denominan metafisarias, ya que la metáfisis es una estructura exclusiva de los huesos largos[cite: 95, 104]."
+      },
+      {
+        "text": "D) Fracturas de los huesos de las manos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No corresponden a la definición de lesiones metafisarias clásicas descritas en radiología forense[cite: 96]."
+      },
+      {
+        "text": "E) Luxación de cadera congénita.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una anomalía del desarrollo, no una lesión traumática por maltrato[cite: 97]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Quemaduras Intencionales",
+    "text": "Un niño presenta una quemadura por agua caliente en ambos pies con una línea de demarcación nítida y sin salpicaduras. ¿Qué sugiere este patrón?",
+    "hint": "La nitidez de la línea indica que el pie se mantuvo inmóvil bajo el agua[cite: 116].",
+    "options": [
+      {
+        "text": "A) Quemadura por volcamiento accidental de una olla.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El volcamiento produce un patrón irregular 'en mapa' con goteos y salpicaduras de arriba hacia abajo[cite: 108, 118]."
+      },
+      {
+        "text": "B) Patrón de inmersión en 'calcetín', sugiere maltrato por inmersión forzada.",
+        "isCorrect": true,
+        "explanation": "Correcto. Este patrón ocurre cuando un cuidador sumerge los pies del niño a la fuerza. La falta de salpicaduras confirma que el niño no pudo retirar el pie del agua caliente[cite: 109, 115]."
+      },
+      {
+        "text": "C) Dermatitis de contacto por el material de los zapatos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La dermatitis causa inflamación crónica y picazón, no una quemadura aguda con niveles de inmersión[cite: 110]."
+      },
+      {
+        "text": "D) Quemadura por contacto accidental con una plancha.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Dejaría una marca con la forma geométrica del metal, no afectaría uniformemente toda la superficie del pie[cite: 111, 119]."
+      },
+      {
+        "text": "E) Reacción alérgica severa al cloro de una piscina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causaría una irritación difusa y eritema, no una lesión térmica destructiva con nivel nítido[cite: 112]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Munchausen por Poderes",
+    "text": "¿Cuál suele ser la conducta típica del cuidador perpetrador en el Síndrome de Munchausen por Poderes?",
+    "hint": "El cuidador busca la atención médica a través de la enfermedad inducida al niño[cite: 128].",
+    "options": [
+      {
+        "text": "A) Un desconocido que rapta al niño para pedir rescate.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El perpetrador es casi siempre el cuidador primario, no un extraño[cite: 122]."
+      },
+      {
+        "text": "B) El padre que se muestra agresivo y falta a las citas médicas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En este síndrome el cuidador suele ser extremadamente puntual y parece estar muy preocupado por la salud del niño[cite: 123]."
+      },
+      {
+        "text": "C) La madre que se muestra muy colaboradora y solicita exámenes invasivos.",
+        "isCorrect": true,
+        "explanation": "Correcto. El cuidador suele ser amable con el equipo para no levantar sospechas y disfruta del protagonismo que le otorga tener un hijo 'enfermo'[cite: 124, 131]."
+      },
+      {
+        "text": "D) Hermanos mayores que golpean al niño accidentalmente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Eso es maltrato físico directo, no un trastorno facticio por poderes[cite: 125]."
+      },
+      {
+        "text": "E) El mismo niño que inventa síntomas para no ir al colegio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Eso se denomina simulación o trastorno facticio impuesto a sí mismo, no 'por poderes' (impuesto a otro)[cite: 126, 132]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Procedimiento Médico-Legal",
+    "text": "¿Cuál es la conducta médico-legal si se sospecha abuso sexual pero el examen físico es normal?",
+    "hint": "La gran mayoría de los casos de abuso no dejan marcas físicas permanentes[cite: 141, 143].",
+    "options": [
+      {
+        "text": "A) No realizar la denuncia por falta de pruebas físicas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Constituye una negligencia legal grave; el médico debe denunciar ante la sola sospecha fundamentada[cite: 135, 145]."
+      },
+      {
+        "text": "B) Informar a los cuidadores que al no haber lesiones no hubo abuso.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un error clínico. Un examen normal no descarta el contacto sexual abusivo[cite: 136]."
+      },
+      {
+        "text": "C) Realizar la denuncia obligatoriamente basada en el relato o indicadores conductuales.",
+        "isCorrect": true,
+        "explanation": "Correcto. Un examen genital normal es el hallazgo más frecuente en abuso infantil. La denuncia se basa en la sospecha integral, no solo en hallazgos físicos[cite: 137, 142, 143]."
+      },
+      {
+        "text": "D) Repetir el examen genital todos los días.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una práctica traumática que revictimiza innecesariamente al niño[cite: 138, 146]."
+      },
+      {
+        "text": "E) Citar a control en un año para ver si aparecen secuelas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El riesgo para la integridad del niño requiere una intervención inmediata, no diferida[cite: 139]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Indicadores Conductuales",
+    "text": "¿Qué se entiende por 'indicadores de sospecha' conductuales en un niño escolar?",
+    "hint": "El trauma se manifiesta a través de cambios bruscos en el comportamiento habitual[cite: 155].",
+    "options": [
+      {
+        "text": "A) Que el niño juegue y comparta con sus compañeros normalmente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una señal de desarrollo saludable y buena integración social[cite: 149, 158]."
+      },
+      {
+        "text": "B) Conductas regresivas, bajo rendimiento súbito o miedo al contacto físico.",
+        "isCorrect": true,
+        "explanation": "Correcto. La pérdida de hitos logrados (como la enuresis secundaria) o el retraimiento extremo sugieren una respuesta al estrés por trauma[cite: 150, 156]."
+      },
+      {
+        "text": "C) Que el niño tenga muchos amigos y practique deportes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son conductas positivas que no sugieren patología del entorno familiar[cite: 152]."
+      },
+      {
+        "text": "D) Que el niño sepa leer y escribir a la edad esperada.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indica un desarrollo cognitivo normal acorde a su etapa[cite: 158]."
+      },
+      {
+        "text": "E) Que solicite permiso para ir al baño en el colegio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una conducta normativa escolar que no representa un signo de alarma de maltrato[cite: 153]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Quemaduras por Cigarrillo",
+    "text": "¿Qué característica diferencia una quemadura por cigarrillo de una causada por una brasa accidental?",
+    "hint": "El cigarrillo se presiona contra la piel de forma intencional y mantenida[cite: 170, 171].",
+    "options": [
+      {
+        "text": "A) El color rojizo de la lesión inicial.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ambas quemaduras térmicas se presentan inicialmente con eritema o flictena[cite: 163]."
+      },
+      {
+        "text": "B) Que la lesión sea dolorosa al tacto.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El dolor es un síntoma universal de las quemaduras de espesor parcial[cite: 164, 173]."
+      },
+      {
+        "text": "C) Forma circular perfecta, bordes nítidos y profundidad uniforme.",
+        "isCorrect": true,
+        "explanation": "Correcto. Una brasa suele rebotar causando una marca irregular y superficial. El cigarrillo deja un círculo profundo y definido por la presión[cite: 165, 171]."
+      },
+      {
+        "text": "D) La ubicación de la quemadura en la mano.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La mano es un sitio frecuente para quemaduras accidentales e intencionales por igual[cite: 166, 174]."
+      },
+      {
+        "text": "E) Que responda bien al uso de analgésicos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La respuesta al tratamiento médico no ayuda a diferenciar la intencionalidad de la lesión[cite: 167]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Medicina Forense: Muestras",
+    "text": "Ante una sospecha de abuso sexual reciente (< 72 horas), ¿qué muestras son prioritarias de tomar?",
+    "hint": "Pasadas las 72 horas, la probabilidad de encontrar ADN del agresor cae drásticamente[cite: 183].",
+    "options": [
+      {
+        "text": "A) Hemocultivos y urocultivos seriados.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Estos buscan infecciones bacterianas sistémicas o urinarias, no evidencia forense de agresión sexual[cite: 177, 186]."
+      },
+      {
+        "text": "B) Únicamente un test de embarazo en orina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque es parte del manejo, no permite recolectar material genético para identificar al autor del delito[cite: 178]."
+      },
+      {
+        "text": "C) Hisopado de cavidades oral, vaginal o anal según el relato.",
+        "isCorrect": true,
+        "explanation": "Correcto. La recolección de muestras biológicas bajo cadena de custodia es vital para la investigación criminal en las primeras horas[cite: 179, 184]."
+      },
+      {
+        "text": "D) Radiografía de pelvis de baja radiación.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene ninguna utilidad para el diagnóstico o recolección de pruebas en abuso sexual infantil[cite: 180, 187]."
+      },
+      {
+        "text": "E) Ecografía abdominal para ver líquido libre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo se pediría si se sospechara un trauma abdominal cerrado grave, no de forma rutinaria por abuso sexual[cite: 181]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Traumatismo Craneal",
+    "text": "¿Cuál de las siguientes fracturas de cráneo es MÁS sugerente de maltrato físico infligido?",
+    "hint": "Los accidentes domésticos simples rara vez rompen el cráneo en múltiples partes o en la base[cite: 196].",
+    "options": [
+      {
+        "text": "A) Fractura lineal simple de parietal tras caída de baja altura.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este tipo de fractura es la más común en accidentes fortuitos como caídas desde un sofá[cite: 190, 199]."
+      },
+      {
+        "text": "B) Fracturas múltiples, complejas o que cruzan suturas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Sugieren un impacto de gran energía o repetido que es inconsistente con los relatos de caídas simples accidentales[cite: 191, 197]."
+      },
+      {
+        "text": "C) Fontanela anterior abierta con tensión normal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un hallazgo anatómico normal en lactantes, no una lesión traumática[cite: 192]."
+      },
+      {
+        "text": "D) Cefalohematoma en un recién nacido de parto vaginal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una colección de sangre entre el periostio y el hueso secundaria al trauma del parto, no a maltrato[cite: 193, 200]."
+      },
+      {
+        "text": "E) Craniosinostosis diagnosticada al mes de vida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el cierre prematuro de las suturas craneales, una malformación congénita no traumática[cite: 194]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Negligencia en Cuidados",
+    "text": "¿Qué situación define mejor la 'Negligencia Médica' como forma de maltrato infantil?",
+    "hint": "Se refiere a la omisión de cuidados críticos por parte de los cuidadores[cite: 209, 210].",
+    "options": [
+      {
+        "text": "A) Cuando el médico prescribe una dosis incorrecta por error.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto se clasifica como un error médico o mala praxis, no como maltrato por parte de los padres[cite: 203, 213]."
+      },
+      {
+        "text": "B) Cuando los padres no entregan el tratamiento necesario o rechazan vacunas obligatorias.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una forma de maltrato por omisión que pone en riesgo la vida o integridad del niño al privarlo de salud esencial[cite: 204, 211]."
+      },
+      {
+        "text": "C) Cuando el hospital tiene largas listas de espera para especialistas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una falla sistémica de salud pública, no maltrato infantil familiar[cite: 205, 214]."
+      },
+      {
+        "text": "D) Cuando el niño se niega a tomar el jarabe a pesar del esfuerzo de los padres.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No constituye negligencia si los padres están intentando activamente cumplir con el cuidado[cite: 206]."
+      },
+      {
+        "text": "E) Es un sinónimo exacto de negligencia profesional o mala praxis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son conceptos legales distintos; el maltrato por negligencia médica es responsabilidad de los tutores legales[cite: 207, 213]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Examen Físico: Oftalmología",
+    "text": "¿Cuál es la función del 'Fondo de Ojo' en el estudio de un lactante con sospecha de maltrato?",
+    "hint": "Es una prueba obligatoria ante sospecha de zamarreo violento[cite: 223].",
+    "options": [
+      {
+        "text": "A) Determinar si el niño necesitará corrección con lentes a futuro.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esa es la función de un control oftalmológico de salud normal, no de una urgencia por maltrato[cite: 217, 226]."
+      },
+      {
+        "text": "B) Detectar hemorragias retinianas, marcador de traumatismo abusivo.",
+        "isCorrect": true,
+        "explanation": "Correcto. Las hemorragias retinianas multicapa son altamente sugerentes de las fuerzas de aceleración del Síndrome de Niño Sacudido[cite: 218, 224]."
+      },
+      {
+        "text": "C) Buscar signos de infección conjuntival bacteriana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La conjuntivitis se evalúa mediante la inspección externa del ojo, no con el oftalmoscopio[cite: 219, 226]."
+      },
+      {
+        "text": "D) Medir la presión intraocular para descartar glaucoma.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se realiza mediante tonometría y no es el objetivo prioritario en la encuesta de maltrato infantil[cite: 220]."
+      },
+      {
+        "text": "E) Evaluar la pigmentación y color normal del iris.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un hallazgo estético y anatómico sin relevancia en el diagnóstico de lesiones traumáticas abusivas[cite: 221, 226]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Inmunización Post-Exposición",
+    "text": "¿Cuál es la profilaxis recomendada para la Hepatitis B tras una agresión sexual en un niño no vacunado?",
+    "hint": "Se busca prevenir una infección viral crónica mediante inmunización inmediata[cite: 235].",
+    "options": [
+      {
+        "text": "A) Administrar antibióticos de amplio espectro vía oral.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los antibióticos no tienen actividad contra el virus de la Hepatitis B[cite: 229, 239]."
+      },
+      {
+        "text": "B) Administrar la vacuna contra Hepatitis B e Inmunoglobulina específica.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe iniciar el esquema de vacunación y añadir inmunoglobulina si el riesgo es alto para proporcionar protección inmediata[cite: 230, 236, 237]."
+      },
+      {
+        "text": "C) Observar el color de las escleras durante el próximo mes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esperar a que aparezca ictericia significa que la infección ya se estableció; el objetivo es la prevención[cite: 231, 240]."
+      },
+      {
+        "text": "D) Lavar la zona genital con alcohol al 70%.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una medida irritante e ineficaz para prevenir una infección viral sistémica post-exposición[cite: 232]."
+      },
+      {
+        "text": "E) Administrar Vitamina C en altas dosis por una semana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La vitamina C no tiene ninguna propiedad profiláctica demostrada contra el virus de la Hepatitis B[cite: 233]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Lesiones Patronadas",
+    "text": "Un niño presenta una equimosis con la forma clara de la hebilla de un cinturón. ¿Cómo se clasifica esta lesión?",
+    "hint": "Las lesiones que 'dibujan' un objeto son evidencia de trauma infligido[cite: 250, 251].",
+    "options": [
+      {
+        "text": "A) Lesión accidental por caída sobre un juguete.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las caídas accidentales suelen dejar marcas irregulares en zonas prominentes, no formas exactas de herramientas u objetos[cite: 244, 250]."
+      },
+      {
+        "text": "B) Lesión figurada (patronada), altamente sugerente de maltrato físico.",
+        "isCorrect": true,
+        "explanation": "Correcto. Las lesiones que reproducen el contorno de un objeto demuestran que este fue utilizado como arma para golpear al niño[cite: 245, 251]."
+      },
+      {
+        "text": "C) Reacción alérgica por contacto con metal (Níquel).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La alergia causa una dermatitis eccematosa pruriginosa crónica, no un moretón traumático instantáneo con forma de hebilla[cite: 246, 253]."
+      },
+      {
+        "text": "D) Mancha mongólica o de nacimiento inusual.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las manchas de nacimiento no tienen formas geométricas de objetos fabricados por el hombre[cite: 247]."
+      },
+      {
+        "text": "E) Infección micótica profunda (tiña).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las infecciones por hongos tienen bordes activos descamativos y crecimiento centrífugo, no aspecto de equimosis figurada[cite: 248]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Terapia Antibiótica",
+    "text": "¿Cuál es el plazo ideal para administrar profilaxis antibiótica tras una agresión sexual infantil?",
+    "hint": "Se busca eliminar patógenos antes de que la infección se establezca[cite: 262].",
+    "options": [
+      {
+        "text": "A) En cualquier momento durante el mes posterior al evento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Pasados los primeros días, el riesgo de que la infección bacteriana ya esté presente y sea más difícil de erradicar es mayor[cite: 256]."
+      },
+      {
+        "text": "B) Idealmente de inmediato y no más allá de las 72 horas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los protocolos de 'Kit de Agresión' recomiendan el inicio precoz para maximizar la efectividad preventiva[cite: 257, 263]."
+      },
+      {
+        "text": "C) Solo si el niño comienza con picos febriles o dolor.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La profilaxis es, por definición, preventiva; esperar a los síntomas es un error de manejo post-agresión[cite: 258]."
+      },
+      {
+        "text": "D) Tras recibir los resultados definitivos de los cultivos vaginales.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los cultivos tardan días; el objetivo del kit de emergencia es el tratamiento empírico inmediato[cite: 259]."
+      },
+      {
+        "text": "E) No se recomiendan antibióticos para evitar resistencia bacteriana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El riesgo de contraer una ITS tras un abuso sexual justifica plenamente el uso de terapia antibiótica preventiva[cite: 260]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Diagnóstico Diferencial Hematológico",
+    "text": "¿Qué exámenes son fundamentales para descartar trastornos hemorrágicos en un niño con moretones sospechosos?",
+    "hint": "Antes de diagnosticar maltrato, se deben excluir causas médicas de sangrado fácil[cite: 273].",
+    "options": [
+      {
+        "text": "A) Solicitar exclusivamente un Hemograma.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El hemograma solo evalúa el número de plaquetas, pero no la función de los factores de la coagulación plasmática[cite: 267, 276]."
+      },
+      {
+        "text": "B) Hemograma, plaquetas, Tiempo de Protrombina (TP) y TTPA.",
+        "isCorrect": true,
+        "explanation": "Correcto. Permiten descartar patologías como hemofilias o enfermedad de Von Willebrand que podrían simular lesiones por golpes[cite: 268, 274]."
+      },
+      {
+        "text": "C) Niveles de plomo y mercurio en sangre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son útiles para estudios de toxicología ambiental, pero no para evaluar la cascada de la coagulación[cite: 269]."
+      },
+      {
+        "text": "D) Urocultivo y sedimento urinario.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tienen ninguna relación con la evaluación del sistema hematológico o de coagulación[cite: 270]."
+      },
+      {
+        "text": "E) Glicemia capilar y HbA1c.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se utilizan para el manejo de la diabetes y no aportan información sobre trastornos del sangrado[cite: 271]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Hospitalización por Riesgo Social",
+    "text": "¿Cuál es la indicación de hospitalización por 'Riesgo Social' en un caso de sospecha de maltrato?",
+    "hint": "El hospital actúa como un refugio seguro temporal mientras se judicializa el caso[cite: 285].",
+    "options": [
+      {
+        "text": "A) Cuando las camas del hospital están desocupadas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La hospitalización por riesgo social responde a una necesidad de protección del menor, no a la disponibilidad de recursos[cite: 279]."
+      },
+      {
+        "text": "B) Cuando no se garantiza la seguridad del niño en su hogar mientras se investiga.",
+        "isCorrect": true,
+        "explanation": "Correcto. Si el médico sospecha que el niño volverá a ser agredido si recibe el alta, debe hospitalizarlo para su resguardo físico[cite: 280, 286]."
+      },
+      {
+        "text": "C) Cuando la familia tiene bajos recursos económicos para el transporte.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los problemas financieros deben derivarse a asistencia social, pero no justifican una hospitalización por maltrato per se[cite: 281]."
+      },
+      {
+        "text": "D) Solo en casos donde el niño tenga un diagnóstico de cáncer activo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La indicación de riesgo social es independiente de la patología médica basal del niño[cite: 282]."
+      },
+      {
+        "text": "E) Esta categoría de ingreso no existe en el sistema de salud.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una figura legal y médica ampliamente reconocida y utilizada en los servicios de pediatría de Chile[cite: 283]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Diagnóstico Diferencial: Intoxicaciones",
+    "text": "¿Qué es el 'Ribete de Burton' en el contexto del diagnóstico diferencial?",
+    "hint": "Es un signo de exposición crónica a un metal pesado[cite: 295].",
+    "options": [
+      {
+        "text": "A) Un tipo de hematoma lineal en el antebrazo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No corresponde a una lesión traumática por impacto[cite: 289]."
+      },
+      {
+        "text": "B) Una línea grisácea en las encías por intoxicación con plomo.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un signo de saturnismo crónico. Puede confundirse con mala higiene o lesiones orales en niños descuidados[cite: 290, 296]."
+      },
+      {
+        "text": "C) Una quemadura profunda por contacto con ácidos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las quemaduras químicas tienen una apariencia erosiva y necrótica totalmente distinta[cite: 291]."
+      },
+      {
+        "text": "D) Una fractura de costilla en proceso de consolidación.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un signo dermatológico/mucoso, no un hallazgo radiológico óseo[cite: 292]."
+      },
+      {
+        "text": "E) Un signo clínico de abuso sexual crónico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene ninguna relación con la evaluación del área genital o abuso sexual[cite: 293]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Maltrato Psicológico",
+    "text": "¿Cuál es el síntoma más frecuente del maltrato psicológico crónico en adolescentes?",
+    "hint": "El daño emocional afecta profundamente la salud mental y la autopercepción[cite: 305].",
+    "options": [
+      {
+        "text": "A) Aumento inusual de la estatura (talla alta).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. De hecho, el estrés extremo crónico puede llevar al enanismo psicosocial por inhibición de la GH[cite: 299]."
+      },
+      {
+        "text": "B) Baja autoestima, ideación suicida y ansiedad.",
+        "isCorrect": true,
+        "explanation": "Correcto. El impacto emocional es devastador, traduciéndose en trastornos del ánimo, autolesiones y vulnerabilidad psicológica a largo plazo[cite: 300, 306]."
+      },
+      {
+        "text": "C) Aumento desmedido del apetito (hambre constante).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque puede haber ansiedad, la depresión suele cursar con inapetencia o trastornos alimentarios restrictivos[cite: 301]."
+      },
+      {
+        "text": "D) Sueño reparador y de larga duración.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las víctimas suelen presentar insomnio, pesadillas y terrores nocturnos por hipervigilancia[cite: 302]."
+      },
+      {
+        "text": "E) Mejora significativa en el rendimiento escolar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El trauma interfiere con la concentración y la memoria, provocando habitualmente una caída en las notas[cite: 303]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Lesiones en Zonas Protegidas",
+    "text": "Un preescolar presenta una equimosis en el pabellón auricular. ¿Qué sugiere esta ubicación?",
+    "hint": "Las orejas son zonas protegidas; es muy difícil golpearlas accidentalmente en una caída[cite: 315].",
+    "options": [
+      {
+        "text": "A) Que el niño utiliza audífonos demasiado ajustados.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un distractor poco probable para la causa de un moretón profundo en la oreja[cite: 309]."
+      },
+      {
+        "text": "B) Alta sospecha de maltrato (zamarreo o tirones violentos).",
+        "isCorrect": true,
+        "explanation": "Correcto. Los moretones en las orejas, cuello o mejillas son marcadores clásicos de trauma infligido por un adulto[cite: 310, 316]."
+      },
+      {
+        "text": "C) Es un lugar común para golpes por caídas fortuitas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En las caídas accidentales se golpean frente, codos o rodillas, pero rara vez la oreja[cite: 311, 315]."
+      },
+      {
+        "text": "D) Se debe a la exposición al frío intenso del invierno.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El frío causa palidez o sabañones, no una equimosis traumática aislada[cite: 312]."
+      },
+      {
+        "text": "E) Es un hemangioma o mancha de nacimiento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los hemangiomas son lesiones vasculares proliferativas con características de color y relieve distintas a un moretón agudo[cite: 313]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Equipo Multidisciplinario",
+    "text": "¿Cuál es el rol principal del Trabajador Social en un equipo de atención al maltrato infantil?",
+    "hint": "El médico evalúa el cuerpo; el trabajador social evalúa el contexto familiar[cite: 325, 326].",
+    "options": [
+      {
+        "text": "A) Curar quirúrgicamente las heridas físicas del niño.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta es una función técnica exclusiva de cirujanos o médicos tratantes[cite: 319]."
+      },
+      {
+        "text": "B) Evaluar el entorno familiar, redes de apoyo y coordinar protección judicial.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es fundamental para determinar la seguridad del egreso del niño y la viabilidad del cuidado por terceros[cite: 320, 326]."
+      },
+      {
+        "text": "C) Realizar el levantamiento del cadáver y la autopsia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta es una labor de médicos forenses del Servicio Médico Legal[cite: 321]."
+      },
+      {
+        "text": "D) Recetar medicamentos ansiolíticos para el estrés.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La prescripción de fármacos es un acto médico restringido por ley[cite: 322]."
+      },
+      {
+        "text": "E) Solo se encarga de llenar formularios administrativos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su intervención es clínica y estratégica para la protección de derechos del niño[cite: 323]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Diagnóstico Diferencial: Dermatitis",
+    "text": "¿Cómo se diferencia una dermatitis del pañal común del maltrato por negligencia?",
+    "hint": "Evalúe la severidad, cronicidad y respuesta a consejos médicos[cite: 335].",
+    "options": [
+      {
+        "text": "A) La dermatitis del pañal es siempre signo de maltrato.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un hallazgo muy frecuente y accidental por contacto con orina o heces en bebés sanos[cite: 329]."
+      },
+      {
+        "text": "B) Es sospechosa cuando es extrema, persistente y asociada a falta total de higiene.",
+        "isCorrect": true,
+        "explanation": "Correcto. El descuido prolongado en el aseo básico que causa llagas infectadas sin búsqueda de atención sugiere una negligencia en el cuidado[cite: 330, 336]."
+      },
+      {
+        "text": "C) Se diferencia porque el maltrato es causado por un virus.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El maltrato es un acto humano de omisión o comisión, no una enfermedad viral[cite: 331]."
+      },
+      {
+        "text": "D) Es una fractura oculta que se manifiesta en la piel.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La dermatitis es una lesión cutánea inflamatoria, sin relación con el sistema óseo[cite: 332]."
+      },
+      {
+        "text": "E) No tiene ninguna relación con el nivel de cuidado familiar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Refleja directamente la calidad y frecuencia de las rutinas de higiene del cuidador[cite: 333]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Relato y Sexualización Precoz",
+    "text": "¿Cuál de los siguientes es un indicador de sospecha de abuso sexual en el relato de un niño?",
+    "hint": "El niño demuestra saber cosas que solo un adulto expuesto a actos sexuales conocería[cite: 345, 346].",
+    "options": [
+      {
+        "text": "A) Conocimiento sexual inapropiado para su edad o juegos explícitos con muñecos.",
+        "isCorrect": true,
+        "explanation": "Correcto. La sexualización precoz en la conducta o el dibujo es un marcador muy potente de haber sido expuesto a actos sexuales abusivos[cite: 339, 346]."
+      },
+      {
+        "text": "B) Que el niño sepa de forma básica de dónde vienen los bebés.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una curiosidad normal que suele responderse de forma educativa acorde a la edad[cite: 340]."
+      },
+      {
+        "text": "C) Que el niño pregunte por qué los adultos se besan.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Representa un cuestionamiento normal sobre las interacciones sociales que observa en su entorno[cite: 341]."
+      },
+      {
+        "text": "D) Que el niño juegue a 'la mamá y al papá' de forma lúdica normal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un juego simbólico fundamental para el desarrollo del niño en etapa preescolar[cite: 342]."
+      },
+      {
+        "text": "E) Que el niño manifieste que no le gustan las verduras.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una conducta común de neofobia alimentaria, sin ninguna relación con el abuso sexual[cite: 343]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Medidas de Protección Judicial",
+    "text": "¿Qué debe hacer el médico si los padres se niegan a hospitalizar a un niño ante una sospecha grave de maltrato?",
+    "hint": "El derecho a la vida y protección del menor prima sobre la patria potestad ante sospecha de delito[cite: 355].",
+    "options": [
+      {
+        "text": "A) Dejarlos ir porque los padres deciden sobre el niño legalmente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los médicos tienen el deber legal de impedir la salida si existe riesgo para la integridad del menor[cite: 349]."
+      },
+      {
+        "text": "B) Solicitar una medida de protección inmediata al Tribunal de Familia.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe retener al niño por orden judicial transitoria para garantizar su seguridad mientras se investigan los hechos[cite: 350, 356]."
+      },
+      {
+        "text": "C) Llamar a seguridad del hospital para expulsar a los padres.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El objetivo es proteger al niño mediante los canales legales correspondientes, no el conflicto físico[cite: 351]."
+      },
+      {
+        "text": "D) Entregarles un folleto informativo sobre los riesgos del maltrato.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una medida totalmente insuficiente ante un riesgo vital o físico inminente por abuso[cite: 352]."
+      },
+      {
+        "text": "E) No hacer nada, el médico no tiene autoridad fuera de la medicina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El médico es un funcionario público con deberes legales de protección de derechos humanos[cite: 353, 356]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Legislación: Castigo Físico",
+    "text": "¿Cuál es la postura de la ley chilena actual respecto al 'castigo corporal' disciplinario suave?",
+    "hint": "Chile ha legislado hacia la prohibición total del castigo físico como método de crianza[cite: 365].",
+    "options": [
+      {
+        "text": "A) El castigo corporal está permitido si no deja marcas físicas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La ley no distingue por la presencia de marcas; prohíbe el acto físico violento per se[cite: 359]."
+      },
+      {
+        "text": "B) La ley prohíbe todo tipo de castigo físico o trato humillante.",
+        "isCorrect": true,
+        "explanation": "Correcto. No existe el 'derecho a corrección' mediante la violencia; se promueve la crianza respetuosa y sin golpes[cite: 360, 366]."
+      },
+      {
+        "text": "C) Solo se permite el uso moderado de correcciones con la mano.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cualquier forma de golpe físico es considerada una vulneración de derechos según el marco legal vigente[cite: 361]."
+      },
+      {
+        "text": "D) Depende exclusivamente de si el niño se ha portado mal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El mal comportamiento del niño no justifica legalmente el uso de la fuerza física en su contra[cite: 362]."
+      },
+      {
+        "text": "E) El castigo físico es obligatorio para una buena educación.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una creencia cultural arcaica que la ley actual busca erradicar por sus efectos negativos en el desarrollo[cite: 363]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Diagnóstico Diferencial: Ortopedia",
+    "text": "¿Qué es una 'Fractura por estrés' y por qué importa en el diagnóstico diferencial de maltrato?",
+    "hint": "Aparece por uso excesivo en deportistas jóvenes o bailarines[cite: 375].",
+    "options": [
+      {
+        "text": "A) Una fractura causada por el estrés emocional de los cuidadores.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El nombre se refiere al estrés mecánico sobre el hueso, no al estado emocional humano[cite: 369]."
+      },
+      {
+        "text": "B) Una fractura pequeña por uso excesivo que el contexto diferencia del trauma.",
+        "isCorrect": true,
+        "explanation": "Correcto. Conocer las causas accidentales u ocupacionales evita falsas acusaciones de maltrato físico infligido[cite: 370, 376]."
+      },
+      {
+        "text": "C) Es exactamente igual a una fractura por un golpe directo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tienen un aspecto radiológico distinto (línea de fractura sutil o callo sin trauma agudo)[cite: 371]."
+      },
+      {
+        "text": "D) Es un tipo de fractura que solo ocurre en los huesos del cráneo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se da mayoritariamente en huesos de carga como metatarsos o tibia[cite: 372]."
+      },
+      {
+        "text": "E) Es un invento médico para ocultar casos de maltrato real.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una entidad clínica bien documentada en medicina del deporte pediátrica[cite: 373]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Microbiología Forense",
+    "text": "¿Cuál es la relevancia de detectar una infección por Gonococo en el área anal o faríngea de un niño?",
+    "hint": "El gonococo no se transmite por objetos; requiere contacto directo de mucosas[cite: 385].",
+    "options": [
+      {
+        "text": "A) Indica que el niño ingirió alimentos en mal estado.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Neisseria gonorrhoeae no es un patógeno de transmisión alimentaria[cite: 379]."
+      },
+      {
+        "text": "B) Es una prueba definitiva de contacto sexual y abuso.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al no existir transmisión por fómites, su presencia fuera del periodo neonatal confirma el abuso sexual[cite: 380, 386]."
+      },
+      {
+        "text": "C) Es parte de la flora bacteriana normal del intestino del niño.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es siempre un patógeno y su presencia es anormal en pediatría[cite: 381]."
+      },
+      {
+        "text": "D) Indica simplemente una falta de higiene bucal o dental.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La higiene no previene ni causa la colonización por gonococo[cite: 382]."
+      },
+      {
+        "text": "E) Se adquiere comúnmente al usar baños públicos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un mito médico; la bacteria muere rápidamente fuera del cuerpo humano[cite: 383, 385]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Evaluación del Relato Familiar",
+    "text": "¿Qué se debe evaluar prioritariamente en la entrevista a los padres ante una lesión sospechosa?",
+    "hint": "Los cuidadores que maltratan a menudo cambian la historia o esperan días antes de consultar[cite: 395].",
+    "options": [
+      {
+        "text": "A) Si los padres se muestran simpáticos y colaboradores con el personal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La simpatía puede ser parte de la fachada en casos de Munchausen o abuso encubierto[cite: 389]."
+      },
+      {
+        "text": "B) La concordancia entre relatos, la coherencia con la lesión y el tiempo de consulta.",
+        "isCorrect": true,
+        "explanation": "Correcto. El retraso injustificado en buscar atención médica es uno de los indicadores de alarma más sólidos de maltrato[cite: 390, 396]."
+      },
+      {
+        "text": "C) El tipo de vestimenta y marca de ropa que utiliza la familia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El nivel socioeconómico no define la presencia o ausencia de maltrato infantil[cite: 391]."
+      },
+      {
+        "text": "D) Si los padres llegaron al hospital en vehículo propio o público.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene ninguna relevancia en la evaluación de la intencionalidad de una lesión[cite: 392]."
+      },
+      {
+        "text": "E) Solo se debe entrevistar al niño, ignorando el relato de los padres.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es vital contrastar ambas versiones para detectar inconsistencias diagnósticas[cite: 393]."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Antídotos en Maltrato",
+    "text": "¿Qué antídoto se utiliza si se sospecha que se drogó a un niño con opioides para maltratarlo?",
+    "hint": "Se usa para revertir la depresión respiratoria por morfina o tramadol[cite: 406].",
+    "options": [
+      {
+        "text": "A) Atropina endovenosa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se utiliza para intoxicaciones por organofosforados, no para opioides[cite: 400]."
+      },
+      {
+        "text": "B) Naloxona.",
+        "isCorrect": true,
+        "explanation": "Correcto. Revierte rápidamente el efecto de los opioides que pueden haber sido usados para sedar al niño por negligencia o abuso[cite: 401, 407]."
+      },
+      {
+        "text": "C) Flumazenil.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el antídoto específico para intoxicaciones por benzodiazepinas[cite: 402]."
+      },
+      {
+        "text": "D) Vitamina K1.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se usa para revertir el efecto de anticoagulantes o raticidas cumarínicos[cite: 403]."
+      },
+      {
+        "text": "E) Carbón activado en dosis única.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un adsorbente gástrico general, no un antídoto específico que revierta el efecto sistémico instaurado[cite: 404]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Cronología de Lesiones",
+    "text": "¿Qué significa que una lesión sea 'perimortal' en medicina forense?",
+    "hint": "Ayuda a determinar si la lesión ocurrió durante la agonía[cite: 416].",
+    "options": [
+      {
+        "text": "A) Que la lesión ocurrió muchos años antes del fallecimiento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Eso se denomina lesión antigua o secuela de larga data[cite: 410]."
+      },
+      {
+        "text": "B) Que ocurrió en el momento cercano a la muerte.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un hallazgo crucial en casos de infanticidio para determinar si una agresión fue la causa del deceso[cite: 411, 417]."
+      },
+      {
+        "text": "C) Que la lesión no tiene ninguna importancia médico-legal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Toda lesión perimortal es de máxima relevancia para el peritaje criminal[cite: 412]."
+      },
+      {
+        "text": "D) Que el niño ya se encontraba totalmente sano al momento de morir.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indica precisamente la presencia de un daño reciente vinculado al proceso de muerte[cite: 413]."
+      },
+      {
+        "text": "E) Que la lesión ocurrió exactamente 10 años después de morir.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las lesiones post-mórtem tienen características de momificación o putrefacción distintas[cite: 414]."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Dinámica de Revelación",
+    "text": "¿Cuál es la conducta correcta si un niño con quemaduras de cigarrillo dice que él mismo se las hizo?",
+    "hint": "Los niños víctimas a menudo se culpan a sí mismos o protegen al agresor por miedo[cite: 426].",
+    "options": [
+      {
+        "text": "A) Creerle y dar el alta, ya que el niño nunca miente sobre su culpa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La autoinculpación es un mecanismo de defensa común en el maltrato crónico[cite: 420, 427]."
+      },
+      {
+        "text": "B) Sospechar que el niño está protegiendo al agresor y realizar el estudio de maltrato.",
+        "isCorrect": true,
+        "explanation": "Correcto. El médico debe investigar más allá de la versión inicial si la lesión es inconsistente con la capacidad del niño[cite: 421, 427]."
+      },
+      {
+        "text": "C) Castigar severamente al niño por jugar con fuego en el hospital.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El castigo en una supuesta víctima es una forma de maltrato adicional e injustificado[cite: 422]."
+      },
+      {
+        "text": "D) Ignorar el caso ya que no hay una denuncia de terceros.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El médico tiene el deber de oficio de detectar y denunciar sospechas basadas en la evidencia física[cite: 423]."
+      },
+      {
+        "text": "E) Darle un cigarrillo para ver si realmente sabe cómo quemarse.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Conducta antiética y constitutiva de maltrato por parte del profesional[cite: 424]."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Maltrato Prenatal",
+    "text": "¿Cuál de los siguientes es un indicador de 'Maltrato Fetal' por negligencia?",
+    "hint": "Es una vulneración de los derechos del futuro niño mediante la exposición a tóxicos[cite: 436, 437].",
+    "options": [
+      {
+        "text": "A) Que la madre consuma exclusivamente frutas cítricas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una preferencia dietética que no supone un daño directo al desarrollo fetal[cite: 430]."
+      },
+      {
+        "text": "B) El consumo de drogas o alcohol durante el embarazo.",
+        "isCorrect": true,
+        "explanation": "Correcto. Sustancias que causan daños irreversibles como el Síndrome de Alcohol Fetal son consideradas negligencia prenatal[cite: 431, 437]."
+      },
+      {
+        "text": "C) Que la madre realice caminatas diarias o yoga suave.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El ejercicio moderado supervisado es beneficioso para la gestación[cite: 432]."
+      },
+      {
+        "text": "D) Que la madre mantenga su actividad laboral normal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Trabajar no constituye maltrato fetal si las condiciones son seguras según la ley laboral[cite: 433]."
+      },
+      {
+        "text": "E) No existe el concepto médico-legal de maltrato fetal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Existe y obliga a la intervención de redes de protección al momento del nacimiento[cite: 434]."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Diagnóstico Diferencial: Traumatismos Comunes",
+    "text": "¿Qué es el 'Síndrome de la Niñera' (Pronación dolorosa) y cómo se diferencia del maltrato?",
+    "hint": "Ocurre típicamente al levantar al niño de una sola mano con el brazo extendido[cite: 447, 448].",
+    "options": [
+      {
+        "text": "A) Es una fractura grave del húmero proximal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una subluxación ligamentosa de la cabeza del radio, no una rotura ósea[cite: 440]."
+      },
+      {
+        "text": "B) Es una subluxación del radio por un tirón, común de forma accidental.",
+        "isCorrect": true,
+        "explanation": "Correcto. Aunque usualmente es accidental, si es repetitivo o el relato es violento, obliga a evaluar el cuidado familiar[cite: 441, 442, 448]."
+      },
+      {
+        "text": "C) Es un tipo de quemadura por fricción con alfombras.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El cuadro es puramente osteoarticular y doloroso, sin compromiso cutáneo[cite: 443]."
+      },
+      {
+        "text": "D) Es una infección bacteriana del canal auditivo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sin ninguna relación con el sistema musculoesquelético del brazo[cite: 444]."
+      },
+      {
+        "text": "E) Es un problema psicológico de rechazo al cuidador.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La causa es una tracción mecánica física real en la articulación del codo[cite: 445]."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Secuelas a Largo Plazo",
+    "text": "¿Cuál es la principal secuela psicológica a largo plazo del abuso sexual infantil no tratado?",
+    "hint": "El trauma afecta profundamente el desarrollo de la personalidad y las relaciones futuras[cite: 457, 458].",
+    "options": [
+      {
+        "text": "A) Ceguera cortical por daño traumático.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una secuela típica del abuso sexual sin trauma craneal asociado[cite: 451]."
+      },
+      {
+        "text": "B) Trastornos de estrés postraumático, depresión y riesgo de revictimización.",
+        "isCorrect": true,
+        "explanation": "Correcto. El impacto es neurobiológico y psicológico, afectando la esfera sexual y afectiva del adulto[cite: 452, 458]."
+      },
+      {
+        "text": "C) Fracturas óseas recurrentes por fragilidad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto sugeriría Osteogénesis Imperfecta, no una secuela de abuso sexual[cite: 453]."
+      },
+      {
+        "text": "D) Alergias alimentarias múltiples de inicio tardío.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No existe evidencia que vincule el abuso sexual con la patogenia de las alergias IgE mediadas[cite: 454]."
+      },
+      {
+        "text": "E) Diabetes Mellitus Tipo 1 de origen autoinmune.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una enfermedad con bases genéticas e inmunológicas distintas al trauma psicológico[cite: 455]."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Examen Ginecológico Forense",
+    "text": "¿Qué se busca evaluar prioritariamente en el fondo de saco vaginal tras una agresión reciente?",
+    "hint": "Es una zona anatómica donde se puede acumular evidencia biológica importante[cite: 467].",
+    "options": [
+      {
+        "text": "A) Si la paciente tiene quistes ováricos benignos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es el objetivo de un examen pericial por agresión sexual[cite: 461]."
+      },
+      {
+        "text": "B) Presencia de desgarros, equimosis o restos biológicos (semen).",
+        "isCorrect": true,
+        "explanation": "Correcto. El examen pericial busca documentar lesiones traumáticas y recolectar evidencia del agresor[cite: 462, 468]."
+      },
+      {
+        "text": "C) Medir exactamente el diámetro del útero.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un dato anatómico que no aporta información sobre la agresión reciente[cite: 463]."
+      },
+      {
+        "text": "D) Determinar si existe un embarazo gemelar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El embarazo no es detectable inmediatamente tras la agresión mediante examen físico[cite: 464]."
+      },
+      {
+        "text": "E) Esta zona no se evalúa nunca en pediatría.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su evaluación es parte fundamental del examen ginecológico pericial completo ante sospecha de penetración[cite: 465, 468]."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Documentación de Lesiones",
+    "text": "¿Cuál es la importancia de la 'Fotografía Clínica' en el manejo del maltrato infantil?",
+    "hint": "Una imagen objetiva es fundamental en un juicio, ya que las lesiones sanan con el tiempo[cite: 477, 478].",
+    "options": [
+      {
+        "text": "A) Para publicarla en redes sociales como denuncia ciudadana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una falta ética y legal gravísima que vulnera la privacidad del menor[cite: 471, 472]."
+      },
+      {
+        "text": "B) Documentar las lesiones para el proceso judicial siguiendo protocolos de privacidad.",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite que peritos forenses que no estuvieron presentes puedan evaluar las lesiones originales con precisión[cite: 472, 478]."
+      },
+      {
+        "text": "C) Para el álbum familiar de recuerdos del hospital.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las fotos clínicas son documentos médico-legales confidenciales[cite: 473]."
+      },
+      {
+        "text": "D) No se deben sacar fotos nunca bajo ninguna circunstancia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son una herramienta diagnóstica y forense avalada por protocolos internacionales[cite: 474]."
+      },
+      {
+        "text": "E) Solo para decorar la ficha médica electrónica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su fin es probatorio y de registro clínico riguroso, no estético[cite: 475]."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Maltrato Infantil",
+    "topic": "Ética y Deber Médico",
+    "text": "¿Cuál es el deber del médico tras haber realizado la denuncia formal de maltrato?",
+    "hint": "El médico es parte de la red de protección continua, no solo un denunciante[cite: 487].",
+    "options": [
+      {
+        "text": "A) Olvidarse por completo del caso una vez enviada la denuncia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El médico debe asegurar que el niño reciba el seguimiento de salud necesario tras el evento[cite: 481]."
+      },
+      {
+        "text": "B) Seguir la evolución del niño y colaborar con los peritajes de fiscalía.",
+        "isCorrect": true,
+        "explanation": "Correcto. El rol médico termina solo cuando se garantiza que el niño está a salvo y en proceso de recuperación física y mental[cite: 482, 488]."
+      },
+      {
+        "text": "C) Intentar atrapar al agresor personalmente en su domicilio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La persecución penal es labor exclusiva de las policías y el Ministerio Público[cite: 483]."
+      },
+      {
+        "text": "D) Cobrarle una multa económica a la familia por los gastos médicos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El médico no tiene facultades sancionatorias ni recaudatorias de este tipo[cite: 484]."
+      },
+      {
+        "text": "E) Cambiarse de hospital para no testificar en el juicio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Testificar ante la justicia es una obligación legal del profesional de salud que detectó el caso[cite: 485]."
+      }
+    ]
+  }
+]
