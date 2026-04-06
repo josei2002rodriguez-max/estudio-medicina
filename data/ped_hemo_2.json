@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Anemia Ferropénica",
+    "text": "Un lactante de 15 meses, con antecedente de lactancia materna exclusiva hasta los 8 meses y actual consumo de leche de vaca de >700cc/día, presenta palidez de piel y mucosas. El hemograma muestra: Hb 8.2 g/dL, VCM 65 fL, HCM 21 pg, ADE (RDW) 18% y Reticulocitos 0.5%. ¿Cuál es el diagnóstico más probable?",
+    "hint": "Observe la combinación de microcitosis, hipocromía, ADE elevado e historia nutricional de alta ingesta de leche de vaca.",
+    "options": [
+      {
+        "text": "A) Talasemia menor.",
+        "isCorrect": false,
+        "explanation": "En la talasemia el ADE (RDW) suele ser normal y el recuento de glóbulos rojos es desproporcionadamente alto para el nivel de hemoglobina (Índice de Mentzer < 13)."
+      },
+      {
+        "text": "B) Anemia por deficiencia de hierro (Ferropénica).",
+        "isCorrect": true,
+        "explanation": "Es la causa más común de anemia microcítica en pediatría. El ADE elevado (anisocitosis) y los reticulocitos bajos (anemia hiporegenerativa) junto a la historia dietética confirman el diagnóstico."
+      },
+      {
+        "text": "C) Anemia de enfermedades crónicas.",
+        "isCorrect": false,
+        "explanation": "Suele ser normocítica-normocrómica inicialmente y se asocia a patologías inflamatorias o infecciosas de larga data."
+      },
+      {
+        "text": "D) Anemia sideroblástica.",
+        "isCorrect": false,
+        "explanation": "Es infrecuente en pediatría y mostraría una población celular dimórfica o depósitos de hierro en anillo en la médula ósea."
+      },
+      {
+        "text": "E) Esferocitosis hereditaria.",
+        "isCorrect": false,
+        "explanation": "Cursa con VCM normal o bajo, pero con CHCM elevada y es una anemia de tipo hemolítico (hiperregenerativa)."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Anemia Fisiológica del Lactante",
+    "text": "¿A qué edad se produce habitualmente el nadir (punto más bajo) de hemoglobina en el lactante sano nacido a término?",
+    "hint": "Ocurre debido al aumento de la oxigenación tisular tras el nacimiento que frena la eritropoyetina.",
+    "options": [
+      {
+        "text": "A) Al nacer.",
+        "isCorrect": false,
+        "explanation": "Al nacer el recién nacido tiene los niveles de hemoglobina más altos de toda la vida pediátrica."
+      },
+      {
+        "text": "B) Entre las 8 y 12 semanas de vida.",
+        "isCorrect": true,
+        "explanation": "Es el periodo de la anemia fisiológica del lactante, donde la Hb puede bajar hasta 9-11 g/dL sin requerir tratamiento."
+      },
+      {
+        "text": "C) A los 6 meses.",
+        "isCorrect": false,
+        "explanation": "A esta edad los niveles de hemoglobina ya deberían estar en ascenso tras el inicio de la eritropoyesis activa."
+      },
+      {
+        "text": "D) Al año de vida.",
+        "isCorrect": false,
+        "explanation": "Al año la anemia suele ser ferropénica por causas dietéticas, no fisiológica."
+      },
+      {
+        "text": "E) A las 2 semanas.",
+        "isCorrect": false,
+        "explanation": "Demasiado pronto; la vida media del eritrocito fetal aún permite mantener niveles altos."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Crisis Aplásica",
+    "text": "Un niño con Esferocitosis Hereditaria presenta fiebre alta y una caída brusca de la Hb de 10 a 5 g/dL, con reticulocitos de 0.1%. ¿Cuál es el agente infeccioso más probablemente implicado?",
+    "hint": "Este virus infecta directamente a los precursores eritroides en la médula ósea.",
+    "options": [
+      {
+        "text": "A) Virus de Epstein-Barr.",
+        "isCorrect": false,
+        "explanation": "Causa mononucleosis y puede dar hemólisis autoinmune, pero no típicamente aplasia pura de la serie roja."
+      },
+      {
+        "text": "B) Parvovirus B19.",
+        "isCorrect": true,
+        "explanation": "Es el agente causal de la crisis aplásica transitoria en pacientes con anemias hemolíticas crónicas debido a su tropismo por el receptor P de los eritroblastos."
+      },
+      {
+        "text": "C) Citomegalovirus.",
+        "isCorrect": false,
+        "explanation": "Suele causar citopenias en contextos de inmunosupresión o infección congénita, no crisis aplásicas agudas típicas."
+      },
+      {
+        "text": "D) Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "Causa infecciones supurativas y sepsis, no es un virus con tropismo medular."
+      },
+      {
+        "text": "E) Hepatitis A.",
+        "isCorrect": false,
+        "explanation": "Puede causar anemia aplásica global post-hepatitis, pero es un cuadro mucho más severo y tardío."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Anemia Megaloblástica",
+    "text": "¿Cuál es el hallazgo clásico en el frotis de sangre periférica de un paciente con déficit de Vitamina B12 o Ácido Fólico?",
+    "hint": "El defecto en la síntesis de ADN causa asincronía madurativa nuclear.",
+    "options": [
+      {
+        "text": "A) Esquistocitos.",
+        "isCorrect": false,
+        "explanation": "Indican fragmentación mecánica (anemia microangiopática)."
+      },
+      {
+        "text": "B) Neutrófilos hipersegmentados (pleocariocitos).",
+        "isCorrect": true,
+        "explanation": "Es uno de los signos más precoces y sensibles de la anemia megaloblástica, junto con la macrocitosis (VCM elevado)."
+      },
+      {
+        "text": "C) Células en diana (codocitos).",
+        "isCorrect": false,
+        "explanation": "Típicos de talasemias, hepatopatías o tras esplenectomía."
+      },
+      {
+        "text": "D) Microesferocitos.",
+        "isCorrect": false,
+        "explanation": "Sugerentes de esferocitosis hereditaria o anemia hemolítica autoinmune."
+      },
+      {
+        "text": "E) Cuerpos de Heinz.",
+        "isCorrect": false,
+        "explanation": "Indican hemoglobina desnaturalizada, típica del déficit de G6PD."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Tratamiento Ferropenia",
+    "text": "Se inicia tratamiento con sulfato ferroso a dosis de 5 mg/kg/día en un niño con ferropenia confirmada. ¿Cuál es el primer parámetro de laboratorio que se eleva indicando respuesta al tratamiento?",
+    "hint": "Es la respuesta medular temprana a la llegada de 'materia prima'.",
+    "options": [
+      {
+        "text": "A) Hemoglobina.",
+        "isCorrect": false,
+        "explanation": "La Hb comienza a subir tras 1-2 semanas, pero no es el primer cambio."
+      },
+      {
+        "text": "B) Recuento de Reticulocitos.",
+        "isCorrect": true,
+        "explanation": "El 'pico reticulocitario' ocurre entre el 5° y 10° día tras iniciar el hierro suplementario."
+      },
+      {
+        "text": "C) Ferritina sérica.",
+        "isCorrect": false,
+        "explanation": "Es el último parámetro en normalizarse, ya que representa los depósitos de reserva."
+      },
+      {
+        "text": "D) VCM.",
+        "isCorrect": false,
+        "explanation": "El tamaño celular cambia lentamente a medida que se reemplaza la población de eritrocitos vieja."
+      },
+      {
+        "text": "E) ADE (RDW).",
+        "isCorrect": false,
+        "explanation": "Incluso puede aumentar transitoriamente al coexistir dos poblaciones celulares distintas (microcítica y normocítica)."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Terminología y Distractores",
+    "text": "¿Qué es la 'Hemicirila' en el contexto del estudio de las anemias infantiles?",
+    "hint": "Sea cuidadoso con términos que parecen médicos pero no lo son.",
+    "options": [
+      {
+        "text": "A) Un tipo de glóbulo rojo joven.",
+        "isCorrect": false,
+        "explanation": "No existe tal estructura en la hematología pediátrica."
+      },
+      {
+        "text": "B) No es un término médico relacionado con anemia (es un coloquialismo ajeno a la medicina).",
+        "isCorrect": true,
+        "explanation": "Es un distractor absoluto. Es fundamental reconocer la terminología científica para no confundirse con conceptos inexistentes en la literatura médica."
+      },
+      {
+        "text": "C) Una forma de transporte de hierro.",
+        "isCorrect": false,
+        "explanation": "La proteína de transporte es la transferrina, no existe la hemicirila."
+      },
+      {
+        "text": "D) Una variante de la hemoglobina fetal.",
+        "isCorrect": false,
+        "explanation": "Las variantes son HbF, HbA, HbA2, etc."
+      },
+      {
+        "text": "E) Una enzima del ciclo de Krebs.",
+        "isCorrect": false,
+        "explanation": "Término inventado para confundir al estudiante."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Anemia de Células Falciformes",
+    "text": "En un paciente con Anemia de Células Falciformes (Drepanocitosis), ¿qué microorganismo es la causa más frecuente de Osteomielitis?",
+    "hint": "Es una asociación clásica de este tipo de anemia hemolítica.",
+    "options": [
+      {
+        "text": "A) Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "Es la causa más común en la población general, pero en falciformes es superada por otro germen."
+      },
+      {
+        "text": "B) Salmonella spp.",
+        "isCorrect": true,
+        "explanation": "Debido a los microinfartos intestinales y la asplenia funcional, la Salmonella invade el torrente sanguíneo y coloniza el hueso con alta frecuencia en estos pacientes."
+      },
+      {
+        "text": "C) Pseudomonas aeruginosa.",
+        "isCorrect": false,
+        "explanation": "Típica de heridas punzantes en el pie o pacientes con fibrosis quística, no de drepanocitosis."
+      },
+      {
+        "text": "D) Candida albicans.",
+        "isCorrect": false,
+        "explanation": "Causa infecciones en inmunocomprometidos severos, no es típica de la osteomielitis en falciformes."
+      },
+      {
+        "text": "E) Streptococcus pyogenes.",
+        "isCorrect": false,
+        "explanation": "Asociado a celulitis y fascitis, no es el germen característico de esta asociación."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Refractariedad al Tratamiento",
+    "text": "¿Cuál es la conducta recomendada frente a una anemia ferropénica que NO responde al tratamiento oral tras un mes de buena adherencia confirmada?",
+    "hint": "Si el hierro entra por la boca pero no llega a la sangre o se pierde, hay que buscar el porqué.",
+    "options": [
+      {
+        "text": "A) Duplicar la dosis de hierro a 10 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Aumentar la dosis solo incrementará los efectos secundarios gástricos sin resolver el problema de fondo."
+      },
+      {
+        "text": "B) Investigar causas de malabsorción (ej. Celiaquía), pérdidas ocultas (ej. Meckel) o error diagnóstico (ej. Talasemia).",
+        "isCorrect": true,
+        "explanation": "Ante la falla del tratamiento bien llevado, es imperativo buscar patologías que impidan la absorción o causen pérdidas crónicas de sangre."
+      },
+      {
+        "text": "C) Realizar transfusión de glóbulos rojos inmediata.",
+        "isCorrect": false,
+        "explanation": "Solo se indica ante compromiso hemodinámico o anemia sintomática severa, no por falla de respuesta oral."
+      },
+      {
+        "text": "D) Suspender el tratamiento por ineficacia.",
+        "isCorrect": false,
+        "explanation": "La suspensión sin diagnóstico deja al niño en déficit crónico."
+      },
+      {
+        "text": "E) Cambiar a dieta rica en espinacas únicamente.",
+        "isCorrect": false,
+        "explanation": "El hierro de origen vegetal (no hem) tiene bajísima biodisponibilidad y no corrige una anemia establecida."
+      }
+    ]
+  }
+]
