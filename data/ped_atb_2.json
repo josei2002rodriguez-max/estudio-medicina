@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Sinusitis Aguda Bacteriana",
+    "text": "Un escolar de 8 años presenta rinorrea purulenta persistente por 12 días, cefalea y dolor a la palpación de los senos maxilares. Se diagnostica Sinusitis Aguda Bacteriana. ¿Cuál es el tratamiento antibiótico de elección y su duración sugerida?",
+    "hint": "A diferencia del pulmón, en los senos paranasales hay mayor prevalencia de H. influenzae y M. catarrhalis productores de betalactamasas.",
+    "options": [
+      {
+        "text": "A) Amoxicilina 90 mg/kg/día por 5 días.",
+        "isCorrect": false,
+        "explanation": "En sinusitis, un ciclo de 5 días es insuficiente para asegurar la resolución de la inflamación de los senos paranasales."
+      },
+      {
+        "text": "B) Amoxicilina/Ácido Clavulánico (80-90 mg/kg/día de amoxicilina) por 10 a 14 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. El tratamiento de la sinusitis requiere ciclos más largos que la faringitis u OMA simple. La asociación con ácido clavulánico cubre gérmenes resistentes comunes en la vía aérea superior."
+      },
+      {
+        "text": "C) Azitromicina 10 mg/kg/día por 3 días.",
+        "isCorrect": false,
+        "explanation": "Sería la respuesta si el paciente tuviera una alergia confirmada a betalactámicos."
+      },
+      {
+        "text": "D) Ciprofloxacino en gotas nasales únicamente.",
+        "isCorrect": false,
+        "explanation": "Los antibióticos tópicos no penetran en los senos paranasales; el tratamiento debe ser sistémico."
+      },
+      {
+        "text": "E) Penicilina Benzatina 1.200.000 UI IM.",
+        "isCorrect": false,
+        "explanation": "Efectiva para faringoamigdalitis estreptocócica, pero ineficaz contra los gérmenes habituales de la sinusitis."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Neumonía Bacteriana Hospitalizada",
+    "text": "¿Cuál es la dosis de Penicilina G Sódica endovenosa recomendada para el tratamiento de una Neumonía bacteriana grave en un lactante hospitalizado, buscando cubrir adecuadamente al Neumococo?",
+    "hint": "Es la dosis necesaria para vencer la resistencia intermedia del S. pneumoniae en el parénquima pulmonar.",
+    "options": [
+      {
+        "text": "A) 50.000 UI/kg/día.",
+        "isCorrect": false,
+        "explanation": "Esta dosis es propia de la Penicilina V oral para faringitis o esquemas de profilaxis."
+      },
+      {
+        "text": "B) 100.000 UI/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis usada para infecciones menores o profilaxis quirúrgica, insuficiente para el compromiso pulmonar bacteriano franco."
+      },
+      {
+        "text": "C) 200.000 – 250.000 UI/kg/día dividida cada 4-6 horas.",
+        "isCorrect": true,
+        "explanation": "Correcto. En Chile, esta es la dosis estándar para neumonía bacteriana típica hospitalizada. La frecuencia cada 4-6h es vital por la vida media corta del fármaco."
+      },
+      {
+        "text": "D) 1.000.000 UI/kg/día.",
+        "isCorrect": false,
+        "explanation": "Representa una dosis tóxica con riesgo de convulsiones y desequilibrios electrolíticos."
+      },
+      {
+        "text": "E) 10.000 UI/kg/día en dosis única.",
+        "isCorrect": false,
+        "explanation": "Absolutamente insuficiente para el tratamiento de una infección sistémica."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Nitrofurantoína - Farmacodinamia",
+    "text": "En un niño de 5 años con sospecha de Infección Urinaria (ITU) baja (Cistitis), ¿qué característica de la Nitrofurantoína determina que NO deba usarse si se sospecha Pielonefritis?",
+    "hint": "Es un antiséptico urinario, no un antibiótico sistémico.",
+    "options": [
+      {
+        "text": "A) Produce muchas náuseas.",
+        "isCorrect": false,
+        "explanation": "Es un efecto secundario común, pero no explica la limitación terapéutica en infecciones altas."
+      },
+      {
+        "text": "B) No alcanza niveles terapéuticos en sangre ni en el parénquima renal, solo en la orina de la vejiga.",
+        "isCorrect": true,
+        "explanation": "Correcto. La nitrofurantoína se concentra exclusivamente en el tracto urinario inferior; no sirve para tratar tejidos (pielonefritis) ni bacteriemias."
+      },
+      {
+        "text": "C) Tiñe la orina de color café.",
+        "isCorrect": false,
+        "explanation": "Es un cambio cromático inocuo sin relevancia en la eficacia contra el parénquima."
+      },
+      {
+        "text": "D) El Neumococo es resistente.",
+        "isCorrect": false,
+        "explanation": "Distractor absurdo; el neumococo no es causa de ITU; el agente principal es E. coli."
+      },
+      {
+        "text": "E) No se puede dar en gotas.",
+        "isCorrect": false,
+        "explanation": "Existen formulaciones pediátricas líquidas, pero no cambia su farmacodinamia urinaria."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Profilaxis por Mordeduras",
+    "text": "Un preescolar de 3 años es mordido por un perro en la mano. La herida es profunda. Tras el aseo quirúrgico, ¿qué antibiótico profiláctico se debe indicar para cubrir Pasteurella multocida y anaerobios de la boca del animal?",
+    "hint": "Se requiere un fármaco de espectro ampliado que cubra tanto flora cutánea como flora oral polimicrobiana.",
+    "options": [
+      {
+        "text": "A) Cloxacilina 100 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Trataría una infección de piel por Estafilococo, pero deja desprotegida la herida contra Pasteurella."
+      },
+      {
+        "text": "B) Amoxicilina/Ácido Clavulánico 40-50 mg/kg/día por 5 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el fármaco de elección para mordeduras humanas y animales por su excelente actividad contra Pasteurella y anaerobios orales."
+      },
+      {
+        "text": "C) Cefadroxilo 30 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Presenta una actividad errática contra Pasteurella y es ineficaz contra anaerobios."
+      },
+      {
+        "text": "D) Eritromicina sola.",
+        "isCorrect": false,
+        "explanation": "Espectro incompleto para los patógenos polimicrobianos de una mordedura profunda."
+      },
+      {
+        "text": "E) Gentamicina en crema.",
+        "isCorrect": false,
+        "explanation": "La profilaxis en zonas de riesgo como manos debe ser sistémica, no solo tópica."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Duración de Tratamiento NAC",
+    "text": "¿Cuál es la duración recomendada del tratamiento para una Neumonía Adquirida en la Comunidad (NAC) no complicada en un lactante que ha tenido buena respuesta clínica inicial?",
+    "hint": "La tendencia es a acortar los ciclos, pero el estándar nacional sigue un rango específico.",
+    "options": [
+      {
+        "text": "A) 3 días.",
+        "isCorrect": false,
+        "explanation": "Solo aplicaría para Azitromicina por su vida media tisular, no para amoxicilina en neumonía."
+      },
+      {
+        "text": "B) 7 a 10 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. Un ciclo de 7 a 10 días es suficiente para erradicar el neumococo en cuadros bacterianos típicos no complicados."
+      },
+      {
+        "text": "C) 21 días.",
+        "isCorrect": false,
+        "explanation": "Reservado para neumonías necrotizantes o causadas por S. aureus."
+      },
+      {
+        "text": "D) 1 mes.",
+        "isCorrect": false,
+        "explanation": "Duración excesiva para cuadros agudos comunitarios."
+      },
+      {
+        "text": "E) 24 horas.",
+        "isCorrect": false,
+        "explanation": "Absurdo; no asegura la eliminación de la carga bacteriana."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Sepsis Neonatal - Seguridad Farmacológica",
+    "text": "Lactante de 20 días de vida presenta fiebre de 38.3 °C y rechazo alimentario. Tras tomar cultivos, se inicia terapia empírica. ¿Por qué se prefiere el uso de Cefotaxima sobre Ceftriaxona en este paciente?",
+    "hint": "Seguridad metabólica en el primer mes de vida.",
+    "options": [
+      {
+        "text": "A) La Cefotaxima es más barata.",
+        "isCorrect": false,
+        "explanation": "No es el motivo clínico; la elección se basa en la seguridad del neonato."
+      },
+      {
+        "text": "B) La Ceftriaxona desplaza la bilirrubina de la albúmina aumentando el riesgo de Kernicterus y puede precipitar con calcio (barros biliares).",
+        "isCorrect": true,
+        "explanation": "Correcto. El riesgo de ictericia nuclear y formación de barro biliar contraindican la ceftriaxona en el primer mes de vida."
+      },
+      {
+        "text": "C) La Cefotaxima cubre Listeria y la Ceftriaxona no.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ninguna cefalosporina cubre Listeria; ambas requieren asociarse a Ampicilina para ello."
+      },
+      {
+        "text": "D) La Ceftriaxona solo se puede dar por vía oral.",
+        "isCorrect": false,
+        "explanation": "Ambas son de administración parenteral (EV/IM)."
+      },
+      {
+        "text": "E) No hay diferencia.",
+        "isCorrect": false,
+        "explanation": "La diferencia en el perfil de seguridad neonatal es fundamental."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento Neumonía Atípica",
+    "text": "Un niño de 10 años presenta neumonía atípica por Mycoplasma pneumoniae. ¿Cuál es la dosis de Claritromicina recomendada?",
+    "hint": "Los macrólidos de segunda generación tienen una posología cómoda de dos veces al día.",
+    "options": [
+      {
+        "text": "A) 5 mg/kg/día una vez al día.",
+        "isCorrect": false,
+        "explanation": "Esta es la dosis de Azitromicina del segundo al quinto día, no de claritromicina."
+      },
+      {
+        "text": "B) 15 mg/kg/día repartida en 2 dosis (cada 12 horas).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la dosificación estándar en pediatría para infecciones respiratorias por gérmenes atípicos."
+      },
+      {
+        "text": "C) 50 mg/kg/día cada 8 horas.",
+        "isCorrect": false,
+        "explanation": "Es la dosis de Amoxicilina para faringitis, no la dosis de un macrólido."
+      },
+      {
+        "text": "D) 100 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis tóxica para macrólidos."
+      },
+      {
+        "text": "E) 1 g cada 24 horas.",
+        "isCorrect": false,
+        "explanation": "Las dosis pediátricas deben calcularse por peso (mg/kg)."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de Coqueluche",
+    "text": "¿Cuál es el antibiótico de elección para el tratamiento del Coqueluche (Tos Convulsiva) en un lactante de 2 meses para reducir la transmisión?",
+    "hint": "Se prefieren macrólidos para erradicar la Bordetella pertussis de la nasofaringe.",
+    "options": [
+      {
+        "text": "A) Amoxicilina por 10 días.",
+        "isCorrect": false,
+        "explanation": "Ineficaz contra B. pertussis."
+      },
+      {
+        "text": "B) Azitromicina 10 mg/kg/día por 5 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el tratamiento de elección. En menores de 1 mes es el único macrólido seguro (menor riesgo de estenosis del píloro)."
+      },
+      {
+        "text": "C) Ceftriaxona ev.",
+        "isCorrect": false,
+        "explanation": "No es el tratamiento indicado para la erradicación nasofaríngea de coqueluche."
+      },
+      {
+        "text": "D) Cloxacilina oral.",
+        "isCorrect": false,
+        "explanation": "Indicada para estafilococo, no para Bordetella."
+      },
+      {
+        "text": "E) Salbutamol solo.",
+        "isCorrect": false,
+        "explanation": "Manejo sintomático que no reduce la carga bacteriana ni la contagiosidad."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Etiología de Osteomielitis",
+    "text": "¿Qué microorganismo es la causa más probable de Osteomielitis aguda en un niño previamente sano y qué antibiótico de espectro dirigido se debería usar tras una fase empírica?",
+    "hint": "El \"Staph\" es el patógeno óseo por excelencia en todas las edades.",
+    "options": [
+      {
+        "text": "A) E. coli - Cefadroxilo.",
+        "isCorrect": false,
+        "explanation": "Patógeno urinario, inusual en huesos de niños previamente sanos."
+      },
+      {
+        "text": "B) Staphylococcus aureus meticilino-sensible - Cloxacilina o Cefazolina.",
+        "isCorrect": true,
+        "explanation": "Correcto. El S. aureus causa la gran mayoría de las infecciones óseas y suele ser sensible a cloxacilina en Chile."
+      },
+      {
+        "text": "C) Streptococcus pyogenes - Penicilina Benzatina.",
+        "isCorrect": false,
+        "explanation": "Causa infecciones de piel y faringe, raramente osteomielitis primaria aislada."
+      },
+      {
+        "text": "D) Kingella kingae - Vancomicina.",
+        "isCorrect": false,
+        "explanation": "Causa importante en menores de 4 años, pero es sensible a betalactámicos; no requiere vancomicina."
+      },
+      {
+        "text": "E) Salmonella - Ciprofloxacino.",
+        "isCorrect": false,
+        "explanation": "Sería la correcta si el paciente tuviera Anemia de Células Falciformes."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Seguridad de Aminoglicósidos",
+    "text": "¿Cuál es la conducta recomendada respecto a la monitorización de niveles plasmáticos cuando se usa Gentamicina o Amikacina por más de 3 a 5 días?",
+    "hint": "Los aminoglicósidos tienen un margen terapéutico estrecho.",
+    "options": [
+      {
+        "text": "A) No requiere monitorización.",
+        "isCorrect": false,
+        "explanation": "Falso; el riesgo de acumulación tóxica obliga al seguimiento."
+      },
+      {
+        "text": "B) Medir niveles valle (mínimos) antes de la dosis para asegurar la eliminación y evitar nefro/ototoxicidad.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los niveles valle altos indican falla en la excreción y riesgo de daño auditivo o renal irreversible."
+      },
+      {
+        "text": "C) Medir niveles de glucosa únicamente.",
+        "isCorrect": false,
+        "explanation": "Sin relación con la toxicidad del fármaco."
+      },
+      {
+        "text": "D) Realizar un electrocardiograma cada hora.",
+        "isCorrect": false,
+        "explanation": "No es el monitoreo indicado para aminoglicósidos."
+      },
+      {
+        "text": "E) Medir niveles de vitamina K.",
+        "isCorrect": false,
+        "explanation": "Indicado para fármacos que alteran la flora (ej. Warfarina), no para este grupo."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de Shigellosis",
+    "text": "Un niño presenta una disentería (diarrea con sangre) asociada a convulsiones y fiebre muy alta. Se sospecha Shigellosis. ¿Cuál es la duración del tratamiento antibiótico recomendado?",
+    "hint": "Ciclos cortos son efectivos para infecciones bacterianas intestinales invasivas.",
+    "options": [
+      {
+        "text": "A) 1 día.",
+        "isCorrect": false,
+        "explanation": "Insuficiente para la erradicación bacteriana."
+      },
+      {
+        "text": "B) 5 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. Un ciclo de 5 días con Azitromicina o Ceftriaxona es suficiente para tratar la Shigella."
+      },
+      {
+        "text": "C) 14 días.",
+        "isCorrect": false,
+        "explanation": "Duración para Fiebre Tifoidea severa, no para shigellosis común."
+      },
+      {
+        "text": "D) 1 mes.",
+        "isCorrect": false,
+        "explanation": "Innecesariamente prolongado."
+      },
+      {
+        "text": "E) Solo hasta que pare la diarrea.",
+        "isCorrect": false,
+        "explanation": "Debe completarse el ciclo biológico de erradicación independientemente de los síntomas."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Profilaxis de Fiebre Reumática",
+    "text": "¿Cuál es el antibiótico de elección para la profilaxis de la Fiebre Reumática en un paciente con diagnóstico confirmado (prevención secundaria)?",
+    "hint": "Se busca mantener niveles constantes de penicilina para evitar la colonización por S. pyogenes.",
+    "options": [
+      {
+        "text": "A) Amoxicilina diaria de por vida.",
+        "isCorrect": false,
+        "explanation": "Riesgo de mala adherencia; el estándar es la vía inyectable de depósito."
+      },
+      {
+        "text": "B) Penicilina Benzatina 600.000 o 1.200.000 UI (según peso) cada 3 a 4 semanas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la medida más costo-efectiva para prevenir nuevos episodios de daño valvular."
+      },
+      {
+        "text": "C) Aspirina 100 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Tratamiento del episodio agudo (antiinflamatorio), no es un antibiótico profiláctico."
+      },
+      {
+        "text": "D) Prednisona.",
+        "isCorrect": false,
+        "explanation": "Corticoide para carditis severa aguda, no para profilaxis infecciosa."
+      },
+      {
+        "text": "E) Eritromicina cada 6 meses.",
+        "isCorrect": false,
+        "explanation": "Intervalo y fármaco incorrectos para este fin."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Uso de Quinolonas en Niños",
+    "text": "¿A qué edad se considera seguro el uso de Ciprofloxacino en pediatría para indicaciones específicas (como fibrosis quística o ITU multirresistente)?",
+    "hint": "El beneficio de tratar una infección grave por Pseudomonas supera el riesgo teórico de daño articular observado en animales.",
+    "options": [
+      {
+        "text": "A) Está prohibido en todos los niños menores de 18 años.",
+        "isCorrect": false,
+        "explanation": "Es un mito; se evita el uso indiscriminado pero no está proscrito."
+      },
+      {
+        "text": "B) Se puede usar a cualquier edad si la indicación lo justifica, vigilando el riesgo teórico de artropatía.",
+        "isCorrect": true,
+        "explanation": "Correcto. Su uso está validado para casos seleccionados donde no hay mejores alternativas."
+      },
+      {
+        "text": "C) Solo en recién nacidos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto; se usa en diversas etapas según patología."
+      },
+      {
+        "text": "D) Solo si el niño ya no crece más.",
+        "isCorrect": false,
+        "explanation": "La detención del crecimiento no es requisito para el uso justificado."
+      },
+      {
+        "text": "E) Solo por vía tópica.",
+        "isCorrect": false,
+        "explanation": "El uso sistémico es fundamental en casos graves."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de OMA con Riesgo de Resistencia",
+    "text": "¿Cuál es la dosis de Amoxicilina para el tratamiento de una Otitis Media Aguda (OMA) en un niño con riesgo de Neumococo resistente?",
+    "hint": "Dosis altas para saturar las PBP (proteínas de unión a penicilina) del neumococo.",
+    "options": [
+      {
+        "text": "A) 40-50 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis para faringitis simple; insuficiente para el riesgo de resistencia en OMA."
+      },
+      {
+        "text": "B) 80-90 mg/kg/día repartido en 2 dosis.",
+        "isCorrect": true,
+        "explanation": "Correcto. Recomendación estándar para OMA en niños con factores de riesgo (menores de 2 años, guardería)."
+      },
+      {
+        "text": "C) 10 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis sub-terapéutica."
+      },
+      {
+        "text": "D) 150 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis superior al límite de seguridad en manejo ambulatorio."
+      },
+      {
+        "text": "E) 500 mg fijos para todos.",
+        "isCorrect": false,
+        "explanation": "En pediatría las dosis se calculan estrictamente por peso."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Duración Tratamiento Meningitis",
+    "text": "¿Cuál es la duración del tratamiento para una Meningitis por Neisseria meningitidis (Meningococo) no complicada?",
+    "hint": "El meningococo es muy sensible y se erradica más rápido que el neumococo.",
+    "options": [
+      {
+        "text": "A) 24 horas.",
+        "isCorrect": false,
+        "explanation": "Insuficiente para la esterilización del LCR."
+      },
+      {
+        "text": "B) 7 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. Un ciclo de 7 días de ceftriaxona o penicilina sódica basta para el meningococo."
+      },
+      {
+        "text": "C) 14 a 21 días.",
+        "isCorrect": false,
+        "explanation": "Duración para Neumococo (10-14 d) o Listeria (21 d)."
+      },
+      {
+        "text": "D) 6 meses.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) De por vida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de Sarna",
+    "text": "¿Qué fármaco es la primera línea para el tratamiento de la Escabiosis (Sarna) en niños mayores de 2 meses?",
+    "hint": "Es el escabicida con mejor perfil de seguridad y eficacia.",
+    "options": [
+      {
+        "text": "A) Lindano.",
+        "isCorrect": false,
+        "explanation": "Proscrito en pediatría por neurotoxicidad severa."
+      },
+      {
+        "text": "B) Permetrina al 5% crema.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se aplica del cuello a los pies por una noche y se repite a los 7 días obligatoriamente."
+      },
+      {
+        "text": "C) Cloxacilina oral.",
+        "isCorrect": false,
+        "explanation": "Antibiótico; solo se usaría si hubiera impétigo secundario sobre las lesiones."
+      },
+      {
+        "text": "D) Mupirocina tópica.",
+        "isCorrect": false,
+        "explanation": "Antibiótico tópico para piodermitis, no trata el ácaro."
+      },
+      {
+        "text": "E) Vaselina azufrada únicamente.",
+        "isCorrect": false,
+        "explanation": "Se reserva para lactantes menores de 2 meses."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de Tiña Capitis",
+    "text": "Un niño presenta una Tiña Capitis (hongos en el cuero cabelludo). ¿Cuál es el tratamiento racional?",
+    "hint": "Los hongos en el pelo requieren tratamiento sistémico porque el hongo está dentro del folículo.",
+    "options": [
+      {
+        "text": "A) Ketoconazol en crema.",
+        "isCorrect": false,
+        "explanation": "Ineficaz; no penetra hasta la raíz del pelo donde reside el hongo."
+      },
+      {
+        "text": "B) Griseofulvina oral 20 mg/kg/día por 6 a 8 semanas.",
+        "isCorrect": true,
+        "explanation": "Correcto. La vía tópica siempre falla; se requiere un ciclo largo de antifúngico oral."
+      },
+      {
+        "text": "C) Terbinafina spray por 3 días.",
+        "isCorrect": false,
+        "explanation": "Duración y vía inadecuadas para tiña capitis."
+      },
+      {
+        "text": "D) Amoxicilina por 10 días.",
+        "isCorrect": false,
+        "explanation": "No tiene actividad contra hongos."
+      },
+      {
+        "text": "E) Lavado con champú de ortiga.",
+        "isCorrect": false,
+        "explanation": "Remedio casero sin efecto curativo biológico."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de Giardiasis",
+    "text": "¿Cuál es la duración del tratamiento para una Giardiasis intestinal en niños?",
+    "hint": "Tratamiento con metronidazol.",
+    "options": [
+      {
+        "text": "A) 24 horas.",
+        "isCorrect": false,
+        "explanation": "Intervalo insuficiente."
+      },
+      {
+        "text": "B) 5 a 7 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el esquema habitual de metronidazol para erradicar el parásito."
+      },
+      {
+        "text": "C) 21 días.",
+        "isCorrect": false,
+        "explanation": "Duración excesiva."
+      },
+      {
+        "text": "D) 3 meses.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Solo una dosis de albendazol.",
+        "isCorrect": false,
+        "explanation": "El albendazol dosis única sirve para Oxiuros, no para Giardia."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Complicación de Cloranfenicol",
+    "text": "¿Qué complicación se asocia al uso de dosis altas de \"Cloranfenicol\" en recién nacidos?",
+    "hint": "Toxicidad mitocondrial por acumulación del fármaco ante inmadurez hepática.",
+    "options": [
+      {
+        "text": "A) Dientes amarillos.",
+        "isCorrect": false,
+        "explanation": "Efecto de las Tetraciclinas."
+      },
+      {
+        "text": "B) Síndrome del Niño Gris (colapso circulatorio).",
+        "isCorrect": true,
+        "explanation": "Correcto. El hígado neonatal no puede metabolizar el fármaco, causando cianosis, hipotensión y muerte."
+      },
+      {
+        "text": "C) Sordera.",
+        "isCorrect": false,
+        "explanation": "Efecto de los Aminoglicósidos."
+      },
+      {
+        "text": "D) Diabetes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Crecimiento de vello.",
+        "isCorrect": false,
+        "explanation": "Efecto de la Fenitoína."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Vía de Administración en ITU Grave",
+    "text": "En una Pielonefritis aguda, ¿cuál es el objetivo de usar antibióticos EV los primeros días en lugar de oral de entrada en un lactante febril con vómitos?",
+    "hint": "Protección contra la diseminación bacteriana.",
+    "options": [
+      {
+        "text": "A) Solo para cobrar más en el hospital.",
+        "isCorrect": false,
+        "explanation": "Falso."
+      },
+      {
+        "text": "B) Asegurar niveles séricos rápidos, esterilizar la sangre (riesgo urosepsis) y compensar intolerancia oral.",
+        "isCorrect": true,
+        "explanation": "Correcto. En lactantes pequeños la ITU febril tiene alto riesgo de bacteriemia; la vía EV asegura eficacia inmediata."
+      },
+      {
+        "text": "C) Para que el antibiótico no pase por el hígado.",
+        "isCorrect": false,
+        "explanation": "La farmacocinética requiere niveles sistémicos independientemente del paso hepático."
+      },
+      {
+        "text": "D) Es obligatorio por ley.",
+        "isCorrect": false,
+        "explanation": "Es una recomendación clínica de seguridad."
+      },
+      {
+        "text": "E) No tiene ventajas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de Impétigo Buloso",
+    "text": "¿Cuál es el antibiótico de elección para el tratamiento del Impétigo Buloso (ampollar) extenso causado por S. aureus?",
+    "hint": "El estafilococo ampollar siempre produce penicilinasas.",
+    "options": [
+      {
+        "text": "A) Penicilina V.",
+        "isCorrect": false,
+        "explanation": "Resistencia en > 90% de los casos."
+      },
+      {
+        "text": "B) Cloxacilina oral o Cefadroxilo por 7 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se requiere una penicilina resistente a la penicilinasa estafilocócica."
+      },
+      {
+        "text": "C) Amoxicilina simple.",
+        "isCorrect": false,
+        "explanation": "Destruida por las enzimas del S. aureus."
+      },
+      {
+        "text": "D) Metronidazol.",
+        "isCorrect": false,
+        "explanation": "Solo cubre anaerobios."
+      },
+      {
+        "text": "E) Gentamicina gotas.",
+        "isCorrect": false,
+        "explanation": "No alcanza profundidad tisular en formas extensas."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Dosis en Meningitis",
+    "text": "¿Cuál es la dosis de Ceftriaxona para el tratamiento de una Meningitis Bacteriana?",
+    "hint": "Dosis \"meníngeas\" son el doble de las dosis para infecciones de partes blandas.",
+    "options": [
+      {
+        "text": "A) 20 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis insuficiente para cruzar la barrera hematoencefálica."
+      },
+      {
+        "text": "B) 100 mg/kg/día (repartida en 1 o 2 dosis).",
+        "isCorrect": true,
+        "explanation": "Correcto. Se requieren niveles muy altos para alcanzar concentraciones terapéuticas en el LCR inflamado."
+      },
+      {
+        "text": "C) 500 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis tóxica."
+      },
+      {
+        "text": "D) 1 g total para todos.",
+        "isCorrect": false,
+        "explanation": "Ignora el cálculo pediátrico por peso."
+      },
+      {
+        "text": "E) 5 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis absurda para meningitis."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Efecto Adverso de Vancomicina",
+    "text": "¿Cuál es el principal efecto adverso de la Vancomicina si se administra en una infusión muy rápida?",
+    "hint": "Reacción pseudoalérgica dependiente de la velocidad.",
+    "options": [
+      {
+        "text": "A) Insuficiencia renal.",
+        "isCorrect": false,
+        "explanation": "Efecto crónico acumulativo, no agudo por velocidad."
+      },
+      {
+        "text": "B) Síndrome del Hombre Rojo (liberación de histamina).",
+        "isCorrect": true,
+        "explanation": "Correcto. Se manifiesta con rubicundez y prurito; se previene pasando el fármaco en al menos 60 minutos."
+      },
+      {
+        "text": "C) Paro cardíaco en sístole.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Diarrea hemorrágica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Sordera súbita.",
+        "isCorrect": false,
+        "explanation": "No vinculado a la velocidad de infusión."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de Tricomoniasis",
+    "text": "¿Cuál es el tratamiento de elección para una Vaginitis por Trichomonas vaginalis en una adolescente?",
+    "hint": "La tricomoniasis es una ITS causada por un protozoo flagelado.",
+    "options": [
+      {
+        "text": "A) Fluconazol dosis única.",
+        "isCorrect": false,
+        "explanation": "Tratamiento para Candidiasis vaginal."
+      },
+      {
+        "text": "B) Metronidazol dosis única o cada 12h por 7 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el fármaco más eficaz y obliga a tratar también a la pareja."
+      },
+      {
+        "text": "C) Amoxicilina por 10 días.",
+        "isCorrect": false,
+        "explanation": "Ineficaz contra protozoos."
+      },
+      {
+        "text": "D) Clindamicina en crema.",
+        "isCorrect": false,
+        "explanation": "Tratamiento para Vaginosis Bacteriana, no para tricomonas."
+      },
+      {
+        "text": "E) Solo lavado con jabón neutro.",
+        "isCorrect": false,
+        "explanation": "No erradica la infección parasitaria."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Meningitis Bacteriana - Resistencia",
+    "text": "¿Qué fármaco se añade al esquema de meningitis bacteriana empírica si se sospecha S. pneumoniae con alta resistencia a cefalosporinas?",
+    "hint": "Cobertura de \"seguridad\" para neumococo multirresistente.",
+    "options": [
+      {
+        "text": "A) Penicilina.",
+        "isCorrect": false,
+        "explanation": "El neumococo resistente no respondería."
+      },
+      {
+        "text": "B) Vancomicina.",
+        "isCorrect": true,
+        "explanation": "Correcto. La asociación Vancomicina + Cefotaxima es el estándar empírico actual hasta tener el antibiograma."
+      },
+      {
+        "text": "C) Gentamicina.",
+        "isCorrect": false,
+        "explanation": "No atraviesa bien la barrera hematoencefálica para este germen."
+      },
+      {
+        "text": "D) Eritromicina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Rifampicina oral únicamente.",
+        "isCorrect": false,
+        "explanation": "Solo se usa en profilaxis o coadyuvante muy específico."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Dosificación de Amoxi/Clav en Sinusitis",
+    "text": "¿Cuál es la dosis de Amoxicilina/Ácido Clavulánico para una Sinusitis, calculada en base al componente de amoxicilina?",
+    "hint": "Se busca la misma concentración tisular que en la OMA resistente.",
+    "options": [
+      {
+        "text": "A) 20 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis insuficiente."
+      },
+      {
+        "text": "B) 50 mg/kg/día.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe usar la formulación 7:1 o 8:1 para no exceder la dosis de clavulánico y evitar diarrea."
+      },
+      {
+        "text": "C) 150 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis excesiva."
+      },
+      {
+        "text": "D) 10 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis ineficaz."
+      },
+      {
+        "text": "E) Una cucharada al día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Alergia a Penicilina - Azitromicina",
+    "text": "¿Cuánto tiempo debe durar el tratamiento para una Faringoamigdalitis estreptocócica si se usa Azitromicina (por alergia)?",
+    "hint": "El fármaco permanece en las amígdalas mucho después de la última dosis.",
+    "options": [
+      {
+        "text": "A) 1 día.",
+        "isCorrect": false,
+        "explanation": "Insuficiente."
+      },
+      {
+        "text": "B) 3 a 5 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. Debido a su alta vida media tisular, equivale a los 10 días obligatorios de penicilina."
+      },
+      {
+        "text": "C) 10 días obligatorios.",
+        "isCorrect": false,
+        "explanation": "No es necesario con azitromicina."
+      },
+      {
+        "text": "D) 1 mes.",
+        "isCorrect": false,
+        "explanation": "Excesivo."
+      },
+      {
+        "text": "E) Una sola dosis de 500 mg.",
+        "isCorrect": false,
+        "explanation": "No garantiza la erradicación estreptocócica."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tetracleinas en Pediatría",
+    "text": "¿Cuál es el riesgo de usar Tetraciclinas (como Doxiciclina) en un niño de 5 años?",
+    "hint": "El fármaco se deposita en los tejidos que están calcificando.",
+    "options": [
+      {
+        "text": "A) Sordera.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Alteración permanente del color del esmalte dental (dientes amarillos/cafés) e hipoplasia del esmalte.",
+        "isCorrect": true,
+        "explanation": "Correcto. Por esta razón están contraindicadas en menores de 8 años, salvo excepciones de riesgo vital."
+      },
+      {
+        "text": "C) Insuficiencia renal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Diabetes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Obesidad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de Epiglotitis",
+    "text": "¿Cuál es el tratamiento de elección para la Laringitis bacteriana (Epiglotitis) por H. influenzae tipo b?",
+    "hint": "Es una infección profunda y grave de la vía aérea superior.",
+    "options": [
+      {
+        "text": "A) Adrenalina nebulizada únicamente.",
+        "isCorrect": false,
+        "explanation": "No trata la infección bacteriana de base; la epiglotitis es una emergencia."
+      },
+      {
+        "text": "B) Ceftriaxona o Cefotaxima ev.",
+        "isCorrect": true,
+        "explanation": "Correcto. Requiere antibióticos de amplio espectro EV asociados a un manejo de vía aérea segura."
+      },
+      {
+        "text": "C) Amoxicilina oral.",
+        "isCorrect": false,
+        "explanation": "Inadecuado para la fase aguda de una epiglotitis."
+      },
+      {
+        "text": "D) Penicilina Benzatina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Jarabe para la tos.",
+        "isCorrect": false,
+        "explanation": "Absurdo."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Duración Tratamiento Sepsis Neonatal",
+    "text": "¿Cuál es la duración del tratamiento para una Sepsis Neonatal confirmada sin foco meníngeo?",
+    "hint": "Similar a otras infecciones bacterianas sistémicas agudas.",
+    "options": [
+      {
+        "text": "A) 3 días.",
+        "isCorrect": false,
+        "explanation": "Inadecuado."
+      },
+      {
+        "text": "B) 7 a 10 días.",
+        "isCorrect": true,
+        "explanation": "Correcto. Si la evolución es favorable, 10 días suele ser el estándar terapéutico."
+      },
+      {
+        "text": "C) 21 días.",
+        "isCorrect": false,
+        "explanation": "Duración para meningitis."
+      },
+      {
+        "text": "D) 6 meses.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) 24 horas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Neumonía afebril del lactante",
+    "text": "¿Cuál es el antibiótico de elección para una Neumonía por Chlamydia trachomatis en un lactante de 2 meses?",
+    "hint": "Al ser un germen atípico intracelular, requiere macrólidos.",
+    "options": [
+      {
+        "text": "A) Penicilina.",
+        "isCorrect": false,
+        "explanation": "Chlamydia no tiene pared celular sensible a penicilinas."
+      },
+      {
+        "text": "B) Eritromicina o Azitromicina.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los macrólidos son el pilar del tratamiento; vigilar riesgo de estenosis del píloro con eritromicina."
+      },
+      {
+        "text": "C) Cloxacilina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Amoxicilina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Gentamicina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Monitorización de PCR",
+    "text": "¿Qué indica una PCR que no baja tras 48 horas de antibiótico en una Osteomielitis?",
+    "hint": "La PCR es un marcador dinámico de respuesta al tratamiento.",
+    "options": [
+      {
+        "text": "A) Que el niño se está curando.",
+        "isCorrect": false,
+        "explanation": "La mejoría debe acompañarse de descenso de reactantes."
+      },
+      {
+        "text": "B) Probable falla terapéutica, necesidad de drenaje quirúrgico de un absceso o resistencia bacteriana.",
+        "isCorrect": true,
+        "explanation": "Correcto. Obliga a revaluar el esquema y realizar imágenes (eco/RM) en busca de colecciones supuradas."
+      },
+      {
+        "text": "C) Que el laboratorio está malo.",
+        "isCorrect": false,
+        "explanation": "Poco probable; se debe priorizar la sospecha clínica."
+      },
+      {
+        "text": "D) Es normal, la PCR tarda 1 mes en bajar.",
+        "isCorrect": false,
+        "explanation": "La PCR responde en días; la VHS es la que tarda semanas."
+      },
+      {
+        "text": "E) Que el niño tiene mucha hambre.",
+        "isCorrect": false,
+        "explanation": "Inmaterial."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de Piodermitis Leve",
+    "text": "¿Cuál es la dosis de Cloxacilina oral para el tratamiento de un orzuelo infectado o una piodermitis leve?",
+    "hint": "Dosis estándar para infecciones de piel estafilocócicas.",
+    "options": [
+      {
+        "text": "A) 20 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis insuficiente."
+      },
+      {
+        "text": "B) 50 mg/kg/día cada 6 horas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Requiere tomas frecuentes debido a su corta vida media plasmática."
+      },
+      {
+        "text": "C) 150 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis para infecciones profundas hospitalizadas."
+      },
+      {
+        "text": "D) Una vez al día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) 100 mg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Dosis intermedia."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Interacciones Farmacológicas",
+    "text": "¿Cuál es el riesgo de usar Aminoglicósidos (Gentamicina) junto con Furosemida?",
+    "hint": "Ambos fármacos son tóxicos para las células ciliadas del oído interno.",
+    "options": [
+      {
+        "text": "A) Diabetes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Potenciación de la ototoxicidad (sordera).",
+        "isCorrect": true,
+        "explanation": "Correcto. La combinación aumenta drásticamente el riesgo de daño auditivo permanente."
+      },
+      {
+        "text": "C) Hipertensión.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Diarrea.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) No hay riesgo.",
+        "isCorrect": false,
+        "explanation": "Falso."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Tratamiento de Tiña de la Piel",
+    "text": "¿Cuál es el tratamiento de elección para la Tinea Corporis (tiña de la piel lampiña) localizada?",
+    "hint": "A diferencia de la cabeza, la tiña de la piel responde bien a la vía tópica.",
+    "options": [
+      {
+        "text": "A) Griseofulvina oral por 2 meses.",
+        "isCorrect": false,
+        "explanation": "Reservado para casos extensos o Tiña Capitis."
+      },
+      {
+        "text": "B) Clotrimazol o Terbinafina tópica por 2 a 3 semanas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe aplicar 2 veces al día hasta 1 semana después de desaparecer la lesión visible."
+      },
+      {
+        "text": "C) Amoxicilina.",
+        "isCorrect": false,
+        "explanation": "Sin efecto antifúngico."
+      },
+      {
+        "text": "D) Jabón de azufre.",
+        "isCorrect": false,
+        "explanation": "Ayuda en sarna, no es el estándar para tiña."
+      },
+      {
+        "text": "E) Alcohol puro.",
+        "isCorrect": false,
+        "explanation": "Causa irritación, no cura la micosis."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Antecedente de Rash por Amoxicilina",
+    "text": "¿Cuál es la conducta frente a un niño con antecedente de \"rash cutáneo leve\" (no urticariano) con amoxicilina hace 5 años?",
+    "hint": "Diferencie entre exantema inespecífico (frecuentemente viral) y anafilaxia real.",
+    "options": [
+      {
+        "text": "A) No dar nunca más penicilinas.",
+        "isCorrect": false,
+        "explanation": "Conducta restrictiva innecesaria basada en un riesgo muy bajo."
+      },
+      {
+        "text": "B) Se puede usar una cefalosporina de 2da o 3ra generación con precaución, ya que el riesgo de anafilaxia es bajísimo.",
+        "isCorrect": true,
+        "explanation": "Correcto. Muchos rash en la infancia son virales. El antecedente no urticariano permite el uso seguro de cefalosporinas."
+      },
+      {
+        "text": "C) Dar solo vancomicina de por vida.",
+        "isCorrect": false,
+        "explanation": "Absurdo."
+      },
+      {
+        "text": "D) Ignorar el antecedente totalmente.",
+        "isCorrect": false,
+        "explanation": "Se debe registrar y vigilar, no ignorar."
+      },
+      {
+        "text": "E) Dar antibióticos solo por vía rectal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Sarna Neonatal",
+    "text": "¿Cuál es el tratamiento de elección para la Escabiosis (Sarna) en un recién nacido de 15 días?",
+    "hint": "En neonatos la absorción sistémica de permetrina es riesgosa.",
+    "options": [
+      {
+        "text": "A) Permetrina al 5%.",
+        "isCorrect": false,
+        "explanation": "Se evita en menores de 2 meses."
+      },
+      {
+        "text": "B) Vaselina azufrada al 5-10% por 3 noches.",
+        "isCorrect": true,
+        "explanation": "Correcto. El azufre es el tratamiento más antiguo y seguro para los más pequeños."
+      },
+      {
+        "text": "C) Ivermectina oral.",
+        "isCorrect": false,
+        "explanation": "Contraindicada en neonatos."
+      },
+      {
+        "text": "D) Decametrina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Lavado con agua caliente únicamente.",
+        "isCorrect": false,
+        "explanation": "Inútil."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Duración Tratamiento Mycoplasma",
+    "text": "¿Cuál es la duración del tratamiento para una NAC por Mycoplasma?",
+    "hint": "Estándar para erradicar el germen atípico.",
+    "options": [
+      {
+        "text": "A) 1 día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) 7 a 10 días (o 5 con azitromicina).",
+        "isCorrect": true,
+        "explanation": "Correcto. Ciclos cortos de macrólidos son suficientes para la erradicación celular."
+      },
+      {
+        "text": "C) 3 semanas.",
+        "isCorrect": false,
+        "explanation": "Excesivo."
+      },
+      {
+        "text": "D) 6 meses.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) 48 horas.",
+        "isCorrect": false,
+        "explanation": "Insuficiente."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Ciclo Biológico de la Sarna",
+    "text": "¿Cuál es el objetivo de los \"días de descanso\" en el tratamiento de la sarna?",
+    "hint": "Ciclo biológico del Sarcoptes scabiei.",
+    "options": [
+      {
+        "text": "A) Que el niño descanse de la picazón.",
+        "isCorrect": false,
+        "explanation": "No es un objetivo médico."
+      },
+      {
+        "text": "B) Tratar a los parásitos que nacieron de los huevos después del primer tratamiento (ya que los huevos son resistentes).",
+        "isCorrect": true,
+        "explanation": "Correcto. Repetir la aplicación a los 7 días es la clave para matar a las larvas recién eclosionadas."
+      },
+      {
+        "text": "C) Para que el medicamento no sea tóxico.",
+        "isCorrect": false,
+        "explanation": "Inmaterial."
+      },
+      {
+        "text": "D) Porque el médico se va de vacaciones.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) No existen los días de descanso.",
+        "isCorrect": false,
+        "explanation": "Falso; son parte fundamental del esquema."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Infectología",
+    "topic": "Mensaje Final Uso Racional",
+    "text": "¿Cuál es el mensaje final del Uso Racional de Antibióticos?",
+    "hint": "El objetivo es curar al paciente y proteger a la comunidad de la resistencia.",
+    "options": [
+      {
+        "text": "A) Recetar antibióticos para dejar tranquilos a los padres.",
+        "isCorrect": false,
+        "explanation": "Mala práctica."
+      },
+      {
+        "text": "B) Usar el antibiótico con el espectro más estrecho posible, a la dosis correcta y por el tiempo mínimo necesario.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el pilar de la medicina moderna para asegurar eficacia y frenar la multirresistencia."
+      },
+      {
+        "text": "C) Usar siempre el antibiótico más caro.",
+        "isCorrect": false,
+        "explanation": "Falso."
+      },
+      {
+        "text": "D) Dar antibióticos preventivos para la gripe.",
+        "isCorrect": false,
+        "explanation": "Innecesario."
+      },
+      {
+        "text": "E) No usar nunca antibióticos.",
+        "isCorrect": false,
+        "explanation": "Falso; son vitales si están bien indicados."
+      }
+    ]
+  }
+]
