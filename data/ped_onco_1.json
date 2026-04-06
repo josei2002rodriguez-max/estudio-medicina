@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Epidemiología del Cáncer Infantil",
+    "text": "¿Cuál es el tipo de cáncer más frecuente en la población pediátrica en Chile y cuál es su grupo de edad de mayor incidencia?",
+    "hint": "Representa aproximadamente el 30-35% de todos los cánceres infantiles[cite: 11].",
+    "options": [
+      {
+        "text": "A) Tumores del Sistema Nervioso Central - Lactantes.",
+        "isCorrect": false,
+        "explanation": "Son la segunda causa en frecuencia general, pero la primera entre los tumores sólidos[cite: 15]. Sería la respuesta si se preguntara específicamente por el tumor sólido más común[cite: 16]."
+      },
+      {
+        "text": "B) Linfomas - Adolescentes.",
+        "isCorrect": false,
+        "explanation": "Ocupan el tercer lugar en frecuencia global[cite: 17]. Sería la opción correcta si se preguntara por la neoplasia más frecuente en el grupo de adolescentes (especialmente Hodgkin)[cite: 18]."
+      },
+      {
+        "text": "C) Leucemia Linfoblástica Aguda (LLA) - Preescolares (2 a 5 años).",
+        "isCorrect": true,
+        "explanation": "La LLA es la neoplasia más común en pediatría, con un pico de incidencia entre los 2 y 5 años[cite: 12]. Es el cáncer infantil por excelencia en las estadísticas nacionales[cite: 13]."
+      },
+      {
+        "text": "D) Tumor de Wilms - Recién nacidos.",
+        "isCorrect": false,
+        "explanation": "Es el tumor renal más frecuente, pero su incidencia es mucho menor que la de las leucemias[cite: 19]. Su pico es a los 3 años, no en recién nacidos[cite: 20]."
+      },
+      {
+        "text": "E) Neuroblastoma - Escolares.",
+        "isCorrect": false,
+        "explanation": "Es el tumor extracraneal sólido más frecuente en lactantes y niños pequeños (< 2 años), no en escolares[cite: 21, 22]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Sospecha Clínica de Leucemia",
+    "text": "Un preescolar de 3 años presenta fiebre de 3 semanas, palidez progresiva y dolores óseos que le impiden caminar. Al examen destaca hepatosplenomegalia y petequias. ¿Conducta inicial más adecuada?",
+    "hint": "La combinación de fiebre prolongada, citopenias y visceromegalia es altamente sospechosa de infiltración medular[cite: 32].",
+    "options": [
+      {
+        "text": "A) Iniciar tratamiento con amoxicilina por sospecha de infección bacteriana.",
+        "isCorrect": false,
+        "explanation": "Error grave; retrasa el diagnóstico de una neoplasia. La fiebre del cáncer no responde a antibióticos[cite: 36, 37]."
+      },
+      {
+        "text": "B) Solicitar hemograma con frotis de sangre periférica y derivar según resultados.",
+        "isCorrect": true,
+        "explanation": "Es el primer examen en APS ante sospecha de leucemia[cite: 33]. La presencia de blastos o citopenias activa la derivación inmediata a la red PINDA (GES)[cite: 34]."
+      },
+      {
+        "text": "C) Solicitar radiografía de extremidades por sospecha de maltrato.",
+        "isCorrect": false,
+        "explanation": "Aunque los moretones pueden confundirse, la fiebre y la hepatosplenomegalia orientan a una causa sistémica orgánica[cite: 38]."
+      },
+      {
+        "text": "D) Indicar reposo y control en 1 semana si persiste la fiebre.",
+        "isCorrect": false,
+        "explanation": "Inaceptable; un niño con citopenias y visceromegalia requiere estudio urgente[cite: 39]."
+      },
+      {
+        "text": "E) Derivar a traumatología por los dolores óseos.",
+        "isCorrect": false,
+        "explanation": "Los dolores óseos leucémicos son metafisarios; derivar a especialidad no oncológica retrasa el manejo vital[cite: 40, 41]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Garantías GES Cáncer Infantil",
+    "text": "¿Cuál es el plazo máximo garantizado por el GES para la confirmación diagnóstica de una sospecha de cáncer en menores de 15 años en Chile?",
+    "hint": "El sistema permite el tiempo necesario para estudios especializados como mielogramas[cite: 50].",
+    "options": [
+      {
+        "text": "A) 24 horas.",
+        "isCorrect": false,
+        "explanation": "Plazo aproximado para el inicio de tratamiento una vez confirmado el diagnóstico, no para la confirmación misma[cite: 53]."
+      },
+      {
+        "text": "B) 7 días.",
+        "isCorrect": false,
+        "explanation": "Plazo insuficiente para completar estudios de histopatología o citometría en la red nacional."
+      },
+      {
+        "text": "C) 30 días.",
+        "isCorrect": true,
+        "explanation": "Según la normativa GES vigente para Cáncer en menores de 15 años, el plazo para la confirmación diagnóstica es de 30 días desde la sospecha[cite: 51]."
+      },
+      {
+        "text": "D) 60 días.",
+        "isCorrect": false,
+        "explanation": "Plazo excesivo para la agresividad de los tumores pediátricos."
+      },
+      {
+        "text": "E) 90 días.",
+        "isCorrect": false,
+        "explanation": "Plazo común para adultos, pero en pediatría es significativamente más corto[cite: 54]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Retinoblastoma",
+    "text": "Evaluación de lactante por 'mancha blanca' en la pupila (leucocoria). El reflejo rojo está ausente. ¿Diagnóstico de sospecha más urgente?",
+    "hint": "La leucocoria es el signo clínico cardinal de este tumor intraocular[cite: 64].",
+    "options": [
+      {
+        "text": "A) Catarata congénita.",
+        "isCorrect": false,
+        "explanation": "Causa de leucocoria no maligna, pero en APS siempre se debe descartar primero el retinoblastoma por riesgo vital[cite: 68, 69]."
+      },
+      {
+        "text": "B) Retinoblastoma.",
+        "isCorrect": true,
+        "explanation": "Tumor intraocular más frecuente en la infancia[cite: 65]. La leucocoria obliga a derivación inmediata al oftalmólogo para salvar el ojo o la vida[cite: 66]."
+      },
+      {
+        "text": "C) Glaucoma congénito.",
+        "isCorrect": false,
+        "explanation": "Se manifiesta con buftalmos ('ojo grande'), lagrimeo y fotofobia, no típicamente con leucocoria blanca brillante[cite: 70]."
+      },
+      {
+        "text": "D) Astigmatismo severo.",
+        "isCorrect": false,
+        "explanation": "No produce ausencia de reflejo rojo ni leucocoria."
+      },
+      {
+        "text": "E) Desprendimiento de retina traumático.",
+        "isCorrect": false,
+        "explanation": "Podría dar leucocoria, pero en un lactante sin trauma, el origen tumoral es la prioridad[cite: 71]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Adenopatías Malignas",
+    "text": "¿Qué característica de una adenopatía sugiere origen MALIGNO y requiere estudio urgente?",
+    "hint": "Lo maligno suele ser 'mudo' (sin dolor) pero 'invasor' (fijo y duro)[cite: 81].",
+    "options": [
+      {
+        "text": "A) Tamaño de 0.5 cm, consistencia blanda y móvil.",
+        "isCorrect": false,
+        "explanation": "Descripción de una adenopatía reactiva viral normal, muy común en niños[cite: 85]."
+      },
+      {
+        "text": "B) Presencia de signos inflamatorios locales (calor, rubor) y dolorosa.",
+        "isCorrect": false,
+        "explanation": "Sugiere una adenitis bacteriana que requiere antibióticos, no estudio oncológico inicial[cite: 86]."
+      },
+      {
+        "text": "C) Tamaño > 2 cm, consistencia pétrea (dura), fija a planos profundos e indolora.",
+        "isCorrect": true,
+        "explanation": "Las adenopatías sospechosas son crónicas (> 4 semanas), duras y forman conglomerados[cite: 82, 83]. La ubicación supraclavicular es siempre sospechosa[cite: 83]."
+      },
+      {
+        "text": "D) Adenopatía inguinal aislada tras una herida en el pie.",
+        "isCorrect": false,
+        "explanation": "Respuesta normal del sistema inmune a una infección distal[cite: 87]."
+      },
+      {
+        "text": "E) Adenopatía cervical que desaparece tras 1 semana de tratamiento.",
+        "isCorrect": false,
+        "explanation": "Si responde a antibióticos o desaparece sola, se descarta origen neoplásico primario[cite: 88]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Tumores del SNC",
+    "text": "Escolar con cefalea matinal progresiva, vómitos explosivos sin náuseas y visión doble. ¿Sospecha y conducta?",
+    "hint": "Los signos de hipertensión endocraneana son una emergencia oncológica[cite: 98].",
+    "options": [
+      {
+        "text": "A) Migraña infantil - Iniciar paracetamol.",
+        "isCorrect": false,
+        "explanation": "La migraña suele ser pulsátil y con fotofobia; no suele despertar al niño sistemáticamente con vómitos[cite: 102]."
+      },
+      {
+        "text": "B) Error de refracción - Derivar para lentes.",
+        "isCorrect": false,
+        "explanation": "Los lentes no explican la hipertensión endocraneana[cite: 103]."
+      },
+      {
+        "text": "C) Tumor de Sistema Nervioso Central - Derivar a urgencias para TAC.",
+        "isCorrect": true,
+        "explanation": "La cefalea que despierta al niño o ocurre al despertar con vómitos obliga a neuroimagen urgente para descartar masa o hidrocefalia[cite: 100]."
+      },
+      {
+        "text": "D) Sinusitis aguda - Antibióticos.",
+        "isCorrect": false,
+        "explanation": "Daría dolor facial, no parálisis de pares craneales (visión doble) aislada progresiva[cite: 104]."
+      },
+      {
+        "text": "E) Estrés escolar - Psicólogo.",
+        "isCorrect": false,
+        "explanation": "No justifica la clínica neurológica de hipertensión endocraneana."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Neuroblastoma vs Tumor de Wilms",
+    "text": "¿Qué hallazgo clínico orienta más hacia un Neuroblastoma que hacia un Tumor de Wilms?",
+    "hint": "El neuroblastoma suele ser un tumor más 'enfermo' y cruza la línea media[cite: 113].",
+    "options": [
+      {
+        "text": "A) Masa que no cruza la línea media y niño en buen estado.",
+        "isCorrect": false,
+        "explanation": "Características típicas del Tumor de Wilms (masa lisa limitada al riñón)[cite: 117]."
+      },
+      {
+        "text": "B) Presencia de hematuria macroscópica.",
+        "isCorrect": false,
+        "explanation": "Es más frecuente en el Tumor de Wilms (25%) que en el neuroblastoma[cite: 118, 119]."
+      },
+      {
+        "text": "C) Masa que cruza la línea media, irregular, con compromiso del estado general y 'ojos de mapache'.",
+        "isCorrect": true,
+        "explanation": "Los 'ojos de mapache' indican metástasis orbitaria[cite: 114]. Su masa es irregular y cruza la línea media al rodear grandes vasos[cite: 115]."
+      },
+      {
+        "text": "D) Hipertensión arterial aislada.",
+        "isCorrect": false,
+        "explanation": "Puede ocurrir en ambos por compresión renal o secreción de catecolaminas[cite: 120]."
+      },
+      {
+        "text": "E) El Wilms siempre duele y el Neuroblastoma no.",
+        "isCorrect": false,
+        "explanation": "Generalización incorrecta; ambos pueden ser indoloros al inicio."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Osteosarcoma",
+    "text": "Adolescente con dolor femoral distal persistente en reposo nocturno. ¿Hallazgo radiológico esperado en Osteosarcoma?",
+    "hint": "Los tumores óseos malignos presentan signos de agresividad como destrucción de la cortical[cite: 131].",
+    "options": [
+      {
+        "text": "A) Lesión lítica bien delimitada con borde escleroso.",
+        "isCorrect": false,
+        "explanation": "Respuesta para lesiones benignas como el Quiste Óseo Simple[cite: 135]."
+      },
+      {
+        "text": "B) Imagen en 'sacabocado' únicamente.",
+        "isCorrect": false,
+        "explanation": "Típico de la Histiocitosis de células de Langerhans[cite: 136]."
+      },
+      {
+        "text": "C) Reacción perióstica en 'sol naciente' o 'triángulo de Codman' con destrucción de cortical.",
+        "isCorrect": true,
+        "explanation": "El osteosarcoma es el tumor óseo más frecuente en adolescentes[cite: 132]. El 'sol naciente' refleja el crecimiento que levanta el periostio[cite: 133]."
+      },
+      {
+        "text": "D) Hueso de aspecto normal.",
+        "isCorrect": false,
+        "explanation": "Incompatible con la clínica de dolor óseo tumoral persistente."
+      },
+      {
+        "text": "E) Fractura de tallo verde.",
+        "isCorrect": false,
+        "explanation": "Fractura accidental por elasticidad ósea, no lesión tumoral[cite: 137]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Factores de Riesgo Genético",
+    "text": "¿Qué antecedente es un factor de riesgo genético conocido para Leucemia y otros cánceres infantiles?",
+    "hint": "Tienen un riesgo 10 a 20 veces mayor de desarrollar leucemia[cite: 146].",
+    "options": [
+      {
+        "text": "A) Lactancia materna prolongada.",
+        "isCorrect": false,
+        "explanation": "Factor protector o evento normal sin relación con el cáncer[cite: 150]."
+      },
+      {
+        "text": "B) Síndrome de Down (Trisomía 21).",
+        "isCorrect": true,
+        "explanation": "Existe una asociación citogenética clara con la leucemogénesis[cite: 147]. Requieren vigilancia hematológica estrecha[cite: 148]."
+      },
+      {
+        "text": "C) Haber tenido varicela a los 2 años.",
+        "isCorrect": false,
+        "explanation": "Infección viral común sin vínculo oncológico demostrado[cite: 150]."
+      },
+      {
+        "text": "D) Vivir cerca de antenas de telefonía.",
+        "isCorrect": false,
+        "explanation": "No hay evidencia sólida que vincule antenas con cáncer infantil de forma causal[cite: 151]."
+      },
+      {
+        "text": "E) Dieta rica en legumbres.",
+        "isCorrect": false,
+        "explanation": "Hábito saludable sin relación con el cáncer[cite: 150]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Tumores Testiculares",
+    "text": "Lactante de 6 meses con aumento de volumen testicular duro e indoloro; transiluminación negativa. ¿Conducta?",
+    "hint": "Masa sólida en testículo de lactante = Tumor de saco vitelino hasta demostrar lo contrario[cite: 161].",
+    "options": [
+      {
+        "text": "A) Diagnosticar hidrocele y controlar.",
+        "isCorrect": false,
+        "explanation": "Solo si la transiluminación fuera positiva y la masa quística/blanda[cite: 165]."
+      },
+      {
+        "text": "B) Antibióticos por sospecha de orquitis.",
+        "isCorrect": false,
+        "explanation": "La orquitis daría dolor, calor y fiebre[cite: 166]."
+      },
+      {
+        "text": "C) Solicitar ecografía testicular urgente y niveles de Alfa-fetoproteína (AFP).",
+        "isCorrect": true,
+        "explanation": "El tumor de saco vitelino es el más común en niños pequeños[cite: 162]. Produce AFP, útil como marcador diagnóstico[cite: 163]."
+      },
+      {
+        "text": "D) Realizar punción de la masa.",
+        "isCorrect": false,
+        "explanation": "Nunca se punciona por riesgo de diseminación tumoral al escroto; el abordaje debe ser inguinal[cite: 167, 168]."
+      },
+      {
+        "text": "E) Dar de alta.",
+        "isCorrect": false,
+        "explanation": "Mala práctica; las masas sólidas requieren estudio urgente."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Tumor de Wilms",
+    "text": "Escolar de 6 años con cojera indolora y masa abdominal en flanco izquierdo, lisa y que no cruza la línea media. ¿Diagnóstico?",
+    "hint": "Masa abdominal lisa, renal, en niño de 2-5 años = Wilms[cite: 180].",
+    "options": [
+      {
+        "text": "A) Esplenomegalia por mononucleosis.",
+        "isCorrect": false,
+        "explanation": "La masa sería más anterior, con borde 'notch' y síntomas de faringitis/fiebre[cite: 184]."
+      },
+      {
+        "text": "B) Tumor de Wilms (Nefroblastoma).",
+        "isCorrect": true,
+        "explanation": "Tumor renal más frecuente[cite: 181]. Suele ser un hallazgo incidental ('al bañar al niño') contenido en la cápsula renal[cite: 182]."
+      },
+      {
+        "text": "C) Neuroblastoma metastásico.",
+        "isCorrect": false,
+        "explanation": "La masa sería irregular, el niño se vería enfermo y probablemente cruzaría la línea media[cite: 185]."
+      },
+      {
+        "text": "D) Fecaloma masivo.",
+        "isCorrect": false,
+        "explanation": "Masa de consistencia distinta, desplazable y asociada a estreñimiento."
+      },
+      {
+        "text": "E) Hidronefrosis severa.",
+        "isCorrect": false,
+        "explanation": "Daría una masa fluctuante y síntomas de ITU, no masa sólida lisa persistente."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Linfoma de Hodgkin",
+    "text": "¿Cuál es la triada clásica de sospecha de un Linfoma de Hodgkin en un adolescente?",
+    "hint": "Afectan principalmente ganglios y causan síntomas sistémicos por citoquinas[cite: 194].",
+    "options": [
+      {
+        "text": "A) Tos, expectoración y fiebre.",
+        "isCorrect": false,
+        "explanation": "Sugeriría un cuadro respiratorio infeccioso."
+      },
+      {
+        "text": "B) Adenopatía cervical o supraclavicular indolora, fiebre persistente y baja de peso (Síntomas B).",
+        "isCorrect": true,
+        "explanation": "El Hodgkin tiene un pico en la adolescencia[cite: 195]. Los síntomas B indican mayor carga tumoral[cite: 196]."
+      },
+      {
+        "text": "C) Dolor abdominal, diarrea y vómitos.",
+        "isCorrect": false,
+        "explanation": "Sugeriría un cuadro digestivo."
+      },
+      {
+        "text": "D) Cefalea, convulsiones y visión doble.",
+        "isCorrect": false,
+        "explanation": "Patrón de tumor cerebral[cite: 198]."
+      },
+      {
+        "text": "E) Petequias, palidez y bicitopenia.",
+        "isCorrect": false,
+        "explanation": "Patrón de leucemia (compromiso medular)[cite: 199]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Diagnóstico de Leucemia",
+    "text": "Hemograma de niño con 45.000 leucocitos y frotis con 30% de células linfoides medianas con cromatina fina. ¿Conducta?",
+    "hint": "El diagnóstico requiere especialista, pero la sospecha en frotis activa el seguro obligatorio[cite: 212].",
+    "options": [
+      {
+        "text": "A) Repetir el hemograma en 15 días.",
+        "isCorrect": false,
+        "explanation": "Peligroso; el recuento alto obliga a descartar lisis tumoral inmediata."
+      },
+      {
+        "text": "B) Iniciar tratamiento con corticoides orales.",
+        "isCorrect": false,
+        "explanation": "Contraindicado; puede gatillar lisis tumoral aguda o dificultar la clasificación posterior[cite: 216]."
+      },
+      {
+        "text": "C) Notificar GES, contacto con PINDA y derivar de urgencia.",
+        "isCorrect": true,
+        "explanation": "Blastos > 20% es diagnóstico de leucemia[cite: 214]. El riesgo de síndrome de lisis tumoral obliga a derivación inmediata[cite: 214]."
+      },
+      {
+        "text": "D) Solicitar mielograma en el consultorio.",
+        "isCorrect": false,
+        "explanation": "No es un procedimiento de APS; requiere laboratorio especializado[cite: 217]."
+      },
+      {
+        "text": "E) Indicar reposo y dieta rica en hierro.",
+        "isCorrect": false,
+        "explanation": "Inadecuado ante un proceso neoplásico hematológico."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Síndrome de Lisis Tumoral",
+    "text": "¿Qué es el 'Síndrome de Lisis Tumoral' y por qué es una urgencia?",
+    "hint": "Ocurre frecuentemente al inicio del tratamiento de leucemias con alta carga celular[cite: 226].",
+    "options": [
+      {
+        "text": "A) El tumor se achica y el niño se cura.",
+        "isCorrect": false,
+        "explanation": "Es el efecto terapéutico, pero no define el síndrome metabólico."
+      },
+      {
+        "text": "B) Complicación metabólica por destrucción masiva celular que libera potasio y ácido úrico, causando falla renal.",
+        "isCorrect": true,
+        "explanation": "Es el 'lado oscuro' del tratamiento efectivo[cite: 227]. Satura al riñón y altera el ritmo cardíaco[cite: 228]."
+      },
+      {
+        "text": "C) Infección de la piel sobre el tumor.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con la lisis celular masiva."
+      },
+      {
+        "text": "D) Reacción alérgica a la quimioterapia.",
+        "isCorrect": false,
+        "explanation": "Fenómeno inmune distinto."
+      },
+      {
+        "text": "E) Pérdida de pelo.",
+        "isCorrect": false,
+        "explanation": "Efecto secundario estético del tratamiento."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Vacunas en Inmunocomprometidos",
+    "text": "¿Qué recomendación de vacunas es correcta para un niño en tratamiento activo con quimioterapia?",
+    "hint": "El sistema inmune está suprimido y no puede frenar la replicación de virus vacunales[cite: 237].",
+    "options": [
+      {
+        "text": "A) Recibir todas las vacunas normalmente.",
+        "isCorrect": false,
+        "explanation": "Solo si hubiera terminado el tratamiento hace más de 3-6 meses[cite: 241]."
+      },
+      {
+        "text": "B) No debe recibir vacunas de virus vivos atenuados (Tres vírica, Varicela).",
+        "isCorrect": true,
+        "explanation": "Tienen contraindicadas las vacunas de microorganismos vivos por riesgo de enfermedad diseminada[cite: 232, 238]. Las inactivadas son seguras pero menos efectivas[cite: 239]."
+      },
+      {
+        "text": "C) No requiere vacunas.",
+        "isCorrect": false,
+        "explanation": "Requiere protección, pero con el tipo de vacuna adecuado."
+      },
+      {
+        "text": "D) Solo vacuna contra la rabia.",
+        "isCorrect": false,
+        "explanation": "Innecesario si no hay exposición."
+      },
+      {
+        "text": "E) Vacunarse cada semana.",
+        "isCorrect": false,
+        "explanation": "Inútil y potencialmente dañino."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Sarcoma de Ewing",
+    "text": "Adolescente con dolor en diáfisis humeral y radiografía con imagen en 'capas de cebolla'. ¿Tumor más probable?",
+    "hint": "El Ewing es más común en diáfisis y presenta esta reacción perióstica clásica[cite: 251].",
+    "options": [
+      {
+        "text": "A) Osteosarcoma.",
+        "isCorrect": false,
+        "explanation": "Se ubicaría en metáfisis con reacción en 'sol naciente'[cite: 254]."
+      },
+      {
+        "text": "B) Sarcoma de Ewing.",
+        "isCorrect": true,
+        "explanation": "Tumor neuroectodérmico primitivo agresivo. La imagen laminar es muy sugerente[cite: 252]."
+      },
+      {
+        "text": "C) Quiste óseo esencial.",
+        "isCorrect": false,
+        "explanation": "Lesión geográfica bien delimitada, no agresiva."
+      },
+      {
+        "text": "D) Osteoma osteoide.",
+        "isCorrect": false,
+        "explanation": "Pequeño 'nidus' con dolor nocturno que cede con aspirina."
+      },
+      {
+        "text": "E) Metástasis de colon.",
+        "isCorrect": false,
+        "explanation": "Excepcional en adolescentes; los tumores óseos suelen ser primarios."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Diagnóstico Diferencial",
+    "text": "¿Cuál es la importancia de la 'Prueba de la Braca' en cáncer infantil?",
+    "hint": "No confunda términos de distintas áreas de pediatría[cite: 263].",
+    "options": [
+      {
+        "text": "A) Fundamental para Wilms.",
+        "isCorrect": false,
+        "explanation": "Sin relación clínica."
+      },
+      {
+        "text": "B) Es un error; la brida amniótica es neonatal y no tiene relación con el cáncer.",
+        "isCorrect": true,
+        "explanation": "Es vital identificar distractores que no pertenecen al tema para no dudar innecesariamente[cite: 262, 264]."
+      },
+      {
+        "text": "C) Diagnostica leucemia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Se usa en adolescentes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) No existe.",
+        "isCorrect": false,
+        "explanation": "Incorrecto (existe como patología malformativa)."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Marcadores Tumorales",
+    "text": "¿Qué marcador tumoral se eleva clásicamente en el Neuroblastoma y se mide en orina?",
+    "hint": "El tumor deriva de células de la cresta neural que forman el sistema simpático[cite: 273].",
+    "options": [
+      {
+        "text": "A) Alfa-fetoproteína.",
+        "isCorrect": false,
+        "explanation": "Marcador de tumores germinales o hepatocarcinoma[cite: 276]."
+      },
+      {
+        "text": "B) Catecolaminas y metabolitos (Vanilmandélico y Homovanílico).",
+        "isCorrect": true,
+        "explanation": "El 90% de los neuroblastomas secretan estas sustancias, útiles para diagnóstico y seguimiento[cite: 274]."
+      },
+      {
+        "text": "C) b-HCG.",
+        "isCorrect": false,
+        "explanation": "Marcador de coriocarcinoma o tumores de células germinales[cite: 277]."
+      },
+      {
+        "text": "D) Antígeno prostático.",
+        "isCorrect": false,
+        "explanation": "Marcador del adulto, sin rol en pediatría."
+      },
+      {
+        "text": "E) Insulina.",
+        "isCorrect": false,
+        "explanation": "Sin relación con el neuroblastoma."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Emergencias Oncológicas",
+    "text": "Niño con síntomas B de 2 semanas. ¿Hallazgo en Rx de tórax que indica emergencia?",
+    "hint": "Linfomas y leucemias T pueden debutar con grandes masas en el mediastino[cite: 287].",
+    "options": [
+      {
+        "text": "A) Corazón grande.",
+        "isCorrect": false,
+        "explanation": "Daría falla cardíaca, pero no es el hallazgo oncológico típico de emergencia mediastínica."
+      },
+      {
+        "text": "B) Masa mediastínica con compresión de la tráquea.",
+        "isCorrect": true,
+        "explanation": "El compromiso de vía aérea es una emergencia vital; requiere tratamiento inmediato para que el niño pueda respirar[cite: 282, 288]."
+      },
+      {
+        "text": "C) Pulmones muy negros.",
+        "isCorrect": false,
+        "explanation": "Signo de atrapamiento aéreo, inespecífico."
+      },
+      {
+        "text": "D) Neumonía de la base.",
+        "isCorrect": false,
+        "explanation": "Cuadro infeccioso común."
+      },
+      {
+        "text": "E) Fractura de costilla.",
+        "isCorrect": false,
+        "explanation": "Hallazgo traumático."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Pronóstico en LLA",
+    "text": "¿Cuál es el factor pronóstico más importante en la LLA pediátrica actualmente?",
+    "hint": "Refleja la sensibilidad biológica de las células a la quimioterapia[cite: 297].",
+    "options": [
+      {
+        "text": "A) Color de pelo.",
+        "isCorrect": false,
+        "explanation": "Sin relevancia biológica."
+      },
+      {
+        "text": "B) Respuesta temprana (Enfermedad Mínima Residual negativa al día 15 o 33).",
+        "isCorrect": true,
+        "explanation": "Una desaparición rápida de los blastos predice una alta probabilidad de curación definitiva[cite: 292, 298]."
+      },
+      {
+        "text": "C) Peso al nacer.",
+        "isCorrect": false,
+        "explanation": "Sin impacto pronóstico directo demostrado."
+      },
+      {
+        "text": "D) Edad de la madre.",
+        "isCorrect": false,
+        "explanation": "Sin impacto pronóstico directo demostrado."
+      },
+      {
+        "text": "E) Estación del año.",
+        "isCorrect": false,
+        "explanation": "Sin impacto pronóstico directo demostrado."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Fiebre Neutropénica",
+    "text": "¿Qué es la 'Fiebre Neutropénica' en un paciente oncológico?",
+    "hint": "El paciente no tiene defensas para frenar una infección[cite: 308].",
+    "options": [
+      {
+        "text": "A) Fiebre sin importancia.",
+        "isCorrect": false,
+        "explanation": "Concepto erróneo y peligroso."
+      },
+      {
+        "text": "B) Fiebre con neutrófilos < 500/mm³; requiere hospitalización inmediata y antibióticos EV.",
+        "isCorrect": true,
+        "explanation": "Es una emergencia; una infección banal puede causar shock séptico y muerte en pocas horas[cite: 302, 303, 309]."
+      },
+      {
+        "text": "C) Tratar con paracetamol en casa.",
+        "isCorrect": false,
+        "explanation": "Absolutamente insuficiente y peligroso."
+      },
+      {
+        "text": "D) Normal después de jugar.",
+        "isCorrect": false,
+        "explanation": "La fiebre en oncológicos nunca es normal."
+      },
+      {
+        "text": "E) Fin del tratamiento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Hipertensión Endocraneana",
+    "text": "Importancia del fondo de ojo en sospecha de tumor cerebral en APS:",
+    "hint": "El aumento de presión se transmite a través de la vaina del nervio óptico[cite: 318].",
+    "options": [
+      {
+        "text": "A) Medir miopía.",
+        "isCorrect": false,
+        "explanation": "Sin relación con el diagnóstico oncológico."
+      },
+      {
+        "text": "B) Detectar edema de papila, que confirma hipertensión endocraneana.",
+        "isCorrect": true,
+        "explanation": "Un fondo de ojo con papila de bordes borrosos es signo de proceso expansivo intracraneal[cite: 313, 319]."
+      },
+      {
+        "text": "C) Ver cataratas.",
+        "isCorrect": false,
+        "explanation": "Se detectan con el reflejo rojo."
+      },
+      {
+        "text": "D) No sirve.",
+        "isCorrect": false,
+        "explanation": "Herramienta diagnóstica clave en APS."
+      },
+      {
+        "text": "E) Presión ocular.",
+        "isCorrect": false,
+        "explanation": "Se usa para glaucoma."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Salud Pública",
+    "text": "¿Sobrevida global aproximada del cáncer infantil en Chile en centros PINDA?",
+    "hint": "Chile tiene resultados similares a países desarrollados[cite: 333].",
+    "options": [
+      {
+        "text": "A) 10%.",
+        "isCorrect": false,
+        "explanation": "Cifra de países sin acceso a salud oncológica especializada."
+      },
+      {
+        "text": "B) 75-80%.",
+        "isCorrect": true,
+        "explanation": "La mayoría de los niños se curan si son diagnosticados y tratados a tiempo en centros especializados[cite: 325, 334]."
+      },
+      {
+        "text": "C) 100%.",
+        "isCorrect": false,
+        "explanation": "Aunque es la meta, existen casos de refractariedad o complicaciones."
+      },
+      {
+        "text": "D) 50%.",
+        "isCorrect": false,
+        "explanation": "Cifra superada ampliamente por la red nacional."
+      },
+      {
+        "text": "E) 0%.",
+        "isCorrect": false,
+        "explanation": "Absurdo."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Cardiotoxicidad",
+    "text": "¿Qué fármaco se asocia clásicamente a cardiotoxicidad a largo plazo?",
+    "hint": "Requieren monitoreo con ecocardiogramas periódicos[cite: 343].",
+    "options": [
+      {
+        "text": "A) Metotrexato.",
+        "isCorrect": false,
+        "explanation": "Principal toxicidad es mucosa (mucositis) y hepática."
+      },
+      {
+        "text": "B) Antraciclinas (Doxorrubicina, Daunorrubicina).",
+        "isCorrect": true,
+        "explanation": "Causan daño miocárdico dosis-dependiente que puede manifestarse años después del tratamiento[cite: 338, 344]."
+      },
+      {
+        "text": "C) Vincristina.",
+        "isCorrect": false,
+        "explanation": "Principal toxicidad es neurológica (neuropatía periférica)."
+      },
+      {
+        "text": "D) Ciclofosfamida.",
+        "isCorrect": false,
+        "explanation": "Principal toxicidad es la cistitis hemorrágica."
+      },
+      {
+        "text": "E) Asparraginasa.",
+        "isCorrect": false,
+        "explanation": "Principal toxicidad es pancreática o reacciones alérgicas."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Adenopatía Supraclavicular",
+    "text": "¿Conducta ante adenopatía supraclavicular aislada de 1 cm?",
+    "hint": "Es una ubicación 'prohibida' para adenopatías reactivas[cite: 353].",
+    "options": [
+      {
+        "text": "A) Observar por 1 mes.",
+        "isCorrect": false,
+        "explanation": "Peligroso; retrasa el diagnóstico de malignidad probable."
+      },
+      {
+        "text": "B) Iniciar antibióticos.",
+        "isCorrect": false,
+        "explanation": "No es una zona típica de adenitis piógena."
+      },
+      {
+        "text": "C) Derivar de inmediato para biopsia.",
+        "isCorrect": true,
+        "explanation": "Casi el 100% son patológicas (linfomas o metástasis de tórax/abdomen)[cite: 349, 354]."
+      },
+      {
+        "text": "D) Ecografía y alta.",
+        "isCorrect": false,
+        "explanation": "La eco no reemplaza la histología en esta ubicación crítica."
+      },
+      {
+        "text": "E) Tranquilizar.",
+        "isCorrect": false,
+        "explanation": "Mala práctica."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Tiflitis",
+    "text": "Niño con leucemia, dolor abdominal intenso y neutropenia severa. ¿Sospecha?",
+    "hint": "Inflamación/infección del ciego en pacientes sin defensas[cite: 364].",
+    "options": [
+      {
+        "text": "A) Apendicitis simple.",
+        "isCorrect": false,
+        "explanation": "Posible, pero en oncológicos neutropénicos el cuadro es más agresivo."
+      },
+      {
+        "text": "B) Tiflitis (Enterocolitis neutropénica).",
+        "isCorrect": true,
+        "explanation": "Emergencia oncológica con alta mortalidad; requiere reposo intestinal y antibióticos potentes[cite: 359, 365]."
+      },
+      {
+        "text": "C) Gastritis por estrés.",
+        "isCorrect": false,
+        "explanation": "No explica la gravedad del dolor ni la fiebre."
+      },
+      {
+        "text": "D) Estreñimiento.",
+        "isCorrect": false,
+        "explanation": "Síntoma común por fármacos, pero no es la prioridad vital."
+      },
+      {
+        "text": "E) Infección urinaria.",
+        "isCorrect": false,
+        "explanation": "No suele presentarse con abdomen agudo oncológico."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Mortalidad en Adolescentes",
+    "text": "¿Principal causa de muerte por cáncer en adolescentes en Chile (no leucemia)?",
+    "hint": "Los tumores cerebrales son muy letales en este grupo[cite: 374].",
+    "options": [
+      {
+        "text": "A) Osteosarcoma metastásico.",
+        "isCorrect": false,
+        "explanation": "Causa importante de morbilidad, pero no supera en letalidad a los del SNC."
+      },
+      {
+        "text": "B) Tumores del Sistema Nervioso Central.",
+        "isCorrect": true,
+        "explanation": "Representan la causa número uno de mortalidad por cáncer sólido en pediatría[cite: 369, 375]."
+      },
+      {
+        "text": "C) Cáncer de piel.",
+        "isCorrect": false,
+        "explanation": "Excepcional como causa de muerte en adolescentes."
+      },
+      {
+        "text": "D) Cáncer de mama.",
+        "isCorrect": false,
+        "explanation": "Patología del adulto."
+      },
+      {
+        "text": "E) Linfoma de Burkitt.",
+        "isCorrect": false,
+        "explanation": "Muy agresivo pero con alta tasa de curación con tratamiento moderno."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Síndrome de Opsoclonus-Mioclonus",
+    "text": "¿Qué es el 'Opsoclonus-Mioclonus' y con qué tumor se asocia?",
+    "hint": "Llamado síndrome de los 'ojos y pies danzantes'[cite: 384].",
+    "options": [
+      {
+        "text": "A) Forma de epilepsia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto; es un fenómeno paraneoplásico."
+      },
+      {
+        "text": "B) Movimientos oculares caóticos y sacudidas, asociado a Neuroblastoma oculto.",
+        "isCorrect": true,
+        "explanation": "Su hallazgo obliga a realizar un escaneo corporal total en busca de un neuroblastoma[cite: 379, 385]."
+      },
+      {
+        "text": "C) Infección viral.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Fractura.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) No existe.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Seguimiento",
+    "text": "¿Beneficio del 'Seguimiento a largo plazo' en sobrevivientes?",
+    "hint": "La cura del cáncer puede tener un precio biológico a 20-30 años plazo[cite: 394].",
+    "options": [
+      {
+        "text": "A) Ninguno.",
+        "isCorrect": false,
+        "explanation": "Falso; el riesgo de secuelas es alto."
+      },
+      {
+        "text": "B) Detectar efectos tardíos (segundas neoplasias, fallas endocrinas, daño cardíaco).",
+        "isCorrect": true,
+        "explanation": "Vitales para asegurar la calidad de vida del adulto que fue niño oncológico[cite: 389, 395]."
+      },
+      {
+        "text": "C) No olvidar el hospital.",
+        "isCorrect": false,
+        "explanation": "Objetivo emocional no médico."
+      },
+      {
+        "text": "D) Solo investigación.",
+        "isCorrect": false,
+        "explanation": "Tiene un beneficio clínico directo para el paciente."
+      },
+      {
+        "text": "E) Trámite administrativo.",
+        "isCorrect": false,
+        "explanation": "Falso."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Masa Abdominal",
+    "text": "Niño de 2 años con hematuria indolora y masa abdominal lisa. ¿Examen de imagen más útil inicialmente?",
+    "hint": "Es rápida, no irradia y diferencia masas sólidas de quísticas[cite: 405].",
+    "options": [
+      {
+        "text": "A) Radiografía simple.",
+        "isCorrect": false,
+        "explanation": "Poca resolución para caracterizar la masa."
+      },
+      {
+        "text": "B) Ecografía abdominal con Doppler renal.",
+        "isCorrect": true,
+        "explanation": "Confirmará el origen renal (Wilms) y evaluará trombos en vena renal[cite: 400, 406]."
+      },
+      {
+        "text": "C) PET-CT.",
+        "isCorrect": false,
+        "explanation": "Examen de avanzada, no inicial."
+      },
+      {
+        "text": "D) Endoscopía.",
+        "isCorrect": false,
+        "explanation": "Para lumen digestivo, no masas abdominales sólidas."
+      },
+      {
+        "text": "E) Cintigrafía ósea.",
+        "isCorrect": false,
+        "explanation": "Busca metástasis óseas, no caracteriza la masa primaria renal."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Signos de Alarma",
+    "text": "¿Cuál es un 'signo de alarma' según campañas del MINSAL?",
+    "hint": "El dolor del cáncer no respeta el descanso[cite: 415].",
+    "options": [
+      {
+        "text": "A) Apetito conservado.",
+        "isCorrect": false,
+        "explanation": "Signo de salud general."
+      },
+      {
+        "text": "B) Dolor persistente de huesos o articulaciones que despierta al niño de noche.",
+        "isCorrect": true,
+        "explanation": "Señal clave para que los padres consulten precozmente[cite: 410, 416]."
+      },
+      {
+        "text": "C) Estornudos.",
+        "isCorrect": false,
+        "explanation": "Reflejo común o alérgico."
+      },
+      {
+        "text": "D) Que juegue mucho.",
+        "isCorrect": false,
+        "explanation": "Signo de salud."
+      },
+      {
+        "text": "E) Pelo brillante.",
+        "isCorrect": false,
+        "explanation": "Signo de salud."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Pancitopenia",
+    "text": "¿Qué indica la 'Pancitopenia' en un niño previamente sano?",
+    "hint": "La médula no está produciendo nada; esto es siempre patológico[cite: 425].",
+    "options": [
+      {
+        "text": "A) Niño cansado.",
+        "isCorrect": false,
+        "explanation": "Es la consecuencia, no la causa médica."
+      },
+      {
+        "text": "B) Urgencia diagnóstica; sugiere infiltración tumoral o aplasia medular.",
+        "isCorrect": true,
+        "explanation": "Requiere estudio inmediato con frotis y derivación para mielograma[cite: 420, 426]."
+      },
+      {
+        "text": "C) Déficit leve de vitaminas.",
+        "isCorrect": false,
+        "explanation": "El déficit vitamínico no suele causar pancitopenia súbita severa."
+      },
+      {
+        "text": "D) Error de laboratorio.",
+        "isCorrect": false,
+        "explanation": "Debe asumirse real hasta descartar."
+      },
+      {
+        "text": "E) Normal.",
+        "isCorrect": false,
+        "explanation": "Falso."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Síntomas B",
+    "text": "¿Qué indica el 'Prurito' generalizado intenso en Linfoma de Hodgkin?",
+    "hint": "Manifestación sistémica por liberación de citoquinas inflamatorias[cite: 435].",
+    "options": [
+      {
+        "text": "A) Alergia al jabón.",
+        "isCorrect": false,
+        "explanation": "Diagnóstico común que puede retrasar el oncológico."
+      },
+      {
+        "text": "B) Es un síntoma B paraneoplásico que a veces precede al diagnóstico.",
+        "isCorrect": true,
+        "explanation": "El prurito 'acuagénico' o persistente sin lesiones primarias debe hacer sospechar linfoma[cite: 430, 436]."
+      },
+      {
+        "text": "C) Sarna.",
+        "isCorrect": false,
+        "explanation": "Daría lesiones interdigitales y pápulas."
+      },
+      {
+        "text": "D) Picaduras.",
+        "isCorrect": false,
+        "explanation": "Daría lesiones focales."
+      },
+      {
+        "text": "E) Sin relación.",
+        "isCorrect": false,
+        "explanation": "Existe relación paraneoplásica clara."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Radioterapia",
+    "text": "¿Riesgo de la 'Radioterapia espinal' en niños pequeños?",
+    "hint": "La radiación daña los centros de crecimiento de las vértebras[cite: 445].",
+    "options": [
+      {
+        "text": "A) Más alto.",
+        "isCorrect": false,
+        "explanation": "Falso."
+      },
+      {
+        "text": "B) Alteración del crecimiento vertebral con talla baja final desproporcionada (tronco corto).",
+        "isCorrect": true,
+        "explanation": "Secuela conocida que requiere seguimiento ortopédico y endocrinológico[cite: 440, 446]."
+      },
+      {
+        "text": "C) Desaparición de costillas.",
+        "isCorrect": false,
+        "explanation": "No es el efecto primario."
+      },
+      {
+        "text": "D) Mejora postura.",
+        "isCorrect": false,
+        "explanation": "Falso."
+      },
+      {
+        "text": "E) Sin riesgos.",
+        "isCorrect": false,
+        "explanation": "Falso."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Sarcoma de Ewing - Genética",
+    "text": "¿Qué caracteriza al 'Tumor de Ewing' en citogenética?",
+    "hint": "Es el marcador molecular diagnóstico en la mayoría de los casos[cite: 455].",
+    "options": [
+      {
+        "text": "A) Translocación t(11;22).",
+        "isCorrect": true,
+        "explanation": "La identificación del gen de fusión EWS-FLI1 confirma la sospecha histológica[cite: 449, 456]."
+      },
+      {
+        "text": "B) Sin cambios.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) Trisomía 21.",
+        "isCorrect": false,
+        "explanation": "Asociado a riesgo de leucemia, no específicamente a Ewing."
+      },
+      {
+        "text": "D) Monosomía del X.",
+        "isCorrect": false,
+        "explanation": "Turner."
+      },
+      {
+        "text": "E) Cromosoma Filadelfia.",
+        "isCorrect": false,
+        "explanation": "Asociado a LMC o LLA de mal pronóstico."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Sarcoma de Partes Blandas",
+    "text": "Masa en encía de rápido crecimiento con destrucción ósea local. ¿Tumor sospechado?",
+    "hint": "Es el sarcoma de partes blandas más común en la infancia[cite: 466].",
+    "options": [
+      {
+        "text": "A) Rabdomiosarcoma.",
+        "isCorrect": true,
+        "explanation": "Suele localizarse en cabeza y cuello (órbita, boca) o tracto genitourinario[cite: 460, 467]."
+      },
+      {
+        "text": "B) Caries dental.",
+        "isCorrect": false,
+        "explanation": "No produce masas de partes blandas agresivas."
+      },
+      {
+        "text": "C) Quiste de retención.",
+        "isCorrect": false,
+        "explanation": "Lesión benigna no destructiva."
+      },
+      {
+        "text": "D) Lipoma.",
+        "isCorrect": false,
+        "explanation": "Masa grasa blanda de crecimiento lento."
+      },
+      {
+        "text": "E) Verruga viral.",
+        "isCorrect": false,
+        "explanation": "Lesión superficial benigna."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Leucocoria",
+    "text": "¿Conducta ante una 'Leucocoria' detectada por un médico de APS?",
+    "hint": "Una de las pocas emergencias oncológicas detectables por simple inspección[cite: 476].",
+    "options": [
+      {
+        "text": "A) Control en 6 meses.",
+        "isCorrect": false,
+        "explanation": "Error negligente."
+      },
+      {
+        "text": "B) Derivación inmediata al oftalmólogo para descartar Retinoblastoma.",
+        "isCorrect": true,
+        "explanation": "El tiempo es crítico para salvar el ojo y prevenir metástasis al cerebro[cite: 471, 477]."
+      },
+      {
+        "text": "C) Gotas para infección.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Lavar con agua.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Examen de sangre.",
+        "isCorrect": false,
+        "explanation": "No sustituye la evaluación oftalmológica."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Síndromes de Predisposición",
+    "text": "¿Qué es el 'Síndrome de Li-Fraumeni'?",
+    "hint": "Familias con múltiples casos de cáncer en edades tempranas[cite: 486].",
+    "options": [
+      {
+        "text": "A) Tipo de dieta.",
+        "isCorrect": false,
+        "explanation": "Falso."
+      },
+      {
+        "text": "B) Predisposición hereditaria por mutación en el gen supresor p53.",
+        "isCorrect": true,
+        "explanation": "Requiere vigilancia oncológica extrema de por vida en portadores[cite: 481, 487]."
+      },
+      {
+        "text": "C) Gripe.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Fractura.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "E) Vacuna.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Examen Físico",
+    "text": "¿Por qué es importante NO palpar vigorosamente una masa abdominal?",
+    "hint": "La integridad de la cápsula define el estadio y el pronóstico[cite: 496].",
+    "options": [
+      {
+        "text": "A) Por dolor.",
+        "isCorrect": false,
+        "explanation": "Es un factor, pero no el motivo médico de seguridad oncológica."
+      },
+      {
+        "text": "B) Evitar riesgo de rotura de cápsula y diseminación peritoneal (especialmente en Wilms).",
+        "isCorrect": true,
+        "explanation": "Una palpación agresiva puede transformar un tumor localizado en uno diseminado[cite: 491, 497]."
+      },
+      {
+        "text": "C) Porque llora.",
+        "isCorrect": false,
+        "explanation": "Inespecífico."
+      },
+      {
+        "text": "D) Sin razón.",
+        "isCorrect": false,
+        "explanation": "Falso."
+      },
+      {
+        "text": "E) No ensuciarse.",
+        "isCorrect": false,
+        "explanation": "Absurdo."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Oncología Infantil",
+    "topic": "Rol del Médico de APS",
+    "text": "¿Cuál es el rol fundamental del médico de APS en el cáncer infantil?",
+    "hint": "El médico de cabecera es la primera línea de defensa del niño[cite: 506].",
+    "options": [
+      {
+        "text": "A) Quimioterapia.",
+        "isCorrect": false,
+        "explanation": "Rol del oncólogo especialista."
+      },
+      {
+        "text": "B) Detección precoz mediante examen sistemático, alta sospecha ante signos de alarma y derivación oportuna.",
+        "isCorrect": true,
+        "explanation": "La sobrevida depende de cuán rápido el médico de APS identifique que algo no anda bien y active los protocolos[cite: 501, 507]."
+      },
+      {
+        "text": "C) Ningún rol.",
+        "isCorrect": false,
+        "explanation": "Falso; es el pilar de la sobrevida."
+      },
+      {
+        "text": "D) Operar.",
+        "isCorrect": false,
+        "explanation": "Rol del cirujano oncólogo."
+      },
+      {
+        "text": "E) Autopsia.",
+        "isCorrect": false,
+        "explanation": "Rol del patólogo forense."
+      }
+    ]
+  }
+]
