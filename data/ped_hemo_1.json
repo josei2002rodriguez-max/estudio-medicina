@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Trombocitopenia Inmune Primaria (PTI)",
+    "text": "Un preescolar de 4 años presenta bruscamente petequias y equimosis generalizadas tras un cuadro febril viral hace 2 semanas. Se encuentra en buen estado general, sin visceromegalia ni adenopatías. El hemograma muestra: Hb 12.5 g/dL, Leucocitos 8.500/mm³ con fórmula normal y Plaquetas 15.000/mm³. ¿Cuál es el diagnóstico más probable? [cite: 4, 5, 6, 7, 8]",
+    "hint": "Busque el hallazgo de trombocitopenia aislada en un niño con excelente estado general. [cite: 15]",
+    "options": [
+      {
+        "text": "A) Leucemia Linfoblástica Aguda (LLA). [cite: 9]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En la LLA esperaríamos bicitopenia o pancitopenia, blastos en el frotis y signos sistémicos como fiebre persistente, dolor óseo o visceromegalia, ausentes en este caso. [cite: 20]"
+      },
+      {
+        "text": "B) Trombocitopenia Inmune Primaria (PTI). [cite: 10]",
+        "isCorrect": true,
+        "explanation": "Correcto. La PTI es la causa más común de trombocitopenia aislada post-viral en pediatría. Se caracteriza por un niño con piel purpúrica pero que clínicamente se siente bien ('niño sano con manchas'). [cite: 16, 17, 18]"
+      },
+      {
+        "text": "C) Anemia Aplásica. [cite: 11]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La anemia aplásica cursa con falla medular global (pancitopenia) y reticulocitos bajos, no con trombocitopenia aislada y hemoglobina normal. [cite: 21]"
+      },
+      {
+        "text": "D) Púrpura de Schönlein-Henoch. [cite: 12]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta es una vasculitis donde las plaquetas son normales o incluso altas. Además, las púrpuras suelen ser palpables y limitadas a zonas de declive. [cite: 22]"
+      },
+      {
+        "text": "E) Coagulación Intravascular Diseminada (CID). [cite: 13]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La CID ocurre en pacientes críticos (sepsis/shock). Mostraría consumo de factores (TP/TTPA prolongados) y esquistocitos, no un buen estado general. [cite: 23]"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Enfermedad de Von Willebrand (EvW)",
+    "text": "Un escolar de 10 años consulta por epistaxis recurrente y sangrado gingival tras el cepillado. Su padre presenta antecedentes similares. Los exámenes muestran: Plaquetas normal, TP normal, TTPA levemente prolongado y Tiempo de Sangría prolongado. ¿Qué patología sospecha? [cite: 24, 25, 26]",
+    "hint": "Trastorno hemorrágico hereditario más común que afecta la adhesión plaquetaria y estabiliza al Factor VIII. [cite: 33]",
+    "options": [
+      {
+        "text": "A) Hemofilia A. [cite: 27]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En la Hemofilia A el tiempo de sangría es normal porque la hemostasia primaria (plaquetas) funciona bien; el sangrado es típicamente profundo (hemartrosis). [cite: 37]"
+      },
+      {
+        "text": "B) Enfermedad de Von Willebrand (EvW). [cite: 28]",
+        "isCorrect": true,
+        "explanation": "Correcto. La EvW es la coagulopatía hereditaria más frecuente. Presenta sangrado mucocutáneo, tiempo de sangría largo (falla de adhesión) y TTPA largo si el Factor VIII está bajo. [cite: 34, 35]"
+      },
+      {
+        "text": "C) Hemofilia B. [cite: 29]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que la Hemofilia A, el tiempo de sangría es normal y el cuadro clínico se centra en sangrados musculares o articulares, no gingivorragia leve. [cite: 38, 39]"
+      },
+      {
+        "text": "D) Deficiencia de Vitamina K. [cite: 30]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta deficiencia prolonga principalmente el TP (vía extrínseca) y suele ser un cuadro adquirido agudo, no una tendencia familiar hereditaria. [cite: 40]"
+      },
+      {
+        "text": "E) Trombocitopatía de Glanzmann. [cite: 31]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque el tiempo de sangría es largo, el TTPA es normal en Glanzmann y no hay relación con el Factor VIII o antecedentes de este patrón. [cite: 41]"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Estudio de Coagulopatías (Hemofilia)",
+    "text": "Un lactante varón de 8 meses presenta un gran hematoma en el cuádriceps tras una vacuna IM y aumento de volumen doloroso en la rodilla tras gatear. ¿Qué examen inicial es el más orientado? [cite: 42, 43, 44]",
+    "hint": "Los sangrados profundos u osteoarticulares orientan a fallas en la vía intrínseca. [cite: 51]",
+    "options": [
+      {
+        "text": "A) Tiempo de Protrombina (TP). [cite: 45]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El TP evalúa la vía extrínseca (Factor VII). Las hemofilias afectan la vía intrínseca, por lo que el TP resulta normal. [cite: 55]"
+      },
+      {
+        "text": "B) Tiempo de Tromboplastina Parcial Activada (TTPA). [cite: 46]",
+        "isCorrect": true,
+        "explanation": "Correcto. El cuadro de hemartrosis y hematomas tras vacunas en un varón sugiere Hemofilia (déficit de VIII o IX). Estos factores se evalúan con el TTPA. [cite: 52, 53]"
+      },
+      {
+        "text": "C) Tiempo de Sangría. [cite: 47]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Evalúa la función de las plaquetas (hemostasia primaria). En la hemofilia, este tiempo es normal. [cite: 56]"
+      },
+      {
+        "text": "D) Recuento de plaquetas. [cite: 48]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las plaquetas son normales en número y función en la hemofilia; el defecto es plasmático. [cite: 57]"
+      },
+      {
+        "text": "E) Fibrinógeno. [cite: 49]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se utiliza para sospechar CID o afibrinogenemia, pero no es el test de primera línea para hemofilia. [cite: 58]"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Tratamiento de PTI Aguda",
+    "text": "¿Cuál es el tratamiento de elección inicial para un niño con PTI aguda, plaquetas de 5.000/mm³ y petequias mucosas? [cite: 59, 60, 61]",
+    "hint": "El objetivo es elevar rápidamente las plaquetas para prevenir hemorragia del SNC. [cite: 68]",
+    "options": [
+      {
+        "text": "A) Esplenectomía de urgencia. [cite: 62]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La esplenectomía solo se considera en casos crónicos (más de 12 meses) que no responden a tratamiento médico, nunca en el episodio agudo inicial. [cite: 72]"
+      },
+      {
+        "text": "B) Transfusión de plaquetas inmediata. [cite: 63]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En la PTI, las plaquetas transfundidas se destruyen en minutos por los anticuerpos. Solo se indica si hay riesgo vital inminente. [cite: 73]"
+      },
+      {
+        "text": "C) Inmunoglobulina endovenosa (IGEV) o Corticoides. [cite: 64]",
+        "isCorrect": true,
+        "explanation": "Correcto. Ante trombocitopenia severa (<10.000) con sangrado mucoso, se usa IGEV para un aumento rápido o corticoides para frenar la destrucción. [cite: 69, 70]"
+      },
+      {
+        "text": "D) Observación clínica estricta sin fármacos. [cite: 65]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Si bien se puede observar en PTI leve, un recuento de 5.000 con sangrado de mucosas exige tratamiento por riesgo de hemorragia mayor. [cite: 74, 76]"
+      },
+      {
+        "text": "E) Quimioterapia con Vincristina. [cite: 66]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un fármaco de rescate para PTI crónica refractaria, no se usa en el manejo de urgencia del debut. [cite: 77]"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Enfermedad Hemorrágica por Déficit de Vitamina K",
+    "text": "Lactante de 1 mes, LME y sin profilaxis al nacer, presenta sangrado umbilical y melena. TP de 60s, TTPA de 80s y plaquetas normales. ¿Tratamiento? [cite: 78, 79, 80, 81]",
+    "hint": "Clásica enfermedad hemorrágica del recién nacido por falta de profilaxis. [cite: 88]",
+    "options": [
+      {
+        "text": "A) Vitamina K1 endovenosa. [cite: 82]",
+        "isCorrect": true,
+        "explanation": "Correcto. La falta de Vitamina K impide la activación de los factores II, VII, IX y X. La reposición corrige la coagulopatía rápidamente. [cite: 89, 90]"
+      },
+      {
+        "text": "B) Transfusión de glóbulos rojos. [cite: 83]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Trataría la anemia si el sangrado fuera masivo, pero no corrige el defecto en la cascada de coagulación. [cite: 92]"
+      },
+      {
+        "text": "C) Antibióticos de amplio espectro. [cite: 84]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay signos de infección ni foco febril; es un trastorno de síntesis de factores puramente carencial. [cite: 93]"
+      },
+      {
+        "text": "D) Plasma Fresco Congelado únicamente. [cite: 85]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El plasma aporta los factores pero la Vitamina K es la medida definitiva para que el hígado vuelva a producirlos. [cite: 94]"
+      },
+      {
+        "text": "E) Fototerapia. [cite: 86]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La fototerapia se usa para tratar la ictericia neonatal (bilirrubina alta), no tiene efecto alguno sobre la coagulación. [cite: 95]"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Púrpura de Schönlein-Henoch (PSH)",
+    "text": "Niño de 7 años con púrpuras palpables, dolor abdominal y artralgia. Plaquetas normales. ¿Qué examen es fundamental en el seguimiento? [cite: 96, 97, 98, 99]",
+    "hint": "La nefritis es la complicación que marca el pronóstico a largo plazo en la PSH. [cite: 106]",
+    "options": [
+      {
+        "text": "A) Ecografía de rodilla. [cite: 100]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La artralgia es común y autolimitada; no deja secuelas ni requiere monitorización con imágenes de rutina. [cite: 110]"
+      },
+      {
+        "text": "B) Orina completa (búsqueda de hematuria/proteinuria). [cite: 101]",
+        "isCorrect": true,
+        "explanation": "Correcto. El compromiso renal ocurre en el 30-50% de los niños con PSH y puede ser tardío. La monitorización de la orina es clave durante meses. [cite: 107, 108]"
+      },
+      {
+        "text": "C) Biopsia de piel obligatoria. [cite: 102]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El diagnóstico de PSH es clínico. La biopsia se reserva para presentaciones atípicas o dudas diagnósticas. [cite: 111]"
+      },
+      {
+        "text": "D) Niveles de complemento C3 y C4. [cite: 103]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. A diferencia de otras glomerulonefritis, en la PSH el complemento suele estar en rangos normales. [cite: 112]"
+      },
+      {
+        "text": "E) Recuento de plaquetas semanal. [cite: 104]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las plaquetas no se ven afectadas en la PSH (vasculitis); no hay riesgo de trombocitopenia que vigilar. [cite: 113]"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Déficit de Factor VII",
+    "text": "En el estudio de un niño con sangrado, se encuentra un TP prolongado con un TTPA normal. ¿Déficit de qué factor sospecharía de forma aislada? [cite: 114, 115, 116]",
+    "hint": "Factor único que pertenece exclusivamente a la vía extrínseca. [cite: 123]",
+    "options": [
+      {
+        "text": "A) Factor VIII. [cite: 117]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El Factor VIII es de la vía intrínseca; su déficit prolongaría el TTPA, no el TP. [cite: 126]"
+      },
+      {
+        "text": "B) Factor IX. [cite: 118]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que el VIII, pertenece a la vía intrínseca evaluada por el TTPA. [cite: 126]"
+      },
+      {
+        "text": "C) Factor VII. [cite: 119]",
+        "isCorrect": true,
+        "explanation": "Correcto. El Factor VII es el componente central de la vía extrínseca. Su déficit aislado prolonga el TP manteniendo el TTPA normal. [cite: 124]"
+      },
+      {
+        "text": "D) Factor XII. [cite: 120]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Involucrado en la vía intrínseca; altera el TTPA (aunque habitualmente sin clínica de sangrado). [cite: 126]"
+      },
+      {
+        "text": "E) Factor de Von Willebrand. [cite: 121]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Afecta la función plaquetaria y puede prolongar el TTPA (por el VIII), pero no tiene impacto en el TP. [cite: 127]"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Urgencia en Hemofilia",
+    "text": "Paciente con Hemofilia A severa consulta por dolor y aumento de volumen en el codo tras traumatismo leve hace 2 horas. ¿Conducta? [cite: 128, 129, 130]",
+    "hint": "En hemofilia ante sospecha de sangrado articular, el tratamiento debe ser inmediato. [cite: 138]",
+    "options": [
+      {
+        "text": "A) Solicitar radiografía de codo y esperar resultado. [cite: 131]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La radiografía no detecta sangre aguda y esperar retrasa el tratamiento que evita el daño permanente (artropatía). [cite: 141]"
+      },
+      {
+        "text": "B) Indicar reposo, hielo local y paracetamol. [cite: 132]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son medidas de soporte útiles pero secundarias; no detienen el sangrado por déficit de factor. [cite: 142]"
+      },
+      {
+        "text": "C) Administrar Concentrado de Factor VIII de inmediato (dosis 40-50 UI/kg). [cite: 133, 134]",
+        "isCorrect": true,
+        "explanation": "Correcto. El manejo de la urgencia en hemofilia es reponer el factor al 100% ante cualquier sospecha de sangrado en articulación o zona crítica. [cite: 139]"
+      },
+      {
+        "text": "D) Realizar artrococentesis para evacuar la sangre. [cite: 135]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Generalmente contraindicado por riesgo de infección e inducción de más sangrado sin haber aportado factor primero. [cite: 143]"
+      },
+      {
+        "text": "E) Administrar Desmopresina (DDAVP). [cite: 136]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo es útil en Hemofilia A LEVE; en la severa (<1% de actividad) no hay depósitos que liberar. [cite: 144, 145]"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Coagulación Intravascular Diseminada (CID)",
+    "text": "RN con sangrado por punciones, febril y mal perfundido (sepsis). TP y TTPA largos, Plaquetas 30.000, Fibrinógeno bajo y Dímero D muy alto. ¿Diagnóstico? [cite: 146, 147, 148, 149, 150]",
+    "hint": "Busque la combinación de consumo de plaquetas, factores y fibrinólisis activa. [cite: 157]",
+    "options": [
+      {
+        "text": "A) PTI neonatal. [cite: 151]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En la PTI neonatal los tiempos de coagulación y el Dímero D serían normales; solo habría plaquetopenia. [cite: 161]"
+      },
+      {
+        "text": "B) Enfermedad hemorrágica del RN. [cite: 152]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El Dímero D y las plaquetas serían normales; el cuadro se limita a déficit de factores específicos. [cite: 162]"
+      },
+      {
+        "text": "C) Coagulación Intravascular Diseminada (CID). [cite: 153]",
+        "isCorrect": true,
+        "explanation": "Correcto. La CID es una activación masiva y patológica de la coagulación que consume plaquetas y factores, elevando los productos de degradación (Dímero D). [cite: 158, 159]"
+      },
+      {
+        "text": "D) Aloinmunización plaquetaria. [cite: 154]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa trombocitopenia aislada en un RN que suele verse sano, no explica la alteración de tiempos ni el compromiso sistémico. [cite: 164]"
+      },
+      {
+        "text": "E) Déficit de Factor XIII. [cite: 155]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En el déficit de XIII los exámenes habituales (TP/TTPA) son normales; el diagnóstico requiere test de solubilidad. [cite: 165]"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Diagnóstico Diferencial del Niño con Moretones",
+    "text": "En sospecha de Maltrato, ¿qué hallazgo físico podría confundirse con un trastorno hemorrágico orgánico? [cite: 166, 167]",
+    "hint": "El diagnóstico diferencial debe incluir siempre trauma no accidental. [cite: 174]",
+    "options": [
+      {
+        "text": "A) Mancha mongólica. [cite: 168]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es congénita, azulada y estable; no cambia de color ni duele, por lo que se diferencia fácil de moretones agudos. [cite: 178]"
+      },
+      {
+        "text": "B) Eritema tóxico. [cite: 169]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son pápulas o vesículas benignas del RN, no guardan similitud con lesiones purpúricas. [cite: 179]"
+      },
+      {
+        "text": "C) Equimosis en diferentes estadios de curación (colores variados). [cite: 170]",
+        "isCorrect": true,
+        "explanation": "Correcto. Los moretones de diferentes colores indican agresiones en distintos momentos. Obliga a descartar coagulopatía antes de la acusación. [cite: 175, 176]"
+      },
+      {
+        "text": "D) Hemangioma en fresa. [cite: 171]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una lesión vascular con relieve y color rojo brillante, sin aspecto de sangre extravasada traumática."
+      },
+      {
+        "text": "E) Urticaria pigmentosa. [cite: 172]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son lesiones que forman habones al roce (signo de Darier), no son hemorrágicas. [cite: 180]"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Prueba de Mezcla",
+    "text": "Adolescente con sangrado tras cirugía dental, plaquetas y TP normales, TTPA 55s. Al mezclar con plasma normal, el TTPA se normaliza. ¿Qué indica? [cite: 181, 182, 183, 184, 185]",
+    "hint": "Si el plasma normal 'corrige', es porque aportó el factor que faltaba. [cite: 192]",
+    "options": [
+      {
+        "text": "A) Presencia de un inhibidor. [cite: 186]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Si hubiera un inhibidor (ej. anticoagulante lúpico), este 'atacaría' también al plasma normal y el tiempo no corregiría. [cite: 196]"
+      },
+      {
+        "text": "B) Déficit de un factor de la vía intrínseca. [cite: 187]",
+        "isCorrect": true,
+        "explanation": "Correcto. La normalización con la mezcla confirma un déficit cuantitativo de factores (VIII, IX, XI o XII) que se soluciona al aportar plasma sano. [cite: 193, 194]"
+      },
+      {
+        "text": "C) El paciente está usando heparina. [cite: 188]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La heparina actúa como inhibidor (vía antitrombina), por lo que no corregiría totalmente con la mezcla simple. [cite: 197]"
+      },
+      {
+        "text": "D) El paciente tiene una trombocitopatía. [cite: 189]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los defectos de función de las plaquetas no afectan los tiempos de coagulación plasmáticos (TTPA). [cite: 198]"
+      },
+      {
+        "text": "E) El examen está mal tomado. [cite: 190]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El resultado es consistente con una patología hematológica específica (déficit de factor)."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Trombocitopenia Aloinmune Neonatal (TAN)",
+    "text": "¿Cuál es la causa más frecuente de Púrpura Trombocitopénica en un recién nacido que se ve clínicamente sano? [cite: 199, 200]",
+    "hint": "Es el equivalente neonatal a la enfermedad hemolítica por RH, pero con plaquetas. [cite: 207]",
+    "options": [
+      {
+        "text": "A) Infección por Citomegalovirus (TORCH). [cite: 201]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Un bebé con TORCH tendría compromiso sistémico: visceromegalia, ictericia o microcefalia; no se vería 'sano'. [cite: 211]"
+      },
+      {
+        "text": "B) Trombocitopenia Aloinmune Neonatal (TAN). [cite: 202]",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la causa #1 en RN sanos. Ocurre por anticuerpos maternos contra antígenos del bebé (HPA-1a) destruyendo sus plaquetas. [cite: 208, 209]"
+      },
+      {
+        "text": "C) Sepsis por Gram negativos. [cite: 203]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Un niño con sepsis está gravemente enfermo, con mala perfusión y probablemente CID asociada. [cite: 212]"
+      },
+      {
+        "text": "D) Síndrome de Kasabach-Merritt. [cite: 204]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Requeriría la presencia de un gran hemangioma visible que atrapa y consume las plaquetas. [cite: 213]"
+      },
+      {
+        "text": "E) Trombosis de la vena renal. [cite: 205]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se sospecha ante masa palpable en flanco y hematuria franca, no por púrpuras aisladas en un niño sano. [cite: 214]"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Complicaciones de PSH",
+    "text": "Niño de 5 años con PSH presenta dolor abdominal súbito, vómitos y masa palpable en salchicha. ¿Complicación quirúrgica? [cite: 215, 216, 217]",
+    "hint": "El edema de la pared intestinal actúa como 'cabeza' de invaginación. [cite: 224]",
+    "options": [
+      {
+        "text": "A) Apendicitis aguda. [cite: 218]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque posible, la masa palpable en salchicha y el antecedente de PSH orientan patognomónicamente a invaginación. [cite: 228]"
+      },
+      {
+        "text": "B) Vasculitis mesentérica pura. [cite: 219]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa dolor abdominal fuerte, pero no explicaría la presencia de una masa física palpable (intestino dentro de intestino). [cite: 229]"
+      },
+      {
+        "text": "C) Invaginación intestinal (Intususcepción). [cite: 220]",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la complicación quirúrgica clásica de la PSH. El edema por vasculitis gatilla que un segmento entre en otro. [cite: 225, 226]"
+      },
+      {
+        "text": "D) Perforación gástrica. [cite: 221]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cursaría con abdomen en tabla por peritonitis química, no con una masa palpable discreta."
+      },
+      {
+        "text": "E) Vólvulo de intestino medio. [cite: 222]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Típico de malrotación en lactantes pequeños con vómitos biliosos, no asociado a vasculitis IgA. [cite: 230]"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Manejo de PTI Asintomática",
+    "text": "¿A partir de qué nivel de plaquetas se suele recomendar tratamiento en una PTI asintomática para evitar sangrado mayor? [cite: 231, 232]",
+    "hint": "Umbral de seguridad para actividades diarias sin sangrado espontáneo severo. [cite: 243]",
+    "options": [
+      {
+        "text": "A) 100.000/mm³. [cite: 234]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el límite inferior de la normalidad para diagnóstico, no un umbral de tratamiento preventivo. [cite: 247]"
+      },
+      {
+        "text": "B) 50.000/mm³. [cite: 236]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Con este nivel no hay riesgo de sangrado espontáneo; se permite vida normal evitando traumas. [cite: 247]"
+      },
+      {
+        "text": "C) 20.000 - 30.000/mm³. [cite: 238]",
+        "isCorrect": true,
+        "explanation": "Correcto. Por debajo de este rango el riesgo de sangrado espontáneo aumenta, justificando terapia preventiva incluso si el paciente está asintomático. [cite: 244, 245]"
+      },
+      {
+        "text": "D) 150.000/mm³. [cite: 240]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Valor de normalidad absoluta; no requiere ninguna intervención. [cite: 247]"
+      },
+      {
+        "text": "E) Solo si el paciente sangra, independientemente del número. [cite: 241]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque se 'trata al niño', niveles extremadamente bajos (<10.000) obligan a tratar preventivamente por riesgo de hemorragia del SNC."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Desmopresina (DDAVP)",
+    "text": "En la EvW tipo 1, ¿cuál es el mecanismo del fármaco Desmopresina (DDAVP)? [cite: 248, 249]",
+    "hint": "Hormona sintética que 'exprime' los depósitos naturales del paciente. [cite: 256]",
+    "options": [
+      {
+        "text": "A) Estimula la síntesis hepática de Factor VIII. [cite: 250]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No aumenta la fabricación de novo en el hígado; libera lo que ya está fabricado y almacenado."
+      },
+      {
+        "text": "B) Inhibe la agregación plaquetaria. [cite: 251]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Haría lo opuesto al objetivo clínico, agravando el sangrado."
+      },
+      {
+        "text": "C) Provoca la liberación de Factor vW y VIII desde los depósitos endoteliales. [cite: 252]",
+        "isCorrect": true,
+        "explanation": "Correcto. El DDAVP libera los factores desde los Cuerpos de Weibel-Palade del endotelio, elevando sus niveles plasmáticos temporalmente. [cite: 253, 257]"
+      },
+      {
+        "text": "D) Actúa como un factor de coagulación artificial. [cite: 253]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una proteína de reemplazo, sino un inductor de liberación endógena."
+      },
+      {
+        "text": "E) Bloquea la plasmina. [cite: 254]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este es el mecanismo de los antifibrinolíticos como el Ácido Tranexámico. [cite: 259]"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Frotis en SHU",
+    "text": "¿Qué hallazgo en el frotis sería MÁS sugerente de Síndrome Hemolítico Urémico (SHU)? [cite: 260, 261]",
+    "hint": "Glóbulos rojos rotos por el paso a través de microtrombos. [cite: 268]",
+    "options": [
+      {
+        "text": "A) Blastos. [cite: 262]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indica infiltración medular por células neoplásicas (leucemia), no una hemólisis mecánica. [cite: 272]"
+      },
+      {
+        "text": "B) Esquistocitos (glóbulos rojos fragmentados). [cite: 263]",
+        "isCorrect": true,
+        "explanation": "Correcto. Los esquistocitos confirman una anemia hemolítica microangiopática, sello del SHU pediátrico. [cite: 269, 270]"
+      },
+      {
+        "text": "C) Dianocitos. [cite: 264]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se observan en talasemias o enfermedades del hígado, no son marcadores de fragmentación traumática. [cite: 273]"
+      },
+      {
+        "text": "D) Neutrófilos hipersegmentados. [cite: 265]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Signo clásico de déficit de vitamina B12 o ácido fólico. [cite: 274]"
+      },
+      {
+        "text": "E) Corpúsculos de Heinz. [cite: 266]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aparecen por hemoglobina desnaturalizada ante estrés oxidativo (ej. déficit G6PD)."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Herencia de Hemofilia",
+    "text": "¿Cuál es el patrón de herencia más común de la Hemofilia A y B? [cite: 275, 276]",
+    "hint": "Afecta casi exclusivamente a varones; las mujeres son portadoras. [cite: 283]",
+    "options": [
+      {
+        "text": "A) Autosómica dominante. [cite: 277]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este es el patrón de la Enfermedad de Von Willebrand tipo 1. [cite: 286]"
+      },
+      {
+        "text": "B) Autosómica recesiva. [cite: 278]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Patrón de deficiencias raras de factores como el VII o el X. [cite: 287]"
+      },
+      {
+        "text": "C) Ligada al cromosoma X recesiva. [cite: 279]",
+        "isCorrect": true,
+        "explanation": "Correcto. Los genes de los factores VIII y IX se ubican en el cromosoma X, explicando por qué los varones (XY) padecen la enfermedad. [cite: 282, 284]"
+      },
+      {
+        "text": "D) Mitocondrial. [cite: 280]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las enfermedades mitocondriales se heredan solo por vía materna a todos los hijos, no es el caso de la hemofilia."
+      },
+      {
+        "text": "E) Ligada al Y. [cite: 281]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La herencia holándrica es extremadamente rara y no corresponde a los genes de la coagulación."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Preparación para Esplenectomía",
+    "text": "¿Qué medida preventiva es indispensable semanas antes de una esplenectomía por PTI crónica? [cite: 288, 289, 290]",
+    "hint": "El bazo es el principal órgano depurador de bacterias con cápsula. [cite: 297]",
+    "options": [
+      {
+        "text": "A) Iniciar antibióticos de por vida. [cite: 291]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La profilaxis antibiótica se inicia POST-cirugía; el paso previo obligatorio es la inmunización activa. [cite: 300]"
+      },
+      {
+        "text": "B) Vacunación contra Neumococo, Meningococo y H. influenzae. [cite: 292]",
+        "isCorrect": true,
+        "explanation": "Correcto. El paciente asplénico tiene alto riesgo de sepsis fulminante por gérmenes capsulados; debe vacunarse al menos 2 semanas antes. [cite: 296, 298]"
+      },
+      {
+        "text": "C) Transfusión de 10 unidades de plaquetas. [cite: 293]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una medida preventiva crónica; las plaquetas se transfundirían solo en pabellón si el recuento fuera crítico."
+      },
+      {
+        "text": "D) Dieta sin gluten. [cite: 294]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La dieta celíaca no tiene relación con la cirugía de bazo o el riesgo infeccioso."
+      },
+      {
+        "text": "E) Radioterapia esplénica. [cite: 295]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se utiliza radioterapia para preparar una esplenectomía benigna por PTI."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Trombastenia de Glanzmann",
+    "text": "¿Cómo se encuentra el laboratorio en una Trombastenia de Glanzmann? [cite: 301, 302]",
+    "hint": "Defecto de calidad (agregación), no de cantidad de plaquetas. [cite: 309]",
+    "options": [
+      {
+        "text": "A) Plaquetas bajas, TP normal, TTPA normal. [cite: 303]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto describiría una PTI; en Glanzmann el recuento de plaquetas es normal."
+      },
+      {
+        "text": "B) Plaquetas normales, tiempos normales, Tiempo de Sangría prolongado. [cite: 304]",
+        "isCorrect": true,
+        "explanation": "Correcto. Al fallar el receptor GPIIb/IIIa, las plaquetas no se agregan entre sí. La hemostasia primaria falla (sangría largo) con número normal. [cite: 308, 310]"
+      },
+      {
+        "text": "C) Plaquetas normales, TP largo, TTPA largo. [cite: 305]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indicaría un déficit severo de factores de la vía común (I, II, V, X) o hepatopatía."
+      },
+      {
+        "text": "D) Plaquetas gigantes en el frotis. [cite: 306]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el signo de Bernard-Soulier (defecto de adhesión), no de Glanzmann. [cite: 312]"
+      },
+      {
+        "text": "E) Ausencia de Factor VIII. [cite: 307]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Hallazgo de Hemofilia A."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Gravedad en PSH",
+    "text": "En la PSH, ¿qué indica la presencia de 'púrpuras sobre la cintura' o bullas hemorrágicas? [cite: 313, 314]",
+    "hint": "La extensión cutánea no siempre predice el daño orgánico interno. [cite: 321]",
+    "options": [
+      {
+        "text": "A) Mayor riesgo de compromiso renal. [cite: 315]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los factores predictores de nefritis son la edad mayor de 7 años y el dolor abdominal severo persistente, no la extensión de la púrpura. [cite: 325]"
+      },
+      {
+        "text": "B) Que el diagnóstico es falso. [cite: 316]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El diagnóstico sigue siendo PSH; solo es una presentación cutánea más florida."
+      },
+      {
+        "text": "C) Infección por estafilococo asociada. [cite: 317]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay asociación etiológica directa con infecciones bacterianas de piel en este cuadro."
+      },
+      {
+        "text": "D) Solo un cuadro cutáneo más llamativo, sin relación con la gravedad renal. [cite: 318]",
+        "isCorrect": true,
+        "explanation": "Correcto. La gravedad de la PSH la marca la afectación renal (hematuria/proteinuria) e intestinal, independientemente de la ubicación de las púrpuras. [cite: 320, 322]"
+      },
+      {
+        "text": "E) Necesidad de corticoides EV inmediatos. [cite: 319]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los corticoides se reservan para dolor abdominal severo o compromiso renal, no para la extensión de las lesiones de piel."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Déficit de Factor XIII",
+    "text": "RN de 4 días con hemorragia intracraneal espontánea. Plaquetas, TP y TTPA normales. ¿Déficit sospechado? [cite: 326, 327, 328]",
+    "hint": "Única coagulopatía donde los exámenes de rutina (TP/TTPA) son normales. [cite: 335]",
+    "options": [
+      {
+        "text": "A) Factor VIII. [cite: 329]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El déficit de VIII prolonga el TTPA de forma característica. [cite: 340]"
+      },
+      {
+        "text": "B) Factor IX. [cite: 330]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que el VIII, alteraría el TTPA."
+      },
+      {
+        "text": "C) Factor XIII. [cite: 331]",
+        "isCorrect": true,
+        "explanation": "Correcto. El Factor XIII estabiliza el coágulo; su déficit permite formar la red de fibrina (tiempos normales) pero esta se disuelve rápido, causando sangrados severos. [cite: 334, 336, 337]"
+      },
+      {
+        "text": "D) Factor VII. [cite: 332]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Prolongaría significativamente el TP. [cite: 340]"
+      },
+      {
+        "text": "E) Fibrinógeno. [cite: 333]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su ausencia prolonga tanto el TP como el TTPA. [cite: 341]"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Púrpura Mecánica",
+    "text": "¿Causa probable de petequias localizadas solo en cara y cuello tras tos intensa o vómitos? [cite: 342, 343]",
+    "hint": "Distribución por encima de la línea de la vena cava superior (fenómeno de presión). [cite: 350]",
+    "options": [
+      {
+        "text": "A) PTI. [cite: 344]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las petequias en la PTI son generalizadas y se acentúan en sitios de roce o zonas de declive (piernas). [cite: 354]"
+      },
+      {
+        "text": "B) Mecánica (Aumento de presión capilar). [cite: 345]",
+        "isCorrect": true,
+        "explanation": "Correcto. El esfuerzo agudo rompe capilares pequeños por presión retrógrada. Es benigno y no indica enfermedad hematológica. [cite: 349, 351, 352]"
+      },
+      {
+        "text": "C) Meningococcemia. [cite: 346]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un cuadro de shock febril grave con púrpuras que progresan rápidamente a necrosis, no petequias faciales leves aisladas. [cite: 355]"
+      },
+      {
+        "text": "D) Deficiencia de Vitamina C. [cite: 347]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El escorbuto da púrpuras perifoliculares, típicamente en extremidades inferiores."
+      },
+      {
+        "text": "E) Vasculitis de grandes vasos. [cite: 348]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las vasculitis de grandes vasos (ej. Takayasu) cursan con ausencia de pulsos y soplos, no petequias faciales agudas."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Manejo de Hemofilia B",
+    "text": "¿Manejo inicial de hemartrosis de rodilla en un niño con Hemofilia B? [cite: 356, 357]",
+    "hint": "Reponer el factor faltante de forma específica. [cite: 364]",
+    "options": [
+      {
+        "text": "A) Transfusión de Concentrado de Factor IX. [cite: 358]",
+        "isCorrect": true,
+        "explanation": "Correcto. La Hemofilia B es el déficit de Factor IX. El tratamiento consiste en aportar el factor específico que el niño no puede producir. [cite: 363, 365]"
+      },
+      {
+        "text": "B) Transfusión de Concentrado de Factor VIII. [cite: 359]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El Factor VIII es para Hemofilia A; no tiene utilidad en el déficit de Factor IX."
+      },
+      {
+        "text": "C) Administrar Crioprecipitados. [cite: 360]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los crioprecipitados NO contienen Factor IX. Contienen VIII, vW y Fibrinógeno. [cite: 367, 368]"
+      },
+      {
+        "text": "D) Inmovilizar con yeso por 3 semanas. [cite: 361]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La inmovilización prolongada en hemofilia causa atrofia muscular y rigidez articular severa. Se prefiere fisioterapia precoz tras el factor."
+      },
+      {
+        "text": "E) Ácido acetilsalicílico (Aspirina). [cite: 362]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Prohibida en hemofílicos por su efecto antiagregante que potencia el sangrado. [cite: 369]"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Ácido Tranexámico",
+    "text": "Escolar con EvW y epistaxis incoercible recibe Ácido Tranexámico. ¿Mecanismo? [cite: 370, 371]",
+    "hint": "Evita que el coágulo ya formado se deshaga antes de tiempo. [cite: 379]",
+    "options": [
+      {
+        "text": "A) Estimula la agregación. [cite: 373]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No actúa sobre la función de las plaquetas ni sus receptores."
+      },
+      {
+        "text": "B) Antifibrinolítico (Inhibe la activación del plasminógeno). [cite: 374]",
+        "isCorrect": true,
+        "explanation": "Correcto. Bloquea la conversión de plasminógeno en plasmina, estabilizando la red de fibrina ya formada. Muy útil en mucosas. [cite: 378, 380]"
+      },
+      {
+        "text": "C) Aporta factor vW externo. [cite: 375]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El ácido tranexámico es una molécula sintética pequeña, no un factor plasmático."
+      },
+      {
+        "text": "D) Vasoconstrictor potente. [cite: 376]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene acción sobre el músculo liso de las arteriolas. [cite: 382]"
+      },
+      {
+        "text": "E) Quelante de calcio. [cite: 377]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El calcio es necesario para la coagulación; un quelante agravaría el sangrado."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Tamaño Plaquetario en PTI",
+    "text": "En el hemograma de un niño con PTI, ¿cómo se describe el tamaño de las plaquetas? [cite: 383, 384]",
+    "hint": "La médula ósea está sana y libera plaquetas jóvenes para compensar. [cite: 391]",
+    "options": [
+      {
+        "text": "A) Microplaquetas. [cite: 385]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las plaquetas pequeñas sugieren falla de producción o síndromes específicos como Wiskott-Aldrich. [cite: 394]"
+      },
+      {
+        "text": "B) Plaquetas de tamaño normal. [cite: 386]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque puede haber, la característica del debut destructivo es la presencia de formas jóvenes."
+      },
+      {
+        "text": "C) Megaplaquetas (Macroplaquetas). [cite: 387]",
+        "isCorrect": true,
+        "explanation": "Correcto. Las plaquetas grandes son más jóvenes. Su presencia confirma que la trombocitopenia es periférica (destrucción) y no central. [cite: 390, 392]"
+      },
+      {
+        "text": "D) Ausencia total de plaquetas. [cite: 388]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Siempre se detectan algunas formas residuales incluso en recuentos muy bajos."
+      },
+      {
+        "text": "E) Plaquetas en grumos. [cite: 389]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto sugeriría Pseudotrombocitopenia por EDTA (un error de laboratorio in vitro)."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Déficit de Factor XII",
+    "text": "Adolescente varón asintomático, TP 13s (Normal) y TTPA 90s (Muy prolongado). ¿Déficit probable? [cite: 395, 396, 397, 398]",
+    "hint": "La 'paradoja de la coagulación': gran alteración in vitro pero sin clínica de sangrado. [cite: 406]",
+    "options": [
+      {
+        "text": "A) Factor VIII. [cite: 400]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Un déficit de VIII con un TTPA de 90s daría sangrados articulares severos espontáneos. [cite: 410]"
+      },
+      {
+        "text": "B) Factor IX. [cite: 401]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que la Hemofilia A, cursa con clínica hemorrágica importante."
+      },
+      {
+        "text": "C) Factor XII (Factor Hageman). [cite: 402]",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el único déficit que alarga masivamente el TTPA sin causar tendencia al sangrado clínico. Es un hallazgo casual. [cite: 405, 407, 408]"
+      },
+      {
+        "text": "D) Factor XI. [cite: 403]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El déficit de XI (Hemofilia C) sí puede cursar con sangrados tras cirugías o extracciones dentales."
+      },
+      {
+        "text": "E) Factor de Von Willebrand severo. [cite: 404]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Un déficit severo daría sangrados mucocutáneos masivos y probablemente afectación de la hemostasia primaria."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Síndrome de Kasabach-Merritt",
+    "text": "¿Cuál es la triada diagnóstica del Síndrome de Kasabach-Merritt? [cite: 411, 412]",
+    "hint": "El tumor vascular 'secuestra' y destruye los recursos hemostáticos. [cite: 419]",
+    "options": [
+      {
+        "text": "A) Hemangioma gigante, trombocitopenia y coagulopatía de consumo. [cite: 413]",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una complicación grave donde un tumor vascular (hemangioendotelioma) consume masivamente plaquetas y factores de coagulación. [cite: 418, 420]"
+      },
+      {
+        "text": "B) Fiebre, púrpura y falla renal. [cite: 414]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugiere un SHU o una vasculitis sistémica infecciosa. [cite: 422]"
+      },
+      {
+        "text": "C) Anemia, ictericia y esplenomegalia. [cite: 415]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tríada clásica de las anemias hemolíticas extravasculares (como esferocitosis)."
+      },
+      {
+        "text": "D) Epistaxis, telangiectasias y herencia familiar. [cite: 416]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Características de la Telangiectasia Hemorrágica Hereditaria (Síndrome de Rendu-Osler-Weber). [cite: 423]"
+      },
+      {
+        "text": "E) Obesidad, estrías y sangrado. [cite: 417]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Podría sugerir Síndrome de Cushing, sin relación con el atrapamiento plaquetario tumoral."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Hemofilia vs. Von Willebrand",
+    "text": "¿Qué exámenes diferencian Hemofilia A de la Enfermedad de Von Willebrand tipo 2 o 3? [cite: 425]",
+    "hint": "La EvW afecta a la proteína transportadora del Factor VIII. [cite: 432]",
+    "options": [
+      {
+        "text": "A) Solo el TTPA. [cite: 426]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ambos pueden tener TTPA prolongado; no permite la diferenciación diagnóstica."
+      },
+      {
+        "text": "B) Niveles de Factor VIII, Antígeno vW y Cofactor de Ristocetina. [cite: 427]",
+        "isCorrect": true,
+        "explanation": "Correcto. Permiten ver si el Factor VIII está bajo de forma primaria o secundaria a la falta de su transportador (vW). [cite: 431, 433]"
+      },
+      {
+        "text": "C) Solo el recuento de plaquetas. [cite: 428]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las plaquetas son normales en número en ambos casos (excepto raramente en EvW tipo 2B)."
+      },
+      {
+        "text": "D) Tiempo de Sangría únicamente. [cite: 429]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque suele ser normal en Hemofilia y largo en EvW, no es lo suficientemente sensible ni específico para diagnóstico definitivo."
+      },
+      {
+        "text": "E) Biopsia de médula ósea. [cite: 430]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Innecesaria; el defecto es plasmático o de liberación endotelial, no de producción medular."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Inhibidores en Hemofilia",
+    "text": "¿Cuál es un factor de riesgo para desarrollar inhibidores (anticuerpos) en Hemofilia? [cite: 434, 435]",
+    "hint": "El sistema inmune ve al factor inyectado como una proteína extraña. [cite: 442]",
+    "options": [
+      {
+        "text": "A) Tener Hemofilia Leve. [cite: 436]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En la leve el cuerpo produce algo de factor, por lo que el sistema inmune es más tolerante a la proteína inyectada."
+      },
+      {
+        "text": "B) Mutaciones tipo 'deleción total' y días de exposición al tratamiento. [cite: 437]",
+        "isCorrect": true,
+        "explanation": "Correcto. Si el cuerpo nunca ha visto la proteína (deleción), el riesgo de crear anticuerpos al inyectarla es mucho mayor. [cite: 441, 443]"
+      },
+      {
+        "text": "C) Comer muchos lácteos. [cite: 438]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La dieta no influye en la formación de anticuerpos contra factores de coagulación."
+      },
+      {
+        "text": "D) Ser de sexo femenino. [cite: 439]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La mayoría de los pacientes son varones; el sexo no es un factor de riesgo conocido para inhibidores."
+      },
+      {
+        "text": "E) Uso de paracetamol. [cite: 440]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El paracetamol es el analgésico de elección y es seguro en estos pacientes."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Púrpura Ortostática",
+    "text": "Niño presenta petequias solo de rodilla hacia abajo tras viaje largo. Asintomático y laboratorio normal. ¿Diagnóstico? [cite: 444, 445, 446]",
+    "hint": "Ocurre por aumento de presión hidrostática capilar. [cite: 453]",
+    "options": [
+      {
+        "text": "A) PTI. [cite: 447]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las petequias por bajo recuento de plaquetas no respetarían de forma tan selectiva la línea de las rodillas. [cite: 454]"
+      },
+      {
+        "text": "B) Púrpura ortostática. [cite: 448]",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una variante mecánica benigna donde la presión de la sangre en bipedestación prolongada rompe capilares frágiles. [cite: 452, 454]"
+      },
+      {
+        "text": "C) PSH. [cite: 449]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Requeriría que las púrpuras fueran palpables y habitualmente asocia otros síntomas (dolor abdominal o articular)."
+      },
+      {
+        "text": "D) Escorbuto. [cite: 450]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Cursaría con púrpuras perifoliculares y sangrado gingival severo."
+      },
+      {
+        "text": "E) Síndrome de Blue Rubber Bleb Nevus. [cite: 451]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un síndrome de malformaciones venosas cutáneas y viscerales de aspecto azulado crónico."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Test de Torniquete (Rumpel-Leede)",
+    "text": "¿Cuál es la utilidad del Test de Torniquete? [cite: 455, 456]",
+    "hint": "Se infla el manguito y se observa si aparecen petequias distales. [cite: 463]",
+    "options": [
+      {
+        "text": "A) Diagnosticar Hemofilia. [cite: 457]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las hemofilias son defectos de factores plasmáticos, no de fragilidad vascular periférica."
+      },
+      {
+        "text": "B) Evaluar la fragilidad capilar (ej. sospecha de Dengue). [cite: 458]",
+        "isCorrect": true,
+        "explanation": "Correcto. Una prueba positiva sugiere fragilidad de los vasos o trombocitopenia subyacente. [cite: 462, 464]"
+      },
+      {
+        "text": "C) Medir la presión arterial. [cite: 459]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se usa el manguito de presión para realizarla, pero el fin es observar la piel, no registrar la presión."
+      },
+      {
+        "text": "D) Detener una hemorragia masiva. [cite: 460]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El torniquete como medida de urgencia quirúrgica es distinto a esta prueba diagnóstica cutánea."
+      },
+      {
+        "text": "E) Ver si el niño es alérgico al látex. [cite: 461]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Para ello se realizarían pruebas de parche o IgE específica."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Cefalohematoma vs. Caput",
+    "text": "¿Qué diferencia el cefalohematoma del caput succedaneum? [cite: 465, 466]",
+    "hint": "El periostio está 'pegado' a los bordes de cada hueso del cráneo. [cite: 473]",
+    "options": [
+      {
+        "text": "A) El cefalohematoma cruza suturas. [cite: 467]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El cefalohematoma es subperióstico y el periostio termina en la sutura, por lo que el sangrado no puede pasar al hueso vecino. [cite: 474]"
+      },
+      {
+        "text": "B) El cefalohematoma respeta las suturas óseas. [cite: 468]",
+        "isCorrect": true,
+        "explanation": "Correcto. Al ser una colección de sangre bajo el periostio, este la limita estrictamente al hueso donde se produjo el sangrado. [cite: 472, 474]"
+      },
+      {
+        "text": "C) El caput es muy duro. [cite: 469]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El caput es edema blando y depresible (fóvea), a diferencia del cefalohematoma que puede ser tenso."
+      },
+      {
+        "text": "D) El caput es una emergencia quirúrgica. [cite: 470]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un hallazgo benigno que resuelve solo en pocos días sin tratamiento. [cite: 475]"
+      },
+      {
+        "text": "E) No hay diferencia. [cite: 471]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son entidades distintas con diferente origen (sangre vs. edema) y ubicación anatómica."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Mortalidad en Hemofilia",
+    "text": "¿Cuál es la causa más frecuente de muerte en pacientes pediátricos con Hemofilia actualmente? [cite: 476, 477]",
+    "hint": "Sangrado en el órgano más crítico y difícil de detectar precozmente. [cite: 484]",
+    "options": [
+      {
+        "text": "A) Exanguinación por corte cutáneo. [cite: 478]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los cortes superficiales se controlan fácilmente con medidas locales y factor; no son letales."
+      },
+      {
+        "text": "B) Hemorragia intracraneana. [cite: 479]",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la urgencia vital máxima. Cualquier golpe de cabeza en un hemofílico se trata como hemorragia cerebral hasta demostrar lo contrario. [cite: 483, 485]"
+      },
+      {
+        "text": "C) Sepsis por transfusión de sangre. [cite: 480]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El uso de concentrados de factor recombinante (sin sangre humana) ha reducido este riesgo casi a cero."
+      },
+      {
+        "text": "D) Hemartrosis de rodilla. [cite: 481]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa discapacidad y dolor crónico (artropatía), pero no es causa de muerte."
+      },
+      {
+        "text": "E) Insuficiencia renal. [cite: 482]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una complicación sistémica característica de la hemofilia."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Antiagregación Plaquetaria",
+    "text": "¿Qué fármaco inhibidor de la agregación plaquetaria debe evitarse ante sospecha de trastorno hemorrágico? [cite: 486, 487]",
+    "hint": "Los AINEs inhiben la COX-1, afectando la producción de Tromboxano A2. [cite: 494]",
+    "options": [
+      {
+        "text": "A) Penicilina. [cite: 488]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Antibiótico seguro que no interfiere con la función de las plaquetas."
+      },
+      {
+        "text": "B) Ibuprofeno. [cite: 489]",
+        "isCorrect": true,
+        "explanation": "Correcto. Como la mayoría de los AINEs, altera la función plaquetaria de forma reversible, pudiendo agravar cualquier tendencia al sangrado. [cite: 493, 495]"
+      },
+      {
+        "text": "C) Amoxicilina. [cite: 490]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Medicamento seguro para el manejo de infecciones en pacientes con coagulopatías."
+      },
+      {
+        "text": "D) Salbutamol. [cite: 491]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Broncodilatador que no tiene impacto en la cascada de coagulación."
+      },
+      {
+        "text": "E) Cetirizina. [cite: 492]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Antihistamínico sin efectos adversos sobre la hemostasia."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Púrpura Fulminans",
+    "text": "¿Qué es la 'Púrpura Fulminans'? [cite: 496, 497]",
+    "hint": "Es una de las presentaciones más letales y rápidas en pediatría. [cite: 504]",
+    "options": [
+      {
+        "text": "A) Un tipo de PTI que se cura rápido. [cite: 498]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La PTI suele ser benigna; la Púrpura Fulminans es una condición catastrófica con alta mortalidad."
+      },
+      {
+        "text": "B) Emergencia con necrosis cutánea, trombosis y CID por déficit de Proteína C/S o sepsis. [cite: 499]",
+        "isCorrect": true,
+        "explanation": "Correcto. Se caracteriza por púrpuras que progresan a necrosis isquémica extensa por trombosis de pequeños vasos. [cite: 503, 505]"
+      },
+      {
+        "text": "C) Una reacción alérgica a las flores. [cite: 500]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sin ninguna relación con cuadros anafilácticos o alérgicos simples."
+      },
+      {
+        "text": "D) Un sangrado por la nariz muy fuerte. [cite: 501]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Una epistaxis severa es grave, pero no define el cuadro de necrosis sistémica de la púrpura fulminans."
+      },
+      {
+        "text": "E) Una enfermedad de los dientes. [cite: 502]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene relación con la salud bucal."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Clasificación de PTI",
+    "text": "Un niño con PTI no responde a corticoides tras 4 semanas de uso. ¿Cómo se clasifica? [cite: 506, 507]",
+    "hint": "El término 'crónica' solo se utiliza después del año de evolución. [cite: 514]",
+    "options": [
+      {
+        "text": "A) PTI aguda. [cite: 508]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se considera aguda hasta los 3 meses de duración. [cite: 516]"
+      },
+      {
+        "text": "B) PTI persistente. [cite: 509]",
+        "isCorrect": true,
+        "explanation": "Correcto. El periodo entre los 3 y 12 meses de duración sin remisión se denomina PTI persistente. [cite: 513, 517]"
+      },
+      {
+        "text": "C) PTI crónica. [cite: 510]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo se clasifica como crónica cuando la trombocitopenia persiste por más de 12 meses. [cite: 518]"
+      },
+      {
+        "text": "D) PTI refractaria. [cite: 511]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indica falla a múltiples líneas de tratamiento o necesidad de esplenectomía, no solo el tiempo de evolución inicial."
+      },
+      {
+        "text": "E) Remisión completa. [cite: 512]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Implica normalización del recuento de plaquetas sin síntomas."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Pruebas de Coagulación (Vía Extrínseca)",
+    "text": "En la deficiencia hereditaria de Factor VII, ¿cuál examen estará alterado? [cite: 519, 520]",
+    "hint": "Único factor de la vía extrínseca. [cite: 527]",
+    "options": [
+      {
+        "text": "A) TTPA. [cite: 521]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Evalúa la vía intrínseca (factores XII, XI, IX, VIII); el Factor VII no participa en ella."
+      },
+      {
+        "text": "B) TP (Tiempo de Protrombina). [cite: 522]",
+        "isCorrect": true,
+        "explanation": "Correcto. El TP es el test específico para la vía extrínseca, la cual depende exclusivamente del Factor VII. [cite: 526, 528]"
+      },
+      {
+        "text": "C) Tiempo de Trombina. [cite: 523]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Evalúa el paso final de fibrinógeno a fibrina, independiente del Factor VII."
+      },
+      {
+        "text": "D) Tiempo de Sangría. [cite: 524]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Mide la hemostasia primaria (plaquetas), no factores plasmáticos de coagulación."
+      },
+      {
+        "text": "E) Recuento de plaquetas. [cite: 525]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El número de plaquetas no se ve afectado por deficiencias de factores de coagulación."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Hemoderivados: Crioprecipitado",
+    "text": "¿Qué aporta principalmente el 'Crioprecipitado'? [cite: 529, 530]",
+    "hint": "Fracción concentrada del plasma rica en fibrinógeno y Factor VIII. [cite: 537]",
+    "options": [
+      {
+        "text": "A) Solo glóbulos rojos. [cite: 531]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los glóbulos rojos se administran como Concentrado de Hematíes, no en crioprecipitados."
+      },
+      {
+        "text": "B) Factor VIII, Fibrinógeno, Factor XIII y vW en poco volumen. [cite: 532]",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el tratamiento de elección cuando se requiere elevar el fibrinógeno de forma rápida con baja carga de volumen. [cite: 536, 538]"
+      },
+      {
+        "text": "C) Plaquetas. [cite: 533]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las plaquetas se administran por separado como pool de plaquetas o aféresis."
+      },
+      {
+        "text": "D) Factor IX exclusivamente. [cite: 534]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El crioprecipitado NO contiene Factor IX. Para ello se usa concentrado específico o plasma fresco."
+      },
+      {
+        "text": "E) Glóbulos blancos. [cite: 535]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tienen utilidad terapéutica en forma de crioprecipitado."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Herencia Ligada al X",
+    "text": "Niño con sangrados articulares; abuelo materno con el mismo problema y padre sano. ¿Herencia? [cite: 539, 540]",
+    "hint": "El gen 'salta' una generación a través de la madre portadora. [cite: 547]",
+    "options": [
+      {
+        "text": "A) Autosómica dominante. [cite: 541]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En este patrón veríamos afectación en todas las generaciones y tanto en hombres como en mujeres."
+      },
+      {
+        "text": "B) Ligada al X recesiva. [cite: 542]",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el patrón clásico de la Hemofilia. El abuelo transmite el X afectado a su hija (portadora), quien lo transmite a su hijo varón. [cite: 546, 548]"
+      },
+      {
+        "text": "C) Mutación de novo. [cite: 543]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Si bien un 30% de las hemofilias son de novo, en este caso hay un antecedente familiar claro."
+      },
+      {
+        "text": "D) Holándrica. [cite: 544]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La herencia ligada al Y pasaría de padre a hijo varón siempre; aquí el padre es sano."
+      },
+      {
+        "text": "E) Codominante. [cite: 545]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Patrón donde ambos alelos se expresan (como en el grupo sanguíneo AB), no aplica a la hemofilia."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Hematología",
+    "topic": "Primeros Auxilios en Epistaxis",
+    "text": "¿Medida más importante ante epistaxis en un niño con trastorno de coagulación conocido? [cite: 549, 550]",
+    "hint": "La compresión mecánica ayuda a la formación del tapón plaquetario inicial. [cite: 557]",
+    "options": [
+      {
+        "text": "A) Poner algodones con vinagre. [cite: 551]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Práctica casera irritante que puede dañar la mucosa y no tiene efecto procoagulante demostrado."
+      },
+      {
+        "text": "B) Compresión alar directa continua (10-15 min) con cabeza hacia adelante. [cite: 552]",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite la hemostasia primaria mecánica. La posición hacia adelante evita que el niño trague sangre (náuseas). [cite: 556, 559]"
+      },
+      {
+        "text": "C) Inclinar la cabeza hacia atrás. [cite: 553]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Favorece el paso de sangre a la vía digestiva, dificultando estimar la cuantía del sangrado y provocando vómitos. [cite: 558]"
+      },
+      {
+        "text": "D) Poner hielo en la nuca. [cite: 554]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tiene un efecto vasoconstrictor mínimo y lejano; no reemplaza la compresión directa necesaria."
+      },
+      {
+        "text": "E) Taponamiento posterior con gasas en casa. [cite: 555]",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un procedimiento médico complejo que debe realizarse bajo visualización profesional por riesgo de asfixia o necrosis."
+      }
+    ]
+  }
+]
