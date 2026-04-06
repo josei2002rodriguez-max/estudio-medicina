@@ -1,0 +1,807 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Torsión Testicular",
+    "text": "Un adolescente de 13 años consulta en urgencias por dolor testicular izquierdo de inicio súbito e intenso hace 2 horas, asociado a náuseas y un episodio de vómito. Al examen físico destaca un testículo izquierdo ascendido, horizontalizado (signo de Gouverneur) y el reflejo cremasteriano está ausente. ¿Cuál es la conducta inmediata más adecuada?",
+    "hint": "Ante una sospecha clínica alta de torsión testicular en el 'periodo de oro' (primeras 6 horas), no se debe perder tiempo en exámenes complementarios.",
+    "options": [
+      {
+        "text": "A) Solicitar una Ecografía Doppler testicular para confirmar el diagnóstico.",
+        "isCorrect": false,
+        "explanation": "La ecografía es útil en casos de duda razonable, pero en un cuadro clínico clásico (reflejo ausente y horizontalización), el retraso para realizar el examen pone en riesgo la viabilidad de la gónada."
+      },
+      {
+        "text": "B) Intentar una detorsión manual externa hacia lateral.",
+        "isCorrect": false,
+        "explanation": "Aunque se puede intentar como medida temporal 'hacia afuera' (como abrir un libro), no reemplaza la necesidad de cirugía urgente y fijación."
+      },
+      {
+        "text": "C) Derivación inmediata a pabellón para exploración quirúrgica sin retrasos.",
+        "isCorrect": true,
+        "explanation": "Correcto. La torsión testicular es una emergencia quirúrgica. El pronóstico de rescate es excelente (>90%) si se interviene antes de las 6 horas de evolución."
+      },
+      {
+        "text": "D) Iniciar tratamiento con antibióticos endovenosos por sospecha de epididimitis.",
+        "isCorrect": false,
+        "explanation": "La epididimitis suele ser de inicio gradual, presenta fiebre y el reflejo cremasteriano está presente, características ausentes en este caso."
+      },
+      {
+        "text": "E) Solicitar una cintigrafía testicular para evaluar la perfusión.",
+        "isCorrect": false,
+        "explanation": "Es un examen de medicina nuclear con alta sensibilidad pero de baja disponibilidad y lentitud, lo que la descarta en el manejo de urgencia."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Torsión de Hidátide de Morgagni",
+    "text": "Un escolar de 9 años presenta dolor testicular de inicio gradual. Al examen se aprecia una pequeña masa puntiforme de color azulado visible a través de la piel en el polo superior del testículo. El reflejo cremasteriano está presente y el testículo no está horizontalizado. ¿Diagnóstico?",
+    "hint": "Es la causa más frecuente de escroto agudo en niños de 7 a 12 años.",
+    "options": [
+      {
+        "text": "A) Torsión testicular intravaginal.",
+        "isCorrect": false,
+        "explanation": "Daría dolor súbito, ascenso testicular y ausencia de reflejo cremasteriano."
+      },
+      {
+        "text": "B) Orquitis urleana.",
+        "isCorrect": false,
+        "explanation": "Se asocia a antecedentes de parotiditis y edema difuso, no a un signo localizado de punto azul."
+      },
+      {
+        "text": "C) Torsión de hidátide de Morgagni.",
+        "isCorrect": true,
+        "explanation": "Correcto. El signo del 'punto azul' (Blue Dot Sign) es patognomónico de la torsión de este remanente embrionario (apéndice testicular)."
+      },
+      {
+        "text": "D) Epididimitis bacteriana.",
+        "isCorrect": false,
+        "explanation": "Suele asociarse a síntomas urinarios, fiebre y dolor en el trayecto posterior (epidídimo)."
+      },
+      {
+        "text": "E) Hernia inguinal atascada.",
+        "isCorrect": false,
+        "explanation": "Presentaría aumento de volumen inguinal doloroso, no una lesión puntiforme en el polo superior testicular."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Escroto Agudo - Diagnóstico Diferencial",
+    "text": "¿Cuál es el hallazgo clínico más sensible para DESCARTAR una torsión testicular?",
+    "hint": "Un reflejo neurológico presente suele ser incompatible con la torsión del cordón espermático.",
+    "options": [
+      {
+        "text": "A) Presencia de fiebre.",
+        "isCorrect": false,
+        "explanation": "La fiebre puede estar presente en torsiones evolucionadas o infecciosas, no es específica para descartar."
+      },
+      {
+        "text": "B) Presencia del reflejo cremasteriano.",
+        "isCorrect": true,
+        "explanation": "Correcto. El reflejo cremasteriano (elevación del testículo al rozar el muslo interno) está casi siempre ausente en la torsión. Su presencia es el factor clínico más fuerte para orientar a otras causas."
+      },
+      {
+        "text": "C) Coloración rosada de la piel.",
+        "isCorrect": false,
+        "explanation": "La piel puede verse normal al inicio de la torsión o roja en procesos inflamatorios."
+      },
+      {
+        "text": "D) Dolor que cede con el reposo.",
+        "isCorrect": false,
+        "explanation": "El dolor de la torsión es persistente y suele empeorar con cualquier movimiento."
+      },
+      {
+        "text": "E) Transiluminación positiva.",
+        "isCorrect": false,
+        "explanation": "Indica presencia de líquido (hidrocele), no ayuda a descartar isquemia testicular."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Manejo de la Torsión de Hidátide",
+    "text": "¿Cuál es el tratamiento de elección para un niño con diagnóstico confirmado de torsión de hidátide de Morgagni?",
+    "hint": "Es un proceso inflamatorio que tiende a la auto-resolución.",
+    "options": [
+      {
+        "text": "A) Orquidopexia bilateral de urgencia.",
+        "isCorrect": false,
+        "explanation": "No es necesario fijar los testículos ya que no hay riesgo de torsión del cordón."
+      },
+      {
+        "text": "B) Reposo, uso de suspensorio y antiinflamatorios (AINEs).",
+        "isCorrect": true,
+        "explanation": "Correcto. La torsión de hidátide es autolimitada; el tejido se necrosa y reabsorbe sin afectar la función testicular."
+      },
+      {
+        "text": "C) Extirpación quirúrgica inmediata de la hidátide.",
+        "isCorrect": false,
+        "explanation": "Solo se realiza si el dolor es refractario al manejo médico o si existe duda diagnóstica con torsión testicular."
+      },
+      {
+        "text": "D) Antibióticos por 14 días.",
+        "isCorrect": false,
+        "explanation": "No es un proceso infeccioso bacteriano."
+      },
+      {
+        "text": "E) Reducción manual.",
+        "isCorrect": false,
+        "explanation": "No existe una maniobra manual para 'detorcer' una hidátide."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Epididimitis en Niños",
+    "text": "En un niño prepúber (antes de la madurez sexual) con diagnóstico de epididimitis bacteriana a repetición, ¿cuál es la conducta más importante a seguir?",
+    "hint": "En niños que no han iniciado actividad sexual, la infección suele deberse a anomalías estructurales.",
+    "options": [
+      {
+        "text": "A) Dar más antibióticos cada vez.",
+        "isCorrect": false,
+        "explanation": "Es un manejo sintomático que no aborda la causa de base."
+      },
+      {
+        "text": "B) Realizar estudio anatómico de la vía urinaria (ej. Ecografía renal/vesical o Uretrocistografía).",
+        "isCorrect": true,
+        "explanation": "Correcto. En niños pequeños, la epididimitis sugiere malformaciones como uréter ectópico o válvulas de uretra posterior."
+      },
+      {
+        "text": "C) Indicar abstinencia sexual.",
+        "isCorrect": false,
+        "explanation": "Inadecuado para el grupo etario (prepúber)."
+      },
+      {
+        "text": "D) Circuncisión inmediata.",
+        "isCorrect": false,
+        "explanation": "No previene las epididimitis secundarias a malformaciones urológicas internas."
+      },
+      {
+        "text": "E) No requiere estudio, es normal en niños.",
+        "isCorrect": false,
+        "explanation": "Falso; la epididimitis bacteriana es poco común en niños sanos sin anomalías de la vía urinaria."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Edema Escrotal Idiopático Agudo",
+    "text": "Un niño de 6 años consulta por edema y eritema de la pared escrotal que se extiende hacia el periné. El niño NO refiere dolor testicular al tacto profundo, los testículos se palpan normales y el niño está en excelente estado general. ¿Diagnóstico?",
+    "hint": "Afecta la piel y el tejido celular subcutáneo, pero no a la gónada.",
+    "options": [
+      {
+        "text": "A) Torsión testicular.",
+        "isCorrect": false,
+        "explanation": "Daría dolor exquisito y compromiso de la gónada, no solo de la piel."
+      },
+      {
+        "text": "B) Edema Escrotal Idiopático Agudo.",
+        "isCorrect": true,
+        "explanation": "Es un cuadro benigno, indoloro, de causa desconocida (posiblemente alérgico) que resuelve espontáneamente en 24-48h."
+      },
+      {
+        "text": "C) Gangrena de Fournier.",
+        "isCorrect": false,
+        "explanation": "Es una fascitis necrotizante con grave compromiso sistémico, fiebre y necrosis cutánea, incompatible con un niño sano."
+      },
+      {
+        "text": "D) Orquitis bacteriana.",
+        "isCorrect": false,
+        "explanation": "Involucraría inflamación del parénquima testicular y dolor marcado."
+      },
+      {
+        "text": "E) Picadura de araña de rincón.",
+        "isCorrect": false,
+        "explanation": "Causaría una placa livedoide dolorosa con compromiso del estado general, no un edema rosado indoloro."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Signo de Prehn",
+    "text": "¿Qué indica un 'Signo de Prehn Positivo' (alivio del dolor al elevar el testículo)?",
+    "hint": "Es un signo clásico para diferenciar inflamación de isquemia, aunque no es 100% confiable.",
+    "options": [
+      {
+        "text": "A) Sugiere fuertemente una torsión testicular.",
+        "isCorrect": false,
+        "explanation": "En la torsión, el movimiento o elevación suele empeorar el dolor."
+      },
+      {
+        "text": "B) Sugiere un cuadro inflamatorio como epididimitis.",
+        "isCorrect": true,
+        "explanation": "Al elevar el testículo disminuye la tensión sobre el epidídimo inflamado, aliviando el dolor."
+      },
+      {
+        "text": "C) Indica que el testículo está roto.",
+        "isCorrect": false,
+        "explanation": "El trauma testicular no presenta este alivio característico."
+      },
+      {
+        "text": "D) Es un signo de cáncer.",
+        "isCorrect": false,
+        "explanation": "El cáncer suele ser indoloro y no se evalúa con esta maniobra."
+      },
+      {
+        "text": "E) Indica presencia de aire en el escroto.",
+        "isCorrect": false,
+        "explanation": "El neumoscroto es un hallazgo radiológico, no clínico mediante el signo de Prehn."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Torsión Testicular Neonatal",
+    "text": "Usted recibe a un recién nacido de pocas horas de vida. Al examen se nota un hemiescroto izquierdo aumentado de volumen, duro, frío, con piel adherida y coloración violácea. No hay signos de dolor al examen. ¿Cuál es el manejo habitual de esta 'Torsión Neonatal Extravaginal'?",
+    "hint": "Ocurre habitualmente in utero antes del nacimiento.",
+    "options": [
+      {
+        "text": "A) Cirugía de urgencia inmediata para intentar salvar el testículo.",
+        "isCorrect": false,
+        "explanation": "Al ser un evento prenatal ('testículo frío'), la probabilidad de rescate es casi nula (0%)."
+      },
+      {
+        "text": "B) Orquidopexia contralateral programada para evitar la torsión del lado sano.",
+        "isCorrect": true,
+        "explanation": "Dado que el testículo afectado ya está necrosado in utero, el objetivo principal es fijar el testículo sano para evitar que le ocurra lo mismo."
+      },
+      {
+        "text": "C) Tratamiento con calor local.",
+        "isCorrect": false,
+        "explanation": "Inefectivo ante un tejido ya muerto."
+      },
+      {
+        "text": "D) Antibióticos profilácticos.",
+        "isCorrect": false,
+        "explanation": "No es un cuadro infeccioso."
+      },
+      {
+        "text": "E) Masajes inguinales.",
+        "isCorrect": false,
+        "explanation": "Sin ninguna utilidad clínica."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Escroto Agudo - Ecografía Doppler",
+    "text": "¿Cuál es el hallazgo clave en la Ecografía Doppler que confirma la Torsión Testicular?",
+    "hint": "Busque la alteración del flujo sanguíneo.",
+    "options": [
+      {
+        "text": "A) Aumento del flujo sanguíneo en el epidídimo.",
+        "isCorrect": false,
+        "explanation": "Esto es característico de la epididimitis (hiperemia)."
+      },
+      {
+        "text": "B) Ausencia o disminución marcada del flujo arterial intratesticular comparado con el lado sano.",
+        "isCorrect": true,
+        "explanation": "Es el signo confirmatorio de isquemia testicular por torsión del cordón."
+      },
+      {
+        "text": "C) Presencia de líquido peritesticular (hidrocele).",
+        "isCorrect": false,
+        "explanation": "Es un hallazgo inespecífico presente en muchas patologías escrotales."
+      },
+      {
+        "text": "D) Visualización de una hernia inguinal.",
+        "isCorrect": false,
+        "explanation": "No confirma la torsión de la gónada."
+      },
+      {
+        "text": "E) El Doppler siempre sale normal en torsiones.",
+        "isCorrect": false,
+        "explanation": "Falso; tiene una alta sensibilidad (>90%) para detectar la falla de perfusión."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Trauma Testicular",
+    "text": "Niño de 10 años recibe pelotazo en los genitales. Presenta dolor intenso y aumento de volumen escrotal. Al examen hay equimosis y no se logra delimitar bien el testículo. ¿Qué lesión DEBE descartarse con urgencia?",
+    "hint": "La rotura de la capa que envuelve al testículo es una urgencia quirúrgica.",
+    "options": [
+      {
+        "text": "A) Hidrocele traumático.",
+        "isCorrect": false,
+        "explanation": "Es una colección de líquido, molesta pero no requiere cirugía urgente."
+      },
+      {
+        "text": "B) Rotura de la túnica albugínea (Fractura testicular).",
+        "isCorrect": true,
+        "explanation": "La rotura de la albugínea requiere cirugía inmediata para desbridar tejido necrótico y cerrar la túnica, salvando la función de la gónada."
+      },
+      {
+        "text": "C) Varicocele agudo.",
+        "isCorrect": false,
+        "explanation": "No es una complicación aguda del trauma."
+      },
+      {
+        "text": "D) Orquitis postraumática.",
+        "isCorrect": false,
+        "explanation": "La inflamación es esperada, pero la fractura ósea es la prioridad quirúrgica."
+      },
+      {
+        "text": "E) Infección urinaria.",
+        "isCorrect": false,
+        "explanation": "No es consecuencia directa de un traumatismo contuso."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Epididimitis Aguda - Causas",
+    "text": "¿Cuál es la causa más frecuente de epididimitis en adolescentes con actividad sexual iniciada?",
+    "hint": "Piense en agentes de transmisión sexual.",
+    "options": [
+      {
+        "text": "A) Escherichia coli.",
+        "isCorrect": false,
+        "explanation": "Es la causa más común en niños prepúberes con malformaciones."
+      },
+      {
+        "text": "B) Chlamydia trachomatis y Neisseria gonorrhoeae.",
+        "isCorrect": true,
+        "explanation": "En adolescentes sexualmente activos, la epididimitis se maneja como una ITS."
+      },
+      {
+        "text": "C) Virus de la gripe.",
+        "isCorrect": false,
+        "explanation": "No causa epididimitis de forma habitual."
+      },
+      {
+        "text": "D) Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "Suele causar infecciones de la piel escrotal, no epididimitis primaria."
+      },
+      {
+        "text": "E) Candida albicans.",
+        "isCorrect": false,
+        "explanation": "Inusual salvo en pacientes muy inmunocomprometidos."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Reflejo Cremasteriano - Fisiopatología",
+    "text": "¿Por qué se pierde el reflejo cremasteriano en la torsión testicular?",
+    "hint": "El cordón torcido interrumpe tanto el flujo sanguíneo como la conducción nerviosa local.",
+    "options": [
+      {
+        "text": "A) Por el dolor excesivo.",
+        "isCorrect": false,
+        "explanation": "El dolor suele exaltar los reflejos inicialmente (ej. orquitis)."
+      },
+      {
+        "text": "B) Por el compromiso isquémico de las fibras del músculo cremáster y la obstrucción mecánica del cordón.",
+        "isCorrect": true,
+        "explanation": "La torsión 'estrangula' las estructuras que permiten la contracción del músculo."
+      },
+      {
+        "text": "C) Porque el niño está asustado.",
+        "isCorrect": false,
+        "explanation": "No es una causa fisiológica de la abolición del reflejo."
+      },
+      {
+        "text": "D) Solo se pierde en adultos.",
+        "isCorrect": false,
+        "explanation": "Es un signo fundamental en pediatría; en adultos es menos confiable."
+      },
+      {
+        "text": "E) Por el uso de paracetamol.",
+        "isCorrect": false,
+        "explanation": "Los analgésicos comunes no bloquean los arcos reflejos espinales."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Manejo Quirúrgico - Orquidopexia",
+    "text": "Durante la cirugía por torsión testicular unilateral, se encuentra el testículo viable tras la detorsión. ¿Cuál es el siguiente paso obligatorio?",
+    "hint": "La causa de la torsión (deformidad en badajo de campana) suele ser bilateral.",
+    "options": [
+      {
+        "text": "A) Sacar el testículo de todas formas.",
+        "isCorrect": false,
+        "explanation": "Si es viable (recupera color), debe preservarse."
+      },
+      {
+        "text": "B) Realizar orquidopexia (fijación) del testículo afectado y del contralateral.",
+        "isCorrect": true,
+        "explanation": "Fijar el testículo sano es crucial porque la anomalía anatómica que predispone a la torsión suele ser bilateral."
+      },
+      {
+        "text": "C) Cerrar y esperar 24 horas.",
+        "isCorrect": false,
+        "explanation": "No protege contra recurrencias futuras."
+      },
+      {
+        "text": "D) Dar solo antibióticos.",
+        "isCorrect": false,
+        "explanation": "No soluciona el defecto anatómico mecánico."
+      },
+      {
+        "text": "E) Solo fijar el testículo que se torció.",
+        "isCorrect": false,
+        "explanation": "Insuficiente; el riesgo de torsión del lado opuesto en el futuro es muy alto."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Orquitis Urleana",
+    "text": "¿Cuál es la complicación más temida de la Orquitis por virus de la parotiditis (paperas) en adolescentes?",
+    "hint": "Afecta a las células germinales por inflamación y aumento de presión.",
+    "options": [
+      {
+        "text": "A) Cáncer testicular inmediato.",
+        "isCorrect": false,
+        "explanation": "No existe relación directa inmediata con malignidad."
+      },
+      {
+        "text": "B) Atrofia testicular e infertilidad.",
+        "isCorrect": true,
+        "explanation": "Ocurre en un porcentaje significativo de adolescentes afectados, especialmente si es bilateral."
+      },
+      {
+        "text": "C) Hernia inguinal.",
+        "isCorrect": false,
+        "explanation": "Son patologías sin relación anatómica o causal."
+      },
+      {
+        "text": "D) Torsión testicular.",
+        "isCorrect": false,
+        "explanation": "La orquitis no causa torsión del cordón."
+      },
+      {
+        "text": "E) Diabetes Mellitus.",
+        "isCorrect": false,
+        "explanation": "Aunque el virus puede afectar el páncreas, no es la complicación del cuadro testicular."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Diagnóstico Diferencial - Púrpura de Schönlein-Henoch",
+    "text": "Un niño de 5 años presenta dolor y aumento de volumen escrotal. Al examen físico se observan lesiones purpúricas palpables en glúteos y extremidades inferiores. ¿Diagnóstico?",
+    "hint": "La vasculitis sistémica puede afectar los vasos de la túnica vaginal.",
+    "options": [
+      {
+        "text": "A) Torsión testicular.",
+        "isCorrect": false,
+        "explanation": "Daría dolor pero no las lesiones cutáneas características de vasculitis."
+      },
+      {
+        "text": "B) Escroto agudo en el contexto de Púrpura de Schönlein-Henoch.",
+        "isCorrect": true,
+        "explanation": "Hasta un 15% de los niños con PSH presentan compromiso escrotal por vasculitis local. El manejo es conservador."
+      },
+      {
+        "text": "C) Sepsis por Meningococo.",
+        "isCorrect": false,
+        "explanation": "El niño estaría en estado de shock y muy tóxico."
+      },
+      {
+        "text": "D) Leucemia infiltrativa.",
+        "isCorrect": false,
+        "explanation": "Daría aumento de volumen testicular generalmente indoloro y bicitopenia."
+      },
+      {
+        "text": "E) Alergia al látex.",
+        "isCorrect": false,
+        "explanation": "No explica las púrpuras palpables ni el cuadro testicular específico."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Anatomía - Torsión Intravaginal",
+    "text": "¿Qué anomalía anatómica se conoce como 'deformidad en badajo de campana' (Bell clapper deformity)?",
+    "hint": "Permite que el testículo rote libremente dentro de su envoltura.",
+    "options": [
+      {
+        "text": "A) Testículo muy pequeño.",
+        "isCorrect": false,
+        "explanation": "No es una variante anatómica del soporte."
+      },
+      {
+        "text": "B) Una fijación anormalmente alta de la túnica vaginal sobre el cordón espermático.",
+        "isCorrect": true,
+        "explanation": "Esto deja al testículo 'colgando' libremente dentro de la vaginal, facilitando su rotación."
+      },
+      {
+        "text": "C) Ausencia de testículo.",
+        "isCorrect": false,
+        "explanation": "Se denomina anorquia."
+      },
+      {
+        "text": "D) Presencia de dos epidídimos.",
+        "isCorrect": false,
+        "explanation": "Anomalía extremadamente rara sin relación con la torsión."
+      },
+      {
+        "text": "E) El cordón es muy corto.",
+        "isCorrect": false,
+        "explanation": "Un cordón corto más bien dificultaría la rotación completa."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Escroto Agudo - Transiluminación",
+    "text": "¿Qué utilidad tiene la transiluminación en el diagnóstico del escroto agudo?",
+    "hint": "Ayuda a diferenciar contenido sólido de líquido.",
+    "options": [
+      {
+        "text": "A) Diagnostica la torsión testicular.",
+        "isCorrect": false,
+        "explanation": "La torsión no se altera con la luz."
+      },
+      {
+        "text": "B) Permite identificar un hidrocele (el escroto brilla) frente a una hernia o masa sólida.",
+        "isCorrect": true,
+        "explanation": "El líquido seroso permite el paso de luz; las asas intestinales o tumores no."
+      },
+      {
+        "text": "C) Solo sirve si hay fiebre.",
+        "isCorrect": false,
+        "explanation": "Es una maniobra física independiente de la temperatura."
+      },
+      {
+        "text": "D) Detecta el flujo de sangre.",
+        "isCorrect": false,
+        "explanation": "Esa es la función del Doppler."
+      },
+      {
+        "text": "E) No tiene ninguna utilidad.",
+        "isCorrect": false,
+        "explanation": "Es útil para el diagnóstico diferencial del aumento de volumen indoloro."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Viabilidad Testicular",
+    "text": "¿Cuál es el tiempo máximo aproximado (periodo de oro) desde el inicio del dolor para rescatar un testículo torcido con éxito?",
+    "hint": "El tiempo es tejido en las emergencias vasculares.",
+    "options": [
+      {
+        "text": "A) 1 hora.",
+        "isCorrect": false,
+        "explanation": "Demasiado breve; la necrosis no es tan instantánea."
+      },
+      {
+        "text": "B) 6 horas.",
+        "isCorrect": true,
+        "explanation": "Pasadas las 6 horas, la viabilidad cae drásticamente; a las 24 horas es cercana al 0%."
+      },
+      {
+        "text": "C) 24 horas.",
+        "isCorrect": false,
+        "explanation": "A esta hora el testículo suele estar necrótico e inviable."
+      },
+      {
+        "text": "D) 48 horas.",
+        "isCorrect": false,
+        "explanation": "Testículo perdido con seguridad."
+      },
+      {
+        "text": "E) No importa el tiempo.",
+        "isCorrect": false,
+        "explanation": "El tiempo es el factor pronóstico más importante en esta patología."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Tumor Testicular",
+    "text": "Niño con aumento de volumen testicular derecho indoloro, de consistencia pétrea y que no transilumina. No ha tenido trauma ni dolor. ¿Qué debe sospechar?",
+    "hint": "Las masas sólidas indoloras en pediatría son cáncer hasta demostrar lo contrario.",
+    "options": [
+      {
+        "text": "A) Hidrocele simple.",
+        "isCorrect": false,
+        "explanation": "Transiluminaría y sería de consistencia blanda/quística."
+      },
+      {
+        "text": "B) Tumor testicular.",
+        "isCorrect": true,
+        "explanation": "Todo nódulo sólido indoloro requiere ecografía urgente y marcadores tumorales (alfa-fetoproteína)."
+      },
+      {
+        "text": "C) Torsión crónica.",
+        "isCorrect": false,
+        "explanation": "La torsión siempre cursa con dolor agudo inicial intenso."
+      },
+      {
+        "text": "D) Varicocele.",
+        "isCorrect": false,
+        "explanation": "Se siente como una 'bolsa de gusanos' sobre el testículo, no como una masa intratesticular dura."
+      },
+      {
+        "text": "E) Epididimitis.",
+        "isCorrect": false,
+        "explanation": "La epididimitis es dolorosa e inflamatoria."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Varicocele Pediátrico",
+    "text": "¿Cuál es la localización más frecuente del varicocele y por qué?",
+    "hint": "Piense en el drenaje de la vena espermática hacia la vena renal.",
+    "options": [
+      {
+        "text": "A) Lado derecho, por la presión de la aorta.",
+        "isCorrect": false,
+        "explanation": "Incorrecto; la anatomía favorece el lado izquierdo."
+      },
+      {
+        "text": "B) Lado izquierdo, porque la vena espermática izquierda drena en ángulo recto en la vena renal izquierda.",
+        "isCorrect": true,
+        "explanation": "La mayor longitud y el ángulo de drenaje aumentan la presión venosa en el lado izquierdo."
+      },
+      {
+        "text": "C) Bilateral siempre.",
+        "isCorrect": false,
+        "explanation": "Aunque puede ser bilateral, la presentación aislada izquierda es la norma."
+      },
+      {
+        "text": "D) Solo en el testículo derecho.",
+        "isCorrect": false,
+        "explanation": "El varicocele derecho aislado es raro y obliga a descartar masas retroperitoneales."
+      },
+      {
+        "text": "E) No tiene localización fija.",
+        "isCorrect": false,
+        "explanation": "La predilección izquierda es anatómica y constante."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Escroto en Berenjena",
+    "text": "¿Qué es el 'Escroto en berenjena'?",
+    "hint": "Es una descripción semiológica visual de un cuadro benigno.",
+    "options": [
+      {
+        "text": "A) Una receta de cocina.",
+        "isCorrect": false,
+        "explanation": "Distractor inespecífico."
+      },
+      {
+        "text": "B) El aspecto del edema escrotal idiopático agudo por su coloración violácea y gran volumen.",
+        "isCorrect": true,
+        "explanation": "Describe la tumefacción rosada-violácea que afecta la piel pero respeta el contenido escrotal profundo."
+      },
+      {
+        "text": "C) Un tipo de cáncer.",
+        "isCorrect": false,
+        "explanation": "El cáncer no presenta este aspecto inflamatorio agudo difuso."
+      },
+      {
+        "text": "D) Una fractura del pene.",
+        "isCorrect": false,
+        "explanation": "Término no relacionado."
+      },
+      {
+        "text": "E) Una marca de ropa interior.",
+        "isCorrect": false,
+        "explanation": "Distractor irrelevante."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Epididimitis Crónica",
+    "text": "¿Cuál es el riesgo de la Epididimitis crónica o recurrente no tratada en niños?",
+    "hint": "La inflamación causa cicatrices y fibrosis en el sistema de transporte.",
+    "options": [
+      {
+        "text": "A) Obstrucción de los conductos deferentes y azoospermia obstructiva futura.",
+        "isCorrect": true,
+        "explanation": "Correcto. El daño estructural crónico puede cerrar el paso de los espermatozoides, afectando la fertilidad."
+      },
+      {
+        "text": "B) Gigantismo.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con el eje de la hormona del crecimiento."
+      },
+      {
+        "text": "C) Sordera.",
+        "isCorrect": false,
+        "explanation": "Sin vínculo clínico."
+      },
+      {
+        "text": "D) Pérdida de los dientes.",
+        "isCorrect": false,
+        "explanation": "Sin vínculo clínico."
+      },
+      {
+        "text": "E) No tiene riesgos.",
+        "isCorrect": false,
+        "explanation": "Falso; el manejo adecuado es vital para preservar el potencial reproductivo."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Mensaje Final",
+    "text": "¿Cuál es el mensaje final más importante ante un Escroto Agudo en pediatría?",
+    "hint": "La prioridad es salvar el testículo de la isquemia.",
+    "options": [
+      {
+        "text": "A) Esperar a que el niño crezca.",
+        "isCorrect": false,
+        "explanation": "Inaceptable."
+      },
+      {
+        "text": "B) Todo escroto agudo es una torsión testicular mientras no se demuestre lo contrario, y requiere evaluación quirúrgica urgente.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el pilar de seguridad en urgencias pediátricas para evitar la pérdida innecesaria de gónadas."
+      },
+      {
+        "text": "C) Dar paracetamol y controlar en una semana.",
+        "isCorrect": false,
+        "explanation": "Peligroso; retrasa el tratamiento de una emergencia vascular."
+      },
+      {
+        "text": "D) Pedir todos los exámenes posibles antes de llamar al cirujano.",
+        "isCorrect": false,
+        "explanation": "El retraso injustificado es la principal causa de orquidectomía (extirpación)."
+      },
+      {
+        "text": "E) Es un cuadro siempre psicológico.",
+        "isCorrect": false,
+        "explanation": "Falso; tiene una base orgánica crítica."
+      }
+    ]
+  }
+]
