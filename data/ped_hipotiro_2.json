@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Reevaluación del HC a los 3 años",
+    "text": "Un niño de 3 años, diagnosticado con Hipotiroidismo Congénito (HC) al nacer mediante tamizaje (TSH inicial 25 mUI/L), ha sido tratado con Levotiroxina desde los 12 días de vida. La ecografía inicial mostró una glándula en posición normal. ¿Cuál es la conducta recomendada a esta edad según la norma chilena?",
+    "hint": "A los 3 años el desarrollo cerebral ya es menos dependiente de las hormonas tiroideas externas[cite: 12].",
+    "options": [
+      {
+        "text": "A) Continuar el tratamiento de por vida sin interrupciones.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta sería la conducta si el diagnóstico inicial hubiera sido una disgenesia tiroidea clara (atireosis o ectopia), donde la ausencia de glándula es definitiva[cite: 16]."
+      },
+      {
+        "text": "B) Suspender la Levotiroxina por 4 semanas para reevaluar el eje y determinar si el HC era permanente o transitorio.",
+        "isCorrect": true,
+        "explanation": "Correcto. En pacientes con glándula in situ y valores iniciales no críticos, se recomienda suspender el tratamiento a los 3 años durante un mes para ver si la TSH se eleva y la T4 baja (permanente) o se mantienen normales (transitorio)[cite: 13, 14]."
+      },
+      {
+        "text": "C) Realizar una biopsia de tiroides para descartar Tiroiditis de Hashimoto.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La biopsia no tiene indicación en HC; se reserva para el estudio de nódulos sospechosos de malignidad[cite: 17]."
+      },
+      {
+        "text": "D) Cambiar a tratamiento con T3 (Liotironina) para mejorar el desarrollo cognitivo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La levotiroxina (T4) es el estándar de oro; el uso de T3 no ha demostrado beneficios en el desarrollo y tiene una vida media inestable[cite: 18, 19]."
+      },
+      {
+        "text": "E) Solicitar una Resonancia Magnética de silla turca.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo se indicaría ante sospecha de hipotiroidismo central por déficit de TSH, no en un niño con TSH elevada en el screening[cite: 20]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Frecuencia de Controles",
+    "text": "¿Cuál es la frecuencia de control recomendada de TSH y T4 libre para un niño con hipotiroidismo entre los 1 y 3 años de vida?",
+    "hint": "El crecimiento sigue siendo rápido pero no tan crítico como en el primer semestre[cite: 29].",
+    "options": [
+      {
+        "text": "A) Mensualmente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta frecuencia se recomienda para los primeros 6 meses de vida, cuando el riesgo de daño cerebral por subtratamiento es máximo[cite: 32]."
+      },
+      {
+        "text": "B) Cada 2 a 4 meses.",
+        "isCorrect": true,
+        "explanation": "Correcto. Durante este periodo se recomienda monitorizar cada 2 a 4 meses para ajustar la dosis al peso y asegurar niveles óptimos para el desarrollo[cite: 30]."
+      },
+      {
+        "text": "C) Semestralmente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es la frecuencia adecuada para niños mayores y adolescentes una vez que el crecimiento se estabiliza[cite: 33]."
+      },
+      {
+        "text": "D) Una vez al año.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es insuficiente para un niño en crecimiento activo; solo sería aceptable en adultos con dosis muy estables[cite: 34]."
+      },
+      {
+        "text": "E) Solo si presenta síntomas de fatiga.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El manejo es bioquímico; esperar a los síntomas implica que el niño ya ha pasado tiempo en déficit[cite: 35, 36]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Sobredosis de Levotiroxina",
+    "text": "Un lactante de 2 meses en tratamiento por HC presenta cierre precoz de la fontanela anterior y craneosinostosis. La T4 libre está en el límite superior normal. ¿Qué sospecha?",
+    "hint": "El exceso de hormona tiroidea acelera la maduración ósea y el cierre de suturas[cite: 46].",
+    "options": [
+      {
+        "text": "A) El hipotiroidismo causó el cierre óseo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El hipotiroidismo retrasaría el cierre de las fontanelas y la maduración ósea[cite: 49]."
+      },
+      {
+        "text": "B) Sobredosis de Levotiroxina (Hipertiroidismo iatrogénico).",
+        "isCorrect": true,
+        "explanation": "Correcto. Una dosis excesiva puede llevar a un cierre prematuro de suturas craneales (craneosinostosis) y epífisis, limitando el crecimiento cerebral y la talla final[cite: 41, 47]."
+      },
+      {
+        "text": "C) Falta de calcio en la dieta.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El déficit de calcio causaría raquitismo, caracterizado por fontanelas amplias, lo opuesto a este caso[cite: 50]."
+      },
+      {
+        "text": "D) Desarrollo normal del cráneo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. A los 2 meses la fontanela debe estar abierta; su cierre temprano es patológico[cite: 51]."
+      },
+      {
+        "text": "E) Déficit de vitamina D.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El déficit de vitamina D causaría retraso en la mineralización y fontanelas persistentes[cite: 50]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Interacciones Alimentarias",
+    "text": "Una madre pregunta si puede darle leche de soya a su hijo con hipotiroidismo. ¿Qué le responde basándose en la farmacocinética de la levotiroxina?",
+    "hint": "Las proteínas de la soya interfieren con la absorción intestinal[cite: 61].",
+    "options": [
+      {
+        "text": "A) La soya mejora la absorción de la hormona.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ningún alimento mejora significativamente la absorción; el ayuno estricto es lo ideal[cite: 65]."
+      },
+      {
+        "text": "B) No hay interacción entre la soya y la levotiroxina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una de las interacciones alimentarias más documentadas en endocrinología pediátrica[cite: 66]."
+      },
+      {
+        "text": "C) La soya puede disminuir la absorción de la levotiroxina y debe evitarse o administrarse muy separada del fármaco.",
+        "isCorrect": true,
+        "explanation": "Correcto. La soya (al igual que el hierro y el calcio) reduce la biodisponibilidad de la hormona. Si se consume, se requieren dosis más altas y controles estrictos[cite: 57, 62, 63]."
+      },
+      {
+        "text": "D) La soya reemplaza la necesidad de levotiroxina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La soya no contiene hormona tiroidea funcional[cite: 67]."
+      },
+      {
+        "text": "E) Solo debe evitarse la soya si el niño tiene bocio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La restricción es por un problema de absorción del fármaco, independientemente de la presencia de bocio[cite: 68]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Síndrome de Turner e Hipotiroidismo",
+    "text": "¿Cuál es la recomendación de tamizaje tiroideo para una adolescente con Síndrome de Turner?",
+    "hint": "El Turner tiene una alta asociación con tiroiditis autoinmune[cite: 78].",
+    "options": [
+      {
+        "text": "A) Solo si tiene síntomas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En Turner el riesgo es demasiado elevado para esperar a que aparezcan síntomas clínicos[cite: 81]."
+      },
+      {
+        "text": "B) Tamizaje anual con TSH.",
+        "isCorrect": true,
+        "explanation": "Correcto. Presentan una alta prevalencia de Tiroiditis de Hashimoto, por lo que se recomienda medir TSH anualmente de forma sistemática[cite: 73, 79]."
+      },
+      {
+        "text": "C) Una vez en la vida al momento del diagnóstico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es insuficiente, ya que la autoinmunidad puede debutar en cualquier momento del desarrollo[cite: 82]."
+      },
+      {
+        "text": "D) Solo si presenta talla baja extrema.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El screening busca prevenir el hipotiroidismo antes de que afecte la curva de crecimiento[cite: 83]."
+      },
+      {
+        "text": "E) No tienen mayor riesgo de patología tiroidea.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Tienen un riesgo significativamente mayor que la población general[cite: 78]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo Central y Eje Adrenal",
+    "text": "En un Hipotiroidismo Central, ¿qué otro eje hormonal debe evaluarse prioritariamente antes de iniciar Levotiroxina?",
+    "hint": "Tratar la tiroides en presencia de insuficiencia adrenal no tratada puede ser letal[cite: 92].",
+    "options": [
+      {
+        "text": "A) Eje de la Insulina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una hormona hipofisaria ni su déficit se agrava letalmente al tratar la tiroides[cite: 96]."
+      },
+      {
+        "text": "B) Eje Adrenal (Cortisol).",
+        "isCorrect": true,
+        "explanation": "Correcto. La levotiroxina aumenta el metabolismo y acelera la degradación del poco cortisol disponible, lo que puede precipitar una crisis adrenal aguda y shock[cite: 92, 94]."
+      },
+      {
+        "text": "C) Eje de la Paratohormona.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La PTH es producida por las paratiroides y no depende del eje hipotálamo-hipófisis[cite: 97]."
+      },
+      {
+        "text": "D) Niveles de vitamina B12.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un parámetro nutricional cuya evaluación no es una emergencia previa al tratamiento[cite: 98]."
+      },
+      {
+        "text": "E) Niveles de hierro.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que la B12, puede estar alterado pero no condiciona la seguridad del inicio de la T4[cite: 98]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo Central",
+    "text": "Lactante de 3 meses con ictericia, estreñimiento y llanto ronco. Tamizaje neonatal 'negativo'. TSH venosa 1.2 mUI/L y T4 libre 0.4 ng/dL. ¿Diagnóstico?",
+    "hint": "La TSH no se elevó a pesar de que la T4 está muy baja[cite: 110].",
+    "options": [
+      {
+        "text": "A) El tamizaje fue un falso negativo y tiene HC Primario.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Si fuera primario, la TSH venosa debería estar masivamente elevada (ej. >100) en respuesta a la T4 baja[cite: 114, 115]."
+      },
+      {
+        "text": "B) Hipotiroidismo Central (Déficit de TSH).",
+        "isCorrect": true,
+        "explanation": "Correcto. El patrón de T4 baja con TSH baja o 'normalmente inapropiada' define el origen central. El screening chileno no lo detecta porque solo mide TSH[cite: 105, 111, 112]."
+      },
+      {
+        "text": "C) El niño es normal y tiene otra causa de estreñimiento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Una T4L de 0.4 es críticamente baja y explica toda la sintomatología descrita[cite: 116, 117]."
+      },
+      {
+        "text": "D) Tiroiditis de Hashimoto precoz.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es extremadamente raro en lactantes; es una patología de escolares y adolescentes[cite: 118]."
+      },
+      {
+        "text": "E) Intoxicación por yodo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La intoxicación por yodo causa hipotiroidismo primario, lo que elevaría la TSH[cite: 119]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hashitoxicosis",
+    "text": "¿En qué consiste la fase de 'Hashitoxicosis' en la Tiroiditis de Hashimoto?",
+    "hint": "Es una fase de 'hipertiroidismo' por destrucción de tejido[cite: 129].",
+    "options": [
+      {
+        "text": "A) Un exceso de producción de hormona por la glándula.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto caracteriza a la Enfermedad de Graves (estímulo por anticuerpos), no a la fase destructiva del Hashimoto[cite: 133]."
+      },
+      {
+        "text": "B) Una liberación transitoria de hormona pre-formada debido a la destrucción del tejido folicular.",
+        "isCorrect": true,
+        "explanation": "Correcto. La inflamación rompe los folículos y vierte la hormona almacenada a la sangre. Cursa con TSH baja y T4 alta de forma autolimitada[cite: 124, 130, 131]."
+      },
+      {
+        "text": "C) Una resistencia a la levotiroxina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se trata de un exceso de niveles plasmáticos por liberación, no un problema de receptores[cite: 134]."
+      },
+      {
+        "text": "D) Una infección bacteriana sobreagregada.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un proceso inflamatorio autoinmune, no infeccioso bacteriano[cite: 121]."
+      },
+      {
+        "text": "E) Una intoxicación por el medicamento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La fase de Hashitoxicosis ocurre de forma espontánea al inicio de la enfermedad, sin relación con fármacos[cite: 135]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Asociación con Malformaciones",
+    "text": "¿Cuál es la anomalía congénita extratiroidea más frecuentemente asociada al Hipotiroidismo Congénito?",
+    "hint": "Muchos órganos se forman simultáneamente con la tiroides[cite: 144].",
+    "options": [
+      {
+        "text": "A) Malformaciones cardíacas (como la comunicación interventricular).",
+        "isCorrect": true,
+        "explanation": "Correcto. Hasta un 10% de los niños con HC presentan malformaciones asociadas, siendo las cardiopatías congénitas las más prevalentes estadísticamente[cite: 145]."
+      },
+      {
+        "text": "B) Polidactilia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene una asociación estadística tan fuerte o específica como la cardíaca en este contexto[cite: 147]."
+      },
+      {
+        "text": "C) Atresia de esófago.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Menos frecuente que las anomalías del tabique cardíaco[cite: 147]."
+      },
+      {
+        "text": "D) Displasia de cadera.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una patología ortopédica común pero no vinculada específicamente a la disgenesia tiroidea[cite: 147]."
+      },
+      {
+        "text": "E) Labio leporino.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque puede ocurrir, no es la asociación líder descrita[cite: 147]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "HC en Prematuros",
+    "text": "Recién nacido de 30 semanas con tamizaje de TSH inicial 'Normal'. ¿Qué conducta recomienda la norma chilena?",
+    "hint": "El eje de un prematuro puede no elevar la TSH de forma inmediata[cite: 157].",
+    "options": [
+      {
+        "text": "A) Alta definitiva del programa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es peligroso debido a la posibilidad de una elevación tardía de la TSH en este grupo de riesgo[cite: 161]."
+      },
+      {
+        "text": "B) Repetir el tamizaje a los 15 días o al momento del alta.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los prematuros de muy bajo peso pueden presentar un retraso en la elevación de la TSH, por lo que una segunda muestra asegura que no se omita el diagnóstico[cite: 152, 158, 159]."
+      },
+      {
+        "text": "C) Iniciar tratamiento preventivo con levotiroxina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo se trata ante confirmación de hipofunción; el uso innecesario tiene riesgos óseos y cognitivos[cite: 162]."
+      },
+      {
+        "text": "D) Solicitar ecografía de tiroides.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un examen de tamizaje; se solicita solo tras confirmar la alteración hormonal[cite: 163]."
+      },
+      {
+        "text": "E) Medir solo T3.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La T3 no es útil para el tamizaje neonatal de HC[cite: 155]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Interferencia por Biotina",
+    "text": "¿Cómo afecta el consumo de dosis altas de Biotina (B7) a los resultados del laboratorio tiroideo?",
+    "hint": "La biotina interfiere con el mecanismo de unión de los inmunoensayos[cite: 172].",
+    "options": [
+      {
+        "text": "A) No afecta los resultados.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una de las interferencias analíticas más comunes y relevantes en endocrinología pediátrica[cite: 173]."
+      },
+      {
+        "text": "B) Puede causar falsos positivos de hipertiroidismo (TSH baja y T4L alta).",
+        "isCorrect": true,
+        "explanation": "Correcto. La interferencia simula un hipertiroidismo en el tubo de ensayo. Se debe suspender la biotina 2-3 días antes del examen para obtener valores reales[cite: 167, 173]."
+      },
+      {
+        "text": "C) Siempre eleva la TSH.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El patrón más común de interferencia es el descenso falso de la TSH[cite: 175]."
+      },
+      {
+        "text": "D) Inactiva la levotiroxina en sangre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay interacción biológica en la sangre del paciente, solo un error de medición técnica[cite: 169]."
+      },
+      {
+        "text": "E) Causa hipotiroidismo real.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un artefacto de laboratorio, no una enfermedad del paciente[cite: 176]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Manejo del Bocio por Hashimoto",
+    "text": "Niño de 6 años con Hashimoto y bocio molesto. TSH de 4 mUI/L (normal). ¿Cuál es el objetivo del ajuste de dosis?",
+    "hint": "La TSH es el principal factor de crecimiento de la tiroides[cite: 187].",
+    "options": [
+      {
+        "text": "A) Mantener la TSH en el límite superior de la normalidad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto mantendría el estímulo trófico sobre la glándula o incluso agravaría el bocio[cite: 190]."
+      },
+      {
+        "text": "B) Aumentar levemente la dosis para suprimir la TSH hacia el límite inferior.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al bajar la TSH (dentro de rango), se reduce el estímulo sobre la glándula, lo que ayuda a disminuir el tamaño del bocio inflamatorio[cite: 182, 188]."
+      },
+      {
+        "text": "C) Suspender el tratamiento porque la TSH ya está normal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Si se suspende, la TSH subirá rápidamente y el bocio empeorará por el déficit compensatorio[cite: 191]."
+      },
+      {
+        "text": "D) Cambiar a tratamiento con yodo radiactivo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El yodo radiactivo se usa para hipertiroidismo o cáncer, no para el hipotiroidismo autoinmune infantil[cite: 192]."
+      },
+      {
+        "text": "E) Realizar tiroidectomía total de inmediato.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Solo se reserva para bocios con sospecha de malignidad o que causan obstrucción respiratoria severa[cite: 193]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "HC Transitorio Materno",
+    "text": "¿Cuál es la causa más común de HC transitorio relacionada con la salud materna durante el embarazo?",
+    "hint": "Fármacos como el metimazol cruzan libremente la placenta[cite: 202].",
+    "options": [
+      {
+        "text": "A) Diabetes gestacional.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene un mecanismo que afecte directamente la síntesis hormonal tiroidea fetal[cite: 205]."
+      },
+      {
+        "text": "B) Hipertensión arterial.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que la diabetes, no es causa primaria de falla tiroidea transitoria neonatal[cite: 205]."
+      },
+      {
+        "text": "C) Déficit de yodo en la dieta materna o uso de antitiroideos (Metimazol).",
+        "isCorrect": true,
+        "explanation": "Correcto. Ambos factores bloquean la tiroides fetal de forma temporal; el cuadro resuelve una vez que el bebé nace y se aleja de la fuente bloqueadora[cite: 198, 203]."
+      },
+      {
+        "text": "D) Consumo de café.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No afecta la producción de hormonas tiroideas del feto[cite: 205]."
+      },
+      {
+        "text": "E) Antecedente de cesárea.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El tipo de parto no condiciona la función hormonal tiroidea del neonato a largo plazo[cite: 205]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Amiodarona y Tiroides",
+    "text": "¿Qué fármaco antiarrítmico pediátrico puede causar tanto hipotiroidismo como hipertiroidismo por su alto contenido de yodo?",
+    "hint": "Contiene un 37% de yodo en su peso[cite: 214].",
+    "options": [
+      {
+        "text": "A) Propranolol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No contiene yodo ni afecta la síntesis hormonal tiroidea primaria[cite: 217]."
+      },
+      {
+        "text": "B) Digoxina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Carece de yodo en su estructura y no tiene tropismo tiroideo[cite: 217]."
+      },
+      {
+        "text": "C) Amiodarona.",
+        "isCorrect": true,
+        "explanation": "Correcto. Puede causar hipotiroidismo (Wolff-Chaikoff) o hipertiroidismo (Jod-Basedow) por sobrecarga de yodo. Requiere monitorización tiroidea estricta[cite: 210, 215]."
+      },
+      {
+        "text": "D) Verapamilo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Bloqueador de canales de calcio sin relación con la función tiroidea[cite: 217]."
+      },
+      {
+        "text": "E) Adenosina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sin impacto en el eje hipotálamo-hipófisis-tiroides[cite: 217]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Clínica Gastrointestinal",
+    "text": "¿Cuál es el principal síntoma gastrointestinal del hipotiroidismo en la infancia?",
+    "hint": "El hipometabolismo afecta la motilidad del músculo liso[cite: 226].",
+    "options": [
+      {
+        "text": "A) Diarrea crónica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un signo característico del exceso hormonal (hipertiroidismo)[cite: 230]."
+      },
+      {
+        "text": "B) Vómitos explosivos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Orientarían a patología obstructiva mecánica (ej. estenosis pilórica)[cite: 231]."
+      },
+      {
+        "text": "C) Estreñimiento por disminución del peristaltismo.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un síntoma cardinal y precoz; en lactantes puede manifestarse como un retraso patológico en la eliminación del meconio[cite: 222, 227, 228]."
+      },
+      {
+        "text": "D) Reflujo gastroesofágico severo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una asociación clásica directa del déficit de hormona tiroidea[cite: 219]."
+      },
+      {
+        "text": "E) Melena.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indica sangrado digestivo alto, no relacionado con el hipometabolismo[cite: 224]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Déficit Hipofisario Combinado",
+    "text": "En un hipotiroidismo central, ¿qué otro hallazgo podría orientar a un panhipopituitarismo?",
+    "hint": "La falta de hormonas contrarreguladoras afecta la glucosa y el agua[cite: 240].",
+    "options": [
+      {
+        "text": "A) Hipercalcemia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No forma parte del espectro habitual del déficit combinado de hormonas hipofisarias[cite: 243]."
+      },
+      {
+        "text": "B) Hipoglicemia e hiponatremia.",
+        "isCorrect": true,
+        "explanation": "Correcto. El déficit de GH y ACTH (cortisol) causa hipoglicemia; la falta de estas hormonas o el exceso de ADH asociado puede causar hiponatremia[cite: 235, 241]."
+      },
+      {
+        "text": "C) Hiperpotasemia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un hallazgo característico del panhipopituitarismo pediátrico[cite: 243]."
+      },
+      {
+        "text": "D) Leucocitosis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugiere infección o inflamación aguda, no falla endocrina central[cite: 243]."
+      },
+      {
+        "text": "E) Hiperuricemia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sin relación con los ejes regulados por la hipófisis anterior[cite: 243]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "TSH y Obesidad",
+    "text": "Adolescente obeso con TSH de 5.5 mUI/L y T4L normal, sin síntomas ni bocio. ¿Explicación más probable?",
+    "hint": "En pacientes obesos, la TSH puede estar alta sin enfermedad tiroidea primaria[cite: 253].",
+    "options": [
+      {
+        "text": "A) Hipotiroidismo de Hashimoto inicial.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se requerirían anticuerpos anti-TPO positivos o bocio firme para esta sospecha[cite: 257]."
+      },
+      {
+        "text": "B) Elevación adaptativa de TSH por la obesidad (hiperleptinemia).",
+        "isCorrect": true,
+        "explanation": "Correcto. Existe una correlación entre el IMC y la TSH. Suele normalizarse al bajar de peso y no requiere tratamiento con levotiroxina de entrada[cite: 248, 254, 255]."
+      },
+      {
+        "text": "C) Cáncer de tiroides.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El cáncer suele cursar con hormonas normales y la TSH alta no es un marcador neoplásico[cite: 258, 259]."
+      },
+      {
+        "text": "D) Es un valor normal para todos los adolescentes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se considera levemente elevado para el rango estándar, pero es funcional por la obesidad[cite: 250]."
+      },
+      {
+        "text": "E) Error de laboratorio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un hallazgo fisiopatológico descrito y frecuente en obesos[cite: 252]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Nódulo Tiroideo",
+    "text": "¿Cuál es la conducta recomendada ante un nódulo tiroideo palpable en pediatría?",
+    "hint": "Un nódulo en un niño tiene un riesgo de malignidad de hasta el 25%[cite: 268].",
+    "options": [
+      {
+        "text": "A) Observar por 1 año.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Conducta peligrosa dado el alto riesgo de cáncer papilar en este grupo etario[cite: 271]."
+      },
+      {
+        "text": "B) Iniciar levotiroxina para 'achicarlo'.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No se usa para tratar nódulos sólidos y puede retrasar el diagnóstico oncológico[cite: 272]."
+      },
+      {
+        "text": "C) Realizar ecografía tiroidea y derivar siempre a endocrinología para evaluación.",
+        "isCorrect": true,
+        "explanation": "Correcto. Cualquier nódulo palpable en pediatría obliga a estudio con eco y probable punción (PAAF) por el alto riesgo de malignidad[cite: 264, 269]."
+      },
+      {
+        "text": "D) Realizar cirugía de inmediato sin exámenes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se requiere estudio citológico y ecográfico previo para planificar la extensión de la cirugía[cite: 265]."
+      },
+      {
+        "text": "E) Indicar dieta rica en yodo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene utilidad en el manejo de un nódulo sólido solitario[cite: 266]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Interacción T4 - Digoxina",
+    "text": "¿Qué efecto tiene la Levotiroxina sobre los niveles de Digoxina al tratar a un niño hipotiroideo?",
+    "hint": "El hipotiroidismo enlentece el metabolismo; al tratarlo, este aumenta[cite: 281].",
+    "options": [
+      {
+        "text": "A) Aumenta la toxicidad de la digoxina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al contrario, el hipotiroidismo NO tratado es el que aumenta la sensibilidad y riesgo de toxicidad[cite: 284]."
+      },
+      {
+        "text": "B) Puede disminuir los niveles de digoxina al aumentar su metabolismo y clearance.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al normalizarse el metabolismo y la función renal (TFG), la digoxina se elimina más rápido, lo que puede exigir un ajuste de dosis al alza[cite: 276, 282]."
+      },
+      {
+        "text": "C) La levotiroxina inactiva la digoxina en el estómago.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay interacción química directa de inactivación en el lumen gástrico[cite: 277]."
+      },
+      {
+        "text": "D) No hay interacción.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Existe una interacción farmacocinética relevante mediada por el estado metabólico del paciente[cite: 278]."
+      },
+      {
+        "text": "E) La digoxina impide que la levotiroxina funcione.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La digoxina no interfiere con la acción biológica de la hormona tiroidea[cite: 279]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Cáncer de Tiroides: Palpación",
+    "text": "¿Qué característica a la palpación de un bocio sugiere malignidad?",
+    "hint": "Los tumores suelen ser duros e infiltrantes[cite: 293].",
+    "options": [
+      {
+        "text": "A) Consistencia elástica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es típica de bocios coloides o inflamatorios benignos[cite: 287]."
+      },
+      {
+        "text": "B) Superficie lisa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugiere crecimiento difuso o quístico benigno[cite: 288]."
+      },
+      {
+        "text": "C) Consistencia pétrea, nódulo fijo o adenopatías cervicales.",
+        "isCorrect": true,
+        "explanation": "Correcto. Son los signos de alarma de cáncer. Los tumores son duros, suelen fijarse a planos profundos y pueden dar metástasis ganglionares[cite: 289, 294, 295]."
+      },
+      {
+        "text": "D) Dolor intenso al palpar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugiere Tiroiditis Subaguda (viral), ya que el cáncer de tiroides suele ser indoloro[cite: 290, 297]."
+      },
+      {
+        "text": "E) Movilidad al tragar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La tiroides normal y la mayoría de los bocios se mueven; la FALTA de movilidad sugiere invasión maligna[cite: 291]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Van Wyk-Grumbach",
+    "text": "¿Qué caracteriza al 'Síndrome de Van Wyk-Grumbach'?",
+    "hint": "La TSH alta activa por error receptores de gonadotropinas[cite: 306].",
+    "options": [
+      {
+        "text": "A) Una forma de hipotiroidismo central.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una complicación del hipotiroidismo PRIMARIO severo y prolongado[cite: 300]."
+      },
+      {
+        "text": "B) Pseudopubertad precoz con retraso de la edad ósea.",
+        "isCorrect": true,
+        "explanation": "Correcto. El niño parece iniciar pubertad (desarrollo mamario o macroorquidismo) pero su crecimiento óseo está frenado por el hipotiroidismo severo[cite: 301, 307]."
+      },
+      {
+        "text": "C) Una alergia a la levotiroxina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un fenómeno endocrino estructural-funcional, no inmunológico al fármaco[cite: 302]."
+      },
+      {
+        "text": "D) Un tipo de cáncer de tiroides.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene relación con la etiología neoplásica[cite: 303]."
+      },
+      {
+        "text": "E) El nombre del screening neonatal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El screening mide TSH pero el síndrome es un cuadro clínico avanzado[cite: 304]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Alimentos Bociogénicos",
+    "text": "Adolescente con Hashimoto quiere ser vegetariano. ¿Qué alimento debe vigilar por su potencial bociogénico?",
+    "hint": "Interfieren con la captación de yodo si se consumen masivamente crudos[cite: 320].",
+    "options": [
+      {
+        "text": "A) El exceso de zanahorias.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las zanahorias no tienen efectos bociogénicos reconocidos[cite: 323]."
+      },
+      {
+        "text": "B) Vegetales crucíferos crudos (repollo, coliflor, brócoli) en grandes cantidades.",
+        "isCorrect": true,
+        "explanation": "Correcto. Contienen tiocianatos que pueden interferir con la función tiroidea. Es un consejo dietético clásico para pacientes con bocio[cite: 315, 321]."
+      },
+      {
+        "text": "C) El consumo de arroz.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El arroz es un cereal seguro sin efecto sobre la tiroides[cite: 323]."
+      },
+      {
+        "text": "D) Las manzanas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Fruta segura sin impacto endocrino tiroideo[cite: 323]."
+      },
+      {
+        "text": "E) El agua mineral.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene efecto bociogénico[cite: 323]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Semiología de la Voz",
+    "text": "¿Cuál es la alteración de la voz típica del hipotiroidismo severo?",
+    "hint": "El mixedema afecta las cuerdas vocales[cite: 332].",
+    "options": [
+      {
+        "text": "A) Voz muy aguda y chillona.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La voz se vuelve grave, no aguda[cite: 326]."
+      },
+      {
+        "text": "B) Voz ronca, de tono bajo y habla lenta (bradilaia).",
+        "isCorrect": true,
+        "explanation": "Correcto. El tono ronco y la lentitud al hablar son signos clínicos clásicos que deben alertar al médico en la consulta[cite: 327, 333]."
+      },
+      {
+        "text": "C) Pérdida total de la voz (afonía).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La afonía sugiere parálisis de cuerdas o inflamación laríngea aguda, no el patrón crónico tiroideo[cite: 328]."
+      },
+      {
+        "text": "D) Voz nasal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia a insuficiencia velofaríngea, no a mixedema cordal[cite: 329]."
+      },
+      {
+        "text": "E) No hay cambios en la voz.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La voz es uno de los indicadores clínicos de severidad del déficit hormonal[cite: 330]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "TSH Crítica",
+    "text": "¿Qué significa que la TSH neonatal sea 'crítica' (> 40 uUI/ml)?",
+    "hint": "Es un valor de alarma máxima en salud pública[cite: 343].",
+    "options": [
+      {
+        "text": "A) Que el niño morirá mañana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No implica muerte inminente, pero sí riesgo de daño cerebral severo a corto plazo[cite: 337]."
+      },
+      {
+        "text": "B) Alta probabilidad de disgenesia severa; requiere tratamiento inmediato.",
+        "isCorrect": true,
+        "explanation": "Correcto. Valores >40 son prácticamente diagnósticos y justifican iniciar Levotiroxina de inmediato sin esperar la confirmación venosa para ganar tiempo cerebral[cite: 338, 344]."
+      },
+      {
+        "text": "C) Que el laboratorio se equivocó.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque todo examen puede fallar, un valor crítico obliga a actuar asumiendo que es real por seguridad del paciente[cite: 339]."
+      },
+      {
+        "text": "D) Que solo necesita yodo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El yodo no trata una glándula ausente (atireosis) que es lo más probable con ese valor[cite: 340]."
+      },
+      {
+        "text": "E) Que es un error de digitación.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los sistemas de screening tienen validaciones para evitar errores simples de digitación antes de informar[cite: 341]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Adherencia al Tratamiento",
+    "text": "¿Cuál es la principal causa de falla en el tratamiento del hipotiroidismo adquirido?",
+    "hint": "Es un tratamiento diario que requiere disciplina[cite: 353].",
+    "options": [
+      {
+        "text": "A) Resistencia biológica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La resistencia real a la T4 es una condición genética extremadamente rara[cite: 347]."
+      },
+      {
+        "text": "B) Mala adherencia (olvidos o toma con alimentos).",
+        "isCorrect": true,
+        "explanation": "Correcto. La mayoría de las veces que la TSH se descompensa en un niño previamente controlado es por fallas en la regularidad o técnica de la toma[cite: 348, 354]."
+      },
+      {
+        "text": "C) Que el medicamento sea genérico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los genéricos de calidad normalizada son efectivos si se mantiene la misma marca y se toman bien[cite: 349]."
+      },
+      {
+        "text": "D) Que el niño haga mucho deporte.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El deporte no impide que el fármaco funcione correctamente[cite: 350]."
+      },
+      {
+        "text": "E) Que el bocio sea muy grande.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El tamaño del bocio no determina la eficacia del reemplazo hormonal oral[cite: 351]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Madurez Cerebral",
+    "text": "¿A qué edad alcanza el cerebro su madurez casi completa respecto a la dependencia de hormona tiroidea para la mielinización?",
+    "hint": "Por eso la re-evaluación del eje se hace a esta edad[cite: 363].",
+    "options": [
+      {
+        "text": "A) 6 meses.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. A esta edad la plasticidad y dependencia siguen siendo máximas[cite: 357]."
+      },
+      {
+        "text": "B) 3 años.",
+        "isCorrect": true,
+        "explanation": "Correcto. El periodo de mayor plasticidad y riesgo de daño irreversible por hipotiroxinemia termina alrededor de los 36 meses[cite: 358, 364]."
+      },
+      {
+        "text": "C) 12 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El cerebro ya está maduro mucho antes de la pubertad en términos de mielinización básica[cite: 359]."
+      },
+      {
+        "text": "D) 18 años.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Corresponde al final de la adolescencia, no al periodo crítico tiroideo[cite: 360]."
+      },
+      {
+        "text": "E) Al nacer.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El cerebro del recién nacido es inmaduro y depende de la T4 para terminar su desarrollo[cite: 361]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Paciente no adherente",
+    "text": "¿Qué hallazgo se esperaría en la TSH de un paciente que toma Levotiroxina de forma irregular (solo los días antes del control)?",
+    "hint": "La T4 plasmática sube rápido, pero la TSH tarda semanas en bajar[cite: 373].",
+    "options": [
+      {
+        "text": "A) TSH normal y T4L normal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Reflejaría una adherencia perfecta, que no es el caso[cite: 367]."
+      },
+      {
+        "text": "B) TSH alta con T4L normal o alta (disociación).",
+        "isCorrect": true,
+        "explanation": "Correcto. Al tomarla justo antes, normaliza la T4 en sangre, pero la TSH sigue alta reflejando el déficit celular de las semanas previas[cite: 368, 374, 375]."
+      },
+      {
+        "text": "C) TSH baja y T4L baja.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No corresponde a un patrón de toma irregular de T4[cite: 369]."
+      },
+      {
+        "text": "D) No se altera.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El eje se altera significativamente ante la falta de estabilidad hormonal[cite: 370]."
+      },
+      {
+        "text": "E) El examen sale inválido.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los niveles se miden correctamente, solo que la interpretación clínica cambia[cite: 371]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Interacción con Estrógenos",
+    "text": "¿Cuál es el efecto de los estrógenos (ej. anticonceptivos) sobre el tratamiento con Levotiroxina?",
+    "hint": "Los estrógenos aumentan la proteína transportadora (TBG)[cite: 384].",
+    "options": [
+      {
+        "text": "A) Disminuyen el efecto de la levotiroxina al aumentar la TBG.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al haber más TBG, queda menos hormona libre disponible; por tanto, muchas adolescentes requieren aumentar su dosis de T4 al iniciar ACO[cite: 378, 385]."
+      },
+      {
+        "text": "B) Aumentan el riesgo de hipertiroidismo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al contrario, tienden a producir un estado de hipotiroidismo relativo si no se ajusta la dosis[cite: 379]."
+      },
+      {
+        "text": "C) Los estrógenos curan el hipotiroidismo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tienen acción regenerativa sobre el tejido tiroideo[cite: 380]."
+      },
+      {
+        "text": "D) No hay interacción alguna.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Existe una interacción competitiva a nivel de proteínas transportadoras muy importante[cite: 381]."
+      },
+      {
+        "text": "E) Inactivan la TSH.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La TSH sigue funcionando, pero el transporte de T4 se ve afectado[cite: 382]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Complicaciones del Retraso",
+    "text": "Un niño con HC presenta TSH normal pero retraso psicomotor. ¿Cuál es la causa más probable?",
+    "hint": "El pronóstico depende del tiempo de inicio y de comorbilidades[cite: 394].",
+    "options": [
+      {
+        "text": "A) La dosis de levotiroxina fue excesiva.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La dosis excesiva causaría aceleración ósea, no típicamente retraso del desarrollo motor aislado[cite: 388]."
+      },
+      {
+        "text": "B) El tratamiento se inició tardíamente.",
+        "isCorrect": false,
+        "explanation": "Es una causa muy probable, pero el ítem E es más completo al incluir otras opciones[cite: 389]."
+      },
+      {
+        "text": "C) El niño tiene otra enfermedad genética asociada.",
+        "isCorrect": false,
+        "explanation": "Posible (ej. Síndrome de Down), pero incompleto[cite: 390]."
+      },
+      {
+        "text": "D) La TSH no es un buen marcador.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el mejor marcador de control metabólico que tenemos[cite: 391]."
+      },
+      {
+        "text": "E) Solo B y C son correctas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Si la TSH está normal hoy pero hay retraso, pudo haber un inicio tardío del tratamiento o existir una patología independiente asociada[cite: 393, 395, 396]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Diagnóstico Diferencial: Palidez",
+    "text": "¿Qué síntoma del hipotiroidismo puede ser confundido con una anemia?",
+    "hint": "El gasto cardíaco disminuido produce vasoconstricción periférica[cite: 405].",
+    "options": [
+      {
+        "text": "A) Palidez de piel y mucosas.",
+        "isCorrect": true,
+        "explanation": "Correcto. La palidez y la intolerancia al frío son síntomas comunes que comparten ambas patologías, pudiendo retrasar el diagnóstico tiroideo[cite: 399, 406]."
+      },
+      {
+        "text": "B) Taquicardia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La anemia da taquicardia compensatoria, pero el hipotiroidismo da bradicardia[cite: 400]."
+      },
+      {
+        "text": "C) Pelo brillante.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El pelo en el hipotiroidismo es opaco, seco y quebradizo[cite: 401]."
+      },
+      {
+        "text": "D) Lengua roja.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugiere glositis por déficit de B12, no hipotiroidismo[cite: 402]."
+      },
+      {
+        "text": "E) Hiperactividad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El hipotiroideo presenta hipoactividad y letargia[cite: 403]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Cintigrama Tiroideo",
+    "text": "¿Cuál es el valor del 'Cintigrama de Tiroides' en un niño con TSH elevada?",
+    "hint": "Es un examen funcional de medicina nuclear[cite: 415].",
+    "options": [
+      {
+        "text": "A) Es el primer examen que se pide.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El primer paso siempre es la confirmación bioquímica venosa de TSH y T4L[cite: 409]."
+      },
+      {
+        "text": "B) Ayuda a localizar glándulas ectópicas o confirmar atireosis.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es fundamental para el diagnóstico etiológico definitivo del HC, ya que localiza tejido tiroideo ausente o fuera de lugar[cite: 410, 416]."
+      },
+      {
+        "text": "C) Mide la inteligencia del niño.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene ninguna relación con la evaluación neuropsicológica[cite: 411]."
+      },
+      {
+        "text": "D) Sustituye al examen de sangre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son exámenes complementarios; uno ve función y el otro ubicación anatómica[cite: 412]."
+      },
+      {
+        "text": "E) Solo sirve para adultos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una herramienta clave en el protocolo de estudio del recién nacido con HC[cite: 413]."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo Terciario",
+    "text": "¿Cómo se encuentra la TSH en un niño con Hipotiroidismo Terciario (falla del hipotálamo)?",
+    "hint": "El hipotálamo no produce TRH para ordenar la secreción de TSH[cite: 425].",
+    "options": [
+      {
+        "text": "A) Altísima.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. TSH alta indica falla primaria (de la glándula)[cite: 419]."
+      },
+      {
+        "text": "B) Baja o inapropiadamente normal.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al no haber estímulo de TRH, la hipófisis no eleva la TSH a pesar de que la T4 periférica esté baja[cite: 420, 424, 426]."
+      },
+      {
+        "text": "C) Normal siempre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Suele estar en rangos bajos o no responder al estímulo del déficit periférico[cite: 421]."
+      },
+      {
+        "text": "D) 0.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Siempre existe una secreción basal mínima indetectable o muy baja[cite: 422]."
+      },
+      {
+        "text": "E) Sube y baja cada hora.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No presenta un patrón de oscilación horaria rápida[cite: 423]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Clasificación Bioquímica",
+    "text": "Escolar con Hashimoto: TSH de 12 mUI/L y T4L de 0.9 ng/dL (límite inferior). ¿Cómo lo clasifica?",
+    "hint": "La TSH ya superó el umbral de 10 y la T4L está al límite o baja[cite: 437].",
+    "options": [
+      {
+        "text": "A) Subclínico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se considera subclínico si la TSH es <10 y la T4L está claramente normal en rango medio[cite: 431]."
+      },
+      {
+        "text": "B) Clínico o establecido.",
+        "isCorrect": true,
+        "explanation": "Correcto. Con TSH > 10 y T4L en el límite inferior o franca hipotiroxinemia, el cuadro es clínico y requiere inicio de tratamiento[cite: 432, 438, 439]."
+      },
+      {
+        "text": "C) Hipertiroidismo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los niveles de T4L estarían elevados y la TSH suprimida[cite: 433]."
+      },
+      {
+        "text": "D) Normal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Un valor de TSH de 12 es claramente patológico[cite: 434]."
+      },
+      {
+        "text": "E) Terciario.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En el terciario la TSH estaría baja, no alta[cite: 435]."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Impacto en Dentición",
+    "text": "¿Cuál es el impacto del hipotiroidismo crónico en la dentición infantil?",
+    "hint": "Todos los procesos de maduración ósea se retrasan[cite: 448].",
+    "options": [
+      {
+        "text": "A) Caída precoz de dientes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La caída prematura suele ser idiopática o por patología gingival, no por hipotiroidismo[cite: 442]."
+      },
+      {
+        "text": "B) Retraso en la erupción de la dentición primaria y definitiva.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un signo clínico útil en el control sano para sospechar hipotiroidismo crónico no diagnosticado[cite: 443, 449]."
+      },
+      {
+        "text": "C) Dientes muy grandes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay alteración en el tamaño intrínseco de las piezas dentales[cite: 444]."
+      },
+      {
+        "text": "D) No afecta los dientes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La maduración dental es un proceso endocrino-dependiente[cite: 445]."
+      },
+      {
+        "text": "E) Dientes de color azul.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La coloración azul es típica de la Osteogénesis Imperfecta (dentinogénesis imperfecta)[cite: 446]."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Examen de Piel Neonatal",
+    "text": "¿Qué característica de la piel sugiere Hipotiroidismo Congénito en un recién nacido?",
+    "hint": "Refleja la mala perfusión periférica y el hipometabolismo[cite: 458].",
+    "options": [
+      {
+        "text": "A) Piel suave y húmeda.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta característica es más sugerente de hipertiroidismo neonatal[cite: 452]."
+      },
+      {
+        "text": "B) Piel moteada (cutis marmorata) persistente, fría y seca.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un signo de sospecha clínica precoz que debe llamar la atención del pediatra en el neonato[cite: 453, 459]."
+      },
+      {
+        "text": "C) Urticaria.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un proceso alérgico agudo, no relacionado con el déficit hormonal[cite: 454]."
+      },
+      {
+        "text": "D) Ictericia que desaparece a los 2 días.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En el HC la ictericia suele ser PROLONGADA (más de 14 días) por inmadurez de la glucuronoconjugación[cite: 455]."
+      },
+      {
+        "text": "E) Hemangiomas múltiples.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Malformaciones vasculares benignas comunes pero sin vínculo con la tiroides[cite: 456]."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Interacción con Hierro",
+    "text": "¿Cuál es el riesgo de administrar hierro y levotiroxina al mismo tiempo?",
+    "hint": "El hierro 'secuestra' a la levotiroxina en el intestino[cite: 468].",
+    "options": [
+      {
+        "text": "A) Aumento de la presión arterial.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tienen un efecto sinérgico sobre la hemodinamia vascular de forma aguda[cite: 462]."
+      },
+      {
+        "text": "B) Formación de complejos insolubles en el intestino que impiden la absorción.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe separar su administración al menos 4 horas para asegurar que el tratamiento tiroideo sea eficaz[cite: 463, 469]."
+      },
+      {
+        "text": "C) El niño se vuelve muy activo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La falta de absorción mantendría al niño letárgico e hipoactivo[cite: 464]."
+      },
+      {
+        "text": "D) No pasa nada.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una de las causas más frecuentes de fracaso terapéutico (falla de absorción)[cite: 465]."
+      },
+      {
+        "text": "E) El hierro se vuelve tóxico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El hierro se absorbe menos pero no aumenta su toxicidad sistémica por esta mezcla[cite: 466]."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hallazgos en el ECG",
+    "text": "¿Qué hallazgo en el ECG es compatible con hipotiroidismo severo?",
+    "hint": "Todo el sistema de conducción se enlentece y el voltaje disminuye[cite: 478].",
+    "options": [
+      {
+        "text": "A) Taquicardia y ondas T altas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugiere un estado de hipermetabolismo o arritmias por exceso de catecolaminas[cite: 472]."
+      },
+      {
+        "text": "B) Bradicardia sinusal, voltajes bajos y prolongación del intervalo QT.",
+        "isCorrect": true,
+        "explanation": "Correcto. Reflejan el enlentecimiento cardíaco global y la infiltración mixedematosa del tejido cardíaco[cite: 473, 479]."
+      },
+      {
+        "text": "C) Fibrilación auricular.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una complicación del hipertiroidismo o valvulopatías del adulto, rara en hipotiroidismo infantil[cite: 474]."
+      },
+      {
+        "text": "D) Bloqueo completo de rama derecha.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Hallazgo estructural común en cardiopatías congénitas, no específico de falla tiroidea[cite: 475]."
+      },
+      {
+        "text": "E) ECG normal siempre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En casos severos, el ECG siempre muestra alteraciones secundarias al hipometabolismo[cite: 476]."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "T4 Libre vs Total",
+    "text": "¿Qué es la 'T4 libre' y por qué se prefiere sobre la 'T4 total'?",
+    "hint": "La T4 total se ve afectada por cambios en proteínas transportadoras[cite: 488].",
+    "options": [
+      {
+        "text": "A) Es la hormona no unida a proteínas y es la biológicamente activa.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el marcador real de la disponibilidad de hormona para las células, independientemente de fluctuaciones en la albúmina o TBG[cite: 482, 489]."
+      },
+      {
+        "text": "B) Es una hormona artificial.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una hormona producida naturalmente por la glándula tiroides[cite: 483]."
+      },
+      {
+        "text": "C) Es más barata.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su costo es similar o levemente superior, pero su precisión clínica justifica su uso[cite: 484]."
+      },
+      {
+        "text": "D) La T4 total no existe en niños.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sí existe, pero su interpretación es más difícil debido a los cambios dinámicos de las proteínas en el crecimiento[cite: 485]."
+      },
+      {
+        "text": "E) No hay diferencia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La diferencia es fundamental para un diagnóstico preciso y evitar falsos errores por exceso de transporte[cite: 486]."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Tiroiditis Subaguda",
+    "text": "¿Cuál es la conducta recomendada ante una 'Tiroiditis Subaguda de De Quervain'?",
+    "hint": "Es una inflamación viral autolimitada[cite: 498].",
+    "options": [
+      {
+        "text": "A) Levotiroxina de por vida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La falla tiroidea suele ser transitoria y la glándula se recupera sola al cabo de meses[cite: 492]."
+      },
+      {
+        "text": "B) Manejo del dolor con AINEs o corticoides; recuperación espontánea.",
+        "isCorrect": true,
+        "explanation": "Correcto. Tras una fase dolorosa con fluctuaciones hormonales, la función tiroidea suele normalizarse sin necesidad de sustitución crónica[cite: 493, 499]."
+      },
+      {
+        "text": "C) Cirugía urgente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay indicación quirúrgica para un proceso inflamatorio viral benigno[cite: 494]."
+      },
+      {
+        "text": "D) Antibióticos endovenosos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La etiología es viral e inflamatoria, no bacteriana supurativa[cite: 495]."
+      },
+      {
+        "text": "E) No duele.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El dolor cervical anterior intenso que se irradia a mandíbula es el síntoma guía[cite: 496]."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Pronóstico a Largo Plazo",
+    "text": "¿Cuál es el mensaje clave para los padres de un niño con Hipotiroidismo Congénito respecto al futuro?",
+    "hint": "La adherencia es la clave del éxito[cite: 508].",
+    "options": [
+      {
+        "text": "A) El niño nunca podrá estudiar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El tratamiento precoz previene la discapacidad intelectual y permite un desarrollo cognitivo normal[cite: 502]."
+      },
+      {
+        "text": "B) Con tratamiento constante y niveles óptimos, el niño tendrá una vida normal.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una enfermedad de excelente pronóstico que permite una integración total a la sociedad si se mantiene el control médico[cite: 503, 509]."
+      },
+      {
+        "text": "C) El niño debe vivir en un hospital.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El manejo es ambulatorio y no requiere internación crónica[cite: 504]."
+      },
+      {
+        "text": "D) El tratamiento se puede dejar los fines de semana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El tratamiento debe ser diario, ya que la constancia asegura niveles estables para el cerebro[cite: 505]."
+      },
+      {
+        "text": "E) Es una enfermedad contagiosa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una patología endocrina metabólica, no infecciosa[cite: 506]."
+      }
+    ]
+  }
+]
