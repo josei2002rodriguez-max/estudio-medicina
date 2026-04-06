@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Síndrome Carcinoide",
+    "text": "¿Qué prueba en orina de 24 horas confirma el diagnóstico del Síndrome Carcinoide (diarrea y rubor facial)?",
+    "hint": "Los tumores carcinoides producen un exceso de serotonina.",
+    "options": [
+      {
+        "text": "A) Ácido vanililmandélico (VMA)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El VMA es un metabolito de las catecolaminas (adrenalina/noradrenalina) utilizado para diagnosticar feocromocitomas, tumores de la glándula suprarrenal que causan hipertensión, no síndrome carcinoide. [cite: 11]"
+      },
+      {
+        "text": "B) Ácido 5-hidroxiindolacético (5-HIAA)",
+        "isCorrect": true,
+        "explanation": "Correcto. El cuerpo descompone el exceso de serotonina producido por los tumores carcinoides en el hígado y los pulmones, excretándola por la orina como 5-HIAA, que es el marcador diagnóstico principal. [cite: 8, 9]"
+      },
+      {
+        "text": "C) Metanefrinas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que el VMA, las metanefrinas son productos de degradación de las catecolaminas y se emplean en la detección de feocromocitomas. [cite: 11]"
+      },
+      {
+        "text": "D) Cortisol libre",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta prueba se utiliza para diagnosticar el Síndrome de Cushing (exceso de glucocorticoides), no patología neuroendocrina carcinoide. [cite: 12]"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Complicaciones: Megacolon Tóxico",
+    "text": "¿Cuál es una complicación letal aguda, caracterizada por dilatación masiva del colon, típica en C. difficile severo y Colitis Ulcerosa?",
+    "hint": "La inflamación severa paraliza los músculos del colon.",
+    "options": [
+      {
+        "text": "A) Íleo biliar",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se trata de una obstrucción mecánica del intestino causada por un cálculo biliar grande que migra desde la vesícula, no por un proceso inflamatorio paralítico del colon. [cite: 21]"
+      },
+      {
+        "text": "B) Megacolon tóxico",
+        "isCorrect": true,
+        "explanation": "Correcto. Ocurre cuando la inflamación severa paraliza la muscular del colon, causando una dilatación masiva (>6 cm) con alto riesgo de perforación, sepsis y muerte. [cite: 18, 19]"
+      },
+      {
+        "text": "C) Vólvulo sigmoideo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una torsión anatómica del colon sobre su propio eje, lo que constituye una causa mecánica de obstrucción, distinta a la dilatación inflamatoria 'tóxica'. [cite: 22]"
+      },
+      {
+        "text": "D) Invaginación intestinal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ocurre cuando un segmento del intestino se introduce dentro de otro (efecto telescopio), siendo una causa común de obstrucción en pediatría pero sin la dilatación masiva difusa del megacolon. [cite: 23]"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad Celíaca: Manifestación Cutánea",
+    "text": "¿Qué manifestación cutánea es patognomónica y altamente específica de la Enfermedad Celíaca?",
+    "hint": "Consiste en vesículas muy pruriginosas en codos, rodillas y glúteos.",
+    "options": [
+      {
+        "text": "A) Eritema nodoso",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son nódulos dolorosos en las piernas asociados a diversas condiciones como Enfermedad Inflamatoria Intestinal o infecciones, pero no son exclusivos de la celiaquía. [cite: 33]"
+      },
+      {
+        "text": "B) Psoriasis en placas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un trastorno dermatológico autoinmune crónico que no tiene una relación causal directa con la ingesta de gluten. [cite: 34]"
+      },
+      {
+        "text": "C) Dermatitis herpetiforme",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la manifestación cutánea de la intolerancia al gluten. Casi el 100% de los pacientes con esta dermatitis presentan daño intestinal compatible con enfermedad celíaca. [cite: 29, 31]"
+      },
+      {
+        "text": "D) Liquen plano",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una enfermedad inflamatoria de la piel y mucosas de origen autoinmune, sin vínculo directo demostrado con la enfermedad celíaca. [cite: 34]"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Tratamiento: Diarrea Colerética",
+    "text": "¿Qué fármaco de elección trata la diarrea secretora (colerética) causada por malabsorción de ácidos biliares?",
+    "hint": "Es una resina que 'secuestra' las sales biliares en el intestino.",
+    "options": [
+      {
+        "text": "A) Colestiramina",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una resina de intercambio que se une a los ácidos biliares libres, impidiendo que lleguen al colon, donde actúan como irritantes provocando secreción de agua. [cite: 40, 41]"
+      },
+      {
+        "text": "B) Loperamida",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque enlentece el tránsito, no neutraliza ni elimina la causa de la irritación (la bilis libre), por lo que no es el tratamiento específico. [cite: 43]"
+      },
+      {
+        "text": "C) Octreótido",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un análogo de la somatostatina usado para inhibir hormonas en tumores neuroendocrinos, pero no tiene capacidad de captar sales biliares. [cite: 44]"
+      },
+      {
+        "text": "D) Rifaximina",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un antibiótico no absorbible útil para SIBO o diarrea del viajero, pero inútil para un trastorno químico de ácidos biliares. [cite: 45]"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad de Crohn: Endoscopia",
+    "text": "En la endoscopia, ¿qué hallazgo macroscópico de la mucosa es clásico de la Enfermedad de Crohn?",
+    "hint": "Se caracteriza por úlceras profundas que se intercalan con tejido inflamado.",
+    "options": [
+      {
+        "text": "A) Aspecto de 'empedrado' (cobblestone) y úlceras profundas",
+        "isCorrect": true,
+        "explanation": "Correcto. Las úlceras longitudinales y transversales profundas intercaladas con mucosa edematosa elevada otorgan este aspecto típico de calles de adoquines. [cite: 51, 52]"
+      },
+      {
+        "text": "B) Atrofia total de vellosidades y mucosa plana",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este es el hallazgo microscópico característico de la Enfermedad Celíaca o del sprue tropical, no del Crohn. [cite: 54]"
+      },
+      {
+        "text": "C) Pseudomembranas amarillentas",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el signo patognomónico de la colitis por Clostridioides difficile, formada por exudados de fibrina y moco. [cite: 55]"
+      },
+      {
+        "text": "D) Mucosa granular, friable, que sangra al roce continuo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta descripción de afectación superficial, continua y hemorrágica es clásica de la Colitis Ulcerosa. [cite: 56]"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Colitis Ulcerosa: Asociación Biliar",
+    "text": "¿Qué enfermedad de las vías biliares está clásicamente asociada a la Colitis Ulcerosa?",
+    "hint": "Es una inflamación autoinmune que causa estenosis de los conductos biliares.",
+    "options": [
+      {
+        "text": "A) Cirrosis biliar primaria",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una enfermedad autoinmune de los conductos intrahepáticos que afecta sobre todo a mujeres (AMA positivos) y no tiene una asociación fuerte con la CU. [cite: 65]"
+      },
+      {
+        "text": "B) Colelitiasis (cálculos)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un trastorno metabólico común de la formación de cálculos en la vesícula, sin relación autoinmune con la patología colónica. [cite: 66]"
+      },
+      {
+        "text": "C) Colangitis Esclerosante Primaria (CEP)",
+        "isCorrect": true,
+        "explanation": "Correcto. Existe una fuerte asociación; hasta el 5-10% de los pacientes con CU desarrollan CEP, lo que puede derivar en cirrosis y requerir trasplante hepático. [cite: 62, 63]"
+      },
+      {
+        "text": "D) Cáncer de vesícula biliar",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No tiene una relación patogénica directa o exclusiva con la Colitis Ulcerosa. [cite: 66]"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Patogenia: Toxina Shiga",
+    "text": "A nivel celular, ¿cuál es el mecanismo letal de la Toxina Shiga?",
+    "hint": "Detiene la síntesis de proteínas de la célula infectada.",
+    "options": [
+      {
+        "text": "A) Activa el AMP cíclico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este es el mecanismo de la toxina del Cólera y de E. coli Enterotoxigénica, que provoca secreción de agua pero no muerte celular directa. [cite: 76]"
+      },
+      {
+        "text": "B) Perfora la membrana plasmática",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este mecanismo de acción (formación de poros) es propio de citolisinas como las producidas por S. aureus o Streptococcus. [cite: 77]"
+      },
+      {
+        "text": "C) Inhibibe la subunidad 60S del ribosoma",
+        "isCorrect": true,
+        "explanation": "Correcto. La toxina bloquea irreversiblemente la subunidad 60S, deteniendo la síntesis proteica y causando la muerte (necrosis) de las células epiteliales y endoteliales. [cite: 72, 73, 74]"
+      },
+      {
+        "text": "D) Destruye el citoesqueleto de actina",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este es el mecanismo de acción de la Toxina B (citotoxina) de Clostridioides difficile. [cite: 78]"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Rehidratación: SRO Modernas",
+    "text": "Según las guías modernas de la OMS/UNICEF, ¿qué osmolaridad tienen las Sales de Rehidratación Oral (SRO) recomendadas?",
+    "hint": "Tienen menos sodio y glucosa que las fórmulas antiguas para reducir el riesgo de diarrea osmótica.",
+    "options": [
+      {
+        "text": "A) Hiperosmolar (>300 mOsm/L)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Las fórmulas con osmolaridad alta pueden empeorar la diarrea por efecto osmótico y aumentar el riesgo de hipernatremia. [cite: 88, 89]"
+      },
+      {
+        "text": "B) Isoosmolar (290 mOsm/L)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque similar al plasma, las guías actuales prefieren una solución ligeramente hipoosmolar para optimizar la absorción de agua. [cite: 88]"
+      },
+      {
+        "text": "C) De baja osmolaridad (245 mOsm/L)",
+        "isCorrect": true,
+        "explanation": "Correcto. Las SRO actuales tienen 245 mOsm/L. Esta reducción disminuye los vómitos, el volumen de las heces y la necesidad de hidratación intravenosa. [cite: 82, 84, 86]"
+      },
+      {
+        "text": "D) Muy baja osmolaridad (<150 mOsm/L)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Una osmolaridad tan baja no aportaría los electrolitos necesarios y podría provocar hiponatremia severa y edema cerebral. [cite: 90]"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "VIH: Micobacterias Atípicas",
+    "text": "¿Qué micobacteria atípica causa diarrea intratable, fiebre y pérdida de peso severa en pacientes con VIH terminal (CD4 < 50)?",
+    "hint": "Es una infección oportunista sistémica clásica en estadios avanzados.",
+    "options": [
+      {
+        "text": "A) Mycobacterium tuberculosis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque puede afectar el intestino, causa tuberculosis y su presentación típica no es la diarrea acuosa masiva intratable. [cite: 100]"
+      },
+      {
+        "text": "B) Mycobacterium leprae",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el agente causal de la lepra, una enfermedad que afecta piel y nervios periféricos, no el tracto digestivo. [cite: 101]"
+      },
+      {
+        "text": "C) Mycobacterium avium complex (MAC)",
+        "isCorrect": true,
+        "explanation": "Correcto. El complejo MAC es el agente clásico de infección oportunista sistémica en SIDA avanzado, causando diarrea crónica, dolor abdominal y caquexia extrema. [cite: 96, 97, 98]"
+      },
+      {
+        "text": "D) Mycobacterium bovis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Transmitido por leche no pasteurizada, causa TB intestinal, pero no es el agente micobacteriano atípico principal asociado al recuento bajo de CD4. [cite: 102]"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Amebiasis: Diagnóstico Microscópico",
+    "text": "¿Qué hallazgo microscópico en heces confirma la infección invasiva patógena por Entamoeba histolytica?",
+    "hint": "Indica que la ameba está rompiendo vasos sanguíneos.",
+    "options": [
+      {
+        "text": "A) Trofozoítos con eritrocitos fagocitados en su interior",
+        "isCorrect": true,
+        "explanation": "Correcto. La eritrofagocitosis es patognomónica de la invasión tisular activa. Confirma que la ameba es patógena y está causando disentería. [cite: 104, 109, 110]"
+      },
+      {
+        "text": "B) Quistes con 8 núcleos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los quistes de E. histolytica tienen un máximo de 4 núcleos. Los quistes con 8 núcleos pertenecen a la ameba no patógena Entamoeba coli. [cite: 112]"
+      },
+      {
+        "text": "C) Huevos operculados",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este hallazgo es característico de trematodos como Fasciola hepatica, no de protozoarios como la ameba. [cite: 113]"
+      },
+      {
+        "text": "D) Larvas rabditiformes móviles",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el hallazgo típico en las heces de pacientes con infección por Strongyloides stercoralis. [cite: 114]"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Factores de Riesgo: SIBO",
+    "text": "¿Qué antecedente quirúrgico es un factor de riesgo clásico para desarrollar Sobrecrecimiento Bacteriano del Intestino Delgado (SIBO)?",
+    "hint": "Cirugías que crean zonas donde el alimento se estanca.",
+    "options": [
+      {
+        "text": "A) Apendicectomía",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La extirpación del apéndice no altera significativamente la motilidad ni la anatomía que previene el SIBO. [cite: 123]"
+      },
+      {
+        "text": "B) Colecistectomía",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Quitar la vesícula puede causar diarrea colerética por flujo biliar continuo, pero no es el factor quirúrgico primario para el SIBO. [cite: 124]"
+      },
+      {
+        "text": "C) Bypass gástrico (o asa ciega posquirúrgica)",
+        "isCorrect": true,
+        "explanation": "Correcto. Las alteraciones anatómicas que crean 'asas ciegas' permiten el estancamiento de contenido y la proliferación de bacterias colónicas en el intestino delgado. [cite: 120, 121]"
+      },
+      {
+        "text": "D) Tiroidectomía",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La cirugía de tiroides no tiene impacto en la anatomía o flujo bacteriano del tracto gastrointestinal. [cite: 125]"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Diarrea del Viajero: Toxinas",
+    "text": "¿Qué toxinas produce la Escherichia coli Enterotoxigénica (ECET) para causar la diarrea del viajero?",
+    "hint": "Una actúa como la del cólera y la otra sube el GMPc.",
+    "options": [
+      {
+        "text": "A) Toxina Shiga 1 y 2",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Estas son producidas por la E. coli Enterohemorrágica (ECEH) y son responsables del Síndrome Urémico Hemolítico. [cite: 135]"
+      },
+      {
+        "text": "B) Toxina termolábil (LT) y termoestable (ST)",
+        "isCorrect": true,
+        "explanation": "Correcto. La LT aumenta el AMPc e imita al cólera, mientras que la ST aumenta el GMPc. Ambas provocan una diarrea acuosa secretora masiva. [cite: 131, 132, 133]"
+      },
+      {
+        "text": "C) Toxina TcdA y TcdB",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son las toxinas clásicas de Clostridioides difficile (Toxina A y B) involucradas en la diarrea post-antibióticos. [cite: 136]"
+      },
+      {
+        "text": "D) Toxina alfa y toxina exfoliativa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son toxinas producidas por Staphylococcus aureus, asociadas a fascitis y síndrome de piel escaldada, no a ECET. [cite: 137]"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Diagnóstico SUH: Hematología",
+    "text": "En el examen de sangre, ¿qué hallazgo confirma el diagnóstico de anemia hemolítica microangiopática en el SUH?",
+    "hint": "Glóbulos rojos fragmentados por mallas de fibrina.",
+    "options": [
+      {
+        "text": "A) Megaloblastos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Estos glóbulos rojos inmaduros gigantes son típicos de la deficiencia de Vitamina B12 o ácido fólico. [cite: 147]"
+      },
+      {
+        "text": "B) Esquistocitos",
+        "isCorrect": true,
+        "explanation": "Correcto. Son fragmentos de glóbulos rojos (células en casco) que resultan de la ruptura mecánica de las células al pasar por capilares obstruidos por microtrombos. [cite: 143, 145]"
+      },
+      {
+        "text": "C) Células falciformes",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son glóbulos rojos en forma de hoz patognomónicos de la anemia drepanocítica, una hemoglobinopatía genética. [cite: 148]"
+      },
+      {
+        "text": "D) Esferocitos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son glóbulos rojos esféricos pequeños típicos de la esferocitosis hereditaria o anemias hemolíticas autoinmunes calientes. [cite: 149]"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad de Whipple: Tratamiento",
+    "text": "¿Cuál es el tratamiento de elección para erradicar la Enfermedad de Whipple y prevenir daño neurológico letal?",
+    "hint": "Requiere una terapia antibiótica muy prolongada (años).",
+    "options": [
+      {
+        "text": "A) Dosis única de Azitromicina",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta pauta es insuficiente para Tropheryma whipplei, que es intracelular y requiere tratamientos crónicos para evitar recaídas. [cite: 159]"
+      },
+      {
+        "text": "B) 1 a 2 años de antibióticos (Ceftriaxona IV seguida de TMP-SMX)",
+        "isCorrect": true,
+        "explanation": "Correcto. Debido a que la bacteria puede persistir en santuarios como el SNC, se requiere un curso inicial potente seguido de mantenimiento oral prolongado. [cite: 155, 157]"
+      },
+      {
+        "text": "C) Corticoides de por vida",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al ser una infección bacteriana activa, los corticoides solos empeorarían el cuadro al deprimir la inmunidad del huésped. [cite: 160]"
+      },
+      {
+        "text": "D) Dieta sin gluten",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el tratamiento de la enfermedad celíaca, una patología autoinmune no infecciosa. [cite: 161]"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Complicaciones: Proctitis Actínica",
+    "text": "Hombre de 70 años con antecedente de radioterapia pélvica hace 2 años consulta por diarrea y sangrado rectal. ¿Sospecha?",
+    "hint": "La radiación causa isquemia crónica y fibrosis de la mucosa.",
+    "options": [
+      {
+        "text": "A) Recaída del cáncer",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La recidiva prostática causaría síntomas urinarios u óseos, no proctitis sangrante años después. [cite: 172]"
+      },
+      {
+        "text": "B) Enteropatía/Proctitis por radiación",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una secuela tardía frecuente. La mucosa se atrofia y forma telangiectasias frágiles que sangran ante el roce de las heces. [cite: 168, 170]"
+      },
+      {
+        "text": "C) Infección crónica por C. difficile",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Requiere uso reciente de antibióticos para manifestarse; el antecedente de radioterapia apunta a un origen isquémico/tóxico. [cite: 173]"
+      },
+      {
+        "text": "D) Colitis Microscópica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esta entidad cursa clásicamente con diarrea acuosa crónica, pero SIN sangrado rectal visible. [cite: 174]"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Colitis Isquémica: Imagenología",
+    "text": "¿Qué signo radiológico es característico de la Colitis Isquémica aguda en una tomografía?",
+    "hint": "El edema de la pared empuja la mucosa hacia el interior del lumen.",
+    "options": [
+      {
+        "text": "A) Grano de café",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el signo patognomónico del vólvulo de sigmoides en la radiografía de abdomen. [cite: 184]"
+      },
+      {
+        "text": "B) 'Thumbprinting' (huellas dactilares)",
+        "isCorrect": true,
+        "explanation": "Correcto. El edema severo de la mucosa por falta de riego crea indentaciones en el lumen que parecen marcas de dedos pulgares en las imágenes con contraste. [cite: 180, 182]"
+      },
+      {
+        "text": "C) Picos de pájaro",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se observa en la acalasia esofágica o en ciertos tipos de vólvulo (estrangulamiento cónico). [cite: 185]"
+      },
+      {
+        "text": "D) Signo del halo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un hallazgo inespecífico de inflamación periorgánica (ej. apendicitis o hepatitis), no exclusivo de isquemia. [cite: 186]"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Colitis Colágena",
+    "text": "Biopsia de mujer con diarrea acuosa idiopática muestra una 'banda colágena subepitelial engrosada' (>10 µm). ¿Diagnóstico?",
+    "hint": "Es un subtipo de Colitis Microscópica.",
+    "options": [
+      {
+        "text": "A) Colitis linfocítica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el otro subtipo de colitis microscópica; presenta infiltrado inflamatorio pero SIN la banda gruesa de colágeno. [cite: 196]"
+      },
+      {
+        "text": "B) Colitis colágena",
+        "isCorrect": true,
+        "explanation": "Correcto. El sello diagnóstico es precisamente la capa gruesa de colágeno subepitelial que impide la reabsorción de agua. [cite: 190, 193, 194]"
+      },
+      {
+        "text": "C) Colitis ulcerosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Presenta distorsión de criptas y úlceras macroscópicas visibles en la colonoscopia. [cite: 197]"
+      },
+      {
+        "text": "D) Enfermedad de Crohn",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causa inflamación transmural y granulomas, con lesiones visibles macroscópicamente, no solo hallazgos de colágeno. [cite: 197]"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Zollinger-Ellison: Diarrea",
+    "text": "¿Cuál es la causa primaria de la diarrea y esteatorrea en el Síndrome de Zollinger-Ellison?",
+    "hint": "El pH del intestino delgado baja demasiado por el ácido estomacal.",
+    "options": [
+      {
+        "text": "A) El gastrinoma secreta líquido al colon",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los gastrinomas solo producen gastrina; la secreción directa de agua al colon es típica del VIPoma. [cite: 207]"
+      },
+      {
+        "text": "B) El exceso de ácido gástrico inactiva las enzimas pancreáticas",
+        "isCorrect": true,
+        "explanation": "Correcto. El ácido masivo desnaturaliza la lipasa pancreática en el duodeno, impidiendo la digestión de grasas y causando malabsorción. [cite: 200, 205]"
+      },
+      {
+        "text": "C) Destrucción de la glándula tiroides",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La tiroides regula el metabolismo pero no interviene en la acidez gástrica mediada por gastrina. [cite: 208]"
+      },
+      {
+        "text": "D) Infección masiva por H. pylori",
+        "isCorrect": false,
+        "explanation": "Incorrecto. H. pylori causa úlceras pépticas comunes, pero no la hiperclorhidria extrema y tumoral de este síndrome. [cite: 209]"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Neuropatía Diabética Autonómica",
+    "text": "¿Qué característica horaria sugiere diarrea por neuropatía autonómica diabética?",
+    "hint": "El intestino falla cuando los estímulos neuroentéricos se apagan durante el sueño.",
+    "options": [
+      {
+        "text": "A) Solo por la mañana",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un patrón común en diarreas motoras por ansiedad o síndrome de intestino irritable. [cite: 219]"
+      },
+      {
+        "text": "B) Inmediata tras comer",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indica un reflejo gastrocólico exagerado, típico de trastornos funcionales como el SII. [cite: 220]"
+      },
+      {
+        "text": "C) De predominio nocturno y en reposo",
+        "isCorrect": true,
+        "explanation": "Correcto. La pérdida del control nervioso autonómico provoca episodios de diarrea grave y escapes fecales típicamente por la noche. [cite: 213, 216, 217]"
+      },
+      {
+        "text": "D) Solo con el ejercicio",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Esto se denomina 'diarrea del corredor' y se debe a isquemia intestinal relativa transitoria. [cite: 221]"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Abuso de Laxantes: Melanosis Coli",
+    "text": "Colonoscopia muestra el colon de color marrón oscuro o negro tras uso crónico de laxantes. ¿Nombre del signo?",
+    "hint": "Es una pigmentación benigna por acumulación de lipofuscina.",
+    "options": [
+      {
+        "text": "A) Poliposis múltiple",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Condición donde el colon se llena de pólipos pediculados, no un cambio de color de la pared lisa. [cite: 232]"
+      },
+      {
+        "text": "B) Melanosis coli",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el marcador visual indiscutible del uso crónico de laxantes antraquinónicos (senna, cáscara sagrada). Es reversible. [cite: 225, 228, 230]"
+      },
+      {
+        "text": "C) Megacolon agangliónico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es la Enfermedad de Hirschsprung, donde el colon se dilata por falta de nervios de nacimiento, no por pigmentación. [cite: 233]"
+      },
+      {
+        "text": "D) Isquemia fulminante",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Muestra una mucosa pálida, cianótica o necrótica con compromiso vital agudo, no una coloración marrón estable. [cite: 234]"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Invaginación Intestinal: Heces",
+    "text": "¿Cómo se describen clásicamente las heces de un lactante con intususcepción?",
+    "hint": "Mezcla de sangre y moco por isquemia de la pared intestinal.",
+    "options": [
+      {
+        "text": "A) Agua de arroz",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Heces características de la infección por Vibrio cholerae. [cite: 244]"
+      },
+      {
+        "text": "B) Puré de guisantes",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Descripción clásica de las deposiciones en la Fiebre Tifoidea. [cite: 245]"
+      },
+      {
+        "text": "C) Jalea de grosella (Red currant jelly)",
+        "isCorrect": true,
+        "explanation": "Correcto. La mucosa del intestino atrapado sufre infarto hemorrágico y se desprende junto con moco abundante, creando esta apariencia típica. [cite: 239, 241, 242]"
+      },
+      {
+        "text": "D) Melena (alquitrán)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Indica sangre oxidada del tracto digestivo alto, no sangre fresca con moco de origen bajo. [cite: 246]"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Enteropatía Perdedora de Proteínas",
+    "text": "¿Qué examen fecal diagnostica la Enteropatía Perdedora de Proteínas?",
+    "hint": "Mide el escape de una proteína plasmática que el intestino no puede digerir.",
+    "options": [
+      {
+        "text": "A) Calprotectina fecal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Evalúa la migración de glóbulos blancos hacia el intestino, indicando inflamación orgánica pero no pérdida proteica neta. [cite: 256]"
+      },
+      {
+        "text": "B) Clearance de Alfa-1-antitripsina",
+        "isCorrect": true,
+        "explanation": "Correcto. Esta proteína sérica resiste la digestión; si se encuentra elevada en heces, confirma que las proteínas plasmáticas se están fugando al lumen intestinal. [cite: 249, 252, 254]"
+      },
+      {
+        "text": "C) Test de sudor",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es la prueba diagnóstica para Fibrosis Quística al medir la concentración de cloruro en la piel. [cite: 257]"
+      },
+      {
+        "text": "D) Coprocultivo cuantitativo",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se usa para contar colonias bacterianas ante sospecha de infección, no mide parámetros metabólicos. [cite: 258]"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Genética: Celiaquía",
+    "text": "¿Qué alelos HLA son indispensables para desarrollar Enfermedad Celíaca?",
+    "hint": "Casi el 100% de los pacientes tienen uno de estos dos haplotipos.",
+    "options": [
+      {
+        "text": "A) HLA-B27",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia a espondiloartropatías como la Espondilitis Anquilosante o Artritis Reactiva. [cite: 268]"
+      },
+      {
+        "text": "B) HLA-DR4",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Alelo fuertemente vinculado con la predisposición a la Artritis Reumatoide. [cite: 269]"
+      },
+      {
+        "text": "C) HLA-DQ2 y/o HLA-DQ8",
+        "isCorrect": true,
+        "explanation": "Correcto. Sin estos genes es virtualmente imposible presentar la enfermedad; su ausencia permite descartar el diagnóstico con gran certeza. [cite: 262, 265, 266]"
+      },
+      {
+        "text": "D) HLA-DR2",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Asociado clásicamente a la Esclerosis Múltiple y a la Narcolepsia. [cite: 270]"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Adenovirus Entéricos",
+    "text": "¿Qué serotipos específicos de Adenovirus causan frecuentemente diarrea infantil?",
+    "hint": "Son la segunda causa más común de diarrea viral en niños.",
+    "options": [
+      {
+        "text": "A) Adenovirus 40 y 41",
+        "isCorrect": true,
+        "explanation": "Correcto. A diferencia de los serotipos respiratorios, estos dos tienen un tropismo gastrointestinal exclusivo y estable. [cite: 272, 277]"
+      },
+      {
+        "text": "B) Adenovirus 8 y 19",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son los agentes principales de la queratoconjuntivitis epidémica severa. [cite: 279]"
+      },
+      {
+        "text": "C) Adenovirus 3 y 7",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causan fiebre faringoconjuntival o cuadros respiratorios agudos en comunidades. [cite: 280]"
+      },
+      {
+        "text": "D) Adenovirus 1 y 2",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son serotipos comunes que causan infecciones respiratorias leves y persisten en las amígdalas. [cite: 281]"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Laxantes de Magnesio: Mecanismo",
+    "text": "¿Qué mecanismo explica la diarrea por uso excesivo de Leche de Magnesia?",
+    "hint": "El magnesio no se absorbe y atrae agua al lumen.",
+    "options": [
+      {
+        "text": "A) Diarrea motora rápida",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque el tránsito aumenta, el efecto primario no es una estimulación de los nervios motores intestinales. [cite: 292]"
+      },
+      {
+        "text": "B) Diarrea osmótica",
+        "isCorrect": true,
+        "explanation": "Correcto. Los iones de magnesio son solutos no absorbibles que aumentan la osmolaridad luminal, forzando el paso de agua hacia el intestino. [cite: 285, 290]"
+      },
+      {
+        "text": "C) Diarrea secretora tóxica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay intervención de enterotoxinas bacterianas que activen la secreción iónica celular. [cite: 293]"
+      },
+      {
+        "text": "D) Diarrea inflamatoria",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El magnesio no lesiona la mucosa de forma invasiva ni produce exudado de leucocitos. [cite: 294]"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Loperamida en Niños",
+    "text": "¿En qué situación está indicada la loperamida en niños menores de 5 años?",
+    "hint": "Considere la seguridad y el riesgo de íleo paralítico.",
+    "options": [
+      {
+        "text": "A) Diarrea de más de 3 días",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El tiempo no justifica el riesgo neurológico e intestinal que supone este fármaco en niños pequeños. [cite: 304]"
+      },
+      {
+        "text": "B) Riesgo de deshidratación severa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El manejo ante riesgo de deshidratación es rehidratación oral agresiva con SRO, no fármacos paralizantes. [cite: 304]"
+      },
+      {
+        "text": "C) En ninguna situación, está contraindicada",
+        "isCorrect": true,
+        "explanation": "Correcto. En pediatría está formalmente contraindicada por el riesgo de íleo letal, megacolon tóxico y efectos secundarios graves en el SNC. [cite: 298, 301, 302, 305]"
+      },
+      {
+        "text": "D) Para prevenir convulsiones febriles",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La loperamida no tiene propiedades anticonvulsivantes ni antipiréticas. [cite: 304]"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Carcinoma Medular de Tiroides",
+    "text": "¿Qué tumor de tiroides secreta calcitonina y puede causar diarrea secretora crónica?",
+    "hint": "Asociado al síndrome de neoplasia endocrina múltiple (MEN) 2.",
+    "options": [
+      {
+        "text": "A) Carcinoma papilar",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el cáncer de tiroides más común; se origina en células foliculares y no secreta hormonas que afecten la motilidad intestinal. [cite: 315]"
+      },
+      {
+        "text": "B) Carcinoma folicular",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al igual que el papilar, carece de función neuroendocrina secretora de péptidos vasoactivos. [cite: 315]"
+      },
+      {
+        "text": "C) Carcinoma anaplásico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un tumor indiferenciado extremadamente agresivo pero sin actividad hormonal secretora de calcitonina. [cite: 316]"
+      },
+      {
+        "text": "D) Carcinoma medular",
+        "isCorrect": true,
+        "explanation": "Correcto. Se origina en las células C y libera calcitonina y péptidos como el VIP, los cuales estimulan la secreción intestinal masiva de agua. [cite: 310, 312, 313]"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Intoxicación por Amanita phalloides",
+    "text": "Un paciente con diarrea profunda 12 horas después de comer setas silvestres podría presentar una intoxicación letal por:",
+    "hint": "Causa falla hepática fulminante tras una gastroenteritis inicial.",
+    "options": [
+      {
+        "text": "A) Psilocybe cubensis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son hongos alucinógenos que causan síntomas neurosensoriales (visiones), pero no necrosis orgánica mortal. [cite: 327]"
+      },
+      {
+        "text": "B) Amanita phalloides",
+        "isCorrect": true,
+        "explanation": "Correcto. Contiene amatoxinas que destruyen el hígado 3 días después de una fase inicial de gastroenteritis grave. Es el 'hongo de la muerte'. [cite: 319, 323, 324, 325]"
+      },
+      {
+        "text": "C) Aspergillus flavus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un moho ambiental vinculado a la producción de aflatoxinas y cáncer hepático crónico, no a intoxicaciones agudas por setas. [cite: 328]"
+      },
+      {
+        "text": "D) Candida albicans",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una levadura que forma parte de la flora normal; no produce toxinas que causen diarrea coleriforme por ingesta de setas. [cite: 329]"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Trichuriasis: Complicaciones",
+    "text": "¿Qué parásito nematodo puede causar disentería y prolapso rectal en niños desnutridos?",
+    "hint": "Se le conoce como el 'gusano látigo'.",
+    "options": [
+      {
+        "text": "A) Ascaris lumbricoides",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Son lombrices grandes que causan obstrucción o migración errática a vías biliares, no prolapso rectal por irritación crónica. [cite: 339]"
+      },
+      {
+        "text": "B) Enterobius vermicularis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los oxiuros causan prurito anal nocturno intenso por el depósito de huevos, pero no inflaman el colon de forma grave. [cite: 340]"
+      },
+      {
+        "text": "C) Trichuris trichiura",
+        "isCorrect": true,
+        "explanation": "Correcto. El gusano se ancla en el colon causando inflamación crónica y tenesmo extremo, lo que termina por empujar la mucosa rectal hacia afuera. [cite: 333, 336, 337]"
+      },
+      {
+        "text": "D) Taenia saginata",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La solitaria de la vaca suele ser asintomática o causar síntomas digestivos leves sin compromiso estructural del recto. [cite: 341]"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Campylobacter: Resistencia Antibiótica",
+    "text": "¿Cuál es hoy el antibiótico de elección para la disentería severa por Campylobacter jejuni?",
+    "hint": "Las fluoroquinolonas ya no se recomiendan de primera línea por alta resistencia.",
+    "options": [
+      {
+        "text": "A) Azitromicina (Macrólidos)",
+        "isCorrect": true,
+        "explanation": "Correcto. Son la primera línea actual debido a que Campylobacter ha desarrollado una resistencia masiva a las quinolonas tradicionales. [cite: 343, 348]"
+      },
+      {
+        "text": "B) Vancomicina oral",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su uso es exclusivo para la colitis por C. difficile, no tiene espectro contra Campylobacter. [cite: 350]"
+      },
+      {
+        "text": "C) Penicilina G benzatínica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este germen Gram negativo es intrínsecamente resistente a las penicilinas naturales. [cite: 351]"
+      },
+      {
+        "text": "D) Metronidazol",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Útil para parásitos y bacterias anaerobias estrictas; Campylobacter es un organismo microaerófilo diferente. [cite: 352]"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Fisiología: Absorción de B12",
+    "text": "¿Cuál es el único segmento capaz de absorber la Vitamina B12 unida al factor intrínseco?",
+    "hint": "Es la parte final del intestino delgado.",
+    "options": [
+      {
+        "text": "A) Estómago",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El estómago solo produce el factor intrínseco necesario para la protección de la vitamina, pero no posee los receptores de absorción. [cite: 362]"
+      },
+      {
+        "text": "B) Duodeno",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su función principal es la absorción de hierro y calcio tras la mezcla con bilis y jugos pancreáticos. [cite: 363]"
+      },
+      {
+        "text": "C) Yeyuno proximal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el sitio principal para la absorción de folatos, carbohidratos y la mayor parte de los nutrientes. [cite: 364]"
+      },
+      {
+        "text": "D) Íleon terminal",
+        "isCorrect": true,
+        "explanation": "Correcto. Posee los receptores específicos para el complejo VitB12-Factor Intrínseco. Por ello, enfermedades en esta zona (como el Crohn) causan anemia megaloblástica. [cite: 357, 359, 360]"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Gastroenteritis Eosinofílica",
+    "text": "¿Cómo se denomina la enfermedad con infiltración masiva de eosinófilos en las capas del tubo digestivo?",
+    "hint": "Causa diarrea, dolor abdominal y a veces ascitis en pacientes alérgicos.",
+    "options": [
+      {
+        "text": "A) Gastroenteritis Eosinofílica",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una patología rara mediada por glóbulos blancos típicos de la alergia que inflaman crónicamente la pared intestinal. [cite: 367, 371, 372]"
+      },
+      {
+        "text": "B) Infección por Rotavirus",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se caracteriza por un infiltrado de neutrófilos agudos y daño del borde en cepillo, no infiltración eosinofílica transmural. [cite: 375]"
+      },
+      {
+        "text": "C) Colitis Ulcerosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La biopsia muestra abscesos en las criptas y un infiltrado rico en linfocitos y células plasmáticas, no eosinófilos predominantemente. [cite: 375]"
+      },
+      {
+        "text": "D) Isquemia intestinal",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Muestra necrosis de la mucosa y hemorragia tisular por falta de flujo sanguíneo, sin relación con procesos alérgicos eosinofílicos. [cite: 376]"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Síndrome de Intestino Irritable: Banderas Rojas",
+    "text": "¿Qué característica horaria es FUNDAMENTAL para sospechar un trastorno funcional (SII)?",
+    "hint": "El dolor y la diarrea desaparecen al dormir.",
+    "options": [
+      {
+        "text": "A) Despierta al paciente de madrugada",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La diarrea nocturna que interrumpe el sueño es una 'bandera roja' de organicidad (EII, infección) y descarta el origen puramente funcional. [cite: 384, 386]"
+      },
+      {
+        "text": "B) Solo con líquidos fríos",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Puede ser un gatillo irritativo individual, pero no es el pilar diagnóstico del síndrome de intestino irritable. [cite: 387]"
+      },
+      {
+        "text": "C) Nunca interrumpe el sueño",
+        "isCorrect": true,
+        "explanation": "Correcto. Los trastornos funcionales dependen del estrés y el sistema autónomo, los cuales se 'apagan' durante el descanso profundo. [cite: 380, 382, 383]"
+      },
+      {
+        "text": "D) Solo los fines de semana",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No existe un patrón clínico definido por el calendario laboral en el SII. [cite: 387]"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Metformina: Efectos Adversos",
+    "text": "¿Qué medicamento para la diabetes es famoso por causar diarrea y flatos al inicio?",
+    "hint": "Afecta hasta al 30% de los pacientes que inician el tratamiento.",
+    "options": [
+      {
+        "text": "A) Insulina glargina",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un fármaco inyectable cuyos riesgos principales son la hipoglucemia y reacciones locales en el sitio de punción. [cite: 397]"
+      },
+      {
+        "text": "B) Metformina",
+        "isCorrect": true,
+        "explanation": "Correcto. Los efectos GI son muy frecuentes. Se mitigan administrándola con las comidas o escalando la dosis de forma muy lenta. [cite: 390, 393, 394, 395]"
+      },
+      {
+        "text": "C) Glibenclamida",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su mecanismo es estimular la secreción endógena de insulina; sus riesgos son hipoglucemia grave y aumento de peso. [cite: 398]"
+      },
+      {
+        "text": "D) Empagliflozina",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un inhibidor del SGLT2 que causa glucosuria, aumentando el riesgo de infecciones urinarias por hongos, no diarrea. [cite: 399]"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Estado de Portador Crónico: Tifoidea",
+    "text": "¿Qué tratamiento se usa para erradicar a Salmonella en un portador crónico?",
+    "hint": "Requiere antibióticos que lleguen bien a la vía biliar.",
+    "options": [
+      {
+        "text": "A) Fluconazol",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se trata de un medicamento antifúngico sin ninguna actividad contra la bacteria Salmonella. [cite: 410]"
+      },
+      {
+        "text": "B) Ciprofloxacino oral (4 semanas) o Ceftriaxona",
+        "isCorrect": true,
+        "explanation": "Correcto. Se necesita una terapia prolongada para eliminar el reservorio bacteriano que suele estar escondido en la vesícula biliar o cálculos. [cite: 402, 405, 407]"
+      },
+      {
+        "text": "C) Bismuto masticable",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es solo un tratamiento sintomático local que no tiene capacidad de esterilizar la vía biliar del portador crónico. [cite: 411]"
+      },
+      {
+        "text": "D) No se trata",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es fundamental tratarlo para evitar que siga propagando la enfermedad de forma asintomática a la comunidad. [cite: 412]"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Síndrome de Intestino Corto",
+    "text": "Paciente con resección masiva (le quedan <200 cm) presenta desnutrición severa y diarrea. ¿Diagnóstico?",
+    "hint": "La superficie de absorción es insuficiente para la vida sin soporte.",
+    "options": [
+      {
+        "text": "A) Colitis Isquémica Crónica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Afecta al intestino grueso y causa sangrado o estenosis, pero no es la causa de la desnutrición masiva por falta de superficie de absorción. [cite: 423]"
+      },
+      {
+        "text": "B) Síndrome de Intestino Corto",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el cuadro clínico que resulta de la pérdida (quirúrgica o funcional) de una gran parte del intestino delgado. [cite: 416, 419, 420, 421]"
+      },
+      {
+        "text": "C) Enfermedad de Whipple",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una infección bacteriana sistémica, no un defecto anatómico por cirugía de resección masiva. [cite: 424]"
+      },
+      {
+        "text": "D) Megacolon tóxico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una complicación aguda inflamatoria del colon que amenaza con perforación, sin relación con la longitud del intestino delgado. [cite: 425]"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Patogenia: E. coli Enteropatógena (ECEP)",
+    "text": "¿Qué mecanismo usa la ECEP para causar diarrea en lactantes?",
+    "hint": "Destruye el esqueleto celular sin producir toxinas.",
+    "options": [
+      {
+        "text": "A) Secreta toxina Shiga",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este mecanismo es exclusivo de la E. coli Enterohemorrágica (ECEH), vinculada al SUH. [cite: 436]"
+      },
+      {
+        "text": "B) Sube el nivel de AMP cíclico",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es el mecanismo de la E. coli Enterotoxigénica (ECET) y del Cólera, mediante secreción activa. [cite: 437]"
+      },
+      {
+        "text": "C) Invade la sangre (bacteriemia)",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La ECEP es una bacteria luminal que no suele cruzar la barrera mucosa hacia el torrente sanguíneo. [cite: 438]"
+      },
+      {
+        "text": "D) Lesión de 'adhesión y borramiento' de vellosidades",
+        "isCorrect": true,
+        "explanation": "Correcto. La bacteria destruye el citoesqueleto del enterocito, aplanando las vellosidades y reduciendo masivamente la superficie de absorción de agua. [cite: 430, 431, 433, 434]"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Artritis Reactiva (Reiter)",
+    "text": "Joven con artritis de rodilla, conjuntivitis y uretritis tras diarrea intensa. ¿Diagnóstico?",
+    "hint": "Complicación autoinmune post-infecciosa: 'No puedo ver, no puedo orinar, no puedo doblar la rodilla'.",
+    "options": [
+      {
+        "text": "A) Artritis Reumatoide",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es una enfermedad inflamatoria crónica, típicamente simétrica de articulaciones pequeñas (manos) y no gatillada por una diarrea aguda previa. [cite: 449]"
+      },
+      {
+        "text": "B) Gota úrica",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Causada por cristales de ácido úrico, afecta clásicamente al primer metatarsofalángico (dedo gordo), no se asocia a diarrea ni conjuntivitis. [cite: 450]"
+      },
+      {
+        "text": "C) Artritis Reactiva (Síndrome de Reiter)",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una reacción cruzada de anticuerpos semanas después de una infección por Salmonella, Shigella o Campylobacter. [cite: 443, 445, 446, 447]"
+      },
+      {
+        "text": "D) Osteoartritis",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se trata del desgaste mecánico articular por el envejecimiento, sin componente inflamatorio agudo ni antecedentes infecciosos. [cite: 451]"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Intolerancia Secundaria a la Lactosa",
+    "text": "Tras una diarrea viral severa que barrió el borde en cepillo, ¿qué carbohidrato se recomienda suspender temporalmente?",
+    "hint": "La enzima encargada de digerirlo está en las puntas de las vellosidades destruidas.",
+    "options": [
+      {
+        "text": "A) Fructosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Su malabsorción es rara en contextos de diarrea aguda y no es el principal factor de prolongación del cuadro post-viral. [cite: 462]"
+      },
+      {
+        "text": "B) Glucosa",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Al ser un azúcar simple, es fundamental para la hidratación y nutrición del bebé, siendo la base de las SRO. [cite: 463, 464]"
+      },
+      {
+        "text": "C) Lactosa",
+        "isCorrect": true,
+        "explanation": "Correcto. La lactasa desaparece tras el daño de las vellosidades. Ingerir lactosa causará una diarrea osmótica ácida que retrasará la recuperación del niño. [cite: 456, 458, 459, 460]"
+      },
+      {
+        "text": "D) Almidón",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque la amilasa puede estar disminuida, no es el gatillo clásico de diarrea explosiva secundaria en lactantes. [cite: 462]"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Gastroenterología",
+    "topic": "Definición Objetiva de Diarrea",
+    "text": "En adultos, ¿cuál es el peso objetivo diario de las heces para definir 'diarrea'?",
+    "hint": "El peso fecal normal oscila entre 100 y 150 g/día.",
+    "options": [
+      {
+        "text": "A) > 50 g/día",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este valor es normal e incluso indica una dieta pobre en fibra, pero no constituye diarrea. [cite: 474]"
+      },
+      {
+        "text": "B) > 100 g/día",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se encuentra dentro del rango de excreción normal para un adulto sano con dieta equilibrada. [cite: 474]"
+      },
+      {
+        "text": "C) > 200 g/día",
+        "isCorrect": true,
+        "explanation": "Correcto. Científicamente, la diarrea se define por un peso fecal superior a 200 gramos en 24 horas, independientemente de la consistencia subjetiva. [cite: 468, 470, 472]"
+      },
+      {
+        "text": "D) > 500 g/día",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Supera con creces el umbral mínimo diagnóstico; este valor indica una diarrea masiva grave (ej. secretora o celiaquía profunda). [cite: 475]"
+      }
+    ]
+  }
+]
