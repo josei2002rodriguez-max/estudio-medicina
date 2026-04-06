@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Crisis Febril Simple",
+    "text": "Un lactante de 18 meses presenta un episodio de sacudidas tónico-clónicas generalizadas de 3 minutos de duración en el contexto de un cuadro febril de 39°C asociado a una faringitis. Al llegar a urgencias el niño está en periodo post-ictal, afebril tras antipiréticos y con examen neurológico normal. No tiene antecedentes. ¿Cuál es el diagnóstico más probable?",
+    "hint": "Considere la duración, el tipo de crisis (focal vs generalizada) y la recuperación posterior.",
+    "options": [
+      {
+        "text": "A) Crisis febril compleja.",
+        "isCorrect": false,
+        "explanation": "Se definiría como compleja si durara más de 15 minutos, fuera focal o se repitiera en 24 horas."
+      },
+      {
+        "text": "B) Crisis febril simple.",
+        "isCorrect": true,
+        "explanation": "Es la forma más común. Se define por ser generalizada, durar < 15 min, ocurrir una sola vez en 24h y en niños de 6 meses a 5 años sin patología neurológica previa."
+      },
+      {
+        "text": "C) Epilepsia del lactante.",
+        "isCorrect": false,
+        "explanation": "La epilepsia requiere crisis afebriles recurrentes; este evento fue gatillado por fiebre y es situacional."
+      },
+      {
+        "text": "D) Meningitis bacteriana aguda.",
+        "isCorrect": false,
+        "explanation": "El niño no presenta signos meníngeos, el examen neurológico es normal y tiene un foco infeccioso claro (faringitis)."
+      },
+      {
+        "text": "E) Estatus epiléptico febril.",
+        "isCorrect": false,
+        "explanation": "Requeriría una duración de la crisis de más de 30 minutos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Manejo de Estatus Epiléptico",
+    "text": "Niño de 5 años en urgencias con crisis convulsiva activa de 10 minutos de evolución. Ya se administró una dosis de Lorazepam ev sin ceder la crisis. ¿Cuál es el siguiente paso más adecuado?",
+    "hint": "En el estatus epiléptico, si la primera benzodiazepina falla, se repite una dosis antes de pasar al siguiente fármaco.",
+    "options": [
+      {
+        "text": "A) Iniciar infusión de Midazolam.",
+        "isCorrect": false,
+        "explanation": "El Midazolam en infusión es para el estatus refractario; antes hay pasos intermedios."
+      },
+      {
+        "text": "B) Administrar una segunda dosis de benzodiazepina (Lorazepam o Diazepam).",
+        "isCorrect": true,
+        "explanation": "El protocolo estándar indica hasta 2 dosis de benzodiazepinas espaciadas por 5 min antes de pasar a fármacos de segunda línea como Fenitoína o Levetiracetam."
+      },
+      {
+        "text": "C) Realizar una punción lumbar inmediata.",
+        "isCorrect": false,
+        "explanation": "La prioridad absoluta es yugular la crisis (estabilización); el estudio etiológico es posterior."
+      },
+      {
+        "text": "D) Solicitar TAC de cerebro de urgencia.",
+        "isCorrect": false,
+        "explanation": "No se puede trasladar a imagen a un paciente en crisis activa sin control farmacológico previo."
+      },
+      {
+        "text": "E) Administrar Fenobarbital endovenoso.",
+        "isCorrect": false,
+        "explanation": "Es una opción de segunda/tercera línea, pero se prefiere agotar la benzodiazepina o usar Fenitoína/Valproato antes."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Síndrome de West",
+    "text": "Lactante de 6 meses presenta episodios de flexión súbita de tronco y extremidades superiores en salvas, especialmente al despertar. El EEG muestra un trazado desorganizado con ondas lentas y puntas de gran amplitud (hipsarritmia). ¿Diagnóstico?",
+    "hint": "Busque la tríada: Espasmos infantiles, retraso del desarrollo e hipsarritmia.",
+    "options": [
+      {
+        "text": "A) Crisis de ausencia.",
+        "isCorrect": false,
+        "explanation": "Típicas de escolares, consisten en desconexión breve del medio sin espasmos musculares masivos."
+      },
+      {
+        "text": "B) Síndrome de West.",
+        "isCorrect": true,
+        "explanation": "Es una encefalopatía epiléptica catastrófica del lactante. La hipsarritmia en el EEG es el hallazgo patognomónico."
+      },
+      {
+        "text": "C) Cólicos del lactante.",
+        "isCorrect": false,
+        "explanation": "Causan llanto e irritabilidad, pero no tienen correlato electroencefalográfico ni patrón de espasmos en salvas."
+      },
+      {
+        "text": "D) Reflujo gastroesofágico (Síndrome de Sandifer).",
+        "isCorrect": false,
+        "explanation": "Presenta posturas distónicas (opistótonos) asociadas a la alimentación, no hipsarritmia."
+      },
+      {
+        "text": "E) Mioclonías benignas del sueño.",
+        "isCorrect": false,
+        "explanation": "Ocurren exclusivamente durante el sueño profundo y el EEG es normal."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Facomatosis y Epilepsia",
+    "text": "Un niño con epilepsia de difícil manejo presenta en el examen físico múltiples manchas hipopigmentadas en el tronco (forma de hoja de fresno). ¿Qué diagnóstico sindrómico sospecha?",
+    "hint": "Las manchas claras son el signo cutáneo más precoz de esta enfermedad.",
+    "options": [
+      {
+        "text": "A) Neurofibromatosis tipo 1.",
+        "isCorrect": false,
+        "explanation": "Se caracteriza por manchas café con leche y neurofibromas, no manchas hipopigmentadas."
+      },
+      {
+        "text": "B) Complejo de Esclerosis Tuberosa.",
+        "isCorrect": true,
+        "explanation": "Cursa con hamartomas en múltiples órganos. Las manchas hipocrómicas y la epilepsia (frecuentemente espasmos) son hallazgos cardinales."
+      },
+      {
+        "text": "C) Síndrome de Sturge-Weber.",
+        "isCorrect": false,
+        "explanation": "Presenta un angioma plano facial (mancha en vino de Oporto) y calcificaciones cerebrales."
+      },
+      {
+        "text": "D) Vitíligo.",
+        "isCorrect": false,
+        "explanation": "Es una pérdida de pigmento adquirida, no asociada a epilepsia ni a hamartomas orgánicos."
+      },
+      {
+        "text": "E) Psoriasis.",
+        "isCorrect": false,
+        "explanation": "Enfermedad inflamatoria cutánea descamativa sin relación con síndromes epilépticos."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Crisis Provocada",
+    "text": "Un adolescente presenta una crisis convulsiva tónico-clónica tras 48 horas sin dormir por un examen y consumo excesivo de bebidas energéticas. El EEG realizado a las 24 horas es normal. ¿Cuál es la conducta más adecuada?",
+    "hint": "'Una crisis no es epilepsia'.",
+    "options": [
+      {
+        "text": "A) Iniciar de inmediato tratamiento crónico con Fenobarbital.",
+        "isCorrect": false,
+        "explanation": "No se indica tratamiento crónico tras una primera crisis con factor gatillante claro y EEG normal."
+      },
+      {
+        "text": "B) Explicar que fue una crisis provocada por privación de sueño y estimulantes, evitar gatillantes y observar sin fármacos.",
+        "isCorrect": true,
+        "explanation": "Se denomina crisis reactiva o provocada. El riesgo de recurrencia si se evitan los factores de estrés es muy bajo."
+      },
+      {
+        "text": "C) Realizar una biopsia de cerebro.",
+        "isCorrect": false,
+        "explanation": "Procedimiento invasivo sin justificación ante una crisis reactiva única."
+      },
+      {
+        "text": "D) Hospitalizar de por vida.",
+        "isCorrect": false,
+        "explanation": "Inadecuado; el paciente debe reintegrarse a su vida normal con medidas de higiene del sueño."
+      },
+      {
+        "text": "E) No hacer nada, es normal en adolescentes.",
+        "isCorrect": false,
+        "explanation": "Aunque es una crisis provocada, requiere educación al paciente sobre los riesgos de los estimulantes y el sueño."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Neurología",
+    "topic": "Sintomatología Post-ictal",
+    "text": "¿Qué síntoma define al 'Periodo Post-ictal' en una convulsión generalizada?",
+    "hint": "Es el tiempo que el cerebro necesita para recuperar su equilibrio tras la descarga masiva.",
+    "options": [
+      {
+        "text": "A) El momento justo antes de la crisis (aura).",
+        "isCorrect": false,
+        "explanation": "El aura es el inicio de la crisis misma."
+      },
+      {
+        "text": "B) El estado de confusión, somnolencia o fatiga que sigue inmediatamente a una convulsión.",
+        "isCorrect": true,
+        "explanation": "Su duración es variable. En crisis febriles simples, debe ser breve y tender a la recuperación total."
+      },
+      {
+        "text": "C) La convulsión misma (fase tónica).",
+        "isCorrect": false,
+        "explanation": "Esta es la fase ictal."
+      },
+      {
+        "text": "D) Un tipo de alimentación cetogénica.",
+        "isCorrect": false,
+        "explanation": "La dieta cetogénica es un tratamiento para epilepsia refractaria."
+      },
+      {
+        "text": "E) El periodo de un año sin crisis tras el tratamiento.",
+        "isCorrect": false,
+        "explanation": "Se denomina periodo de remisión."
+      }
+    ]
+  }
+]
