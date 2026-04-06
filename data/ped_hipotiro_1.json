@@ -1,0 +1,1207 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Reevaluación del HC a los 3 años",
+    "text": "Un niño de 3 años, diagnosticado con Hipotiroidismo Congénito (HC) al nacer mediante tamizaje (TSH inicial 25 mUI/L), ha sido tratado con Levotiroxina desde los 12 días de vida. La ecografía inicial mostró una glándula en posición normal. ¿Cuál es la conducta recomendada a esta edad según la norma chilena?",
+    "hint": "A los 3 años el desarrollo cerebral ya es menos dependiente de las hormonas tiroideas externas.",
+    "options": [
+      {
+        "text": "A) Continuar el tratamiento de por vida sin interrupciones.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se indica tratamiento de por vida de entrada solo si la ecografía inicial muestra atireosis (ausencia de glándula) o ectopia. Si la glándula está in situ, existe la posibilidad de que el HC haya sido transitorio."
+      },
+      {
+        "text": "B) Suspender la Levotiroxina por 4 semanas para reevaluar el eje y determinar si el HC es permanente o transitorio.",
+        "isCorrect": true,
+        "explanation": "Correcto. En niños con glándula eutópica (en su lugar normal) y sospecha de HC transitorio, se suspende el fármaco a los 3 años. Si la TSH sube y la T4 baja tras un mes, se confirma la permanencia y se retoma el tratamiento."
+      },
+      {
+        "text": "C) Realizar una biopsia de tiroides para descartar Tiroiditis de Hashimoto.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La biopsia no es parte del protocolo de reevaluación del hipotiroidismo congénito; el diagnóstico de Hashimoto es serológico (anticuerpos)."
+      },
+      {
+        "text": "D) Cambiar a tratamiento con T3 (Liotironina) para mejorar el desarrollo cognitivo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La T4 (Levotiroxina) sigue siendo el estándar de oro; el cuerpo la convierte naturalmente en T3 según sus necesidades."
+      },
+      {
+        "text": "E) Solicitar una Resonancia Magnética de silla turca.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No está indicada de rutina a menos que se sospeche una falla central (hipofisaria) con TSH baja, lo cual no es el caso (TSH inicial fue alta)."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Dislipidemias",
+    "text": "¿Por qué el hipotiroidismo no tratado se asocia a niveles elevados de colesterol LDL?",
+    "hint": "Las hormonas tiroideas regulan la 'limpieza' de las grasas en el hígado.",
+    "options": [
+      {
+        "text": "A) Porque el paciente come más grasas por ansiedad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los cambios en el perfil lipídico son metabólicos, no conductuales."
+      },
+      {
+        "text": "B) Por la disminución en el número y actividad de los receptores hepáticos de LDL.",
+        "isCorrect": true,
+        "explanation": "Correcto. La falta de hormona tiroidea reduce la expresión de los receptores de LDL, disminuyendo el aclaramiento de colesterol de la sangre."
+      },
+      {
+        "text": "C) Porque la tiroides fabrica colesterol directamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La glándula fabrica hormonas, no lípidos."
+      },
+      {
+        "text": "D) Por un exceso de excreción biliar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El hipotiroidismo reduce el flujo biliar, lo que contribuye al problema pero no es el mecanismo primario del LDL alto."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Seguimiento del Crecimiento",
+    "text": "¿Cuál es el parámetro clínico más sensible para sospechar un hipotiroidismo adquirido en un escolar previamente sano?",
+    "hint": "Observe la relación entre la talla y el peso.",
+    "options": [
+      {
+        "text": "A) Presencia de temblor fino en las manos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un signo de exceso de hormona (hipertiroidismo)."
+      },
+      {
+        "text": "B) Desaceleración de la velocidad de crecimiento (caída de carriles de talla) con aumento de peso.",
+        "isCorrect": true,
+        "explanation": "Correcto. El estancamiento en la estatura asociado a una ganancia ponderal excesiva es el sello del déficit de hormona tiroidea en la infancia."
+      },
+      {
+        "text": "C) Aparición de estrías violáceas en el abdomen.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugiere Síndrome de Cushing (exceso de cortisol)."
+      },
+      {
+        "text": "D) Cierre prematuro de las fontanelas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El hipotiroidismo retrasa la maduración ósea y el cierre de las fontanelas."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Anemia",
+    "text": "¿Cuál es el mecanismo fisiopatológico de la anemia en el hipotiroidismo crónico?",
+    "hint": "Todo el metabolismo se 'apaga', incluyendo la fabricación de sangre.",
+    "options": [
+      {
+        "text": "A) Destrucción masiva de glóbulos rojos por el bocio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El bocio no tiene función hematófaga."
+      },
+      {
+        "text": "B) Disminución de la eritropoyetina por menores requerimientos de oxígeno tisular.",
+        "isCorrect": true,
+        "explanation": "Correcto. El estado hipometabólico reduce la demanda de O2, lo que frena el estímulo para producir glóbulos rojos."
+      },
+      {
+        "text": "C) Sangrado digestivo oculto crónico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una complicación característica del hipotiroidismo pediátrico."
+      },
+      {
+        "text": "D) Falta de absorción de hierro por exceso de ácido gástrico.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El hipotiroidismo suele asociar hipoclorhidria (poco ácido), no exceso."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Crisis Mixedematosa",
+    "text": "¿Qué factor puede gatillar un coma mixedematoso (emergencia extrema) en un niño con hipotiroidismo severo no tratado?",
+    "hint": "Un evento de estrés agudo sobre un cuerpo sin reservas metabólicas.",
+    "options": [
+      {
+        "text": "A) Exposición prolongada al sol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El calor no es el gatillante típico del coma mixedematoso."
+      },
+      {
+        "text": "B) Infecciones severas, exposición al frío intenso o cirugías.",
+        "isCorrect": true,
+        "explanation": "Correcto. Estos eventos sobrepasan la escasa capacidad adaptativa del paciente hipotiroideo, provocando falla multiorgánica."
+      },
+      {
+        "text": "C) Consumo excesivo de azúcar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Puede dar hiperglicemia, pero no explica el coma mixedematoso."
+      },
+      {
+        "text": "D) Realizar ejercicio físico leve.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Aunque el paciente se cansa rápido, no gatilla una crisis vital de este tipo."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Coagulación",
+    "text": "¿Qué alteración de la coagulación se observa a menudo en el hipotiroidismo severo?",
+    "hint": "Similar a una enfermedad hereditaria común del sangrado.",
+    "options": [
+      {
+        "text": "A) Trombocitosis extrema.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es un hallazgo del hipotiroidismo."
+      },
+      {
+        "text": "B) Síndrome de Von Willebrand adquirido (disminución del factor vWF).",
+        "isCorrect": true,
+        "explanation": "Correcto. El hipotiroidismo reduce la síntesis de factor Von Willebrand, lo que puede causar tendencia al sangrado (ej. menorragia en adolescentes)."
+      },
+      {
+        "text": "C) Exceso de vitamina K.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Resistencia a la heparina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Gammagrafía Tiroidea",
+    "text": "¿Cuál es la principal ventaja de la gammagrafía con Pertecnetato (Tc99) sobre la ecografía en el estudio del HC?",
+    "hint": "La eco ve 'forma', la gammagrafía ve 'donde está funcionando'.",
+    "options": [
+      {
+        "text": "A) Es más barata.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un examen de medicina nuclear más costoso que el ultrasonido."
+      },
+      {
+        "text": "B) Permite detectar tejido tiroideo ectópico (ej. sublingual) que la ecografía puede omitir.",
+        "isCorrect": true,
+        "explanation": "Correcto. El isótopo se capta en cualquier lugar donde haya tejido tiroideo funcional, facilitando el diagnóstico de ectopia."
+      },
+      {
+        "text": "C) No emite radiación.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Utiliza radioisótopos, a diferencia de la ecografía que es inocua."
+      },
+      {
+        "text": "D) Se puede hacer en el hogar del paciente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Resistencia a Hormonas Tiroideas",
+    "text": "Un niño presenta bocio, T4 libre elevada y TSH persistentemente elevada. ¿Diagnóstico probable?",
+    "hint": "El cerebro y los tejidos no 'oyen' a la hormona, por lo que piden más.",
+    "options": [
+      {
+        "text": "A) Hipotiroidismo de Hashimoto.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La T4 estaría baja y la TSH alta."
+      },
+      {
+        "text": "B) Resistencia a Hormonas Tiroideas (RHT).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un cuadro raro donde los receptores fallan; coexisten niveles altos de hormona periférica con TSH alta (pérdida de feedback)."
+      },
+      {
+        "text": "C) Enfermedad de Graves.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La TSH estaría suprimida (casi cero)."
+      },
+      {
+        "text": "D) Ingesta accidental de Levotiroxina.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La TSH estaría suprimida por el exceso de hormona externa."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Corazón (ECG)",
+    "text": "¿Qué hallazgo es típico en el electrocardiograma de un niño con hipotiroidismo severo?",
+    "hint": "La falta de hormona debilita la actividad eléctrica del corazón.",
+    "options": [
+      {
+        "text": "A) Taquicardia paroxística.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Bradicardia sinusal y voltajes bajos del complejo QRS.",
+        "isCorrect": true,
+        "explanation": "Correcto. El hipotiroidismo enlentece el nodo sinusal y el mixedema/derrame pericárdico 'aísla' la señal eléctrica (voltaje bajo)."
+      },
+      {
+        "text": "C) Ondas T picudas gigantes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugiere hiperkalemia."
+      },
+      {
+        "text": "D) Acortamiento del intervalo PR.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El intervalo PR suele estar prolongado."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Levotiroxina: Control de Dosis",
+    "text": "Tras iniciar Levotiroxina en un adolescente, ¿en cuánto tiempo se debe realizar el primer control de TSH para evaluar el ajuste de dosis?",
+    "hint": "La vida media de la T4 es larga y el equilibrio tarda en alcanzarse.",
+    "options": [
+      {
+        "text": "A) A las 24 horas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No hay cambios detectables tan pronto."
+      },
+      {
+        "text": "B) En 6 a 8 semanas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el tiempo necesario para que los niveles de TSH se estabilicen tras un cambio de dosis de Levotiroxina."
+      },
+      {
+        "text": "C) Al año de tratamiento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un periodo demasiado largo que pone en riesgo el control metabólico."
+      },
+      {
+        "text": "D) Solo si el paciente se siente mal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El seguimiento debe ser bioquímico programado."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Rendimiento Cognitivo",
+    "text": "¿Qué sucede con el daño intelectual si el HC se trata adecuadamente antes de los 15 días de vida?",
+    "hint": "El tratamiento precoz 'salva' el potencial del cerebro.",
+    "options": [
+      {
+        "text": "A) El niño tendrá retraso mental leve de todos modos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) El desarrollo intelectual suele ser completamente normal y comparable a sus pares.",
+        "isCorrect": true,
+        "explanation": "Correcto. Este es el éxito principal de los programas de tamizaje neonatal: prevenir la discapacidad intelectual."
+      },
+      {
+        "text": "C) El niño será un genio obligatoriamente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Solo mejora la talla, no el intelecto.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El intelecto es lo que más se beneficia del inicio precoz."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Piel",
+    "text": "¿Cuál es la causa de la coloración amarillenta de la piel (carotinemia) en el hipotiroidismo?",
+    "hint": "No es ictericia (bilirrubina), es un problema con la Vitamina A.",
+    "options": [
+      {
+        "text": "A) Falla del hígado por el colesterol.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Falla en la conversión hepática de carotenos a Vitamina A por falta de hormona tiroidea.",
+        "isCorrect": true,
+        "explanation": "Correcto. El caroteno se acumula en la capa córnea de la piel dándole ese tinte amarillento-naranja característico."
+      },
+      {
+        "text": "C) Ingesta excesiva de zanahorias.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. En este caso ocurre con ingesta normal de dieta."
+      },
+      {
+        "text": "D) Por destrucción de los capilares cutáneos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "TSH en el Tamizaje (Valor de Corte)",
+    "text": "¿Cuál es el valor de corte habitual de TSH en papel filtro (screening) para sospechar HC en Chile?",
+    "hint": "Cualquier valor sobre este número obliga a repetir o confirmar.",
+    "options": [
+      {
+        "text": "A) > 1 uUI/ml.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Valor normal."
+      },
+      {
+        "text": "B) > 10 uUI/ml (o >15 según laboratorio).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el umbral de alerta que gatilla el protocolo de confirmación del recién nacido."
+      },
+      {
+        "text": "C) > 100 uUI/ml.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Este valor es confirmatorio directo, pero el corte de sospecha es mucho menor."
+      },
+      {
+        "text": "D) > 5 uUI/ml.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Daría demasiados falsos positivos."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Digestión",
+    "text": "¿Por qué el hipotiroidismo causa estreñimiento?",
+    "hint": "La falta de hormona 'apaga' el motor del intestino.",
+    "options": [
+      {
+        "text": "A) Porque el niño no quiere ir al baño.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Por disminución del peristaltismo intestinal y enlentecimiento del tránsito.",
+        "isCorrect": true,
+        "explanation": "Correcto. La hipofunción tiroidea reduce la contractilidad del músculo liso digestivo."
+      },
+      {
+        "text": "C) Porque las heces se vuelven de piedra.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Por exceso de absorción de agua en el colon.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Ecografía Tiroidea (Utilidad)",
+    "text": "¿Qué información CRUCIAL aporta la ecografía tiroidea al momento del diagnóstico de HC?",
+    "hint": "Ayuda a definir si el niño necesitará tratamiento para toda la vida o no.",
+    "options": [
+      {
+        "text": "A) Mide la inteligencia del bebé.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Identifica la presencia o ausencia de la glándula y su ubicación.",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite diferenciar entre agenesia (no hay glándula), ectopia (fuera de lugar) o glándula in situ (posible HC transitorio)."
+      },
+      {
+        "text": "C) Detecta si el niño tiene hambre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Evalúa la audición.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hormonas Tiroideas y Sueño",
+    "text": "¿Cómo suele ser el patrón de sueño en un adolescente con hipotiroidismo adquirido?",
+    "hint": "El cuerpo intenta ahorrar la poca energía que tiene.",
+    "options": [
+      {
+        "text": "A) Insomnio severo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Típico del hipertiroidismo."
+      },
+      {
+        "text": "B) Hipersomnia (duerme muchas horas) y somnolencia diurna.",
+        "isCorrect": true,
+        "explanation": "Correcto. El enlentecimiento metabólico cerebral se traduce en una necesidad excesiva de sueño y fatiga constante."
+      },
+      {
+        "text": "C) Pesadillas recurrentes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Sonambulismo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Pubertad Retrasada",
+    "text": "¿A qué se debe el retraso puberal en el hipotiroidismo crónico?",
+    "hint": "El cuerpo prioriza la supervivencia básica sobre la maduración sexual.",
+    "options": [
+      {
+        "text": "A) A que el niño no quiere crecer.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) A la alteración en la secreción pulsátil de GnRH y la inmadurez ósea general.",
+        "isCorrect": true,
+        "explanation": "Correcto. El déficit de hormona tiroidea afecta la maduración de todos los ejes endocrinos, incluyendo el de las gonadotropinas."
+      },
+      {
+        "text": "C) Porque los testículos se duermen.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Por exceso de ejercicio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Embarazo (Feto)",
+    "text": "¿Cuál es el riesgo de un feto cuya madre tiene hipotiroidismo NO tratado durante el primer trimestre?",
+    "hint": "El cerebro fetal depende 100% de la hormona de la madre en esta etapa.",
+    "options": [
+      {
+        "text": "A) Que nazca con el pelo rubio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Riesgo elevado de aborto, parto prematuro y menor coeficiente intelectual al nacer.",
+        "isCorrect": true,
+        "explanation": "Correcto. La T4 materna es esencial para la organogénesis cerebral temprana antes de que la tiroides fetal sea funcional."
+      },
+      {
+        "text": "C) Que sea un bebé muy grande (macrosomía).",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se asocia a bajo peso al nacer."
+      },
+      {
+        "text": "D) No hay ningún riesgo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El hipotiroidismo gestacional es una patología de alto riesgo neonatal."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Voz",
+    "text": "¿Por qué la voz se vuelve ronca en el hipotiroidismo severo?",
+    "hint": "Las cuerdas vocales se 'hinchan' de forma especial.",
+    "options": [
+      {
+        "text": "A) Por gritar mucho.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Por la acumulación de mixedema (mucopolisacáridos) en las cuerdas vocales.",
+        "isCorrect": true,
+        "explanation": "Correcto. El engrosamiento de los tejidos laringeos altera la vibración y produce el tono ronco o grave característico."
+      },
+      {
+        "text": "C) Por una infección viral crónica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Por falta de agua.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Músculos",
+    "text": "Un adolescente con hipotiroidismo refiere dolores musculares y calambres tras caminar distancias cortas. ¿A qué se debe?",
+    "hint": "El músculo no puede relajarse ni obtener energía rápido.",
+    "options": [
+      {
+        "text": "A) Falta de potasio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Miopatía hipotiroidea por enlentecimiento del metabolismo muscular.",
+        "isCorrect": true,
+        "explanation": "Correcto. Causa rigidez, debilidad y a veces elevación de la enzima CK (creatinquinasa)."
+      },
+      {
+        "text": "C) Huesos rotos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Malas zapatillas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Macro-orquidismo",
+    "text": "Un niño con hipotiroidismo severo prolongado presenta testículos aumentados de volumen. ¿Cómo se explica?",
+    "hint": "Relacionado con el Síndrome de Van Wyk-Grumbach.",
+    "options": [
+      {
+        "text": "A) Por un tumor testicular maligno.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Por el estímulo cruzado de la TSH alta sobre los receptores de FSH.",
+        "isCorrect": true,
+        "explanation": "Correcto. Niveles de TSH masivamente altos logran activar la proliferación de túbulos seminíferos (macro-orquidismo)."
+      },
+      {
+        "text": "C) Porque tiene muchos hijos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Es un hallazgo normal a cualquier edad.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es patológico en este contexto."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Depresión",
+    "text": "Un adolescente con hipotiroidismo es diagnosticado erróneamente con depresión. ¿Qué síntoma comparten?",
+    "hint": "Ambos cuadros cursan con falta de energía y ánimo bajo.",
+    "options": [
+      {
+        "text": "A) Euforia constante.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Apatía, fatiga y pérdida de interés en las actividades.",
+        "isCorrect": true,
+        "explanation": "Correcto. La bradipsiquia y el hipometabolismo simulan perfectamente un cuadro depresivo mayor."
+      },
+      {
+        "text": "C) Hablar muy rápido.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El hipotiroideo habla lento."
+      },
+      {
+        "text": "D) Exceso de hambre nocturna.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Causa del HC Transitorio (Anticuerpos)",
+    "text": "¿Cómo pueden los anticuerpos maternos causar hipotiroidismo neonatal transitorio?",
+    "hint": "Los anticuerpos de la madre con enfermedad tiroidea pasan la placenta.",
+    "options": [
+      {
+        "text": "A) Atacan los pies del bebé.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Los anticuerpos bloqueadores del receptor de TSH (TRBAb) impiden que la tiroides del feto funcione.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al nacer, el bebé deja de recibir los anticuerpos; cuando estos se aclaran de su sangre, la tiroides vuelve a la normalidad."
+      },
+      {
+        "text": "C) No pueden pasar la placenta.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Los anticuerpos IgG pasan libremente."
+      },
+      {
+        "text": "D) Causan bocio permanente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Por definición el cuadro es transitorio."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Levotiroxina y Corazón",
+    "text": "¿Qué precaución se debe tener al iniciar dosis plenas de Levotiroxina en un niño con hipotiroidismo de larga data?",
+    "hint": "El corazón no está acostumbrado a trabajar tan rápido de golpe.",
+    "options": [
+      {
+        "text": "A) Ninguna, es un medicamento muy seguro.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Riesgo de sobrecarga cardíaca o arritmias si el inicio es demasiado brusco.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe monitorizar la frecuencia cardíaca, especialmente en casos con compromiso cardiovascular previo."
+      },
+      {
+        "text": "C) Que el niño se vuelva muy inteligente en un día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Riesgo de caída del cabello.",
+        "isCorrect": false,
+        "explanation": "Es un efecto secundario común pero no es la precaución vital principal."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Vitamina D",
+    "text": "¿Cómo se encuentra el metabolismo del calcio en el hipotiroidismo severo?",
+    "hint": "El recambio óseo está enlentecido.",
+    "options": [
+      {
+        "text": "A) Hipercalcemia masiva.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Enlentecimiento del recambio óseo con tendencia a la hipocalcemia leve.",
+        "isCorrect": true,
+        "explanation": "Correcto. El bajo metabolismo reduce la resorción y formación ósea."
+      },
+      {
+        "text": "C) Huesos de acero.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) No hay cambios.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Tiroiditis Silente",
+    "text": "Un adolescente presenta fase de hipertiroidismo seguida de hipotiroidismo, sin dolor en el cuello. ¿Sospecha?",
+    "hint": "Es una variante de la enfermedad autoinmune.",
+    "options": [
+      {
+        "text": "A) Cáncer.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Tiroiditis indolora (silente).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una inflamación linfocitaria que libera hormona bruscamente y luego agota la glándula temporalmente."
+      },
+      {
+        "text": "C) Exceso de sal.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Gripe común.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Dosis de Levotiroxina (Lactante)",
+    "text": "¿Cuál es la dosis inicial recomendada de Levotiroxina para un RN con HC severo?",
+    "hint": "Se busca normalizar los niveles en el menor tiempo posible.",
+    "options": [
+      {
+        "text": "A) 1 mcg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Dosis insuficiente."
+      },
+      {
+        "text": "B) 10 a 15 mcg/kg/día.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la dosis estándar internacional para garantizar la neuroprotección inmediata."
+      },
+      {
+        "text": "C) 50 mcg/kg/día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sería una dosis tóxica."
+      },
+      {
+        "text": "D) 2 mcg por semana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Levotiroxina y Fibra",
+    "text": "¿Por qué se debe evitar dar la Levotiroxina con alimentos muy ricos en fibra?",
+    "hint": "La fibra actúa como una esponja que atrapa el fármaco.",
+    "options": [
+      {
+        "text": "A) Porque da gases.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Porque la fibra absorbe la hormona e impide su paso a la sangre.",
+        "isCorrect": true,
+        "explanation": "Correcto. Reduce drásticamente la biodisponibilidad del medicamento."
+      },
+      {
+        "text": "C) Porque se vuelve tóxica.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) No tiene importancia.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "HC y Audición",
+    "text": "¿Qué complicación sensorial se asocia a ciertos tipos de Hipotiroidismo Congénito (ej. Síndrome de Pendred)?",
+    "hint": "El defecto genético afecta al oído y a la tiroides.",
+    "options": [
+      {
+        "text": "A) Ceguera.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Sordera neurosensorial congénita.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una asociación clásica en defectos de dishormonogénesis (Síndrome de Pendred)."
+      },
+      {
+        "text": "C) Falta de gusto.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Anosmia (no oler).",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Uñas",
+    "text": "¿Cómo se encuentran las uñas en un paciente con hipotiroidismo crónico?",
+    "hint": "Refleja el bajo flujo sanguíneo periférico y mala nutrición ungueal.",
+    "options": [
+      {
+        "text": "A) Muy largas y fuertes.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Quebradizas, delgadas y de crecimiento muy lento.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un hallazgo común en el examen físico de fanéreos en hipotiroidismo."
+      },
+      {
+        "text": "C) Azules.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugiere cianosis."
+      },
+      {
+        "text": "D) Con hongos siempre.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hashimoto y otras enfermedades",
+    "text": "¿Con qué otra enfermedad autoinmune se asocia frecuentemente la Tiroiditis de Hashimoto?",
+    "hint": "Forman parte del síndrome poliglandular autoinmune.",
+    "options": [
+      {
+        "text": "A) Resfrío común.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Diabetes Mellitus tipo 1 y Celiaquía.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los pacientes con una enfermedad autoinmune tienen mayor riesgo de desarrollar otras por predisposición genética (HLA)."
+      },
+      {
+        "text": "C) Asma.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Autismo.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "TSH y Maltrato",
+    "text": "¿Puede el estrés severo (ej. maltrato) elevar la TSH de forma transitoria?",
+    "hint": "El estrés agudo altera el eje hipotálamo-hipófisis.",
+    "options": [
+      {
+        "text": "A) No, nunca.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Sí, elevaciones leves de TSH pueden verse en estados de estrés sistémico o enfermedad no tiroidea.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se conoce como el síndrome del eutiroideo enfermo en fase de recuperación."
+      },
+      {
+        "text": "C) Solo si el niño tiene mucha pena.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) La TSH baja con el estrés.",
+        "isCorrect": false,
+        "explanation": "Suele bajar en la fase aguda del estrés severo y subir levemente en la recuperación."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "HC y Fontanelas",
+    "text": "¿Qué hallazgo en las fontanelas del RN sugiere HC?",
+    "hint": "Refleja el retraso en la maduración de los huesos del cráneo.",
+    "options": [
+      {
+        "text": "A) Fontanela anterior cerrada al nacer.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Se llama craniosinostosis."
+      },
+      {
+        "text": "B) Fontanela posterior amplia (> 0.5 cm) y fontanela anterior muy grande.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un signo clásico de retraso en la osificación prenatal por déficit de hormona tiroidea."
+      },
+      {
+        "text": "C) Fontanela abombada tensa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sugiere meningitis o hidrocefalia."
+      },
+      {
+        "text": "D) No tiene fontanelas.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hashimoto y Cáncer",
+    "text": "¿Cuál es el riesgo de cáncer en un bocio de Hashimoto de larga data?",
+    "hint": "La inflamación crónica predispone a un tipo específico de tumor linfático.",
+    "options": [
+      {
+        "text": "A) Riesgo cero.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Riesgo aumentado de Linfoma tiroideo primario.",
+        "isCorrect": true,
+        "explanation": "Correcto. Aunque el cáncer papilar también se asocia, el linfoma es la complicación tumoral clásica de la tiroiditis linfocitaria."
+      },
+      {
+        "text": "C) Riesgo de cáncer de pulmón.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Solo si fuma.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "TSH y Sueño (Apnea)",
+    "text": "¿Por qué el hipotiroidismo puede causar Apnea del Sueño?",
+    "hint": "La lengua y los tejidos del cuello están 'hinchados'.",
+    "options": [
+      {
+        "text": "A) Por flojera.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Por macroglosia (lengua grande) e infiltración mixedematosa de la vía aérea superior.",
+        "isCorrect": true,
+        "explanation": "Correcto. Obstruye el paso del aire durante la relajación muscular del sueño."
+      },
+      {
+        "text": "C) Porque el niño olvida respirar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es un mecanismo obstructivo periférico mayormente."
+      },
+      {
+        "text": "D) No causa apnea.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Talla Final",
+    "text": "¿Qué determina el pronóstico de talla final en un niño con hipotiroidismo adquirido?",
+    "hint": "Depende de cuánto tiempo estuvo el 'freno' puesto al crecimiento.",
+    "options": [
+      {
+        "text": "A) El color de sus ojos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) La duración del déficit hormonal antes de iniciar el tratamiento.",
+        "isCorrect": true,
+        "explanation": "Correcto. A mayor tiempo de hipotiroidismo, mayor pérdida del potencial de crecimiento lineal irreversible."
+      },
+      {
+        "text": "C) Si toma mucha leche o no.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) La estatura de sus abuelos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El factor limitante es la patología tiroidea no tratada."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "T4 Libre vs T4 Total",
+    "text": "¿Por qué se prefiere medir T4 LIBRE en lugar de T4 TOTAL en pediatría?",
+    "hint": "La T4 total se ve afectada por los niveles de proteínas en la sangre.",
+    "options": [
+      {
+        "text": "A) Porque la T4 libre es la forma biológicamente activa y no depende de las proteínas transportadoras.",
+        "isCorrect": true,
+        "explanation": "Correcto. Cambios en la albúmina o TBG (proteína transportadora) pueden falsear la T4 total, pero la libre refleja el estado real del paciente."
+      },
+      {
+        "text": "B) Porque es más barata.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "C) Porque la T4 total no existe en niños.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sí existe pero es menos exacta para el diagnóstico."
+      },
+      {
+        "text": "D) Porque la T4 libre es una hormona artificial.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Ambas son producidas por la tiroides."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Tiroiditis de De Quervain",
+    "text": "¿Cuál es la conducta recomendada ante una 'Tiroiditis Subaguda de De Quervain' (dolor en cuello tras virus)?",
+    "hint": "Es una inflamación viral autolimitada.",
+    "options": [
+      {
+        "text": "A) Levotiroxina de por vida.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. No es una falla permanente."
+      },
+      {
+        "text": "B) Manejo del dolor con AINEs o corticoides; la función suele recuperarse sola.",
+        "isCorrect": true,
+        "explanation": "Correcto. Tras una fase de inflamación, la tiroides suele volver a la normalidad en pocos meses."
+      },
+      {
+        "text": "C) Cirugía urgente.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Antibióticos endovenosos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Es de origen viral/inflamatorio, no bacteriano."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo y Embarazo (Tratamiento)",
+    "text": "Si una mujer en tratamiento con Levotiroxina queda embarazada, ¿qué ajuste de dosis suele requerir?",
+    "hint": "El feto 'roba' hormona a la madre.",
+    "options": [
+      {
+        "text": "A) Suspender el medicamento.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Sería catastrófico para el desarrollo cerebral fetal."
+      },
+      {
+        "text": "B) Aumentar la dosis (aprox. un 30-50%) de forma precoz.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los requerimientos de T4 aumentan significativamente desde las primeras semanas de gestación."
+      },
+      {
+        "text": "C) Bajar la dosis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) Mantener la misma dosis.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Generalmente la dosis previa se vuelve insuficiente."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Adherencia al Tratamiento",
+    "text": "¿Cuál es el mensaje clave para los padres de un niño con Hipotiroidismo Congénito respecto al futuro?",
+    "hint": "La adherencia es la clave del éxito.",
+    "options": [
+      {
+        "text": "A) El niño nunca podrá estudiar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "B) Con un tratamiento constante, controles regulares y niveles óptimos, el niño tendrá un desarrollo y vida normales.",
+        "isCorrect": true,
+        "explanation": "Correcto. El HC bien tratado no impide ninguna actividad académica, física o social en el futuro."
+      },
+      {
+        "text": "C) Es una enfermedad contagiosa.",
+        "isCorrect": false,
+        "explanation": "Incorrecto."
+      },
+      {
+        "text": "D) El tratamiento se puede dejar los fines de semana.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. El tratamiento debe ser diario sin interrupciones."
+      }
+    ]
+  }
+]
