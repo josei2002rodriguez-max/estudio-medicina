@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Efectos Hemodinámicos de la Presión Positiva",
+    "text": "¿Cuál es el principal efecto hemodinámico de la aplicación de presión positiva (PEEP y Presión Inspiratoria) en un niño con shock hipovolémico no corregido?",
+    "hint": "El aumento de la presión intratorácica \"aprieta\" las grandes venas que traen sangre al corazón[cite: 266].",
+    "options": [
+      {
+        "text": "A) Aumento del gasto cardíaco por mejoría de la contractilidad.",
+        "isCorrect": false,
+        "explanation": "Esta sería la respuesta correcta en un paciente con insuficiencia cardíaca congestiva, donde la presión positiva disminuye la postcarga del ventrículo izquierdo[cite: 270]."
+      },
+      {
+        "text": "B) Disminución del retorno venoso (precarga del ventrículo derecho) e hipotensión arterial.",
+        "isCorrect": true,
+        "explanation": "La ventilación a presión positiva aumenta la presión pleural, lo que disminuye el gradiente de presión necesario para el retorno venoso, pudiendo causar una caída crítica del gasto cardíaco en hipovolemia[cite: 267, 268]."
+      },
+      {
+        "text": "C) Aumento de la precarga del ventrículo izquierdo por succión.",
+        "isCorrect": false,
+        "explanation": "Falso; la presión positiva siempre tiende a disminuir la precarga de las cavidades derechas[cite: 271]."
+      },
+      {
+        "text": "D) Disminución de la resistencia vascular sistémica.",
+        "isCorrect": false,
+        "explanation": "La RVS suele aumentar de forma compensatoria ante la caída del gasto cardíaco inducida por el ventilador[cite: 272]."
+      },
+      {
+        "text": "E) Bradicardia sinusal refleja.",
+        "isCorrect": false,
+        "explanation": "Lo habitual ante la caída de presión arterial por el ventilador es una taquicardia compensatoria[cite: 273]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Enfermedad de Vía Aérea Pequeña (Asma)",
+    "text": "¿Qué parámetro del ventilador mecánico se debe ajustar prioritariamente ante un paciente con una \"enfermedad de vía aérea pequeña\" (ej. asma severa) para evitar el atrapamiento aéreo (Auto-PEEP)?",
+    "hint": "El aire atrapado necesita tiempo para salir a través de bronquiolos estrechos[cite: 287].",
+    "options": [
+      {
+        "text": "A) Aumentar la frecuencia respiratoria.",
+        "isCorrect": false,
+        "explanation": "En asma, subir la FR acorta el tiempo espiratorio y empeora el atrapamiento; esto solo serviría para bajar el CO2 en un pulmón sano[cite: 293]."
+      },
+      {
+        "text": "B) Aumentar el tiempo espiratorio (Te) permitiendo una relación I:E más larga (ej. 1:3 o 1:4).",
+        "isCorrect": true,
+        "explanation": "En patologías obstructivas el vaciado es lento; si el ciclo inspiratorio inicia antes de vaciarse, se genera auto-PEEP. Prolongar el Te es la medida fundamental[cite: 288, 289, 290]."
+      },
+      {
+        "text": "C) Aumentar la FiO2.",
+        "isCorrect": false,
+        "explanation": "Afecta la oxigenación, pero no influye en la mecánica del flujo aéreo ni el atrapamiento[cite: 294]."
+      },
+      {
+        "text": "D) Disminuir la PEEP a cero.",
+        "isCorrect": false,
+        "explanation": "Una PEEP extrínseca baja puede ayudar a mantener los bronquiolos abiertos y facilitar la salida del aire[cite: 296]."
+      },
+      {
+        "text": "E) Aumentar el tiempo inspiratorio (Ti).",
+        "isCorrect": false,
+        "explanation": "Empeoraría el cuadro al reducir el tiempo disponible para la espiración[cite: 297]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Monitorización: PIP vs Plateau",
+    "text": "En la monitorización de la ventilación mecánica, ¿cuál es la diferencia clínica entre la \"Presión Pico\" (PIP) y la \"Presión de Meseta\" (Plateau)?",
+    "hint": "La PIP es la presión máxima durante el flujo; la Plateau es la presión cuando el aire se detiene (pausa)[cite: 27, 28].",
+    "options": [
+      {
+        "text": "A) No hay diferencia, miden lo mismo.",
+        "isCorrect": false,
+        "explanation": "Solo serían iguales si no hubiera resistencia al flujo, lo cual es físicamente imposible[cite: 311]."
+      },
+      {
+        "text": "B) La PIP refleja la resistencia de la vía aérea y la elasticidad, mientras que la Plateau refleja solo la elasticidad (compliance) del alvéolo.",
+        "isCorrect": true,
+        "explanation": "La PIP es la presión total para vencer la resistencia (tubo/bronquios) y elasticidad; la Plateau se mide con flujo cero y refleja la presión real en los alvéolos[cite: 308, 309]."
+      },
+      {
+        "text": "C) La Plateau es siempre mayor que la PIP.",
+        "isCorrect": false,
+        "explanation": "Físicamente imposible; la PIP siempre es mayor o igual debido a la resistencia al flujo[cite: 312]."
+      },
+      {
+        "text": "D) La PIP se mide al final de la espiración.",
+        "isCorrect": false,
+        "explanation": "Esa es la definición de la PEEP[cite: 313]."
+      },
+      {
+        "text": "E) La Plateau mide el esfuerzo del paciente.",
+        "isCorrect": false,
+        "explanation": "Mide la compliance estática del sistema respiratorio, no el esfuerzo muscular[cite: 301, 304]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Cánula Nasal de Alto Flujo (CNAF)",
+    "text": "¿Cuál es la dosis inicial de flujo recomendada para iniciar una Cánula Nasal de Alto Flujo (CNAF) en un lactante con insuficiencia respiratoria moderada?",
+    "hint": "El objetivo es superar el flujo inspiratorio pico del niño[cite: 36].",
+    "options": [
+      {
+        "text": "A) 0.5 l/kg/min.",
+        "isCorrect": false,
+        "explanation": "Es un flujo bajo que se asemeja más a una naricera convencional de bajo flujo[cite: 38]."
+      },
+      {
+        "text": "B) 1-2 l/kg/min.",
+        "isCorrect": true,
+        "explanation": "La mayoría de los protocolos pediátricos recomiendan este rango de inicio. Flujos menores pueden no generar la presión positiva deseada[cite: 37, 38]."
+      },
+      {
+        "text": "C) 10 l/min fijos para todos.",
+        "isCorrect": false,
+        "explanation": "La dosis debe ajustarse estrictamente al peso en pediatría[cite: 35]."
+      },
+      {
+        "text": "D) 5 l/kg/min.",
+        "isCorrect": false,
+        "explanation": "Es un flujo excesivo que causa incomodidad y riesgo innecesario de barotrauma[cite: 39]."
+      },
+      {
+        "text": "E) Solo oxígeno puro a 1 l/min.",
+        "isCorrect": false,
+        "explanation": "No utiliza la tecnología de alto flujo y no garantiza una FiO2 estable[cite: 35]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Curva de Disociación de Hemoglobina",
+    "text": "¿Qué efecto tiene el aumento de la temperatura corporal (fiebre) en la curva de disociación de la hemoglobina y cómo afecta la entrega de oxígeno?",
+    "hint": "El metabolismo alto (fiebre/acidosis) necesita que el oxígeno se \"suelte\" más fácil del glóbulo rojo[cite: 44].",
+    "options": [
+      {
+        "text": "A) Desvía la curva a la izquierda, aumentando la afinidad por el O2 (menos entrega).",
+        "isCorrect": false,
+        "explanation": "Esto ocurre en situaciones de hipotermia, alcalosis o ante hemoglobina fetal[cite: 47]."
+      },
+      {
+        "text": "B) Desvía la curva a la derecha, disminuyendo la afinidad por el O2 y facilitando su entrega a los tejidos.",
+        "isCorrect": true,
+        "explanation": "La fiebre, acidosis (pH bajo) y el aumento del 2,3-DPG desvían la curva a la derecha, facilitando que la hemoglobina entregue más oxígeno a los tejidos[cite: 45, 46]."
+      },
+      {
+        "text": "C) No tiene efecto sobre la hemoglobina.",
+        "isCorrect": false,
+        "explanation": "La temperatura es uno de los principales moduladores de la afinidad Hb-O2[cite: 43]."
+      },
+      {
+        "text": "D) Bloquea la unión del oxígeno.",
+        "isCorrect": false,
+        "explanation": "Modifica la afinidad, no bloquea el sitio de unión como lo haría el monóxido de carbono[cite: 43]."
+      },
+      {
+        "text": "E) Hace que la hemoglobina se vuelva azul.",
+        "isCorrect": false,
+        "explanation": "La cianosis es por falta de oxígeno, no por un cambio cromático de la proteína por calor[cite: 46]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Presión de Soporte (PS) en Destete",
+    "text": "En el proceso de destete (weaning), ¿cuál es el objetivo de la modalidad \"Presión de Soporte\" (PS)?",
+    "hint": "Respirar a través de un tubo largo y estrecho es como respirar por un \"sorbete\"[cite: 51].",
+    "options": [
+      {
+        "text": "A) Controlar totalmente la respiración del paciente.",
+        "isCorrect": false,
+        "explanation": "Esa es la función de las modalidades controladas por volumen o presión[cite: 54]."
+      },
+      {
+        "text": "B) Disminuir el trabajo respiratorio impuesto por la resistencia del tubo endotraqueal durante las respiraciones espontáneas del niño.",
+        "isCorrect": true,
+        "explanation": "La PS asiste cada inspiración gatillada por el niño, compensando el esfuerzo para vencer la resistencia del tubo y entrenando los músculos antes de extubar[cite: 52, 53]."
+      },
+      {
+        "text": "C) Mantener la vía aérea cerrada.",
+        "isCorrect": false,
+        "explanation": "El soporte de presión ocurre en la inspiración, no en la espiración para sellado[cite: 50]."
+      },
+      {
+        "text": "D) Inyectar antibióticos aerosolizados.",
+        "isCorrect": false,
+        "explanation": "No es una vía de administración de fármacos por sí misma[cite: 50]."
+      },
+      {
+        "text": "E) Reemplazar la necesidad de sedación.",
+        "isCorrect": false,
+        "explanation": "Al contrario, requiere un paciente despierto o poco sedado para que pueda iniciar sus propios ciclos respiratorios[cite: 55]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Manejo de SDRA Severo",
+    "text": "Un niño de 3 años está en VM con una FiO2 del 100% y una PEEP de 15 por un SDRA severo. La PaO2 es de 55. ¿Cuál es la siguiente maniobra recomendada para mejorar la oxigenación?",
+    "hint": "Maniobras de rescate para hipoxemia refractaria[cite: 60].",
+    "options": [
+      {
+        "text": "A) Bajar la PEEP a 5 para proteger el corazón.",
+        "isCorrect": false,
+        "explanation": "Empeoraría la oxigenación al permitir el colapso alveolar masivo (dereclutamiento)[cite: 61]."
+      },
+      {
+        "text": "B) Posición prona (boca abajo) y evaluar maniobras de reclutamiento alveolar.",
+        "isCorrect": true,
+        "explanation": "En SDRA severo con hipoxemia refractaria, la posición prona mejora la relación V/Q al reclutar áreas dorsales colapsadas por el peso del corazón y órganos[cite: 60]."
+      },
+      {
+        "text": "C) Aumentar la frecuencia respiratoria a 40.",
+        "isCorrect": false,
+        "explanation": "Ayuda a barrer CO2, pero no mejora significativamente la oxigenación en presencia de shunt masivo[cite: 62]."
+      },
+      {
+        "text": "D) Administrar bicarbonato de sodio.",
+        "isCorrect": false,
+        "explanation": "No tiene efecto sobre la presión parcial de oxígeno arterial[cite: 59]."
+      },
+      {
+        "text": "E) Dar de alta por falta de respuesta.",
+        "isCorrect": false,
+        "explanation": "Conducta inaceptable; se deben agotar terapias de rescate como ECMO si están disponibles[cite: 59]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Criterios de Falla de Extubación",
+    "text": "¿Cuál de los siguientes es un criterio clínico de \"Falla de Extubación\" inminente en un lactante tras haberle retirado el tubo?",
+    "hint": "Signos de obstrucción de la vía aérea superior o fatiga muscular post-extubación[cite: 66].",
+    "options": [
+      {
+        "text": "A) Frecuencia cardíaca de 100 lpm.",
+        "isCorrect": false,
+        "explanation": "Valor normal para la mayoría de los lactantes en reposo[cite: 64]."
+      },
+      {
+        "text": "B) Estridor inspiratorio severo asociado a retracción intercostal marcada y aumento del trabajo respiratorio.",
+        "isCorrect": true,
+        "explanation": "Indica edema subglótico severo (laringitis post-extubación). Si hay gran esfuerzo, es probable que el niño se agote y requiera re-intubación urgente[cite: 67, 68]."
+      },
+      {
+        "text": "C) El niño está llorando con fuerza.",
+        "isCorrect": false,
+        "explanation": "Signo de buena ventilación y cuerdas vocales funcionales[cite: 69]."
+      },
+      {
+        "text": "D) La saturación se mantiene en 92-94% con naricera.",
+        "isCorrect": false,
+        "explanation": "Rango de saturación normal aceptable post-extubación con apoyo mínimo[cite: 70]."
+      },
+      {
+        "text": "E) El niño pide comida.",
+        "isCorrect": false,
+        "explanation": "Signo de estabilidad clínica y neurológica[cite: 65]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "VAFO en Aspiración de Meconio",
+    "text": "¿Cuál es la ventaja de la Ventilación de Alta Frecuencia Oscilatoria (VAFO) en el manejo del neonato con síndrome de aspiración de meconio grave?",
+    "hint": "Estrategia de \"pulmón abierto\" con protección máxima[cite: 74].",
+    "options": [
+      {
+        "text": "A) Usa tubos endotraqueales mucho más grandes.",
+        "isCorrect": false,
+        "explanation": "El tamaño del tubo es independiente de la modalidad del ventilador[cite: 71]."
+      },
+      {
+        "text": "B) Permite mantener una presión media de vía aérea (MAP) constante y alta para oxigenación, con variaciones de presión muy pequeñas, minimizando el volutrauma.",
+        "isCorrect": true,
+        "explanation": "Mantiene el pulmón inflado en su punto óptimo, evitando el ciclo de apertura-colapso (atelectrauma) y reduciendo el biotrauma en pulmones dañados[cite: 72, 75]."
+      },
+      {
+        "text": "C) No requiere sedación ni parálisis.",
+        "isCorrect": false,
+        "explanation": "Al contrario, suele requerir sedación profunda y a menudo bloqueo neuromuscular para evitar la competencia con la máquina[cite: 76]."
+      },
+      {
+        "text": "D) Es más económica que la ventilación convencional.",
+        "isCorrect": false,
+        "explanation": "Es una terapia de alta complejidad y mayor costo[cite: 73]."
+      },
+      {
+        "text": "E) Se puede usar con naricera.",
+        "isCorrect": false,
+        "explanation": "Es estrictamente una modalidad invasiva que requiere tubo orotraqueal[cite: 77]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Espacio Muerto Anatómico",
+    "text": "¿Qué es el \"Espacio Muerto Anatómico\"?",
+    "hint": "Aire que entra y sale pero nunca llega a los alvéolos para dejar el oxígeno[cite: 81].",
+    "options": [
+      {
+        "text": "A) El aire que se queda atrapado en los alvéolos.",
+        "isCorrect": false,
+        "explanation": "Eso corresponde al volumen residual o aire con Auto-PEEP[cite: 84]."
+      },
+      {
+        "text": "B) El volumen de aire inspirado que permanece en las vías de conducción (nariz, tráquea, bronquios) y no participa en el intercambio gaseoso.",
+        "isCorrect": true,
+        "explanation": "En VM, el tubo y conexiones añaden espacio muerto mecánico que debe compensarse al programar el volumen corriente[cite: 79, 82, 83]."
+      },
+      {
+        "text": "C) El aire que el niño exhala por la boca.",
+        "isCorrect": false,
+        "explanation": "Ese es el volumen exhalado total, que incluye aire de intercambio y de espacio muerto[cite: 80]."
+      },
+      {
+        "text": "D) Un tipo de infección del pulmón.",
+        "isCorrect": false,
+        "explanation": "Es un concepto de fisiología respiratoria, no una patología[cite: 80]."
+      },
+      {
+        "text": "E) El volumen del ventilador mecánico.",
+        "isCorrect": false,
+        "explanation": "Refiere a las vías respiratorias del paciente, no a la capacidad del equipo[cite: 81]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Gradiente Alvéolo-Arterial (A-a)DO2",
+    "text": "Un adolescente con traumatismo torácico y contusión pulmonar presenta un gradiente alvéolo-arterial de oxígeno ((A-a)DO2) muy elevado. ¿Qué indica fisiopatológicamente este hallazgo?",
+    "hint": "Hay mucho oxígeno en el pulmón (PAO2) pero poco en la sangre (PaO2)[cite: 89].",
+    "options": [
+      {
+        "text": "A) Que el oxígeno no está llegando a la boca.",
+        "isCorrect": false,
+        "explanation": "Eso sería una obstrucción externa o falta de suministro[cite: 86]."
+      },
+      {
+        "text": "B) Una falla en la transferencia de oxígeno desde el alvéolo hacia el capilar sanguíneo (shunt, alteración de la difusión o desequilibrio V/Q).",
+        "isCorrect": true,
+        "explanation": "Ayuda a diferenciar hipoxemia por causas extrapulmonares (gradiente normal) de enfermedad intrínseca del pulmón (gradiente elevado)[cite: 87, 90]."
+      },
+      {
+        "text": "C) Que el niño tiene anemia.",
+        "isCorrect": false,
+        "explanation": "La anemia afecta el contenido total de O2, no el gradiente de presión parcial[cite: 91]."
+      },
+      {
+        "text": "D) Que el ventilador está apagado.",
+        "isCorrect": false,
+        "explanation": "Daría hipoventilación global con PAO2 y PaO2 bajas[cite: 88]."
+      },
+      {
+        "text": "E) Que el aire tiene poco oxígeno.",
+        "isCorrect": false,
+        "explanation": "Ocurre en altura; el gradiente (A-a) se mantiene normal[cite: 88]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Monitorización: Curva de Flujo",
+    "text": "¿Qué característica de la \"Curva de Flujo\" del ventilador permite sospechar la presencia de una obstrucción o secreciones en el tubo endotraqueal?",
+    "hint": "El aire pasando a través de líquido o moco genera turbulencia visible[cite: 95].",
+    "options": [
+      {
+        "text": "A) Flujo constante y lineal.",
+        "isCorrect": false,
+        "explanation": "Indicaría una mecánica normal sin interferencias[cite: 93]."
+      },
+      {
+        "text": "B) Presencia de oscilaciones o \"dientes de sierra\" en la curva de flujo espiratorio.",
+        "isCorrect": true,
+        "explanation": "Sugieren que hay algo obstruyendo el paso uniforme del aire; es la indicación clásica para aspirar el tubo[cite: 93, 96, 97]."
+      },
+      {
+        "text": "C) Ausencia total de curva.",
+        "isCorrect": false,
+        "explanation": "Sugeriría desconexión total o sensor de flujo fallido[cite: 94]."
+      },
+      {
+        "text": "D) Curva de color rojo.",
+        "isCorrect": false,
+        "explanation": "Codificación visual del equipo, no un signo fisiopatológico[cite: 94]."
+      },
+      {
+        "text": "E) Flujo que llega a cero muy rápido.",
+        "isCorrect": false,
+        "explanation": "Indica pulmón rígido (compliance baja), no necesariamente secreciones[cite: 97]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Función del Cuff (Balón)",
+    "text": "¿Cuál es la función del \"Cuff\" o balón del tubo endotraqueal en niños mayores y adolescentes?",
+    "hint": "Crea una cámara estanca entre el tubo y la pared de la tráquea[cite: 101].",
+    "options": [
+      {
+        "text": "A) Evitar que el niño hable.",
+        "isCorrect": false,
+        "explanation": "Es una consecuencia, no la función clínica del dispositivo[cite: 99]."
+      },
+      {
+        "text": "B) Asegurar el sellado de la vía aérea para permitir una ventilación con presiones precisas y disminuir el riesgo de microaspiración.",
+        "isCorrect": true,
+        "explanation": "Optimiza la ventilación y protege el pulmón de contenido faríngeo. Hoy se prefieren incluso en niños pequeños[cite: 99, 102]."
+      },
+      {
+        "text": "C) Calentar el aire.",
+        "isCorrect": false,
+        "explanation": "Función del humidificador, no del balón[cite: 100]."
+      },
+      {
+        "text": "D) Medir la frecuencia cardíaca.",
+        "isCorrect": false,
+        "explanation": "No posee sensores hemodinámicos[cite: 100]."
+      },
+      {
+        "text": "E) Sostener el tubo para que no se mueva.",
+        "isCorrect": false,
+        "explanation": "El balón es para sellado neumático; la fijación mecánica es externa con cinta[cite: 103, 104]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Complicaciones del Cuff",
+    "text": "¿Qué complicación se asocia a una presión excesiva en el balón (cuff) del tubo endotraqueal (ej. > 40 cmH2O)?",
+    "hint": "La presión del balón supera la presión de perfusión capilar de la mucosa traqueal[cite: 107].",
+    "options": [
+      {
+        "text": "A) Neumotórax.",
+        "isCorrect": false,
+        "explanation": "Es complicación de las presiones del ventilador, no directamente de la presión local del balón[cite: 109]."
+      },
+      {
+        "text": "B) Isquemia de la mucosa traqueal, que puede llevar a estenosis subglótica o traqueomalacia a largo plazo.",
+        "isCorrect": true,
+        "explanation": "Es vital que la presión sea suficiente para sellar pero menor a 25 cmH2O para no dañar el tejido[cite: 106, 108]."
+      },
+      {
+        "text": "C) Sordera.",
+        "isCorrect": false,
+        "explanation": "Sin relación con la vía aérea artificial[cite: 107]."
+      },
+      {
+        "text": "D) Hipoglicemia.",
+        "isCorrect": false,
+        "explanation": "Proceso metabólico independiente[cite: 107]."
+      },
+      {
+        "text": "E) Crecimiento de la tiroides.",
+        "isCorrect": false,
+        "explanation": "No se asocia a cambios endocrinos glandulares[cite: 107]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Compliance Estática",
+    "text": "¿A qué se refiere el término \"Compliance Estática\" en VM?",
+    "hint": "Refleja cuán \"estirable\" es el pulmón cuando el aire está quieto[cite: 114].",
+    "options": [
+      {
+        "text": "A) A la fuerza de los músculos del niño.",
+        "isCorrect": false,
+        "explanation": "No evalúa la contractilidad muscular[cite: 111]."
+      },
+      {
+        "text": "B) Al volumen tidal dividido por la diferencia entre la presión de meseta y la PEEP (Vt / (Plateau - PEEP)).",
+        "isCorrect": true,
+        "explanation": "Mide la elasticidad pura del pulmón sin interferencia del flujo. Una compliance baja indica rigidez (fibrosis o edema)[cite: 111, 115, 116]."
+      },
+      {
+        "text": "C) Al color del ventilador.",
+        "isCorrect": false,
+        "explanation": "Inmaterial[cite: 112]."
+      },
+      {
+        "text": "D) A la presión del tanque.",
+        "isCorrect": false,
+        "explanation": "Mide la distensibilidad del parénquima, no presiones de suministro[cite: 113]."
+      },
+      {
+        "text": "E) A la velocidad de la enfermera.",
+        "isCorrect": false,
+        "explanation": "Sin relación[cite: 113]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Máscara Venturi",
+    "text": "En la oxigenoterapia, ¿cuál es la principal utilidad de la \"Máscara Venturi\"?",
+    "hint": "Utiliza el principio de Bernoulli para mezclar aire y oxígeno en proporciones fijas[cite: 121].",
+    "options": [
+      {
+        "text": "A) Entregar oxígeno al 100% siempre.",
+        "isCorrect": false,
+        "explanation": "Suele topar en el 50%; para 100% se requiere máscara con reservorio y válvulas[cite: 123, 124]."
+      },
+      {
+        "text": "B) Proporcionar una fracción inspirada de oxígeno (FiO2) exacta y constante, independientemente del patrón del paciente.",
+        "isCorrect": true,
+        "explanation": "Ideal para pacientes que requieren control estricto de la FiO2 (ej. retenedores crónicos de CO2)[cite: 119, 122]."
+      },
+      {
+        "text": "C) Humidificar el aire de forma superior.",
+        "isCorrect": false,
+        "explanation": "La humidificación depende del dispositivo adjunto, no del principio Venturi[cite: 120]."
+      },
+      {
+        "text": "D) Se usa solo en recién nacidos.",
+        "isCorrect": false,
+        "explanation": "Utilizada en todas las edades que toleren máscara facial[cite: 120]."
+      },
+      {
+        "text": "E) Permitir que el niño hable con facilidad.",
+        "isCorrect": false,
+        "explanation": "Dificulta el habla y alimentación en comparación con la naricera[cite: 124]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Capnografía: Línea de Base",
+    "text": "¿Qué indica una \"Capnografía\" con una línea de base elevada (el EtCO2 no llega a cero durante la inspiración)?",
+    "hint": "El aire que el niño inspira ya viene con CO2[cite: 128].",
+    "options": [
+      {
+        "text": "A) Que el paciente está hiperventilando.",
+        "isCorrect": false,
+        "explanation": "Daría niveles de EtCO2 bajos, no línea de base elevada[cite: 126]."
+      },
+      {
+        "text": "B) Reinhalación de CO2 (fallo en las válvulas del ventilador o cal sodada agotada).",
+        "isCorrect": true,
+        "explanation": "Normalmente el aire inspirado tiene 0 de CO2. Si la línea sube, el paciente respira su propio aire exhalado, causando hipercapnia[cite: 126, 129]."
+      },
+      {
+        "text": "C) Que el niño tiene mucha hambre.",
+        "isCorrect": false,
+        "explanation": "Sin relación[cite: 127]."
+      },
+      {
+        "text": "D) Que el tubo está en el estómago.",
+        "isCorrect": false,
+        "explanation": "En el estómago la curva es plana o desaparece rápido, no tiene línea de base elevada[cite: 130]."
+      },
+      {
+        "text": "E) Signo de salud pulmonar.",
+        "isCorrect": false,
+        "explanation": "Es una alarma técnica y fisiológica de gravedad[cite: 127]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Resistencia de la Vía Aérea",
+    "text": "¿Cuál es la conducta ante un paciente en VM que presenta una \"Resistencia de la vía aérea\" elevada tras la administración de un broncodilatador?",
+    "hint": "La resistencia mide la dificultad del paso del aire por los tubos[cite: 134].",
+    "options": [
+      {
+        "text": "A) El broncodilatador funcionó excelente.",
+        "isCorrect": false,
+        "explanation": "Al contrario, el broncodilatador debería bajar la resistencia[cite: 132]."
+      },
+      {
+        "text": "B) El broncodilatador no fue efectivo o hay un problema mecánico (tubo acodado, secreciones).",
+        "isCorrect": true,
+        "explanation": "Si la resistencia persiste alta, se debe descartar primero la causa más simple: obstrucción física del tubo orotraqueal[cite: 132, 135]."
+      },
+      {
+        "text": "C) Suspender el oxígeno.",
+        "isCorrect": false,
+        "explanation": "No resuelve el problema mecánico[cite: 133]."
+      },
+      {
+        "text": "D) Aumentar la sedación únicamente.",
+        "isCorrect": false,
+        "explanation": "Ayuda a la sincronía, pero no resuelve la obstrucción física del circuito[cite: 136]."
+      },
+      {
+        "text": "E) Realizar una biopsia de pulmón.",
+        "isCorrect": false,
+        "explanation": "Innecesaria para evaluar resistencia de la vía aérea[cite: 133]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Hipercapnia Permisiva",
+    "text": "¿Qué es la \"Hipercapnia Permisiva\"?",
+    "hint": "Se prioriza la integridad del tejido sobre la normalidad del gas en sangre[cite: 140].",
+    "options": [
+      {
+        "text": "A) Permitir que el niño grite.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 137]."
+      },
+      {
+        "text": "B) Estrategia de ventilación protectora donde se aceptan niveles elevados de CO2 (PaCO2) para usar volúmenes y presiones bajos que no dañen el pulmón.",
+        "isCorrect": true,
+        "explanation": "Fundamental en SDRA y asma severa; se permite siempre que el pH se mantenga en rangos seguros (habitualmente > 7.20)[cite: 138, 141, 142]."
+      },
+      {
+        "text": "C) Dejar que el oxígeno suba a 100%.",
+        "isCorrect": false,
+        "explanation": "Se refiere al CO2, no al oxígeno[cite: 139]."
+      },
+      {
+        "text": "D) Un error de programación.",
+        "isCorrect": false,
+        "explanation": "Es una estrategia clínica deliberada[cite: 139]."
+      },
+      {
+        "text": "E) Una modalidad de ejercicio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 139]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Riesgo de Hiperoxia",
+    "text": "¿Cuál es el riesgo de la \"Hiperoxia\" (exceso de oxígeno en sangre) en un paciente pediátrico post-paro cardíaco?",
+    "hint": "Los tejidos dañados son muy vulnerables al estrés oxidativo brusco[cite: 147].",
+    "options": [
+      {
+        "text": "A) Ninguno, el oxígeno siempre es bueno.",
+        "isCorrect": false,
+        "explanation": "Falso; causa vasoconstricción cerebral y coronaria, además de daño tisular[cite: 149]."
+      },
+      {
+        "text": "B) Aumento del daño por reperfusión debido a la formación excesiva de radicales libres que dañan membranas celulares.",
+        "isCorrect": true,
+        "explanation": "Se recomienda titular el O2 para mantener saturación entre 94-98%, evitando el 100% persistente una vez recuperado el pulso[cite: 145, 148]."
+      },
+      {
+        "text": "C) Que el niño se vuelva muy fuerte.",
+        "isCorrect": false,
+        "explanation": "Inexistente[cite: 146]."
+      },
+      {
+        "text": "D) Diabetes.",
+        "isCorrect": false,
+        "explanation": "No vinculada[cite: 146]."
+      },
+      {
+        "text": "E) Sordera.",
+        "isCorrect": false,
+        "explanation": "No vinculada[cite: 146]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Ciclado por Tiempo",
+    "text": "¿Qué significa que un ventilador mecánico esté \"Ciclado por Tiempo\"?",
+    "hint": "Característica principal de la ventilación por presión en neonatología y pediatría[cite: 153].",
+    "options": [
+      {
+        "text": "A) Que se apaga a las 5 PM.",
+        "isCorrect": false,
+        "explanation": "Sin sentido clínico[cite: 150]."
+      },
+      {
+        "text": "B) Que el paso de inspiración a espiración ocurre tras un tiempo programado (Ti), independientemente del volumen o presión.",
+        "isCorrect": true,
+        "explanation": "El Ti es fijo, garantizando tiempo para distribuir el gas en el pulmón, pero requiere vigilar el volumen entregado[cite: 151, 154]."
+      },
+      {
+        "text": "C) Que el niño decide cuánto dura la respiración.",
+        "isCorrect": false,
+        "explanation": "Eso sería ciclado por flujo (modalidades de soporte)[cite: 152]."
+      },
+      {
+        "text": "D) Que es un modelo muy antiguo.",
+        "isCorrect": false,
+        "explanation": "Es un principio básico de modelos modernos[cite: 152]."
+      },
+      {
+        "text": "E) Que mide la edad del niño.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 153]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Pulsioximetría en Shock",
+    "text": "¿Cuál es la limitación principal de la \"Saturación por Pulsioximetría\" (SpO2) en un paciente con shock severo?",
+    "hint": "El oxímetro necesita un \"pulso\" arterial detectable[cite: 159].",
+    "options": [
+      {
+        "text": "A) La SpO2 es siempre exacta.",
+        "isCorrect": false,
+        "explanation": "Falso[cite: 157]."
+      },
+      {
+        "text": "B) La mala señal por vasoconstricción periférica puede dar lecturas erróneas o ausencia de lectura.",
+        "isCorrect": true,
+        "explanation": "En shock profundo el flujo distal es mínimo; el equipo no detecta la onda de pulso y la cifra no es confiable, requiriendo gases arteriales[cite: 157, 160, 161]."
+      },
+      {
+        "text": "C) El sensor se calienta mucho.",
+        "isCorrect": false,
+        "explanation": "No es la limitación diagnóstica principal[cite: 158]."
+      },
+      {
+        "text": "D) Mide la presión arterial.",
+        "isCorrect": false,
+        "explanation": "Solo mide el porcentaje de hemoglobina unida a O2[cite: 162]."
+      },
+      {
+        "text": "E) Solo sirve en niños grandes.",
+        "isCorrect": false,
+        "explanation": "Útil en todas las edades si hay buena perfusión[cite: 158]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Presión Media de la Vía Aérea (MAP)",
+    "text": "¿Qué es la \"Presión Media de la Vía Aérea\" (MAP) y por qué es el determinante principal de la oxigenación?",
+    "hint": "Representa el \"área bajo la curva\" de las presiones del ventilador[cite: 167].",
+    "options": [
+      {
+        "text": "A) La presión más alta del ciclo.",
+        "isCorrect": false,
+        "explanation": "Esa es la Presión Pico (PIP)[cite: 169]."
+      },
+      {
+        "text": "B) Es el promedio de todas las presiones del ciclo; determina el reclutamiento alveolar constante y la superficie de intercambio.",
+        "isCorrect": true,
+        "explanation": "Para mejorar la oxigenación se aumenta la MAP subiendo la PEEP, el Ti o la Presión Inspiratoria[cite: 164, 165, 168]."
+      },
+      {
+        "text": "C) Es la presión de los pulmones en reposo.",
+        "isCorrect": false,
+        "explanation": "Esa sería la PEEP o la presión atmosférica al final de espiración espontánea[cite: 165]."
+      },
+      {
+        "text": "D) Un tipo de fármaco.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 166]."
+      },
+      {
+        "text": "E) La presión arterial del niño.",
+        "isCorrect": false,
+        "explanation": "Parámetro cardiovascular distinto[cite: 166]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Asincronía por Autodisparo",
+    "text": "¿Cuál es la conducta ante un paciente con \"Asincronía por Autodisparo\" (el ventilador cicla más rápido sin esfuerzo del niño)?",
+    "hint": "Factores externos \"engañan\" al sensor del ventilador[cite: 173].",
+    "options": [
+      {
+        "text": "A) El niño tiene mucha hambre.",
+        "isCorrect": false,
+        "explanation": "Inmaterial[cite: 171]."
+      },
+      {
+        "text": "B) Revisar presencia de agua en los circuitos o fugas masivas, y ajustar la sensibilidad del trigger.",
+        "isCorrect": true,
+        "explanation": "El movimiento del agua condensada genera variaciones de flujo que la máquina interpreta como intentos del paciente, disparando ciclos innecesarios[cite: 171, 174]."
+      },
+      {
+        "text": "C) Aumentar la frecuencia respiratoria programada.",
+        "isCorrect": false,
+        "explanation": "Empeoraría la situación al sobreponer más ciclos a un sistema inestable[cite: 175]."
+      },
+      {
+        "text": "D) Apagar el ventilador.",
+        "isCorrect": false,
+        "explanation": "Riesgo vital[cite: 172]."
+      },
+      {
+        "text": "E) Indicar antibióticos.",
+        "isCorrect": false,
+        "explanation": "No resuelve el problema técnico del circuito[cite: 172]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Nutrición en Falla Ventilatoria Crónica",
+    "text": "¿Qué nutriente debe manejarse con cuidado en la dieta de un paciente con falla ventilatoria crónica (retención de CO2)?",
+    "hint": "La combustión de azúcar produce más \"humo\" (CO2) que la de grasa[cite: 178].",
+    "options": [
+      {
+        "text": "A) Proteínas.",
+        "isCorrect": false,
+        "explanation": "Importantes para la masa muscular diafragmática[cite: 177]."
+      },
+      {
+        "text": "B) Exceso de Carbohidratos (debido a su mayor cociente respiratorio).",
+        "isCorrect": true,
+        "explanation": "Dificultan el destete al aumentar la carga de CO2 que el niño debe eliminar. Se prefieren fórmulas con mayor aporte de lípidos[cite: 177, 179, 180]."
+      },
+      {
+        "text": "C) Agua pura.",
+        "isCorrect": false,
+        "explanation": "Vital para hidratación[cite: 178]."
+      },
+      {
+        "text": "D) Grasas.",
+        "isCorrect": false,
+        "explanation": "Son el combustible preferido por su bajo cociente respiratorio[cite: 180]."
+      },
+      {
+        "text": "E) Vitaminas.",
+        "isCorrect": false,
+        "explanation": "No influyen en la producción de CO2[cite: 177]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Humidificador Pasivo (HME)",
+    "text": "¿Cuál es la función del \"Humidificador Pasivo\" (Nariz artificial o HME)?",
+    "hint": "Actúa como un intercambiador de calor y humedad sin fuente externa[cite: 184].",
+    "options": [
+      {
+        "text": "A) Calentar el aire con electricidad.",
+        "isCorrect": false,
+        "explanation": "Esa es la función del humidificador activo (cascada), estándar en UCI[cite: 186]."
+      },
+      {
+        "text": "B) Retener el calor y la humedad del aire exhalado por el paciente para entregárselos en la siguiente inspiración.",
+        "isCorrect": true,
+        "explanation": "Útil para traslados, pero en lactantes puede aumentar excesivamente el espacio muerto y la resistencia[cite: 182, 185]."
+      },
+      {
+        "text": "C) Filtrar solo el polen.",
+        "isCorrect": false,
+        "explanation": "Su función principal es térmica y de humedad[cite: 183]."
+      },
+      {
+        "text": "D) Medir el oxígeno.",
+        "isCorrect": false,
+        "explanation": "No es un sensor de gases[cite: 183]."
+      },
+      {
+        "text": "E) Es un tipo de sedante.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 183]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Complicaciones de Punción Arterial",
+    "text": "¿Qué complicación se asocia a la \"Punción Arterial\" repetida para toma de gases en un recién nacido?",
+    "hint": "Los vasos neonatales son diminutos y muy reactivos[cite: 190].",
+    "options": [
+      {
+        "text": "A) Diabetes.",
+        "isCorrect": false,
+        "explanation": "Sin relación metabólica[cite: 188]."
+      },
+      {
+        "text": "B) Isquemia distal, espasmo arterial o formación de hematomas que inutilizan la arteria.",
+        "isCorrect": true,
+        "explanation": "Por ello se prefiere el uso de líneas arteriales o monitorización no invasiva una vez estabilizado[cite: 188, 191]."
+      },
+      {
+        "text": "C) Sordera.",
+        "isCorrect": false,
+        "explanation": "No vinculada[cite: 188]."
+      },
+      {
+        "text": "D) Que el niño no crezca.",
+        "isCorrect": false,
+        "explanation": "Sin impacto en el eje del crecimiento[cite: 189]."
+      },
+      {
+        "text": "E) No tiene complicaciones.",
+        "isCorrect": false,
+        "explanation": "Falso; tiene riesgos isquémicos locales reales[cite: 189]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Test de Fuga (Cuff Leak Test)",
+    "text": "¿Cuál es el valor del \"Test de Fuga\" (Cuff leak test) antes de extubar a un niño?",
+    "hint": "Si el aire no pasa por los costados del tubo desinflado, la vía aérea está muy \"apretada\"[cite: 196].",
+    "options": [
+      {
+        "text": "A) Ver si el niño puede orinar.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 193]."
+      },
+      {
+        "text": "B) Determinar si existe espacio entre el tubo y la laringe; la ausencia de fuga sugiere alto riesgo de estridor post-extubación.",
+        "isCorrect": true,
+        "explanation": "Ayuda a decidir si administrar corticoides previos o diferir la extubación para evitar el fracaso obstructivo[cite: 193, 194, 197]."
+      },
+      {
+        "text": "C) Medir la presión arterial.",
+        "isCorrect": false,
+        "explanation": "Parámetro cardiovascular ajeno[cite: 194]."
+      },
+      {
+        "text": "D) Detectar neumonía.",
+        "isCorrect": false,
+        "explanation": "Diagnóstico radiológico/clínico[cite: 195]."
+      },
+      {
+        "text": "E) Ver si el tubo está roto.",
+        "isCorrect": false,
+        "explanation": "No evalúa la integridad estructural sino el espacio peri-tubo[cite: 195]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Falla Ventilatoria en Enfermedad Neuromuscular",
+    "text": "¿Cuál es la principal causa de \"Hipoventilación Alveolar\" en un paciente con una enfermedad neuromuscular (ej. AME tipo 1)?",
+    "hint": "El pulmón está sano, pero la \"bomba\" no tiene fuerza[cite: 201].",
+    "options": [
+      {
+        "text": "A) Pulmones rotos.",
+        "isCorrect": false,
+        "explanation": "El parénquima suele ser normal inicialmente[cite: 199]."
+      },
+      {
+        "text": "B) Debilidad de los músculos inspiratorios (diafragma e intercostales) que impide generar un volumen corriente adecuado.",
+        "isCorrect": true,
+        "explanation": "Desarrollan insuficiencia tipo II (hipercapnia) y requieren soporte ventilatorio (frecuentemente VNI) por falla de la bomba mecánica[cite: 199, 202]."
+      },
+      {
+        "text": "C) Exceso de oxígeno.",
+        "isCorrect": false,
+        "explanation": "Causaría daño tisular, no la falla mecánica primaria[cite: 200]."
+      },
+      {
+        "text": "D) Falta de sangre.",
+        "isCorrect": false,
+        "explanation": "Sin relación causal directa con la mecánica[cite: 200]."
+      },
+      {
+        "text": "E) Infección por hongos.",
+        "isCorrect": false,
+        "explanation": "No explica la debilidad de la bomba ventilatoria[cite: 200]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Reclutamiento Alveolar",
+    "text": "¿Qué es el \"Reclutamiento Alveolar\"?",
+    "hint": "\"Inflar los alvéolos que están pegados\"[cite: 206].",
+    "options": [
+      {
+        "text": "A) Contratar más médicos.",
+        "isCorrect": false,
+        "explanation": "Inmaterial[cite: 203]."
+      },
+      {
+        "text": "B) El proceso de reabrir alvéolos colapsados mediante la aplicación transitoria de presiones altas de vía aérea.",
+        "isCorrect": true,
+        "explanation": "Se usa en SDRA para aumentar la superficie de intercambio gaseoso, seguido de PEEP óptima para mantenerlos abiertos[cite: 204, 206]."
+      },
+      {
+        "text": "C) Limpiar los filtros del ventilador.",
+        "isCorrect": false,
+        "explanation": "Mantenimiento del equipo[cite: 205]."
+      },
+      {
+        "text": "D) Una forma de tos.",
+        "isCorrect": false,
+        "explanation": "Mecanismo defensivo distinto[cite: 205]."
+      },
+      {
+        "text": "E) El fin de la pubertad.",
+        "isCorrect": false,
+        "explanation": "Hito del desarrollo no respiratorio[cite: 205]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Oximetría en Intoxicación por CO",
+    "text": "¿Cuál es el síntoma guía de la \"Intoxicación por Monóxido de Carbono\" respecto a la oximetría de pulso?",
+    "hint": "\"El gran simulador\": el niño se ve rosado y el monitor marca 100%, pero se está asfixiando[cite: 210].",
+    "options": [
+      {
+        "text": "A) Saturación de 70%.",
+        "isCorrect": false,
+        "explanation": "Indicaría hipoxemia común detectable[cite: 208]."
+      },
+      {
+        "text": "B) Saturación de 100% (falsamente normal) debido a que el oxímetro no diferencia carboxihemoglobina de oxihemoglobina.",
+        "isCorrect": true,
+        "explanation": "Ambas absorben luz a igual longitud de onda. Requiere gases arteriales con co-oximetría para diagnóstico[cite: 208, 211, 212]."
+      },
+      {
+        "text": "C) El oxímetro se apaga.",
+        "isCorrect": false,
+        "explanation": "Sin relación con el gas tóxico[cite: 209]."
+      },
+      {
+        "text": "D) Piel azul con saturación de 100%.",
+        "isCorrect": false,
+        "explanation": "Fisiológicamente inconsistente en intoxicación por CO[cite: 209]."
+      },
+      {
+        "text": "E) Taquicardia extrema solamente.",
+        "isCorrect": false,
+        "explanation": "Suele haber taquicardia, pero el signo clave es el 100% de SpO2 falso[cite: 209]."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Monitorización: Curva de Presión",
+    "text": "¿Qué característica de la \"Curva de Presión\" sugiere que el paciente está haciendo un esfuerzo excesivo (hambre de aire)?",
+    "hint": "El niño intenta \"ganarle\" a la máquina[cite: 215].",
+    "options": [
+      {
+        "text": "A) Una curva muy plana.",
+        "isCorrect": false,
+        "explanation": "Sugeriría compliance alta o presiones bajas[cite: 213]."
+      },
+      {
+        "text": "B) Una deflexión negativa al inicio de la inspiración (concavidad) que indica que el paciente está \"succionando\" más flujo.",
+        "isCorrect": true,
+        "explanation": "Indica asincronía y disconfort. Se resuelve aumentando el flujo inspiratorio o el nivel de soporte[cite: 213, 215, 216]."
+      },
+      {
+        "text": "C) Curva de color verde.",
+        "isCorrect": false,
+        "explanation": "Código del equipo[cite: 214]."
+      },
+      {
+        "text": "D) Presión de cero constante.",
+        "isCorrect": false,
+        "explanation": "Indicaría desconexión[cite: 214]."
+      },
+      {
+        "text": "E) Signo de la vela.",
+        "isCorrect": false,
+        "explanation": "Incorrecto[cite: 214]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Óxido Nítrico en Pediatría",
+    "text": "¿Cuál es la indicación de \"Óxido Nítrico Inhalado\" fuera del periodo neonatal (ej. en preescolares)?",
+    "hint": "Vasodilatador pulmonar selectivo potente[cite: 220].",
+    "options": [
+      {
+        "text": "A) Tratar el asma.",
+        "isCorrect": false,
+        "explanation": "No es un broncodilatador de vía aérea[cite: 218]."
+      },
+      {
+        "text": "B) Manejo de la Hipertensión Pulmonar aguda o crisis post-cirugía cardíaca.",
+        "isCorrect": true,
+        "explanation": "Reduce la postcarga del ventrículo derecho sin causar hipotensión sistémica, vital en fallas cardíacas derechas agudas[cite: 218, 220]."
+      },
+      {
+        "text": "C) Sedación profunda.",
+        "isCorrect": false,
+        "explanation": "No tiene efectos neurológicos sedantes[cite: 219]."
+      },
+      {
+        "text": "D) Curar la neumonía.",
+        "isCorrect": false,
+        "explanation": "No es un antibiótico[cite: 219]."
+      },
+      {
+        "text": "E) No se usa después del mes de vida.",
+        "isCorrect": false,
+        "explanation": "Falso; tiene indicaciones específicas en cuidados críticos pediátricos[cite: 219]."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Volutrauma",
+    "text": "¿A qué se refiere el término \"Volutrauma\"?",
+    "hint": "Daño por deformación mecánica, no solo por presión[cite: 224].",
+    "options": [
+      {
+        "text": "A) Al volumen de sangre.",
+        "isCorrect": false,
+        "explanation": "Referido al pulmón, no a la hemodinámica[cite: 221]."
+      },
+      {
+        "text": "B) Al daño alveolar causado por el estiramiento excesivo de los alvéolos debido a volúmenes corrientes demasiado altos.",
+        "isCorrect": true,
+        "explanation": "Componente principal del VILI. Se previene limitando el volumen corriente (Vt) a 6-8 ml/kg[cite: 222, 225]."
+      },
+      {
+        "text": "C) Al ruido que hace el ventilador.",
+        "isCorrect": false,
+        "explanation": "Sin relación clínica[cite: 223]."
+      },
+      {
+        "text": "D) Al peso del paciente.",
+        "isCorrect": false,
+        "explanation": "Sin relación clínica[cite: 223]."
+      },
+      {
+        "text": "E) A la falta de volumen de agua.",
+        "isCorrect": false,
+        "explanation": "Sin relación clínica[cite: 223]."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Riesgos de Ventilación con Bolsa",
+    "text": "¿Cuál es el principal riesgo de la \"Ventilación Manual con Bolsa\" (Ambú) si se realiza con excesiva fuerza?",
+    "hint": "El aire a presión entra por donde puede (tráquea o esófago)[cite: 229].",
+    "options": [
+      {
+        "text": "A) Que el niño se ría.",
+        "isCorrect": false,
+        "explanation": "Inconsistente con el contexto de reanimación[cite: 227]."
+      },
+      {
+        "text": "B) Insuflación gástrica (riesgo de vómito/aspiración) y barotrauma (neumotórax).",
+        "isCorrect": true,
+        "explanation": "Se debe ventilar solo hasta observar expansión torácica adecuada para evitar estas complicaciones[cite: 227, 230]."
+      },
+      {
+        "text": "C) Crecimiento de los músculos del brazo.",
+        "isCorrect": false,
+        "explanation": "Sin relación clínica[cite: 228]."
+      },
+      {
+        "text": "D) Sordera.",
+        "isCorrect": false,
+        "explanation": "Sin relación clínica[cite: 228]."
+      },
+      {
+        "text": "E) No tiene riesgos.",
+        "isCorrect": false,
+        "explanation": "Falso; tiene riesgos mecánicos y aspirativos reales[cite: 228]."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Alcalosis Metabólica Compensada",
+    "text": "¿Qué hallazgo analítico en gases arteriales sugiere una \"Alcalosis Metabólica\" compensada?",
+    "hint": "El pulmón intenta \"ahorrar\" ácido (pCO2) para equilibrar el exceso de base[cite: 233].",
+    "options": [
+      {
+        "text": "A) pH bajo, pCO2 baja.",
+        "isCorrect": false,
+        "explanation": "Sugiere acidosis metabólica compensada[cite: 231]."
+      },
+      {
+        "text": "B) pH > 7.45, HCO3 elevado y pCO2 levemente elevada por hipoventilación compensatoria.",
+        "isCorrect": true,
+        "explanation": "Frecuente tras vómitos profusos o uso excesivo de diuréticos[cite: 232, 234]."
+      },
+      {
+        "text": "C) pH normal siempre.",
+        "isCorrect": false,
+        "explanation": "En alcalosis el pH está por definición elevado[cite: 232]."
+      },
+      {
+        "text": "D) pCO2 de 10.",
+        "isCorrect": false,
+        "explanation": "Alcalosis respiratoria extrema por hiperventilación[cite: 232]."
+      },
+      {
+        "text": "E) Solo potasio bajo.",
+        "isCorrect": false,
+        "explanation": "Es una asociación electrolítica frecuente, pero no define el gasométrico[cite: 232]."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Filtro HEPA",
+    "text": "¿Cuál es la función del \"Filtro HEPA\" en la salida espiratoria del ventilador?",
+    "hint": "Seguridad ambiental, especialmente en infecciones como COVID-19 o TBC[cite: 238].",
+    "options": [
+      {
+        "text": "A) Enfriar el aire.",
+        "isCorrect": false,
+        "explanation": "Función del ventilador, no del filtro de partículas[cite: 235]."
+      },
+      {
+        "text": "B) Evitar la contaminación del ambiente de la UCI con microorganismos exhalados (protección del personal).",
+        "isCorrect": true,
+        "explanation": "Retiene partículas virales y bacterianas antes de liberar el aire al entorno de la unidad[cite: 236, 239]."
+      },
+      {
+        "text": "C) Medir el peso del aire.",
+        "isCorrect": false,
+        "explanation": "Inmaterial[cite: 237]."
+      },
+      {
+        "text": "D) Quitar el olor de la habitación.",
+        "isCorrect": false,
+        "explanation": "No es un filtro de carbón activo para olores[cite: 237]."
+      },
+      {
+        "text": "E) Inyectar perfume.",
+        "isCorrect": false,
+        "explanation": "Distractor[cite: 237]."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Relación PaFi",
+    "text": "¿Qué es la \"Relación PaFi\" y por qué es útil en el seguimiento?",
+    "hint": "Permite saber si un niño con buena saturación está realmente bien o grave con mucho apoyo[cite: 243].",
+    "options": [
+      {
+        "text": "A) La relación entre padres e hijos.",
+        "isCorrect": false,
+        "explanation": "Sin sentido clínico[cite: 241]."
+      },
+      {
+        "text": "B) Un índice (PaO2 / FiO2) que permite comparar la función pulmonar independientemente del oxígeno suplementario.",
+        "isCorrect": true,
+        "explanation": "Ejemplo: Saturación 98% con FiO2 21% da PaFi 450 (Normal); misma Sat con FiO2 60% da PaFi 100 (SDRA Severo)[cite: 241, 244, 245]."
+      },
+      {
+        "text": "C) El precio de los filtros.",
+        "isCorrect": false,
+        "explanation": "Sin sentido clínico[cite: 242]."
+      },
+      {
+        "text": "D) La frecuencia respiratoria.",
+        "isCorrect": false,
+        "explanation": "No es un parámetro de frecuencia[cite: 242]."
+      },
+      {
+        "text": "E) No es un término médico.",
+        "isCorrect": false,
+        "explanation": "Falso; es el estándar para clasificar SDRA[cite: 242]."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Precaución con Heliox",
+    "text": "¿Cuál es la principal precaución al usar \"Heliox\" (mezcla de Helio y Oxígeno) en crup o asma?",
+    "hint": "El beneficio depende de que la mezcla tenga mucho Helio (60-80%)[cite: 249].",
+    "options": [
+      {
+        "text": "A) El Helio es tóxico para el cerebro.",
+        "isCorrect": false,
+        "explanation": "Falso; el Helio es un gas inerte seguro[cite: 247]."
+      },
+      {
+        "text": "B) Al mezclarse reduce la FiO2 máxima que se puede entregar (generalmente limitada a 40%).",
+        "isCorrect": true,
+        "explanation": "Solo es útil si el paciente no requiere altas concentraciones de O2; si subimos la FiO2, se pierde la ventaja de baja densidad del helio[cite: 247, 250]."
+      },
+      {
+        "text": "C) Hace que el niño flote.",
+        "isCorrect": false,
+        "explanation": "Distractor absurdo[cite: 248]."
+      },
+      {
+        "text": "D) Solo sirve para globos.",
+        "isCorrect": false,
+        "explanation": "Es una herramienta médica validada[cite: 248]."
+      },
+      {
+        "text": "E) Provoca sordera.",
+        "isCorrect": false,
+        "explanation": "Sin evidencia de tal daño[cite: 248]."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Cuidado Crítico / Urgencias Pediátricas",
+    "topic": "Objetivo Final de la Ventilación Mecánica",
+    "text": "¿Cuál es el objetivo final de la Ventilación Mecánica en pediatría?",
+    "hint": "Es una terapia de soporte, no curativa por sí misma[cite: 254].",
+    "options": [
+      {
+        "text": "A) Que el niño nunca despierte.",
+        "isCorrect": false,
+        "explanation": "Falso[cite: 251]."
+      },
+      {
+        "text": "B) Mantener un intercambio gaseoso adecuado y dar reposo a los músculos respiratorios mientras se trata la causa subyacente.",
+        "isCorrect": true,
+        "explanation": "La VM \"compra tiempo\" para que los antibióticos o la cirugía resuelvan el problema de base del paciente[cite: 252, 255]."
+      },
+      {
+        "text": "C) Reemplazar los pulmones de forma permanente.",
+        "isCorrect": false,
+        "explanation": "Falso[cite: 253]."
+      },
+      {
+        "text": "D) Hacer que el niño crezca más rápido.",
+        "isCorrect": false,
+        "explanation": "Falso[cite: 253]."
+      },
+      {
+        "text": "E) Evitar que el niño llore.",
+        "isCorrect": false,
+        "explanation": "Falso[cite: 254]."
+      }
+    ]
+  }
+]
