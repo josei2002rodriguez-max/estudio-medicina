@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Torsión Testicular",
+    "text": "Un adolescente de 13 años consulta por dolor testicular izquierdo de inicio súbito hace 3 horas, asociado a náuseas. Al examen físico destaca un testículo ascendido, horizontalizado y con ausencia del reflejo cremasteriano. No hay fiebre ni síntomas urinarios. ¿Cuál es la conducta más adecuada?",
+    "hint": "Ante una sospecha clínica alta de torsión testicular, el 'tiempo es tejido'.",
+    "options": [
+      {
+        "text": "A) Solicitar Ecografía Doppler testicular de urgencia.",
+        "isCorrect": false,
+        "explanation": "La ecografía es útil en casos dudosos, pero en un cuadro clínico clásico (horizontalización y ausencia de reflejo cremasteriano), el examen de imagen no debe retrasar la cirugía."
+      },
+      {
+        "text": "B) Iniciar tratamiento con antibióticos por sospecha de epididimitis.",
+        "isCorrect": false,
+        "explanation": "La epididimitis suele presentarse con inicio gradual, fiebre y síntomas urinarios, ausentes en este caso."
+      },
+      {
+        "text": "C) Derivación inmediata a pabellón para exploración quirúrgica.",
+        "isCorrect": true,
+        "explanation": "Es una urgencia quirúrgica. El 'periodo de oro' para rescatar la gónada es de 6 horas desde el inicio del dolor. La clínica es soberana."
+      },
+      {
+        "text": "D) Realizar maniobra de Prehn y si el dolor disminuye, observar.",
+        "isCorrect": false,
+        "explanation": "El signo de Prehn (alivio al elevar el testículo) es propio de la epididimitis, pero no es lo suficientemente confiable para descartar torsión."
+      },
+      {
+        "text": "E) Indicar reposo, hielo local y control en 24 horas.",
+        "isCorrect": false,
+        "explanation": "Error grave. Esperar 24 horas asegura la necrosis y pérdida irreversible del testículo."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Hernia Inguinal",
+    "text": "Lactante de 2 meses consulta por aumento de volumen inguinal derecho que aparece con el llanto y desaparece espontáneamente. Al examen el testículo está en el escroto. ¿Cuál es el diagnóstico y conducta?",
+    "hint": "En lactantes, el riesgo de atascamiento de una hernia es muy elevado.",
+    "options": [
+      {
+        "text": "A) Hidrocele comunicante; observar hasta el año de vida.",
+        "isCorrect": false,
+        "explanation": "El hidrocele no suele reducirse tan bruscamente con la palpación o el llanto como una hernia; la hernia es aire o asa intestinal."
+      },
+      {
+        "text": "B) Hernia inguinal; programar cirugía a la brevedad.",
+        "isCorrect": true,
+        "explanation": "La hernia inguinal en pediatría es siempre quirúrgica tras el diagnóstico debido al riesgo de atascamiento, especialmente en lactantes menores."
+      },
+      {
+        "text": "C) Hernia inguinal; esperar a que pese 10 kg para operarlo.",
+        "isCorrect": false,
+        "explanation": "No se debe esperar peso mínimo en hernias inguinales; el riesgo de incarceración supera los riesgos anestésicos modernos."
+      },
+      {
+        "text": "D) Ganglio inflamado; dar antibióticos.",
+        "isCorrect": false,
+        "explanation": "Los ganglios son fijos y no se reducen ni aumentan de tamaño con el llanto de forma intermitente."
+      },
+      {
+        "text": "E) Testículo en ascensor; realizar masajes.",
+        "isCorrect": false,
+        "explanation": "El testículo está en el escroto según el enunciado, descartando patología de descenso testicular."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Torsión de Hidátide de Morgagni",
+    "text": "Niño de 9 años consulta por dolor testicular de inicio gradual. Al examen se aprecia una mancha azulada a través de la piel del polo superior del testículo ('Blue dot sign'). El reflejo cremasteriano está presente. ¿Diagnóstico?",
+    "hint": "Es la causa más frecuente de escroto agudo en niños escolares.",
+    "options": [
+      {
+        "text": "A) Torsión testicular.",
+        "isCorrect": false,
+        "explanation": "La torsión testicular cursa con dolor súbito y ausencia de reflejo cremasteriano."
+      },
+      {
+        "text": "B) Orquitis viral.",
+        "isCorrect": false,
+        "explanation": "Se asociaría a parotiditis y edema difuso, no a un punto localizado de isquemia."
+      },
+      {
+        "text": "C) Torsión de hidátide de Morgagni.",
+        "isCorrect": true,
+        "explanation": "Es la causa más común. El signo del punto azul es patognomónico de la torsión de este remanente embrionario. El manejo suele ser conservador."
+      },
+      {
+        "text": "D) Tumor testicular hemorrágico.",
+        "isCorrect": false,
+        "explanation": "Los tumores suelen ser masas indoloras de crecimiento lento, no cuadros agudos con punto azul."
+      },
+      {
+        "text": "E) Varicocele.",
+        "isCorrect": false,
+        "explanation": "El varicocele se siente como un 'bolso de gusanos' y es generalmente asintomático y del lado izquierdo."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Hernia Inguinal Incarcerada",
+    "text": "Lactante de 4 meses con antecedente de hernia inguinal consulta por aumento de volumen inguinal derecho doloroso, tenso e irreductible de 2 horas de evolución. Presenta vómitos. ¿Conducta inicial?",
+    "hint": "Se trata de una hernia incarcerada con signos de obstrucción.",
+    "options": [
+      {
+        "text": "A) Intentar reducción manual (taxis) bajo sedación suave y analgesia.",
+        "isCorrect": true,
+        "explanation": "Si tiene menos de 4-6 horas y no hay signos de compromiso vascular (piel roja/caliente), se intenta reducción manual. Si tiene éxito, se opera en 24-48h."
+      },
+      {
+        "text": "B) Derivar a su casa con analgésicos.",
+        "isCorrect": false,
+        "explanation": "Error. La hernia atascada es una urgencia que requiere resolución intrahospitalaria por riesgo de necrosis."
+      },
+      {
+        "text": "C) Solicitar radiografía de abdomen y esperar.",
+        "isCorrect": false,
+        "explanation": "La clínica es diagnóstica; la radiografía solo confirmaría la obstrucción pero retrasaría el manejo de la hernia."
+      },
+      {
+        "text": "D) Realizar enema para soltar el asa.",
+        "isCorrect": false,
+        "explanation": "Contraindicado; no ayuda a reducir el anillo inguinal y aumenta el riesgo de perforación si hay isquemia."
+      },
+      {
+        "text": "E) Masajes con agua caliente.",
+        "isCorrect": false,
+        "explanation": "Inefectivo y puede causar quemaduras o daño por calor en un asa ya comprometida."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Hidrocele",
+    "text": "¿Cuál es la diferencia clínica fundamental entre un hidrocele comunicante y uno no comunicante en un lactante?",
+    "hint": "Piense en la variación del tamaño durante el día.",
+    "options": [
+      {
+        "text": "A) El comunicante duele y el no comunicante no.",
+        "isCorrect": false,
+        "explanation": "Ninguno de los dos suele doler a menos que haya una complicación aguda."
+      },
+      {
+        "text": "B) El comunicante varía de tamaño (aumenta en la tarde/llanto) y el no comunicante es de tamaño constante.",
+        "isCorrect": true,
+        "explanation": "El comunicante permite el paso de líquido peritoneal según la presión intraabdominal. El no comunicante es líquido atrapado que suele reabsorberse solo."
+      },
+      {
+        "text": "C) El no comunicante siempre es rojo.",
+        "isCorrect": false,
+        "explanation": "El color rojo sugiere inflamación (escroto agudo), no es propio del hidrocele simple."
+      },
+      {
+        "text": "D) El comunicante se asocia a fiebre.",
+        "isCorrect": false,
+        "explanation": "La fiebre no es característica del hidrocele."
+      },
+      {
+        "text": "E) No hay ninguna diferencia.",
+        "isCorrect": false,
+        "explanation": "La diferencia es clave para decidir si se opera (comunicante persistente) o se observa (no comunicante)."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Criptorquidia",
+    "text": "Usted evalúa a un recién nacido sano y no palpa el testículo derecho en el escroto. ¿Cuál es la conducta recomendada según la norma de control sano?",
+    "hint": "Muchos testículos descienden espontáneamente en los primeros meses.",
+    "options": [
+      {
+        "text": "A) Solicitar ecografía de inmediato.",
+        "isCorrect": false,
+        "explanation": "La ecografía no cambia la conducta inicial y tiene baja sensibilidad para localizar testículos intraabdominales."
+      },
+      {
+        "text": "B) Derivar a cirugía infantil antes de los 7 días de vida.",
+        "isCorrect": false,
+        "explanation": "No es una urgencia neonatal a menos que se asocie a ambigüedad genital."
+      },
+      {
+        "text": "C) Observar y reevaluar en cada control sano; si no ha descendido a los 6 meses, derivar al especialista.",
+        "isCorrect": true,
+        "explanation": "El descenso espontáneo es común hasta los 3-6 meses. Si persiste impalpable después de esa edad, requiere evaluación por cirujano."
+      },
+      {
+        "text": "D) Iniciar tratamiento con hormonas (hCG).",
+        "isCorrect": false,
+        "explanation": "El tratamiento hormonal tiene baja tasa de éxito y no es la primera línea recomendada en la actualidad."
+      },
+      {
+        "text": "E) Indicar que el niño nunca será fértil.",
+        "isCorrect": false,
+        "explanation": "Pronóstico apresurado e incorrecto; la orquidopexia oportuna preserva el potencial de fertilidad."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Fimosis",
+    "text": "¿A qué edad se considera que la fimosis deja de ser fisiológica y requiere evaluación por especialista si el prepucio no es retráctil?",
+    "hint": "El prepucio se separa del glande gradualmente por descamación celular.",
+    "options": [
+      {
+        "text": "A) Al nacer.",
+        "isCorrect": false,
+        "explanation": "Al nacer el 95% tiene fimosis fisiológica por adherencias balanoprepuciales normales."
+      },
+      {
+        "text": "B) A los 6 meses.",
+        "isCorrect": false,
+        "explanation": "Sigue siendo un periodo de desarrollo normal de las adherencias."
+      },
+      {
+        "text": "C) Alrededor de los 3-4 años.",
+        "isCorrect": true,
+        "explanation": "A esta edad la mayoría de los prepucios ya son retráctiles. Si persiste anillo fimótico después de los 3-4 años, se evalúa tratamiento (corticoides o cirugía)."
+      },
+      {
+        "text": "D) Solo después de la pubertad.",
+        "isCorrect": false,
+        "explanation": "Esperar tanto puede aumentar el riesgo de balanitis a repetición y parafimosis."
+      },
+      {
+        "text": "E) Nunca es patológica.",
+        "isCorrect": false,
+        "explanation": "La fimosis verdadera (anillo cicatricial) es patológica y requiere tratamiento."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Parafimosis",
+    "text": "Un niño de 5 años llega a urgencias con edema severo y dolor en el glande tras haber retraído el prepucio para higiene y no haberlo regresado a su posición. El prepucio forma un anillo constrictor. ¿Diagnóstico y manejo?",
+    "hint": "Es una urgencia obstructiva del flujo venoso y linfático.",
+    "options": [
+      {
+        "text": "A) Balanitis; dar antibióticos.",
+        "isCorrect": false,
+        "explanation": "La balanitis es una infección superficial, no un atrapamiento mecánico del glande."
+      },
+      {
+        "text": "B) Parafimosis; realizar reducción manual urgente mediante compresión del edema.",
+        "isCorrect": true,
+        "explanation": "Es una parafimosis. Se debe comprimir el edema y traccionar el prepucio hacia adelante. Si falla, requiere cirugía (incisión dorsal)."
+      },
+      {
+        "text": "C) Fimosis normal; observar.",
+        "isCorrect": false,
+        "explanation": "La parafimosis es lo opuesto a la fimosis; es el atrapamiento del prepucio retraído."
+      },
+      {
+        "text": "D) Tumor de pene.",
+        "isCorrect": false,
+        "explanation": "No se presenta de forma aguda tras una maniobra de higiene."
+      },
+      {
+        "text": "E) Picadura de insecto.",
+        "isCorrect": false,
+        "explanation": "Aunque causa edema, no explicaría el anillo constrictor prepucial."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Epididimitis Aguda",
+    "text": "Escolar de 12 años con dolor testicular gradual, fiebre de 38.5°C y disuria. Al examen hay eritema escrotal y el reflejo cremasteriano está presente. El testículo duele pero no está horizontalizado. ¿Cuál es el manejo inicial?",
+    "hint": "Cuadro infeccioso/inflamatorio con signos urinarios.",
+    "options": [
+      {
+        "text": "A) Operar de inmediato.",
+        "isCorrect": false,
+        "explanation": "No es una torsión; la presencia de reflejo cremasteriano y fiebre orientan a epididimitis."
+      },
+      {
+        "text": "B) Solicitar urocultivo, iniciar antibióticos, reposo y uso de suspensorio.",
+        "isCorrect": true,
+        "explanation": "La epididimitis en adolescentes suele ser bacteriana. El manejo incluye antibióticos, analgesia y soporte escrotal."
+      },
+      {
+        "text": "C) Realizar una biopsia.",
+        "isCorrect": false,
+        "explanation": "No está indicada en cuadros inflamatorios agudos sugerentes de infección."
+      },
+      {
+        "text": "D) Aplicar calor local.",
+        "isCorrect": false,
+        "explanation": "El frío local suele ser mejor tolerado para disminuir el edema inflamatorio agudo."
+      },
+      {
+        "text": "E) Inyectar corticoides en el testículo.",
+        "isCorrect": false,
+        "explanation": "Contraindicado; riesgo de abscesos y daño tisular."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Trauma Testicular",
+    "text": "Niño de 7 años sufre golpe directo en el escroto jugando fútbol. Presenta aumento de volumen masivo y equimosis escrotal. ¿Cuál es el examen de elección para descartar rotura de la túnica albugínea?",
+    "hint": "Permite visualizar la integridad del parénquima testicular.",
+    "options": [
+      {
+        "text": "A) Radiografía de pelvis.",
+        "isCorrect": false,
+        "explanation": "Solo vería huesos, no sirve para evaluar tejidos blandos testiculares."
+      },
+      {
+        "text": "B) Ecografía Doppler escrotal.",
+        "isCorrect": true,
+        "explanation": "Es el estándar de oro en trauma para evaluar si hay rotura testicular (fractura), hematoceles y flujo sanguíneo conservado."
+      },
+      {
+        "text": "C) Tomografía axial computarizada (TAC).",
+        "isCorrect": false,
+        "explanation": "Es excesivo y la ecografía ofrece mejor resolución para el parénquima testicular."
+      },
+      {
+        "text": "D) Resonancia magnética.",
+        "isCorrect": false,
+        "explanation": "No es el examen de primera línea en urgencias por costo y disponibilidad."
+      },
+      {
+        "text": "E) Palpación profunda bajo anestesia.",
+        "isCorrect": false,
+        "explanation": "La palpación es muy dolorosa y no es tan precisa como el Doppler para descartar fractura."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Varicocele",
+    "text": "¿Cuál es la complicación a largo plazo más importante del varicocele no tratado en adolescentes?",
+    "hint": "El aumento de temperatura afecta la función de las células germinales.",
+    "options": [
+      {
+        "text": "A) Cáncer testicular.",
+        "isCorrect": false,
+        "explanation": "No existe una relación causal probada entre varicocele y malignidad."
+      },
+      {
+        "text": "B) Hipotrofia testicular e infertilidad.",
+        "isCorrect": true,
+        "explanation": "El estasis venoso aumenta la temperatura y acumula metabolitos tóxicos, lo que puede causar daño irreversible en la espermatogénesis."
+      },
+      {
+        "text": "C) Torsión testicular.",
+        "isCorrect": false,
+        "explanation": "El varicocele no predispone mecánicamente a la torsión del cordón."
+      },
+      {
+        "text": "D) Hidrocele secundario.",
+        "isCorrect": false,
+        "explanation": "Aunque puede ocurrir tras la cirugía, no es la complicación principal de la enfermedad misma."
+      },
+      {
+        "text": "E) Hernia inguinal.",
+        "isCorrect": false,
+        "explanation": "Son patologías con mecanismos anatómicos distintos."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "MAR (Malformación Anorrectal)",
+    "text": "En un recién nacido con Malformación Anorrectal (MAR) sin fístula evidente, ¿a qué hora se recomienda realizar la radiografía de perfil con técnica de invertograma (o posición de prone)?",
+    "hint": "Se necesita tiempo para que el gas deglutido llegue al fondo de saco rectal.",
+    "options": [
+      {
+        "text": "A) Inmediatamente al nacer.",
+        "isCorrect": false,
+        "explanation": "El aire aún no ha llegado al recto, lo que daría una falsa impresión de recto muy alto."
+      },
+      {
+        "text": "B) A las 2 horas de vida.",
+        "isCorrect": false,
+        "explanation": "Sigue siendo insuficiente el tiempo de tránsito aéreo intestinal."
+      },
+      {
+        "text": "C) A las 20-24 horas de vida.",
+        "isCorrect": true,
+        "explanation": "Es el tiempo estándar para que el gas alcance el final del tracto digestivo y permita medir la distancia del fondo de saco a la piel anal."
+      },
+      {
+        "text": "D) Al tercer día.",
+        "isCorrect": false,
+        "explanation": "Es demasiado tarde; para entonces el niño ya presentaría una obstrucción intestinal severa."
+      },
+      {
+        "text": "E) No requiere radiografía.",
+        "isCorrect": false,
+        "explanation": "Es fundamental para clasificar la MAR en alta, intermedia o baja según la relación con el músculo elevador del ano."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Testículo en Ascensor",
+    "text": "¿Cuál es la característica principal de un 'testículo en ascensor' (o retráctil) a diferencia de la criptorquidia?",
+    "hint": "Piense en el reflejo cremasteriano y la posición.",
+    "options": [
+      {
+        "text": "A) Nunca llega al escroto.",
+        "isCorrect": false,
+        "explanation": "Esto describe la criptorquidia o testículo ectópico."
+      },
+      {
+        "text": "B) Puede descenderse manualmente al fondo del escroto y permanece ahí sin tensión momentáneamente tras vencer el reflejo.",
+        "isCorrect": true,
+        "explanation": "Es una variante normal por reflejo cremasteriano hiperactivo. Solo requiere observación."
+      },
+      {
+        "text": "C) Siempre requiere cirugía.",
+        "isCorrect": false,
+        "explanation": "No requiere cirugía a menos que progrese a un testículo ascendido (criptorquidia adquirida)."
+      },
+      {
+        "text": "D) Es más pequeño que el otro.",
+        "isCorrect": false,
+        "explanation": "Suele tener tamaño y consistencia normales."
+      },
+      {
+        "text": "E) Se asocia a hernia inguinal siempre.",
+        "isCorrect": false,
+        "explanation": "No tiene una asociación obligatoria con la persistencia del conducto peritoneovaginal."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "MAR y Síndrome de Down",
+    "text": "¿Qué característica clínica suele diferenciar la Malformación Anorrectal en niños con Síndrome de Down respecto a la población general?",
+    "hint": "Relación con la presencia de fístulas.",
+    "options": [
+      {
+        "text": "A) Siempre tienen fístulas urinarias.",
+        "isCorrect": false,
+        "explanation": "Al contrario, son el grupo que menos fístulas presenta."
+      },
+      {
+        "text": "B) Predomina la MAR 'sin fístula' (imperforación anal pura).",
+        "isCorrect": true,
+        "explanation": "Es una asociación clásica: los pacientes con Down y MAR suelen tener atresia rectal sin fístula."
+      },
+      {
+        "text": "C) Siempre tienen ano normal.",
+        "isCorrect": false,
+        "explanation": "Pueden tenerlo, pero si presentan MAR, esta tiene características específicas."
+      },
+      {
+        "text": "D) No pueden operarse.",
+        "isCorrect": false,
+        "explanation": "Son quirúrgicos igual que cualquier otro paciente, con excelente pronóstico funcional."
+      },
+      {
+        "text": "E) Se asocia a gastrosquisis.",
+        "isCorrect": false,
+        "explanation": "No existe una asociación sindrómica directa entre Down y gastrosquisis."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Himen Imperforado",
+    "text": "Adolescente de 13 años consulta por dolor abdominal cíclico mensual de 4 meses de evolución. No ha tenido menarquia. Al examen físico se observa una masa abombada azulada en la zona vulvar. ¿Diagnóstico?",
+    "hint": "La sangre menstrual se acumula por falta de salida.",
+    "options": [
+      {
+        "text": "A) Tumor de ovario.",
+        "isCorrect": false,
+        "explanation": "No explicaría el abombamiento vulvar azulado."
+      },
+      {
+        "text": "B) Himen imperforado con hematocolpos.",
+        "isCorrect": true,
+        "explanation": "Es la presentación clásica: dolor cíclico (menstruación retenida) y masa himeneal abombada por la sangre (azulada)."
+      },
+      {
+        "text": "C) Infección urinaria a repetición.",
+        "isCorrect": false,
+        "explanation": "Aunque puede causar disuria por compresión, el dolor cíclico y la masa son lo cardinal."
+      },
+      {
+        "text": "D) Embarazo.",
+        "isCorrect": false,
+        "explanation": "No presentaría el abombamiento himeneal azulado característico."
+      },
+      {
+        "text": "E) Quiste de Bartholino.",
+        "isCorrect": false,
+        "explanation": "Es una masa lateral en la vulva, no una membrana que obstruye el introito."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Abdomen Agudo Quirúrgico",
+    "text": "¿Cuál es la principal causa de abdomen agudo quirúrgico en el niño mayor de 2 años?",
+    "hint": "Piense en inflamación del tejido linfoide apendicular.",
+    "options": [
+      {
+        "text": "A) Invaginación intestinal.",
+        "isCorrect": false,
+        "explanation": "Es más común en lactantes de 5 a 12 meses."
+      },
+      {
+        "text": "B) Apendicitis aguda.",
+        "isCorrect": true,
+        "explanation": "Es la urgencia quirúrgica abdominal más frecuente en escolares y adolescentes."
+      },
+      {
+        "text": "C) Estenosis hipertrófica del píloro.",
+        "isCorrect": false,
+        "explanation": "Propia del lactante de 2 a 6 semanas de vida."
+      },
+      {
+        "text": "D) Divertículo de Meckel sangrante.",
+        "isCorrect": false,
+        "explanation": "Suele causar sangrado indoloro más que dolor abdominal agudo inflamatorio."
+      },
+      {
+        "text": "E) Hernia inguinal atascada.",
+        "isCorrect": false,
+        "explanation": "Aunque es frecuente, la apendicitis la supera en incidencia en este rango de edad."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Invaginación Intestinal",
+    "text": "Lactante de 8 meses con episodios de llanto inconsolable intermitente, seguidos de letargia. Presenta deposiciones con aspecto de 'jalea de grosella'. ¿Diagnóstico?",
+    "hint": "Es la causa más frecuente de obstrucción intestinal en esta edad.",
+    "options": [
+      {
+        "text": "A) Gastroenteritis aguda viral.",
+        "isCorrect": false,
+        "explanation": "Cursa con diarrea líquida y vómitos, no con episodios de letargia y sangre 'en jalea'."
+      },
+      {
+        "text": "B) Invaginación intestinal.",
+        "isCorrect": true,
+        "explanation": "La tríada de dolor cólico, masa palpable y heces en jalea de grosella es clásica de la intusucepción."
+      },
+      {
+        "text": "C) Alergia a la proteína de leche de vaca.",
+        "isCorrect": false,
+        "explanation": "Causa rectorragia pero no obstrucción intestinal aguda ni letargia súbita."
+      },
+      {
+        "text": "D) Estreñimiento funcional.",
+        "isCorrect": false,
+        "explanation": "No causa el cuadro de dolor paroxístico ni el tipo de sangrado descrito."
+      },
+      {
+        "text": "E) Vólvulo intestinal.",
+        "isCorrect": false,
+        "explanation": "Cuadro de inicio mucho más catastrófico y súbito, generalmente con shock."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Estenosis Hipertrófica del Píloro",
+    "text": "Lactante de 3 semanas con vómitos explosivos postprandiales, no biliosos. Se ve hambriento tras vomitar. Al examen destaca deshidratación y una masa pequeña en el epigastrio (oliva pilórica). ¿Qué alteración ácido-base espera encontrar?",
+    "hint": "El niño pierde ácido clorhídrico en el vómito.",
+    "options": [
+      {
+        "text": "A) Acidosis metabólica.",
+        "isCorrect": false,
+        "explanation": "Ocurriría en deshidrataciones por diarrea, no por vómitos gástricos puros."
+      },
+      {
+        "text": "B) Alcalosis metabólica hipoclorémica e hipokalémica.",
+        "isCorrect": true,
+        "explanation": "La pérdida de H+ y Cl- gástrico genera alcalosis; el riñón intenta compensar excretando K+ (aciduria paradójica)."
+      },
+      {
+        "text": "C) Acidosis respiratoria.",
+        "isCorrect": false,
+        "explanation": "No hay un compromiso primario de la ventilación pulmonar."
+      },
+      {
+        "text": "D) Normalidad absoluta.",
+        "isCorrect": false,
+        "explanation": "Los vómitos repetidos siempre alteran el medio interno."
+      },
+      {
+        "text": "E) Alcalosis respiratoria.",
+        "isCorrect": false,
+        "explanation": "No hay hiperventilación compensatoria primaria en este cuadro."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "MAR y VACTERL",
+    "text": "En un niño con Malformación Anorrectal, ¿qué otras malformaciones debe buscar activamente debido a la asociación VACTERL?",
+    "hint": "VACTERL es un acrónimo de malformaciones asociadas.",
+    "options": [
+      {
+        "text": "A) Solo problemas de la vista.",
+        "isCorrect": false,
+        "explanation": "No forman parte del espectro VACTERL principal."
+      },
+      {
+        "text": "B) Malformaciones Vertebrales, Cardíacas, Traqueoesofágicas, Renales y de Extremidades (Limbs).",
+        "isCorrect": true,
+        "explanation": "Hasta el 50% de los niños con MAR tienen otras anomalías; el estudio con Eco renal y de columna es obligatorio."
+      },
+      {
+        "text": "C) Diabetes y sordera.",
+        "isCorrect": false,
+        "explanation": "No son asociaciones típicas de las MAR."
+      },
+      {
+        "text": "D) Solo hernias inguinales.",
+        "isCorrect": false,
+        "explanation": "Aunque pueden coexistir, no definen la asociación sindrómica de riesgo."
+      },
+      {
+        "text": "E) Problemas de piel únicamente.",
+        "isCorrect": false,
+        "explanation": "Las malformaciones de VACTERL afectan órganos internos y esqueleto."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Gastrosquisis vs Onfalocele",
+    "text": "¿Cuál es la principal diferencia anatómica entre Onfalocele y Gastrosquisis?",
+    "hint": "La presencia o ausencia de membrana cobertora.",
+    "options": [
+      {
+        "text": "A) La gastrosquisis tiene membrana y el onfalocele no.",
+        "isCorrect": false,
+        "explanation": "Es exactamente al revés."
+      },
+      {
+        "text": "B) El onfalocele está cubierto por peritoneo/amnios y el cordón inserta en él; la gastrosquisis es un defecto lateral al cordón con asas libres.",
+        "isCorrect": true,
+        "explanation": "El onfalocele es un defecto de la línea media cubierto; la gastrosquisis es una evisceración paraumbilical derecha sin saco."
+      },
+      {
+        "text": "C) El onfalocele es siempre más pequeño.",
+        "isCorrect": false,
+        "explanation": "El tamaño no es el criterio diferenciador anatómico."
+      },
+      {
+        "text": "D) La gastrosquisis se asocia a más síndromes genéticos.",
+        "isCorrect": false,
+        "explanation": "Al contrario, el onfalocele se asocia con frecuencia a trisomías y síndromes (ej. Beckwith-Wiedemann)."
+      },
+      {
+        "text": "E) No hay diferencia, ambos se manejan igual.",
+        "isCorrect": false,
+        "explanation": "Sus implicancias quirúrgicas y de malformaciones asociadas son muy distintas."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Balano-postitis",
+    "text": "Niño de 4 años consulta por dolor en el pene, eritema y salida de secreción purulenta por el orificio prepucial. Se observa edema importante. ¿Conducta?",
+    "hint": "Infección local del prepucio y glande.",
+    "options": [
+      {
+        "text": "A) Circuncisión de urgencia.",
+        "isCorrect": false,
+        "explanation": "No se opera en fase aguda infectada."
+      },
+      {
+        "text": "B) Baños de asiento, aseo suave y antibióticos tópicos/orales.",
+        "isCorrect": true,
+        "explanation": "Manejo médico de la balanopostitis. Solo tras resolver el cuadro se evalúa si requiere cirugía por fimosis patológica."
+      },
+      {
+        "text": "C) Retraer el prepucio a la fuerza para limpiar.",
+        "isCorrect": false,
+        "explanation": "Contraindicado; causa dolor extremo, sangrado y riesgo de parafimosis."
+      },
+      {
+        "text": "D) Aplicar alcohol puro.",
+        "isCorrect": false,
+        "explanation": "Causaría quemaduras químicas y dolor intenso en la mucosa."
+      },
+      {
+        "text": "E) No hacer nada, se cura solo.",
+        "isCorrect": false,
+        "explanation": "Requiere tratamiento para evitar progresión a celulitis o cicatrices fimóticas."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Hernia Umbilical",
+    "text": "¿A qué edad se recomienda operar una hernia umbilical que no ha cerrado espontáneamente?",
+    "hint": "La mayoría cierra sola con el fortalecimiento de la musculatura abdominal.",
+    "options": [
+      {
+        "text": "A) A los 6 meses.",
+        "isCorrect": false,
+        "explanation": "Demasiado pronto; la mayoría cierra espontáneamente después de esta edad."
+      },
+      {
+        "text": "B) Al año de vida.",
+        "isCorrect": false,
+        "explanation": "Aún hay altas probabilidades de cierre espontáneo."
+      },
+      {
+        "text": "C) Alrededor de los 3 a 4 años.",
+        "isCorrect": true,
+        "explanation": "Se espera hasta esta edad porque el cierre espontáneo es la norma. Si persiste tras los 4 años, se opera."
+      },
+      {
+        "text": "D) Solo si mide más de 10 cm.",
+        "isCorrect": false,
+        "explanation": "El tamaño influye, pero la edad es el factor de corte temporal estándar."
+      },
+      {
+        "text": "E) Nunca se opera.",
+        "isCorrect": false,
+        "explanation": "Si persiste en la etapa escolar o causa síntomas, se debe reparar."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Escroto Agudo",
+    "text": "Un niño de 5 años presenta dolor testicular izquierdo leve. Al examen físico se palpa un nódulo doloroso en el polo superior del testículo, el resto de la gónada es normal y el reflejo cremasteriano está presente. ¿Qué sugiere el diagnóstico?",
+    "hint": "Localización muy específica del dolor.",
+    "options": [
+      {
+        "text": "A) Torsión testicular.",
+        "isCorrect": false,
+        "explanation": "Afectaría a todo el testículo y el dolor sería mucho más severo y súbito."
+      },
+      {
+        "text": "B) Torsión de hidátide.",
+        "isCorrect": true,
+        "explanation": "La palpación de un nódulo doloroso localizado en el polo superior es típica de la hidátide de Morgagni torcida."
+      },
+      {
+        "text": "C) Tumor de Wilms.",
+        "isCorrect": false,
+        "explanation": "Es un tumor renal, no testicular."
+      },
+      {
+        "text": "D) Epididimitis bacteriana.",
+        "isCorrect": false,
+        "explanation": "El dolor sería posterior (en el epidídimo) y se acompañaría de síntomas inflamatorios más difusos."
+      },
+      {
+        "text": "E) Hernia inguinal.",
+        "isCorrect": false,
+        "explanation": "Se presentaría como un aumento de volumen inguinal o inguinoescrotal, no como un nódulo polar superior."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Quiste de Cordón",
+    "text": "¿Qué es un 'quiste de cordón'?",
+    "hint": "Es una variante del hidrocele.",
+    "options": [
+      {
+        "text": "A) Un tumor maligno.",
+        "isCorrect": false,
+        "explanation": "Es una lesión benigna quística."
+      },
+      {
+        "text": "B) Una colección de líquido atrapado en una porción obliterada del conducto peritoneovaginal, por encima del testículo.",
+        "isCorrect": true,
+        "explanation": "Es un hidrocele enquistado del cordón; se siente como una masa firme, móvil e indolora en el trayecto inguinal."
+      },
+      {
+        "text": "C) Una hernia que contiene solo aire.",
+        "isCorrect": false,
+        "explanation": "El contenido es líquido seroso, no aire."
+      },
+      {
+        "text": "D) Un testículo supernumerario.",
+        "isCorrect": false,
+        "explanation": "No es tejido testicular."
+      },
+      {
+        "text": "E) Una infección del cordón umbilical.",
+        "isCorrect": false,
+        "explanation": "Se localiza en la región inguinal, no en el ombligo."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Fimosis y Balanitis",
+    "text": "¿Cuál es la principal indicación médica absoluta para realizar una circuncisión en un niño?",
+    "hint": "Aparición de cicatrices en el anillo prepucial.",
+    "options": [
+      {
+        "text": "A) Por estética.",
+        "isCorrect": false,
+        "explanation": "No es una indicación médica absoluta, sino una elección personal o cultural."
+      },
+      {
+        "text": "B) Balanitis xerótica obliterante (liquen escleroso) o fimosis secundaria a cicatrices persistentes.",
+        "isCorrect": true,
+        "explanation": "Estas condiciones causan un anillo fibroso que no responde a corticoides y requiere resección quirúrgica."
+      },
+      {
+        "text": "C) Porque el niño tiene 1 año.",
+        "isCorrect": false,
+        "explanation": "A esa edad la fimosis suele ser fisiológica."
+      },
+      {
+        "text": "D) Para que orine más lejos.",
+        "isCorrect": false,
+        "explanation": "No tiene impacto en la potencia del chorro urinario si no hay obstrucción previa."
+      },
+      {
+        "text": "E) Por deseo del pediatra.",
+        "isCorrect": false,
+        "explanation": "Debe basarse en criterios clínicos claros de patología prepucial."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Orquidopexia",
+    "text": "¿A qué edad se recomienda realizar la cirugía de descenso testicular (orquidopexia) en un niño con criptorquidia?",
+    "hint": "Buscamos minimizar el daño por calor a las células germinales.",
+    "options": [
+      {
+        "text": "A) A los 18 años.",
+        "isCorrect": false,
+        "explanation": "Demasiado tarde; el testículo ya habrá sufrido daño irreversible y tendrá alto riesgo de cáncer."
+      },
+      {
+        "text": "B) Entre los 6 y 18 meses de vida.",
+        "isCorrect": true,
+        "explanation": "Es el periodo ideal para prevenir el daño histológico y disminuir el riesgo de malignidad futuro."
+      },
+      {
+        "text": "C) A los 5 años.",
+        "isCorrect": false,
+        "explanation": "El daño celular comienza mucho antes de esta edad."
+      },
+      {
+        "text": "D) Al nacer.",
+        "isCorrect": false,
+        "explanation": "Se debe esperar la posibilidad de descenso espontáneo en los primeros meses."
+      },
+      {
+        "text": "E) Solo si duele.",
+        "isCorrect": false,
+        "explanation": "La criptorquidia es indolora; se opera para preservar función y prevenir cáncer."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Persistencia del Conducto Peritoneovaginal",
+    "text": "¿Qué patologías pediátricas comparten el mismo origen embriológico (la falta de cierre del conducto peritoneovaginal)?",
+    "hint": "Líquido o asas que pasan por el mismo camino.",
+    "options": [
+      {
+        "text": "A) Hernia inguinal, hidrocele y quiste de cordón.",
+        "isCorrect": true,
+        "explanation": "Todas son manifestaciones de la persistencia de este conducto, variando solo el tamaño del orificio y el contenido (líquido vs asas)."
+      },
+      {
+        "text": "B) Criptorquidia y varicocele.",
+        "isCorrect": false,
+        "explanation": "Tienen orígenes anatómicos y vasculares diferentes."
+      },
+      {
+        "text": "C) Fimosis y balanitis.",
+        "isCorrect": false,
+        "explanation": "Patologías del prepucio, sin relación con el conducto peritoneovaginal."
+      },
+      {
+        "text": "D) Torsión testicular e hidátide.",
+        "isCorrect": false,
+        "explanation": "Son eventos mecánicos/vasculares de estructuras ya formadas."
+      },
+      {
+        "text": "E) Solo la hernia inguinal.",
+        "isCorrect": false,
+        "explanation": "El hidrocele y el quiste de cordón también dependen de la misma estructura embrionaria."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Hipospadias",
+    "text": "Usted recibe a un recién nacido con el meato urinario ubicado en la cara ventral del pene. ¿Cuál es el consejo más importante para los padres en este momento?",
+    "hint": "Se necesita el tejido prepucial para la reparación futura.",
+    "options": [
+      {
+        "text": "A) Debe operarse hoy mismo.",
+        "isCorrect": false,
+        "explanation": "La cirugía suele programarse entre los 6-12 meses."
+      },
+      {
+        "text": "B) No se debe realizar la circuncisión neonatal, ya que el prepucio será necesario para la reconstrucción quirúrgica.",
+        "isCorrect": true,
+        "explanation": "El prepucio se utiliza como injerto o colgajo para reconstruir la uretra faltante en la hipospadia."
+      },
+      {
+        "text": "C) El niño no podrá tener hijos.",
+        "isCorrect": false,
+        "explanation": "Con una reparación exitosa, la función sexual y reproductiva suele ser normal."
+      },
+      {
+        "text": "D) Es un signo de insuficiencia renal.",
+        "isCorrect": false,
+        "explanation": "Es una malformación anatómica genital, no renal (aunque requiere estudio por asociación)."
+      },
+      {
+        "text": "E) Requiere antibióticos de por vida.",
+        "isCorrect": false,
+        "explanation": "No es una patología infecciosa crónica."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Reflejo Cremasteriano",
+    "text": "¿En qué situación clínica es más probable encontrar el reflejo cremasteriano AUSENTE?",
+    "hint": "Indica compromiso severo de la irrigación o inervación testicular.",
+    "options": [
+      {
+        "text": "A) Hidrocele.",
+        "isCorrect": false,
+        "explanation": "El reflejo se mantiene presente ya que no hay compromiso vascular del cordón."
+      },
+      {
+        "text": "B) Torsión testicular.",
+        "isCorrect": true,
+        "explanation": "La ausencia del reflejo cremasteriano es uno de los signos clínicos más sensibles para sospechar torsión testicular."
+      },
+      {
+        "text": "C) Torsión de hidátide.",
+        "isCorrect": false,
+        "explanation": "El reflejo suele estar presente porque el testículo y su cordón no están torcidos."
+      },
+      {
+        "text": "D) Orquitis.",
+        "isCorrect": false,
+        "explanation": "En procesos inflamatorios el reflejo puede estar incluso exaltado por el dolor."
+      },
+      {
+        "text": "E) Hernia reducible.",
+        "isCorrect": false,
+        "explanation": "No afecta la integridad del reflejo neurológico-vascular del testículo."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Encopresis y MAR",
+    "text": "Un niño de 6 años operado de Malformación Anorrectal al nacer presenta estreñimiento severo y manchado de ropa interior. ¿Cómo se denomina este manchado en el contexto de un paciente con MAR?",
+    "hint": "Pérdida involuntaria de heces.",
+    "options": [
+      {
+        "text": "A) Diarrea infecciosa.",
+        "isCorrect": false,
+        "explanation": "No es un cuadro infeccioso agudo."
+      },
+      {
+        "text": "B) Seudoincontinencia por rebosamiento (encopresis).",
+        "isCorrect": true,
+        "explanation": "El estreñimiento crónico causa acumulación de heces y salida de líquido por rebosamiento. Requiere manejo agresivo de la constipación."
+      },
+      {
+        "text": "C) Alergia al pañal.",
+        "isCorrect": false,
+        "explanation": "Causaría dermatitis, no manchado fecal por rebosamiento."
+      },
+      {
+        "text": "D) Mal resultado quirúrgico irreversible.",
+        "isCorrect": false,
+        "explanation": "Muchas veces es un problema de manejo médico del tránsito, no solo de la anatomía."
+      },
+      {
+        "text": "E) Incontinencia urinaria.",
+        "isCorrect": false,
+        "explanation": "El manchado es fecal, no de orina."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Fimosis Fisiológica",
+    "text": "¿Cuál es la recomendación actual respecto a los 'ejercicios' o retracciones forzadas del prepucio en lactantes?",
+    "hint": "Piense en el riesgo de traumatismo y cicatrices.",
+    "options": [
+      {
+        "text": "A) Hacerlos todos los días desde el nacimiento.",
+        "isCorrect": false,
+        "explanation": "Aumenta el riesgo de desgarros, sangrado y fimosis cicatricial."
+      },
+      {
+        "text": "B) Están contraindicados; el aseo debe ser solo externo o retrayendo suavemente hasta donde el prepucio lo permita sin dolor.",
+        "isCorrect": true,
+        "explanation": "Las retracciones forzadas causan micro-traumatismos que al cicatrizar generan fimosis verdadera (patológica)."
+      },
+      {
+        "text": "C) Solo hacerlos si el niño llora.",
+        "isCorrect": false,
+        "explanation": "Si llora es porque hay dolor o daño; nunca deben ser forzados."
+      },
+      {
+        "text": "D) Usar una pinza para abrirlo.",
+        "isCorrect": false,
+        "explanation": "Maniobra traumática y peligrosa fuera de un entorno quirúrgico."
+      },
+      {
+        "text": "E) El médico debe hacerlo bruscamente en el primer control.",
+        "isCorrect": false,
+        "explanation": "Mala praxis que predispone a parafimosis y cicatrices fibrosas."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Escroto Agudo",
+    "text": "¿Cuál es el grupo de edad donde la Torsión Testicular presenta su mayor pico de incidencia?",
+    "hint": "Hay un pico neonatal y otro mayor en la madurez sexual.",
+    "options": [
+      {
+        "text": "A) Recién nacidos y adolescentes (pubertad).",
+        "isCorrect": true,
+        "explanation": "Son los dos periodos de mayor riesgo debido a cambios anatómicos y aumento de volumen testicular."
+      },
+      {
+        "text": "B) Solo a los 5 años.",
+        "isCorrect": false,
+        "explanation": "A esta edad es más frecuente la torsión de hidátide."
+      },
+      {
+        "text": "C) Adultos mayores de 60 años.",
+        "isCorrect": false,
+        "explanation": "Es una patología predominantemente de jóvenes."
+      },
+      {
+        "text": "D) Lactantes de 10 meses.",
+        "isCorrect": false,
+        "explanation": "Poco común fuera de los picos mencionados."
+      },
+      {
+        "text": "E) Es igual a cualquier edad.",
+        "isCorrect": false,
+        "explanation": "La incidencia varía marcadamente con el desarrollo puberal."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Orquitis Urleana",
+    "text": "Adolescente con inflamación testicular bilateral, dolor y fiebre. Tiene antecedentes de parotiditis (paperas) hace 1 semana. ¿Qué riesgo futuro le preocupa más?",
+    "hint": "El virus de la parotiditis ataca el epitelio germinal.",
+    "options": [
+      {
+        "text": "A) Diabetes.",
+        "isCorrect": false,
+        "explanation": "No hay relación directa entre orquitis urleana y diabetes."
+      },
+      {
+        "text": "B) Atrofia testicular e infertilidad.",
+        "isCorrect": true,
+        "explanation": "La orquitis por parotiditis en adolescentes/adultos puede causar atrofia en el 30-50% de los casos afectados."
+      },
+      {
+        "text": "C) Hernia inguinal.",
+        "isCorrect": false,
+        "explanation": "No es una complicación de infecciones virales testiculares."
+      },
+      {
+        "text": "D) Sordera.",
+        "isCorrect": false,
+        "explanation": "Aunque la parotiditis causa sordera, no es una consecuencia de la orquitis propiamente tal."
+      },
+      {
+        "text": "E) Calvicie.",
+        "isCorrect": false,
+        "explanation": "Sin ninguna relación clínica."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Hidrocele Simple",
+    "text": "¿Cuál es la conducta habitual ante un hidrocele no comunicante (quiste de agua en el escroto) en un lactante de 6 meses?",
+    "hint": "La mayoría se reabsorbe espontáneamente.",
+    "options": [
+      {
+        "text": "A) Operar mañana.",
+        "isCorrect": false,
+        "explanation": "No es urgente y suele ser innecesario a esta edad."
+      },
+      {
+        "text": "B) Observar hasta el año o 18 meses de vida.",
+        "isCorrect": true,
+        "explanation": "La mayoría desaparece por reabsorción del líquido. Si persiste tras el año o aumenta mucho, se evalúa cirugía."
+      },
+      {
+        "text": "C) Pincharlo con una aguja para vaciarlo.",
+        "isCorrect": false,
+        "explanation": "Contraindicado; riesgo de infección y el líquido volverá a aparecer si no se trata el saco."
+      },
+      {
+        "text": "D) Dar antibióticos.",
+        "isCorrect": false,
+        "explanation": "No es un proceso infeccioso."
+      },
+      {
+        "text": "E) Ponerle pañales muy apretados.",
+        "isCorrect": false,
+        "explanation": "No ayuda a la reabsorción y puede ser incómodo para el lactante."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Anatomía Herniaria",
+    "text": "¿Cuál es el tipo de hernia inguinal más frecuente en pediatría?",
+    "hint": "Piense en el mecanismo del conducto peritoneovaginal.",
+    "options": [
+      {
+        "text": "A) Hernia directa.",
+        "isCorrect": false,
+        "explanation": "Son raras en niños; se deben a debilidad de la pared abdominal (adultos)."
+      },
+      {
+        "text": "B) Hernia indirecta.",
+        "isCorrect": true,
+        "explanation": "Casi el 100% de las hernias pediátricas son indirectas, debidas a la persistencia del conducto peritoneovaginal."
+      },
+      {
+        "text": "C) Hernia femoral.",
+        "isCorrect": false,
+        "explanation": "Es muy infrecuente en pediatría."
+      },
+      {
+        "text": "D) Hernia de Spiegel.",
+        "isCorrect": false,
+        "explanation": "Localización abdominal lateral muy rara en niños."
+      },
+      {
+        "text": "E) Hernia umbilical.",
+        "isCorrect": false,
+        "explanation": "Es frecuente, pero no es una hernia 'inguinal'."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "MAR y Pronóstico",
+    "text": "¿Qué factor determina mejor el pronóstico de continencia fecal futura en un niño con MAR?",
+    "hint": "Calidad de los músculos y el sacro.",
+    "options": [
+      {
+        "text": "A) El color de la piel.",
+        "isCorrect": false,
+        "explanation": "Sin relevancia para la función esfinteriana."
+      },
+      {
+        "text": "B) La altura del recto (alta vs baja) y la integridad del sacro y musculatura esfinteriana.",
+        "isCorrect": true,
+        "explanation": "Las MAR bajas tienen excelente pronóstico; las altas con sacro displásico tienen mayor riesgo de incontinencia."
+      },
+      {
+        "text": "C) Si el niño llora mucho.",
+        "isCorrect": false,
+        "explanation": "No influye en la anatomía neuromuscular de la continencia."
+      },
+      {
+        "text": "D) La marca de los pañales.",
+        "isCorrect": false,
+        "explanation": "Innecesario mencionar."
+      },
+      {
+        "text": "E) El peso al nacer únicamente.",
+        "isCorrect": false,
+        "explanation": "Es un factor de riesgo anestésico pero no define la continencia per se."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Trauma Escrotal",
+    "text": "¿Cuál es el valor del 'Doppler' en el trauma escrotal agudo?",
+    "hint": "Ayuda a decidir si el manejo es conservador o quirúrgico.",
+    "options": [
+      {
+        "text": "A) No sirve para nada.",
+        "isCorrect": false,
+        "explanation": "Es fundamental en el enfrentamiento inicial."
+      },
+      {
+        "text": "B) Permite evaluar la perfusión testicular y detectar fracturas de la albugínea o hematomas intratesticulares.",
+        "isCorrect": true,
+        "explanation": "Es el examen de elección; una fractura testicular demostrada por Doppler requiere cirugía de urgencia."
+      },
+      {
+        "text": "C) Solo sirve si el niño tiene fiebre.",
+        "isCorrect": false,
+        "explanation": "Se usa tras el trauma, haya o no fiebre."
+      },
+      {
+        "text": "D) Es mejor la radiografía.",
+        "isCorrect": false,
+        "explanation": "La radiografía no evalúa el parénquima ni el flujo sanguíneo."
+      },
+      {
+        "text": "E) Lo hace el cirujano con los ojos cerrados.",
+        "isCorrect": false,
+        "explanation": "Requiere equipamiento técnico de ultrasonido."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Divertículo de Nuck",
+    "text": "¿Qué es el 'Divertículo de Nuck'?",
+    "hint": "Piense en la anatomía inguinal femenina.",
+    "options": [
+      {
+        "text": "A) Un tipo de hernia en el anciano.",
+        "isCorrect": false,
+        "explanation": "Término no relacionado."
+      },
+      {
+        "text": "B) El equivalente de la persistencia del conducto peritoneovaginal en la mujer.",
+        "isCorrect": true,
+        "explanation": "Es el remanente del proceso vaginal que sigue al ligamento redondo; puede causar quistes inguinales o hernias en niñas."
+      },
+      {
+        "text": "C) Una parte del cerebro.",
+        "isCorrect": false,
+        "explanation": "Estructura inguinal, no neurológica."
+      },
+      {
+        "text": "D) Un hueso del pie.",
+        "isCorrect": false,
+        "explanation": "Sin relación."
+      },
+      {
+        "text": "E) Una marca de ropa.",
+        "isCorrect": false,
+        "explanation": "Distractor irrelevante."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Epididimitis Química",
+    "text": "Un adolescente presenta dolor testicular tras un esfuerzo físico intenso (levantar pesas). El testículo está normal en posición pero duele a la palpación del borde posterior. Se observa leve eritema. ¿Conducta?",
+    "hint": "El esfuerzo puede gatillar reflujo de orina.",
+    "options": [
+      {
+        "text": "A) Cirugía inmediata siempre.",
+        "isCorrect": false,
+        "explanation": "Si el reflejo cremasteriano está presente y la clínica es de epididimitis, no se opera inicialmente."
+      },
+      {
+        "text": "B) Reposo, suspensorio y antibióticos si se sospecha causa bacteriana o epididimitis química.",
+        "isCorrect": true,
+        "explanation": "El esfuerzo puede causar reflujo de orina estéril hacia el epidídimo, causando una inflamación química o gatillando una infección."
+      },
+      {
+        "text": "C) Ponerle un yeso.",
+        "isCorrect": false,
+        "explanation": "No tiene sentido en patología escrotal."
+      },
+      {
+        "text": "D) No hacer nada.",
+        "isCorrect": false,
+        "explanation": "Requiere analgesia y reposo para resolver la inflamación."
+      },
+      {
+        "text": "E) Darle laxantes.",
+        "isCorrect": false,
+        "explanation": "No mejora el cuadro testicular."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Cirugía Infantil",
+    "topic": "Hernia Inguinal",
+    "text": "¿Por qué se debe operar una hernia inguinal incluso si no duele y es reducible?",
+    "hint": "Riesgo de complicaciones súbitas.",
+    "options": [
+      {
+        "text": "A) Porque el médico quiere practicar.",
+        "isCorrect": false,
+        "explanation": "La indicación es estrictamente médica y preventiva."
+      },
+      {
+        "text": "B) Porque el riesgo de atascamiento y necrosis intestinal o gonadal es permanente mientras el conducto esté abierto.",
+        "isCorrect": true,
+        "explanation": "En pediatría, la hernia no se cura sola y el riesgo de una urgencia por atascamiento justifica la cirugía programada precoz."
+      },
+      {
+        "text": "C) Porque se ve fea.",
+        "isCorrect": false,
+        "explanation": "El motivo es funcional y de seguridad, no estético."
+      },
+      {
+        "text": "D) Por obligación legal.",
+        "isCorrect": false,
+        "explanation": "Es una recomendación clínica basada en evidencia de riesgo/beneficio."
+      },
+      {
+        "text": "E) Para que no crezca el testículo.",
+        "isCorrect": false,
+        "explanation": "La cirugía busca proteger el testículo de la compresión por el asa herniada."
+      }
+    ]
+  }
+]
