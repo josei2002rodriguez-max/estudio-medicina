@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Diagnóstico de Diabetes Mellitus",
+    "text": "Un escolar de 9 años presenta poliuria, polidipsia y baja de peso de 3 kg en el último mes. Se realiza una glicemia capilar al azar que resulta en 240 mg/dL. ¿Cuál es la conducta más adecuada para confirmar el diagnóstico de Diabetes Mellitus?",
+    "hint": "Revise los criterios diagnósticos de la ADA/MINSAL ante la presencia de síntomas cardinales[cite: 301].",
+    "options": [
+      {
+        "text": "A) Solicitar una Prueba de Tolerancia a la Glucosa Oral (PTGO).",
+        "isCorrect": false,
+        "explanation": "La PTGO se reserva para casos de dudas diagnósticas o glicemias en rango de prediabetes (140-199 mg/dL post-carga)[cite: 303, 304]."
+      },
+      {
+        "text": "B) Repetir la glicemia en ayunas mañana.",
+        "isCorrect": false,
+        "explanation": "Solo se requiere repetir el examen para confirmación en pacientes asintomáticos; con síntomas clásicos, un solo valor alterado basta[cite: 306, 307]."
+      },
+      {
+        "text": "C) El diagnóstico ya está hecho por la presencia de síntomas clásicos y glicemia al azar ≥ 200 mg/dL.",
+        "isCorrect": true,
+        "explanation": "Correcto. La tríada de síntomas cardinales (poliuria, polidipsia, pérdida de peso) más una glicemia al azar ≥ 200 mg/dL es un criterio diagnóstico definitivo[cite: 300, 301]."
+      },
+      {
+        "text": "D) Solicitar niveles de péptido C.",
+        "isCorrect": false,
+        "explanation": "El péptido C ayuda a diferenciar tipos de DM o evaluar reserva insulínica, pero no es un criterio diagnóstico inicial[cite: 308]."
+      },
+      {
+        "text": "E) Realizar una Hemoglobina Glicosilada (HbA1c).",
+        "isCorrect": false,
+        "explanation": "Aunque se usa en adultos, en pediatría (debut agudo de DM1) la HbA1c puede ser normal inicialmente y no es el estándar preferido para el diagnóstico de entrada[cite: 309]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Severidad de la Cetoacidosis Diabética (CAD)",
+    "text": "Un niño de 7 años ingresa con compromiso del estado general, deshidratación severa y respiración de Kussmaul. Exámenes: Glicemia 450 mg/dL, pH 7.05, Bicarbonato 8 mEq/L y cetonuria positiva. ¿Cómo clasifica la severidad de esta CAD?",
+    "hint": "El punto de corte para la severidad lo define el pH y el nivel de bicarbonato[cite: 322].",
+    "options": [
+      {
+        "text": "A) CAD Leve.",
+        "isCorrect": false,
+        "explanation": "La CAD leve se define por un pH entre 7.2 - 7.3 y bicarbonato entre 10 - 15 mEq/L[cite: 330, 332, 333]."
+      },
+      {
+        "text": "B) CAD Moderada.",
+        "isCorrect": false,
+        "explanation": "Se define por un pH entre 7.1 - 7.2 y bicarbonato entre 5 - 10 mEq/L[cite: 335, 336, 338]."
+      },
+      {
+        "text": "C) CAD Severa.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se clasifica como severa cuando el pH es < 7.1 o el bicarbonato es < 5 mEq/L (o < 10 en algunas guías); un pH de 7.05 indica máxima gravedad[cite: 324, 325, 327, 328]."
+      },
+      {
+        "text": "D) Estado Hiperosmolar no cetósico.",
+        "isCorrect": false,
+        "explanation": "Requeriría glicemias > 600 mg/dL, osmolaridad elevada y ausencia de acidosis significativa/cetosis[cite: 340, 341]."
+      },
+      {
+        "text": "E) Acidosis láctica simple.",
+        "isCorrect": false,
+        "explanation": "La glicemia de 450 mg/dL y la cetonuria confirman el origen diabético sobre otras causas de acidosis[cite: 342]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Manejo Inicial de la CAD",
+    "text": "¿Cuál es la primera prioridad en el manejo terapéutico de un paciente pediátrico en CAD con signos de shock o deshidratación severa?",
+    "hint": "El ABC de la reanimación exige restaurar la volemia antes de corregir el metabolismo[cite: 355].",
+    "options": [
+      {
+        "text": "A) Iniciar infusión de insulina a 0.1 UI/kg/h.",
+        "isCorrect": false,
+        "explanation": "La insulina no debe iniciarse simultáneamente con la expansión de volumen por riesgo de edema cerebral[cite: 359, 360]."
+      },
+      {
+        "text": "B) Expansión de volumen con Suero Fisiológico (NaCl 0.9%) a 10-20 ml/kg.",
+        "isCorrect": true,
+        "explanation": "Correcto. La prioridad es restaurar la perfusión tisular y la hemodinamia para mejorar el filtrado glomerular antes de iniciar fármacos[cite: 356, 357]."
+      },
+      {
+        "text": "C) Administrar Bicarbonato de Sodio para corregir el pH.",
+        "isCorrect": false,
+        "explanation": "El bicarbonato está contraindicado de rutina por riesgo de edema cerebral y acidosis paradójica del SNC[cite: 361]."
+      },
+      {
+        "text": "D) Inyectar un bolo de insulina rápida de 0.1 UI/kg EV.",
+        "isCorrect": false,
+        "explanation": "Los bolos de insulina están prohibidos en pediatría; aumentan el riesgo de hipokalemia severa y edema cerebral[cite: 364, 365]."
+      },
+      {
+        "text": "E) Administrar Potasio endovenoso de inmediato.",
+        "isCorrect": false,
+        "explanation": "Solo se administra tras comprobar diuresis y asegurar que los niveles plasmáticos no son elevados[cite: 366]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Inicio de la Insulina en CAD",
+    "text": "¿En qué momento se recomienda iniciar la bomba de infusión de insulina (BIC) según protocolos ISPAD?",
+    "hint": "Se busca estabilizar primero el compartimento intravascular[cite: 377].",
+    "options": [
+      {
+        "text": "A) Inmediatamente al llegar a urgencias.",
+        "isCorrect": false,
+        "explanation": "Error; aumenta el riesgo de colapso vascular y cambios osmóticos bruscos[cite: 382]."
+      },
+      {
+        "text": "B) 1-2 horas después de haber iniciado la reposición de volumen con fluidos.",
+        "isCorrect": true,
+        "explanation": "Correcto. Esto permite que la glicemia baje inicialmente por dilución y excreción renal antes de aplicar el efecto insulínico[cite: 378, 380]."
+      },
+      {
+        "text": "C) Solo cuando la glicemia sea > 600 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Se inicia independientemente del valor absoluto para frenar la cetogénesis[cite: 383]."
+      },
+      {
+        "text": "D) Cuando el bicarbonato sea > 15 mEq/L.",
+        "isCorrect": false,
+        "explanation": "La insulina es justamente la que trata la acidosis para elevar el bicarbonato[cite: 384]."
+      },
+      {
+        "text": "E) Después de que el paciente haya orinado.",
+        "isCorrect": false,
+        "explanation": "Aunque la diuresis es importante para el potasio, el inicio de insulina depende del tiempo de hidratación previa[cite: 375]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Manejo de Fluidos y Glicemia (Regla de dos sacos)",
+    "text": "Durante el tratamiento de una CAD severa, la glicemia baja de 450 a 240 mg/dL, pero el pH persiste en 7.15. ¿Cuál es la conducta recomendada?",
+    "hint": "El objetivo de la insulina es frenar la cetogénesis, no solo bajar la glucosa[cite: 53].",
+    "options": [
+      {
+        "text": "A) Suspender la insulina para que la glicemia no baje más.",
+        "isCorrect": false,
+        "explanation": "Error grave; si se corta la insulina, la cetogénesis se reactiva y el paciente vuelve a entrar en CAD[cite: 57]."
+      },
+      {
+        "text": "B) Cambiar SF por Suero Glucosado al 5% o 10% con electrolitos, manteniendo la infusión de insulina.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe aportar glucosa exógena para poder mantener la infusión de insulina (que frena la acidosis) sin causar hipoglicemia[cite: 55, 56]."
+      },
+      {
+        "text": "C) Aumentar la velocidad de la insulina para corregir el pH.",
+        "isCorrect": false,
+        "explanation": "Causaría una caída glicémica demasiado rápida y mayor riesgo osmótico[cite: 58]."
+      },
+      {
+        "text": "D) Dar de alta al paciente si ya no tiene náuseas.",
+        "isCorrect": false,
+        "explanation": "El paciente sigue en CAD (acidosis persistente); requiere monitorización continua[cite: 59]."
+      },
+      {
+        "text": "E) Administrar un bolo de Glucagón.",
+        "isCorrect": false,
+        "explanation": "El glucagón es para hipoglicemias severas en el hogar, no para el manejo dinámico de la CAD[cite: 52]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Complicaciones Agudas",
+    "text": "¿Cuál es la complicación aguda más temida y principal causa de muerte en la CAD pediátrica?",
+    "hint": "Ocurre en el 0.5-1% de los casos, frecuentemente en las primeras 24 horas[cite: 62].",
+    "options": [
+      {
+        "text": "A) Hipoglicemia.",
+        "isCorrect": false,
+        "explanation": "Es común pero raramente letal con monitorización adecuada[cite: 65]."
+      },
+      {
+        "text": "B) Edema Cerebral.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la complicación más devastadora; se asocia a descensos bruscos de osmolaridad y uso de bicarbonato[cite: 63, 64]."
+      },
+      {
+        "text": "C) Hipopotasemia severa.",
+        "isCorrect": false,
+        "explanation": "Puede causar arritmias, pero es menos frecuente como causa de muerte que el edema cerebral bajo protocolos actuales[cite: 66]."
+      },
+      {
+        "text": "D) Insuficiencia renal aguda.",
+        "isCorrect": false,
+        "explanation": "Suele ser prerrenal y revertir con la hidratación inicial."
+      },
+      {
+        "text": "E) Pancreatitis aguda.",
+        "isCorrect": false,
+        "explanation": "Complicación rara que no representa la principal causa de mortalidad."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Manejo del Edema Cerebral",
+    "text": "Un paciente de 12 años en tratamiento por CAD presenta cefalea intensa, bradicardia y deterioro de conciencia. ¿Conducta inmediata?",
+    "hint": "El tratamiento debe ser clínico y no retrasarse por imágenes[cite: 72].",
+    "options": [
+      {
+        "text": "A) Realizar un TAC de cerebro para confirmar.",
+        "isCorrect": false,
+        "explanation": "El diagnóstico es clínico; esperar al TAC puede causar la muerte por herniación[cite: 75]."
+      },
+      {
+        "text": "B) Administrar Manitol (0.5-1 g/kg) o Suero Salino Hipertónico (3%) y elevar cabecera.",
+        "isCorrect": true,
+        "explanation": "Correcto. Ante la tríada de Cushing o signos de alarma, se debe usar agentes osmóticos de inmediato para reducir la PIC[cite: 70, 73, 74]."
+      },
+      {
+        "text": "C) Aumentar la velocidad de la fleboclisis.",
+        "isCorrect": false,
+        "explanation": "Empeoraría el edema por aumento de presión hidrostática[cite: 76]."
+      },
+      {
+        "text": "D) Inyectar un bolo de glucosa al 30%.",
+        "isCorrect": false,
+        "explanation": "Solo si se confirma hipoglicemia; no trata el edema cerebral per se[cite: 71]."
+      },
+      {
+        "text": "E) Administrar Atropina para la bradicardia.",
+        "isCorrect": false,
+        "explanation": "No trata la causa base (hipertensión endocraneana)[cite: 77]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Metas de Control Glucémico en CAD",
+    "text": "¿Cuál es el valor meta recomendado para la caída de la glicemia por hora?",
+    "hint": "Caídas muy rápidas favorecen el edema cerebral[cite: 80].",
+    "options": [
+      {
+        "text": "A) 20-30 mg/dL por hora.",
+        "isCorrect": false,
+        "explanation": "Muy lento; prolongaría innecesariamente el estado de cetosis[cite: 84]."
+      },
+      {
+        "text": "B) 50-100 mg/dL por hora.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se busca un descenso gradual y controlado para evitar complicaciones osmóticas[cite: 78, 81]."
+      },
+      {
+        "text": "C) Lo más rápido posible hasta llegar a 150 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Peligroso; se asocia directamente a riesgo de edema cerebral[cite: 79]."
+      },
+      {
+        "text": "D) 150-200 mg/dL por hora.",
+        "isCorrect": false,
+        "explanation": "Velocidad excesiva[cite: 83]."
+      },
+      {
+        "text": "E) No importa la velocidad mientras el paciente esté despierto.",
+        "isCorrect": false,
+        "explanation": "La fisiopatología exige un control estricto de la velocidad de cambio de osmolaridad[cite: 80]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Potasio en la CAD",
+    "text": "Respecto al Potasio (K+) en la CAD, ¿cuál es la afirmación correcta?",
+    "hint": "La acidosis y el déficit de insulina \"engañan\" al laboratorio inicial[cite: 90].",
+    "options": [
+      {
+        "text": "A) El potasio corporal total está siempre elevado.",
+        "isCorrect": false,
+        "explanation": "Falso; el balance corporal total es siempre deficitario por pérdidas osmóticas[cite: 94]."
+      },
+      {
+        "text": "B) A pesar de que el nivel inicial sea normal o alto, el potasio corporal total está disminuido.",
+        "isCorrect": true,
+        "explanation": "Correcto. La acidosis saca el K+ al plasma, pero al tratar la CAD, este entra a la célula, revelando el déficit real[cite: 86, 92, 93]."
+      },
+      {
+        "text": "C) Nunca se debe reponer potasio si el nivel inicial es > 5 mEq/L.",
+        "isCorrect": false,
+        "explanation": "Si el inicial es bajo, se debe reponer de forma agresiva antes incluso que la insulina[cite: 95]."
+      },
+      {
+        "text": "D) La insulina provoca la salida del potasio de la célula.",
+        "isCorrect": false,
+        "explanation": "Falso; la insulina mete el potasio a la célula (hipokalemiante)[cite: 96]."
+      },
+      {
+        "text": "E) El bicarbonato ayuda a subir los niveles de potasio.",
+        "isCorrect": false,
+        "explanation": "El bicarbonato también favorece la entrada de potasio a la célula, bajando sus niveles en sangre[cite: 89]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hiperglicemia Matutina",
+    "text": "¿A qué se debe el \"Fenómeno del Alba\" en un adolescente con DM1?",
+    "hint": "Es un proceso fisiológico que se acentúa en la pubertad[cite: 101].",
+    "options": [
+      {
+        "text": "A) Falta de carbohidratos en la cena.",
+        "isCorrect": false,
+        "explanation": "No es la causa del fenómeno hormonal de madrugada[cite: 98]."
+      },
+      {
+        "text": "B) Aumento fisiológico de GH y Cortisol en la madrugada.",
+        "isCorrect": true,
+        "explanation": "Correcto. Estas hormonas aumentan la resistencia a la insulina entre las 4-8 AM[cite: 99, 102]."
+      },
+      {
+        "text": "C) Efecto rebote por hipoglicemia nocturna (Somogyi).",
+        "isCorrect": false,
+        "explanation": "En el Somogyi la glicemia a las 3 AM está baja; en el alba está normal o alta[cite: 103, 104]."
+      },
+      {
+        "text": "D) Exceso de insulina basal nocturna.",
+        "isCorrect": false,
+        "explanation": "Causaría hipoglicemia, no hiperglicemia matutina por resistencia[cite: 100]."
+      },
+      {
+        "text": "E) Ejercicio intenso antes de dormir.",
+        "isCorrect": false,
+        "explanation": "El ejercicio suele bajar la glicemia horas después[cite: 101]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Diabetes Mellitus Tipo 2 en Adolescentes",
+    "text": "Adolescente de 14 años con obesidad mórbida y acantosis nigricans presenta glicemia de ayunas de 130 mg/dL en dos ocasiones. ¿Diagnóstico más probable?",
+    "hint": "La obesidad y signos de resistencia a la insulina orientan al tipo[cite: 110].",
+    "options": [
+      {
+        "text": "A) DM Tipo 1.",
+        "isCorrect": false,
+        "explanation": "Se asocia más a pacientes magros y cetosis de inicio agudo[cite: 113]."
+      },
+      {
+        "text": "B) DM Tipo 2.",
+        "isCorrect": true,
+        "explanation": "Correcto. El fenotipo de obesidad y acantosis confirma la DM2, cuya incidencia aumenta en adolescentes[cite: 108, 112]."
+      },
+      {
+        "text": "C) Intolerancia a la glucosa oral.",
+        "isCorrect": false,
+        "explanation": "Con 130 mg/dL en dos ocasiones ya se superó el umbral diagnóstico de 126 mg/dL[cite: 114]."
+      },
+      {
+        "text": "D) Glicemia de ayunas alterada únicamente.",
+        "isCorrect": false,
+        "explanation": "Se define entre 100-125 mg/dL; 130 es diagnóstico de DM[cite: 114]."
+      },
+      {
+        "text": "E) Diabetes MODY.",
+        "isCorrect": false,
+        "explanation": "Se sospecharía ante historia familiar autosómica dominante en no obesos[cite: 114]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Resolución de la CAD",
+    "text": "¿Qué criterios permiten el paso de insulina EV a subcutánea?",
+    "hint": "La resolución se define por la corrección de la acidosis y brecha aniónica[cite: 118].",
+    "options": [
+      {
+        "text": "A) Glicemia < 200 mg/dL, pH > 7.3 y Bicarbonato > 15 mEq/L.",
+        "isCorrect": true,
+        "explanation": "Correcto. Estos valores aseguran que la cetoacidosis ha resuelto metabólicamente[cite: 116, 119]."
+      },
+      {
+        "text": "B) Solo que el paciente ya no tenga náuseas.",
+        "isCorrect": false,
+        "explanation": "Insuficiente si no hay corrección bioquímica[cite: 116]."
+      },
+      {
+        "text": "C) Glicemia < 100 mg/dL.",
+        "isCorrect": false,
+        "explanation": "No es el parámetro crítico para frenar la BIC de insulina[cite: 116]."
+      },
+      {
+        "text": "D) Cetonuria negativa únicamente.",
+        "isCorrect": false,
+        "explanation": "Las cetonas en orina pueden persistir días tras la resolución de la acidosis[cite: 120]."
+      },
+      {
+        "text": "E) Que hayan pasado exactamente 24 horas.",
+        "isCorrect": false,
+        "explanation": "La duración depende de la respuesta metabólica individual[cite: 117]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Dosis de Insulina en CAD",
+    "text": "¿Cuál es la dosis estándar de insulina de acción rápida para la infusión continua (BIC) en pediatría?",
+    "hint": "Es una dosis diseñada para suprimir la lipólisis[cite: 123].",
+    "options": [
+      {
+        "text": "A) 0.01 UI/kg/h.",
+        "isCorrect": false,
+        "explanation": "Dosis insuficiente para frenar la cetosis[cite: 125]."
+      },
+      {
+        "text": "B) 0.05 - 0.1 UI/kg/h.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el rango estándar para la mayoría de los protocolos internacionales[cite: 121, 124]."
+      },
+      {
+        "text": "C) 1.0 UI/kg/h.",
+        "isCorrect": false,
+        "explanation": "Dosis masiva que causaría complicaciones letales rápidas[cite: 126]."
+      },
+      {
+        "text": "D) 10 UI cada 4 horas.",
+        "isCorrect": false,
+        "explanation": "La CAD requiere infusión continua, no bolos intermitentes[cite: 122]."
+      },
+      {
+        "text": "E) Se ajusta según la edad únicamente.",
+        "isCorrect": false,
+        "explanation": "Se ajusta por peso y respuesta metabólica[cite: 122]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Período de Luna de Miel",
+    "text": "¿Qué caracteriza al período de \"Luna de Miel\" en la DM1?",
+    "hint": "Ocurre semanas después del inicio del tratamiento[cite: 131].",
+    "options": [
+      {
+        "text": "A) El viaje post-diagnóstico.",
+        "isCorrect": false,
+        "explanation": "Distractor no médico[cite: 128]."
+      },
+      {
+        "text": "B) Fase de recuperación parcial de células beta que permite bajar dosis de insulina.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los requerimientos pueden bajar a < 0.5 UI/kg transitoriamente[cite: 129, 132, 133]."
+      },
+      {
+        "text": "C) Tiempo para comer dulces sin problemas.",
+        "isCorrect": false,
+        "explanation": "Peligroso; puede agotar la reserva residual rápidamente[cite: 134]."
+      },
+      {
+        "text": "D) Período de mayor riesgo de CAD.",
+        "isCorrect": false,
+        "explanation": "Al revés; es la etapa de mayor estabilidad relativa[cite: 130]."
+      },
+      {
+        "text": "E) Fase final de la enfermedad.",
+        "isCorrect": false,
+        "explanation": "Es una etapa inicial tras el debut[cite: 131]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Monitoreo en CAD",
+    "text": "¿Con qué frecuencia se debe medir la glicemia y gases/electrolitos en las primeras horas?",
+    "hint": "El manejo es dinámico y el potasio cambia rápido[cite: 138].",
+    "options": [
+      {
+        "text": "A) Glicemia horaria y gases/electrolitos cada 2-4 horas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite ajustes finos de los aportes de glucosa y potasio[cite: 135, 139, 140]."
+      },
+      {
+        "text": "B) Todo cada 6 horas.",
+        "isCorrect": false,
+        "explanation": "Muy infrecuente; riesgo de omitir eventos críticos[cite: 141]."
+      },
+      {
+        "text": "C) Solo si el paciente se ve mal.",
+        "isCorrect": false,
+        "explanation": "No permite un manejo preventivo de complicaciones[cite: 137]."
+      },
+      {
+        "text": "D) Una vez al día.",
+        "isCorrect": false,
+        "explanation": "Inaceptable en un paciente crítico[cite: 137]."
+      },
+      {
+        "text": "E) Glicemia cada 5 minutos.",
+        "isCorrect": false,
+        "explanation": "Innecesario y traumático[cite: 137]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Tríada Bioquímica de la CAD",
+    "text": "¿Cuáles son los tres pilares diagnósticos de la CAD?",
+    "hint": "Azúcar alto, sangre ácida y cuerpos cetónicos[cite: 145].",
+    "options": [
+      {
+        "text": "A) Hiperglicemia, glucosuria y fiebre.",
+        "isCorrect": false,
+        "explanation": "La fiebre sugiere infección gatillante, no define la CAD[cite: 142]."
+      },
+      {
+        "text": "B) Glicemia > 200 mg/dL, pH < 7.3 (o Bic < 15) y Cetosis.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la definición universal; sin cetosis no hay cetoacidosis[cite: 143, 146]."
+      },
+      {
+        "text": "C) Obesidad, hipertensión y acidosis.",
+        "isCorrect": false,
+        "explanation": "Propios de DM2 o Síndrome Metabólico[cite: 143]."
+      },
+      {
+        "text": "D) Hipoglicemia, acidosis y vómitos.",
+        "isCorrect": false,
+        "explanation": "La CAD es por definición un estado hiperglicémico[cite: 144]."
+      },
+      {
+        "text": "E) Hiperglicemia, alcalosis respiratoria y potasio bajo.",
+        "isCorrect": false,
+        "explanation": "La alcalosis es compensatoria, la base es la acidosis metabólica[cite: 147]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Manejo de Hipoglicemia",
+    "text": "Niño con DM1 consciente presenta sudoración y temblor tras insulina. ¿Manejo inicial?",
+    "hint": "El tratamiento debe ser rápido pero escalonado (Regla del 15)[cite: 152].",
+    "options": [
+      {
+        "text": "A) Inyectar Glucagón IM.",
+        "isCorrect": false,
+        "explanation": "Reservado para casos severos con compromiso de conciencia[cite: 154]."
+      },
+      {
+        "text": "B) Dar 15g de carbohidratos rápidos (jugo) y recontrolar en 15 min.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el manejo estándar para hipoglicemia leve-moderada colaboradora[cite: 150, 153]."
+      },
+      {
+        "text": "C) Dar un sándwich de carne.",
+        "isCorrect": false,
+        "explanation": "Las proteínas no suben la glicemia de forma inmediata[cite: 151]."
+      },
+      {
+        "text": "D) Esperar a que pase el efecto.",
+        "isCorrect": false,
+        "explanation": "Peligroso; puede progresar a convulsión por neuroglucopenia[cite: 151]."
+      },
+      {
+        "text": "E) Correr a urgencias sin actuar.",
+        "isCorrect": false,
+        "explanation": "Se debe actuar de inmediato para evitar progresión[cite: 152]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Tipos de Insulina",
+    "text": "¿Diferencia entre Insulina Glargina y Cristalina?",
+    "hint": "Piense en \"bus lento\" vs \"auto de carreras\"[cite: 159].",
+    "options": [
+      {
+        "text": "A) El color.",
+        "isCorrect": false,
+        "explanation": "Distractor irrelevante[cite: 155]."
+      },
+      {
+        "text": "B) La Glargina es basal (24h sin pico) y la Cristalina es rápida para comidas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la base del esquema Bolo-Basal intensificado[cite: 156, 157, 160]."
+      },
+      {
+        "text": "C) La Cristalina solo se usa en adultos.",
+        "isCorrect": false,
+        "explanation": "Es fundamental en pediatría para CAD y correcciones[cite: 157]."
+      },
+      {
+        "text": "D) La Glargina se da EV.",
+        "isCorrect": false,
+        "explanation": "Nunca se da EV; solo la Cristalina es apta para BIC[cite: 161, 162]."
+      },
+      {
+        "text": "E) No hay diferencias.",
+        "isCorrect": false,
+        "explanation": "Sus perfiles de acción son opuestos y complementarios[cite: 158]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Riesgo de Edema Cerebral",
+    "text": "¿Qué hallazgo sugiere mayor riesgo de edema cerebral en el tratamiento?",
+    "hint": "El sodio debe subir cuando la glucosa baja[cite: 166].",
+    "options": [
+      {
+        "text": "A) No aumento del Sodio plasmático a medida que baja la glucosa.",
+        "isCorrect": true,
+        "explanation": "Correcto. Si el sodio no sube, indica entrada excesiva de agua libre al cerebro[cite: 164, 167, 168]."
+      },
+      {
+        "text": "B) Glicemia de 300 mg/dL.",
+        "isCorrect": false,
+        "explanation": "El riesgo es la velocidad de cambio, no el valor absoluto[cite: 169, 170]."
+      },
+      {
+        "text": "C) Potasio de 4.0 mEq/L.",
+        "isCorrect": false,
+        "explanation": "Valor normal durante el tratamiento."
+      },
+      {
+        "text": "D) Hemoglobina de 12 g/dL.",
+        "isCorrect": false,
+        "explanation": "Sin relación directa con la osmolaridad cerebral."
+      },
+      {
+        "text": "E) Orina de color claro.",
+        "isCorrect": false,
+        "explanation": "Refleja poliuria osmótica inicial."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Screening de Complicaciones",
+    "text": "¿Cuándo se inicia el screening de microalbuminuria en DM1?",
+    "hint": "El daño microvascular requiere años de exposición[cite: 174].",
+    "options": [
+      {
+        "text": "A) Al diagnóstico.",
+        "isCorrect": false,
+        "explanation": "Solo válido para DM2, donde el debut puede ser tardío[cite: 176]."
+      },
+      {
+        "text": "B) Tras 5 años de enfermedad o al inicio de la pubertad.",
+        "isCorrect": true,
+        "explanation": "Correcto. Antes de la pubertad las complicaciones microvasculares son excepcionales[cite: 172, 175]."
+      },
+      {
+        "text": "C) A los 21 años.",
+        "isCorrect": false,
+        "explanation": "Demasiado tarde; se debe pesquisar precozmente[cite: 173]."
+      },
+      {
+        "text": "D) Una vez al mes.",
+        "isCorrect": false,
+        "explanation": "Innecesario; se recomienda anualmente[cite: 173]."
+      },
+      {
+        "text": "E) Solo si tiene HTA.",
+        "isCorrect": false,
+        "explanation": "La HTA es una consecuencia o signo tardío; el screening busca etapas precoces[cite: 173]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Metas de Hemoglobina Glicosilada",
+    "text": "¿Cuál es la meta de HbA1c recomendada por ISPAD para DM1?",
+    "hint": "Equilibrio entre control estricto y prevención de hipoglicemias[cite: 179].",
+    "options": [
+      {
+        "text": "A) < 9.0%.",
+        "isCorrect": false,
+        "explanation": "Indica un mal control metabólico con alto riesgo de complicaciones[cite: 178]."
+      },
+      {
+        "text": "B) < 7.0%.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el objetivo para minimizar riesgos microvasculares a largo plazo[cite: 177, 180]."
+      },
+      {
+        "text": "C) < 6.0%.",
+        "isCorrect": false,
+        "explanation": "Aumentaría excesivamente el riesgo de hipoglicemias severas en niños[cite: 181]."
+      },
+      {
+        "text": "D) Entre 8% y 9%.",
+        "isCorrect": false,
+        "explanation": "Rango de control deficiente."
+      },
+      {
+        "text": "E) Solo importa la glicemia diaria.",
+        "isCorrect": false,
+        "explanation": "La HbA1c es el mejor predictor de complicaciones crónicas[cite: 178]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Reposición del Déficit",
+    "text": "¿En cuánto tiempo se repone el déficit de agua en CAD pediátrica?",
+    "hint": "La rehidratación rápida es factor de riesgo para edema cerebral[cite: 186].",
+    "options": [
+      {
+        "text": "A) 12 horas.",
+        "isCorrect": false,
+        "explanation": "Demasiado rápido para el cerebro pediátrico[cite: 188]."
+      },
+      {
+        "text": "B) 48 horas de forma lenta y gradual.",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite una adaptación osmótica segura de las neuronas[cite: 183, 184, 187]."
+      },
+      {
+        "text": "C) Un solo bolo masivo.",
+        "isCorrect": false,
+        "explanation": "Absolutamente contraindicado tras la expansión inicial de shock[cite: 184]."
+      },
+      {
+        "text": "D) 1 hora.",
+        "isCorrect": false,
+        "explanation": "Fisiológicamente imposible y peligroso[cite: 184]."
+      },
+      {
+        "text": "E) Solo si el paciente tiene sed.",
+        "isCorrect": false,
+        "explanation": "El déficit debe calcularse y reponerse sistemáticamente[cite: 185]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Manejo en Días de Enfermedad",
+    "text": "Niño diabético con fiebre por gripe. ¿Conducta?",
+    "hint": "Enfermedades intercurrentes aumentan hormonas del estrés[cite: 193].",
+    "options": [
+      {
+        "text": "A) Suspender insulina porque no come.",
+        "isCorrect": false,
+        "explanation": "Error común; causa principal de CAD recidivante[cite: 194, 196]."
+      },
+      {
+        "text": "B) Monitorizar cetonas, hidratar y usar dosis suplementarias según protocolo.",
+        "isCorrect": true,
+        "explanation": "Correcto. El estrés metabólico gatilla CAD aunque el niño coma poco[cite: 190, 191, 195]."
+      },
+      {
+        "text": "C) Solo agua con sal.",
+        "isCorrect": false,
+        "explanation": "No trata la resistencia a la insulina inducida por la infección[cite: 192]."
+      },
+      {
+        "text": "D) Suspender controles.",
+        "isCorrect": false,
+        "explanation": "Al contrario, requiere monitoreo más frecuente[cite: 192]."
+      },
+      {
+        "text": "E) Inyectar adrenalina.",
+        "isCorrect": false,
+        "explanation": "Empeoraría drásticamente la hiperglicemia[cite: 192]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Planificación Alimentaria",
+    "text": "¿Qué es el \"Conteo de Carbohidratos\"?",
+    "hint": "Permite flexibilidad en la dieta del niño[cite: 200].",
+    "options": [
+      {
+        "text": "A) Contar galletas en la caja.",
+        "isCorrect": false,
+        "explanation": "Distractor inespecífico[cite: 197]."
+      },
+      {
+        "text": "B) Calcular dosis de insulina según gramos exactos de carbohidratos ingeridos.",
+        "isCorrect": true,
+        "explanation": "Correcto. Usa la relación Insulina/Carbohidrato (ej. 1U por cada 15g)[cite: 198, 201]."
+      },
+      {
+        "text": "C) Dieta sin carbohidratos.",
+        "isCorrect": false,
+        "explanation": "Los niños requieren aportes balanceados para su crecimiento[cite: 199]."
+      },
+      {
+        "text": "D) Medir solo azúcar.",
+        "isCorrect": false,
+        "explanation": "Incompleto para la planificación terapéutica[cite: 199]."
+      },
+      {
+        "text": "E) Pesar al niño antes de comer.",
+        "isCorrect": false,
+        "explanation": "Se pesan los alimentos, no el paciente, para el conteo[cite: 200]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Gatillantes de CAD",
+    "text": "¿Causa más frecuente de CAD en un niño ya diagnosticado?",
+    "hint": "El déficit de insulina es el motor fisiopatológico[cite: 205].",
+    "options": [
+      {
+        "text": "A) Comer un chocolate extra.",
+        "isCorrect": false,
+        "explanation": "La transgresión dietética aislada suele dar hiperglicemia, no CAD franca si hay insulina basal[cite: 203]."
+      },
+      {
+        "text": "B) Omisión de dosis, mal funcionamiento del dispositivo o infecciones.",
+        "isCorrect": true,
+        "explanation": "Correcto. La falta de administración de insulina es la causa número uno[cite: 203, 206]."
+      },
+      {
+        "text": "C) Mucho ejercicio.",
+        "isCorrect": false,
+        "explanation": "El ejercicio suele bajar la glicemia[cite: 204]."
+      },
+      {
+        "text": "D) Beber mucha agua.",
+        "isCorrect": false,
+        "explanation": "Es una consecuencia, no una causa."
+      },
+      {
+        "text": "E) Tomar paracetamol.",
+        "isCorrect": false,
+        "explanation": "Fármaco seguro que no altera el eje insulínico[cite: 204]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Compensación Respiratoria",
+    "text": "¿Por qué ocurre la respiración de Kussmaul?",
+    "hint": "Es una hiperventilación profunda y rítmica[cite: 210].",
+    "options": [
+      {
+        "text": "A) Crisis de asma.",
+        "isCorrect": false,
+        "explanation": "Se asocia a sibilancias y obstrucción, no a acidosis metabólica[cite: 207]."
+      },
+      {
+        "text": "B) Compensación para eliminar CO2 y subir el pH ante acidosis metabólica.",
+        "isCorrect": true,
+        "explanation": "Correcto. El centro respiratorio intenta barrer el ácido volátil para equilibrar la sangre[cite: 208, 210]."
+      },
+      {
+        "text": "C) Por dolor abdominal.",
+        "isCorrect": false,
+        "explanation": "El dolor daría taquipnea superficial, no respiraciones profundas[cite: 208]."
+      },
+      {
+        "text": "D) Por falta de oxígeno.",
+        "isCorrect": false,
+        "explanation": "No es un problema de intercambio de O2 pulmonar[cite: 209]."
+      },
+      {
+        "text": "E) Tic nervioso.",
+        "isCorrect": false,
+        "explanation": "Es un signo de emergencia médica grave[cite: 209]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Diagnóstico de Ayunas",
+    "text": "¿Valor diagnóstico de DM para glicemia en ayunas?",
+    "hint": "El ayuno debe ser de al menos 8 horas[cite: 213].",
+    "options": [
+      {
+        "text": "A) > 100 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Valor para glicemia de ayunas alterada (prediabetes)[cite: 211]."
+      },
+      {
+        "text": "B) ≥ 126 mg/dL en dos ocasiones.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el estándar internacional para el diagnóstico bioquímico firme[cite: 211, 214]."
+      },
+      {
+        "text": "C) 126 mg/dL una sola vez sin síntomas.",
+        "isCorrect": false,
+        "explanation": "Requiere confirmación con un segundo examen[cite: 212]."
+      },
+      {
+        "text": "D) Exactamente 200 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Este valor es para glicemias al azar o post-carga[cite: 212]."
+      },
+      {
+        "text": "E) > 110 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Criterio antiguo o para otras categorías[cite: 212]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Inmunología de la DM1",
+    "text": "¿Marcador inmunológico más frecuente en DM1?",
+    "hint": "Atacan específicamente los componentes de la célula beta[cite: 217].",
+    "options": [
+      {
+        "text": "A) ANA.",
+        "isCorrect": false,
+        "explanation": "Inespecíficos, asociados a Lupus o AIJ[cite: 216]."
+      },
+      {
+        "text": "B) Anti-GAD65, anti-IA2, anti-insulina o anti-islotes (ICA).",
+        "isCorrect": true,
+        "explanation": "Correcto. Confirman la etiología autoinmune del ataque a las células beta[cite: 216, 218]."
+      },
+      {
+        "text": "C) Factor reumatoide.",
+        "isCorrect": false,
+        "explanation": "Sin relación con el páncreas endócrino[cite: 216]."
+      },
+      {
+        "text": "D) Anti-tiroideos.",
+        "isCorrect": false,
+        "explanation": "Pueden coexistir por poliglandularidad, pero no definen la DM1[cite: 216]."
+      },
+      {
+        "text": "E) Ninguno.",
+        "isCorrect": false,
+        "explanation": "La DM1 es clásicamente una enfermedad autoinmune mediada por células T[cite: 217]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Vía de Administración",
+    "text": "¿Principal vía de administración del tratamiento en DM1?",
+    "hint": "La insulina se digiere si se toma por la boca[cite: 222].",
+    "options": [
+      {
+        "text": "A) Oral.",
+        "isCorrect": false,
+        "explanation": "No existen insulinas orales efectivas hoy[cite: 219]."
+      },
+      {
+        "text": "B) Subcutánea.",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite la absorción sistémica constante necesaria para el reemplazo basal-bolo[cite: 220, 223]."
+      },
+      {
+        "text": "C) Endovenosa de por vida.",
+        "isCorrect": false,
+        "explanation": "Solo se usa en crisis agudas intrahospitalarias[cite: 220]."
+      },
+      {
+        "text": "D) Inhalatoria únicamente.",
+        "isCorrect": false,
+        "explanation": "Uso muy limitado y no estándar en niños[cite: 220]."
+      },
+      {
+        "text": "E) Parches.",
+        "isCorrect": false,
+        "explanation": "Sin disponibilidad comercial actual para insulina[cite: 221]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Hipopotasemia",
+    "text": "Niño en tratamiento por CAD presenta debilidad y ondas U en el ECG. ¿Diagnóstico?",
+    "hint": "Es la complicación electrolítica más común durante la infusión de insulina[cite: 226].",
+    "options": [
+      {
+        "text": "A) Hipernatremia.",
+        "isCorrect": false,
+        "explanation": "Causaría síntomas neurológicos, no cambios específicos en la onda T/U[cite: 225]."
+      },
+      {
+        "text": "B) Hipopotasemia (Hipokalemia).",
+        "isCorrect": true,
+        "explanation": "Correcto. La insulina desplaza el potasio al interior celular bajando los niveles plasmáticos[cite: 224, 227, 228]."
+      },
+      {
+        "text": "C) Hipercalcemia.",
+        "isCorrect": false,
+        "explanation": "Acortaría el intervalo QT, sin ondas U[cite: 225]."
+      },
+      {
+        "text": "D) Hipoglicemia.",
+        "isCorrect": false,
+        "explanation": "Daría compromiso de conciencia y sudoración[cite: 225]."
+      },
+      {
+        "text": "E) Acidosis láctica.",
+        "isCorrect": false,
+        "explanation": "Es el origen de la acidosis pero no explica el cambio electrocardiográfico[cite: 225]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Brecha Aniónica",
+    "text": "¿Qué es el Anion Gap y su utilidad en CAD?",
+    "hint": "Se calcula como (Na) - (Cl + HCO3)[cite: 232].",
+    "options": [
+      {
+        "text": "A) Distancia páncreas-hígado.",
+        "isCorrect": false,
+        "explanation": "Distractor absurdo[cite: 230]."
+      },
+      {
+        "text": "B) Diferencia entre cationes y aniones medidos; elevado en CAD por cetoácidos.",
+        "isCorrect": true,
+        "explanation": "Correcto. Su normalización indica que ha cesado la producción de cuerpos cetónicos[cite: 230, 231, 233, 234]."
+      },
+      {
+        "text": "C) Tipo de insulina.",
+        "isCorrect": false,
+        "explanation": "No es un fármaco."
+      },
+      {
+        "text": "D) Mide azúcar en orina.",
+        "isCorrect": false,
+        "explanation": "Esa es la glucosuria[cite: 232]."
+      },
+      {
+        "text": "E) No tiene utilidad.",
+        "isCorrect": false,
+        "explanation": "Es fundamental para evaluar la resolución metabólica[cite: 232]."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Cambios en la Orina",
+    "text": "¿Característica clásica de la orina en el debut diabético?",
+    "hint": "El exceso de azúcar arrastra agua (diuresis osmótica)[cite: 238].",
+    "options": [
+      {
+        "text": "A) Orina oscura y escasa.",
+        "isCorrect": false,
+        "explanation": "Sugeriría deshidratación simple o falla renal, no poliuria diabética[cite: 236]."
+      },
+      {
+        "text": "B) Poliuria con glucosuria y cetonuria.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al superar los 180 mg/dL, el riñón pierde glucosa y agua[cite: 236, 239]."
+      },
+      {
+        "text": "C) Hematuria franca.",
+        "isCorrect": false,
+        "explanation": "Sin relación primaria con la diabetes[cite: 236]."
+      },
+      {
+        "text": "D) Orina azul.",
+        "isCorrect": false,
+        "explanation": "Asociada a errores del metabolismo del triptófano, no DM[cite: 237]."
+      },
+      {
+        "text": "E) No hay cambios.",
+        "isCorrect": false,
+        "explanation": "Falso; la poliuria es el síntoma cardinal[cite: 237]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Manejo DM Tipo 2",
+    "text": "¿Tratamiento inicial para DM2 en adolescente obeso sin cetosis?",
+    "hint": "Busca mejorar la sensibilidad a la insulina[cite: 242].",
+    "options": [
+      {
+        "text": "A) Insulina de por vida.",
+        "isCorrect": false,
+        "explanation": "Se usa si hay fallo terapéutico o CAD al debut[cite: 241]."
+      },
+      {
+        "text": "B) Metformina y cambios en estilo de vida.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el fármaco de primera línea aprobado para adolescentes con DM2[cite: 241, 243]."
+      },
+      {
+        "text": "C) Sulfonilureas.",
+        "isCorrect": false,
+        "explanation": "No son de primera línea por riesgo de hipoglicemia[cite: 241]."
+      },
+      {
+        "text": "D) Solo dieta.",
+        "isCorrect": false,
+        "explanation": "Generalmente requiere apoyo farmacológico inicial con metformina[cite: 242]."
+      },
+      {
+        "text": "E) Antibióticos.",
+        "isCorrect": false,
+        "explanation": "Sin rol en el manejo metabólico[cite: 242]."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Dolor Abdominal",
+    "text": "Niño con CAD y dolor abdominal intenso. ¿Conducta?",
+    "hint": "El dolor se debe a deshidratación de serosas y acidosis[cite: 248].",
+    "options": [
+      {
+        "text": "A) Cirugía inmediata.",
+        "isCorrect": false,
+        "explanation": "Se debe descartar el \"pseudoabdomen agudo\" de la CAD antes de operar[cite: 245]."
+      },
+      {
+        "text": "B) Tratar la CAD; el dolor suele resolver al corregir la acidosis.",
+        "isCorrect": true,
+        "explanation": "Correcto. El dolor es un síntoma clásico que cede con la hidratación y corrección del pH[cite: 244, 246, 249, 250]."
+      },
+      {
+        "text": "C) Antibióticos.",
+        "isCorrect": false,
+        "explanation": "Sin indicación si no hay foco infeccioso claro[cite: 247]."
+      },
+      {
+        "text": "D) Colonoscopía.",
+        "isCorrect": false,
+        "explanation": "Innecesaria en el manejo agudo de CAD[cite: 247]."
+      },
+      {
+        "text": "E) Laxantes.",
+        "isCorrect": false,
+        "explanation": "Podrían empeorar la deshidratación y el dolor[cite: 247]."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Dispositivos de Insulina",
+    "text": "¿Qué es la Bomba de Insulina (ISCI)?",
+    "hint": "Imita de forma más fisiológica la secreción pancreática[cite: 254].",
+    "options": [
+      {
+        "text": "A) Explosivo.",
+        "isCorrect": false,
+        "explanation": "Distractor no médico[cite: 251]."
+      },
+      {
+        "text": "B) Dispositivo que administra insulina rápida de forma continua y programada.",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite un control fino reduciendo pinchazos diarios[cite: 252, 255]."
+      },
+      {
+        "text": "C) Monitor de glicemia.",
+        "isCorrect": false,
+        "explanation": "Es un infusor, no solo un sensor[cite: 253]."
+      },
+      {
+        "text": "D) Medicamento oral fuerte.",
+        "isCorrect": false,
+        "explanation": "Es un dispositivo externo[cite: 253]."
+      },
+      {
+        "text": "E) No se usa en niños.",
+        "isCorrect": false,
+        "explanation": "Es ampliamente utilizado en pediatría DM1[cite: 253]."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Resistencia a la Insulina",
+    "text": "¿Síntoma cutáneo de resistencia a la insulina?",
+    "hint": "Se ve como \"suciedad\" que no sale al lavar[cite: 258].",
+    "options": [
+      {
+        "text": "A) Urticaria.",
+        "isCorrect": false,
+        "explanation": "Reacción alérgica[cite: 256]."
+      },
+      {
+        "text": "B) Acantosis nigricans.",
+        "isCorrect": true,
+        "explanation": "Correcto. Placas oscuras y aterciopeladas en cuello y axilas[cite: 257, 259]."
+      },
+      {
+        "text": "C) Vitíligo.",
+        "isCorrect": false,
+        "explanation": "Despigmentación autoinmune[cite: 257]."
+      },
+      {
+        "text": "D) Acné severo.",
+        "isCorrect": false,
+        "explanation": "Asociado a SOP, pero no define resistencia por sí solo[cite: 257]."
+      },
+      {
+        "text": "E) Púrpura.",
+        "isCorrect": false,
+        "explanation": "Sin relación con el eje insulínico[cite: 257]."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Potasio en el Manejo Agudo",
+    "text": "Si el potasio plasmático inicial es > 5.5 mEq/L, ¿qué hace?",
+    "hint": "El potasio alto puede causar paro cardíaco en diástole[cite: 263].",
+    "options": [
+      {
+        "text": "A) Dar doble dosis.",
+        "isCorrect": false,
+        "explanation": "Letal[cite: 261]."
+      },
+      {
+        "text": "B) Omitir potasio inicial y monitorizar hasta que baje de 5.5.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se espera a que baje por dilución y efecto de la insulina antes de aportar[cite: 261, 264, 265]."
+      },
+      {
+        "text": "C) Diuréticos.",
+        "isCorrect": false,
+        "explanation": "Empeorarían la deshidratación severa[cite: 262]."
+      },
+      {
+        "text": "D) Suspender hidratación.",
+        "isCorrect": false,
+        "explanation": "La hidratación es la prioridad número uno[cite: 262]."
+      },
+      {
+        "text": "E) Potasio oral.",
+        "isCorrect": false,
+        "explanation": "Inútil en el manejo de urgencia de la CAD[cite: 262]."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Adherencia al Tratamiento",
+    "text": "¿Causa principal de falla en DM1 en adolescentes?",
+    "hint": "La enfermedad se ve como una carga en esta etapa de identidad[cite: 269].",
+    "options": [
+      {
+        "text": "A) Páncreas muerde.",
+        "isCorrect": false,
+        "explanation": "Distractor inespecífico[cite: 267]."
+      },
+      {
+        "text": "B) Mala adherencia por rebeldía o negación.",
+        "isCorrect": true,
+        "explanation": "Correcto. Requiere manejo psicológico y educación continua[cite: 267, 270]."
+      },
+      {
+        "text": "C) Mucha fruta.",
+        "isCorrect": false,
+        "explanation": "Sin impacto mayor comparado con la omisión de insulina[cite: 268]."
+      },
+      {
+        "text": "D) Deporte.",
+        "isCorrect": false,
+        "explanation": "El deporte es beneficioso[cite: 268]."
+      },
+      {
+        "text": "E) Falta vitaminas.",
+        "isCorrect": false,
+        "explanation": "No es la causa del mal control metabólico[cite: 268]."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Manejo de Hipoglicemia Severa",
+    "text": "¿Qué es el Glucagón y su uso?",
+    "hint": "Hormona antagonista de la insulina[cite: 275].",
+    "options": [
+      {
+        "text": "A) Azúcar té.",
+        "isCorrect": false,
+        "explanation": "Distractor inespecífico[cite: 272]."
+      },
+      {
+        "text": "B) Hormona inyectable para subir glicemia rápido en emergencias severas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Todo paciente DM1 debe tener un kit en casa para casos donde no puede tragar[cite: 272, 273, 276]."
+      },
+      {
+        "text": "C) Veneno.",
+        "isCorrect": false,
+        "explanation": "Es un fármaco vital[cite: 273]."
+      },
+      {
+        "text": "D) Sustituto insulina.",
+        "isCorrect": false,
+        "explanation": "Tiene el efecto opuesto[cite: 274]."
+      },
+      {
+        "text": "E) Bajar peso.",
+        "isCorrect": false,
+        "explanation": "Sin esa indicación[cite: 274]."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Endocrinología",
+    "topic": "Beneficios del Ejercicio",
+    "text": "¿Beneficio de la actividad física en DM?",
+    "hint": "Pilar del tratamiento junto con dieta e insulina[cite: 281].",
+    "options": [
+      {
+        "text": "A) Ninguno.",
+        "isCorrect": false,
+        "explanation": "El reposo es contraproducente[cite: 278]."
+      },
+      {
+        "text": "B) Mejora sensibilidad, ayuda al peso y bienestar psicológico.",
+        "isCorrect": true,
+        "explanation": "Correcto. Requiere ajustar dosis y colaciones para evitar hipoglicemia tardía[cite: 278, 282]."
+      },
+      {
+        "text": "C) Cura definitiva.",
+        "isCorrect": false,
+        "explanation": "Ayuda al control pero no regenera las células beta[cite: 279]."
+      },
+      {
+        "text": "D) Insulina tóxica.",
+        "isCorrect": false,
+        "explanation": "Falso; optimiza su función[cite: 279]."
+      },
+      {
+        "text": "E) 24 horas al día.",
+        "isCorrect": false,
+        "explanation": "Se recomienda actividad física regular y programada[cite: 280]."
+      }
+    ]
+  }
+]
