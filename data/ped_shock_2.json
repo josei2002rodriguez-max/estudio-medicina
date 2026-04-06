@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Definición de Sepsis",
+    "text": "Según el consenso internacional actual (Phoenix Criteria / SLACIP 2022), ¿cuál es el pilar fundamental para definir \"Sepsis\" en pediatría ante la sospecha de una infección?",
+    "hint": "El concepto actual de sepsis se ha alejado del SIRS para centrarse en el daño a órganos diana mediado por el huésped. [cite: 262]",
+    "options": [
+      {
+        "text": "A) Presencia de al menos dos criterios de SIRS (Síndrome de Respuesta Inflamatoria Sistémica).",
+        "isCorrect": false,
+        "explanation": "Actualmente se considera que el SIRS es muy inespecífico y no define bien el riesgo de muerte. [cite: 267]"
+      },
+      {
+        "text": "B) Disfunción orgánica aguda potencialmente mortal, evaluada por un aumento en puntajes de severidad (como el Phoenix Sepsis Score o PELOD-2).",
+        "isCorrect": true,
+        "explanation": "La definición moderna de sepsis pediátrica enfatiza la disfunción orgánica gatillada por la infección. Un aumento en los scores indica daño sistémico. [cite: 263, 264]"
+      },
+      {
+        "text": "C) Solo la presencia de fiebre > 39°C y taquicardia.",
+        "isCorrect": false,
+        "explanation": "Estos son signos clínicos iniciales de sospecha, pero por sí solos no definen sepsis si no hay disfunción orgánica asociada. [cite: 268]"
+      },
+      {
+        "text": "D) Necesidad obligatoria de aislamiento de un patógeno en hemocultivos.",
+        "isCorrect": false,
+        "explanation": "La sepsis puede ser diagnosticada clínicamente incluso con cultivos negativos (sepsis con cultivo negativo). [cite: 270]"
+      },
+      {
+        "text": "E) Presencia de hipotensión arterial desde el inicio.",
+        "isCorrect": false,
+        "explanation": "La hipotensión define al Shock Séptico descompensado. Muchos niños tienen sepsis con presión normal (shock compensado). [cite: 271, 272]"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Sepsis en Asplénicos",
+    "text": "Un niño de 2 años con antecedentes de Esplenectomía por un trauma previo presenta fiebre alta y mal estado general. ¿Cuál es el riesgo principal en este paciente y qué microorganismo debe cubrirse prioritariamente?",
+    "hint": "El bazo es el principal órgano encargado de depurar bacterias con cápsula de la sangre. [cite: 282]",
+    "options": [
+      {
+        "text": "A) Shock hipovolémico - S. aureus.",
+        "isCorrect": false,
+        "explanation": "S. aureus se asociaría a osteomielitis o infección de piel, no a la bacteriemia primaria característica del asplénico. [cite: 285]"
+      },
+      {
+        "text": "B) Sepsis fulminante por gérmenes capsulados - Streptococcus pneumoniae.",
+        "isCorrect": true,
+        "explanation": "Los pacientes asplénicos tienen un riesgo altísimo de sepsis abrumadora (OPSI), principalmente por S. pneumoniae, H. influenzae y N. meningitidis. [cite: 283]"
+      },
+      {
+        "text": "C) Infección urinaria - E. coli.",
+        "isCorrect": false,
+        "explanation": "Sería la correcta en un paciente con malformación urinaria, no es la asociación específica con la asplenia. [cite: 286]"
+      },
+      {
+        "text": "D) Candidemia sistémica.",
+        "isCorrect": false,
+        "explanation": "Se daría en un inmunocomprometido neutropénico con catéter venoso central de larga data. [cite: 287]"
+      },
+      {
+        "text": "E) Shock cardiogénico - Virus Coxsackie.",
+        "isCorrect": false,
+        "explanation": "Ocurriría en caso de miocarditis con insuficiencia cardíaca aguda. [cite: 288]"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Fisiopatología del Shock",
+    "text": "En la fisiopatología del shock, ¿qué representa la fórmula DO2 = GC x CaO2?",
+    "hint": "El objetivo del tratamiento del shock es que este valor sea mayor que la demanda tisular. [cite: 298]",
+    "options": [
+      {
+        "text": "A) El consumo de oxígeno por los tejidos.",
+        "isCorrect": false,
+        "explanation": "El consumo (VO2) se mide comparando el contenido arterial y venoso (CaO2 - CvO2). [cite: 307, 308]"
+      },
+      {
+        "text": "B) El aporte o entrega de oxígeno a los tejidos (Oxygen Delivery).",
+        "isCorrect": true,
+        "explanation": "Es el producto del Gasto Cardíaco (GC) por el Contenido Arterial de Oxígeno (CaO2). El manejo busca optimizar ambos para restaurar la oxigenación celular. [cite: 299, 304]"
+      },
+      {
+        "text": "C) La presión de perfusión cerebral.",
+        "isCorrect": false,
+        "explanation": "La presión cerebral se calcula como PAM - PIC. [cite: 310]"
+      },
+      {
+        "text": "D) La resistencia vascular sistémica.",
+        "isCorrect": false,
+        "explanation": "La resistencia (RVS) se calcula como (PAM - PVC)/GC. [cite: 312]"
+      },
+      {
+        "text": "E) El aclaramiento de lactato.",
+        "isCorrect": false,
+        "explanation": "El lactato es un subproducto del metabolismo anaeróbico cuando el DO2 es insuficiente. [cite: 313, 314]"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Farmacología del Shock",
+    "text": "¿Cuál es el mecanismo de acción de la Milrinona y en qué escenario de shock séptico pediátrico es más útil?",
+    "hint": "Mejora la fuerza del corazón y \"abre\" las arterias periféricas. [cite: 323]",
+    "options": [
+      {
+        "text": "A) Vasoconstrictor puro - Shock caliente.",
+        "isCorrect": false,
+        "explanation": "Este es el perfil de la Noradrenalina. [cite: 327]"
+      },
+      {
+        "text": "B) Inodilatador (Inhibidor de la PDE3) - Shock frío con disfunción miocárdica y alta resistencia vascular.",
+        "isCorrect": true,
+        "explanation": "Aumenta el AMP cíclico miocárdico y causa vasodilatación sistémica y pulmonar. Es ideal en bajo gasto con resistencias altas. [cite: 324, 325]"
+      },
+      {
+        "text": "C) Inotrópico puro - Shock hipovolémico.",
+        "isCorrect": false,
+        "explanation": "En el shock hipovolémico la milrinona está contraindicada porque la vasodilatación empeoraría el colapso vascular por falta de volumen. [cite: 328]"
+      },
+      {
+        "text": "D) Betabloqueador - Taquicardia severa.",
+        "isCorrect": false,
+        "explanation": "Este sería el Esmolol, que raramente se usa en la fase aguda del shock. [cite: 329]"
+      },
+      {
+        "text": "E) Antibiótico de amplio espectro.",
+        "isCorrect": false,
+        "explanation": "La milrinona es un fármaco vasoactivo, no un antimicrobiano."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Complicaciones Hematológicas",
+    "text": "Un adolescente de 14 años con shock séptico presenta un cuadro de Coagulación Intravascular Diseminada (CID). ¿Qué hallazgo de laboratorio confirma esta complicación?",
+    "hint": "Es un estado de consumo de factores de coagulación seguido de hiperfibrinólisis. [cite: 339]",
+    "options": [
+      {
+        "text": "A) Aumento de plaquetas y acortamiento del TP.",
+        "isCorrect": false,
+        "explanation": "En la CID las plaquetas se consumen (trombocitopenia). [cite: 343]"
+      },
+      {
+        "text": "B) Trombocitopenia, prolongación de tiempos (TP/TTPA), hipofibrinogenemia y elevación del Dímero D.",
+        "isCorrect": true,
+        "explanation": "Se caracteriza por el consumo masivo de factores. El Dímero D elevado confirma la ruptura sistémica de coágulos de fibrina. [cite: 340, 341]"
+      },
+      {
+        "text": "C) Leucocitosis con desviación a la izquierda únicamente.",
+        "isCorrect": false,
+        "explanation": "Indica inflamación o infección, pero no evalúa el sistema de hemostasia. [cite: 344]"
+      },
+      {
+        "text": "D) Aumento de la hemoglobina por hemoconcentración.",
+        "isCorrect": false,
+        "explanation": "La hemoglobina suele bajar por fragmentación mecánica de los glóbulos rojos (hemólisis microangiopática). [cite: 345]"
+      },
+      {
+        "text": "E) Hipoglicemia severa.",
+        "isCorrect": false,
+        "explanation": "Es una alteración metabólica, no un criterio diagnóstico de CID."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Fiebre Neutropénica",
+    "text": "En el manejo de la \"Fiebre Neutropénica\" en un paciente oncológico que llega al consultorio con signos de shock, ¿qué antibiótico debe asegurarse como cobertura mínima para Pseudomonas aeruginosa?",
+    "hint": "Se requiere una cefalosporina de 4ta generación o una penicilina antipseudomónica. [cite: 354]",
+    "options": [
+      {
+        "text": "A) Amoxicilina/Ácido clavulánico oral.",
+        "isCorrect": false,
+        "explanation": "Nunca se usa vía oral en un neutropénico febril en shock; es una emergencia endovenosa. [cite: 358, 359]"
+      },
+      {
+        "text": "B) Ceftazidima, Cefepime o Piperacilina/Tazobactam.",
+        "isCorrect": true,
+        "explanation": "Pseudomonas es letal en neutropénicos. El tratamiento debe iniciarse en la primera hora con betalactámicos con actividad antipseudomónica. [cite: 355, 356]"
+      },
+      {
+        "text": "C) Vancomicina sola.",
+        "isCorrect": false,
+        "explanation": "Vancomicina no cubre Gram negativos entéricos ni Pseudomonas, que son los que matan más rápido por endotoxinas. [cite: 360]"
+      },
+      {
+        "text": "D) Penicilina sódica.",
+        "isCorrect": false,
+        "explanation": "No tiene espectro contra Gram negativos ni Pseudomonas. [cite: 361]"
+      },
+      {
+        "text": "E) Eritromicina.",
+        "isCorrect": false,
+        "explanation": "Macrólido sin espectro antipseudomónico adecuado para shock séptico."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Emergencias Neurológicas en Sepsis",
+    "text": "¿Cuál es la dosis de carga de \"Suero Salino Hipertónico al 3%\" recomendada en caso de shock séptico con sospecha de edema cerebral o hipertensión endocraneana aguda?",
+    "hint": "Se busca aumentar la osmolaridad plasmática rápidamente para \"sacar\" agua del cerebro. [cite: 373]",
+    "options": [
+      {
+        "text": "A) 20 ml/kg en bolo.",
+        "isCorrect": false,
+        "explanation": "Esta es la dosis del suero isotónico (0.9%). En SSH al 3% causaría hemorragia cerebral por hipernatremia extrema. [cite: 366, 367]"
+      },
+      {
+        "text": "B) 3-5 ml/kg en 10-20 minutos.",
+        "isCorrect": true,
+        "explanation": "Es un agente osmótico potente usado en emergencias neurológicas asociadas a sepsis o cetoacidosis. [cite: 365, 376]"
+      },
+      {
+        "text": "C) 50 ml/kg en 24 horas.",
+        "isCorrect": false,
+        "explanation": "Volumen excesivo para un hipertónico. [cite: 384]"
+      },
+      {
+        "text": "D) 0.1 ml/kg.",
+        "isCorrect": false,
+        "explanation": "Dosis sub-terapéutica que no tendría efecto osmótico significativo."
+      },
+      {
+        "text": "E) Se da solo por vía rectal.",
+        "isCorrect": false,
+        "explanation": "No existe evidencia de su uso por vía rectal para hipertensión endocraneana. [cite: 385]"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Perfusión Renal",
+    "text": "Un lactante con shock séptico presenta una \"Presión Arterial Media\" (PAM) por debajo del límite inferior para su edad tras fluidos. ¿Cuál es el riesgo de mantener una PAM baja respecto al flujo renal?",
+    "hint": "El riñón requiere una presión mínima de filtración para funcionar. [cite: 72]",
+    "options": [
+      {
+        "text": "A) Ninguno, el riñón se protege solo.",
+        "isCorrect": false,
+        "explanation": "El riñón pierde su autorregulación ante hipotensión sostenida."
+      },
+      {
+        "text": "B) Pérdida de la autorregulación del flujo sanguíneo renal, lo que lleva a Necrosis Tubular Aguda e Insuficiencia Renal Aguda.",
+        "isCorrect": true,
+        "explanation": "Por debajo de un umbral crítico de PAM, el flujo renal cae linealmente, provocando isquemia tubular. [cite: 73, 396]"
+      },
+      {
+        "text": "C) Diabetes insípida.",
+        "isCorrect": false,
+        "explanation": "La diabetes insípida es un problema de ADH, no de perfusión tubular directa."
+      },
+      {
+        "text": "D) Alcalosis metabólica.",
+        "isCorrect": false,
+        "explanation": "El shock causa acidosis metabólica láctica, no alcalosis. [cite: 75, 399]"
+      },
+      {
+        "text": "E) Cálculos renales.",
+        "isCorrect": false,
+        "explanation": "Son una patología crónica metabólica, no una consecuencia aguda de la hipoperfusión. [cite: 76, 400]"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Sedación en Shock",
+    "text": "¿Qué complicación se asocia al uso de \"Etomidato\" como sedante para la intubación en un paciente con shock séptico?",
+    "hint": "Aunque es estable cardiovascularmente, \"apaga\" la producción de cortisol. [cite: 79, 409]",
+    "options": [
+      {
+        "text": "A) Hipertensión maligna.",
+        "isCorrect": false,
+        "explanation": "La hipertensión sería un efecto de la Ketamina. [cite: 81, 82, 414]"
+      },
+      {
+        "text": "B) Supresión adrenal transitoria (inhibe la 11-beta-hidroxilasa), lo que puede empeorar el shock.",
+        "isCorrect": true,
+        "explanation": "Bloquea la síntesis de esteroides. En sepsis su uso es controvertido por riesgo de insuficiencia adrenal relativa. [cite: 78, 80, 410, 411]"
+      },
+      {
+        "text": "C) Insuficiencia hepática fulminante.",
+        "isCorrect": false,
+        "explanation": "No es un efecto adverso conocido del etomidato. [cite: 82, 415]"
+      },
+      {
+        "text": "D) Ceguera súbita.",
+        "isCorrect": false,
+        "explanation": "No tiene toxicidad ocular."
+      },
+      {
+        "text": "E) Diarrea profusa.",
+        "isCorrect": false,
+        "explanation": "No se asocia a trastornos del tránsito intestinal agudos."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Índice de Choque",
+    "text": "¿Cuál es la conducta ante un niño con shock séptico que presenta un \"Índice de Choque\" (FC / PAS) persistentemente elevado?",
+    "hint": "El índice de choque integra la respuesta compensatoria (FC) con el fallo circulatorio (PAS). [cite: 86, 424]",
+    "options": [
+      {
+        "text": "A) Disminuir los fluidos porque tiene taquicardia.",
+        "isCorrect": false,
+        "explanation": "La taquicardia es compensatoria; reducir fluidos sin resolver la causa agravaría el shock."
+      },
+      {
+        "text": "B) Interpretarlo como un signo de hipovolemia persistente o disfunción miocárdica que requiere continuar la reanimación agresiva.",
+        "isCorrect": true,
+        "explanation": "Un índice elevado (> 1.0 - 1.2 según edad) es marcador de severidad y predice necesidad de ventilación y vasoactivos. [cite: 84, 87, 419, 426]"
+      },
+      {
+        "text": "C) Darle un sedante para que baje la frecuencia cardíaca.",
+        "isCorrect": false,
+        "explanation": "Peligroso; quitar la respuesta compensatoria llevaría al colapso circulatorio. [cite: 88, 89, 428]"
+      },
+      {
+        "text": "D) No tiene valor en pediatría.",
+        "isCorrect": false,
+        "explanation": "Es un parámetro validado para identificar riesgo de descompensación."
+      },
+      {
+        "text": "E) Alta a domicilio.",
+        "isCorrect": false,
+        "explanation": "Un paciente con índice de choque elevado requiere cuidados intensivos."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Disfunción Pulmonar en Sepsis",
+    "text": "Un niño de 6 años con shock séptico y sospecha de foco pulmonar presenta una Saturación de Oxígeno de 88% con mascarilla de no reinhalación al 100%. ¿Qué sospecha y cuál es la conducta?",
+    "hint": "La hipoxemia refractaria al oxígeno es el sello del SDRA (shunt intrapulmonar). [cite: 94, 438]",
+    "options": [
+      {
+        "text": "A) El oxímetro está malo.",
+        "isCorrect": false,
+        "explanation": "Aunque es posible, ante shock séptico la prioridad es la patología orgánica."
+      },
+      {
+        "text": "B) Síndrome de Distrés Respiratorio Agudo (SDRA) secundario a sepsis; evaluar soporte ventilatorio avanzado (VM o VNI).",
+        "isCorrect": true,
+        "explanation": "La inflamación sistémica daña la membrana alvéolo-capilar. La sepsis es la causa extra-pulmonar más común de SDRA. [cite: 92, 95, 96, 433, 439, 440]"
+      },
+      {
+        "text": "C) Solo falta más oxígeno.",
+        "isCorrect": false,
+        "explanation": "La falta de respuesta a FIO2 al 100% indica que se requiere presión positiva, no más flujo."
+      },
+      {
+        "text": "D) Es normal en shock.",
+        "isCorrect": false,
+        "explanation": "La hipoxemia severa indica fallo orgánico pulmonar y riesgo de muerte."
+      },
+      {
+        "text": "E) Darle un inhalador de salbutamol.",
+        "isCorrect": false,
+        "explanation": "Sería para crisis asmática, pero no resuelve el distrés por sepsis. [cite: 97, 442]"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Diagnóstico Diferencial del Shock",
+    "text": "¿Qué característica diferencia el \"Shock Cardiogénico\" del \"Shock Séptico Frío\" en la evaluación inicial?",
+    "hint": "Busque signos de \"fallo de bomba\" hacia atrás (congestión). [cite: 101, 452]",
+    "options": [
+      {
+        "text": "A) La presencia de fiebre.",
+        "isCorrect": false,
+        "explanation": "La fiebre puede estar ausente en sepsis temprana o presente en procesos inflamatorios cardíacos."
+      },
+      {
+        "text": "B) El shock cardiogénico suele presentar hepatomegalia masiva, ingurgitación yugular y ritmo de galope de forma más prominente y precoz.",
+        "isCorrect": true,
+        "explanation": "Presenta signos de congestión sistémica y pulmonar marcados. El manejo de fluidos es mucho más restrictivo (5-10 ml/kg). [cite: 99, 102, 103, 446, 453, 454, 455]"
+      },
+      {
+        "text": "C) Ambos son iguales.",
+        "isCorrect": false,
+        "explanation": "Sus fisiopatologías y manejos (especialmente de fluidos) son opuestos."
+      },
+      {
+        "text": "D) El shock cardiogénico se trata con 100 ml/kg de suero.",
+        "isCorrect": false,
+        "explanation": "Sería letal; causaría edema pulmonar masivo inmediato. [cite: 104, 458]"
+      },
+      {
+        "text": "E) El cardiogénico no tiene taquicardia.",
+        "isCorrect": false,
+        "explanation": "El cardiogénico también cursa con taquicardia compensatoria."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Biomarcadores en Sepsis",
+    "text": "¿Cuál es el beneficio de medir la \"Procalcitonina\" (PCT) sobre la PCR en el diagnóstico de sepsis?",
+    "hint": "Es el precursor de la calcitonina pero se libera en tejidos inflamados por bacterias. [cite: 108, 468]",
+    "options": [
+      {
+        "text": "A) Es más barata.",
+        "isCorrect": false,
+        "explanation": "Falso, la PCR es significativamente más económica. [cite: 110, 471]"
+      },
+      {
+        "text": "B) Se eleva más rápidamente (3-6 horas) y es más específica para infecciones bacterianas graves que la PCR.",
+        "isCorrect": true,
+        "explanation": "Es un biomarcador superior para diferenciar inflamación viral de bacteriana y guiar el tratamiento. [cite: 106, 109, 463, 469]"
+      },
+      {
+        "text": "C) No sirve en niños menores de 1 año.",
+        "isCorrect": false,
+        "explanation": "Es útil en lactantes, aunque requiere interpretar valores según edad en el periodo neonatal."
+      },
+      {
+        "text": "D) Siempre es negativa en sepsis.",
+        "isCorrect": false,
+        "explanation": "Al contrario, niveles altos son muy sugerentes de sepsis bacteriana."
+      },
+      {
+        "text": "E) Solo sirve para ver si hay virus.",
+        "isCorrect": false,
+        "explanation": "En infecciones virales el interferón-gamma suele inhibir su elevación. [cite: 111, 472]"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Sepsis y Lisis Tumoral",
+    "text": "En el manejo de un paciente con shock séptico y \"Síndrome de Lisis Tumoral\", ¿qué electrolito debe vigilarse por riesgo de HIPOCALCEMIA?",
+    "hint": "El fósforo intracelular liberado se une al calcio plasmático formando cristales de fosfato de calcio. [cite: 114, 481]",
+    "options": [
+      {
+        "text": "A) Sodio.",
+        "isCorrect": false,
+        "explanation": "Sus variaciones se asocian a hidratación, no directamente a la lisis masiva. [cite: 117, 485]"
+      },
+      {
+        "text": "B) Fósforo (el aumento de fósforo precipita con el calcio).",
+        "isCorrect": true,
+        "explanation": "La hipocalcemia secundaria a hiperfosfemia es clásica. Se trata solo si es sintomática para evitar depósitos renales. [cite: 112, 113, 115, 116, 476, 482, 483]"
+      },
+      {
+        "text": "C) Magnesio.",
+        "isCorrect": false,
+        "explanation": "Suele bajar en lisis, pero no es el mecanismo de la hipocalcemia por precipitación."
+      },
+      {
+        "text": "D) Hierro.",
+        "isCorrect": false,
+        "explanation": "Sin relación aguda en el síndrome de lisis."
+      },
+      {
+        "text": "E) Glucosa.",
+        "isCorrect": false,
+        "explanation": "Suele estar alterada por estrés, pero no causa hipocalcemia."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Vasopresina en Shock",
+    "text": "¿Qué se entiende por \"Vasopresina\" en el tratamiento del shock y cuándo se utiliza?",
+    "hint": "Actúa en receptores diferentes a los alfa/beta adrenérgicos. [cite: 121, 495]",
+    "options": [
+      {
+        "text": "A) Un antibiótico.",
+        "isCorrect": false,
+        "explanation": "No tiene actividad antimicrobiana."
+      },
+      {
+        "text": "B) Una hormona (ADH) que actúa en receptores V1 causando vasoconstricción; se usa como terapia de rescate en shock séptico refractario a catecolaminas.",
+        "isCorrect": true,
+        "explanation": "Restaura la presión cuando la adrenalina/noradrenalina fallan por acidosis o desensibilización. [cite: 119, 120, 122, 489, 490, 496]"
+      },
+      {
+        "text": "C) Un sedante.",
+        "isCorrect": false,
+        "explanation": "No tiene efectos depresores del sistema nervioso central."
+      },
+      {
+        "text": "D) Un tipo de suero.",
+        "isCorrect": false,
+        "explanation": "Es un fármaco vasoactivo."
+      },
+      {
+        "text": "E) Solo sirve para la diabetes.",
+        "isCorrect": false,
+        "explanation": "Se usa para la Diabetes Insípida central (V2), pero en shock el objetivo son los receptores V1 vasculares. [cite: 123, 498]"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Shock Anafiláctico",
+    "text": "¿Cuál es la principal causa de muerte en niños con \"Shock Anafiláctico\" mal manejado?",
+    "hint": "El tiempo de asfixia y shock es de minutos. [cite: 126, 507]",
+    "options": [
+      {
+        "text": "A) Insuficiencia renal.",
+        "isCorrect": false,
+        "explanation": "Es una complicación tardía; en anafilaxia la muerte ocurre antes por causas respiratorias. [cite: 128, 511]"
+      },
+      {
+        "text": "B) Obstrucción de la vía aérea superior (edema de laringe) y colapso cardiovascular.",
+        "isCorrect": true,
+        "explanation": "El edema de glotis impide la ventilación y la vasodilatación masiva causa un shock letal. Adrenalina IM es el antídoto. [cite: 125, 127, 502, 508, 509]"
+      },
+      {
+        "text": "C) Infección secundaria.",
+        "isCorrect": false,
+        "explanation": "No es el mecanismo de letalidad aguda de la alergia masiva."
+      },
+      {
+        "text": "D) Hemorragia digestiva.",
+        "isCorrect": false,
+        "explanation": "Inespecífico."
+      },
+      {
+        "text": "E) Diabetes.",
+        "isCorrect": false,
+        "explanation": "Sin relación causal."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Sepsis y Meningitis",
+    "text": "Un lactante de 4 meses con shock séptico presenta una \"Fontanela Abombada\". ¿Qué diagnóstico es OBLIGATORIO descartar de inmediato?",
+    "hint": "El abombamiento indica aumento de la presión dentro del cráneo. [cite: 131, 520]",
+    "options": [
+      {
+        "text": "A) Deshidratación.",
+        "isCorrect": false,
+        "explanation": "Causaría una fontanela hundida o deprimida, no abombada. [cite: 134, 524]"
+      },
+      {
+        "text": "B) Meningitis bacteriana aguda con hipertensión endocraneana.",
+        "isCorrect": true,
+        "explanation": "Es un signo de inflamación meníngea. Obliga a descartar efecto de masa antes de una punción lumbar. [cite: 130, 132, 133, 515, 521, 522]"
+      },
+      {
+        "text": "C) Hambre.",
+        "isCorrect": false,
+        "explanation": "Interpretación errónea de la clínica del lactante crítico."
+      },
+      {
+        "text": "D) Hernia inguinal.",
+        "isCorrect": false,
+        "explanation": "Patología abdominal, no neurológica."
+      },
+      {
+        "text": "E) Estreñimiento.",
+        "isCorrect": false,
+        "explanation": "Inespecífico."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Shock Obstructivo",
+    "text": "¿A qué se refiere el término \"Shock Obstructivo\" en pediatría?",
+    "hint": "El corazón quiere latir pero \"algo\" lo aprieta por fuera. [cite: 139, 533]",
+    "options": [
+      {
+        "text": "A) A que el niño tiene un hueso en la garganta.",
+        "isCorrect": false,
+        "explanation": "Referiría a obstrucción de vía aérea, no circulatoria primaria."
+      },
+      {
+        "text": "B) Fallo circulatorio por impedimento mecánico del llenado o vaciado cardíaco (ej. Neumotórax a tensión, Taponamiento cardíaco o TEP masivo).",
+        "isCorrect": true,
+        "explanation": "El tratamiento es mecánico (ej. pleurocentomía) y no solo con fluidos. [cite: 137, 140, 528, 534]"
+      },
+      {
+        "text": "C) Un tipo de alergia.",
+        "isCorrect": false,
+        "explanation": "Esto es shock distributivo."
+      },
+      {
+        "text": "D) Falta de agua en los vasos.",
+        "isCorrect": false,
+        "explanation": "Esto es shock hipovolémico. [cite: 141, 536]"
+      },
+      {
+        "text": "E) Infección por parásitos.",
+        "isCorrect": false,
+        "explanation": "Mecanismo infeccioso no mecánico."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Hipoglicemia en Shock",
+    "text": "¿Cuál es la dosis de \"Glucosa\" recomendada para tratar la hipoglicemia en un niño en shock?",
+    "hint": "Se debe usar una concentración segura para venas periféricas. [cite: 144, 550]",
+    "options": [
+      {
+        "text": "A) 20 ml/kg de SF.",
+        "isCorrect": false,
+        "explanation": "Esta es la dosis de expansión de volumen, no de glucosa. [cite: 143, 540]"
+      },
+      {
+        "text": "B) 2-4 ml/kg de Suero Glucosado al 10% (0.25 - 0.5 g/kg).",
+        "isCorrect": true,
+        "explanation": "Dosis rápida para proteger el cerebro sin causar flebitis química excesiva. [cite: 143, 145, 146, 542, 543, 544, 551, 552]"
+      },
+      {
+        "text": "C) 50 ml de miel.",
+        "isCorrect": false,
+        "explanation": "Contraindicado en shock (riesgo de aspiración e ineficacia rápida)."
+      },
+      {
+        "text": "D) Una ampolla de Glucagón.",
+        "isCorrect": false,
+        "explanation": "En un niño séptico las reservas de glucógeno están agotadas; el glucagón suele fallar. Se requiere glucosa directa. [cite: 143, 147, 148, 547, 554, 555]"
+      },
+      {
+        "text": "E) Solo se da comida oral.",
+        "isCorrect": false,
+        "explanation": "Inseguro en fase de shock."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Sepsis y Endocarditis",
+    "text": "¿Qué indica la presencia de \"Soplos cardíacos\" nuevos en un niño con sepsis?",
+    "hint": "El foco infeccioso está en las válvulas cardíacas. [cite: 152, 564]",
+    "options": [
+      {
+        "text": "A) Que el estetoscopio es nuevo.",
+        "isCorrect": false,
+        "explanation": "Distractor absurdo."
+      },
+      {
+        "text": "B) Sospecha de Endocarditis Bacteriana como foco de la sepsis.",
+        "isCorrect": true,
+        "explanation": "Obliga a tomar hemocultivos seriados y realizar ecocardiograma (Criterios de Duke). [cite: 150, 153, 559, 565]"
+      },
+      {
+        "text": "C) Que el niño hizo mucho ejercicio.",
+        "isCorrect": false,
+        "explanation": "La fiebre puede dar soplos funcionales, pero en sepsis uno nuevo obliga a descartar endocarditis."
+      },
+      {
+        "text": "D) Es normal en todos los niños con fiebre.",
+        "isCorrect": false,
+        "explanation": "Un soplo nuevo en paciente séptico nunca debe considerarse normal sin estudio."
+      },
+      {
+        "text": "E) No tiene importancia.",
+        "isCorrect": false,
+        "explanation": "Es un hallazgo clínico de alta relevancia diagnóstica."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Shock Hemorrágico",
+    "text": "En un niño con shock hemorrágico traumático, ¿en qué momento se decide la administración de hemoderivados (Protocolo de Transfusión Masiva)?",
+    "hint": "El exceso de cristaloides en trauma causa coagulopatía dilucional. [cite: 157, 570]",
+    "options": [
+      {
+        "text": "A) Después de 5 litros de suero.",
+        "isCorrect": false,
+        "explanation": "Volumen excesivo que agravaría la tríada de la muerte. [cite: 158, 569]"
+      },
+      {
+        "text": "B) Ante la falta de respuesta a los primeros 40 ml/kg de cristaloides y persistencia de sangrado activo.",
+        "isCorrect": true,
+        "explanation": "Se recomienda el uso temprano de sangre y plasma para evitar acidosis, coagulopatía e hipotermia. [cite: 155, 158, 570]"
+      },
+      {
+        "text": "C) Solo si el niño tiene anemia previa.",
+        "isCorrect": false,
+        "explanation": "La transfusión es por pérdida aguda, independientemente de la basal."
+      },
+      {
+        "text": "D) A las 24 horas del trauma.",
+        "isCorrect": false,
+        "explanation": "Demasiado tarde; el manejo es en la fase inicial de reanimación."
+      },
+      {
+        "text": "E) Si el niño tiene sed.",
+        "isCorrect": false,
+        "explanation": "Síntoma inespecífico de hipovolemia, no define transfusión masiva."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Acidosis Metabólica en Shock",
+    "text": "¿Cuál es el valor del \"Déficit de Base\" (EB) en la gasometría de un paciente en shock?",
+    "hint": "Un EB de -15 es mucho más grave que uno de -5. [cite: 162]",
+    "options": [
+      {
+        "text": "A) No tiene valor.",
+        "isCorrect": false,
+        "explanation": "Es un pilar de la evaluación bioquímica del estado metabólico."
+      },
+      {
+        "text": "B) Refleja la severidad de la acidosis metabólica y la magnitud de la deuda de oxígeno tisular.",
+        "isCorrect": true,
+        "explanation": "Es un marcador indirecto de hipoperfusión. Su normalización es meta de la reanimación. [cite: 160, 163]"
+      },
+      {
+        "text": "C) Mide la presión de la sangre.",
+        "isCorrect": false,
+        "explanation": "Eso es la tensiometría."
+      },
+      {
+        "text": "D) Mide la temperatura.",
+        "isCorrect": false,
+        "explanation": "Eso es la termometría."
+      },
+      {
+        "text": "E) Ver si el niño tiene asma.",
+        "isCorrect": false,
+        "explanation": "Evaluado por pH/pCO2 y clínica, no por el déficit de base sistémico."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Sepsis en Anemia Falciforme",
+    "text": "¿Qué microorganismo es el responsable de la mayoría de las sepsis en pacientes con \"Anemia de Células Falciformes\"?",
+    "hint": "Al igual que en asplénicos quirúrgicos, los capsulados son los protagonistas. [cite: 166]",
+    "options": [
+      {
+        "text": "A) Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "Frecuente en piel, pero no es la asociación específica por asplenia funcional."
+      },
+      {
+        "text": "B) Streptococcus pneumoniae (debido a la asplenia funcional).",
+        "isCorrect": true,
+        "explanation": "La autoesplenectomía por infartos los deja vulnerables al neumococo. Requieren profilaxis con penicilina. [cite: 164, 165, 167]"
+      },
+      {
+        "text": "C) E. coli.",
+        "isCorrect": false,
+        "explanation": "Común en ITU, no la principal por déficit esplénico."
+      },
+      {
+        "text": "D) Listeria.",
+        "isCorrect": false,
+        "explanation": "Patógeno neonatal."
+      },
+      {
+        "text": "E) Candida.",
+        "isCorrect": false,
+        "explanation": "Inmunocompromiso celular profundo."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Manejo de Vía Aérea en Shock",
+    "text": "¿Cuál es la principal precaución al intubar a un niño en shock hipovolémico severo?",
+    "hint": "La presión del ventilador \"aprieta\" la vena cava que ya está vacía. [cite: 171]",
+    "options": [
+      {
+        "text": "A) Que se le caigan los dientes.",
+        "isCorrect": false,
+        "explanation": "Riesgo menor comparado con el colapso hemodinámico vital."
+      },
+      {
+        "text": "B) La inducción anestésica y la presión positiva de la ventilación disminuyen el retorno venoso, pudiendo causar un paro cardíaco inmediato si no se ha repuesto el volumen.",
+        "isCorrect": true,
+        "explanation": "Siempre se debe expandir la volemia antes o durante la intubación para evitar el colapso post-inducción. [cite: 169, 172]"
+      },
+      {
+        "text": "C) Que el niño se despierte.",
+        "isCorrect": false,
+        "explanation": "Se evita con sedación adecuada tras estabilizar hemodinámica."
+      },
+      {
+        "text": "D) El tipo de laringoscopio.",
+        "isCorrect": false,
+        "explanation": "Herramienta técnica, no precaución fisiopatológica sistémica."
+      },
+      {
+        "text": "E) Que el tubo sea muy largo.",
+        "isCorrect": false,
+        "explanation": "Error de técnica (intubación selectiva), pero el paro por precarga es el riesgo mayor."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Complicaciones Locales de Vasoactivos",
+    "text": "¿Qué fármaco se utiliza para neutralizar la \"Extravasación de catecolaminas\" (ej. Adrenalina) en el tejido periférico?",
+    "hint": "Se inyecta alrededor de la zona de necrosis inminente. [cite: 175]",
+    "options": [
+      {
+        "text": "A) Penicilina.",
+        "isCorrect": false,
+        "explanation": "Antibiótico sin efecto vascular local."
+      },
+      {
+        "text": "B) Fentolamina (alfa-bloqueador local).",
+        "isCorrect": true,
+        "explanation": "Bloquea los receptores alfa-1 locales, permitiendo que los vasos se dilaten y la piel vuelva a perfundirse. [cite: 174, 176]"
+      },
+      {
+        "text": "C) Agua oxigenada.",
+        "isCorrect": false,
+        "explanation": "Irritante tisular."
+      },
+      {
+        "text": "D) Heparina.",
+        "isCorrect": false,
+        "explanation": "Anticoagulante."
+      },
+      {
+        "text": "E) Insulina.",
+        "isCorrect": false,
+        "explanation": "Sin indicación en necrosis tisular por catecolaminas."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Sepsis Neonatal Precoz",
+    "text": "¿Cuál es la causa más frecuente de \"Shock Séptico\" en la etapa neonatal precoz (0-72 horas)?",
+    "hint": "Son gérmenes que colonizan el canal del parto. [cite: 179]",
+    "options": [
+      {
+        "text": "A) Streptococcus pneumoniae.",
+        "isCorrect": false,
+        "explanation": "Causa de sepsis tardía o fuera de etapa neonatal."
+      },
+      {
+        "text": "B) Streptococcus agalactiae (Grupo B) y Escherichia coli.",
+        "isCorrect": true,
+        "explanation": "La transmisión vertical durante el parto es la vía principal. Se previene con screening y profilaxis materna. [cite: 178, 180, 181]"
+      },
+      {
+        "text": "C) Salmonella.",
+        "isCorrect": false,
+        "explanation": "Causa de gastroenteritis o fiebre tifoidea, inusual en shock neonatal precoz."
+      },
+      {
+        "text": "D) Virus Influenza.",
+        "isCorrect": false,
+        "explanation": "No es la causa bacteriana más frecuente de shock precoz."
+      },
+      {
+        "text": "E) Bordetella pertussis.",
+        "isCorrect": false,
+        "explanation": "Causa tos convulsiva, no shock séptico sistémico fulminante por vía vertical."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Diagnóstico Diferencial PSH",
+    "text": "¿Qué indica la presencia de \"Púrpura de Schoenlein-Henoch\" en el contexto de un shock?",
+    "hint": "No confunda la púrpura palpable de la vasculitis con la púrpura necrótica del shock séptico. [cite: 186]",
+    "options": [
+      {
+        "text": "A) Que el niño tiene una sepsis por meningococo.",
+        "isCorrect": false,
+        "explanation": "Confusión peligrosa; el meningococo da púrpura necrótica y CEG severo."
+      },
+      {
+        "text": "B) Es un error; la PSH es una vasculitis benigna que RARAMENTE causa shock hemodinámico masivo.",
+        "isCorrect": true,
+        "explanation": "La PSH se presenta con dolor articular/abdominal en niño estable; el shock séptico es un cuadro febril crítico. [cite: 184, 187, 188]"
+      },
+      {
+        "text": "C) Que el niño tiene hambre.",
+        "isCorrect": false,
+        "explanation": "Inespecífico."
+      },
+      {
+        "text": "D) Signo de cáncer.",
+        "isCorrect": false,
+        "explanation": "La PSH es un proceso inflamatorio mediado por IgA."
+      },
+      {
+        "text": "E) Signo de asma.",
+        "isCorrect": false,
+        "explanation": "Sin relación."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Utilidad de Ecocardiografía",
+    "text": "¿Cuál es la función del \"Ecocardiograma\" en el shock séptico persistente?",
+    "hint": "Permite ver cómo se mueve el músculo cardíaco y cuánto se llenan las cavidades. [cite: 192]",
+    "options": [
+      {
+        "text": "A) Diagnosticar neumonía.",
+        "isCorrect": false,
+        "explanation": "Eso se hace con ecografía pulmonar o Rx."
+      },
+      {
+        "text": "B) Diferenciar entre fallo de contractilidad (necesidad de inótropos) y vasoplejía extrema (necesidad de vasopresores).",
+        "isCorrect": true,
+        "explanation": "Es la herramienta no invasiva definitiva para guiar el uso racional de fármacos vasoactivos complejos. [cite: 190, 193]"
+      },
+      {
+        "text": "C) Ver el tamaño de los pulmones.",
+        "isCorrect": false,
+        "explanation": "El eco evalúa estructuras cardíacas."
+      },
+      {
+        "text": "D) No sirve en sepsis.",
+        "isCorrect": false,
+        "explanation": "Falso; es fundamental en el shock refractario."
+      },
+      {
+        "text": "E) Medir la presión de la cabeza.",
+        "isCorrect": false,
+        "explanation": "Eso se mide con Doppler transcraneal o sensor de PIC."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Disfunción Miocárdica",
+    "text": "¿A qué se refiere el término \"Sepsis-asociada a disfunción miocárdica\"?",
+    "hint": "Es el componente cardiogénico presente en el shock séptico. [cite: 197]",
+    "options": [
+      {
+        "text": "A) A un infarto al corazón por comer grasas.",
+        "isCorrect": false,
+        "explanation": "Mecanismo del adulto, no el \"aturdimiento\" por sepsis infantil."
+      },
+      {
+        "text": "B) A la depresión transitoria de la función sistólica y diastólica del ventrículo izquierdo causada por citoquinas inflamatorias (ej. TNF-alfa).",
+        "isCorrect": true,
+        "explanation": "A pesar de corazón sano previo, la sepsis lo \"aturde\", bajando la fracción de eyección. Muchos necesitan Adrenalina o Dobutamina. [cite: 195, 198, 199]"
+      },
+      {
+        "text": "C) A un soplo inocente.",
+        "isCorrect": false,
+        "explanation": "Los soplos son hallazgos acústicos, no definen la función miocárdica global."
+      },
+      {
+        "text": "D) Solo ocurre en ancianos.",
+        "isCorrect": false,
+        "explanation": "Es un fenómeno muy frecuente en la sepsis grave pediátrica."
+      },
+      {
+        "text": "E) Se cura con vitaminas.",
+        "isCorrect": false,
+        "explanation": "Requiere soporte inotrópico y control de la infección."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Hiperglicemia en Shock",
+    "text": "¿Cuál es el principal riesgo de la hiperglicemia severa durante la sepsis?",
+    "hint": "Los niveles altos de azúcar funcionan como un diurético y \"duermen\" a los blancos. [cite: 202]",
+    "options": [
+      {
+        "text": "A) Que el niño sea muy alto.",
+        "isCorrect": false,
+        "explanation": "Inmaterial."
+      },
+      {
+        "text": "B) Aumento de la diuresis osmótica (empeora la deshidratación) e inmunosupresión de los neutrófilos.",
+        "isCorrect": true,
+        "explanation": "Se busca control glicémico moderado (ej. 140-180) para evitar complicaciones sin caer en hipoglicemia iatrogénica. [cite: 200, 203]"
+      },
+      {
+        "text": "C) Mejora la cicatrización.",
+        "isCorrect": false,
+        "explanation": "La hiperglicemia la empeora."
+      },
+      {
+        "text": "D) Ninguno.",
+        "isCorrect": false,
+        "explanation": "Aumenta la mortalidad en paciente crítico."
+      },
+      {
+        "text": "E) El azúcar mata a las bacterias.",
+        "isCorrect": false,
+        "explanation": "Al contrario, favorece el crecimiento bacteriano y altera la fagocitosis."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Disfunción Hepática en Sepsis",
+    "text": "¿Qué hallazgo analítico sugiere un \"Fallo Hepático\" agudo dentro de una sepsis grave?",
+    "hint": "El hígado deja de fabricar factores de coagulación. [cite: 207]",
+    "options": [
+      {
+        "text": "A) Aumento de las transaminasas y prolongación del Tiempo de Protrombina (TP) que no corrige con vitamina K.",
+        "isCorrect": true,
+        "explanation": "La disfunción hepática es parte del score SOFA/Phoenix y es marcador de falla multiorgánica. [cite: 205, 208]"
+      },
+      {
+        "text": "B) Bilirrubina de 0.1.",
+        "isCorrect": false,
+        "explanation": "Valor normal."
+      },
+      {
+        "text": "C) Albúmina de 4.5.",
+        "isCorrect": false,
+        "explanation": "Valor normal."
+      },
+      {
+        "text": "D) Glicemia normal.",
+        "isCorrect": false,
+        "explanation": "El fallo hepático severo puede causar hipoglicemia por falla de gluconeogénesis."
+      },
+      {
+        "text": "E) Colesterol bajo.",
+        "isCorrect": false,
+        "explanation": "Hallazgo inespecífico en enfermedad crítica."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Toma de Hemocultivos",
+    "text": "¿Cuál es la principal recomendación para la \"Toma de Hemocultivos\" en sepsis?",
+    "hint": "A mayor volumen de sangre, mayor probabilidad de detectar el germen. [cite: 212]",
+    "options": [
+      {
+        "text": "A) Tomar solo un frasco de 1 ml.",
+        "isCorrect": false,
+        "explanation": "Baja tasa de detección por baja carga bacteriana por ml en niños. [cite: 213]"
+      },
+      {
+        "text": "B) Tomar al menos dos muestras de sitios diferentes, con volumen adecuado al peso del niño, antes de iniciar el antibiótico (sin retrasarlo).",
+        "isCorrect": true,
+        "explanation": "La sensibilidad depende del volumen. Tomar de dos sitios ayuda a diferenciar contaminantes. [cite: 210, 213]"
+      },
+      {
+        "text": "C) Tomar sangre de un dedo.",
+        "isCorrect": false,
+        "explanation": "Aumenta riesgo de contaminación con flora de piel."
+      },
+      {
+        "text": "D) No sirven en niños.",
+        "isCorrect": false,
+        "explanation": "Son el estándar diagnóstico etiológico."
+      },
+      {
+        "text": "E) Solo se toman si el niño tiene escalofríos.",
+        "isCorrect": false,
+        "explanation": "Deben tomarse ante cualquier sospecha de sepsis independientemente del momento del pico febril."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Hipotensión Relativa",
+    "text": "¿Qué es la \"Hipotensión relativa\" en un niño hipertenso crónico (ej. nefrópata) que entra en sepsis?",
+    "hint": "Se evalúa el cambio individual más que la tabla estadística. [cite: 217]",
+    "options": [
+      {
+        "text": "A) Que su presión es normal para todos.",
+        "isCorrect": false,
+        "explanation": "Ignoraría el estado de shock individual."
+      },
+      {
+        "text": "B) Una caída de la presión arterial de > 30-40% respecto a su valor basal, aunque el valor absoluto parezca normal para su edad.",
+        "isCorrect": true,
+        "explanation": "Pueden estar en shock con presiones de \"niño normal\" porque su basal era mucho más alta. [cite: 215, 218]"
+      },
+      {
+        "text": "C) No existe.",
+        "isCorrect": false,
+        "explanation": "Concepto clave en medicina intensiva pediátrica."
+      },
+      {
+        "text": "D) Que tiene la presión muy alta.",
+        "isCorrect": false,
+        "explanation": "Eso es hipertensión."
+      },
+      {
+        "text": "E) Se trata con menos agua.",
+        "isCorrect": false,
+        "explanation": "Requiere reanimación agresiva igual que cualquier shock."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Maniobras de Rescate Físicas",
+    "text": "¿Cuál es el beneficio de la \"Posición de Trendelenburg\" (pies arriba) en el shock?",
+    "hint": "Es una medida de rescate física inmediata. [cite: 222]",
+    "options": [
+      {
+        "text": "A) Curar la sepsis.",
+        "isCorrect": false,
+        "explanation": "No tiene efecto etiológico."
+      },
+      {
+        "text": "B) Maniobra temporal para aumentar el retorno venoso al corazón (autotransfusión) mientras se instalan accesos venosos.",
+        "isCorrect": true,
+        "explanation": "Ayuda a mantener la presión arterial momentáneamente, pero no reemplaza la expansión de volumen real. [cite: 220, 223]"
+      },
+      {
+        "text": "C) Evitar que el niño vomite.",
+        "isCorrect": false,
+        "explanation": "Podría incluso favorecer el reflujo; se usa por motivos hemodinámicos."
+      },
+      {
+        "text": "D) Para que el niño se duerma.",
+        "isCorrect": false,
+        "explanation": "Inmaterial."
+      },
+      {
+        "text": "E) No tiene beneficio.",
+        "isCorrect": false,
+        "explanation": "Es una maniobra clásica de soporte inicial."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Edema Pulmonar por Sobrecarga",
+    "text": "¿Qué hallazgo en la radiografía de tórax es típico del \"Edema Agudo de Pulmón\" por sobrecarga de fluidos?",
+    "hint": "Es el signo de \"encharcamiento\" pulmonar. [cite: 227]",
+    "options": [
+      {
+        "text": "A) Pulmones negros y limpios.",
+        "isCorrect": false,
+        "explanation": "Valor normal o de atrapamiento aéreo (asma)."
+      },
+      {
+        "text": "B) Infiltrados intersticiales difusos, líneas B de Kerley y aumento de la silueta cardíaca.",
+        "isCorrect": true,
+        "explanation": "Permite diferenciar el edema cardiogénico/sobrecarga de una neumonía focal. [cite: 225, 227]"
+      },
+      {
+        "text": "C) Una mancha blanca circular.",
+        "isCorrect": false,
+        "explanation": "Daría aspecto de neumonía redonda o tumor."
+      },
+      {
+        "text": "D) Fractura de esternón.",
+        "isCorrect": false,
+        "explanation": "Hallazgo traumático óseo."
+      },
+      {
+        "text": "E) No se ve nada.",
+        "isCorrect": false,
+        "explanation": "Falso; el edema pulmonar es muy evidente en la Rx."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Manejo de Hipocalcemia",
+    "text": "¿Cuál es el manejo de la \"Hipocalcemia\" en el shock séptico?",
+    "hint": "El calcio es fundamental para la contractilidad miocárdica y el tono vascular. [cite: 230, 231]",
+    "options": [
+      {
+        "text": "A) Dar mucha leche.",
+        "isCorrect": false,
+        "explanation": "Inútil en fase aguda crítica."
+      },
+      {
+        "text": "B) Gluconato de Calcio al 10% ev lento bajo monitorización cardíaca.",
+        "isCorrect": true,
+        "explanation": "Asegurar niveles normales de calcio iónico es esencial para que los vasoactivos funcionen en shock refractario. [cite: 229, 231]"
+      },
+      {
+        "text": "C) Inyectar vitamina D.",
+        "isCorrect": false,
+        "explanation": "Efecto a largo plazo, no para emergencia del shock."
+      },
+      {
+        "text": "D) No se trata.",
+        "isCorrect": false,
+        "explanation": "Error; la hipocalcemia severa deprime la función cardíaca."
+      },
+      {
+        "text": "E) Solo si el niño llora.",
+        "isCorrect": false,
+        "explanation": "La indicación es bioquímica y hemodinámica."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Pronóstico por Lactato",
+    "text": "¿Qué indica un \"Lactato\" que sube de 2 a 6 durante el tratamiento del shock?",
+    "hint": "El lactato es el \"termómetro\" del fracaso circulatorio. [cite: 235]",
+    "options": [
+      {
+        "text": "A) Que el niño está mejorando.",
+        "isCorrect": false,
+        "explanation": "Falso; el éxito es el aclaramiento (descenso)."
+      },
+      {
+        "text": "B) Que la reanimación es insuficiente y el metabolismo anaeróbico está aumentando (mal pronóstico).",
+        "isCorrect": true,
+        "explanation": "Obliga a revaluar todo el esquema terapéutico (volumen, inótropos, vía aérea). [cite: 233, 236]"
+      },
+      {
+        "text": "C) Que el niño hizo mucho ejercicio.",
+        "isCorrect": false,
+        "explanation": "En el contexto de shock, el aumento es por hipoxia tisular."
+      },
+      {
+        "text": "D) Que la glucosa está baja.",
+        "isCorrect": false,
+        "explanation": "No tiene relación directa inversa obligatoria con la glicemia."
+      },
+      {
+        "text": "E) Es un error de la máquina.",
+        "isCorrect": false,
+        "explanation": "Debe asumirse como signo de alarma real."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Eliminación de Adrenalina",
+    "text": "¿Cuál es la principal vía de eliminación de la \"Adrenalina\"?",
+    "hint": "Por eso su vida media es de pocos minutos y requiere infusión continua. [cite: 239]",
+    "options": [
+      {
+        "text": "A) Renal.",
+        "isCorrect": false,
+        "explanation": "Eliminación de metabolitos finales, no vía de inactivación principal."
+      },
+      {
+        "text": "B) Metabolismo rápido por las enzimas COMT y MAO en tejidos e hígado.",
+        "isCorrect": true,
+        "explanation": "La brevedad de su efecto permite titular la dosis minuto a minuto según respuesta. [cite: 238, 240]"
+      },
+      {
+        "text": "C) Se exhala por el pulmón.",
+        "isCorrect": false,
+        "explanation": "Falso."
+      },
+      {
+        "text": "D) No se elimina.",
+        "isCorrect": false,
+        "explanation": "Falso; tiene un clearance muy alto."
+      },
+      {
+        "text": "E) Por el sudor.",
+        "isCorrect": false,
+        "explanation": "Inexistente."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Concepto de Hora de Oro",
+    "text": "¿Qué es la \"Hora de Oro\" en medicina de emergencia pediátrica?",
+    "hint": "En sepsis, es la hora donde se debe poner el volumen y el antibiótico. [cite: 244]",
+    "options": [
+      {
+        "text": "A) Una hora donde todo brilla.",
+        "isCorrect": false,
+        "explanation": "Distractor inespecífico."
+      },
+      {
+        "text": "B) El periodo crítico inicial tras el reconocimiento de una emergencia donde las intervenciones oportunas tienen el mayor impacto en reducir la mortalidad.",
+        "isCorrect": true,
+        "explanation": "Concepto fundamental que prioriza velocidad y eficiencia del equipo de salud. [cite: 242, 245]"
+      },
+      {
+        "text": "C) La hora de la comida.",
+        "isCorrect": false,
+        "explanation": "Inmaterial."
+      },
+      {
+        "text": "D) 60 minutos de juego.",
+        "isCorrect": false,
+        "explanation": "Inmaterial."
+      },
+      {
+        "text": "E) El tiempo que tarda una ambulancia.",
+        "isCorrect": false,
+        "explanation": "Es el tiempo que el médico tiene para salvar la vida del niño."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Urgencias Pediátricas",
+    "topic": "Objetivo Final del Tratamiento",
+    "text": "¿Cuál es el objetivo final de tratar un \"Shock\"?",
+    "hint": "Es una batalla contra la hipoxia celular. [cite: 249]",
+    "options": [
+      {
+        "text": "A) Que los exámenes salgan bonitos.",
+        "isCorrect": false,
+        "explanation": "Falso; se tratan pacientes, no números aislados."
+      },
+      {
+        "text": "B) Restaurar el equilibrio entre el aporte de oxígeno y la demanda metabólica tisular para prevenir la falla orgánica múltiple.",
+        "isCorrect": true,
+        "explanation": "La meta no es un número en el monitor, sino que las células reciban lo que necesitan para seguir vivas. [cite: 247, 250]"
+      },
+      {
+        "text": "C) Que el niño deje de gritar.",
+        "isCorrect": false,
+        "explanation": "El llanto a menudo es signo de vitalidad preservada."
+      },
+      {
+        "text": "D) Bajar la fiebre.",
+        "isCorrect": false,
+        "explanation": "La fiebre es secundaria al proceso inflamatorio base."
+      },
+      {
+        "text": "E) Que el hospital no se llene.",
+        "isCorrect": false,
+        "explanation": "Inmaterial."
+      }
+    ]
+  }
+]
