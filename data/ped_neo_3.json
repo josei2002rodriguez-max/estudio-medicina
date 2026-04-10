@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Taquipnea Transitoria del Recién Nacido (TTRN)",
+    "text": "Recién nacido de 38 semanas, nacido por cesárea electiva sin trabajo de parto. A los 30 minutos de vida inicia taquipnea (85 rpm) y retracción intercostal leve. La radiografía de tórax muestra aumento de la trama vascular hiliar, cisuritis y pulmones hiperinsuflados[cite: 4, 5, 6]. ¿Cuál es el diagnóstico más probable? [cite: 7]",
+    "hint": "Cesárea electiva + Recién nacido de término + Radiografía con 'corazón peludo' y líquido en cisuras[cite: 14].",
+    "options": [
+      {
+        "text": "A) Enfermedad de Membrana Hialina (EMH).",
+        "isCorrect": false,
+        "explanation": "Para que fuera la correcta, el niño debería ser prematuro (< 34 semanas) y la radiografía mostraría pulmones pequeños con patrón de vidrio esmerilado[cite: 19, 20]."
+      },
+      {
+        "text": "B) Taquipnea Transitoria del Recién Nacido (TTRN).",
+        "isCorrect": true,
+        "explanation": "La TTRN se produce por un retraso en la reabsorción del líquido pulmonar fetal[cite: 15]. Es típica de niños de término nacidos por cesárea y suele ser autolimitada (24-72h)[cite: 16, 17]."
+      },
+      {
+        "text": "C) Síndrome de Aspiración de Meconio (SAM).",
+        "isCorrect": false,
+        "explanation": "Requeriría el antecedente de líquido amniótico meconial y presentaría infiltrados algodonosos en la radiografía[cite: 21]."
+      },
+      {
+        "text": "D) Neumonía Neonatal por Estreptococo grupo B.",
+        "isCorrect": false,
+        "explanation": "Se sospecharía si hubiera factores de riesgo infecciosos como RPM prolongada o fiebre materna[cite: 22]."
+      },
+      {
+        "text": "E) Hernia diafragmática congénita.",
+        "isCorrect": false,
+        "explanation": "Clínicamente presentaría un abdomen excavado y ruidos hidroaéreos en el tórax[cite: 23]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Síndrome de Aspiración de Meconio (SAM)",
+    "text": "Un recién nacido de término nace con líquido amniótico teñido de meconio espeso ('puré de arvejas')[cite: 25]. A los pocos minutos presenta dificultad respiratoria severa y tórax abombado. ¿Cuál es el mecanismo fisiopatológico principal de la obstrucción en el SAM? [cite: 26, 27]",
+    "hint": "El meconio es viscoso y genera una obstrucción parcial que permite la entrada de aire pero dificulta su salida[cite: 34].",
+    "options": [
+      {
+        "text": "A) Déficit de surfactante únicamente.",
+        "isCorrect": false,
+        "explanation": "Aunque ocurre secundariamente por inactivación, el mecanismo definitorio del tórax abombado es la obstrucción mecánica[cite: 38]."
+      },
+      {
+        "text": "B) Efecto de 'válvula' por el meconio en la vía aérea pequeña, causando atrapamiento aéreo.",
+        "isCorrect": true,
+        "explanation": "El SAM produce una obstrucción mecánica tipo válvula que lleva a hiperinsuflación y alto riesgo de neumotórax[cite: 35]. También produce neumonitis química e inactiva el surfactante[cite: 36]."
+      },
+      {
+        "text": "C) Falta de reabsorción de líquido por los linfáticos.",
+        "isCorrect": false,
+        "explanation": "Este es el mecanismo fisiopatológico de la TTRN[cite: 39]."
+      },
+      {
+        "text": "D) Agujero en el diafragma.",
+        "isCorrect": false,
+        "explanation": "Mecanismo propio de la hernia diafragmática congénita[cite: 31]."
+      },
+      {
+        "text": "E) Inmadurez de los neumocitos tipo I.",
+        "isCorrect": false,
+        "explanation": "No es el mecanismo principal de obstrucción en el aspirativo meconial[cite: 32]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Sepsis y Neumonía Neonatal",
+    "text": "Recién nacido de 35 semanas, hijo de madre con fiebre de 38.5°C durante el parto y rotura de membranas de 20 horas[cite: 41, 42]. Presenta dificultad respiratoria, inestabilidad térmica y mala perfusión. ¿Cuál es la conducta inmediata más adecuada? [cite: 42, 43]",
+    "hint": "Fiebre materna + RPM prolongada (> 18 horas) + Distrés respiratorio = Sepsis/Neumonía neonatal hasta demostrar lo contrario[cite: 50, 51].",
+    "options": [
+      {
+        "text": "A) Solo observación y repetir Rx en 4 horas.",
+        "isCorrect": false,
+        "explanation": "Peligroso; la sepsis neonatal progresa rápidamente y requiere intervención inmediata[cite: 56]."
+      },
+      {
+        "text": "B) Administrar surfactante exógeno.",
+        "isCorrect": false,
+        "explanation": "Podría requerirse por inactivación secundaria, pero no es la prioridad frente al tratamiento antibiótico[cite: 55]."
+      },
+      {
+        "text": "C) Tomar cultivos e iniciar antibióticos empíricos (Ampicilina + Gentamicina).",
+        "isCorrect": true,
+        "explanation": "Ante factores de riesgo y clínica, se debe sospechar infección por S. agalactiae o E. coli e iniciar tratamiento precoz para evitar el shock séptico[cite: 52, 53]."
+      },
+      {
+        "text": "D) Realizar una ecografía de caderas.",
+        "isCorrect": false,
+        "explanation": "Examen de screening irrelevante en el manejo agudo del distrés respiratorio[cite: 47]."
+      },
+      {
+        "text": "E) Dar de alta con lactancia materna.",
+        "isCorrect": false,
+        "explanation": "El paciente presenta signos de gravedad que requieren hospitalización inmediata[cite: 48]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Radiología del SAM",
+    "text": "¿Qué hallazgo radiológico es más probable encontrar en un niño con Síndrome de Aspiración de Meconio (SAM) severo? [cite: 58]",
+    "hint": "Es una placa 'sucia' y desordenada[cite: 65].",
+    "options": [
+      {
+        "text": "A) Pulmones negros y pequeños.",
+        "isCorrect": false,
+        "explanation": "Esta descripción corresponde clásicamente a la Enfermedad de Membrana Hialina (EMH)[cite: 68]."
+      },
+      {
+        "text": "B) Infiltrados algodonosos gruesos, difusos y asimétricos, con zonas de atelectasia e hiperinsuflación.",
+        "isCorrect": true,
+        "explanation": "Refleja la patología de parches: el meconio obstruye zonas causando atelectasias y en otras genera atrapamiento de aire[cite: 66]."
+      },
+      {
+        "text": "C) Corazón pequeño y campos pulmonares limpios.",
+        "isCorrect": false,
+        "explanation": "No es compatible con la inflamación y obstrucción del SAM[cite: 61]."
+      },
+      {
+        "text": "D) Cisuritis aislada.",
+        "isCorrect": false,
+        "explanation": "Hallazgo característico de la Taquipnea Transitoria del Recién Nacido (TTRN)[cite: 69]."
+      },
+      {
+        "text": "E) Gran burbuja de aire en el estómago.",
+        "isCorrect": false,
+        "explanation": "Hallazgo inespecífico que no define la patología pulmonar del SAM[cite: 63]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipertensión Pulmonar Persistente (HPPN)",
+    "text": "Un recién nacido de término con SAM severo presenta hipoxemia refractaria al oxígeno al 100% y una diferencia de saturación pre-ductal y post-ductal mayor al 10%[cite: 71, 72, 73]. ¿Qué complicación sospecha? [cite: 73]",
+    "hint": "El gradiente de saturación pre y post-ductal indica un cortocircuito de derecha a izquierda a través del ductus arterioso[cite: 80].",
+    "options": [
+      {
+        "text": "A) Neumotórax izquierdo.",
+        "isCorrect": false,
+        "explanation": "Causaría asimetría auscultatoria, pero no el gradiente específico de saturación pre/post ductal[cite: 84]."
+      },
+      {
+        "text": "B) Hipertensión Pulmonar Persistente del Recién Nacido (HPPN).",
+        "isCorrect": true,
+        "explanation": "Las resistencias vasculares pulmonares altas impiden el flujo por los pulmones, escapando sangre no oxigenada por el ductus hacia la aorta[cite: 81, 82]."
+      },
+      {
+        "text": "C) Conducto arterioso cerrado.",
+        "isCorrect": false,
+        "explanation": "Si el conducto estuviera cerrado, no existiría el gradiente de saturación característico[cite: 76]."
+      },
+      {
+        "text": "D) Estenosis pilórica.",
+        "isCorrect": false,
+        "explanation": "Patología digestiva sin relación con la oxigenación neonatal inmediata[cite: 77]."
+      },
+      {
+        "text": "E) Hemorragia intraventricular.",
+        "isCorrect": false,
+        "explanation": "Complicación neurológica frecuente en prematuros, no causa el gradiente descrito[cite: 78]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Epidemiología del Distrés Respiratorio",
+    "text": "¿Cuál es la causa más frecuente de distrés respiratorio en el recién nacido de término según las estadísticas globales? [cite: 86]",
+    "hint": "Es un cuadro leve pero muy prevalente, especialmente con el aumento de las cesáreas[cite: 93].",
+    "options": [
+      {
+        "text": "A) Enfermedad de Membrana Hialina.",
+        "isCorrect": false,
+        "explanation": "Es la causa más frecuente en el prematuro, no en el niño de término[cite: 96]."
+      },
+      {
+        "text": "B) Taquipnea Transitoria del Recién Nacido (TTRN).",
+        "isCorrect": true,
+        "explanation": "La TTRN es la patología respiratoria más común en neonatos de término y cercanos al término (35-37 semanas)[cite: 94]."
+      },
+      {
+        "text": "C) Hernia diafragmática.",
+        "isCorrect": false,
+        "explanation": "Es una malformación congénita de baja incidencia comparada con la TTRN[cite: 89]."
+      },
+      {
+        "text": "D) Malformación adenomatoidea quística.",
+        "isCorrect": false,
+        "explanation": "Patología estructural pulmonar poco frecuente[cite: 90]."
+      },
+      {
+        "text": "E) Neumotórax espontáneo.",
+        "isCorrect": false,
+        "explanation": "Aunque ocurre, su prevalencia es menor a la de la TTRN[cite: 91]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hernia Diafragmática Congénita",
+    "text": "Un recién nacido presenta distrés respiratorio inmediato tras el parto, abdomen excavado (escafoideo) y se auscultan ruidos hidroaéreos en el hemitórax izquierdo[cite: 98]. ¿Cuál es la primera maniobra de reanimación CONTRAINDICADA? [cite: 99]",
+    "hint": "El aire de la máscara inflará los intestinos que están dentro del pecho, comprimiendo más el pulmón[cite: 106].",
+    "options": [
+      {
+        "text": "A) Intubación orotraqueal.",
+        "isCorrect": false,
+        "explanation": "Es la conducta correcta y obligatoria para ventilar el pulmón sin distender el abdomen[cite: 108, 110]."
+      },
+      {
+        "text": "B) Ventilación con bolsa y máscara (Ambú).",
+        "isCorrect": true,
+        "explanation": "Contraindicada porque introduce aire al tracto digestivo herniado, agravando el colapso pulmonar ipsilateral y contralateral[cite: 107]."
+      },
+      {
+        "text": "C) Aspiración gástrica.",
+        "isCorrect": false,
+        "explanation": "Maniobra útil para descomprimir el tracto gastrointestinal herniado[cite: 102]."
+      },
+      {
+        "text": "D) Monitorización de saturación.",
+        "isCorrect": false,
+        "explanation": "Necesaria para evaluar la estabilidad del paciente durante la reanimación[cite: 103]."
+      },
+      {
+        "text": "E) Canalización de vena umbilical.",
+        "isCorrect": false,
+        "explanation": "Medida de soporte hemodinámico permitida en el manejo inicial[cite: 104]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Evaluación Clínica (Silverman-Anderson)",
+    "text": "En la escala de Silverman-Anderson, ¿cuál de los siguientes signos se considera el de peor pronóstico y mayor puntaje (2 puntos)? [cite: 112]",
+    "hint": "El balanceo indica que el diafragma está haciendo un esfuerzo masivo porque el tórax no se expande[cite: 119].",
+    "options": [
+      {
+        "text": "A) Aleteo nasal discreto.",
+        "isCorrect": false,
+        "explanation": "Se considera un signo leve que puntúa 1 en la escala[cite: 113]."
+      },
+      {
+        "text": "B) Disociación toraco-abdominal (movimiento de balanceo).",
+        "isCorrect": true,
+        "explanation": "La disociación marcada puntúa 2; es un signo de agotamiento muscular inminente[cite: 120]."
+      },
+      {
+        "text": "C) Retracción intercostal leve.",
+        "isCorrect": false,
+        "explanation": "Puntúa 1; refleja un esfuerzo respiratorio moderado[cite: 115]."
+      },
+      {
+        "text": "D) Quejido audible con fonendoscopio.",
+        "isCorrect": false,
+        "explanation": "Puntúa solo 1 punto. El quejido audible a distancia es el que puntúa 2[cite: 122, 123]."
+      },
+      {
+        "text": "E) Tórax inmóvil.",
+        "isCorrect": false,
+        "explanation": "No es un parámetro de puntuación específica en esta escala diagnóstica[cite: 117]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Diagnóstico Diferencial SDR",
+    "text": "¿Cuál es la principal diferencia clínica entre la TTRN y la EMH en cuanto a su resolución? [cite: 125]",
+    "hint": "TTRN = 'Transitoria'[cite: 132].",
+    "options": [
+      {
+        "text": "A) La TTRN dura 1 mes.",
+        "isCorrect": false,
+        "explanation": "La TTRN es de resolución rápida, no crónica[cite: 126]."
+      },
+      {
+        "text": "B) La TTRN suele resolver espontáneamente en 24-72 horas, mientras que la EMH empeora y requiere surfactante.",
+        "isCorrect": true,
+        "explanation": "La TTRN se autolimita mientras los linfáticos limpian el pulmón; la EMH es un proceso deficitario que requiere tratamiento activo[cite: 127, 133, 134]."
+      },
+      {
+        "text": "C) La EMH cura sola con oxígeno bajo.",
+        "isCorrect": false,
+        "explanation": "La EMH requiere típicamente soporte ventilatorio y surfactante para su resolución[cite: 128]."
+      },
+      {
+        "text": "D) No hay diferencia, ambas duran lo mismo.",
+        "isCorrect": false,
+        "explanation": "Tienen historias naturales y tiempos de resolución marcadamente distintos[cite: 129]."
+      },
+      {
+        "text": "E) La EMH solo afecta a niños de 4 kg.",
+        "isCorrect": false,
+        "explanation": "La EMH es propia del prematuro; los niños de 4 kg tienen más riesgo de TTRN[cite: 130]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones Abdominales y Distrés",
+    "text": "Un recién nacido presenta distrés respiratorio y la radiografía muestra 'neumatosis intestinal' y 'neumoperitoneo'[cite: 136]. ¿Qué patología abdominal puede causar distrés secundario? [cite: 137]",
+    "hint": "Emergencia abdominal más común del prematuro con distensión y compromiso respiratorio[cite: 144].",
+    "options": [
+      {
+        "text": "A) Estenosis pilórica.",
+        "isCorrect": false,
+        "explanation": "Causa vómitos proyectivos tardíos, no distrés respiratorio agudo por neumoperitoneo[cite: 138]."
+      },
+      {
+        "text": "B) Enterocolitis Necrotizante (ECN).",
+        "isCorrect": true,
+        "explanation": "La ECN avanzada causa gran distensión que limita la excursión diafragmática y compromiso sistémico por sepsis[cite: 139, 145]."
+      },
+      {
+        "text": "C) Atresia biliar.",
+        "isCorrect": false,
+        "explanation": "Patología hepática crónica que no debuta con distrés respiratorio agudo[cite: 140]."
+      },
+      {
+        "text": "D) Gastrosquisis.",
+        "isCorrect": false,
+        "explanation": "Defecto de pared abdominal evidente al nacer, no causa neumatosis intestinal aislada[cite: 141]."
+      },
+      {
+        "text": "E) Onfalocele.",
+        "isCorrect": false,
+        "explanation": "Defecto de la pared abdominal cubierto por membrana, sin relación directa con el neumoperitoneo súbito[cite: 142]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Laboratorio en Distrés Respiratorio",
+    "text": "¿Qué marcador de laboratorio ayuda a diferenciar una Neumonía de una Enfermedad de Membrana Hialina en un prematuro? [cite: 147]",
+    "hint": "Busque indicadores de infección e inflamación bacteriana[cite: 155].",
+    "options": [
+      {
+        "text": "A) Hemoglobina.",
+        "isCorrect": false,
+        "explanation": "No es un marcador específico para diferenciar causas infecciosas de bioquímicas[cite: 148]."
+      },
+      {
+        "text": "B) Proteína C Reactiva (PCR) elevada y relación Inmaduros/Totales (I/T) > 0.2.",
+        "isCorrect": true,
+        "explanation": "Una PCR en ascenso y relación I/T alterada apoyan sepsis/neumonía sobre procesos mecánicos como la EMH[cite: 149, 150, 156]."
+      },
+      {
+        "text": "C) Glicemia.",
+        "isCorrect": false,
+        "explanation": "Alterada en ambos casos por el estrés metabólico, no es diferenciador[cite: 151]."
+      },
+      {
+        "text": "D) Niveles de calcio.",
+        "isCorrect": false,
+        "explanation": "La hipocalcemia es común en el distrés neonatal pero no específica de causa[cite: 152]."
+      },
+      {
+        "text": "E) Grupo sanguíneo.",
+        "isCorrect": false,
+        "explanation": "Útil para ictericia, no para diferenciar etiologías respiratorias[cite: 153]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Tratamiento de la HPPN",
+    "text": "¿Cuál es el tratamiento de elección para la Hipertensión Pulmonar Persistente (HPPN) que no responde a la ventilación convencional? [cite: 158]",
+    "hint": "Se requiere un vasodilatador pulmonar potente y selectivo[cite: 165].",
+    "options": [
+      {
+        "text": "A) Óxido Nítrico inhalado (iNO).",
+        "isCorrect": true,
+        "explanation": "El iNO relaja los vasos pulmonares sin afectar la presión sistémica, mejorando el flujo pulmonar y la oxigenación[cite: 159, 166]."
+      },
+      {
+        "text": "B) Amoxicilina oral.",
+        "isCorrect": false,
+        "explanation": "Tratamiento antibiótico ambulatorio inútil en la patología vascular pulmonar aguda[cite: 160]."
+      },
+      {
+        "text": "C) Salbutamol en pufs.",
+        "isCorrect": false,
+        "explanation": "No tiene efecto sobre la vasculatura pulmonar hipertensa del neonato[cite: 161]."
+      },
+      {
+        "text": "D) Corticoides tópicos.",
+        "isCorrect": false,
+        "explanation": "Inútiles para el manejo de la falla ventilatoria y vascular pulmonar[cite: 162]."
+      },
+      {
+        "text": "E) Ibuprofeno para cerrar el ductus.",
+        "isCorrect": false,
+        "explanation": "En HPPN el ductus actúa como válvula de escape; cerrarlo podría causar falla cardíaca derecha aguda[cite: 163]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Distrés en el Post-término",
+    "text": "Un recién nacido de 42 semanas (post-término) presenta distrés respiratorio. ¿Qué patología es más probable debido a su edad gestacional? [cite: 168]",
+    "hint": "El post-término tiene mayor riesgo de eliminación de meconio in utero por estrés hipóxico[cite: 175].",
+    "options": [
+      {
+        "text": "A) Enfermedad de Membrana Hialina.",
+        "isCorrect": false,
+        "explanation": "La EMH es casi imposible en un niño de 42 semanas por madurez pulmonar bioquímica[cite: 169, 177]."
+      },
+      {
+        "text": "B) Síndrome de Aspiración de Meconio (SAM).",
+        "isCorrect": true,
+        "explanation": "El SAM es la patología clásica del recién nacido de término y post-término[cite: 170, 176]."
+      },
+      {
+        "text": "C) Defecto de surfactante por inmadurez.",
+        "isCorrect": false,
+        "explanation": "Mecanismo propio del prematuro, ausente en el embarazo post-término[cite: 171]."
+      },
+      {
+        "text": "D) Hipoplasia pulmonar.",
+        "isCorrect": false,
+        "explanation": "Asociada a oligohidramnios crónico severo, no a la edad gestacional avanzada per se[cite: 172]."
+      },
+      {
+        "text": "E) Persistencia de la circulación fetal por cierre de ductus in utero.",
+        "isCorrect": false,
+        "explanation": "Evento raro no característico del post-término típico[cite: 173]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Escape Aéreo",
+    "text": "¿A qué se refiere el término 'Neumotórax espontáneo del recién nacido'? [cite: 179]",
+    "hint": "Ocurre en el 1-2% de los nacimientos normales, a menudo asintomático[cite: 187, 188].",
+    "options": [
+      {
+        "text": "A) Al aire en el intestino.",
+        "isCorrect": false,
+        "explanation": "Esto se denomina neumatosis intestinal, no neumotórax[cite: 180]."
+      },
+      {
+        "text": "B) A la rotura de un alvéolo tras la primera inspiración potente que libera aire al espacio pleural.",
+        "isCorrect": true,
+        "explanation": "Causa de distrés leve en el niño de término por grandes gradientes de presión iniciales[cite: 181, 182, 189, 190]."
+      },
+      {
+        "text": "C) A una infección por hongos.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con la etiología micótica[cite: 183]."
+      },
+      {
+        "text": "D) A la falta de diafragma.",
+        "isCorrect": false,
+        "explanation": "Definición de hernia diafragmática, no de escape aéreo pleural[cite: 184]."
+      },
+      {
+        "text": "E) Solo ocurre en prematuros extremos.",
+        "isCorrect": false,
+        "explanation": "Es más común precisamente en recién nacidos de término[cite: 182, 185]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Radiología del Distrés Neonatal",
+    "text": "En la radiografía de un niño con Neumonía Neonatal, ¿qué hallazgo orienta más a infección que a EMH pura? [cite: 192]",
+    "hint": "La infección es 'sucia' y a menudo unilateral o parcheada; la EMH es uniforme y bilateral[cite: 199].",
+    "options": [
+      {
+        "text": "A) Infiltrados asimétricos, broncograma irregular y derrame pleural.",
+        "isCorrect": true,
+        "explanation": "El derrame pleural es muy raro en EMH y frecuente en neumonía (especialmente por S. agalactiae)[cite: 193, 200]."
+      },
+      {
+        "text": "B) Pulmón totalmente negro.",
+        "isCorrect": false,
+        "explanation": "Descripción de hiperinsuflación masiva o neumotórax, no de consolidación infecciosa[cite: 194]."
+      },
+      {
+        "text": "C) Corazón en forma de bota.",
+        "isCorrect": false,
+        "explanation": "Signo de Tetralogía de Fallot, no de neumonía neonatal[cite: 195]."
+      },
+      {
+        "text": "D) Muchas costillas visibles (hiperinsuflación).",
+        "isCorrect": false,
+        "explanation": "Característico del SAM o TTRN, la EMH suele cursar con hipoventilación[cite: 196]."
+      },
+      {
+        "text": "E) Ausencia de sombras óseas.",
+        "isCorrect": false,
+        "explanation": "Hallazgo incompatible con una técnica radiográfica adecuada[cite: 197]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Corticoides Antenatales",
+    "text": "¿Cuál es el efecto de los corticoides antenatales sobre la incidencia de TTRN? [cite: 202]",
+    "hint": "El corticoide prepara al pulmón para la vida extrauterina de múltiples formas[cite: 209].",
+    "options": [
+      {
+        "text": "A) No tienen ningún efecto.",
+        "isCorrect": false,
+        "explanation": "Tienen efectos beneficiosos multiorgánicos documentados en la transición neonatal[cite: 203]."
+      },
+      {
+        "text": "B) Reducen la incidencia al acelerar la maduración de los canales de sodio epiteliales (ENaC).",
+        "isCorrect": true,
+        "explanation": "Preparan los mecanismos de aclaramiento de líquido, disminuyendo la incidencia de TTRN[cite: 204, 210]."
+      },
+      {
+        "text": "C) Aumentan el líquido pulmonar.",
+        "isCorrect": false,
+        "explanation": "Efecto contrario al buscado; los corticoides favorecen su eliminación[cite: 205]."
+      },
+      {
+        "text": "D) Provocan neumonía.",
+        "isCorrect": false,
+        "explanation": "No existe relación causal entre el uso de corticoides y el desarrollo de neumonía precoz[cite: 206]."
+      },
+      {
+        "text": "E) Solo sirven para el peso.",
+        "isCorrect": false,
+        "explanation": "Su función principal es la maduración bioquímica y funcional de órganos, no el crecimiento ponderal[cite: 207]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Malformaciones de Vía Aérea",
+    "text": "Un recién nacido presenta cianosis que mejora drásticamente cuando llora, pero empeora al intentar alimentarse[cite: 212]. ¿Qué sospecha? [cite: 213]",
+    "hint": "El recién nacido es respirador nasal obligado. Si la nariz está tapada, solo respira al abrir la boca (al llorar)[cite: 220].",
+    "options": [
+      {
+        "text": "A) SAM.",
+        "isCorrect": false,
+        "explanation": "La clínica del SAM no mejora con el llanto de forma característica[cite: 214]."
+      },
+      {
+        "text": "B) Atresia de coanas bilateral.",
+        "isCorrect": true,
+        "explanation": "Malformación que impide el paso de aire por la nariz; se confirma por la incapacidad de pasar una sonda nasogástrica[cite: 215, 221, 222]."
+      },
+      {
+        "text": "C) Cardiopatía congénita cianosante.",
+        "isCorrect": false,
+        "explanation": "La cianosis cardíaca no suele revertir con el llanto; a menudo empeora[cite: 216]."
+      },
+      {
+        "text": "D) EMH.",
+        "isCorrect": false,
+        "explanation": "Patología de parénquima pulmonar que no se explica por la obstrucción de vía aérea superior descrita[cite: 217]."
+      },
+      {
+        "text": "E) Reflujo gastroesofágico.",
+        "isCorrect": false,
+        "explanation": "Causaría apnea o laringoespasmo, no cianosis reversible con el llanto cíclico[cite: 218]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Urgencia en Sala de Partos",
+    "text": "¿Cuál es el tratamiento inicial de un Neumotórax a tensión en sala de partos con compromiso hemodinámico? [cite: 224]",
+    "hint": "Se debe liberar el aire a presión que colapsa el retorno venoso de forma inmediata[cite: 231].",
+    "options": [
+      {
+        "text": "A) Radiografía de tórax urgente.",
+        "isCorrect": false,
+        "explanation": "En situación de shock, el diagnóstico es clínico y no se debe esperar a la Rx[cite: 232]."
+      },
+      {
+        "text": "B) Punción torácica con aguja en el segundo espacio intercostal línea medioclavicular.",
+        "isCorrect": true,
+        "explanation": "Es la pleurocentomía de urgencia necesaria para revertir el colapso hemodinámico[cite: 226, 232]."
+      },
+      {
+        "text": "C) Dar masaje cardíaco solamente.",
+        "isCorrect": false,
+        "explanation": "Inútil si no se resuelve la causa mecánica que impide el llenado cardíaco[cite: 227]."
+      },
+      {
+        "text": "D) Administrar adrenalina umbilical.",
+        "isCorrect": false,
+        "explanation": "La adrenalina no resolverá un shock de causa obstructiva mecánica[cite: 228]."
+      },
+      {
+        "text": "E) Intubar y ventilar con altas presiones.",
+        "isCorrect": false,
+        "explanation": "Las altas presiones podrían empeorar el neumotórax y el compromiso hemodinámico[cite: 229]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hematología y Distrés",
+    "text": "¿Qué complicación respiratoria es típica de los recién nacidos con Policitemia (Hto > 65%)? [cite: 234, 235]",
+    "hint": "La sangre espesa circula mal por los capilares pulmonares[cite: 242].",
+    "options": [
+      {
+        "text": "A) EMH.",
+        "isCorrect": false,
+        "explanation": "La policitemia no causa déficit de surfactante[cite: 236]."
+      },
+      {
+        "text": "B) Síndrome de hiperviscosidad con distrés por microtrombos y congestión pulmonar.",
+        "isCorrect": true,
+        "explanation": "El distrés es una de las manifestaciones clínicas de la hiperviscosidad sanguínea neonatal[cite: 237, 243]."
+      },
+      {
+        "text": "C) Anemia severa.",
+        "isCorrect": false,
+        "explanation": "La policitemia es el exceso de glóbulos rojos, lo opuesto a la anemia[cite: 238]."
+      },
+      {
+        "text": "D) Falta de surfactante.",
+        "isCorrect": false,
+        "explanation": "No existe relación directa entre el recuento eritrocitario y la producción de surfactante[cite: 239]."
+      },
+      {
+        "text": "E) Atresia traqueal.",
+        "isCorrect": false,
+        "explanation": "Malformación estructural congénita independiente de los parámetros hematológicos[cite: 240]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Recuperación en EMH",
+    "text": "En un lactante con Enfermedad de Membrana Hialina, ¿qué indica la presencia de una 'Fase de Diuresis' al tercer día de vida? [cite: 245]",
+    "hint": "La salida del líquido del pulmón coincide con la eliminación de agua por el riñón[cite: 252].",
+    "options": [
+      {
+        "text": "A) Que el niño tiene falla renal.",
+        "isCorrect": false,
+        "explanation": "La diuresis abundante indica precisamente una buena función renal en esta fase[cite: 246]."
+      },
+      {
+        "text": "B) Que está iniciando la fase de recuperación y mejoría de la compliance pulmonar.",
+        "isCorrect": true,
+        "explanation": "La diuresis espontánea es un marcador clínico de que el edema pulmonar está resolviendo[cite: 247, 253]."
+      },
+      {
+        "text": "C) Que necesita más suero.",
+        "isCorrect": false,
+        "explanation": "Es un proceso fisiológico de redistribución de líquidos, no necesariamente falta de aporte[cite: 248]."
+      },
+      {
+        "text": "D) Que tiene una infección urinaria.",
+        "isCorrect": false,
+        "explanation": "La diuresis aumentada no es signo cardinal de ITU neonatal[cite: 249]."
+      },
+      {
+        "text": "E) Que el surfactante falló.",
+        "isCorrect": false,
+        "explanation": "Al contrario, coincide con la fase donde el tratamiento suele haber surtido efecto[cite: 250]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Gravedad Clínica del SDR",
+    "text": "¿Qué hito clínico diferencia el SAM de la TTRN en las primeras horas? [cite: 255]",
+    "hint": "Evalúe la gravedad y el antecedente del líquido amniótico[cite: 263].",
+    "options": [
+      {
+        "text": "A) El SAM presenta gran requerimiento de O2 e inestabilidad; la TTRN es más leve y mejora con FiO2 baja.",
+        "isCorrect": true,
+        "explanation": "La TTRN es autolimitada; el SAM es grave con alto riesgo de complicaciones como HPPN o neumotórax[cite: 256, 257, 264]."
+      },
+      {
+        "text": "B) No hay diferencia clínica.",
+        "isCorrect": false,
+        "explanation": "Ambas tienen perfiles de severidad y factores de riesgo marcadamente distintos[cite: 258]."
+      },
+      {
+        "text": "C) La TTRN da fiebre.",
+        "isCorrect": false,
+        "explanation": "La fiebre no es característica de la taquipnea transitoria por líquido retenido[cite: 259]."
+      },
+      {
+        "text": "D) El SAM solo ocurre en niñas.",
+        "isCorrect": false,
+        "explanation": "El sexo no es un factor determinante para el desarrollo de SAM[cite: 260]."
+      },
+      {
+        "text": "E) La TTRN causa convulsiones.",
+        "isCorrect": false,
+        "explanation": "Patología exclusivamente respiratoria; las convulsiones sugerirían asfixia o metabulopatía[cite: 261]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Protocolo NRP y Meconio",
+    "text": "¿Cuál es la conducta ante un recién nacido con líquido amniótico meconial que nace vigoroso? [cite: 266]",
+    "hint": "'Vigoroso' significa que no requiere intervención especial de vía aérea según protocolo[cite: 273].",
+    "options": [
+      {
+        "text": "A) Intubación y aspiración traqueal inmediata.",
+        "isCorrect": false,
+        "explanation": "No se recomienda si está vigoroso por riesgo de lesión laríngea sin beneficio demostrado[cite: 274]."
+      },
+      {
+        "text": "B) Observación en control sano o transición normal, sin maniobras invasivas.",
+        "isCorrect": true,
+        "explanation": "Se recomienda manejo habitual de transición si el esfuerzo y tono son adecuados[cite: 268, 274]."
+      },
+      {
+        "text": "C) Antibióticos por 7 días.",
+        "isCorrect": false,
+        "explanation": "El meconio por sí solo no es indicación de antibioterapia prolongada[cite: 269]."
+      },
+      {
+        "text": "D) Lavado gástrico.",
+        "isCorrect": false,
+        "explanation": "No forma parte del manejo respiratorio del aspirativo meconial[cite: 270]."
+      },
+      {
+        "text": "E) Administrar surfactante preventivo.",
+        "isCorrect": false,
+        "explanation": "El surfactante se usa de forma rescativa en casos severos, no preventiva en niños sanos[cite: 271]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Terminología Médica",
+    "text": "¿A qué se refiere el término 'Pulmón Húmedo'? [cite: 276]",
+    "hint": "Nombre descriptivo basado en la fisiopatología del exceso de líquido[cite: 283].",
+    "options": [
+      {
+        "text": "A) A la neumonía por hongos.",
+        "isCorrect": false,
+        "explanation": "Término no utilizado para infecciones micóticas neonatales[cite: 277]."
+      },
+      {
+        "text": "B) Es un sinónimo de Taquipnea Transitoria del Recién Nacido.",
+        "isCorrect": true,
+        "explanation": "Describe la retención de líquido intersticial y alveolar característica de la TTRN[cite: 278, 284]."
+      },
+      {
+        "text": "C) A la inmersión en agua.",
+        "isCorrect": false,
+        "explanation": "No se refiere a eventos accidentales de inmersión[cite: 279]."
+      },
+      {
+        "text": "D) Al exceso de surfactante.",
+        "isCorrect": false,
+        "explanation": "El exceso de surfactante no es una patología clínica descrita como pulmón húmedo[cite: 280]."
+      },
+      {
+        "text": "E) A la fibrosis quística.",
+        "isCorrect": false,
+        "explanation": "Patología genética de secreciones viscosas, no de líquido retenido agudo[cite: 281]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Diagnóstico de HPPN",
+    "text": "¿Qué examen es el 'Gold Standard' para diagnosticar Hipertensión Pulmonar Persistente? [cite: 286]",
+    "hint": "Permite ver el corazón y los grandes vasos en funcionamiento real[cite: 293].",
+    "options": [
+      {
+        "text": "A) Radiografía de tórax.",
+        "isCorrect": false,
+        "explanation": "Inespecífica para medir presiones vasculares pulmonares[cite: 287]."
+      },
+      {
+        "text": "B) Ecocardiografía Doppler.",
+        "isCorrect": true,
+        "explanation": "Confirma el diagnóstico al medir la presión sistólica de la arteria pulmonar y documentar el shunt[cite: 288, 294]."
+      },
+      {
+        "text": "C) TAC de tórax.",
+        "isCorrect": false,
+        "explanation": "Útil para parénquima, pero no para hemodinamia funcional en tiempo real[cite: 289]."
+      },
+      {
+        "text": "D) Ecografía abdominal.",
+        "isCorrect": false,
+        "explanation": "No aporta información sobre la circulación pulmonar[cite: 290]."
+      },
+      {
+        "text": "E) Gammagrafía de ventilación/perfusión.",
+        "isCorrect": false,
+        "explanation": "Muy raramente utilizada en el diagnóstico agudo neonatal de HPPN[cite: 291]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Gravedad SDR",
+    "text": "¿Cuál es el valor del 'Silverman-Anderson' para un niño que requiere Ventilación Mecánica inminente? [cite: 296]",
+    "hint": "A mayor puntaje, mayor dificultad respiratoria y riesgo de fatiga[cite: 304].",
+    "options": [
+      {
+        "text": "A) 0-2 puntos.",
+        "isCorrect": false,
+        "explanation": "Indica dificultad respiratoria leve[cite: 297]."
+      },
+      {
+        "text": "B) 3-5 puntos.",
+        "isCorrect": false,
+        "explanation": "Indica dificultad respiratoria moderada[cite: 298]."
+      },
+      {
+        "text": "C) > 7 puntos.",
+        "isCorrect": true,
+        "explanation": "Puntuaciones altas indican un trabajo respiratorio inasumible por el neonato[cite: 300, 305]."
+      },
+      {
+        "text": "D) El Silverman no mide la necesidad de ventilador.",
+        "isCorrect": false,
+        "explanation": "Es precisamente una herramienta de decisión clínica para el soporte ventilatorio[cite: 301]."
+      },
+      {
+        "text": "E) 1 punto.",
+        "isCorrect": false,
+        "explanation": "Dificultad respiratoria mínima[cite: 302]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Radiología SDR",
+    "text": "En la EMH, ¿qué indica la 'broncogradiografía aérea' en la radiografía? [cite: 307]",
+    "hint": "Contraste natural entre el aire del árbol bronquial y el parénquima atelectásico[cite: 314].",
+    "options": [
+      {
+        "text": "A) Que los bronquios están llenos de pus.",
+        "isCorrect": false,
+        "explanation": "Sugeriría una neumonía consolidada más que una EMH típica[cite: 308]."
+      },
+      {
+        "text": "B) Que los bronquios están abiertos (con aire) pero rodeados de alvéolos colapsados.",
+        "isCorrect": true,
+        "explanation": "Hallazgo clásico de atelectasia difusa o consolidación[cite: 309, 315]."
+      },
+      {
+        "text": "C) Que el niño se tragó una moneda.",
+        "isCorrect": false,
+        "explanation": "Los cuerpos extraños opacos no se describen como broncograma[cite: 310]."
+      },
+      {
+        "text": "D) Que hay un tumor en la tráquea.",
+        "isCorrect": false,
+        "explanation": "No es un signo de patología neoplásica traqueal[cite: 311]."
+      },
+      {
+        "text": "E) Es un signo de salud pulmonar.",
+        "isCorrect": false,
+        "explanation": "Es un signo de ocupación alveolar o colapso patológico[cite: 312]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Etiología Infecciosa",
+    "text": "¿Cuál es el microorganismo más frecuentemente implicado en la Neumonía Neonatal precoz? [cite: 317]",
+    "hint": "Germen que coloniza el canal del parto[cite: 324].",
+    "options": [
+      {
+        "text": "A) Streptococcus agalactiae (Grupo B).",
+        "isCorrect": true,
+        "explanation": "Es el patógeno principal de transmisión vertical durante el parto[cite: 318, 325]."
+      },
+      {
+        "text": "B) Mycoplasma pneumoniae.",
+        "isCorrect": false,
+        "explanation": "Patógeno de neumonía atípica en niños mayores y adultos[cite: 319]."
+      },
+      {
+        "text": "C) Bordetella pertussis.",
+        "isCorrect": false,
+        "explanation": "Causa de coqueluche, no neumonía neonatal precoz típica[cite: 320]."
+      },
+      {
+        "text": "D) Virus Sincicial Respiratorio.",
+        "isCorrect": false,
+        "explanation": "Causa de bronquiolitis y neumonía viral, generalmente de adquisición postnatal[cite: 321]."
+      },
+      {
+        "text": "E) Legionella.",
+        "isCorrect": false,
+        "explanation": "Causa rara de neumonía en el periodo neonatal[cite: 322]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hemodinámica Pulmonar",
+    "text": "¿Qué efecto tiene la acidosis sobre las resistencias vasculares pulmonares? [cite: 327]",
+    "hint": "La acidosis y la hipoxia son potentes vasoconstrictores de la arteria pulmonar[cite: 334].",
+    "options": [
+      {
+        "text": "A) Las disminuye.",
+        "isCorrect": false,
+        "explanation": "Efecto contrario al fisiológico documentado[cite: 328]."
+      },
+      {
+        "text": "B) Las aumenta (vasoconstricción), agravando hipoxemia y riesgo de HPPN.",
+        "isCorrect": true,
+        "explanation": "Parte del tratamiento del distrés es mantener un pH neutro para evitar esta vasoconstricción[cite: 329, 335]."
+      },
+      {
+        "text": "C) No tiene efecto.",
+        "isCorrect": false,
+        "explanation": "El equilibrio ácido-base es crítico para el tono vascular pulmonar[cite: 330]."
+      },
+      {
+        "text": "D) Provoca broncodilatación.",
+        "isCorrect": false,
+        "explanation": "La acidosis no es un mecanismo terapéutico de broncodilatación[cite: 331]."
+      },
+      {
+        "text": "E) Mejora la función del surfactante.",
+        "isCorrect": false,
+        "explanation": "La acidosis puede, de hecho, inactivar o disminuir la síntesis de surfactante[cite: 332]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Patología Pulmonar Crónica",
+    "text": "¿Cuál es la causa del distrés en el 'Síndrome de Wilson-Mikity'? [cite: 337]",
+    "hint": "Patología histórica de la prematurez[cite: 344].",
+    "options": [
+      {
+        "text": "A) Aspiración de meconio.",
+        "isCorrect": false,
+        "explanation": "Etiología diferente asociada al término/post-término[cite: 338]."
+      },
+      {
+        "text": "B) Disrupción del desarrollo alveolar en prematuros de muy bajo peso sin O2 alto.",
+        "isCorrect": true,
+        "explanation": "Forma rara de enfermedad pulmonar crónica sin el insulto clásico de ventilación pesada[cite: 339, 345]."
+      },
+      {
+        "text": "C) Infección por sífilis.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con la lúes congénita[cite: 340]."
+      },
+      {
+        "text": "D) Hernia diafragmática.",
+        "isCorrect": false,
+        "explanation": "Defecto mecánico, no de maduración alveolar crónica[cite: 341]."
+      },
+      {
+        "text": "E) Es un error de laboratorio.",
+        "isCorrect": false,
+        "explanation": "Es una entidad clínica bien descrita en la literatura neonatal[cite: 342]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Escape Aéreo",
+    "text": "Un recién nacido presenta distrés y en la radiografía se observa el 'signo del doble contorno' cardíaco derecho[cite: 347]. ¿Qué sugiere? [cite: 348]",
+    "hint": "El aire se diseca por el mediastino y rodea el corazón y los grandes vasos[cite: 355].",
+    "options": [
+      {
+        "text": "A) Neumomediastino.",
+        "isCorrect": true,
+        "explanation": "Es una de las formas de escape aéreo extra-alveolar donde el aire se sitúa en el mediastino[cite: 349, 356]."
+      },
+      {
+        "text": "B) Neumotórax.",
+        "isCorrect": false,
+        "explanation": "El neumotórax suele mostrar aire en el espacio pleural con colapso pulmonar, no rodeando el corazón selectivamente[cite: 350]."
+      },
+      {
+        "text": "C) Neumonía.",
+        "isCorrect": false,
+        "explanation": "La neumonía muestra consolidaciones, no disección aérea mediastínica[cite: 351]."
+      },
+      {
+        "text": "D) Corazón normal.",
+        "isCorrect": false,
+        "explanation": "El signo del doble contorno es siempre patológico en este contexto[cite: 352]."
+      },
+      {
+        "text": "E) Es un artefacto técnico.",
+        "isCorrect": false,
+        "explanation": "Signo clínico radiológico real de escape aéreo[cite: 353]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Enfisema Intersticial",
+    "text": "¿A qué se refiere el término 'Enfisema Intersticial Pulmonar' (EIP)? [cite: 358]",
+    "hint": "El aire se sale del alvéolo pero no llega al espacio pleural, se queda 'entre medio'[cite: 365].",
+    "options": [
+      {
+        "text": "A) A que el niño fuma.",
+        "isCorrect": false,
+        "explanation": "Asociación imposible en neonatología[cite: 359]."
+      },
+      {
+        "text": "B) Aire atrapado en tejido conectivo peribronquial, típico de ventilación agresiva.",
+        "isCorrect": true,
+        "explanation": "Complicación grave en prematuros que a menudo precede al neumotórax[cite: 360, 366]."
+      },
+      {
+        "text": "C) Una infección por virus.",
+        "isCorrect": false,
+        "explanation": "No es de etiología infecciosa sino mecánica[cite: 361]."
+      },
+      {
+        "text": "D) A un pulmón muy grande y sano.",
+        "isCorrect": false,
+        "explanation": "Es una condición patológica por barotrauma/volutrauma[cite: 362]."
+      },
+      {
+        "text": "E) Es un tipo de cáncer.",
+        "isCorrect": false,
+        "explanation": "No tiene naturaleza neoplásica[cite: 363]."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Factores de Riesgo SAM",
+    "text": "¿Qué característica de la alimentación materna puede influir en el riesgo de SAM? [cite: 368]",
+    "hint": "El SAM es un evento del parto y el bienestar fetal[cite: 375].",
+    "options": [
+      {
+        "text": "A) Consumo de picantes.",
+        "isCorrect": false,
+        "explanation": "No existe evidencia que relacione los picantes con la eliminación de meconio fetal[cite: 369]."
+      },
+      {
+        "text": "B) No hay relación directa demostrada.",
+        "isCorrect": true,
+        "explanation": "El meconio resulta de la maduración digestiva fetal y el estrés hipóxico, no de la dieta materna[cite: 370, 376]."
+      },
+      {
+        "text": "C) Tomar mucha agua.",
+        "isCorrect": false,
+        "explanation": "La hidratación materna no influye en la eliminación de meconio[cite: 371]."
+      },
+      {
+        "text": "D) Comer manzanas.",
+        "isCorrect": false,
+        "explanation": "Mito sin base científica en neonatología[cite: 372]."
+      },
+      {
+        "text": "E) Dieta vegetariana.",
+        "isCorrect": false,
+        "explanation": "No se ha demostrado mayor riesgo de SAM según el patrón alimentario materno[cite: 373]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Metabolismo y Distrés",
+    "text": "¿Cuál es el valor diagnóstico de la Glicemia en un recién nacido con distrés respiratorio? [cite: 378]",
+    "hint": "El trabajo respiratorio consume mucha energía[cite: 385].",
+    "options": [
+      {
+        "text": "A) No tiene valor.",
+        "isCorrect": false,
+        "explanation": "El control metabólico es fundamental en el manejo del niño grave[cite: 379]."
+      },
+      {
+        "text": "B) La hipoglicemia es frecuente por el alto consumo de glucosa de los músculos accesorios.",
+        "isCorrect": true,
+        "explanation": "Se debe monitorizar para evitar daño neurológico sobreagregado en niños con distrés[cite: 380, 386]."
+      },
+      {
+        "text": "C) Siempre es elevada.",
+        "isCorrect": false,
+        "explanation": "Aunque el estrés puede causar hiperglicemia transitoria, el agotamiento de reservas lleva a hipoglicemia[cite: 381]."
+      },
+      {
+        "text": "D) Diagnostica asma.",
+        "isCorrect": false,
+        "explanation": "La glicemia no es criterio diagnóstico para asma bronquial[cite: 382]."
+      },
+      {
+        "text": "E) Solo sirve para ver si tiene hambre.",
+        "isCorrect": false,
+        "explanation": "Parámetro crítico de estabilidad en cuidados intensivos neonatales[cite: 383]."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Reanimación del Prematuro",
+    "text": "¿Cuál es el riesgo de administrar oxígeno al 100% a un recién nacido de 28 semanas en reanimación? [cite: 388, 389]",
+    "hint": "'Más no es mejor'. Se prefiere iniciar con 21-30% de FiO2 y titular[cite: 396, 397, 398].",
+    "options": [
+      {
+        "text": "A) Ninguno, es lo mejor.",
+        "isCorrect": false,
+        "explanation": "La hiperoxia es tóxica para el tejido prematuro inmaduro[cite: 390]."
+      },
+      {
+        "text": "B) Estrés oxidativo y mayor riesgo de Displasia Broncopulmonar y Retinopatía.",
+        "isCorrect": true,
+        "explanation": "Los prematuros tienen pocos sistemas antioxidantes y los radicales libres causan daño tisular grave[cite: 391, 399]."
+      },
+      {
+        "text": "C) Hace que el niño sea más fuerte.",
+        "isCorrect": false,
+        "explanation": "Concepto erróneo; la toxicidad por oxígeno debilita al neonato[cite: 392]."
+      },
+      {
+        "text": "D) No existe riesgo.",
+        "isCorrect": false,
+        "explanation": "Existen riesgos a corto y largo plazo bien documentados[cite: 393]."
+      },
+      {
+        "text": "E) Solo se da oxígeno si el niño está azul.",
+        "isCorrect": false,
+        "explanation": "Se titula según oximetría de pulso y objetivos de saturación por minuto de vida[cite: 394]."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Radiología Diferencial",
+    "text": "¿Qué hito radiográfico diferencia la TTRN del SAM? [cite: 401]",
+    "hint": "Uno es líquido (limpio), el otro es 'papilla' (sucio)[cite: 408].",
+    "options": [
+      {
+        "text": "A) La TTRN tiene pulmones pequeños, el SAM grandes.",
+        "isCorrect": false,
+        "explanation": "Ambos presentan típicamente hiperinsuflación (pulmones grandes)[cite: 402]."
+      },
+      {
+        "text": "B) TTRN muestra pulmones limpios con cisuritis; SAM muestra infiltrados gruesos 'sucios'.",
+        "isCorrect": true,
+        "explanation": "Diferenciación visual clave: líquido retenido vs aspiración de material particulado inflamatorio[cite: 403, 409]."
+      },
+      {
+        "text": "C) El SAM no tiene aire.",
+        "isCorrect": false,
+        "explanation": "El SAM precisamente se caracteriza por zonas de atrapamiento aéreo masivo[cite: 404]."
+      },
+      {
+        "text": "D) La TTRN tiene el corazón a la derecha.",
+        "isCorrect": false,
+        "explanation": "La posición cardíaca no es criterio diferenciador entre estas patologías[cite: 405]."
+      },
+      {
+        "text": "E) No hay diferencias radiográficas.",
+        "isCorrect": false,
+        "explanation": "Existen patrones clásicos que permiten orientar el diagnóstico inicial[cite: 406]."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Tratamiento de Neumonía",
+    "text": "¿Cuál es la conducta ante una Neumonía que no responde a Ampicilina y Gentamicina? [cite: 411]",
+    "hint": "Sospeche resistencia o infección intrahospitalaria[cite: 418].",
+    "options": [
+      {
+        "text": "A) Suspender antibióticos.",
+        "isCorrect": false,
+        "explanation": "Empeoraría el pronóstico de una infección no controlada[cite: 412]."
+      },
+      {
+        "text": "B) Ampliar cobertura buscando gérmenes nosocomiales (Vancomicina o Cefotaxima).",
+        "isCorrect": true,
+        "explanation": "Se requiere ajuste terapéutico basado en evolución y epidemiología local, reevaluando cultivos[cite: 413, 419]."
+      },
+      {
+        "text": "C) Dar solo agua.",
+        "isCorrect": false,
+        "explanation": "Inútil para el tratamiento de una infección bacteriana neonatal grave[cite: 414]."
+      },
+      {
+        "text": "D) Poner un yeso.",
+        "isCorrect": false,
+        "explanation": "Medida ortopédica sin relación con la patología infecciosa pulmonar[cite: 415]."
+      },
+      {
+        "text": "E) Realizar masajes en el pecho.",
+        "isCorrect": false,
+        "explanation": "No sustituyen el tratamiento farmacológico necesario[cite: 416]."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hernia Diafragmática",
+    "text": "¿Qué complicación se asocia a la ventilación con presión positiva en niño con Hernia Diafragmática? [cite: 421]",
+    "hint": "El pulmón sano recibe todo el volumen que no entra al hipoplásico[cite: 428].",
+    "options": [
+      {
+        "text": "A) El niño se cura.",
+        "isCorrect": false,
+        "explanation": "La ventilación es solo soporte; la cura requiere cirugía[cite: 422]."
+      },
+      {
+        "text": "B) Neumotórax contralateral por sobredistensión del pulmón 'sano'.",
+        "isCorrect": true,
+        "explanation": "Se debe ventilar con presiones muy bajas y protectoras para evitar el escape aéreo en el pulmón funcionante[cite: 423, 429]."
+      },
+      {
+        "text": "C) El diafragma se cierra solo.",
+        "isCorrect": false,
+        "explanation": "El defecto diafragmático es anatómico y requiere reparación quirúrgica[cite: 424]."
+      },
+      {
+        "text": "D) Desaparición del estómago.",
+        "isCorrect": false,
+        "explanation": "El estómago está presente pero herniado en el tórax[cite: 425]."
+      },
+      {
+        "text": "E) Crecimiento de vello.",
+        "isCorrect": false,
+        "explanation": "Efecto sin relación con el manejo respiratorio de la hernia[cite: 426]."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hemorragia Pulmonar",
+    "text": "¿Cuál es el síntoma de alarma de una 'Hemorragia Pulmonar' en un prematuro con SDR? [cite: 431]",
+    "hint": "Complicación asociada al cierre brusco del ductus o al uso de surfactante[cite: 438].",
+    "options": [
+      {
+        "text": "A) Salida de líquido rosado/hemático por el tubo endotraqueal y deterioro súbito.",
+        "isCorrect": true,
+        "explanation": "Es una emergencia respiratoria neonatal grave que requiere intervención inmediata[cite: 432, 439]."
+      },
+      {
+        "text": "B) Tos seca.",
+        "isCorrect": false,
+        "explanation": "Síntoma atípico para una hemorragia pulmonar alveolar masiva en neonatos[cite: 433]."
+      },
+      {
+        "text": "C) Estornudos.",
+        "isCorrect": false,
+        "explanation": "Reflejo normal que no indica sangrado pulmonar[cite: 434]."
+      },
+      {
+        "text": "D) Hambre.",
+        "isCorrect": false,
+        "explanation": "Incompatible con el estado de deterioro súbito del sangrado[cite: 435]."
+      },
+      {
+        "text": "E) Color amarillo de la piel.",
+        "isCorrect": false,
+        "explanation": "Corresponde a ictericia, no a hemorragia pulmonar[cite: 436]."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Maduración Pulmonar",
+    "text": "¿A qué edad el riesgo de EMH es prácticamente nulo en un embarazo normal? [cite: 441]",
+    "hint": "El pulmón alcanza la madurez bioquímica al término[cite: 449].",
+    "options": [
+      {
+        "text": "A) 24 semanas.",
+        "isCorrect": false,
+        "explanation": "Riesgo extremo de EMH por inmadurez alveolar total[cite: 442]."
+      },
+      {
+        "text": "B) 30 semanas.",
+        "isCorrect": false,
+        "explanation": "Riesgo muy alto; la producción de surfactante aún es insuficiente[cite: 443]."
+      },
+      {
+        "text": "C) > 36-37 semanas.",
+        "isCorrect": true,
+        "explanation": "Salvo en hijos de madres diabéticas, la madurez pulmonar es la regla a partir de las 37 semanas[cite: 445, 450]."
+      },
+      {
+        "text": "D) 42 semanas únicamente.",
+        "isCorrect": false,
+        "explanation": "La madurez se alcanza mucho antes del embarazo post-término[cite: 446]."
+      },
+      {
+        "text": "E) Siempre hay riesgo.",
+        "isCorrect": false,
+        "explanation": "El riesgo disminuye hasta hacerse despreciable al alcanzar el término[cite: 447]."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Enfrentamiento del SDRN",
+    "text": "¿Cuál es el mensaje final sobre el Síndrome de Distrés Respiratorio Neonatal? [cite: 452]",
+    "hint": "Integración clínica[cite: 459].",
+    "options": [
+      {
+        "text": "A) Todas las causas se tratan con antibióticos.",
+        "isCorrect": false,
+        "explanation": "Cada etiología tiene un manejo específico (surfactante, O2, cirugía, etc.)[cite: 453]."
+      },
+      {
+        "text": "B) Conjunto de patologías diversas donde el antecedente perinatal y la radiología son clave.",
+        "isCorrect": true,
+        "explanation": "El diagnóstico correcto requiere integrar el déficit de surfactante, líquido retenido o aspiración con la clínica[cite: 454, 460]."
+      },
+      {
+        "text": "C) No requiere tratamiento médico.",
+        "isCorrect": false,
+        "explanation": "La mayoría de las causas requieren soporte intensivo neonatal[cite: 455]."
+      },
+      {
+        "text": "D) El color de los ojos predice el riesgo.",
+        "isCorrect": false,
+        "explanation": "Variable biológica sin relación con la maduración pulmonar[cite: 456]."
+      },
+      {
+        "text": "E) Se cura solo en 5 minutos.",
+        "isCorrect": false,
+        "explanation": "Patologías complejas que requieren días de manejo hospitalario[cite: 457]."
+      }
+    ]
+  }
+]
