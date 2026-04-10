@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Asfixia Neonatal",
+    "text": "¿Cuál de los siguientes criterios es OBLIGATORIO para definir una Asfixia Neonatal con riesgo de secuelas neurológicas según la Academia Americana de Pediatría (AAP)?",
+    "hint": "La asfixia es un evento bioquímico de hipoxia y acidosis, no solo un puntaje clínico[cite: 11].",
+    "options": [
+      {
+        "text": "A) Apgar de 5 al primer minuto.",
+        "isCorrect": false,
+        "explanation": "Es una depresión neonatal leve/moderada común que no define asfixia ni predice pronóstico neurológico[cite: 17]."
+      },
+      {
+        "text": "B) Líquido amniótico con meconio espeso.",
+        "isCorrect": false,
+        "explanation": "Es un factor de riesgo para el síndrome de aspiración (SAM), pero muchos niños nacen con meconio sin estar asfixiados[cite: 18]."
+      },
+      {
+        "text": "C) Acidosis metabólica o mixta profunda (pH < 7.00) en sangre de cordón umbilical.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se requiere evidencia objetiva de acidosis metabólica severa (pH < 7.0 o déficit de base ≥ 16 mmol/L) para definir asfixia con riesgo de secuelas[cite: 12, 13]."
+      },
+      {
+        "text": "D) Necesidad de oxígeno por 24 horas.",
+        "isCorrect": false,
+        "explanation": "Es una medida de soporte respiratorio, no un criterio diagnóstico de asfixia[cite: 19]."
+      },
+      {
+        "text": "E) Recuento de plaquetas bajo.",
+        "isCorrect": false,
+        "explanation": "La trombocitopenia puede ser consecuencia de la falla multiorgánica, pero no es un criterio definitorio inicial[cite: 20]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Encefalopatía Hipóxico-Isquémica (EHI)",
+    "text": "Un recién nacido presenta EHI con hiperexcitabilidad, midriasis, taquicardia y reflejos aumentados, sin convulsiones y con EEG normal. ¿En qué estadio de Sarnat se encuentra?",
+    "hint": "Es un estado de 'alerta máxima' por exceso de catecolaminas[cite: 30].",
+    "options": [
+      {
+        "text": "A) Estadio I (Leve).",
+        "isCorrect": true,
+        "explanation": "Correcto. Se caracteriza por hiperalerta, irritabilidad, midriasis y ausencia de convulsiones, con un pronóstico de recuperación excelente[cite: 31, 32]."
+      },
+      {
+        "text": "B) Estadio II (Moderado).",
+        "isCorrect": false,
+        "explanation": "Presentaría letargia, miosis, bradicardia y convulsiones[cite: 34]."
+      },
+      {
+        "text": "C) Estadio III (Severo).",
+        "isCorrect": false,
+        "explanation": "Presentaría estupor o coma, flacidez total y pupilas fijas[cite: 36]."
+      },
+      {
+        "text": "D) Estadio IV (Terminal).",
+        "isCorrect": false,
+        "explanation": "No existe el estadio IV en la clasificación original de Sarnat & Sarnat[cite: 38]."
+      },
+      {
+        "text": "E) Fase de recuperación.",
+        "isCorrect": false,
+        "explanation": "La descripción corresponde a la fase aguda inicial de descarga simpática, no a la recuperación clínica."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Cuál es la 'ventana terapéutica' (tiempo máximo desde el nacimiento) para iniciar la Hipotermia Terapéutica con éxito?",
+    "hint": "El objetivo es intervenir antes de que se complete la fase de 'falla energética secundaria'[cite: 47].",
+    "options": [
+      {
+        "text": "A) Las primeras 2 horas.",
+        "isCorrect": false,
+        "explanation": "Es el tiempo ideal para el traslado, pero el límite normativo para iniciarla es mayor[cite: 50]."
+      },
+      {
+        "text": "B) Las primeras 6 horas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Debe iniciarse antes de las 6 horas de vida para reducir efectivamente la muerte y discapacidad mayor[cite: 48]."
+      },
+      {
+        "text": "C) Las primeras 12 horas.",
+        "isCorrect": false,
+        "explanation": "No es el estándar actual; el beneficio garantizado se pierde después de las 6 horas[cite: 51]."
+      },
+      {
+        "text": "D) En cualquier momento durante las primeras 24 horas.",
+        "isCorrect": false,
+        "explanation": "Falso. La cascada de daño secundario suele estar avanzada para entonces."
+      },
+      {
+        "text": "E) Solo después del tercer día.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. A los 3 días es cuando la terapia habitualmente finaliza."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Reanimación Neonatal",
+    "text": "¿Cuál es el signo clínico más importante para evaluar la eficacia de la ventilación a presión positiva (VPP) durante la reanimación?",
+    "hint": "El corazón del neonato responde rápidamente a la oxigenación mejorando su frecuencia[cite: 60].",
+    "options": [
+      {
+        "text": "A) El aumento de la saturación de oxígeno.",
+        "isCorrect": false,
+        "explanation": "La saturación tarda varios minutos en subir fisiológicamente y no es un indicador inmediato de la maniobra[cite: 63, 64]."
+      },
+      {
+        "text": "B) El aumento de la frecuencia cardíaca.",
+        "isCorrect": true,
+        "explanation": "Correcto. Según el NRP, es el indicador más sensible de que los pulmones se están expandiendo y la ventilación es efectiva[cite: 61]."
+      },
+      {
+        "text": "C) El color rosado de la piel.",
+        "isCorrect": false,
+        "explanation": "La piel rosada es un signo tardío y subjetivo; no define la eficacia inmediata de la VPP."
+      },
+      {
+        "text": "D) El esfuerzo respiratorio espontáneo.",
+        "isCorrect": false,
+        "explanation": "Aunque es deseable, el aumento de la FC es el parámetro prioritario para evaluar la maniobra técnica."
+      },
+      {
+        "text": "E) El llanto fuerte.",
+        "isCorrect": false,
+        "explanation": "El llanto indica ventilación espontánea, pero la eficacia de la VPP asistida se mide por respuesta cardíaca."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Fisiopatología",
+    "text": "En el fenómeno de 'Redistribución de Flujo' durante la asfixia, ¿qué órganos reciben un flujo sanguíneo aumentado para ser protegidos?",
+    "hint": "El cuerpo prioriza el 'trío vital' para la supervivencia inmediata[cite: 73].",
+    "options": [
+      {
+        "text": "A) Piel, músculos y hueso.",
+        "isCorrect": false,
+        "explanation": "Estos son tejidos periféricos que sufren vasoconstricción inicial para ahorrar flujo."
+      },
+      {
+        "text": "B) Intestino, pulmón y riñón.",
+        "isCorrect": false,
+        "explanation": "Son órganos 'sacrificados', lo que explica la alta incidencia de enterocolitis y falla renal post-asfixia[cite: 76]."
+      },
+      {
+        "text": "C) Cerebro, corazón y glándulas suprarrenales.",
+        "isCorrect": true,
+        "explanation": "Correcto. Ante hipoxia severa, se produce vasoconstricción esplácnica para dirigir sangre oxigenada a estos órganos críticos[cite: 74]."
+      },
+      {
+        "text": "D) Hígado, bazo y gónadas.",
+        "isCorrect": false,
+        "explanation": "No forman parte de la redistribución prioritaria de flujo sanguíneo."
+      },
+      {
+        "text": "E) Páncreas y timo.",
+        "isCorrect": false,
+        "explanation": "No son órganos protegidos por el reflejo de inmersión neonatal."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones Renales",
+    "text": "Un recién nacido de término con antecedente de desprendimiento de placenta presenta oliguria y hematuria a los 15 minutos de vida. ¿Qué complicación sospecha?",
+    "hint": "El riñón es muy sensible a la hipoperfusión de la fase de redistribución de flujo[cite: 86].",
+    "options": [
+      {
+        "text": "A) Glomerulonefritis post-estreptocócica.",
+        "isCorrect": false,
+        "explanation": "Es una patología post-infecciosa de niños mayores, no del periodo neonatal inmediato[cite: 90]."
+      },
+      {
+        "text": "B) Necrosis Tubular Aguda (NTA) por asfixia.",
+        "isCorrect": true,
+        "explanation": "Correcto. El riñón se afecta en el 40-50% de las asfixias, manifestándose con falla renal transitoria y hematuria[cite: 87, 88]."
+      },
+      {
+        "text": "C) Malformación urinaria congénita.",
+        "isCorrect": false,
+        "explanation": "Aunque es posible, el antecedente de desprendimiento de placenta y asfixia orienta a una causa isquémica aguda."
+      },
+      {
+        "text": "D) Infección urinaria por E. coli.",
+        "isCorrect": false,
+        "explanation": "La clínica de asfixia aguda y hematuria precoz no es típica de una ITU neonatal."
+      },
+      {
+        "text": "E) Diabetes insípida.",
+        "isCorrect": false,
+        "explanation": "Esta condición causaría poliuria y deshidratación, no oliguria[cite: 91]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Cuál es la temperatura meta que se debe mantener durante los 3 días de Hipotermia Terapéutica?",
+    "hint": "Es una hipotermia 'moderada'[cite: 105].",
+    "options": [
+      {
+        "text": "A) 30°C - 32°C.",
+        "isCorrect": false,
+        "explanation": "Es hipotermia profunda; aumenta el riesgo de arritmias, coagulopatía y sepsis[cite: 111]."
+      },
+      {
+        "text": "B) 33.5°C - 34.5°C.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se mantiene este rango rectal/esofágico por 72 horas para frenar la apoptosis neuronal[cite: 106, 107, 108]."
+      },
+      {
+        "text": "C) 36.5°C (Normotermia).",
+        "isCorrect": false,
+        "explanation": "Es el estado basal; el objetivo de la terapia es bajar de este nivel[cite: 112]."
+      },
+      {
+        "text": "D) 37.5°C (Febre controlada).",
+        "isCorrect": false,
+        "explanation": "La hipertermia es deletérea para el cerebro asfixiado."
+      },
+      {
+        "text": "E) 25°C.",
+        "isCorrect": false,
+        "explanation": "Temperatura incompatible con la estabilidad hemodinámica neonatal."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Alteraciones Metabólicas",
+    "text": "¿Cuál es el hallazgo metabólico más frecuente y peligroso en un recién nacido tras un evento de asfixia severa?",
+    "hint": "El estrés agudo consume reservas de glucógeno y altera la homeostasis del calcio[cite: 121].",
+    "options": [
+      {
+        "text": "A) Hipercalcemia.",
+        "isCorrect": false,
+        "explanation": "La asfixia suele cursar con hipocalcemia, no con niveles elevados de calcio."
+      },
+      {
+        "text": "B) Hipoglicemia e Hipocalcemia.",
+        "isCorrect": true,
+        "explanation": "Correcto. Hay consumo masivo de glucosa por glicólisis anaeróbica e hipocalcemia asociada al aumento de fósforo y cortisol[cite: 122, 123]."
+      },
+      {
+        "text": "C) Hipopotasemia.",
+        "isCorrect": false,
+        "explanation": "La lisis celular por asfixia suele causar hiperpotasemia, no hipopotasemia."
+      },
+      {
+        "text": "D) Hipernatremia.",
+        "isCorrect": false,
+        "explanation": "Es más común observar hiponatremia dilucional por secreción inadecuada de ADH post-asfixia."
+      },
+      {
+        "text": "E) Alcalosis metabólica.",
+        "isCorrect": false,
+        "explanation": "El neonato asfixiado presenta acidosis metabólica por acumulación de lactato[cite: 125]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Neurología Neonatal",
+    "text": "¿Cuál es el fármaco de primera línea recomendado para el control de crisis epilépticas en un neonato con EHI?",
+    "hint": "Es el fármaco más estudiado y con mejor perfil de eficacia en este grupo etario[cite: 135].",
+    "options": [
+      {
+        "text": "A) Fenitoína.",
+        "isCorrect": false,
+        "explanation": "Se usa generalmente como segunda línea si falla el primer fármaco."
+      },
+      {
+        "text": "B) Diazepam.",
+        "isCorrect": false,
+        "explanation": "Se evita por riesgo de kernicterus y gran depresión respiratoria[cite: 139]."
+      },
+      {
+        "text": "C) Fenobarbital.",
+        "isCorrect": true,
+        "explanation": "Correcto. Con dosis de carga de 20 mg/kg, es el estándar de oro para tratar convulsiones neonatales[cite: 136, 137]."
+      },
+      {
+        "text": "D) Levetiracetam.",
+        "isCorrect": false,
+        "explanation": "Se utiliza cada vez más, pero el Fenobarbital sigue siendo la primera línea recomendada por guías internacionales."
+      },
+      {
+        "text": "E) Ácido Valproico.",
+        "isCorrect": false,
+        "explanation": "Contraindicado en neonatos por riesgo de hepatotoxicidad fatal[cite: 140]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones Cardíacas",
+    "text": "¿Qué complicación cardíaca es característica de la asfixia neonatal por isquemia del músculo papilar?",
+    "hint": "El ventrículo derecho sufre mucho ante el aumento de la resistencia pulmonar[cite: 149].",
+    "options": [
+      {
+        "text": "A) Comunicación interventricular.",
+        "isCorrect": false,
+        "explanation": "Es una malformación estructural congénita, no una complicación isquémica aguda[cite: 152]."
+      },
+      {
+        "text": "B) Insuficiencia Tricuspídea transitoria.",
+        "isCorrect": true,
+        "explanation": "Correcto. La isquemia afecta al músculo papilar de la válvula tricúspide, causando un soplo que resuelve al mejorar la oxigenación[cite: 150]."
+      },
+      {
+        "text": "C) Persistencia del ductus arterioso.",
+        "isCorrect": false,
+        "explanation": "Es común en prematuros; en la asfixia la complicación más directa es el daño isquémico miocárdico."
+      },
+      {
+        "text": "D) Tetralogía de Fallot.",
+        "isCorrect": false,
+        "explanation": "Es una cardiopatía congénita cianótica estructural[cite: 152]."
+      },
+      {
+        "text": "E) Coartación aórtica.",
+        "isCorrect": false,
+        "explanation": "Es una malformación de la aorta, no una consecuencia de la asfixia perinatal[cite: 152]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Cuál es el efecto secundario fisiológico ESPERADO en la frecuencia cardíaca durante la Hipotermia Terapéutica?",
+    "hint": "El frío disminuye la tasa metabólica del nodo sinusal[cite: 162].",
+    "options": [
+      {
+        "text": "A) Taquicardia extrema.",
+        "isCorrect": false,
+        "explanation": "Sería un signo de estrés o fiebre, lo opuesto al efecto del enfriamiento[cite: 166]."
+      },
+      {
+        "text": "B) Bradicardia sinusal moderada (80-100 lpm).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un efecto esperado y bien tolerado que no requiere tratamiento si la perfusión es normal[cite: 156, 163, 164]."
+      },
+      {
+        "text": "C) Hipertensión arterial maligna.",
+        "isCorrect": false,
+        "explanation": "La hipotermia suele asociarse a presiones estables o tendencia a la hipotensión si hay disfunción cardíaca."
+      },
+      {
+        "text": "D) Hiperventilación.",
+        "isCorrect": false,
+        "explanation": "El frío disminuye el gasto metabólico y la producción de CO2, lo que suele reducir la demanda ventilatoria."
+      },
+      {
+        "text": "E) Fiebre.",
+        "isCorrect": false,
+        "explanation": "Es el estado opuesto al objetivo de la terapia."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Monitorización",
+    "text": "¿Cuál es la principal utilidad del Amplitud-EEG (aEEG) en un neonato asfixiado?",
+    "hint": "Permite ver la 'salud eléctrica' de la corteza al pie de la cama[cite: 175].",
+    "options": [
+      {
+        "text": "A) Medir la inteligencia del niño.",
+        "isCorrect": false,
+        "explanation": "No tiene capacidad predictiva sobre el coeficiente intelectual futuro."
+      },
+      {
+        "text": "B) Identificar candidatos para Hipotermia y detectar convulsiones subclínicas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es fundamental para objetivar el grado de encefalopatía y monitorizar crisis en tiempo real[cite: 170, 176]."
+      },
+      {
+        "text": "C) Diagnosticar sordera.",
+        "isCorrect": false,
+        "explanation": "Para esto se utilizan las emisiones otoacústicas o potenciales evocados auditivos."
+      },
+      {
+        "text": "D) Evaluar la madurez pulmonar.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con la función respiratoria."
+      },
+      {
+        "text": "E) Sustituir la necesidad de TAC.",
+        "isCorrect": false,
+        "explanation": "Son exámenes complementarios; el aEEG mide función eléctrica y el TAC mide estructura anatómica."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Marcadores Bioquímicos",
+    "text": "¿Cuál es el valor diagnóstico de la Lactato Deshidrogenasa (LDH) en la asfixia neonatal?",
+    "hint": "Se libera al romperse las células por hipoxia[cite: 185].",
+    "options": [
+      {
+        "text": "A) Diagnosticar infección urinaria.",
+        "isCorrect": false,
+        "explanation": "No es un marcador de infección."
+      },
+      {
+        "text": "B) Marcador inespecífico de daño tisular y predictor de severidad en EHI.",
+        "isCorrect": true,
+        "explanation": "Correcto. Niveles elevados en las primeras horas se correlacionan con mayor compromiso multiorgánico[cite: 180, 186]."
+      },
+      {
+        "text": "C) Mide la función del páncreas.",
+        "isCorrect": false,
+        "explanation": "La enzima pancreática específica es la lipasa o amilasa."
+      },
+      {
+        "text": "D) Se eleva solo si hay fracturas.",
+        "isCorrect": false,
+        "explanation": "Aunque puede elevarse en traumas, su uso principal aquí es evaluar daño celular por hipoxia."
+      },
+      {
+        "text": "E) Es normal en la asfixia.",
+        "isCorrect": false,
+        "explanation": "Falso. Es uno de los marcadores que más se eleva debido a la necrosis celular."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Estadificación de Sarnat",
+    "text": "Un neonato presenta flacidez muscular total, ausencia de reflejos y pupilas midriáticas fijas. ¿Qué estadio de Sarnat es?",
+    "hint": "Es el estado de 'silencio' neurológico tras el insulto[cite: 196].",
+    "options": [
+      {
+        "text": "A) Estadio I.",
+        "isCorrect": false,
+        "explanation": "El estadio I presenta hiperreflexia e hiperalerta[cite: 31]."
+      },
+      {
+        "text": "B) Estadio II.",
+        "isCorrect": false,
+        "explanation": "El estadio II presenta letargia y miosis[cite: 34]."
+      },
+      {
+        "text": "C) Estadio III.",
+        "isCorrect": true,
+        "explanation": "Correcto. Representa la falla cortical y de tronco profunda, con alto riesgo de muerte o secuelas[cite: 192, 197, 198]."
+      },
+      {
+        "text": "D) Estadio IV.",
+        "isCorrect": false,
+        "explanation": "No existe en la clasificación de Sarnat[cite: 38]."
+      },
+      {
+        "text": "E) Muerte cerebral confirmada.",
+        "isCorrect": false,
+        "explanation": "Aunque la clínica es similar, la muerte cerebral requiere pruebas específicas adicionales."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Reanimación Neonatal",
+    "text": "Si tras 30 segundos de VPP efectiva la frecuencia cardíaca persiste < 60 lpm, ¿cuál es el siguiente paso?",
+    "hint": "El masaje se inicia cuando la FC es < 60 a pesar de ventilación adecuada[cite: 209, 210].",
+    "options": [
+      {
+        "text": "A) Administrar Adrenalina de inmediato.",
+        "isCorrect": false,
+        "explanation": "La adrenalina se administra si la FC sigue < 60 tras 60 segundos de masaje coordinado con VPP."
+      },
+      {
+        "text": "B) Iniciar masajes cardíacos coordinados con ventilación (3:1).",
+        "isCorrect": true,
+        "explanation": "Correcto. Si el corazón no responde a la oxigenación (VPP), se añade el masaje para mantener la perfusión mínima[cite: 203, 204, 212]."
+      },
+      {
+        "text": "C) Solo seguir con ventilación 1 minuto más.",
+        "isCorrect": false,
+        "explanation": "Tras 30 segundos de VPP efectiva sin respuesta cardíaca, no se debe demorar el inicio del masaje."
+      },
+      {
+        "text": "D) Intubar y administrar bicarbonato.",
+        "isCorrect": false,
+        "explanation": "La intubación es deseable al iniciar masaje, pero el bicarbonato no es una medida inicial recomendada."
+      },
+      {
+        "text": "E) Suspender maniobras.",
+        "isCorrect": false,
+        "explanation": "Solo se plantea tras al menos 20 minutos de reanimación intensiva sin éxito."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Etiología",
+    "text": "¿Cuál es la causa más común de Asfixia Neonatal de origen ANTEPARTO?",
+    "hint": "El 20% de las asfixias ocurren antes del inicio del trabajo de parto[cite: 221].",
+    "options": [
+      {
+        "text": "A) Prolapso de cordón.",
+        "isCorrect": false,
+        "explanation": "Es una causa intraparto aguda, no anteparto."
+      },
+      {
+        "text": "B) Insuficiencia placentaria crónica o patología materna (HTA, Diabetes).",
+        "isCorrect": true,
+        "explanation": "Correcto. La placenta que no nutre bien deja al feto sin reserva funcional para tolerar el estrés del parto[cite: 216, 222]."
+      },
+      {
+        "text": "C) Distocia de hombros.",
+        "isCorrect": false,
+        "explanation": "Es un evento mecánico del expulsivo (intraparto)."
+      },
+      {
+        "text": "D) Circular de cordón apretada.",
+        "isCorrect": false,
+        "explanation": "Suele causar compromiso durante el descenso fetal en el trabajo de parto."
+      },
+      {
+        "text": "E) Aspiración de meconio.",
+        "isCorrect": false,
+        "explanation": "Ocurre generalmente por estrés hipóxico intraparto o post-madurez."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Gases de Cordón",
+    "text": "¿Qué hallazgo analítico sugiere una 'Acidosis Metabólica' pura sobre una respiratoria en gases de cordón?",
+    "hint": "El exceso de base mide el componente no volátil (ácido láctico)[cite: 240].",
+    "options": [
+      {
+        "text": "A) pCO2 de 80 mmHg.",
+        "isCorrect": false,
+        "explanation": "Esto indica un componente respiratorio importante por retención de CO2[cite: 227]."
+      },
+      {
+        "text": "B) Déficit de Base ≥ 16 mmol/L con pCO2 normal.",
+        "isCorrect": true,
+        "explanation": "Correcto. Refleja el consumo de buffers por el ácido láctico acumulado, criterio diagnóstico de asfixia severa[cite: 229, 230, 241, 242]."
+      },
+      {
+        "text": "C) Bicarbonato de 25 mEq/L.",
+        "isCorrect": false,
+        "explanation": "Es un valor normal; en la acidosis metabólica el bicarbonato debe estar bajo."
+      },
+      {
+        "text": "D) pH de 7.40.",
+        "isCorrect": false,
+        "explanation": "Es un pH normal; no existe acidosis[cite: 235]."
+      },
+      {
+        "text": "E) pO2 de 100 mmHg.",
+        "isCorrect": false,
+        "explanation": "No define el tipo de acidosis; además la pO2 en sangre de cordón es fisiológicamente más baja."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Gastroenterología",
+    "text": "¿Cuál es el principal factor de riesgo para Enterocolitis Necrotizante (ECN) en un neonato asfixiado?",
+    "hint": "'Cerebro vs Intestino'[cite: 251].",
+    "options": [
+      {
+        "text": "A) La falta de vitaminas.",
+        "isCorrect": false,
+        "explanation": "No es un factor causal directo en la fase aguda post-asfixia."
+      },
+      {
+        "text": "B) La isquemia intestinal durante la redistribución del flujo (Diving reflex).",
+        "isCorrect": true,
+        "explanation": "Correcto. Al quitarle sangre al intestino para priorizar al cerebro, la mucosa sufre isquemia y facilita invasión bacteriana[cite: 246, 252]."
+      },
+      {
+        "text": "C) El uso de chupetes.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con la patogenia de la ECN."
+      },
+      {
+        "text": "D) La luz de la fototerapia.",
+        "isCorrect": false,
+        "explanation": "Se usa para ictericia, no causa daño isquémico intestinal."
+      },
+      {
+        "text": "E) La vacuna de la hepatitis.",
+        "isCorrect": false,
+        "explanation": "No influye en el desarrollo de isquemia intestinal."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Fisiopatología",
+    "text": "¿A qué se refiere el término 'Falla Energética Secundaria'?",
+    "hint": "Es la fase que intentamos mitigar con la Hipotermia[cite: 261].",
+    "options": [
+      {
+        "text": "A) A que el ventilador se apaga.",
+        "isCorrect": false,
+        "explanation": "No es un evento técnico, sino bioquímico celular."
+      },
+      {
+        "text": "B) A la fase de apoptosis e inflamación entre 6-48 horas tras el insulto inicial.",
+        "isCorrect": true,
+        "explanation": "Correcto. Tras un periodo de latencia, se desencadena una cascada química tóxica que amplía el daño cerebral[cite: 256, 262]."
+      },
+      {
+        "text": "C) A la falta de comida.",
+        "isCorrect": false,
+        "explanation": "El fallo es a nivel mitocondrial por agotamiento de ATP diferido."
+      },
+      {
+        "text": "D) A la primera fase de hipoxia.",
+        "isCorrect": false,
+        "explanation": "Esa es la fase de fallo energético primario (necrosis aguda)."
+      },
+      {
+        "text": "E) A las convulsiones neonatales únicamente.",
+        "isCorrect": false,
+        "explanation": "Las convulsiones son un síntoma de este fallo, no el fallo en sí mismo."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Cuál es la conducta ante un neonato en Hipotermia Terapéutica con coagulopatía y sangrado activo?",
+    "hint": "El frío altera la función plaquetaria y la cascada enzimática[cite: 271].",
+    "options": [
+      {
+        "text": "A) Suspender la hipotermia de inmediato.",
+        "isCorrect": false,
+        "explanation": "Se debe intentar el manejo médico primero antes de perder el beneficio neuroprotector[cite: 273]."
+      },
+      {
+        "text": "B) Corregir con hemoderivados y evaluar; si es incontrolable, recalentar.",
+        "isCorrect": true,
+        "explanation": "Correcto. La coagulopatía es un riesgo de la HT que debe manejarse activamente con plasma o plaquetas[cite: 266, 272]."
+      },
+      {
+        "text": "C) No hacer nada, es normal.",
+        "isCorrect": false,
+        "explanation": "El sangrado activo nunca es normal y pone en riesgo la vida del neonato."
+      },
+      {
+        "text": "D) Dar aspirina.",
+        "isCorrect": false,
+        "explanation": "Contraindicado; empeoraría el sangrado al inhibir la función plaquetaria."
+      },
+      {
+        "text": "E) Solo poner hielo en la herida.",
+        "isCorrect": false,
+        "explanation": "Medida local insuficiente para una coagulopatía sistémica."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Estadificación de Sarnat",
+    "text": "¿Cuál es la tríada clínica característica del Estadio II (Moderado)?",
+    "hint": "Es el estadio donde el parasimpático domina y hay actividad epiléptica[cite: 282].",
+    "options": [
+      {
+        "text": "A) Alerta, taquicardia, sin convulsiones.",
+        "isCorrect": false,
+        "explanation": "Corresponde al Estadio I[cite: 31]."
+      },
+      {
+        "text": "B) Letargia, miosis y convulsiones frecuentes.",
+        "isCorrect": true,
+        "explanation": "Correcto. Los niños están deprimidos pero reactivos, con pupilas pequeñas y crisis que requieren tratamiento[cite: 277, 283]."
+      },
+      {
+        "text": "C) Coma, midriasis fija, flacidez.",
+        "isCorrect": false,
+        "explanation": "Corresponde al Estadio III[cite: 36, 188]."
+      },
+      {
+        "text": "D) Llanto agudo, hambre, hipertonía.",
+        "isCorrect": false,
+        "explanation": "No son criterios de la clasificación de Sarnat."
+      },
+      {
+        "text": "E) Solo ictericia.",
+        "isCorrect": false,
+        "explanation": "No es un signo neurológico de EHI."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Neuroimagen",
+    "text": "¿Qué examen es mejor para evaluar la extensión definitiva del daño cerebral tras 7-10 días de la asfixia?",
+    "hint": "Mide el edema citotóxico y lesiones crónicas con gran detalle[cite: 292].",
+    "options": [
+      {
+        "text": "A) TAC de cerebro.",
+        "isCorrect": false,
+        "explanation": "Menos sensible que la RM para ver lesiones isquémicas sutiles en recién nacidos."
+      },
+      {
+        "text": "B) Ecografía transfontanelar.",
+        "isCorrect": false,
+        "explanation": "Útil para hemorragias, pero poco sensible para daño cortical o de ganglios basales post-asfixia."
+      },
+      {
+        "text": "C) Resonancia Magnética (RM) con difusión.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el estándar para el pronóstico a largo plazo, identificando lesiones en ganglios basales y corteza[cite: 288, 293]."
+      },
+      {
+        "text": "D) Radiografía de cráneo.",
+        "isCorrect": false,
+        "explanation": "Solo evalúa hueso, no parénquima cerebral."
+      },
+      {
+        "text": "E) Angiografía.",
+        "isCorrect": false,
+        "explanation": "No se utiliza para evaluar daño isquémico parenquimatoso de forma rutinaria."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Manejo Nutricional",
+    "text": "¿Cuál es el manejo de la alimentación durante las 72 horas de Hipotermia Terapéutica?",
+    "hint": "El intestino está 'aturdido' por isquemia y el metabolismo frenado por el frío[cite: 302].",
+    "options": [
+      {
+        "text": "A) Alimentación por succión normal.",
+        "isCorrect": false,
+        "explanation": "Riesgo prohibitivo de aspiración y enterocolitis por hipotonía y baja perfusión."
+      },
+      {
+        "text": "B) Régimen cero o alimentación trófica mínima muy cautelosa.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se previene la ECN manteniendo el ayuno y aportando nutrición parenteral si es necesario[cite: 297, 303]."
+      },
+      {
+        "text": "C) Dieta hipercalórica inmediata.",
+        "isCorrect": false,
+        "explanation": "El organismo no puede procesar altas cargas calóricas en estado de hipotermia."
+      },
+      {
+        "text": "D) Jugo de frutas por sonda.",
+        "isCorrect": false,
+        "explanation": "No es una práctica adecuada en neonatología intensiva."
+      },
+      {
+        "text": "E) Solo se da agua destilada.",
+        "isCorrect": false,
+        "explanation": "No aporta nutrientes y altera el equilibrio electrolítico."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Criterios Diagnósticos",
+    "text": "¿Qué puntaje Apgar a los 5 minutos se considera criterio de asfixia severa asociado a acidosis?",
+    "hint": "Indica una depresión profunda y persistente a pesar de maniobras iniciales[cite: 315].",
+    "options": [
+      {
+        "text": "A) 7 - 10.",
+        "isCorrect": false,
+        "explanation": "Es un puntaje normal que indica buena adaptación."
+      },
+      {
+        "text": "B) 4 - 6.",
+        "isCorrect": false,
+        "explanation": "Indica depresión moderada, pero no cumple criterio de severidad de asfixia."
+      },
+      {
+        "text": "C) 0 - 3.",
+        "isCorrect": true,
+        "explanation": "Correcto. Un Apgar bajo persistente es marcador de falla de adaptación grave[cite: 14, 15, 311, 316]."
+      },
+      {
+        "text": "D) Siempre debe ser 10.",
+        "isCorrect": false,
+        "explanation": "Es el puntaje ideal, pero no define la ausencia de asfixia por sí solo."
+      },
+      {
+        "text": "E) No importa el Apgar.",
+        "isCorrect": false,
+        "explanation": "Falso. Es uno de los cuatro criterios clásicos de la AAP/ACOG."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Fisiopatología",
+    "text": "¿Por qué se produce una liberación masiva de Glutamato en las sinapsis cerebrales durante la asfixia?",
+    "hint": "El glutamato es el principal neurotransmisor excitatorio; en exceso es un veneno[cite: 325].",
+    "options": [
+      {
+        "text": "A) Porque el glutamato es una vitamina.",
+        "isCorrect": false,
+        "explanation": "No es una vitamina, es un aminoácido neuroexcitador."
+      },
+      {
+        "text": "B) Por falla de las bombas de recaptación dependientes de ATP.",
+        "isCorrect": true,
+        "explanation": "Correcto. La falta de energía impide limpiar el glutamato, sobreestimulando receptores NMDA y permitiendo entrada masiva de calcio[cite: 320, 326]."
+      },
+      {
+        "text": "C) Para ayudar a que el niño despierte.",
+        "isCorrect": false,
+        "explanation": "Su liberación masiva es patológica y causa muerte neuronal, no despertar clínico."
+      },
+      {
+        "text": "D) No se libera glutamato.",
+        "isCorrect": false,
+        "explanation": "Falso. Es la base de la teoría de excitotoxicidad en EHI."
+      },
+      {
+        "text": "E) Es un error de laboratorio.",
+        "isCorrect": false,
+        "explanation": "Es un fenómeno fisiopatológico bien documentado."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones Pulmonares",
+    "text": "¿Qué complicación pulmonar es frecuente en el neonato asfixiado de término?",
+    "hint": "El pulmón no logra hacer la transición de la circulación fetal a la neonatal[cite: 335].",
+    "options": [
+      {
+        "text": "A) Enfermedad de membrana hialina.",
+        "isCorrect": false,
+        "explanation": "Es típica de prematuros por falta de surfactante."
+      },
+      {
+        "text": "B) Hipertensión Pulmonar Persistente (HPPN).",
+        "isCorrect": true,
+        "explanation": "Correcto. La hipoxia mantiene resistencias altas, impidiendo la oxigenación adecuada y cerrando un círculo vicioso[cite: 330, 336]."
+      },
+      {
+        "text": "C) Enfisema lobar.",
+        "isCorrect": false,
+        "explanation": "Es una malformación congénita o complicación crónica, no aguda de la asfixia."
+      },
+      {
+        "text": "D) Quiste broncogénico.",
+        "isCorrect": false,
+        "explanation": "Es una lesión estructural congénita del desarrollo pulmonar."
+      },
+      {
+        "text": "E) Neumotórax espontáneo únicamente.",
+        "isCorrect": false,
+        "explanation": "Puede ocurrir por reanimación vigorosa, pero la HPPN es la complicación fisiopatológica central."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿A qué velocidad se debe realizar el 'Recalentamiento' tras las 72 horas de hipotermia?",
+    "hint": "Los cambios rápidos de temperatura son peligrosos para la estabilidad eléctrica del cerebro[cite: 346].",
+    "options": [
+      {
+        "text": "A) Súbitamente.",
+        "isCorrect": false,
+        "explanation": "Riesgo de convulsiones y colapso hemodinámico por vasodilatación periférica brusca."
+      },
+      {
+        "text": "B) Lento, a 0.5°C por hora.",
+        "isCorrect": true,
+        "explanation": "Correcto. El recalentamiento controlado es crítico para evitar complicaciones[cite: 341, 347]."
+      },
+      {
+        "text": "C) En 10 minutos.",
+        "isCorrect": false,
+        "explanation": "Demasiado rápido; no permite la adaptación metabólica."
+      },
+      {
+        "text": "D) Por 1 semana.",
+        "isCorrect": false,
+        "explanation": "Innecesariamente lento; el protocolo estándar dura pocas horas."
+      },
+      {
+        "text": "E) No se debe recalentar.",
+        "isCorrect": false,
+        "explanation": "Falso. La hipotermia prolongada más allá del protocolo aumenta riesgos de infección y arritmias."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Nefrología Neonatal",
+    "text": "¿Qué marcador en orina ayuda a diferenciar daño renal por asfixia de una deshidratación simple?",
+    "hint": "El túbulo dañado no puede 'ahorrar' sodio[cite: 357].",
+    "options": [
+      {
+        "text": "A) Densidad urinaria.",
+        "isCorrect": false,
+        "explanation": "Puede estar alta en ambos casos iniciales; no es específica."
+      },
+      {
+        "text": "B) Fracción de excreción de sodio (FeNa) > 2.5%.",
+        "isCorrect": true,
+        "explanation": "Correcto. Indica que el túbulo renal ha perdido su capacidad funcional debido a isquemia (NTA)[cite: 352, 358]."
+      },
+      {
+        "text": "C) Presencia de bacterias.",
+        "isCorrect": false,
+        "explanation": "Orientaría a infección, no a daño isquémico."
+      },
+      {
+        "text": "D) Glucosa.",
+        "isCorrect": false,
+        "explanation": "Puede verse en asfixia por daño tubular, pero la FeNa es el parámetro diferencial clásico para falla renal."
+      },
+      {
+        "text": "E) Color de la orina.",
+        "isCorrect": false,
+        "explanation": "Subjetivo y poco confiable para diagnóstico diferencial de insuficiencia renal."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Pronóstico",
+    "text": "¿Cuál es el factor de riesgo más importante para desarrollar Parálisis Cerebral post-asfixia?",
+    "hint": "La clínica neurológica de los primeros días es el mejor espejo del daño real[cite: 367].",
+    "options": [
+      {
+        "text": "A) La estatura de la madre.",
+        "isCorrect": false,
+        "explanation": "No tiene influencia en el daño neurológico del neonato."
+      },
+      {
+        "text": "B) Grado III de Sarnat y convulsiones precoces refractarias.",
+        "isCorrect": true,
+        "explanation": "Correcto. Son los mejores predictores de secuelas motoras y cognitivas graves[cite: 362, 368]."
+      },
+      {
+        "text": "C) El número de hermanos.",
+        "isCorrect": false,
+        "explanation": "Variable social sin impacto en la patogenia de la EHI."
+      },
+      {
+        "text": "D) Haber nacido por cesárea.",
+        "isCorrect": false,
+        "explanation": "La cesárea a menudo es la respuesta a la asfixia, no su causa."
+      },
+      {
+        "text": "E) No haber tomado leche materna el primer día.",
+        "isCorrect": false,
+        "explanation": "El daño cerebral ocurre durante el insulto hipóxico, no por la nutrición inmediata."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones Pulmonares",
+    "text": "¿Cuál es la conducta ante un neonato con sospecha de asfixia que presenta Hemorragia Pulmonar?",
+    "hint": "Se debe ejercer presión 'desde adentro' para frenar el sangrado alveolar[cite: 377].",
+    "options": [
+      {
+        "text": "A) Dar antibióticos.",
+        "isCorrect": false,
+        "explanation": "No detienen el sangrado agudo masivo."
+      },
+      {
+        "text": "B) Aumentar la PEEP en el ventilador y corregir coagulopatía.",
+        "isCorrect": true,
+        "explanation": "Correcto. La hemorragia suele deberse a falla ventricular izquierda; la PEEP ayuda a contener el trasudado/sangrado[cite: 372, 378]."
+      },
+      {
+        "text": "C) No hacer nada.",
+        "isCorrect": false,
+        "explanation": "Es una emergencia con alta mortalidad si no se interviene."
+      },
+      {
+        "text": "D) Hacerle masajes en el pecho.",
+        "isCorrect": false,
+        "explanation": "Podría empeorar el sangrado alveolar."
+      },
+      {
+        "text": "E) Darle mucha agua.",
+        "isCorrect": false,
+        "explanation": "Aumentaría la precarga y empeoraría el edema pulmonar."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Marcadores Enzimáticos",
+    "text": "¿Qué enzima muscular se eleva clásicamente reflejando daño generalizado en la asfixia?",
+    "hint": "El daño del músculo esquelético y cardíaco libera esta enzima[cite: 387].",
+    "options": [
+      {
+        "text": "A) Amilasa.",
+        "isCorrect": false,
+        "explanation": "Marcador de daño pancreático o de glándulas salivales."
+      },
+      {
+        "text": "B) CPK (especialmente fracciones MM y MB).",
+        "isCorrect": true,
+        "explanation": "Correcto. Una CPK total muy alta es un marcador de asfixia severa por daño multiorgánico[cite: 382, 388]."
+      },
+      {
+        "text": "C) Lipasa.",
+        "isCorrect": false,
+        "explanation": "Específica para páncreas; no refleja daño isquémico generalizado."
+      },
+      {
+        "text": "D) Fosfatasa alcalina.",
+        "isCorrect": false,
+        "explanation": "Marcador óseo y biliar."
+      },
+      {
+        "text": "E) Insulina.",
+        "isCorrect": false,
+        "explanation": "Es una hormona, no una enzima liberada por necrosis tisular."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Cuál es una contraindicación absoluta para iniciar Hipotermia Terapéutica?",
+    "hint": "En prematuros muy pequeños, el riesgo de la terapia supera el beneficio demostrado[cite: 398].",
+    "options": [
+      {
+        "text": "A) Tener 38 semanas.",
+        "isCorrect": false,
+        "explanation": "Es edad gestacional de término; es el candidato ideal."
+      },
+      {
+        "text": "B) Prematurez extrema (< 35 semanas) o malformaciones letales.",
+        "isCorrect": true,
+        "explanation": "Correcto. El protocolo estándar solo incluye a mayores de 35-36 semanas[cite: 393, 399]."
+      },
+      {
+        "text": "C) Tener fiebre.",
+        "isCorrect": false,
+        "explanation": "No es contraindicación; al contrario, es indicación para enfriar."
+      },
+      {
+        "text": "D) Pesar 4 kg.",
+        "isCorrect": false,
+        "explanation": "El peso alto no impide el uso de la cuna o manta térmica."
+      },
+      {
+        "text": "E) Ser hijo de madre diabética.",
+        "isCorrect": false,
+        "explanation": "No influye en la decisión de realizar neuroprotección."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología",
+    "text": "¿Qué indica la presencia de 'Bostezos frecuentes' y 'Hipo' en un neonato asfixiado?",
+    "hint": "Son automatismos del tallo cerebral que emergen cuando la corteza está dañada[cite: 408].",
+    "options": [
+      {
+        "text": "A) Que tiene hambre.",
+        "isCorrect": false,
+        "explanation": "Incompatible con el estado clínico de un neonato asfixiado grave."
+      },
+      {
+        "text": "B) Signos de disfunción del tronco encefálico en etapas avanzadas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Son signos clínicos ominosos en el contexto de un asfixiado[cite: 403, 409]."
+      },
+      {
+        "text": "C) Que está muy relajado.",
+        "isCorrect": false,
+        "explanation": "No es relajación fisiológica, sino depresión neurológica profunda."
+      },
+      {
+        "text": "D) Que tiene gases.",
+        "isCorrect": false,
+        "explanation": "Interpretación errónea de automatismos cerebrales."
+      },
+      {
+        "text": "E) Que el tratamiento funciona.",
+        "isCorrect": false,
+        "explanation": "Al contrario, indican que el daño ha progresado a centros subcorticales."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hematología",
+    "text": "¿Cuál es la complicación hematológica más común de la asfixia neonatal?",
+    "hint": "El daño endotelial y la hipoxia activan la cascada de coagulación[cite: 418].",
+    "options": [
+      {
+        "text": "A) Exceso de glóbulos blancos.",
+        "isCorrect": false,
+        "explanation": "Puede haber leucocitosis reactiva, pero no es la complicación más característica."
+      },
+      {
+        "text": "B) Coagulación Intravascular Diseminada (CID) y Trombocitopenia.",
+        "isCorrect": true,
+        "explanation": "Correcto. El consumo de factores y plaquetas lleva al riesgo de hemorragias masivas[cite: 413, 419]."
+      },
+      {
+        "text": "C) Anemia ferropénica.",
+        "isCorrect": false,
+        "explanation": "Es una deficiencia crónica de hierro, no un evento agudo de asfixia."
+      },
+      {
+        "text": "D) Leucemia.",
+        "isCorrect": false,
+        "explanation": "Es una patología neoplásica maligna sin relación con la hipoxia perinatal."
+      },
+      {
+        "text": "E) Policitemia vera.",
+        "isCorrect": false,
+        "explanation": "La policitemia puede ocurrir en hipoxia crónica intrauterina, pero no es una complicación aguda post-asfixia."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Endocrinología",
+    "text": "¿Qué efecto tiene la asfixia sobre la glándula suprarrenal?",
+    "hint": "La glándula es muy vascularizada y vulnerable a cambios de flujo[cite: 428].",
+    "options": [
+      {
+        "text": "A) La hace desaparecer.",
+        "isCorrect": false,
+        "explanation": "No desaparece, pero puede sufrir daño estructural grave."
+      },
+      {
+        "text": "B) Riesgo de hemorragia suprarrenal e insuficiencia adrenal aguda.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe vigilar la presión arterial y electrolitos ante esta sospecha clínica[cite: 423, 429]."
+      },
+      {
+        "text": "C) Aumenta su tamaño para siempre.",
+        "isCorrect": false,
+        "explanation": "Puede inflamarse agudamente, pero no hay hipertrofia crónica."
+      },
+      {
+        "text": "D) No le afecta.",
+        "isCorrect": false,
+        "explanation": "Falso. Es uno de los órganos del 'trío vital' que recibe flujo pero puede sangrar al reperfundir."
+      },
+      {
+        "text": "E) Produce más insulina.",
+        "isCorrect": false,
+        "explanation": "La insulina se produce en el páncreas."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Gases de Cordón",
+    "text": "¿Cuál es el valor de pH en cordón que define Acidosis Grave en asfixia?",
+    "hint": "Es un valor de corte internacional[cite: 443].",
+    "options": [
+      {
+        "text": "A) 7.35.",
+        "isCorrect": false,
+        "explanation": "Es un valor dentro del rango normal para un recién nacido."
+      },
+      {
+        "text": "B) < 7.00.",
+        "isCorrect": true,
+        "explanation": "Correcto. Por debajo de 7.00 el riesgo de daño orgánico aumenta exponencialmente[cite: 435, 444]."
+      },
+      {
+        "text": "C) 7.15.",
+        "isCorrect": false,
+        "explanation": "Acidosis leve-moderada, frecuente en partos normales."
+      },
+      {
+        "text": "D) 7.45.",
+        "isCorrect": false,
+        "explanation": "Indica alcalosis, no acidosis."
+      },
+      {
+        "text": "E) Solo importa la pO2.",
+        "isCorrect": false,
+        "explanation": "Falso. El pH y el déficit de base son los indicadores diagnósticos clave."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología",
+    "text": "En un neonato asfixiado, el hallazgo de 'Pupilas Puntiformes' sugiere:",
+    "hint": "El estadio II es 'húmedo' y con pupilas pequeñas[cite: 453].",
+    "options": [
+      {
+        "text": "A) Estadio I de Sarnat.",
+        "isCorrect": false,
+        "explanation": "Presentaría midriasis (pupilas dilatadas) por descarga simpática[cite: 22]."
+      },
+      {
+        "text": "B) Estadio II de Sarnat (Predominio parasimpático).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una característica diagnóstica de la encefalopatía moderada[cite: 448, 454]."
+      },
+      {
+        "text": "C) Estadio III de Sarnat.",
+        "isCorrect": false,
+        "explanation": "Las pupilas suelen estar midriáticas fijas o irregulares por daño de tronco[cite: 188]."
+      },
+      {
+        "text": "D) Muerte cerebral.",
+        "isCorrect": false,
+        "explanation": "Las pupilas están clásicamente dilatadas y arreflécticas."
+      },
+      {
+        "text": "E) Intoxicación por atropina.",
+        "isCorrect": false,
+        "explanation": "La atropina causaría midriasis extrema, lo opuesto a miosis."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Neuroprotección",
+    "text": "¿Cuál es el principal objetivo de la neuroprotección en la asfixia?",
+    "hint": "No podemos revertir el insulto inicial, pero sí el daño posterior[cite: 463].",
+    "options": [
+      {
+        "text": "A) Que el niño camine más rápido.",
+        "isCorrect": false,
+        "explanation": "El objetivo es la integridad estructural y funcional del cerebro."
+      },
+      {
+        "text": "B) Detener la cascada de muerte celular secundaria para minimizar el daño permanente.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el fundamento de todas las terapias actuales como la hipotermia[cite: 458, 464]."
+      },
+      {
+        "text": "C) Curar la asfixia.",
+        "isCorrect": false,
+        "explanation": "La asfixia es el evento; la terapia maneja sus consecuencias cerebrales."
+      },
+      {
+        "text": "D) Evitar la fiebre.",
+        "isCorrect": false,
+        "explanation": "Aunque es parte del manejo, el objetivo macro es prevenir la apoptosis neuronal."
+      },
+      {
+        "text": "E) Que el niño duerma.",
+        "isCorrect": false,
+        "explanation": "La sedación ayuda al confort, pero no es el fin terapéutico principal."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Manejo Hemodinámico",
+    "text": "¿Qué fármaco es el vasoactivo de elección inicial ante hipotensión persistente que no responde a volumen?",
+    "hint": "Se busca mejorar el inotropismo y la resistencia periférica[cite: 474].",
+    "options": [
+      {
+        "text": "A) Adrenalina.",
+        "isCorrect": false,
+        "explanation": "Se reserva para crisis agudas de paro o shock refractario muy avanzado."
+      },
+      {
+        "text": "B) Dopamina o Dobutamina (titulando dosis).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el manejo hemodinámico estándar en el shock neonatal por asfixia[cite: 469, 475]."
+      },
+      {
+        "text": "C) Insulina.",
+        "isCorrect": false,
+        "explanation": "No tiene efectos vasoactivos inotrópicos."
+      },
+      {
+        "text": "D) Atropina.",
+        "isCorrect": false,
+        "explanation": "Aumenta la FC pero no mejora la contractilidad ni la resistencia vascular de forma sostenida."
+      },
+      {
+        "text": "E) Hidrocortisona únicamente.",
+        "isCorrect": false,
+        "explanation": "Solo si se sospecha insuficiencia suprarrenal asociada, no es la primera línea sola."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Conclusión Médica",
+    "text": "¿Cuál es el mensaje final clave sobre la Asfixia Neonatal?",
+    "hint": "Tiempo es cerebro[cite: 484].",
+    "options": [
+      {
+        "text": "A) Siempre es culpa de alguien.",
+        "isCorrect": false,
+        "explanation": "Muchos factores anteparto son imprevisibles e inevitables."
+      },
+      {
+        "text": "B) Es una emergencia multiorgánica donde el diagnóstico y neuroprotección precoz cambian el futuro.",
+        "isCorrect": true,
+        "explanation": "Correcto. La intervención en las primeras 6 horas es la ventana crítica de oportunidad[cite: 479, 485]."
+      },
+      {
+        "text": "C) No tiene tratamiento.",
+        "isCorrect": false,
+        "explanation": "Falso. La hipotermia ha demostrado reducir significativamente la discapacidad."
+      },
+      {
+        "text": "D) Es normal en todos los partos.",
+        "isCorrect": false,
+        "explanation": "La asfixia es una patología grave, no un evento fisiológico del parto."
+      },
+      {
+        "text": "E) Solo afecta al pulmón.",
+        "isCorrect": false,
+        "explanation": "Es una enfermedad sistémica que afecta cerebro, riñón, corazón e hígado."
+      }
+    ]
+  }
+]
