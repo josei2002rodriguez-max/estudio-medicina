@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Neuroprotección",
+    "text": "¿Cuál es el principal efecto fisiopatológico de la Hipotermia Terapéutica sobre la cascada de daño neuronal en la EHI?",
+    "hint": "El frío actúa como un 'freno biológico' para los procesos destructivos secundarios.",
+    "options": [
+      {
+        "text": "A) Aumenta la liberación de Glutamato.",
+        "isCorrect": false,
+        "explanation": "Falso. La hipotermia precisamente disminuye la liberación de glutamato y mitiga la excitotoxicidad."
+      },
+      {
+        "text": "B) Disminuye la tasa metabólica cerebral, reduce la producción de radicales libres y frena la apoptosis celular.",
+        "isCorrect": true,
+        "explanation": "Correcto. La hipotermia reduce el consumo de O2 cerebral (5-7% por cada grado), estabiliza membranas y disminuye la neuroinflamación."
+      },
+      {
+        "text": "C) Aumenta el flujo sanguíneo hacia el intestino.",
+        "isCorrect": false,
+        "explanation": "Al contrario, la hipotermia mantiene la vasoconstricción esplácnica, lo que obliga a vigilar el riesgo de enterocolitis."
+      },
+      {
+        "text": "D) Acelera la maduración de las fisis óseas.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con el crecimiento óseo; su objetivo es exclusivamente la protección del parénquima cerebral."
+      },
+      {
+        "text": "E) Provoca una vasodilatación periférica masiva.",
+        "isCorrect": false,
+        "explanation": "Falso. El frío produce vasoconstricción periférica, lo que puede causar palidez y aumento del tiempo de llene capilar."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "Durante el protocolo de hipotermia, ¿cuál es el efecto secundario hematológico que se observa con mayor frecuencia debido a la inhibición enzimática por frío?",
+    "hint": "El frío interfiere con la cascada de coagulación y la función de los trombocitos.",
+    "options": [
+      {
+        "text": "A) Policitemia severa.",
+        "isCorrect": false,
+        "explanation": "La policitemia suele ser causa de asfixia (hiperviscosidad), no una consecuencia del tratamiento con frío."
+      },
+      {
+        "text": "B) Trombocitopenia y prolongación de los tiempos de coagulación (TP/TTPA).",
+        "isCorrect": true,
+        "explanation": "Correcto. El enfriamiento reduce la actividad enzimática de los factores de coagulación y puede inducir secuestro esplénico de plaquetas."
+      },
+      {
+        "text": "C) Leucocitosis con desviación a la izquierda.",
+        "isCorrect": false,
+        "explanation": "La hipotermia suele causar leucopenia transitoria, no leucocitosis (que sugeriría infección)."
+      },
+      {
+        "text": "D) Aumento de la agregación plaquetaria.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. La función plaquetaria se ve inhibida por las bajas temperaturas."
+      },
+      {
+        "text": "E) Anemia hemolítica autoinmune.",
+        "isCorrect": false,
+        "explanation": "No existe relación fisiopatológica entre la hipotermia y la hemólisis por anticuerpos."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Manejo Respiratorio",
+    "text": "¿Por qué es fundamental evitar la 'Hipocapnia' (PaCO2 baja) extrema en un neonato con EHI?",
+    "hint": "El CO2 bajo actúa como un potente vasoconstrictor en la vasculatura cerebral.",
+    "options": [
+      {
+        "text": "A) Porque produce alcalosis respiratoria que mejora el ánimo.",
+        "isCorrect": false,
+        "explanation": "La alcalosis respiratoria no tiene beneficios clínicos y puede empeorar la entrega de oxígeno a los tejidos."
+      },
+      {
+        "text": "B) Porque la hipocapnia causa vasoconstricción cerebral severa, agravando la isquemia.",
+        "isCorrect": true,
+        "explanation": "Correcto. Niveles de PaCO2 < 30-35 mmHg reducen el flujo sanguíneo cerebral, lo que sumado al insulto hipóxico previo, aumenta el daño."
+      },
+      {
+        "text": "C) Porque el CO2 bajo causa ceguera inmediata.",
+        "isCorrect": false,
+        "explanation": "No es una causa directa de ceguera (la cual se asocia más a ROP por hiperoxia en prematuros)."
+      },
+      {
+        "text": "D) Porque aumenta el riesgo de fracturas.",
+        "isCorrect": false,
+        "explanation": "No existe relación entre la PaCO2 y la integridad ósea aguda."
+      },
+      {
+        "text": "E) Porque induce hambre excesiva.",
+        "isCorrect": false,
+        "explanation": "No tiene efecto sobre el centro del apetito en el periodo neonatal."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Cuál es la conducta recomendada si un neonato presenta bradicardia sinusal de 80 lpm durante la fase de enfriamiento, manteniendo una buena perfusión distal?",
+    "hint": "Es un fenómeno fisiológico esperado al bajar la temperatura central.",
+    "options": [
+      {
+        "text": "A) Iniciar masaje cardíaco de inmediato.",
+        "isCorrect": false,
+        "explanation": "El masaje se inicia con FC < 60 lpm en reanimación activa; 80 lpm en hipotermia es normal."
+      },
+      {
+        "text": "B) Administrar Atropina o Adrenalina.",
+        "isCorrect": false,
+        "explanation": "No se requiere medicación para una bradicardia fisiológica inducida por el frío si el gasto cardíaco es adecuado."
+      },
+      {
+        "text": "C) Mantener la observación y continuar el protocolo (es un efecto esperado).",
+        "isCorrect": true,
+        "explanation": "Correcto. La bradicardia sinusal es la respuesta normal del nodo sinusal al frío; solo se interviene si hay compromiso de la perfusión."
+      },
+      {
+        "text": "D) Recalentar al paciente rápidamente.",
+        "isCorrect": false,
+        "explanation": "Suspender el tratamiento por una bradicardia leve privaría al niño de la neuroprotección necesaria."
+      },
+      {
+        "text": "E) Suspender la sedación.",
+        "isCorrect": false,
+        "explanation": "La sedación es necesaria para evitar el tiritón y el estrés durante el enfriamiento."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones Metabólicas",
+    "text": "¿Cuál es el manejo preferido para la hipocalcemia asintomática en el contexto de un neonato asfixiado?",
+    "hint": "El calcio es un cofactor que puede agravar la entrada de calcio intracelular y la muerte neuronal.",
+    "options": [
+      {
+        "text": "A) Administrar Gluconato de Calcio al 10% en bolo rápido.",
+        "isCorrect": false,
+        "explanation": "Los bolos rápidos están contraindicados por riesgo de arritmias; además, solo se corrige si es sintomática o muy severa."
+      },
+      {
+        "text": "B) No corregir activamente si es leve/asintomática, para evitar mayor daño neuronal por excitotoxicidad.",
+        "isCorrect": true,
+        "explanation": "Correcto. Existe controversia, pero se prefiere ser conservador ya que el calcio iónico alto puede potenciar la cascada de muerte celular."
+      },
+      {
+        "text": "C) Dar leche materna fortificada con calcio de inmediato.",
+        "isCorrect": false,
+        "explanation": "El paciente suele estar en régimen cero durante las primeras horas de asfixia grave."
+      },
+      {
+        "text": "D) Administrar Vitamina D en dosis masivas.",
+        "isCorrect": false,
+        "explanation": "La vitamina D no corrige la hipocalcemia aguda por asfixia (que es por depósito en tejidos dañados e hiperfosfemia)."
+      },
+      {
+        "text": "E) Usar quelantes de calcio.",
+        "isCorrect": false,
+        "explanation": "Incorrecto. Empeoraría la hipocalcemia y la estabilidad de las membranas excitables."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Qué parámetro monitoriza el aEEG (EEG de amplitud integrada) durante el enfriamiento?",
+    "hint": "Es un monitor de tendencia que resume la actividad eléctrica cortical.",
+    "options": [
+      {
+        "text": "A) El flujo sanguíneo de la arteria cerebral media.",
+        "isCorrect": false,
+        "explanation": "Eso se mide mediante Doppler transfontanelar."
+      },
+      {
+        "text": "B) La actividad eléctrica de fondo y la presencia de crisis convulsivas subclínicas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Permite evaluar la gravedad de la EHI (patrón de brote-supresión, bajo voltaje) y detectar crisis que no tienen manifestación motora."
+      },
+      {
+        "text": "C) El nivel de oxígeno en el tejido cerebral.",
+        "isCorrect": false,
+        "explanation": "Eso se mide mediante NIRS (Espectroscopía cercana al infrarrojo)."
+      },
+      {
+        "text": "D) La presión intracraneana.",
+        "isCorrect": false,
+        "explanation": "Requiere métodos invasivos o estimación clínica/ecográfica, no se mide con aEEG."
+      },
+      {
+        "text": "E) La madurez del sueño.",
+        "isCorrect": false,
+        "explanation": "Aunque muestra ciclos de sueño-vigilia, su uso principal en asfixia es la detección de daño y crisis."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones Digestivas",
+    "text": "¿Cuál es la recomendación actual sobre la nutrición enteral durante las 72 horas de hipotermia?",
+    "hint": "Se debe balancear el riesgo de isquemia intestinal con los beneficios de la alimentación trófica.",
+    "options": [
+      {
+        "text": "A) Alimentación a libre demanda con fórmula.",
+        "isCorrect": false,
+        "explanation": "Riesgo muy alto de enterocolitis necrotizante (ECN) por hipoperfusión intestinal persistente."
+      },
+      {
+        "text": "B) Ayuno estricto (Régimen Cero) con nutrición parenteral total.",
+        "isCorrect": true,
+        "explanation": "Correcto. La mayoría de los protocolos recomiendan ayuno o alimentación trófica mínima con leche materna debido al riesgo de ECN post-asfixia."
+      },
+      {
+        "text": "C) Dieta sólida fraccionada.",
+        "isCorrect": false,
+        "explanation": "Inadecuado para la edad neonatal."
+      },
+      {
+        "text": "D) Sonda nasogástrica con jugos.",
+        "isCorrect": false,
+        "explanation": "Inadecuado y peligroso."
+      },
+      {
+        "text": "E) Alimentación forzada para evitar la hipoglicemia.",
+        "isCorrect": false,
+        "explanation": "La glicemia se maneja con aportes de glucosa endovenosa (VIG adecuada)."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Neuroimagen",
+    "text": "¿Qué hallazgo en la Resonancia Magnética (RM) se considera un marcador de mal pronóstico neurológico en EHI?",
+    "hint": "Son las áreas con mayor actividad metabólica y por tanto más sensibles a la falta de energía.",
+    "options": [
+      {
+        "text": "A) Presencia de plexos coroideos normales.",
+        "isCorrect": false,
+        "explanation": "Es un hallazgo anatómico normal."
+      },
+      {
+        "text": "B) Lesión en los Ganglios Basales y Tálamo (especialmente el brazo posterior de la cápsula interna).",
+        "isCorrect": true,
+        "explanation": "Correcto. El daño en estas estructuras se asocia fuertemente con parálisis cerebral discinética y déficits motores graves."
+      },
+      {
+        "text": "C) Escasa mielinización.",
+        "isCorrect": false,
+        "explanation": "En el neonato de término la mielinización es fisiológicamente incompleta, no indica daño por asfixia per se."
+      },
+      {
+        "text": "D) Fontanela anterior abierta.",
+        "isCorrect": false,
+        "explanation": "Es un hallazgo normal a esta edad."
+      },
+      {
+        "text": "E) Senos venosos permeables.",
+        "isCorrect": false,
+        "explanation": "Es un signo de normalidad vascular."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Monitorización",
+    "text": "¿Qué utilidad tiene la medición de la Enolasa Neuronal Específica (ENE) en un niño asfixiado?",
+    "hint": "Es una enzima presente en el citoplasma de las neuronas.",
+    "options": [
+      {
+        "text": "A) Diagnosticar reflujo gastroesofágico.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con el sistema digestivo."
+      },
+      {
+        "text": "B) Actuar como marcador bioquímico de necrosis neuronal; niveles altos predicen mayor daño cerebral.",
+        "isCorrect": true,
+        "explanation": "Correcto. Su liberación al LCR o sangre indica ruptura de la barrera hematoencefálica y muerte de células nerviosas."
+      },
+      {
+        "text": "C) Medir la función del hígado.",
+        "isCorrect": false,
+        "explanation": "Para eso se usan las transaminasas (GOT/GPT)."
+      },
+      {
+        "text": "D) Evaluar la visión.",
+        "isCorrect": false,
+        "explanation": "No tiene utilidad en la evaluación oftalmológica."
+      },
+      {
+        "text": "E) Descartar sífilis congénita.",
+        "isCorrect": false,
+        "explanation": "Para eso se usa el VDRL/RPR."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿A qué profundidad debe colocarse el sensor de temperatura para el monitoreo central durante la hipotermia?",
+    "hint": "Se busca medir la temperatura del 'core' o núcleo central.",
+    "options": [
+      {
+        "text": "A) 2 cm en el recto.",
+        "isCorrect": false,
+        "explanation": "Muy superficial; puede dar lecturas falsas por influencia de la temperatura ambiental de la cuna."
+      },
+      {
+        "text": "B) Al menos 5 cm en el recto o mediante sonda esofágica.",
+        "isCorrect": true,
+        "explanation": "Correcto. Debe estar lo suficientemente profundo para asegurar que se mide la temperatura real del cuerpo y no de la piel."
+      },
+      {
+        "text": "C) Solo temperatura axilar.",
+        "isCorrect": false,
+        "explanation": "La temperatura axilar es periférica y no es confiable para manejar protocolos de hipotermia."
+      },
+      {
+        "text": "D) En la palma de la mano.",
+        "isCorrect": false,
+        "explanation": "Temperatura distal, no refleja el estado central."
+      },
+      {
+        "text": "E) Debajo de la lengua.",
+        "isCorrect": false,
+        "explanation": "No es práctico ni seguro en un neonato gravemente enfermo."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Seguimiento",
+    "text": "¿Cuál es la frecuencia recomendada de seguimiento neurológico para un sobreviviente de EHI moderada-severa?",
+    "hint": "Las secuelas pueden no ser evidentes en los primeros meses.",
+    "options": [
+      {
+        "text": "A) Solo una vez al mes de vida.",
+        "isCorrect": false,
+        "explanation": "Insuficiente; muchos trastornos del neurodesarrollo aparecen después de los 6 meses."
+      },
+      {
+        "text": "B) Seguimiento multidisciplinario al menos hasta los 2 años de edad (o ingreso escolar).",
+        "isCorrect": true,
+        "explanation": "Correcto. Se deben evaluar hitos del desarrollo, visión, audición y lenguaje de forma seriada."
+      },
+      {
+        "text": "C) Ninguno si la RM salió normal.",
+        "isCorrect": false,
+        "explanation": "Falso. Una RM normal no garantiza la ausencia de trastornos del aprendizaje o conductuales menores."
+      },
+      {
+        "text": "D) Solo si la madre nota algo raro.",
+        "isCorrect": false,
+        "explanation": "El seguimiento debe ser proactivo por especialistas."
+      },
+      {
+        "text": "E) Solo telemedicina anual.",
+        "isCorrect": false,
+        "explanation": "Se requiere examen físico detallado (tono, reflejos, motricidad fina)."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Qué sucede con la solubilidad del CO2 en la sangre durante la hipotermia?",
+    "hint": "La temperatura afecta la presión parcial de los gases disueltos.",
+    "options": [
+      {
+        "text": "A) La solubilidad disminuye.",
+        "isCorrect": false,
+        "explanation": "Al contrario, a menor temperatura, los gases se disuelven mejor en el líquido."
+      },
+      {
+        "text": "B) La solubilidad aumenta, lo que requiere corregir los valores de gases arteriales según la temperatura del paciente.",
+        "isCorrect": true,
+        "explanation": "Correcto. El pH y la pCO2 cambian con la temperatura; los equipos de gases suelen informar valores corregidos a 37°C y a la temperatura real."
+      },
+      {
+        "text": "C) No hay cambios.",
+        "isCorrect": false,
+        "explanation": "Falso. Ignorar esto puede llevar a errores en el ajuste del ventilador mecánico."
+      },
+      {
+        "text": "D) El CO2 se vuelve sólido.",
+        "isCorrect": false,
+        "explanation": "Imposible a temperaturas biológicas."
+      },
+      {
+        "text": "E) Solo afecta al nitrógeno.",
+        "isCorrect": false,
+        "explanation": "Afecta a todos los gases disueltos (O2 y CO2 principalmente)."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones Cardíacas",
+    "text": "Un neonato asfixiado presenta elevación de Troponina T y depresión del segmento ST en el ECG. ¿Qué indica este hallazgo?",
+    "hint": "El corazón sufre un insulto similar al del adulto ante la falta de oxígeno.",
+    "options": [
+      {
+        "text": "A) Endocarditis bacteriana.",
+        "isCorrect": false,
+        "explanation": "La endocarditis se asocia a fiebre, soplos nuevos y vegetaciones, no es un evento isquémico agudo de asfixia."
+      },
+      {
+        "text": "B) Isquemia miocárdica transitoria del recién nacido.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es muy común en asfixia severa; el miocardio se 'aturde' y puede requerir soporte inotrópico."
+      },
+      {
+        "text": "C) Infarto masivo incurable.",
+        "isCorrect": false,
+        "explanation": "A diferencia del adulto, el miocardio neonatal tiene mayor capacidad de recuperación si se restablece la oxigenación."
+      },
+      {
+        "text": "D) Pericarditis viral.",
+        "isCorrect": false,
+        "explanation": "No guarda relación con el antecedente de hipoxia perinatal inmediata."
+      },
+      {
+        "text": "E) Que el niño es deportista.",
+        "isCorrect": false,
+        "explanation": "Absurdo en este contexto clínico."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Cuál es el riesgo de administrar bolos de volumen (SF) fríos en lugar de tibios en un paciente asfixiado?",
+    "hint": "El enfriamiento debe ser controlado por equipos especializados, no errático.",
+    "options": [
+      {
+        "text": "A) Ninguno, ayuda a enfriar más rápido.",
+        "isCorrect": false,
+        "explanation": "Falso. El enfriamiento descontrolado o muy rápido induce arritmias y estrés metabólico."
+      },
+      {
+        "text": "B) Inducir fibrilación ventricular o arritmias por choque térmico.",
+        "isCorrect": true,
+        "explanation": "Correcto. El corazón asfixiado es muy irritable eléctricamente; los fluidos deben estar a temperatura ambiente o tibia."
+      },
+      {
+        "text": "C) Provocar quemaduras.",
+        "isCorrect": false,
+        "explanation": "El frío no causa quemaduras térmicas de este tipo en fluidos IV."
+      },
+      {
+        "text": "D) Mejorar la presión arterial.",
+        "isCorrect": false,
+        "explanation": "La temperatura del fluido no es el mecanismo para mejorar la presión."
+      },
+      {
+        "text": "E) Evitar la ictericia.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con el metabolismo de la bilirrubina."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Fisiopatología",
+    "text": "¿Qué ocurre con el flujo sanguíneo cerebral durante la 'Fase de Reperfusión' tras el insulto hipóxico?",
+    "hint": "Se pierde la capacidad del cerebro de regular su propio flujo.",
+    "options": [
+      {
+        "text": "A) Se detiene por completo.",
+        "isCorrect": false,
+        "explanation": "Eso sería muerte cerebral o paro circulatorio."
+      },
+      {
+        "text": "B) Puede haber una hiperemia reactiva (exceso de flujo) que agrava el edema cerebral.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se pierde la autorregulación y el cerebro queda a merced de la presión arterial sistémica (flujo presión-pasivo)."
+      },
+      {
+        "text": "C) El flujo se vuelve azul.",
+        "isCorrect": false,
+        "explanation": "El color de la sangre depende de la hemoglobina, no de la fase de flujo."
+      },
+      {
+        "text": "D) Aumenta la producción de líquido cefalorraquídeo.",
+        "isCorrect": false,
+        "explanation": "No es el fenómeno principal en la fase de reperfusión aguda."
+      },
+      {
+        "text": "E) El cerebro se encoge.",
+        "isCorrect": false,
+        "explanation": "Al contrario, suele haber edema (hinchazón)."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Laboratorio",
+    "text": "¿Por qué se solicita un recuento de Eritroblastos en sangre periférica en un neonato asfixiado?",
+    "hint": "El eritroblasto es un glóbulo rojo inmaduro que sale a circulación ante hipoxia crónica o estrés agudo severo.",
+    "options": [
+      {
+        "text": "A) Para ver si tiene leucemia.",
+        "isCorrect": false,
+        "explanation": "No es un marcador de leucemia en el neonato."
+      },
+      {
+        "text": "B) Como marcador indirecto de hipoxia tisular prolongada o asfixia reciente.",
+        "isCorrect": true,
+        "explanation": "Correcto. Un número elevado de eritroblastos sugiere que el feto estuvo intentando compensar la falta de O2 aumentando la producción de GR."
+      },
+      {
+        "text": "C) Para diagnosticar anemia ferropénica.",
+        "isCorrect": false,
+        "explanation": "La anemia ferropénica no se diagnostica con eritroblastos."
+      },
+      {
+        "text": "D) Para evaluar la función del bazo.",
+        "isCorrect": false,
+        "explanation": "No es el uso clínico principal en este contexto."
+      },
+      {
+        "text": "E) Porque son células que curan el cerebro.",
+        "isCorrect": false,
+        "explanation": "Falso. Son solo un indicador biológico de estrés hipóxico."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones Hepáticas",
+    "text": "Un neonato asfixiado presenta elevación marcada de transaminasas (AST/ALT) y alteración de los tiempos de coagulación. ¿Qué complicación hepática sospecha?",
+    "hint": "El hígado es parte de los órganos 'sacrificados' durante la redistribución de flujo.",
+    "options": [
+      {
+        "text": "A) Hepatitis A.",
+        "isCorrect": false,
+        "explanation": "Transmisión fecal-oral, no ocurre de forma aguda post-parto por asfixia."
+      },
+      {
+        "text": "B) Hígado de choque o necrosis hepática isquémica.",
+        "isCorrect": true,
+        "explanation": "Correcto. El daño hipóxico-isquémico hepatocelular es común y contribuye a la coagulopatía de la asfixia."
+      },
+      {
+        "text": "C) Atresia de vías biliares.",
+        "isCorrect": false,
+        "explanation": "Es una patología obstructiva crónica que se manifiesta con ictericia después de las 2 semanas de vida."
+      },
+      {
+        "text": "D) Cirrosis neonatal.",
+        "isCorrect": false,
+        "explanation": "La cirrosis es el estadio final de daño crónico, no un evento agudo."
+      },
+      {
+        "text": "E) Que comió muchas grasas.",
+        "isCorrect": false,
+        "explanation": "Inconsistente con la fisiología neonatal."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Cuál es el manejo de los electrolitos, especialmente el Potasio, durante el recalentamiento?",
+    "hint": "Al subir la temperatura, el potasio vuelve a entrar a las células.",
+    "options": [
+      {
+        "text": "A) Suspender todo aporte de potasio.",
+        "isCorrect": false,
+        "explanation": "Riesgo de hipopotasemia severa durante el recalentamiento."
+      },
+      {
+        "text": "B) Monitorizar estrechamente ante el riesgo de hipopotasemia por entrada intracelular.",
+        "isCorrect": true,
+        "explanation": "Correcto. El movimiento iónico durante los cambios de temperatura obliga a controles frecuentes de gases y electrolitos."
+      },
+      {
+        "text": "C) Dar bolos de Cloruro de Potasio preventivos.",
+        "isCorrect": false,
+        "explanation": "El potasio nunca se da en bolo; riesgo de paro cardíaco."
+      },
+      {
+        "text": "D) Ignorar el potasio y ver solo el sodio.",
+        "isCorrect": false,
+        "explanation": "El potasio es crítico para la estabilidad eléctrica miocárdica."
+      },
+      {
+        "text": "E) Solo dar potasio si el niño tiene hambre.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con el apetito."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Neuroprotección",
+    "text": "Además de la hipotermia, ¿qué medida de cuidado general es CRUCIAL para evitar aumentar el daño cerebral en EHI?",
+    "hint": "El cerebro asfixiado ha perdido sus defensas contra el estrés térmico.",
+    "options": [
+      {
+        "text": "A) Mantener al niño con luz intensa.",
+        "isCorrect": false,
+        "explanation": "La luz intensa es estresante y no tiene beneficio; se prefiere un ambiente tranquilo."
+      },
+      {
+        "text": "B) Evitar estrictamente la hipertermia (fiebre), incluso si no califica para hipotermia.",
+        "isCorrect": true,
+        "explanation": "Correcto. La fiebre post-asfixia es extremadamente dañina y aumenta significativamente el riesgo de secuelas."
+      },
+      {
+        "text": "C) Realizar masajes en la cabeza.",
+        "isCorrect": false,
+        "explanation": "No tiene base científica y puede ser perjudicial."
+      },
+      {
+        "text": "D) Administrar antibióticos a todos por si acaso.",
+        "isCorrect": false,
+        "explanation": "Solo si hay sospecha de sepsis (que a menudo coexiste), pero no es una medida de neuroprotección directa."
+      },
+      {
+        "text": "E) Poner música clásica a alto volumen.",
+        "isCorrect": false,
+        "explanation": "Se recomienda el mínimo estímulo sensorial."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Ética Médica",
+    "text": "¿Cuál es el criterio para considerar la 'Limitación del Esfuerzo Terapéutico' en un neonato con asfixia severa?",
+    "hint": "Se basa en la ausencia de respuesta tras una reanimación prolongada y bien ejecutada.",
+    "options": [
+      {
+        "text": "A) Si el niño no llora a los 2 minutos.",
+        "isCorrect": false,
+        "explanation": "Demasiado pronto; muchos niños responden tras 5-10 minutos de reanimación."
+      },
+      {
+        "text": "B) Ausencia de frecuencia cardíaca detectable durante 20 minutos de reanimación avanzada efectiva (según NRP 8va Ed).",
+        "isCorrect": true,
+        "explanation": "Correcto. Tras 20 minutos de maniobras óptimas sin éxito, la probabilidad de sobrevida sin secuelas catastróficas es casi nula."
+      },
+      {
+        "text": "C) Si la madre lo solicita de inmediato.",
+        "isCorrect": false,
+        "explanation": "La decisión debe basarse en criterios clínicos objetivos de viabilidad, consensuados con la familia."
+      },
+      {
+        "text": "D) Si el hospital está muy lleno.",
+        "isCorrect": false,
+        "explanation": "Criterio éticamente inaceptable."
+      },
+      {
+        "text": "E) Solo si el pH es de 6.9.",
+        "isCorrect": false,
+        "explanation": "Un pH de 6.9 es grave pero no define futilidad por sí solo si hay respuesta clínica."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Por qué se prefiere el 'Enfriamiento Sistémico' (todo el cuerpo) sobre el 'Enfriamiento Selectivo' de cabeza en la mayoría de los centros?",
+    "hint": "El enfriamiento sistémico es más sencillo y protege otros órganos.",
+    "options": [
+      {
+        "text": "A) Porque el casco de enfriamiento es muy pesado.",
+        "isCorrect": false,
+        "explanation": "No es una razón médica relevante."
+      },
+      {
+        "text": "B) Proporciona un enfriamiento más homogéneo, incluyendo estructuras profundas del cerebro (tálamo).",
+        "isCorrect": true,
+        "explanation": "Correcto. Además, es técnicamente más fácil de implementar y monitorizar con servocontrol."
+      },
+      {
+        "text": "C) Porque enfría mejor los pies.",
+        "isCorrect": false,
+        "explanation": "El objetivo es el cerebro; enfriar los pies es un efecto secundario, no el fin."
+      },
+      {
+        "text": "D) Es más barato usar hielo común.",
+        "isCorrect": false,
+        "explanation": "No se debe usar hielo común; se usan mantas térmicas de precisión."
+      },
+      {
+        "text": "E) El enfriamiento de cabeza causa calvicie.",
+        "isCorrect": false,
+        "explanation": "Falso. No tiene efectos sobre los folículos pilosos."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Farmacología",
+    "text": "¿Cuál es la dosis de carga del Fenobarbital para tratar convulsiones en un neonato asfixiado?",
+    "hint": "Se requiere una dosis alta para alcanzar niveles terapéuticos rápidamente.",
+    "options": [
+      {
+        "text": "A) 1 mg/kg.",
+        "isCorrect": false,
+        "explanation": "Dosis insuficiente, no controlará la actividad epiléptica."
+      },
+      {
+        "text": "B) 20 mg/kg endovenoso lento (en 20 minutos).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el esquema estándar; puede repetirse hasta 40 mg/kg si persisten las crisis."
+      },
+      {
+        "text": "C) 100 mg/kg.",
+        "isCorrect": false,
+        "explanation": "Dosis tóxica que causaría depresión cardiorrespiratoria severa."
+      },
+      {
+        "text": "D) 5 mg/kg vía oral.",
+        "isCorrect": false,
+        "explanation": "En la fase aguda se requiere vía EV para asegurar biodisponibilidad y rapidez."
+      },
+      {
+        "text": "E) Solo se da si el niño llora.",
+        "isCorrect": false,
+        "explanation": "Inconsistente con el manejo de convulsiones."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Monitorización",
+    "text": "¿Qué mide el NIRS (Espectroscopía de Infrarrojo Cercano) en la EHI?",
+    "hint": "Permite ver el balance entre la oferta y el consumo de oxígeno en el tejido.",
+    "options": [
+      {
+        "text": "A) La temperatura de la piel.",
+        "isCorrect": false,
+        "explanation": "Eso se mide con termistores cutáneos."
+      },
+      {
+        "text": "B) La saturación regional de oxígeno cerebral (rSO2).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es una herramienta valiosa para detectar precozmente la hipoperfusión cerebral antes de que bajen los valores sistémicos."
+      },
+      {
+        "text": "C) El grado de ictericia.",
+        "isCorrect": false,
+        "explanation": "Eso se mide con bilirrubinómetro transcutáneo."
+      },
+      {
+        "text": "D) La frecuencia respiratoria.",
+        "isCorrect": false,
+        "explanation": "Eso se monitoriza con impedanciometría torácica."
+      },
+      {
+        "text": "E) La profundidad del sueño.",
+        "isCorrect": false,
+        "explanation": "Mide oxigenación tisular, no estados de conciencia."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones Metabólicas",
+    "text": "¿Cuál es la meta de Glicemia en un neonato con EHI?",
+    "hint": "Tanto el azúcar muy alto como muy bajo son dañinos para el cerebro asfixiado.",
+    "options": [
+      {
+        "text": "A) Entre 40 y 50 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Riesgo de hipoglicemia; el cerebro asfixiado necesita sustrato energético estable."
+      },
+      {
+        "text": "B) Normoglicemia (70-120 mg/dL).",
+        "isCorrect": true,
+        "explanation": "Correcto. Se debe evitar la hipoglicemia (falta de combustible) y la hiperglicemia (que aumenta el ácido láctico cerebral)."
+      },
+      {
+        "text": "C) Sobre 200 mg/dL.",
+        "isCorrect": false,
+        "explanation": "La hiperglicemia severa agrava la acidosis láctica y la neurotoxicidad."
+      },
+      {
+        "text": "D) No importa mientras esté en hipotermia.",
+        "isCorrect": false,
+        "explanation": "Falso. El control metabólico es pilar del manejo intensivo."
+      },
+      {
+        "text": "E) Solo se mide una vez al día.",
+        "isCorrect": false,
+        "explanation": "Se requiere monitoreo frecuente (cada 4-6 horas inicialmente)."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Fisiopatología",
+    "text": "¿Qué es la 'Autorregulación Cerebral' y qué le sucede en la asfixia?",
+    "hint": "Es la capacidad de mantener el flujo estable a pesar de cambios en la presión sistémica.",
+    "options": [
+      {
+        "text": "A) Es la capacidad del cerebro de autocurarse; se activa en la asfixia.",
+        "isCorrect": false,
+        "explanation": "Definición incorrecta; la autorregulación es un fenómeno vascular hemodinámico."
+      },
+      {
+        "text": "B) Es la capacidad de mantener flujo constante; en la asfixia se pierde y el flujo se vuelve 'presión-pasivo'.",
+        "isCorrect": true,
+        "explanation": "Correcto. Al perderse, cualquier caída en la presión arterial baja directamente el flujo cerebral, agravando la isquemia."
+      },
+      {
+        "text": "C) Es un sensor de temperatura interno.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con la termorregulación."
+      },
+      {
+        "text": "D) Solo existe en adultos.",
+        "isCorrect": false,
+        "explanation": "Existe en neonatos, aunque su rango de seguridad es más estrecho."
+      },
+      {
+        "text": "E) Se mejora con el llanto.",
+        "isCorrect": false,
+        "explanation": "El llanto puede alterar la presión, pero no restaura la autorregulación dañada."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Monitorización",
+    "text": "¿Qué utilidad tiene la monitorización de la Presión Venosa Central (PVC) en el shock post-asfixia?",
+    "hint": "Ayuda a diferenciar entre un problema de volumen y uno de función cardíaca.",
+    "options": [
+      {
+        "text": "A) Diagnosticar neumonía.",
+        "isCorrect": false,
+        "explanation": "La PVC no es una herramienta para diagnóstico respiratorio parenquimatoso."
+      },
+      {
+        "text": "B) Evaluar la precarga y la respuesta miocárdica al aporte de volumen.",
+        "isCorrect": true,
+        "explanation": "Correcto. Evita la sobrecarga de volumen en un corazón con disfunción ventricular (miocardiopatía hipóxica)."
+      },
+      {
+        "text": "C) Medir el nivel de oxígeno en la sangre.",
+        "isCorrect": false,
+        "explanation": "Eso se hace con gases arteriales/venosos, no solo con la presión."
+      },
+      {
+        "text": "D) Sustituir al ecocardiograma.",
+        "isCorrect": false,
+        "explanation": "Son complementarios; el eco da información estructural y funcional directa."
+      },
+      {
+        "text": "E) No tiene utilidad en neonatos.",
+        "isCorrect": false,
+        "explanation": "Es muy útil en la UCI neonatal para el manejo del shock complejo."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones Hematológicas",
+    "text": "¿Cuál es el manejo inicial de una Coagulación Intravascular Diseminada (CID) con sangrado activo en la asfixia?",
+    "hint": "Se debe reponer lo que el cuerpo ha consumido.",
+    "options": [
+      {
+        "text": "A) Dar Heparina a dosis altas.",
+        "isCorrect": false,
+        "explanation": "Muy riesgoso en neonatos con sangrado activo post-asfixia cerebral (riesgo de hemorragia intracraneana)."
+      },
+      {
+        "text": "B) Aporte de Plasma Fresco Congelado (PFC), Crioprecipitados y Plaquetas.",
+        "isCorrect": true,
+        "explanation": "Correcto. El objetivo es restaurar los factores de coagulación y el recuento plaquetario para detener el sangrado."
+      },
+      {
+        "text": "C) Dar Vitamina K solamente.",
+        "isCorrect": false,
+        "explanation": "La vitamina K es necesaria pero tarda horas en actuar; la CID requiere reposición inmediata de factores."
+      },
+      {
+        "text": "D) Hacer una sangría.",
+        "isCorrect": false,
+        "explanation": "Contraindicado; empeoraría el shock y la anemia."
+      },
+      {
+        "text": "E) Usar vendajes apretados.",
+        "isCorrect": false,
+        "explanation": "Inútil para un trastorno de coagulación sistémico interno."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Fisiopatología",
+    "text": "¿Qué es la 'Ventana Terapéutica' en el contexto de la EHI?",
+    "hint": "Es el tiempo en el que la intervención es realmente efectiva.",
+    "options": [
+      {
+        "text": "A) El tiempo que tarda en llegar la ambulancia.",
+        "isCorrect": false,
+        "explanation": "No es una definición médica del proceso celular."
+      },
+      {
+        "text": "B) El periodo de latencia entre el fallo energético primario y el secundario (aprox. 6 horas).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es el momento donde el enfriamiento puede prevenir la cascada de apoptosis retardada."
+      },
+      {
+        "text": "C) Las 24 horas después de nacer.",
+        "isCorrect": false,
+        "explanation": "Demasiado tarde; el beneficio se pierde significativamente después de las 6-12 horas."
+      },
+      {
+        "text": "D) El tiempo que el niño aguanta sin respirar.",
+        "isCorrect": false,
+        "explanation": "Eso se refiere a la reserva fisiológica, no a la ventana de tratamiento médico."
+      },
+      {
+        "text": "E) No existe tal ventana.",
+        "isCorrect": false,
+        "explanation": "Falso. Es el concepto central que justifica la hipotermia precoz."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Qué complicación cutánea puede aparecer raramente durante la hipotermia prolongada?",
+    "hint": "El tejido graso del neonato es rico en grasa parda y muy sensible al frío.",
+    "options": [
+      {
+        "text": "A) Quemaduras por fuego.",
+        "isCorrect": false,
+        "explanation": "Imposible en este tratamiento."
+      },
+      {
+        "text": "B) Necrosis grasa subcutánea.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se manifiesta como nódulos endurecidos en la piel; es benigna pero puede asociarse a hipercalcemia tardía."
+      },
+      {
+        "text": "C) Acné neonatal.",
+        "isCorrect": false,
+        "explanation": "Es hormonal y aparece semanas después, no por el frío."
+      },
+      {
+        "text": "D) Tatuajes por el roce de la manta.",
+        "isCorrect": false,
+        "explanation": "Absurdo."
+      },
+      {
+        "text": "E) Melanoma.",
+        "isCorrect": false,
+        "explanation": "Cáncer de piel sin relación con la hipotermia."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Reanimación Neonatal",
+    "text": "Durante la reanimación, si se decide administrar Adrenalina por FC < 60 lpm persistente, ¿cuál es la vía preferida por su rapidez y eficacia?",
+    "hint": "Permite una absorción inmediata al sistema circulatorio central.",
+    "options": [
+      {
+        "text": "A) Vía endotraqueal.",
+        "isCorrect": false,
+        "explanation": "Aunque permitida, es menos efectiva y tiene absorción errática; se prefiere la vascular."
+      },
+      {
+        "text": "B) Vía venosa umbilical (catéter umbilical de emergencia).",
+        "isCorrect": true,
+        "explanation": "Correcto. Es la vía de elección en sala de partos para la administración rápida de drogas y volumen."
+      },
+      {
+        "text": "C) Inyección intracardíaca directa.",
+        "isCorrect": false,
+        "explanation": "Abandonada hace décadas por alto riesgo de neumotórax y laceración coronaria."
+      },
+      {
+        "text": "D) Inyección intramuscular en el muslo.",
+        "isCorrect": false,
+        "explanation": "Absorción demasiado lenta para una situación de paro o bradicardia severa."
+      },
+      {
+        "text": "E) Vía rectal.",
+        "isCorrect": false,
+        "explanation": "No tiene utilidad en reanimación avanzada."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipotermia Terapéutica",
+    "text": "¿Cómo se ajusta la dosis de fármacos que se eliminan por vía renal o hepática durante la hipotermia?",
+    "hint": "El metabolismo y el flujo renal están disminuidos por el frío.",
+    "options": [
+      {
+        "text": "A) Se aumentan las dosis.",
+        "isCorrect": false,
+        "explanation": "Riesgo de toxicidad severa."
+      },
+      {
+        "text": "B) Se deben ajustar (generalmente espaciar dosis o disminuir cantidad) debido al aclaramiento reducido.",
+        "isCorrect": true,
+        "explanation": "Correcto. Fármacos como los aminoglucósidos o el fenobarbital pueden acumularse peligrosamente."
+      },
+      {
+        "text": "C) No requieren ajuste.",
+        "isCorrect": false,
+        "explanation": "Falso. La farmacocinética cambia drásticamente con la temperatura."
+      },
+      {
+        "text": "D) Se suspenden todos los medicamentos.",
+        "isCorrect": false,
+        "explanation": "Inviable en un paciente crítico."
+      },
+      {
+        "text": "E) Se dan solo por vía tópica.",
+        "isCorrect": false,
+        "explanation": "No útil para tratamientos sistémicos intensivos."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Farmacología",
+    "text": "¿Qué rol cumple el Sulfato de Magnesio en la asfixia neonatal?",
+    "hint": "Actúa bloqueando los receptores NMDA de glutamato.",
+    "options": [
+      {
+        "text": "A) Es el tratamiento estándar número uno.",
+        "isCorrect": false,
+        "explanation": "Aún se considera experimental y no reemplaza a la hipotermia."
+      },
+      {
+        "text": "B) Se investiga como neuroprotector por su efecto antagonista del receptor NMDA, pero su uso no es rutinario.",
+        "isCorrect": true,
+        "explanation": "Correcto. Aunque tiene bases fisiopatológicas sólidas, la evidencia clínica aún no es definitiva para su uso masivo."
+      },
+      {
+        "text": "C) Se usa para limpiar el intestino.",
+        "isCorrect": false,
+        "explanation": "No es su uso en el contexto de la EHI."
+      },
+      {
+        "text": "D) Se usa para bajar la fiebre.",
+        "isCorrect": false,
+        "explanation": "No es un antipirético."
+      },
+      {
+        "text": "E) Aumenta la presión arterial.",
+        "isCorrect": false,
+        "explanation": "Al contrario, puede causar hipotensión por vasodilatación."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Equilibrio Ácido-Base",
+    "text": "¿Por qué el Bicarbonato de Sodio NO debe usarse de forma rutinaria durante la reanimación neonatal?",
+    "hint": "Su metabolismo produce CO2 que entra fácilmente a las células.",
+    "options": [
+      {
+        "text": "A) Porque es muy caro.",
+        "isCorrect": false,
+        "explanation": "No es el motivo clínico."
+      },
+      {
+        "text": "B) Puede agravar la acidosis intracelular y causar hemorragia intraventricular por hiperosmolaridad.",
+        "isCorrect": true,
+        "explanation": "Correcto. Solo se considera en acidosis metabólica muy prolongada con ventilación adecuada asegurada."
+      },
+      {
+        "text": "C) Porque tiñe los dientes.",
+        "isCorrect": false,
+        "explanation": "Absurdo en reanimación aguda."
+      },
+      {
+        "text": "D) Porque hace que el niño sea muy hiperactivo.",
+        "isCorrect": false,
+        "explanation": "No tiene efecto conductual agudo de este tipo."
+      },
+      {
+        "text": "E) Porque quema las venas siempre.",
+        "isCorrect": false,
+        "explanation": "Es irritante pero el riesgo principal es bioquímico y cerebral."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Fisiopatología",
+    "text": "¿Qué es la 'Hipoxia-Isquemia Miocárdica' en la asfixia?",
+    "hint": "El corazón también sufre por la falta de flujo coronario.",
+    "options": [
+      {
+        "text": "A) Una malformación del tabique.",
+        "isCorrect": false,
+        "explanation": "Eso es estructural congénito."
+      },
+      {
+        "text": "B) Una disfunción ventricular transitoria por daño isquémico que puede requerir inotrópicos.",
+        "isCorrect": true,
+        "explanation": "Correcto. Se manifiesta con soplos de insuficiencia tricuspídea y falla de bomba."
+      },
+      {
+        "text": "C) Que el corazón es muy grande.",
+        "isCorrect": false,
+        "explanation": "La cardiomegalia puede ser consecuencia, no es la definición del evento isquémico."
+      },
+      {
+        "text": "D) Solo ocurre si el niño tiene colesterol alto.",
+        "isCorrect": false,
+        "explanation": "No aplica a neonatos."
+      },
+      {
+        "text": "E) Es una infección del corazón.",
+        "isCorrect": false,
+        "explanation": "Eso sería miocarditis infecciosa."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Laboratorio",
+    "text": "¿Qué indica un valor de Ácido Láctico persistentemente elevado después de 6 horas de manejo post-asfixia?",
+    "hint": "Refleja la persistencia del metabolismo anaeróbico o mala perfusión.",
+    "options": [
+      {
+        "text": "A) Que el niño está haciendo mucho ejercicio.",
+        "isCorrect": false,
+        "explanation": "No aplica a un neonato en UCI."
+      },
+      {
+        "text": "B) Mal pronóstico y persistencia de hipoperfusión tisular o daño mitocondrial grave.",
+        "isCorrect": true,
+        "explanation": "Correcto. El aclaramiento del lactato es un buen indicador de la efectividad de las medidas de estabilización."
+      },
+      {
+        "text": "C) Que la leche tiene mucho azúcar.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con la dieta."
+      },
+      {
+        "text": "D) Es normal en neonatos.",
+        "isCorrect": false,
+        "explanation": "Falso. El lactato normal debe ser < 2-2.5 mmol/L."
+      },
+      {
+        "text": "E) Indica que el riñón funciona perfecto.",
+        "isCorrect": false,
+        "explanation": "Al contrario, sugiere que puede haber falla multiorgánica."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Monitorización",
+    "text": "¿Cuál es la utilidad de la Ecografía Transfontanelar precoz en el asfixiado?",
+    "hint": "Es rápida y se hace al pie de la cama, pero tiene límites.",
+    "options": [
+      {
+        "text": "A) Ver si el niño será inteligente.",
+        "isCorrect": false,
+        "explanation": "No predice capacidad cognitiva."
+      },
+      {
+        "text": "B) Descartar hemorragias intracraneanas asociadas o malformaciones mayores.",
+        "isCorrect": true,
+        "explanation": "Correcto. Aunque es mala para ver EHI cortical, es excelente para ver sangre en los ventrículos."
+      },
+      {
+        "text": "C) Sustituir la resonancia magnética.",
+        "isCorrect": false,
+        "explanation": "La RM es muy superior para evaluar el parénquima y el daño isquémico."
+      },
+      {
+        "text": "D) Ver el color de los ojos.",
+        "isCorrect": false,
+        "explanation": "Inútil."
+      },
+      {
+        "text": "E) Medir la audición.",
+        "isCorrect": false,
+        "explanation": "No tiene relación."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Farmacología",
+    "text": "¿Qué precaución se debe tener al usar Morfina o Fentanilo para sedación durante la hipotermia?",
+    "hint": "El metabolismo de los opioides está muy enlentecido.",
+    "options": [
+      {
+        "text": "A) No se deben usar.",
+        "isCorrect": false,
+        "explanation": "Se deben usar para evitar el estrés del enfriamiento, pero con cuidado."
+      },
+      {
+        "text": "B) Se debe reducir la dosis o espaciarla por riesgo de acumulación y apnea prolongada.",
+        "isCorrect": true,
+        "explanation": "Correcto. La hipotermia disminuye el aclaramiento hepático de estos fármacos."
+      },
+      {
+        "text": "C) Se deben dar dosis dobles.",
+        "isCorrect": false,
+        "explanation": "Peligro de sobredosis fatal."
+      },
+      {
+        "text": "D) Causan fiebre.",
+        "isCorrect": false,
+        "explanation": "No son pirógenos."
+      },
+      {
+        "text": "E) Solo se dan vía oral.",
+        "isCorrect": false,
+        "explanation": "En el paciente crítico se usa la vía EV."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Fisiopatología",
+    "text": "¿Qué es el 'Fenómeno de Lujo' en la reperfusión cerebral?",
+    "hint": "Exceso de flujo en un tejido que ya no puede usar ese oxígeno.",
+    "options": [
+      {
+        "text": "A) Que el niño tenga ropa de marca.",
+        "isCorrect": false,
+        "explanation": "Término no médico."
+      },
+      {
+        "text": "B) Hiperemia cerebral reactiva post-isquemia que puede agravar el edema.",
+        "isCorrect": true,
+        "explanation": "Correcto. Ocurre por la pérdida de autorregulación vascular tras el insulto."
+      },
+      {
+        "text": "C) Falta de sangre en el cerebro.",
+        "isCorrect": false,
+        "explanation": "Eso sería isquemia."
+      },
+      {
+        "text": "D) Una malformación de las venas.",
+        "isCorrect": false,
+        "explanation": "No es una malformación estructural."
+      },
+      {
+        "text": "E) No existe este término.",
+        "isCorrect": false,
+        "explanation": "Es un concepto clásico en fisiopatología cerebrovascular."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Monitorización",
+    "text": "¿Cuál es la principal limitación del aEEG (EEG de amplitud integrada)?",
+    "hint": "Usa pocos canales en la zona parietal.",
+    "options": [
+      {
+        "text": "A) Es muy caro y difícil de usar.",
+        "isCorrect": false,
+        "explanation": "Es relativamente económico y sencillo comparado con el EEG convencional."
+      },
+      {
+        "text": "B) No detecta fácilmente convulsiones focales pequeñas o profundas.",
+        "isCorrect": true,
+        "explanation": "Correcto. Es un monitor de tendencia global; crisis pequeñas pueden pasar desapercibidas."
+      },
+      {
+        "text": "C) No sirve en niños pequeños.",
+        "isCorrect": false,
+        "explanation": "Al contrario, su uso principal es en neonatos de término y prematuros."
+      },
+      {
+        "text": "D) El papel es escaso.",
+        "isCorrect": false,
+        "explanation": "Es digital."
+      },
+      {
+        "text": "E) Solo sirve para adultos con asfixia.",
+        "isCorrect": false,
+        "explanation": "Es una herramienta diseñada específicamente para neonatología."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Rehabilitación",
+    "text": "¿Cuál es la meta final de la rehabilitación en niños con secuelas de EHI?",
+    "hint": "Se busca la mayor autonomía posible.",
+    "options": [
+      {
+        "text": "A) Que el niño sea médico.",
+        "isCorrect": false,
+        "explanation": "Meta no realista como estándar de rehabilitación."
+      },
+      {
+        "text": "B) Maximizar la funcionalidad, independencia y calidad de vida a través de estimulación precoz y manejo multidisciplinario.",
+        "isCorrect": true,
+        "explanation": "Correcto. El enfoque debe ser integral (kinesiología, fonoaudiología, terapia ocupacional)."
+      },
+      {
+        "text": "C) Curar la lesión cerebral.",
+        "isCorrect": false,
+        "explanation": "Las neuronas muertas no se recuperan; se trabaja sobre la plasticidad cerebral de las sanas."
+      },
+      {
+        "text": "D) Que el niño no use anteojos.",
+        "isCorrect": false,
+        "explanation": "Meta muy limitada."
+      },
+      {
+        "text": "E) Esperar a que crezca solo.",
+        "isCorrect": false,
+        "explanation": "La intervención debe ser precoz para aprovechar la plasticidad neuronal."
+      }
+    ]
+  }
+]
