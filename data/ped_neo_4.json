@@ -1,0 +1,1032 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atresia de Coanas Bilateral",
+    "text": "Un recién nacido de término presenta dificultad respiratoria inmediata al nacer[cite: 4]. Al intentar pasar una sonda por las fosas nasales se encuentra una resistencia infranqueable en ambos lados[cite: 5]. El niño presenta cianosis que mejora cuando llora y empeora al cerrar la boca[cite: 6]. ¿Cuál es el diagnóstico más probable? [cite: 6]",
+    "hint": "El recién nacido es un respirador nasal obligado[cite: 13]. La mejoría al llorar es el signo clásico de obstrucción nasal alta[cite: 14].",
+    "options": [
+      {
+        "text": "A) Síndrome de Aspiración de Meconio (SAM).",
+        "isCorrect": false,
+        "explanation": "Para esta opción, el enunciado debería mencionar líquido amniótico meconial y la sonda pasaría sin problemas por la nariz[cite: 18]."
+      },
+      {
+        "text": "B) Atresia de Coanas Bilateral.",
+        "isCorrect": true,
+        "explanation": "Es la falta de perforación de la comunicación entre la cavidad nasal y la nasofaringe[cite: 15]. La cianosis cíclica que mejora al abrir la boca y la imposibilidad de pasar una sonda confirman el diagnóstico[cite: 16]."
+      },
+      {
+        "text": "C) Taquipnea Transitoria (TTRN).",
+        "isCorrect": false,
+        "explanation": "En la TTRN el niño debería mejorar con oxígeno bajo y la cianosis no tendría relación con la apertura o cierre de la boca[cite: 19]."
+      },
+      {
+        "text": "D) Estenosis traqueal.",
+        "isCorrect": false,
+        "explanation": "Provocaría un estridor inspiratorio y espiratorio constante, y el llanto suele empeorar la obstrucción traqueal[cite: 20]."
+      },
+      {
+        "text": "E) Hipertensión Pulmonar Persistente.",
+        "isCorrect": false,
+        "explanation": "Provocaría una hipoxemia refractaria que no mejora significativamente con el llanto, y la anatomía nasal sería permeable[cite: 21]."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hernia Diafragmática Congénita (HDC)",
+    "text": "En el diagnóstico diferencial del SDR, ¿qué hallazgo en la radiografía de tórax es característico de la Hernia Diafragmática Congénita (HDC)? [cite: 23]",
+    "hint": "Busque el contenido abdominal 'fuera de lugar'[cite: 30].",
+    "options": [
+      {
+        "text": "A) Pulmón con infiltrado reticulogranular fino.",
+        "isCorrect": false,
+        "explanation": "Esta es la descripción clásica de la Enfermedad de Membrana Hialina (EMH)[cite: 34]."
+      },
+      {
+        "text": "B) Presencia de imágenes hidroaéreas en el hemitórax con desplazamiento del mediastino.",
+        "isCorrect": true,
+        "explanation": "La HDC permite el paso de vísceras abdominales al tórax[cite: 31]. La placa muestra asas intestinales en la cavidad torácica y el abdomen excavado[cite: 32]."
+      },
+      {
+        "text": "C) Cisuritis marcada y edema perihiliar.",
+        "isCorrect": false,
+        "explanation": "Es el sello radiográfico característico de la Taquipnea Transitoria (TTRN)[cite: 35]."
+      },
+      {
+        "text": "D) Infiltrados algodonosos 'sucios'.",
+        "isCorrect": false,
+        "explanation": "Este hallazgo es característico del Síndrome de Aspiración de Meconio (SAM)[cite: 36]."
+      },
+      {
+        "text": "E) Corazón en forma de 'huevo'.",
+        "isCorrect": false,
+        "explanation": "Es un signo de una Cardiopatía Congénita (Transposición de Grandes Vasos), no de una patología respiratoria primaria[cite: 37]."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Cardiopatía Congénita Cianosante",
+    "text": "Un recién nacido de término presenta cianosis severa y distrés leve[cite: 39]. Al administrar oxígeno al 100% por 10 minutos (Test de Hiperoxia), la PaO2 no sube de 40 mmHg[cite: 40, 41, 42]. Los pulmones se observan claros en la radiografía[cite: 42]. ¿Cuál es la sospecha principal? [cite: 42]",
+    "hint": "Pulmones limpios + Hipoxemia que no responde al oxígeno = Cortocircuito de derecha a izquierda extra-pulmonar[cite: 49].",
+    "options": [
+      {
+        "text": "A) Neumonía neonatal.",
+        "isCorrect": false,
+        "explanation": "En la neumonía, la radiografía mostraría infiltrados y el paciente respondería parcialmente al oxígeno suplementario[cite: 54]."
+      },
+      {
+        "text": "B) Cardiopatía congénita cianosante.",
+        "isCorrect": true,
+        "explanation": "Un Test de Hiperoxia negativo sugiere que la sangre no llega a los pulmones o hay una mezcla total de sangre, típico de cardiopatías ductus-dependientes[cite: 50, 52]."
+      },
+      {
+        "text": "C) Malformación Adenomatoidea Quística.",
+        "isCorrect": false,
+        "explanation": "Esta patología mostraría una masa con quistes en la placa, desplazando el pulmón sano[cite: 55]."
+      },
+      {
+        "text": "D) SDR por déficit de surfactante.",
+        "isCorrect": false,
+        "explanation": "El paciente sería probablemente prematuro y la placa mostraría el patrón granular típico, no campos limpios[cite: 56]."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Complicaciones del SAM",
+    "text": "¿Cuál es la complicación pulmonar aguda más frecuente en pacientes con SAM sometidos a ventilación mecánica con presiones altas? [cite: 58]",
+    "hint": "El meconio causa un efecto de válvula; el aire entra pero no sale, 'inflando' el alvéolo hasta romperlo[cite: 65].",
+    "options": [
+      {
+        "text": "A) Hemorragia intraventricular.",
+        "isCorrect": false,
+        "explanation": "Es una complicación del prematuro extremo, no típica del niño de término con SAM[cite: 69]."
+      },
+      {
+        "text": "B) Neumotórax y Síndromes de escape aéreo.",
+        "isCorrect": true,
+        "explanation": "El atrapamiento aéreo del SAM, la inflamación química y las presiones ventilatorias elevadas predisponen a la rotura alveolar y neumotórax[cite: 66, 67]."
+      },
+      {
+        "text": "C) Retinopatía de la prematurez.",
+        "isCorrect": false,
+        "explanation": "Es una secuela del oxígeno en el prematuro, no una complicación mecánica aguda pulmonar[cite: 70]."
+      },
+      {
+        "text": "D) Displasia broncopulmonar.",
+        "isCorrect": false,
+        "explanation": "Es una secuela crónica tras semanas de ventilación, no una complicación aguda inicial[cite: 71]."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Evolución de la TTRN",
+    "text": "Respecto a la Taquipnea Transitoria del Recién Nacido (TTRN), ¿cuál es el tiempo de evolución habitual para que los síntomas desaparezcan por completo? [cite: 73]",
+    "hint": "Es un cuadro de resolución rápida a medida que los linfáticos absorben el líquido[cite: 80].",
+    "options": [
+      {
+        "text": "A) 2 horas.",
+        "isCorrect": false,
+        "explanation": "Es el tiempo de una transición fisiológica normal; si persiste más de 2 horas se considera patológico[cite: 84, 85]."
+      },
+      {
+        "text": "B) 24 a 72 horas.",
+        "isCorrect": true,
+        "explanation": "La TTRN es un proceso de 'reabsorción demorada'[cite: 81]. La mayoría de los neonatos se recuperan totalmente en los primeros 2 a 3 días de vida[cite: 82]."
+      },
+      {
+        "text": "C) 2 semanas.",
+        "isCorrect": false,
+        "explanation": "Esta sería la duración de una Neumonía bacteriana tratada, no de una TTRN[cite: 86]."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Uso de Surfactante en SAM",
+    "text": "¿Cuál es la indicación de uso de surfactante exógeno en un recién nacido con Síndrome de Aspiración de Meconio (SAM)? [cite: 88]",
+    "hint": "El meconio es un 'veneno' para el surfactante natural[cite: 97].",
+    "options": [
+      {
+        "text": "A) Se administra de forma profiláctica a todos.",
+        "isCorrect": false,
+        "explanation": "No se administra a todos, solo bajo criterios específicos de severidad hipoxémica[cite: 89, 90, 91]."
+      },
+      {
+        "text": "B) Cuando existe una inactivación secundaria del surfactante endógeno que causa hipoxemia severa.",
+        "isCorrect": true,
+        "explanation": "El meconio inactiva el surfactante presente[cite: 98]. Su aporte exógeno mejora la compliance y reduce la necesidad de terapias de rescate como ECMO[cite: 99]."
+      },
+      {
+        "text": "C) Para lavar mecánicamente el meconio.",
+        "isCorrect": false,
+        "explanation": "El lavado bronquial con surfactante diluido es una técnica experimental; el uso estándar es para reemplazo funcional[cite: 101]."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Marcadores de Madurez Pulmonar",
+    "text": "Un lactante de 34 semanas, hijo de madre diabética, presenta SDR. ¿Qué marcador del líquido amniótico confirmaría la madurez pulmonar? [cite: 103, 104]",
+    "hint": "Son los componentes fosfolipídicos que aseguran la estabilidad alveolar[cite: 112].",
+    "options": [
+      {
+        "text": "A) Glucosa elevada.",
+        "isCorrect": false,
+        "explanation": "La glucosa es un marcador de madurez renal o control metabólico materno, no pulmonar[cite: 117]."
+      },
+      {
+        "text": "B) Presencia de Fosfatidilglicerol (PG) y relación Lecitina/Esfingomielina mayor a 2.",
+        "isCorrect": true,
+        "explanation": "El PG aparece tardíamente (35-36 semanas) y asegura que el pulmón está maduro[cite: 113]. La relación L/E mayor a 2 indica bajo riesgo de EMH[cite: 114, 115]."
+      },
+      {
+        "text": "C) Presencia de meconio.",
+        "isCorrect": false,
+        "explanation": "La presencia de meconio indica sufrimiento fetal, no madurez pulmonar[cite: 118]."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Neumonía Neonatal Precoz",
+    "text": "¿Cuál es el principal factor de riesgo para desarrollar una Neumonía Neonatal de inicio precoz (menor a 72 horas)? [cite: 120, 121]",
+    "hint": "La infección es de transmisión vertical, ascendente o durante el paso por el canal del parto[cite: 130].",
+    "options": [
+      {
+        "text": "A) Parto por cesárea.",
+        "isCorrect": false,
+        "explanation": "La cesárea es factor de riesgo para TTRN, pero suele ser un protector relativo para neumonía por Estreptococo grupo B[cite: 133]."
+      },
+      {
+        "text": "B) Rotura Prolongada de Membranas (RPM) mayor a 18 horas y colonización materna por Streptococcus agalactiae.",
+        "isCorrect": true,
+        "explanation": "La exposición a patógenos vaginales ante membranas rotas es el desencadenante principal de sepsis y neumonía neonatal precoz[cite: 131]."
+      },
+      {
+        "text": "C) Diabetes gestacional materna.",
+        "isCorrect": false,
+        "explanation": "La diabetes es un factor de riesgo para EMH, no directamente para infección bacteriana primaria[cite: 134]."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Manejo de HDC",
+    "text": "En el manejo de la Hernia Diafragmática Congénita, ¿cuál es la meta de PaCO2 aceptada según la estrategia de 'Hipercapnia Permisiva'? [cite: 136, 137, 138]",
+    "hint": "Se busca evitar el barotrauma en el pulmón hipoplásico[cite: 152].",
+    "options": [
+      {
+        "text": "A) 35 - 45 mmHg (Normal).",
+        "isCorrect": false,
+        "explanation": "Este es el rango normal, pero en HDC se aceptan niveles más altos para proteger el pulmón[cite: 140, 154]."
+      },
+      {
+        "text": "B) 45 - 60 mmHg (con pH mayor a 7.25).",
+        "isCorrect": true,
+        "explanation": "Se prefieren niveles de CO2 algo elevados para usar presiones ventilatorias más bajas, protegiendo al pulmón de rotura alveolar y disminuyendo el riesgo de HPPN[cite: 154]."
+      },
+      {
+        "text": "C) Menor a 30 mmHg (Hiperventilación).",
+        "isCorrect": false,
+        "explanation": "Aunque se usaba para bajar la presión pulmonar, hoy se sabe que el daño mecánico del ventilador por hiperventilar es más peligroso[cite: 156]."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hipoplasia Pulmonar",
+    "text": "¿Qué hallazgo físico orienta a una Hipoplasia Pulmonar en un recién nacido con distrés respiratorio? [cite: 158]",
+    "hint": "El pulmón necesita líquido amniótico y espacio para crecer in utero[cite: 165].",
+    "options": [
+      {
+        "text": "A) Tórax en tonel.",
+        "isCorrect": false,
+        "explanation": "El tórax en tonel se observa típicamente en el SAM por el atrapamiento de aire crónico[cite: 168]."
+      },
+      {
+        "text": "B) Antecedente de Oligohidramnios severo o Hernia Diafragmática.",
+        "isCorrect": true,
+        "explanation": "La falta de líquido o la ocupación del tórax por otros órganos impiden el desarrollo alveolar, resultando en pulmones pequeños e incapaces de ventilar[cite: 166]."
+      },
+      {
+        "text": "C) Polidactilia.",
+        "isCorrect": false,
+        "explanation": "La polidactilia no es un signo característico relacionado con la hipoplasia pulmonar primaria[cite: 162]."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Tratamiento de la HPPN",
+    "text": "Un neonato con SAM desarrolla Hipertensión Pulmonar Persistente (HPPN) con cortocircuito de derecha a izquierda. ¿Cuál es el fármaco de elección? [cite: 170, 171, 172]",
+    "hint": "Se requiere un vasodilatador pulmonar selectivo que no cause hipotensión sistémica[cite: 179].",
+    "options": [
+      {
+        "text": "A) Indometacina para cerrar el ductus.",
+        "isCorrect": false,
+        "explanation": "Sería contraproducente si la HPPN requiere el ductus para descomprimir el ventrículo derecho[cite: 182]."
+      },
+      {
+        "text": "B) Óxido Nítrico Inhalado (iNO).",
+        "isCorrect": true,
+        "explanation": "El iNO relaja la musculatura lisa de las arterias pulmonares, disminuyendo la resistencia vascular y permitiendo la oxigenación[cite: 180]."
+      },
+      {
+        "text": "C) Prostaglandina E1.",
+        "isCorrect": false,
+        "explanation": "Se usa en cardiopatías ductus-dependientes para asegurar flujo sistémico, no como tratamiento primario de la HPPN[cite: 183]."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Criterios de Ventilación Mecánica",
+    "text": "¿Cuál es el valor del pH sanguíneo que define una acidosis grave y sugiere la necesidad de Ventilación Mecánica? [cite: 185]",
+    "hint": "Es el umbral donde los mecanismos de compensación fallan y el metabolismo celular se compromete seriamente[cite: 200].",
+    "options": [
+      {
+        "text": "A) pH menor a 7.35.",
+        "isCorrect": false,
+        "explanation": "Es el límite inferior de la normalidad; muchos prematuros en CPAP mantienen este pH sin problemas[cite: 204]."
+      },
+      {
+        "text": "B) pH menor a 7.20 - 7.25 de forma persistente.",
+        "isCorrect": true,
+        "explanation": "Una acidosis respiratoria o mixta persistente a pesar de CPAP es un criterio estándar para escalar a ventilación invasiva[cite: 201]."
+      },
+      {
+        "text": "C) pH mayor a 7.50.",
+        "isCorrect": false,
+        "explanation": "Este valor indica alcalosis, no acidosis grave que requiera ventilación mecánica de rescate[cite: 198]."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Malformación Adenomatoidea Quística",
+    "text": "Un neonato presenta distrés y la radiografía muestra una masa quística única en el lóbulo inferior izquierdo que desplaza el corazón. ¿Cuál es el diagnóstico? [cite: 206, 207]",
+    "hint": "Imagen quística multilocular en un solo lóbulo[cite: 214].",
+    "options": [
+      {
+        "text": "A) Malformación Adenomatoidea Quística (CPAM).",
+        "isCorrect": true,
+        "explanation": "Es una malformación congénita del tejido bronquial que causa distrés por compresión del tejido pulmonar sano adyacente[cite: 215, 216]."
+      },
+      {
+        "text": "B) Secuestro pulmonar.",
+        "isCorrect": false,
+        "explanation": "El secuestro se vería como una masa sólida que recibe irrigación de la aorta, no como quistes aéreos[cite: 218]."
+      },
+      {
+        "text": "C) Neumotórax masivo.",
+        "isCorrect": false,
+        "explanation": "Se vería como un espacio completamente negro sin parénquima, no como quistes tabicados[cite: 219]."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Policitemia y SDR",
+    "text": "¿Cuál es la causa del SDR en un recién nacido con Policitemia (Hematocrito mayor al 65%)? [cite: 221, 222]",
+    "hint": "La sangre 'espesa' circula mal por los capilares[cite: 229].",
+    "options": [
+      {
+        "text": "A) Falta de surfactante.",
+        "isCorrect": false,
+        "explanation": "La policitemia no causa déficit de producción de surfactante primario[cite: 223]."
+      },
+      {
+        "text": "B) Síndrome de hiperviscosidad sanguínea que enlentece la microcirculación pulmonar.",
+        "isCorrect": true,
+        "explanation": "La policitemia aumenta la resistencia vascular y causa congestión pulmonar, distrés y cianosis por mala perfusión[cite: 230]."
+      },
+      {
+        "text": "C) Aspiración de sangre materna.",
+        "isCorrect": false,
+        "explanation": "Esta causa requiere un antecedente de desprendimiento de placenta o trauma, no se define por el hematocrito del niño[cite: 232]."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hijo de Madre Diabética",
+    "text": "¿Qué complicación metabólica frecuente en el hijo de madre diabética puede agravar el cuadro respiratorio? [cite: 234]",
+    "hint": "El páncreas del bebé produce mucha insulina, la cual baja el azúcar tras el corte del cordón[cite: 241].",
+    "options": [
+      {
+        "text": "A) Hipernatremia.",
+        "isCorrect": false,
+        "explanation": "No es la complicación característica del hijo de madre diabética que causa hipotonía y mala contractilidad[cite: 237]."
+      },
+      {
+        "text": "B) Hipoglicemia e Hipocalcemia.",
+        "isCorrect": true,
+        "explanation": "La hipoglicemia severa es una complicación sistémica que empeora el esfuerzo respiratorio del neonato con SDR[cite: 242]."
+      },
+      {
+        "text": "C) Exceso de magnesio.",
+        "isCorrect": false,
+        "explanation": "La hipermagnesemia no es la complicación metabólica primaria descrita para este cuadro[cite: 239]."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Corticoides Antenatales",
+    "text": "¿A partir de qué edad gestacional se considera 'seguro' suspender el uso de Corticoides Antenatales si el parto es inminente? [cite: 244]",
+    "hint": "El beneficio en la reducción de EMH disminuye significativamente después de esta edad[cite: 251].",
+    "options": [
+      {
+        "text": "A) 30 semanas.",
+        "isCorrect": false,
+        "explanation": "A las 30 semanas el beneficio de maduración pulmonar sigue siendo máximo y mandatorio[cite: 247]."
+      },
+      {
+        "text": "B) 34 semanas.",
+        "isCorrect": true,
+        "explanation": "El esquema con Betametasona es mandatorio entre las 24 y 34 semanas; después, la madurez suele ser suficiente para evitar SDR severo[cite: 252, 253]."
+      },
+      {
+        "text": "C) 40 semanas.",
+        "isCorrect": false,
+        "explanation": "A las 40 semanas el niño ya es de término y no requiere inducción de madurez pulmonar con corticoides[cite: 248]."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Neumonitis Química por Meconio",
+    "text": "En el Síndrome de Aspiración de Meconio, ¿por qué se produce una 'Neumonitis Química'? [cite: 257]",
+    "hint": "El meconio no es estéril en cuanto a químicos, aunque sí lo es inicialmente respecto a bacterias[cite: 265].",
+    "options": [
+      {
+        "text": "A) Por las bacterias del meconio.",
+        "isCorrect": false,
+        "explanation": "La neumonía bacteriana es una sobreinfección secundaria, no el mecanismo de la neumonitis química inicial[cite: 268]."
+      },
+      {
+        "text": "B) Por el efecto irritante de sales biliares, enzimas pancreáticas y ácidos grasos.",
+        "isCorrect": true,
+        "explanation": "El contacto del meconio con los neumocitos desencadena una respuesta inflamatoria masiva que daña la membrana alvéolo-capilar[cite: 266]."
+      },
+      {
+        "text": "C) Por el oxígeno al 100%.",
+        "isCorrect": false,
+        "explanation": "El oxígeno puede causar toxicidad oxidativa, pero la neumonitis química del SAM se debe al meconio[cite: 259, 261]."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Gases Arteriales y Asfixia",
+    "text": "¿Cuál es el valor del 'Déficit de Base' en gases arteriales que sugiere una asfixia perinatal asociada al distrés? [cite: 270]",
+    "hint": "Indica una acidosis metabólica profunda por acumulación de lactato[cite: 283].",
+    "options": [
+      {
+        "text": "A) 0 mEq/L.",
+        "isCorrect": false,
+        "explanation": "Este es un valor normal que no indica asfixia ni acidosis metabólica[cite: 272]."
+      },
+      {
+        "text": "B) Mayor o igual a 16 mEq/L (o un pH menor a 7.00).",
+        "isCorrect": true,
+        "explanation": "La asfixia es causa de distrés secundario por disfunción miocárdica e hipertensión pulmonar, reflejada en estos valores[cite: 284]."
+      },
+      {
+        "text": "C) -2 mEq/L.",
+        "isCorrect": false,
+        "explanation": "Es un valor dentro del rango de normalidad o acidosis muy leve[cite: 287]."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Neumomediastino",
+    "text": "¿Qué hallazgo al examen físico sugiere un 'Neumomediastino' en un niño con distrés respiratorio? [cite: 289]",
+    "hint": "El aire escapa del hilio pulmonar hacia el espacio entre los dos pulmones[cite: 296].",
+    "options": [
+      {
+        "text": "A) Abdomen excavado.",
+        "isCorrect": false,
+        "explanation": "Este es un signo de hernia diafragmática, no de escape aéreo mediastínico[cite: 292]."
+      },
+      {
+        "text": "B) Aire subcutáneo palpable en el cuello y ruidos cardíacos apagados.",
+        "isCorrect": true,
+        "explanation": "El neumomediastino a menudo se asocia a enfisema subcutáneo cervical; indica fragilidad alveolar[cite: 297, 298]."
+      },
+      {
+        "text": "C) Hiperresonancia de un solo hemitórax.",
+        "isCorrect": false,
+        "explanation": "Este es el signo físico clásico de un neumotórax, no del neumomediastino[cite: 300]."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Hiperinsuflación masiva",
+    "text": "Un recién nacido de 35 semanas presenta pulmones muy grandes e hiperinsuflados en Rx, con 11 costillas visibles y sin infiltrados. ¿Qué sospecha? [cite: 302, 303]",
+    "hint": "Pulmones negros (muy aireados) y grandes = Hiperinsuflación masiva[cite: 310].",
+    "options": [
+      {
+        "text": "A) EMH.",
+        "isCorrect": false,
+        "explanation": "La EMH mostraría pulmones pequeños (7 costillas) y blancos, lo opuesto a este caso[cite: 313]."
+      },
+      {
+        "text": "B) Enfisema Lobar Congénito o atrapamiento aéreo focal.",
+        "isCorrect": true,
+        "explanation": "La hiperinsuflación puede deberse a anomalías estructurales del bronquio que permiten la entrada de aire pero no su salida[cite: 311]."
+      },
+      {
+        "text": "C) Hipoplasia pulmonar.",
+        "isCorrect": false,
+        "explanation": "La hipoplasia mostraría pulmones pequeños y oscuros por falta de tejido pulmonar[cite: 314]."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Ventilación con Bolsa y Máscara",
+    "text": "¿Cuál es el principal inconveniente de la Ventilación con Bolsa y Máscara (Ambú) prolongada? [cite: 317]",
+    "hint": "El aire entra por la tráquea y por el esófago[cite: 324].",
+    "options": [
+      {
+        "text": "A) Sordera súbita.",
+        "isCorrect": false,
+        "explanation": "No existe relación entre la ventilación con bolsa-máscara y la pérdida auditiva súbita[cite: 320]."
+      },
+      {
+        "text": "B) Insuflación gástrica masiva que eleva el diafragma.",
+        "isCorrect": true,
+        "explanation": "Una técnica deficiente llena el estómago de aire, limitando la expansión pulmonar y aumentando el riesgo de vómito y aspiración[cite: 325]."
+      },
+      {
+        "text": "C) Mejora demasiado el oxígeno.",
+        "isCorrect": false,
+        "explanation": "Es la maniobra inicial de rescate, pero su uso prolongado es peligroso y debe evitarse[cite: 327]."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Corticoides en SAM",
+    "text": "¿Cuál es el riesgo de usar 'Corticoides sistémicos' en el Síndrome de Aspiración de Meconio (SAM)? [cite: 329]",
+    "hint": "Su uso es controvertido en la fase aguda del SAM[cite: 336].",
+    "options": [
+      {
+        "text": "A) Curan el SAM en 1 hora.",
+        "isCorrect": false,
+        "explanation": "No existe tratamiento farmacológico que cure el SAM en un periodo tan breve[cite: 330]."
+      },
+      {
+        "text": "B) No han demostrado beneficio claro y pueden aumentar el riesgo de infecciones.",
+        "isCorrect": true,
+        "explanation": "A diferencia de niños mayores, el beneficio en la neumonitis química neonatal no está universalmente aceptado[cite: 331, 337]."
+      },
+      {
+        "text": "C) Son obligatorios en todos los casos.",
+        "isCorrect": false,
+        "explanation": "Falso; el estándar de cuidado es soporte ventilatorio y, si se requiere, surfactante u óxido nítrico[cite: 339]."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Radiología de la HDC",
+    "text": "¿A qué se refiere el término 'Aire visceral' en la radiografía de un neonato con distrés? [cite: 341]",
+    "hint": "Es una descripción visual de la HDC[cite: 348].",
+    "options": [
+      {
+        "text": "A) Aire en el corazón.",
+        "isCorrect": false,
+        "explanation": "Este hallazgo se denominaría neumopericardio, no aire visceral[cite: 342]."
+      },
+      {
+        "text": "B) Presencia de ruidos o burbujas intestinales en el tórax.",
+        "isCorrect": true,
+        "explanation": "Ver burbujas gástricas o intestinales por encima del nivel del diafragma confirma el diagnóstico de hernia diafragmática[cite: 349]."
+      },
+      {
+        "text": "C) Un tipo de neumonía.",
+        "isCorrect": false,
+        "explanation": "La neumonía no se describe radiológicamente con el término de aire visceral[cite: 344]."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "CIV y Distrés Respiratorio",
+    "text": "¿Cuál es la conducta ante un recién nacido con distrés respiratorio y una Comunicación Interventricular (CIV) grande? [cite: 351]",
+    "hint": "El distrés es de origen cardiogénico por hiperflujo pulmonar[cite: 358].",
+    "options": [
+      {
+        "text": "A) Administrar surfactante.",
+        "isCorrect": false,
+        "explanation": "El surfactante no corrige el problema hemodinámico de base de una cardiopatía estructural[cite: 354]."
+      },
+      {
+        "text": "B) Manejo de la insuficiencia cardíaca congestiva y evaluación por cardiocirujano.",
+        "isCorrect": true,
+        "explanation": "Las cardiopatías de flujo aumentado causan edema pulmonar que simula un cuadro respiratorio primario[cite: 359]."
+      },
+      {
+        "text": "C) Indicar dieta rica en sal.",
+        "isCorrect": false,
+        "explanation": "En la insuficiencia cardíaca neonatal se busca el manejo hídrico y electrolítico cuidadoso, no el exceso de sal[cite: 356]."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Evaluación del Quejido",
+    "text": "¿Qué característica del quejido indica una mayor severidad del distrés? [cite: 361]",
+    "hint": "Escala de Silverman-Anderson[cite: 368].",
+    "options": [
+      {
+        "text": "A) Quejido que solo se oye con fonendoscopio.",
+        "isCorrect": false,
+        "explanation": "Este hallazgo puntúa 1 en la escala de Silverman, indicando menor gravedad[cite: 362, 369]."
+      },
+      {
+        "text": "B) Quejido audible a distancia sin necesidad de instrumentos.",
+        "isCorrect": true,
+        "explanation": "Puntúa 2 (máximo), indicando un esfuerzo espiratorio extremo del neonato[cite: 369]."
+      },
+      {
+        "text": "C) Ausencia total de quejido.",
+        "isCorrect": false,
+        "explanation": "La ausencia de quejido puntúa 0 e indica que no hay dificultad respiratoria por este signo[cite: 364]."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Apnea de la Prematurez",
+    "text": "Un neonato de 30 semanas presenta apnea recurrente y bradicardia, descartando infección y EMH. ¿Qué diagnóstico sospecha? [cite: 371, 372]",
+    "hint": "Es un diagnóstico de exclusión en el prematuro[cite: 379].",
+    "options": [
+      {
+        "text": "A) Atresia de coanas.",
+        "isCorrect": false,
+        "explanation": "Esta malformación se presenta con cianosis cíclica desde el nacimiento, no como apneas del prematuro tardías[cite: 376]."
+      },
+      {
+        "text": "B) Apnea de la prematurez.",
+        "isCorrect": true,
+        "explanation": "Se debe a la falta de madurez de los quimiorreceptores y del control central de la respiración; se trata con Cafeína[cite: 380, 381]."
+      },
+      {
+        "text": "C) Hernia diafragmática.",
+        "isCorrect": false,
+        "explanation": "Daría distrés respiratorio severo inmediato y abdomen excavado, no apneas aisladas recurrentes[cite: 377]."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Encefalopatía Hipóxica",
+    "text": "¿Cuál es el principal síntoma de la 'Encefalopatía Hipóxica' en el sistema respiratorio? [cite: 383]",
+    "hint": "El cerebro asfixiado no envía órdenes constantes al diafragma[cite: 390].",
+    "options": [
+      {
+        "text": "A) Taquipnea.",
+        "isCorrect": false,
+        "explanation": "La taquipnea suele ser compensatoria por problemas pulmonares, no el signo central del daño cerebral[cite: 384]."
+      },
+      {
+        "text": "B) Apneas centrales, respiración irregular o periódica.",
+        "isCorrect": true,
+        "explanation": "El compromiso del tronco encefálico por asfixia altera directamente el ritmo respiratorio normal[cite: 391]."
+      },
+      {
+        "text": "C) Ronquidos.",
+        "isCorrect": false,
+        "explanation": "Los ronquidos indican obstrucción de vía aérea alta, no daño central del centro respiratorio[cite: 388]."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Expansión de Volumen",
+    "text": "¿Por qué se prefiere el 'Ringer Lactato' o 'Suero Fisiológico' para bolos de expansión en el neonato con shock? [cite: 393]",
+    "hint": "La estabilidad hemodinámica es vital para el intercambio gaseoso[cite: 400].",
+    "options": [
+      {
+        "text": "A) Porque tienen azúcar.",
+        "isCorrect": false,
+        "explanation": "El suero fisiológico y el ringer lactato no contienen glucosa[cite: 394]."
+      },
+      {
+        "text": "B) Para restaurar el volumen intravascular y mejorar la perfusión pulmonar.",
+        "isCorrect": true,
+        "explanation": "Un niño en shock no puede oxigenar sus tejidos aunque el pulmón esté sano[cite: 395, 401]."
+      },
+      {
+        "text": "C) Porque el niño tiene sed.",
+        "isCorrect": false,
+        "explanation": "La expansión de volumen es una medida terapéutica de emergencia para el shock, no para la sed[cite: 397]."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Displasia Broncopulmonar (DBP)",
+    "text": "¿A qué se refiere el término 'Displasia Broncopulmonar' (DBP) establecida? [cite: 403]",
+    "hint": "Es la secuela crónica del tratamiento del SDR[cite: 410].",
+    "options": [
+      {
+        "text": "A) A un pulmón muy grande al nacer.",
+        "isCorrect": false,
+        "explanation": "Esto describiría hiperinsuflación o enfisema, no la DBP[cite: 407]."
+      },
+      {
+        "text": "B) A la necesidad de oxígeno suplementario a las 36 semanas de edad corregida en un prematuro.",
+        "isCorrect": true,
+        "explanation": "Refleja el daño alveolar y vascular crónico causado por inflamación, oxígeno y presión[cite: 405, 411]."
+      },
+      {
+        "text": "C) Es un sinónimo de asma.",
+        "isCorrect": false,
+        "explanation": "Aunque pueden coexistir, son entidades fisiopatológicas distintas; la DBP es daño estructural crónico[cite: 408]."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Dextrocardia",
+    "text": "Un recién nacido presenta distrés y se palpa el corazón en el lado derecho del tórax. ¿Qué malformación abdominal suele asociarse? [cite: 413]",
+    "hint": "Anomalía de la lateralidad de los órganos[cite: 421].",
+    "options": [
+      {
+        "text": "A) Situs Inversus totalis.",
+        "isCorrect": true,
+        "explanation": "Si los órganos están invertidos, el corazón está a la derecha; puede asociarse a síndromes de discinesia ciliar[cite: 415, 422, 423]."
+      },
+      {
+        "text": "B) Estenosis pilórica.",
+        "isCorrect": false,
+        "explanation": "Es una patología adquirida del lactante, no una malformación de lateralidad de órganos[cite: 416]."
+      },
+      {
+        "text": "C) Gastrosquisis.",
+        "isCorrect": false,
+        "explanation": "Es un defecto de la pared abdominal, no una inversión de la posición de las vísceras[cite: 419]."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Riesgo de Hipotermia",
+    "text": "¿Cuál es el riesgo de la 'Hipotermia' en un niño con SDR? [cite: 425]",
+    "hint": "El estrés por frío es deletéreo para el neonato enfermo[cite: 432].",
+    "options": [
+      {
+        "text": "A) Mejora el surfactante.",
+        "isCorrect": false,
+        "explanation": "Al contrario, el frío puede afectar negativamente la función y síntesis de surfactante[cite: 426]."
+      },
+      {
+        "text": "B) Aumenta el consumo de O2 y glucosa, agrava la acidosis y favorece la vasoconstricción pulmonar.",
+        "isCorrect": true,
+        "explanation": "Mantener el ambiente térmico neutro es un pilar fundamental del tratamiento del distrés[cite: 427, 433]."
+      },
+      {
+        "text": "C) El niño se vuelve más fuerte.",
+        "isCorrect": false,
+        "explanation": "Incorrecto; la hipotermia debilita al neonato al agotar sus limitadas reservas metabólicas[cite: 428]."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Vómitos Biliosos en el Neonato",
+    "text": "¿Qué indica la presencia de 'Vómitos biliosos' en un niño con distrés y abdomen excavado? [cite: 435]",
+    "hint": "El color verde indica bilis y sugiere que la obstrucción es distal a la ampolla de Vater[cite: 442].",
+    "options": [
+      {
+        "text": "A) Que comió mucho.",
+        "isCorrect": false,
+        "explanation": "Los vómitos biliosos nunca se consideran una consecuencia normal de sobrealimentación[cite: 436]."
+      },
+      {
+        "text": "B) Confirmación de probable obstrucción intestinal alta o HDC con compromiso de vísceras.",
+        "isCorrect": true,
+        "explanation": "Es una señal de alarma quirúrgica inmediata que requiere intervención[cite: 437, 443]."
+      },
+      {
+        "text": "C) Signo de asma.",
+        "isCorrect": false,
+        "explanation": "El asma no se manifiesta con vómitos biliosos ni abdomen excavado[cite: 440]."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Cafeína en Apneas",
+    "text": "¿Cuál es la dosis de 'Cafeína' de carga para el tratamiento de las apneas del prematuro? [cite: 445]",
+    "hint": "Se requiere una dosis de impregnación para alcanzar niveles terapéuticos estables[cite: 455].",
+    "options": [
+      {
+        "text": "A) 1 mg/kg.",
+        "isCorrect": false,
+        "explanation": "Esta dosis es insuficiente para alcanzar niveles terapéuticos en un prematuro[cite: 446]."
+      },
+      {
+        "text": "B) 20 mg/kg.",
+        "isCorrect": true,
+        "explanation": "El citrato de cafeína a esta dosis de carga es el fármaco de elección por su seguridad y vida media larga[cite: 449, 456]."
+      },
+      {
+        "text": "C) Una taza de café expreso.",
+        "isCorrect": false,
+        "explanation": "Absurdo; se requiere administración farmacológica precisa y controlada[cite: 452]."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Neumotórax vs HDC",
+    "text": "¿Qué característica radiográfica diferencia un Neumotórax de una Hernia Diafragmática? [cite: 458]",
+    "hint": "Mire el contenido del espacio aéreo anómalo[cite: 466].",
+    "options": [
+      {
+        "text": "A) El neumotórax tiene ruidos hidroaéreos.",
+        "isCorrect": false,
+        "explanation": "Los ruidos hidroaéreos son propios de la hernia al tener el intestino en el tórax[cite: 459]."
+      },
+      {
+        "text": "B) El neumotórax muestra espacio aéreo puro; la hernia muestra imágenes de asas intestinales.",
+        "isCorrect": true,
+        "explanation": "Diferenciación visual crítica para decidir entre poner un tubo de tórax o pasar a cirugía[cite: 460, 461, 467]."
+      },
+      {
+        "text": "C) El neumotórax desplaza el corazón al mismo lado.",
+        "isCorrect": false,
+        "explanation": "Un neumotórax a tensión desplaza el mediastino al lado opuesto del aire[cite: 464]."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Insuficiencia Respiratoria Grave",
+    "text": "¿A partir de qué valor de Saturación se considera que un neonato está en 'Insuficiencia Respiratoria Grave'? [cite: 469]",
+    "hint": "Es el punto donde el transporte de oxígeno a los tejidos se compromete críticamente[cite: 480].",
+    "options": [
+      {
+        "text": "A) 92%.",
+        "isCorrect": false,
+        "explanation": "Este valor es un objetivo de saturación aceptable para muchos prematuros[cite: 471]."
+      },
+      {
+        "text": "B) Menor a 80-85% persistente a pesar de oxígeno suplementario.",
+        "isCorrect": true,
+        "explanation": "Indica falla de los mecanismos de compensación y obliga a tomar medidas invasivas[cite: 473, 481]."
+      },
+      {
+        "text": "C) 98%.",
+        "isCorrect": false,
+        "explanation": "Es un valor de saturación normal que no indica insuficiencia grave[cite: 475]."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Posición de Prono en SDR",
+    "text": "¿Cuál es el beneficio de la 'Posición de Prono' (boca abajo) en un neonato con SDR en CPAP? [cite: 483]",
+    "hint": "Facilita la mecánica respiratoria en pulmones con tendencia al colapso[cite: 490].",
+    "options": [
+      {
+        "text": "A) Evita el hipo.",
+        "isCorrect": false,
+        "explanation": "No existe evidencia que relacione la posición de prono con la prevención del hipo neonatal[cite: 486]."
+      },
+      {
+        "text": "B) Mejora la oxigenación al reclutar áreas dorsales y estabilizar la pared torácica.",
+        "isCorrect": true,
+        "explanation": "Es una maniobra de enfermería y kinesiología básica fundamental en neonatología intensiva[cite: 485, 491]."
+      },
+      {
+        "text": "C) No tiene beneficios.",
+        "isCorrect": false,
+        "explanation": "Falso; los beneficios en la oxigenación y mecánica ventilatoria están bien documentados[cite: 487]."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Prueba de la Sonda Nasogástrica",
+    "text": "¿Qué indica una 'Prueba de la sonda nasogástrica positiva' en sospecha de Atresia de Coanas? [cite: 493]",
+    "hint": "Si la sonda pasa, la vía aérea superior anatómica está permeable[cite: 500].",
+    "options": [
+      {
+        "text": "A) Que la sonda pasó al estómago, descartando atresia bilateral.",
+        "isCorrect": true,
+        "explanation": "Es una maniobra diagnóstica simple de cabecera para verificar la permeabilidad nasal[cite: 494, 501]."
+      },
+      {
+        "text": "B) Que hay un tumor.",
+        "isCorrect": false,
+        "explanation": "El paso de la sonda sugiere precisamente la ausencia de masas obstructivas fijas en las coanas[cite: 497]."
+      },
+      {
+        "text": "C) Que el niño debe operarse de inmediato del corazón.",
+        "isCorrect": false,
+        "explanation": "La prueba evalúa la vía aérea superior, no tiene relación con cardiopatías urgentes[cite: 498]."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Enfisema Subcutáneo",
+    "text": "¿A qué se refiere el término 'Enfisema Subcutáneo'? [cite: 503]",
+    "hint": "Se siente como 'pisar nieve' al presionar la piel[cite: 511].",
+    "options": [
+      {
+        "text": "A) Aire en los pulmones.",
+        "isCorrect": false,
+        "explanation": "Aire en pulmones es normal; aire fuera de ellos es escape aéreo[cite: 504]."
+      },
+      {
+        "text": "B) Presencia de burbujas de aire palpables bajo la piel del cuello o tórax.",
+        "isCorrect": true,
+        "explanation": "Es un signo de escape aéreo desde el pulmón y acompaña frecuentemente al neumomediastino[cite: 505, 506, 512]."
+      },
+      {
+        "text": "C) Una infección de la piel.",
+        "isCorrect": false,
+        "explanation": "No es una patología infecciosa cutánea, sino una complicación mecánica respiratoria[cite: 507]."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Manejo del PDA",
+    "text": "¿Cuál es la conducta ante un neonato con distrés y sospecha de Ductus Arterioso Permeable (PDA)? [cite: 514]",
+    "hint": "El exceso de agua empeora el edema pulmonar por el shunt de izquierda a derecha[cite: 521].",
+    "options": [
+      {
+        "text": "A) Inyectar Prostaglandinas.",
+        "isCorrect": false,
+        "explanation": "Las prostaglandinas se usan para mantenerlo abierto, no para el manejo médico del PDA con distrés[cite: 517]."
+      },
+      {
+        "text": "B) Restricción hídrica y evaluación de tratamiento con Ibuprofeno o Paracetamol.",
+        "isCorrect": true,
+        "explanation": "El manejo busca reducir el hiperflujo pulmonar que agrava el distrés cuando hay repercusión hemodinámica[cite: 516, 522]."
+      },
+      {
+        "text": "C) Dar mucha agua.",
+        "isCorrect": false,
+        "explanation": "Incorrecto; el exceso de líquidos empeora el cuadro respiratorio por sobrecarga hídrica pulmonar[cite: 515, 521]."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Integración Diagnóstica en SDR",
+    "text": "¿Cuál es el mensaje final clave sobre el Diagnóstico Diferencial del SDR Neonatal? [cite: 524]",
+    "hint": "Integración de anamnesis perinatológica y semiología[cite: 531].",
+    "options": [
+      {
+        "text": "A) Todos son iguales.",
+        "isCorrect": false,
+        "explanation": "Falso; cada etiología tiene antecedentes y manejos específicos muy distintos[cite: 525]."
+      },
+      {
+        "text": "B) El contexto del parto es el mejor predictor de la etiología y la Rx confirma la sospecha clínica.",
+        "isCorrect": true,
+        "explanation": "Factores como cesárea, prematurez, meconio o fiebre permiten un enfrentamiento médico exitoso para salvar vidas[cite: 526, 532]."
+      },
+      {
+        "text": "C) El tratamiento es siempre antibióticos.",
+        "isCorrect": false,
+        "explanation": "Incorrecto; muchas causas son mecánicas o por déficit bioquímico, no infecciosas[cite: 528]."
+      }
+    ]
+  }
+]
