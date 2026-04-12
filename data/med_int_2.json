@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Sepsis y Shock Séptico",
+    "text": "Según el consenso Sepsis-3, ¿cuál es el vasopresor de primera línea recomendado para mantener una PAM ≥ 65 mmHg en un paciente con shock séptico que no responde a fluidos?",
+    "hint": "Es una catecolamina con fuerte efecto alfa-adrenérgico.",
+    "options": [
+      {
+        "text": "A) Dopamina",
+        "isCorrect": false,
+        "explanation": "La dopamina ya no es de primera línea debido a un mayor riesgo de arritmias."
+      },
+      {
+        "text": "B) Noradrenalina",
+        "isCorrect": true,
+        "explanation": "La noradrenalina (norepinefrina) es el vasopresor de elección inicial en el shock séptico por su eficacia y menor tasa de eventos adversos comparado con dopamina."
+      },
+      {
+        "text": "C) Dobutamina",
+        "isCorrect": false,
+        "explanation": "Es un inotrópico, útil si hay disfunción miocárdica, pero no el vasopresor inicial."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Sepsis y Shock Séptico",
+    "text": "En la evaluación rápida de un paciente con sospecha de infección, ¿cuáles son los 3 parámetros clínicos que evalúa la escala qSOFA?",
+    "hint": "Evalúa el estado mental, la respiración y la presión arterial.",
+    "options": [
+      {
+        "text": "A) Frecuencia cardíaca, temperatura y leucocitosis.",
+        "isCorrect": false,
+        "explanation": "Estos son criterios del antiguo SIRS, no del qSOFA."
+      },
+      {
+        "text": "B) Alteración mental, frecuencia respiratoria ≥ 22 rpm y presión arterial sistólica ≤ 100 mmHg.",
+        "isCorrect": true,
+        "explanation": "El qSOFA utiliza la clínica rápida al pie de la cama: Glasgow < 15, FR ≥ 22, y PAS ≤ 100."
+      },
+      {
+        "text": "C) Lactato sérico, diuresis y saturación de oxígeno.",
+        "isCorrect": false,
+        "explanation": "El lactato es útil para el diagnóstico de shock, pero no forma parte del score clínico rápido qSOFA."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Infecciones por Neumococo",
+    "text": "¿Cuál es el principal factor de virulencia de Streptococcus pneumoniae que le permite evadir la fagocitosis del sistema inmune?",
+    "hint": "Es una estructura externa de polisacáridos.",
+    "options": [
+      {
+        "text": "A) Cápsula de polisacáridos",
+        "isCorrect": true,
+        "explanation": "La cápsula es el factor de virulencia fundamental del neumococo; las cepas no capsuladas rara vez causan enfermedad invasiva."
+      },
+      {
+        "text": "B) Neumolisina",
+        "isCorrect": false,
+        "explanation": "La neumolisina causa daño tisular y lisis celular, pero la evasión de la fagocitosis depende de la cápsula."
+      },
+      {
+        "text": "C) Proteína M",
+        "isCorrect": false,
+        "explanation": "La proteína M es el factor de virulencia principal del Streptococcus pyogenes, no del neumococo."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Infecciones por Enterococo",
+    "text": "En el tratamiento de una endocarditis por Enterococcus faecalis sensible, ¿cuál es la combinación antibiótica de elección que ha demostrado sinergismo y menor nefrotoxicidad?",
+    "hint": "Combina una aminopenicilina con una cefalosporina de tercera generación.",
+    "options": [
+      {
+        "text": "A) Vancomicina + Gentamicina",
+        "isCorrect": false,
+        "explanation": "Es una opción, pero tiene alta toxicidad renal y ototoxicidad."
+      },
+      {
+        "text": "B) Ampicilina + Ceftriaxona",
+        "isCorrect": true,
+        "explanation": "Esta combinación satura diferentes PBP, logrando un sinergismo bactericida excelente sin la nefrotoxicidad de los aminoglucósidos."
+      },
+      {
+        "text": "C) Linezolid + Daptomicina",
+        "isCorrect": false,
+        "explanation": "Se reserva para cepas resistentes a vancomicina (ERV), no como primera línea en cepas sensibles."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Infecciones por Virus Herpes",
+    "text": "Un paciente consulta por cefalea, fiebre y alteraciones conductuales. En la resonancia magnética se observan lesiones hiperintensas en los lóbulos temporales. ¿Cuál es el tratamiento empírico de elección?",
+    "hint": "Es un análogo de los nucleósidos que requiere la timidina quinasa viral.",
+    "options": [
+      {
+        "text": "A) Aciclovir intravenoso",
+        "isCorrect": true,
+        "explanation": "El cuadro es la presentación clásica de la encefalitis herpética por VHS-1, cuyo tratamiento urgente es Aciclovir IV."
+      },
+      {
+        "text": "B) Ganciclovir",
+        "isCorrect": false,
+        "explanation": "Es de elección para infecciones por Citomegalovirus (CMV), no para VHS-1."
+      },
+      {
+        "text": "C) Foscarnet",
+        "isCorrect": false,
+        "explanation": "Se utiliza como alternativa en caso de resistencia demostrada a Aciclovir."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Bacilos Gram Negativos",
+    "text": "Paciente neutropénico con bacteriemia desarrolla úlceras cutáneas necróticas con centro negro y halo eritematoso. ¿Cuál es el microorganismo más probablemente implicado en este 'ectima gangrenoso'?",
+    "hint": "Es un bacilo gramnegativo no fermentador, muy temido en pacientes neutropénicos.",
+    "options": [
+      {
+        "text": "A) Staphylococcus aureus",
+        "isCorrect": false,
+        "explanation": "Puede causar infecciones cutáneas necrosantes, pero el ectima gangrenoso es patognomónico de otro agente."
+      },
+      {
+        "text": "B) Pseudomonas aeruginosa",
+        "isCorrect": true,
+        "explanation": "El ectima gangrenoso es la manifestación cutánea clásica de la sepsis por P. aeruginosa en inmunodeprimidos."
+      },
+      {
+        "text": "C) Acinetobacter baumannii",
+        "isCorrect": false,
+        "explanation": "Causa principalmente neumonías asociadas a ventilación mecánica y sepsis en UCI, pero no clásicamente ectima."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Hantavirus",
+    "text": "En Chile, el Síndrome Cardiopulmonar por Hantavirus es causado principalmente por la variante Andes. ¿Cuál es la principal vía de transmisión de este virus?",
+    "hint": "Se relaciona con actividades agrícolas o limpieza de zonas rurales cerradas.",
+    "options": [
+      {
+        "text": "A) Picadura de mosquito Aedes aegypti",
+        "isCorrect": false,
+        "explanation": "Es el vector del Dengue, Zika y Chikungunya."
+      },
+      {
+        "text": "B) Inhalación de aerosoles de excretas de roedores infectados",
+        "isCorrect": true,
+        "explanation": "El ratón de cola larga (Oligoryzomys longicaudatus) es el reservorio, y la inhalación es la vía clásica."
+      },
+      {
+        "text": "C) Consumo de agua contaminada con heces humanas",
+        "isCorrect": false,
+        "explanation": "Es la vía de transmisión de Hepatitis A o Fiebre Tifoidea, no de Hantavirus."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Neumonía Adquirida en la Comunidad (NAC)",
+    "text": "Paciente de 70 años con NAC. Al ingreso presenta confusión, BUN de 25 mg/dL, FR 32 rpm y PA 100/60 mmHg. ¿Cuál es su puntaje CURB-65 y dónde debe manejarse?",
+    "hint": "Suma 1 punto por confusión, urea, FR >30 y edad >65.",
+    "options": [
+      {
+        "text": "A) 2 puntos, manejo ambulatorio",
+        "isCorrect": false,
+        "explanation": "Tiene 4 puntos, lo que implica alta mortalidad."
+      },
+      {
+        "text": "B) 4 puntos, manejo hospitalario (considerar UCI)",
+        "isCorrect": true,
+        "explanation": "C(Confusión)+U(BUN>19)+R(FR>30)+B(no puntúa)+65(Edad>65) = 4 puntos. Requiere ingreso hospitalario grave/UCI."
+      },
+      {
+        "text": "C) 1 punto, manejo en sala básica",
+        "isCorrect": false,
+        "explanation": "El cálculo de puntos es incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Asma Bronquial",
+    "text": "¿Qué hallazgo gasométrico es signo de alarma de agotamiento muscular inminente en una crisis asmática severa?",
+    "hint": "Inicialmente el paciente hiperventila. Si este valor se normaliza, es mala señal.",
+    "options": [
+      {
+        "text": "A) PaCO2 disminuida (Alcalosis respiratoria)",
+        "isCorrect": false,
+        "explanation": "Es la respuesta fisiológica normal inicial por hiperventilación."
+      },
+      {
+        "text": "B) PaO2 normal",
+        "isCorrect": false,
+        "explanation": "No indica fatiga de la musculatura respiratoria."
+      },
+      {
+        "text": "C) PaCO2 normal o elevada (Pseudonormalización)",
+        "isCorrect": true,
+        "explanation": "Una PaCO2 de 40 mmHg en medio de una crisis grave significa que el paciente ya no puede mantener la hiperventilación compensatoria."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Derrame Pleural",
+    "text": "Se extrae líquido pleural con Proteínas Pleura/Suero de 0.7 y LDH Pleura/Suero de 0.8. Según los Criterios de Light, se trata de un exudado. ¿Qué patología es CAUSA frecuente de exudado?",
+    "hint": "Implica daño o inflamación de la barrera capilar pleural.",
+    "options": [
+      {
+        "text": "A) Insuficiencia Cardíaca Congestiva",
+        "isCorrect": false,
+        "explanation": "Causa aumento de presión hidrostática, generando un trasudado."
+      },
+      {
+        "text": "B) Cirrosis Hepática",
+        "isCorrect": false,
+        "explanation": "Causa hipoalbuminemia y trasudado."
+      },
+      {
+        "text": "C) Tuberculosis Pleural",
+        "isCorrect": true,
+        "explanation": "Las infecciones (TBC, neumonías) y neoplasias causan inflamación pleural, generando exudados."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Tromboembolismo Pulmonar (TEP)",
+    "text": "Paciente posoperada de cadera inicia con disnea súbita, taquicardia y dolor pleurítico. Se sospecha TEP de alto riesgo clínico. ¿Cuál es el examen de imagen gold standard de urgencia?",
+    "hint": "Permite visualizar los defectos de llene en la circulación pulmonar.",
+    "options": [
+      {
+        "text": "A) Radiografía de tórax",
+        "isCorrect": false,
+        "explanation": "Suele ser normal o inespecífica en el TEP."
+      },
+      {
+        "text": "B) Angio-TAC de tórax (Angiotomografía)",
+        "isCorrect": true,
+        "explanation": "Es el examen de elección por su alta sensibilidad y especificidad para detectar trombos en arterias pulmonares."
+      },
+      {
+        "text": "C) Dímero D",
+        "isCorrect": false,
+        "explanation": "Es un examen de laboratorio de exclusión (alto VPN), no una prueba de imagen confirmatoria."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Enfermedad Pulmonar Obstructiva Crónica",
+    "text": "En un paciente con EPOC severo, ¿cuál es el objetivo de saturación de oxígeno (SpO2) durante la oxigenoterapia aguda para evitar la retención de CO2?",
+    "hint": "Una saturación excesiva inhibe el estímulo respiratorio hipóxico.",
+    "options": [
+      {
+        "text": "A) 98 - 100%",
+        "isCorrect": false,
+        "explanation": "Provoca hipoventilación alveolar y acidosis hipercápnica severa."
+      },
+      {
+        "text": "B) 88 - 92%",
+        "isCorrect": true,
+        "explanation": "Es el rango objetivo seguro que previene la hipoxia tisular sin anular el estímulo respiratorio del EPOC."
+      },
+      {
+        "text": "C) 80 - 85%",
+        "isCorrect": false,
+        "explanation": "Es un nivel de hipoxemia peligroso para los órganos diana."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Síndrome Coronario Agudo con SDST",
+    "text": "Paciente cursa con un IAM con supradesnivel del ST. Según las guías internacionales, ¿cuál es el tiempo máximo ideal de 'puerta-balón' si el hospital cuenta con hemodinamia?",
+    "hint": "El tiempo es músculo miocárdico.",
+    "options": [
+      {
+        "text": "A) 120 minutos",
+        "isCorrect": false,
+        "explanation": "Es el tiempo máximo de derivación, pero en el centro con ICP el objetivo es menor."
+      },
+      {
+        "text": "B) 90 minutos",
+        "isCorrect": true,
+        "explanation": "El tiempo puerta-balón recomendado para intervencionismo coronario percutáneo primario es < 90 minutos."
+      },
+      {
+        "text": "C) 180 minutos",
+        "isCorrect": false,
+        "explanation": "Demasiado tiempo, aumentaría la necrosis miocárdica irreversible."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Fibrilación Auricular",
+    "text": "¿Qué puntuación en la escala CHA2DS2-VASc indica anticoagulación oral indefinida en un hombre con FA no valvular?",
+    "hint": "El umbral para decidir anticoagulación es bajo debido al alto riesgo de ACV.",
+    "options": [
+      {
+        "text": "A) 0 puntos",
+        "isCorrect": false,
+        "explanation": "No se recomienda terapia antitrombótica."
+      },
+      {
+        "text": "B) 1 punto",
+        "isCorrect": false,
+        "explanation": "Se debe considerar, pero no es indicación absoluta clase I."
+      },
+      {
+        "text": "C) 2 o más puntos",
+        "isCorrect": true,
+        "explanation": "Con 2 puntos en hombres (y 3 en mujeres), la anticoagulación oral está formalmente indicada (Clase I)."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Pericarditis Aguda",
+    "text": "En el electrocardiograma de una pericarditis aguda en fase inicial, ¿cuál es el hallazgo patognomónico que la diferencia del infarto agudo de miocardio?",
+    "hint": "Afecta la repolarización auricular.",
+    "options": [
+      {
+        "text": "A) Ondas Q patológicas",
+        "isCorrect": false,
+        "explanation": "Son signo de necrosis transmural (IAM antiguo o evolucionado)."
+      },
+      {
+        "text": "B) Supradesnivel ST cóncavo difuso con depresión del segmento PR",
+        "isCorrect": true,
+        "explanation": "La elevación cóncava y generalizada del ST junto con el descenso del PR son típicos de la irritación pericárdica."
+      },
+      {
+        "text": "C) Inversión profunda y simétrica de ondas T",
+        "isCorrect": false,
+        "explanation": "Suele verse en isquemia o en etapas muy tardías de pericarditis."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Valvulopatía Aórtica",
+    "text": "En la ecocardiografía, ¿qué área valvular aórtica (AVA) define a la estenosis aórtica como SEVERA?",
+    "hint": "Corresponde a una restricción severa del tracto de salida.",
+    "options": [
+      {
+        "text": "A) Menor a 2.0 cm2",
+        "isCorrect": false,
+        "explanation": "Esto clasifica como estenosis leve o moderada."
+      },
+      {
+        "text": "B) Menor a 1.0 cm2",
+        "isCorrect": true,
+        "explanation": "Un AVA < 1.0 cm2 (o un gradiente medio > 40 mmHg) define la estenosis aórtica severa."
+      },
+      {
+        "text": "C) Menor a 3.0 cm2",
+        "isCorrect": false,
+        "explanation": "Esto es prácticamente normal o insuficientemente estenótico."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Bradiarritmias",
+    "text": "Paciente con síncope. El Holter muestra ondas P regulares, pero los intervalos PR se alargan progresivamente hasta que una onda P no conduce. ¿Cuál es el diagnóstico?",
+    "hint": "Es un bloqueo suprahisiano clásico.",
+    "options": [
+      {
+        "text": "A) Bloqueo AV de 1er grado",
+        "isCorrect": false,
+        "explanation": "Todas las ondas P conducen, solo hay PR prolongado fijo."
+      },
+      {
+        "text": "B) Bloqueo AV de 2do grado tipo Mobitz I (Wenckebach)",
+        "isCorrect": true,
+        "explanation": "El fenómeno de Wenckebach se caracteriza por el alargamiento progresivo del PR previo al latido bloqueado."
+      },
+      {
+        "text": "C) Bloqueo AV completo (3er grado)",
+        "isCorrect": false,
+        "explanation": "Hay disociación completa entre P y QRS."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Enfermedad Renal Crónica",
+    "text": "¿Cuál es la causa principal (etiología más frecuente) de Enfermedad Renal Crónica en etapa terminal a nivel mundial?",
+    "hint": "Es una enfermedad metabólica sistémica.",
+    "options": [
+      {
+        "text": "A) Hipertensión Arterial",
+        "isCorrect": false,
+        "explanation": "Es la segunda causa más importante, pero no la primera."
+      },
+      {
+        "text": "B) Nefropatía Diabética",
+        "isCorrect": true,
+        "explanation": "La diabetes mellitus es la causa número uno de requerimiento de diálisis a nivel mundial."
+      },
+      {
+        "text": "C) Glomerulonefritis autoinmunes",
+        "isCorrect": false,
+        "explanation": "Son causas importantes en jóvenes, pero superadas con creces por la diabetes."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Insuficiencia Renal Aguda",
+    "text": "¿Qué hallazgo en el sedimento de orina es característico y casi patognomónico de una Necrosis Tubular Aguda (NTA)?",
+    "hint": "Reflejan el epitelio tubular desprendido y oscurecido.",
+    "options": [
+      {
+        "text": "A) Cilindros hemáticos",
+        "isCorrect": false,
+        "explanation": "Son patognomónicos del síndrome nefrítico (daño glomerular)."
+      },
+      {
+        "text": "B) Cilindros granulosos pigmentados (marrón barro)",
+        "isCorrect": true,
+        "explanation": "Las células tubulares necróticas se agrupan en la luz tubular formando estos cilindros típicos de la NTA."
+      },
+      {
+        "text": "C) Cristales de oxalato de calcio",
+        "isCorrect": false,
+        "explanation": "Se ven en litiasis o intoxicación por etilenglicol."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Síndrome Nefrótico",
+    "text": "¿Qué criterio analítico es el pilar para definir un Síndrome Nefrótico en el adulto?",
+    "hint": "Refleja la pérdida masiva a través del glomérulo.",
+    "options": [
+      {
+        "text": "A) Proteinuria > 3.5 g / 24 horas",
+        "isCorrect": true,
+        "explanation": "Es la definición técnica de proteinuria en rango nefrótico, que desencadena la hipoalbuminemia y el edema."
+      },
+      {
+        "text": "B) Hematuria macroscópica",
+        "isCorrect": false,
+        "explanation": "Es propia del Síndrome Nefrítico."
+      },
+      {
+        "text": "C) Elevación de creatinina sérica > 2 mg/dL",
+        "isCorrect": false,
+        "explanation": "El síndrome nefrótico puede cursar con función renal conservada inicialmente."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Trastornos del Potasio",
+    "text": "En el tratamiento de la hiperkalemia severa con alteraciones electrocardiográficas, ¿cuál es el mecanismo de acción de la insulina + glucosa?",
+    "hint": "Modifica la distribución, no la cantidad total.",
+    "options": [
+      {
+        "text": "A) Elimina potasio a través del tubo digestivo",
+        "isCorrect": false,
+        "explanation": "Esa es la función de las resinas de intercambio."
+      },
+      {
+        "text": "B) Estabiliza el potencial de membrana en reposo",
+        "isCorrect": false,
+        "explanation": "Esa es la función del gluconato de calcio."
+      },
+      {
+        "text": "C) Desplaza el potasio extracelular hacia el interior de las células",
+        "isCorrect": true,
+        "explanation": "La insulina activa la bomba Na+/K+ ATPasa, introduciendo potasio al intracelular de forma rápida."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Hemorragia Digestiva Alta (HDA)",
+    "text": "Durante una endoscopia por HDA por úlcera péptica, se observa un vaso visible que no sangra activamente. Según la clasificación de Forrest, corresponde a:",
+    "hint": "Implica un alto riesgo de resangrado sin sangrado pulsátil actual.",
+    "options": [
+      {
+        "text": "A) Forrest Ib",
+        "isCorrect": false,
+        "explanation": "Corresponde a sangrado activo babeante."
+      },
+      {
+        "text": "B) Forrest IIa",
+        "isCorrect": true,
+        "explanation": "El grado IIa indica vaso visible no sangrante, con alta tasa de recidiva que obliga a tratamiento endoscópico."
+      },
+      {
+        "text": "C) Forrest III",
+        "isCorrect": false,
+        "explanation": "Corresponde a úlcera limpia con lecho de fibrina (bajo riesgo)."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Cirrosis Hepática",
+    "text": "¿Cuál es el hallazgo diagnóstico para Peritonitis Bacteriana Espontánea (PBE) tras realizar una paracentesis en un paciente cirrótico?",
+    "hint": "Tiene que ver con el recuento celular del líquido.",
+    "options": [
+      {
+        "text": "A) Gradiente de albúmina suero-ascitis (GASA) > 1.1 g/dL",
+        "isCorrect": false,
+        "explanation": "Esto indica hipertensión portal, no infección."
+      },
+      {
+        "text": "B) Recuento de polimorfonucleares (PMN) ≥ 250 cél/mm3",
+        "isCorrect": true,
+        "explanation": "Es el criterio estándar para iniciar terapia antibiótica empírica (ej. Cefotaxima) por PBE."
+      },
+      {
+        "text": "C) Proteínas totales en líquido > 3 g/dL",
+        "isCorrect": false,
+        "explanation": "Generalmente la ascitis cirrótica tiene proteínas bajas."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Pancreatitis Aguda",
+    "text": "En el diagnóstico de Pancreatitis Aguda, ¿cuál de las siguientes enzimas pancreáticas tiene mayor especificidad y su nivel se mantiene elevado por más tiempo?",
+    "hint": "Es clave en el metabolismo de los lípidos.",
+    "options": [
+      {
+        "text": "A) Amilasa",
+        "isCorrect": false,
+        "explanation": "Sube rápido pero baja en 48-72h, y se altera en patologías salivares o intestinales."
+      },
+      {
+        "text": "B) Lipasa",
+        "isCorrect": true,
+        "explanation": "Es más específica para el páncreas y permanece elevada 8-14 días."
+      },
+      {
+        "text": "C) Elastasa fecal",
+        "isCorrect": false,
+        "explanation": "Se usa para insuficiencia pancreática exocrina en pancreatitis crónica."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad Inflamatoria Intestinal",
+    "text": "¿Qué característica anatomopatológica es propia de la Enfermedad de Crohn y la diferencia de la Colitis Ulcerosa?",
+    "hint": "Afecta todo el grosor del tubo digestivo.",
+    "options": [
+      {
+        "text": "A) Afectación limitada exclusivamente a la mucosa",
+        "isCorrect": false,
+        "explanation": "Eso es típico de la Colitis Ulcerosa."
+      },
+      {
+        "text": "B) Inflamación transmural con formación de granulomas no caseificantes",
+        "isCorrect": true,
+        "explanation": "La afectación transmural permite la aparición de fístulas y estenosis, típico del Crohn."
+      },
+      {
+        "text": "C) Afectación siempre continua desde el recto",
+        "isCorrect": false,
+        "explanation": "El Crohn tiene lesiones parcheadas o 'salteadas'."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Anemia Microcítica",
+    "text": "En una anemia ferropénica típica, ¿cómo se encuentra el perfil de hierro?",
+    "hint": "Falta hierro circulante y los depósitos están vacíos.",
+    "options": [
+      {
+        "text": "A) Hierro sérico bajo, Ferritina alta, Transferrina baja",
+        "isCorrect": false,
+        "explanation": "Ese perfil es típico de la Anemia por Enfermedad Crónica."
+      },
+      {
+        "text": "B) Hierro sérico bajo, Ferritina baja, Capacidad de fijación de transferrina alta",
+        "isCorrect": true,
+        "explanation": "La ferritina baja es el indicador más fiel de depósitos de hierro depletados; la transferrina sube como mecanismo compensatorio."
+      },
+      {
+        "text": "C) Hierro sérico alto, Ferritina alta",
+        "isCorrect": false,
+        "explanation": "Típico de hemocromatosis o anemias sideroblásticas."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Linfomas",
+    "text": "¿Qué célula es el hallazgo histopatológico característico y diagnóstico del Linfoma de Hodgkin clásico?",
+    "hint": "Tienen aspecto de 'ojos de búho'.",
+    "options": [
+      {
+        "text": "A) Células de Reed-Sternberg",
+        "isCorrect": true,
+        "explanation": "Estas células gigantes binucleadas son la huella diagnóstica esencial del Linfoma de Hodgkin."
+      },
+      {
+        "text": "B) Células plasmáticas atípicas",
+        "isCorrect": false,
+        "explanation": "Son propias del Mieloma Múltiple."
+      },
+      {
+        "text": "C) Linfoblastos T",
+        "isCorrect": false,
+        "explanation": "Pertenecen a leucemias/linfomas linfoblásticos."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Trombofilias",
+    "text": "En el Síndrome Antifosfolípido (SAF), ¿cuál de las siguientes pruebas de laboratorio in vitro paradójicamente se encuentra prolongada?",
+    "hint": "Aunque el paciente está en estado protrombótico, un test de coagulación parece indicar sangrado.",
+    "options": [
+      {
+        "text": "A) Tiempo de Sangría",
+        "isCorrect": false,
+        "explanation": "Evalúa plaquetas, suele ser normal."
+      },
+      {
+        "text": "B) Tiempo de Protrombina (TP)",
+        "isCorrect": false,
+        "explanation": "Generalmente normal."
+      },
+      {
+        "text": "C) Tiempo de Tromboplastina Parcial activado (TTPa)",
+        "isCorrect": true,
+        "explanation": "El anticoagulante lúpico interfiere in vitro con los fosfolípidos del reactivo, prolongando el TTPa paradójicamente."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Artritis Reumatoide",
+    "text": "¿Qué anticuerpo tiene la más alta especificidad (>95%) para el diagnóstico de Artritis Reumatoide y sirve como factor de mal pronóstico?",
+    "hint": "Reacciona contra proteínas modificadas.",
+    "options": [
+      {
+        "text": "A) Factor Reumatoide (FR)",
+        "isCorrect": false,
+        "explanation": "Es sensible pero poco específico (aparece en endocarditis, hepatitis C, etc.)."
+      },
+      {
+        "text": "B) Anticuerpos anti-péptidos cíclicos citrulinados (Anti-CCP)",
+        "isCorrect": true,
+        "explanation": "Los Anti-CCP son muy específicos para AR y predicen enfermedad erosiva más severa."
+      },
+      {
+        "text": "C) Anticuerpos Antinucleares (ANA)",
+        "isCorrect": false,
+        "explanation": "Sensibles para Lupus, no específicos de AR."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Lupus Eritematoso Sistémico",
+    "text": "Paciente joven con Lupus Eritematoso Sistémico debuta con edemas y proteinuria de 4 g/día. ¿Cuál es el paso a seguir imprescindible para decidir la terapia inmunosupresora específica?",
+    "hint": "Hay que clasificar la lesión histológica.",
+    "options": [
+      {
+        "text": "A) Iniciar Ciclofosfamida empíricamente",
+        "isCorrect": false,
+        "explanation": "El tratamiento depende del tipo celular afectado."
+      },
+      {
+        "text": "B) Biopsia Renal",
+        "isCorrect": true,
+        "explanation": "La nefritis lúpica tiene 6 clases histológicas; la biopsia es mandataria para definir el pronóstico y el tratamiento (ej. clase III/IV requiere agresividad)."
+      },
+      {
+        "text": "C) Aumentar corticoides y observar",
+        "isCorrect": false,
+        "explanation": "Retrasa el tratamiento definitivo de un órgano noble."
+      }
+    ]
+  }
+]
