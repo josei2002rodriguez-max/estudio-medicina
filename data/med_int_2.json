@@ -749,4 +749,754 @@
       }
     ]
   }
+{
+    "id": 31,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Vasculitis de Gran Vaso",
+    "text": "Mujer de 75 años consulta por cefalea temporal, claudicación mandibular y amaurosis fugaz unilateral. Su VHS está en 100 mm/h. El tratamiento inmediato debe ser:",
+    "hint": "Es una emergencia oftalmológica reumatológica.",
+    "options": [
+      {
+        "text": "A) Corticoides sistémicos a altas dosis",
+        "isCorrect": true,
+        "explanation": "Es una Arteritis de Células Gigantes. El riesgo inminente es la ceguera permanente; el tratamiento con corticoides no debe retrasarse por esperar la biopsia."
+      },
+      {
+        "text": "B) Biopsia de arteria temporal primero",
+        "isCorrect": false,
+        "explanation": "La biopsia confirmará el cuadro, pero iniciar corticoides es la urgencia médica prioritaria."
+      },
+      {
+        "text": "C) Metotrexato oral",
+        "isCorrect": false,
+        "explanation": "Es útil para ahorro de esteroides a largo plazo, no en la urgencia."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Esclerosis Sistémica",
+    "text": "En la Esclerosis Sistémica variedad cutánea limitada (antiguo Síndrome de CREST), ¿qué autoanticuerpo se encuentra clásico y frecuentemente positivo?",
+    "hint": "Se asocia a hipertensión pulmonar.",
+    "options": [
+      {
+        "text": "A) Anti-Topoisomerasa I (Anti-Scl-70)",
+        "isCorrect": false,
+        "explanation": "Típico de la variedad difusa y fibrosis pulmonar."
+      },
+      {
+        "text": "B) Anticentrómero",
+        "isCorrect": true,
+        "explanation": "Es el anticuerpo marcador clásico de la esclerodermia cutánea limitada."
+      },
+      {
+        "text": "C) Anti-Ro / Anti-La",
+        "isCorrect": false,
+        "explanation": "Marcadores típicos del Síndrome de Sjögren."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Diabetes Mellitus Tipo 2",
+    "text": "Según la ADA (American Diabetes Association), ¿cuál de los siguientes valores confirma el diagnóstico de Diabetes Mellitus en paciente asintomático con confirmación en dos tomas?",
+    "hint": "Mide el promedio de los últimos 3 meses.",
+    "options": [
+      {
+        "text": "A) Glucemia en ayunas ≥ 100 mg/dL",
+        "isCorrect": false,
+        "explanation": "Esto es prediabetes (100-125 mg/dL)."
+      },
+      {
+        "text": "B) Hemoglobina Glicosilada (HbA1c) ≥ 6.5%",
+        "isCorrect": true,
+        "explanation": "Un valor de HbA1c de 6.5% o superior, confirmado, establece el diagnóstico de diabetes."
+      },
+      {
+        "text": "C) Glucemia al azar > 140 mg/dL",
+        "isCorrect": false,
+        "explanation": "El corte al azar con síntomas clásicos es ≥ 200 mg/dL."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Hipoglucemia",
+    "text": "En un paciente con Diabetes Tipo 1 consciente que presenta síntomas de hipoglucemia (capilar 55 mg/dL), ¿cuál es el tratamiento oral de elección inmediato (Regla del 15)?",
+    "hint": "Busca un carbohidrato de rápida absorción.",
+    "options": [
+      {
+        "text": "A) Comer un sándwich de queso o pan integral",
+        "isCorrect": false,
+        "explanation": "La grasa y la fibra retrasan la absorción de la glucosa."
+      },
+      {
+        "text": "B) Ingesta de 15 gramos de hidratos de carbono simples",
+        "isCorrect": true,
+        "explanation": "Se usan hidratos de carbono de absorción rápida (ej. sobres de azúcar o jugo), reevaluando en 15 minutos."
+      },
+      {
+        "text": "C) Inyección de insulina ultrarrápida",
+        "isCorrect": false,
+        "explanation": "Empeoraría dramáticamente la hipoglucemia."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Hipotiroidismo",
+    "text": "La tiroiditis de Hashimoto es la causa más común de hipotiroidismo primario. ¿Qué autoanticuerpo es el principal responsable o marcador de destrucción tiroidea?",
+    "hint": "Afecta la enzima que organifica el yodo.",
+    "options": [
+      {
+        "text": "A) Anticuerpos Anti-Receptor de TSH (TSI)",
+        "isCorrect": false,
+        "explanation": "Son estimulantes y causan Enfermedad de Graves."
+      },
+      {
+        "text": "B) Anticuerpos Anti-TPO (Anti-peroxidasa tiroidea)",
+        "isCorrect": true,
+        "explanation": "Están presentes en más del 90% de las tiroiditis de Hashimoto y validan la autoinmunidad celular."
+      },
+      {
+        "text": "C) Anticuerpos Anti-tiroglobulina solos",
+        "isCorrect": false,
+        "explanation": "Son menos específicos que los anti-TPO."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Hipercortisolismo",
+    "text": "Paciente con obesidad central, estrías violáceas e hipertensión. ¿Cuál es el examen de cribado (screening) de elección inicial para Síndrome de Cushing?",
+    "hint": "Mide el escape de la regulación normal.",
+    "options": [
+      {
+        "text": "A) Test de supresión nocturna con 1 mg de Dexametasona",
+        "isCorrect": true,
+        "explanation": "También conocido como test de Nugent, evalúa la autonomía del cortisol frente a la supresión farmacológica."
+      },
+      {
+        "text": "B) ACTH sérica basal",
+        "isCorrect": false,
+        "explanation": "Sirve para diferenciar el origen (adrenal vs hipofisario) pero no como screening inicial."
+      },
+      {
+        "text": "C) Resonancia Magnética de Hipófisis",
+        "isCorrect": false,
+        "explanation": "Las imágenes se hacen solo tras confirmación bioquímica del exceso de cortisol."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Tuberculosis Pulmonar",
+    "text": "¿Cuál es el principal efecto adverso que obliga al monitoreo de las enzimas hepáticas en los pacientes que inician el esquema de primera línea (Rifampicina, Isoniazida, Pirazinamida, Etambutol)?",
+    "hint": "Casi todos estos fármacos se metabolizan en el mismo órgano.",
+    "options": [
+      {
+        "text": "A) Hepatotoxicidad severa",
+        "isCorrect": true,
+        "explanation": "La isoniazida, pirazinamida y rifampicina son hepatotóxicas, pudiendo causar hepatitis inducida por fármacos letal."
+      },
+      {
+        "text": "B) Insuficiencia Renal Aguda",
+        "isCorrect": false,
+        "explanation": "Ninguno es clásicamente nefrotóxico (los inyectables de segunda línea como amikacina sí lo son)."
+      },
+      {
+        "text": "C) Neuritis óptica universal",
+        "isCorrect": false,
+        "explanation": "Ocurre solo con etambutol, pero la hepatotoxicidad es la preocupación del combo de drogas."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Mieloma Múltiple",
+    "text": "Los criterios 'CRAB' definen el daño a órgano blanco en el Mieloma Múltiple asintomático. ¿A qué se refiere la letra 'C' de CRAB?",
+    "hint": "Provoca confusión, letargo y se trata con hidratación y bifosfonatos.",
+    "options": [
+      {
+        "text": "A) Hipercalcemia (Calcium elevation)",
+        "isCorrect": true,
+        "explanation": "La activación osteoclástica por las células plasmáticas libera masivamente calcio a la sangre (C de CRAB)."
+      },
+      {
+        "text": "B) Creatinina elevada",
+        "isCorrect": false,
+        "explanation": "Esta es la letra 'R' (Renal impairment)."
+      },
+      {
+        "text": "C) Citopenias severas",
+        "isCorrect": false,
+        "explanation": "No forma parte del acrónimo CRAB clásico."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Síndrome de Sjögren",
+    "text": "Paciente con grave sequedad ocular (xeroftalmía) y sequedad bucal (xerostomía). ¿A qué complicación maligna grave tienen aumentado el riesgo a largo plazo estos pacientes?",
+    "hint": "Afecta los ganglios y órganos linfoides.",
+    "options": [
+      {
+        "text": "A) Linfoma no Hodgkin de células B",
+        "isCorrect": true,
+        "explanation": "El S. Sjögren tiene hasta 40 veces más riesgo de desarrollar Linfoma MALT u otro Linfoma B por la estimulación crónica linfocitaria."
+      },
+      {
+        "text": "B) Carcinoma escamoso oral",
+        "isCorrect": false,
+        "explanation": "Relacionado con tabaco/alcohol, no es la complicación autoinmune clásica."
+      },
+      {
+        "text": "C) Melanoma uveal",
+        "isCorrect": false,
+        "explanation": "No hay asociación etiológica establecida."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Síncope",
+    "text": "El Tilt Test (prueba de mesa basculante) es el examen para confirmar la etiología del síncope más frecuente en la población. ¿A qué tipo de síncope nos referimos?",
+    "hint": "Depende del nervio vago y la respuesta vascular.",
+    "options": [
+      {
+        "text": "A) Síncope cardiogénico estructural",
+        "isCorrect": false,
+        "explanation": "Se descarta con ecocardiograma."
+      },
+      {
+        "text": "B) Síncope vasovagal (neuromediado)",
+        "isCorrect": true,
+        "explanation": "El Tilt test evalúa la respuesta refleja hipotensiva y bradicárdica provocada por el ortostatismo prolongado."
+      },
+      {
+        "text": "C) Síncope por arritmia ventricular",
+        "isCorrect": false,
+        "explanation": "Se descarta con Holter/estudio electrofisiológico."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Hepatitis Viral",
+    "text": "En la serología de la Hepatitis B, ¿qué marcador indica que el paciente adquirió inmunidad debido EXCLUSIVAMENTE a la vacuna?",
+    "hint": "No reacciona a los antígenos internos del virus.",
+    "options": [
+      {
+        "text": "A) Anticuerpo Anti-HBs (+) y Anti-HBc (+)",
+        "isCorrect": false,
+        "explanation": "La presencia de anti-Core (HBc) indica infección natural pasada."
+      },
+      {
+        "text": "B) Anticuerpo Anti-HBs (+) y Anti-HBc (-)",
+        "isCorrect": true,
+        "explanation": "La vacuna solo contiene antígeno de superficie. Si solo hay anticuerpos contra la superficie, es inmunidad vacunal."
+      },
+      {
+        "text": "C) Antígeno de superficie (AgHBs) positivo",
+        "isCorrect": false,
+        "explanation": "Indica infección activa (aguda o crónica)."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Enfermedades Renales Tubulointersticiales",
+    "text": "Tras la administración de un antibiótico betalactámico, un paciente cursa con AKI, exantema y eosinofiluria. El diagnóstico más sugerente es:",
+    "hint": "Es una reacción alérgica dentro del riñón.",
+    "options": [
+      {
+        "text": "A) Glomerulonefritis aguda",
+        "isCorrect": false,
+        "explanation": "Cursa con hematuria dismórfica, no eosinofiluria alérgica."
+      },
+      {
+        "text": "B) Nefritis Intersticial Aguda",
+        "isCorrect": true,
+        "explanation": "La tríada clásica (falla renal, rash, eosinofilia/eosinofiluria) inducida por fármacos define la NIA por hipersensibilidad."
+      },
+      {
+        "text": "C) Necrosis tubular tóxica",
+        "isCorrect": false,
+        "explanation": "No genera inflamación alérgica periférica."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Patología Pleural",
+    "text": "La insuficiencia cardíaca izquierda agudizada y el derrame pleural acompañante suelen ser la causa principal de qué tipo de líquido en la toracocentesis:",
+    "hint": "Filtra por presión hidrostática pura.",
+    "options": [
+      {
+        "text": "A) Trasudado",
+        "isCorrect": true,
+        "explanation": "Ocurre por disbalance de presiones (Starling) sin daño en la pleura propiamente tal."
+      },
+      {
+        "text": "B) Exudado",
+        "isCorrect": false,
+        "explanation": "Ocurre en infecciones o tumores."
+      },
+      {
+        "text": "C) Quilotórax",
+        "isCorrect": false,
+        "explanation": "Es linfa por rotura del conducto torácico."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Insuficiencia Suprarrenal",
+    "text": "Mujer con fatiga, pigmentación oscura en pliegues cutáneos e hipotensión. Analítica con hiponatremia e hiperkalemia. ¿Cuál es la causa subyacente?",
+    "hint": "Es un fallo de las glándulas ubicadas sobre el riñón.",
+    "options": [
+      {
+        "text": "A) Insuficiencia suprarrenal primaria (Enfermedad de Addison)",
+        "isCorrect": true,
+        "explanation": "La falta de cortisol sube la ACTH (hiperpigmentación) y la falta de aldosterona da hiponatremia/hiperkalemia."
+      },
+      {
+        "text": "B) Insuficiencia suprarrenal secundaria (hipofisaria)",
+        "isCorrect": false,
+        "explanation": "No hay elevación de ACTH (no hay pigmentación) ni se afecta tanto la aldosterona."
+      },
+      {
+        "text": "C) Feocromocitoma",
+        "isCorrect": false,
+        "explanation": "Genera crisis hipertensivas, no hipotensión con fatiga."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Angina Estable",
+    "text": "¿Qué examen de esfuerzo funcional es frecuentemente el de primera línea para estratificar riesgo en angina estable con ECG normal en reposo?",
+    "hint": "Se evalúa al paciente sobre una banda rodante.",
+    "options": [
+      {
+        "text": "A) Coronariografía invasiva",
+        "isCorrect": false,
+        "explanation": "Es para pacientes de alto riesgo o síntomas inestables refractarios."
+      },
+      {
+        "text": "B) Test de Esfuerzo (Ergometría)",
+        "isCorrect": true,
+        "explanation": "Es el estándar inicial para demostrar isquemia si el paciente puede hacer ejercicio y su ECG basal es interpretable."
+      },
+      {
+        "text": "C) Resonancia Cardíaca",
+        "isCorrect": false,
+        "explanation": "Excelente técnica, pero no de primera línea masiva por costo y disponibilidad."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Infección por Estafilococo",
+    "text": "El Staphylococcus aureus resistente a meticilina (SARM) adquirió su resistencia mediante un gen (mecA) que altera el sitio diana del antibiótico. ¿Qué estructura cambia?",
+    "hint": "Son las proteínas a las que se une la penicilina.",
+    "options": [
+      {
+        "text": "A) Bombas de eflujo en la membrana",
+        "isCorrect": false,
+        "explanation": "Es más común en macrólidos."
+      },
+      {
+        "text": "B) Proteínas fijadoras de penicilina (produce PBP2a)",
+        "isCorrect": true,
+        "explanation": "El gen mecA codifica una PBP de baja afinidad por los betalactámicos, haciéndolos inefectivos."
+      },
+      {
+        "text": "C) Beta-lactamasas plasmídicas hiperproductoras",
+        "isCorrect": false,
+        "explanation": "Esto da resistencia a penicilina básica, pero es superada por cloxacilina; el SARM es resistente a ambas."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Hemorragia Digestiva Alta",
+    "text": "¿Cuál es la medida farmacológica inmediata de soporte fundamental (antes de la endoscopia) en sospecha de sangrado variceal por cirrosis?",
+    "hint": "Droga vasoactiva que reduce el flujo esplácnico.",
+    "options": [
+      {
+        "text": "A) Infusión de Terlipresina o Somatostatina/Octreotide",
+        "isCorrect": true,
+        "explanation": "Estos vasoconstrictores esplácnicos disminuyen la presión portal de forma aguda."
+      },
+      {
+        "text": "B) Omeprazol altas dosis IV",
+        "isCorrect": false,
+        "explanation": "Es la base del tratamiento de la úlcera péptica, no de várices."
+      },
+      {
+        "text": "C) Antibióticos profilácticos solos",
+        "isCorrect": false,
+        "explanation": "Se dan antibióticos (ej. ceftriaxona), pero no detienen el sangrado agudo hemodinámico."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Anemias Megaloblásticas",
+    "text": "Un anciano presenta anemia macrocítica, parestesias y marcha atáxica. Sus niveles de ácido metilmalónico están elevados. El déficit es de:",
+    "hint": "Esta vitamina necesita el factor intrínseco.",
+    "options": [
+      {
+        "text": "A) Ácido Fólico (Vitamina B9)",
+        "isCorrect": false,
+        "explanation": "Causa macrocitosis pero SIN compromiso neurológico y no sube el ácido metilmalónico."
+      },
+      {
+        "text": "B) Cobalamina (Vitamina B12)",
+        "isCorrect": true,
+        "explanation": "La tríada de anemia megaloblástica, déficit neurológico de cordones posteriores y ácido metilmalónico alto es clásica."
+      },
+      {
+        "text": "C) Hierro",
+        "isCorrect": false,
+        "explanation": "Causa anemia microcítica."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Gota y Cristalopatías",
+    "text": "¿Qué características tienen los cristales extraídos del líquido sinovial en un ataque agudo de Gota primaria al microscopio de luz polarizada?",
+    "hint": "Tienen forma puntiaguda y desvían la luz negativamente.",
+    "options": [
+      {
+        "text": "A) Forma de aguja con birrefringencia negativa intensa",
+        "isCorrect": true,
+        "explanation": "Es la firma de los cristales de Urato Monosódico."
+      },
+      {
+        "text": "B) Forma romboidal con birrefringencia positiva débil",
+        "isCorrect": false,
+        "explanation": "Esos son los cristales de Pirofosfato de Calcio (Pseudogota)."
+      },
+      {
+        "text": "C) Cristal cuadrado sin birrefringencia",
+        "isCorrect": false,
+        "explanation": "No corresponde a patología articular clásica."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "Apnea del Sueño (SAHS)",
+    "text": "¿Cuál es el tratamiento gold standard conservador más eficaz para un paciente con SAHS grave (Índice de Apnea/Hipopnea > 30)?",
+    "hint": "Un dispositivo que inyecta aire para abrir la vía aérea.",
+    "options": [
+      {
+        "text": "A) Dispositivo de Avance Mandibular",
+        "isCorrect": false,
+        "explanation": "Para casos leves o moderados que no toleran otras terapias."
+      },
+      {
+        "text": "B) CPAP (Presión Positiva Continua en la Vía Aérea)",
+        "isCorrect": true,
+        "explanation": "El CPAP nocturno neumáticamente evita el colapso faríngeo, eliminando ronquidos y apneas."
+      },
+      {
+        "text": "C) Uvulopalatofaringoplastia",
+        "isCorrect": false,
+        "explanation": "Cirugía no indicada de primera línea para casos severos universales."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Taquicardias Supraventriculares",
+    "text": "Mujer sin comorbilidades llega a urgencias por taquicardia rítmica de QRS estrecho (180 lpm). Falla maniobra vagal. Fármaco IV de primera línea:",
+    "hint": "Provoca un bloqueo AV transitorio y permite reiniciar el nodo.",
+    "options": [
+      {
+        "text": "A) Adenosina",
+        "isCorrect": true,
+        "explanation": "Es de vida media cortísima y de elección para cortar taquicardias por reentrada nodal."
+      },
+      {
+        "text": "B) Amiodarona",
+        "isCorrect": false,
+        "explanation": "Demasiada toxicidad y lentitud; se reserva para taquicardias inestables ventriculares."
+      },
+      {
+        "text": "C) Lidocaína",
+        "isCorrect": false,
+        "explanation": "Antiarrítmico estrictamente ventricular (Ib)."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad Celíaca",
+    "text": "¿Cuál es la prueba serológica más sensible y específica para realizar el despistaje (cribado) inicial de la Enfermedad Celíaca?",
+    "hint": "Anticuerpo dirigido contra la enzima que cruza proteínas del gluten.",
+    "options": [
+      {
+        "text": "A) Anticuerpos Antigliadina IgG",
+        "isCorrect": false,
+        "explanation": "Fueron abandonados por baja sensibilidad/especificidad en adultos."
+      },
+      {
+        "text": "B) Anticuerpos Anti-transglutaminasa tisular IgA",
+        "isCorrect": true,
+        "explanation": "Es el test de primera elección por su altísima precisión diagnóstica si hay IgA total normal."
+      },
+      {
+        "text": "C) Anticuerpos Anti-endomisio",
+        "isCorrect": false,
+        "explanation": "Son muy específicos, pero más costosos y dependientes del observador (inmunofluorescencia)."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Infecciones por Herpes Zoster",
+    "text": "Aparecen vesículas sobre base eritematosa acompañadas de dolor intenso ardiente en un territorio delimitado unilateralmente en el hemitórax. ¿Qué virus se reactivó?",
+    "hint": "Causa la 'peste cristal' en niños.",
+    "options": [
+      {
+        "text": "A) Herpes Simplex Tipo 1",
+        "isCorrect": false,
+        "explanation": "Da herpes labial y encefalitis."
+      },
+      {
+        "text": "B) Virus Varicela-Zóster (VVZ)",
+        "isCorrect": true,
+        "explanation": "El herpes zóster ocurre por reactivación del VVZ latente en un ganglio sensitivo dorsal."
+      },
+      {
+        "text": "C) Citomegalovirus",
+        "isCorrect": false,
+        "explanation": "Da retinitis o esofagitis en inmunodeprimidos, pero no dermatomas cutáneos."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Complicaciones Microvasculares DM",
+    "text": "¿Qué medicamento retrasa la progresión de la albuminuria a nefropatía franca en pacientes diabéticos, incluso en normotensos?",
+    "hint": "Son antiproteinúricos porque dilatan la arteriola eferente.",
+    "options": [
+      {
+        "text": "A) Betabloqueantes",
+        "isCorrect": false,
+        "explanation": "No protegen directamente la microcirculación glomerular."
+      },
+      {
+        "text": "B) IECAs o ARA-II",
+        "isCorrect": true,
+        "explanation": "Inhiben la angiotensina II, bajando la hipertensión intraglomerular y disminuyendo el daño y el paso de albúmina."
+      },
+      {
+        "text": "C) Tiazidas",
+        "isCorrect": false,
+        "explanation": "Son antihipertensivos pero no nefroprotectores puros de primera línea aislados."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Encefalopatía Hepática",
+    "text": "En el manejo agudo de la Encefalopatía Hepática en un cirrótico descompensado, ¿qué laxante disacárido reduce la absorción intestinal de amoníaco?",
+    "hint": "Atrapa amoníaco acidificando el colon.",
+    "options": [
+      {
+        "text": "A) Polietilenglicol",
+        "isCorrect": false,
+        "explanation": "Es un laxante osmótico pero sin efecto específico sobre el pH y atrapamiento de amonio."
+      },
+      {
+        "text": "B) Lactulosa",
+        "isCorrect": true,
+        "explanation": "La lactulosa se degrada por bacterias, acidifica el colon y convierte amoníaco (NH3) en amonio (NH4+) no absorbible."
+      },
+      {
+        "text": "C) Senósidos",
+        "isCorrect": false,
+        "explanation": "Son estimulantes intestinales, sin beneficio metabólico."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Miopatías Inflamatorias",
+    "text": "Paciente con debilidad muscular proximal progresiva y lesiones cutáneas maculopapulares eritematosas en los nudillos (Pápulas de Gottron). Diagnóstico probable:",
+    "hint": "Combina inflamación muscular y cutánea.",
+    "options": [
+      {
+        "text": "A) Polimiositis",
+        "isCorrect": false,
+        "explanation": "Afecta el músculo pero no tiene el componente cutáneo típico (pápulas de Gottron)."
+      },
+      {
+        "text": "B) Dermatomiositis",
+        "isCorrect": true,
+        "explanation": "Las pápulas de Gottron y el eritema heliotropo son patognomónicos de esta miopatía inflamatoria."
+      },
+      {
+        "text": "C) Miastenia Gravis",
+        "isCorrect": false,
+        "explanation": "Da debilidad oscilante sin rash."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Proteinuria y Síndromes Glomerulares",
+    "text": "Se solicita una tira reactiva urinaria para detectar proteinuria. ¿A qué proteína plasmática específica es altamente sensible esta prueba de cribado (Dipstick)?",
+    "hint": "Es la más abundante en la sangre.",
+    "options": [
+      {
+        "text": "A) Cadenas ligeras de inmunoglobulinas",
+        "isCorrect": false,
+        "explanation": "El Dipstick no detecta cadenas ligeras de Mieloma (Bence Jones)."
+      },
+      {
+        "text": "B) Albúmina",
+        "isCorrect": true,
+        "explanation": "Las tiras reactivas rápidas están diseñadas primariamente para detectar alteraciones de la albúmina mediante cambios de pH y color."
+      },
+      {
+        "text": "C) Mioglobina",
+        "isCorrect": false,
+        "explanation": "Marcaría falsamente sangre en la zona de hematuria, pero no proteína pura."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Poliglobulias",
+    "text": "¿Cuál es la mutación genética (presente en >95% de los casos) central en la patogénesis de la Policitemia Vera?",
+    "hint": "Codifica una quinasa del receptor de la eritropoyetina.",
+    "options": [
+      {
+        "text": "A) Mutación JAK2 V617F",
+        "isCorrect": true,
+        "explanation": "Esta mutación vuelve la vía celular independiente de la eritropoyetina, proliferando masivamente eritrocitos."
+      },
+      {
+        "text": "B) Cromosoma Filadelfia t(9;22)",
+        "isCorrect": false,
+        "explanation": "Es el marcador genético de la Leucemia Mieloide Crónica."
+      },
+      {
+        "text": "C) Mutación del gen HFE",
+        "isCorrect": false,
+        "explanation": "Corresponde a la Hemocromatosis hereditaria."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Tuberculosis Pulmonar",
+    "text": "En el diagnóstico de TBC Latente (IGRA o PPD positivo sin enfermedad activa). ¿Cuál es la terapia de primera línea universalmente aceptada para profilaxis?",
+    "hint": "Se usa una sola droga durante meses para limpiar el reservorio inactivo.",
+    "options": [
+      {
+        "text": "A) El esquema completo de 4 fármacos por 2 meses",
+        "isCorrect": false,
+        "explanation": "Esto es para enfermedad tuberculosa activa."
+      },
+      {
+        "text": "B) Isoniazida monoterápica (o asociada a rifampicina) profiláctica",
+        "isCorrect": true,
+        "explanation": "La isoniazida por 6-9 meses es el clásico para tratar la latencia y evitar la enfermedad activa."
+      },
+      {
+        "text": "C) Estreptomicina mensual",
+        "isCorrect": false,
+        "explanation": "No se usa para latencia."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Trombofilia y Trombosis",
+    "text": "Ante una trombosis venosa profunda en pierna o un TEP provocado y agudo, ¿Cuál de los siguientes fármacos ejerce su efecto potenciando directamente la Antitrombina III?",
+    "hint": "Es inyectable subcutánea clásica.",
+    "options": [
+      {
+        "text": "A) Heparinas de Bajo Peso Molecular (ej. Enoxaparina)",
+        "isCorrect": true,
+        "explanation": "Las heparinas son catalizadores que se unen a la antitrombina acelerando mil veces su acción de inhibir al Factor Xa (y IIa)."
+      },
+      {
+        "text": "B) Rivaroxaban",
+        "isCorrect": false,
+        "explanation": "Inhibe directamente al factor Xa sin mediación de la Antitrombina."
+      },
+      {
+        "text": "C) Aspirina",
+        "isCorrect": false,
+        "explanation": "Es un antiagregante plaquetario inhibidor de COX-1, no actúa en la cascada de factores plasmáticos."
+      }
+    ]
+  }
 ]
