@@ -1,0 +1,1608 @@
+[
+  {
+    "id": 301,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Cardiopatía Isquémica (Angina Inestable vs SCASEST)",
+    "text": "Un paciente de 58 años acude a urgencias por dolor opresivo retroesternal de 40 minutos de duración, en reposo. El electrocardiograma muestra un descenso (infradesnivel) del segmento ST de 1.5 mm en derivaciones V4-V6. Se le toman troponinas de alta sensibilidad al ingreso y a las 3 horas, resultando ambas mediciones estrictamente dentro de los límites normales (negativas). El dolor cede con nitroglicerina sublingual. ¿Cuál es el diagnóstico final correcto?",
+    "hint": "La clave está en la presencia de isquemia en el ECG (ST bajo) pero con biomarcadores de daño celular (troponinas) repetidamente negativos.",
+    "options": [
+      {
+        "text": "a) Infarto Agudo de Miocardio sin elevación del ST (IAMSEST).",
+        "isCorrect": false,
+        "explanation": "El IAMSEST requiere obligatoriamente la elevación de troponinas, indicando muerte celular (necrosis). Aquí son negativas."
+      },
+      {
+        "text": "b) Angina Inestable.",
+        "isCorrect": true,
+        "explanation": "Ambas comparten la fisiopatología de un trombo suboclusivo. La diferencia es que en la Angina Inestable hay isquemia grave pero no llega a haber necrosis miocárdica, por lo que las troponinas permanecen normales."
+      },
+      {
+        "text": "c) Angina Estable crónica.",
+        "isCorrect": false,
+        "explanation": "La angina estable es predecible, ocurre con el esfuerzo y dura pocos minutos; este cuadro ocurrió en reposo y duró 40 minutos."
+      },
+      {
+        "text": "d) Angina variante de Prinzmetal.",
+        "isCorrect": false,
+        "explanation": "Típicamente asocia supradesnivel del ST transitorio durante el espasmo, no infradesnivel persistente."
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Complicaciones mecánicas del IAM (Rotura de Pared Libre)",
+    "text": "Mujer de 70 años sufre un primer IAM anterior extenso no revascularizado. Al quinto día, sufre pérdida súbita de conciencia. El monitor muestra ritmo sinusal a 90 lpm, pero la paciente no tiene pulso palpable ni presión arterial (AESP). ¿Cuál es la complicación más probable?",
+    "hint": "Ocurre típicamente entre el día 3 y 5. La sangre llena el saco pericárdico súbitamente impidiendo el latido mecánico pero manteniendo el eléctrico.",
+    "options": [
+      {
+        "text": "a) Rotura del músculo papilar mitral.",
+        "isCorrect": false,
+        "explanation": "Daría un soplo sistólico rudo y edema agudo de pulmón masivo, no una muerte súbita por disociación electromecánica."
+      },
+      {
+        "text": "b) Comunicación interventricular adquirida.",
+        "isCorrect": false,
+        "explanation": "Produce un shunt izquierda-derecha con soplo y shock progresivo, no taponamiento cardíaco súbito."
+      },
+      {
+        "text": "c) Rotura de la pared libre del ventrículo izquierdo.",
+        "isCorrect": true,
+        "explanation": "Es la causa clásica de Actividad Eléctrica Sin Pulso (AESP) post-IAM. La rotura del miocardio necrosado provoca un taponamiento cardíaco fulminante que anula el gasto cardíaco en segundos."
+      },
+      {
+        "text": "d) Trombosis aguda del stent.",
+        "isCorrect": false,
+        "explanation": "Daría dolor precordial y cambios isquémicos nuevos en el ECG antes del colapso."
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Insuficiencia Cardíaca (Valvulopatías)",
+    "text": "Paciente con Estenosis Mitral reumática severa desarrolla disnea paroxística nocturna. ¿Qué complicación rítmica es casi parte de la 'historia natural' de esta enfermedad debido a la dilatación masiva de la aurícula izquierda?",
+    "hint": "La desorganización eléctrica de la aurícula por estiramiento crónico es la causa principal de embolias en estos pacientes.",
+    "options": [
+      {
+        "text": "a) Taquicardia Ventricular Sostenida.",
+        "isCorrect": false,
+        "explanation": "Es una arritmia ventricular, más ligada a cicatrices de infartos previos que a dilatación auricular."
+      },
+      {
+        "text": "b) Fibrilación Auricular.",
+        "isCorrect": true,
+        "explanation": "La hipertensión y dilatación crónica de la aurícula izquierda en la estenosis mitral provocan fibrosis y desorganización eléctrica, gatillando FA en casi todos los casos avanzados."
+      },
+      {
+        "text": "c) Bloqueo Auriculoventricular Completo.",
+        "isCorrect": false,
+        "explanation": "No es la complicación rítmica característica de la patología auricular por estenosis mitral."
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Bradiarritmias (Indicaciones de Marcapasos)",
+    "text": "Varón de 80 años ingresa por síncope. El ECG muestra un Bloqueo AV de segundo grado tipo Mobitz II con frecuencia de 40 lpm. ¿Cuál es la conducta definitiva?",
+    "hint": "Este tipo de bloqueo es infranodal y tiene un riesgo inminente de progresar a asistolia.",
+    "options": [
+      {
+        "text": "a) Tratamiento crónico con Atropina oral.",
+        "isCorrect": false,
+        "explanation": "La atropina es una medida temporal y suele ser ineficaz en bloqueos por debajo del nodo AV."
+      },
+      {
+        "text": "b) Observación clínica y Holter en 1 mes.",
+        "isCorrect": false,
+        "explanation": "Es peligroso; el Mobitz II es inestable y puede causar muerte súbita por bloqueo completo en cualquier momento."
+      },
+      {
+        "text": "c) Implantación de un Marcapasos definitivo.",
+        "isCorrect": true,
+        "explanation": "El Mobitz II indica daño severo en el sistema His-Purkinje. Es una indicación Clase I de marcapasos, independientemente de si hay síntomas o no, por el riesgo de progresión."
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "EPOC (GOLD)",
+    "text": "En un paciente con EPOC, ¿qué valor de FEV1 posbroncodilatador define la categoría GOLD 3 (Obstrucción Grave)?",
+    "hint": "La escala GOLD divide la gravedad por cortes de 80, 50 y 30%.",
+    "options": [
+      {
+        "text": "a) FEV1 entre 80% y 100%.",
+        "isCorrect": false,
+        "explanation": "Corresponde a GOLD 1 (Leve)."
+      },
+      {
+        "text": "b) FEV1 entre 50% y 79%.",
+        "isCorrect": false,
+        "explanation": "Corresponde a GOLD 2 (Moderado)."
+      },
+      {
+        "text": "c) FEV1 entre 30% y 49%.",
+        "isCorrect": true,
+        "explanation": "Según la normativa GOLD, un FEV1 entre el 30% y el 49% del valor predicho clasifica al paciente como obstrucción grave (GOLD 3)."
+      },
+      {
+        "text": "d) FEV1 menor del 30%.",
+        "isCorrect": false,
+        "explanation": "Corresponde a GOLD 4 (Muy Grave)."
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Tuberculosis Pulmonar (Farmacología)",
+    "text": "Paciente en tratamiento antituberculoso presenta visión borrosa y dificultad para distinguir los colores rojo y verde. ¿Qué fármaco es el responsable?",
+    "hint": "Es el único del esquema de primera línea que causa toxicidad ocular específica (neuritis óptica).",
+    "options": [
+      {
+        "text": "a) Isoniazida.",
+        "isCorrect": false,
+        "explanation": "Su toxicidad clásica es la neuropatía periférica por déficit de piridoxina (B6)."
+      },
+      {
+        "text": "b) Rifampicina.",
+        "isCorrect": false,
+        "explanation": "Causa inducción enzimática, hepatitis y tiñe secreciones de naranja."
+      },
+      {
+        "text": "c) Etambutol.",
+        "isCorrect": true,
+        "explanation": "El etambutol produce una neuritis óptica retrobulbar dosis-dependiente que afecta la agudeza visual y la discriminación de colores."
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "NAC (Criterios de Gravedad)",
+    "text": "Según la ATS/IDSA, ¿cuáles son los dos Criterios Mayores para el ingreso directo de un paciente con NAC a la UCI?",
+    "hint": "Son situaciones de riesgo vital inminente que requieren soporte mecánico o circulatorio.",
+    "options": [
+      {
+        "text": "a) Frecuencia respiratoria >30 y confusión.",
+        "isCorrect": false,
+        "explanation": "Son criterios menores de gravedad."
+      },
+      {
+        "text": "b) Necesidad de ventilación mecánica invasiva o shock séptico que requiera vasopresores.",
+        "isCorrect": true,
+        "explanation": "Son los únicos dos criterios mayores. La presencia de cualquiera de ellos obliga al manejo en cuidados críticos."
+      },
+      {
+        "text": "c) Infiltrados multilobares y uremia.",
+        "isCorrect": false,
+        "explanation": "Son criterios menores."
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Tromboembolismo Pulmonar (ECG)",
+    "text": "¿Cuál es el hallazgo electrocardiográfico MÁS FRECUENTE en un paciente con TEP?",
+    "hint": "Es un hallazgo muy común pero poco específico, reflejando el estrés y la hipoxia.",
+    "options": [
+      {
+        "text": "a) Patrón S1Q3T3.",
+        "isCorrect": false,
+        "explanation": "Es el más famoso y específico, pero solo aparece en el 15-20% de los casos."
+      },
+      {
+        "text": "b) Taquicardia sinusal.",
+        "isCorrect": true,
+        "explanation": "Es, estadísticamente, el hallazgo más frecuente en el ECG de un paciente con TEP."
+      },
+      {
+        "text": "c) Bloqueo de rama derecha.",
+        "isCorrect": false,
+        "explanation": "Es un signo de sobrecarga aguda de cavidades derechas, pero menos común que la taquicardia."
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad Ulcerosa Péptica (Falsos negativos test de ureasa)",
+    "text": "Paciente con HDA por úlcera gástrica presenta test de ureasa negativo en la endoscopia. ¿Por qué ocurre frecuentemente este falso negativo?",
+    "hint": "La sangre y los medicamentos que bloquean el ácido 'atontan' o lavan la enzima bacteriana.",
+    "options": [
+      {
+        "text": "a) Por ser una úlcera fúndica.",
+        "isCorrect": false,
+        "explanation": "La localización no afecta la sensibilidad del test."
+      },
+      {
+        "text": "b) La presencia de sangre fresca o el uso reciente de Inhibidores de Bomba de Protones (IBP).",
+        "isCorrect": true,
+        "explanation": "La sangre alcaliniza el medio y los IBP inhiben la actividad de la ureasa bacteriana, causando resultados falsos negativos en la fase aguda."
+      },
+      {
+        "text": "c) Por el uso de AINEs.",
+        "isCorrect": false,
+        "explanation": "Los AINEs causan la úlcera, pero no interfieren directamente con la enzima ureasa del H. pylori."
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Cirrosis Hepática (Manejo de la Ascitis)",
+    "text": "Primer escalón terapéutico para un paciente cirrótico con su primer episodio de ascitis moderada y función renal normal:",
+    "hint": "Se busca frenar la retención de sal y bloquear la hormona que la retiene excesivamente en el cirrótico.",
+    "options": [
+      {
+        "text": "a) Paracentesis evacuadora total.",
+        "isCorrect": false,
+        "explanation": "Se reserva para ascitis grado 3 (a tensión) o refractarias."
+      },
+      {
+        "text": "b) Dieta hiposódica sumado a Espironolactona oral.",
+        "isCorrect": true,
+        "explanation": "Es el manejo inicial estándar. La espironolactona es el diurético de elección por el hiperaldosteronismo secundario de la cirrosis."
+      },
+      {
+        "text": "c) TIPS inmediato.",
+        "isCorrect": false,
+        "explanation": "Es una medida de rescate para ascitis refractaria o sangrado variceal, no de primera línea."
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "EII (Megacolon Tóxico)",
+    "text": "En la sospecha de Megacolon Tóxico por Colitis Ulcerosa, ¿qué prueba está ABSOLUTAMENTE CONTRAINDICADA?",
+    "hint": "Insuflar aire o líquido en un colon dilatado y debilitado puede ser catastrófico.",
+    "options": [
+      {
+        "text": "a) TAC de abdomen.",
+        "isCorrect": false,
+        "explanation": "Es útil para ver la dilatación y descartar aire libre, no está contraindicado."
+      },
+      {
+        "text": "b) Colonoscopia total o enema baritado.",
+        "isCorrect": true,
+        "explanation": "Ambas pruebas conllevan un riesgo altísimo de perforación intestinal en un colon con pared extremadamente delgada e inflamada."
+      },
+      {
+        "text": "c) Radiografía de tórax.",
+        "isCorrect": false,
+        "explanation": "Es necesaria para buscar neumoperitoneo debajo del diafragma."
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Hepatitis Virales (Marcadores del VHB)",
+    "text": "¿A qué etapa corresponde el perfil: HBsAg (-), Anti-HBs (-), y Anti-HBc IgM (+)?",
+    "hint": "Es el breve espacio de tiempo donde el virus se ha ido pero las defensas finales aún no llegan.",
+    "options": [
+      {
+        "text": "a) Vacunación previa.",
+        "isCorrect": false,
+        "explanation": "Solo tendría Anti-HBs positivo."
+      },
+      {
+        "text": "b) Período de ventana inmunológica.",
+        "isCorrect": true,
+        "explanation": "Ocurre cuando el antígeno de superficie desaparece pero el anticuerpo protector aún no es medible. El Anti-HBc IgM es el único marcador positivo."
+      },
+      {
+        "text": "c) Infección crónica.",
+        "isCorrect": false,
+        "explanation": "El HBsAg debería ser positivo por más de 6 meses."
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "IRA por Fármacos (AINEs)",
+    "text": "¿Cuál es el mecanismo fisiopatológico del fracaso renal agudo inducido por AINEs en pacientes deshidratados?",
+    "hint": "Las prostaglandinas mantienen la 'puerta de entrada' del riñón abierta. Bloquearlas cierra esa puerta.",
+    "options": [
+      {
+        "text": "a) Vasodilatación de la arteriola eferente.",
+        "isCorrect": false,
+        "explanation": "Este es el mecanismo de los IECAs."
+      },
+      {
+        "text": "b) Vasoconstricción de la arteriola aferente por inhibición de prostaglandinas.",
+        "isCorrect": true,
+        "explanation": "Al inhibir las prostaglandinas vasodilatadoras, el riñón pierde su mecanismo de defensa y la arteriola aferente se cierra, cayendo el filtrado glomerular."
+      },
+      {
+        "text": "c) Toxicidad directa sobre el podocito.",
+        "isCorrect": false,
+        "explanation": "No es el mecanismo hemodinámico clásico de la IRA prerrenal por AINEs."
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Trastornos del Potasio (Hipopotasemia)",
+    "text": "¿Qué déficit electrolítico suele causar hipopotasemia refractaria a tratamiento?",
+    "hint": "Este ion actúa como un 'tapón' que evita que el potasio se escape por los poros del riñón.",
+    "options": [
+      {
+        "text": "a) Hipocalcemia.",
+        "isCorrect": false,
+        "explanation": "No interviene directamente en la retención tubular de potasio."
+      },
+      {
+        "text": "b) Hipomagnesemia.",
+        "isCorrect": true,
+        "explanation": "Sin magnesio, los canales de potasio en el riñón quedan abiertos y el potasio se pierde sin cesar por la orina, a pesar de la reposición."
+      },
+      {
+        "text": "c) Hipernatremia.",
+        "isCorrect": false,
+        "explanation": "No es la causa de refractariedad del potasio."
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Glomerulopatías (Nefropatía Diabética)",
+    "text": "Nombre de las lesiones hialinas nodulares patognomónicas de la nefropatía diabética avanzada:",
+    "hint": "Son bolas de matriz en el mesangio visibles con tinción de PAS.",
+    "options": [
+      {
+        "text": "a) Cuerpos de Aschoff.",
+        "isCorrect": false,
+        "explanation": "Son típicos de la fiebre reumática en el corazón."
+      },
+      {
+        "text": "b) Nódulos de Kimmelstiel-Wilson.",
+        "isCorrect": true,
+        "explanation": "Son el hallazgo histológico clásico de la glomeruloesclerosis nodular en la diabetes de larga evolución."
+      },
+      {
+        "text": "c) Semilunas epiteliales.",
+        "isCorrect": false,
+        "explanation": "Son propias de las glomerulonefritis rápidamente progresivas."
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "ERC (Manejo del Fósforo)",
+    "text": "¿Qué quelante de fósforo es de elección en un paciente con ERC que ya presenta hipercalcemia?",
+    "hint": "No debe contener calcio para no empeorar las calcificaciones vasculares.",
+    "options": [
+      {
+        "text": "a) Carbonato de calcio.",
+        "isCorrect": false,
+        "explanation": "Está contraindicado si el calcio ya está elevado."
+      },
+      {
+        "text": "b) Sevelamer.",
+        "isCorrect": true,
+        "explanation": "Es una resina polimérica libre de calcio, ideal para bajar el fósforo sin subir el calcio en sangre."
+      },
+      {
+        "text": "c) Vitamina D activa.",
+        "isCorrect": false,
+        "explanation": "La vitamina D aumentaría la absorción de fósforo y calcio, empeorando el cuadro."
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "DM2 (Efectos sobre el peso)",
+    "text": "¿Cuál de los siguientes fármacos antidiabéticos causa ganancia de peso?",
+    "hint": "Promueven la formación de grasa o retención de líquidos.",
+    "options": [
+      {
+        "text": "a) Metformina.",
+        "isCorrect": false,
+        "explanation": "Es de peso neutro o produce leve pérdida."
+      },
+      {
+        "text": "b) Pioglitazona.",
+        "isCorrect": true,
+        "explanation": "Las tiazolidinedionas causan aumento de peso graso y retención hídrica."
+      },
+      {
+        "text": "c) Empagliflozina.",
+        "isCorrect": false,
+        "explanation": "Produce pérdida de peso por glucosuria."
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Acromegalia",
+    "text": "¿Qué screening oncológico es obligatorio realizar al diagnóstico de Acromegalia?",
+    "hint": "El exceso de IGF-1 hace crecer pólipos en el intestino grueso.",
+    "options": [
+      {
+        "text": "a) TAC de tórax.",
+        "isCorrect": false,
+        "explanation": "No es el sitio de mayor riesgo proliferativo primario."
+      },
+      {
+        "text": "b) Colonoscopia.",
+        "isCorrect": true,
+        "explanation": "Los acromegálicos tienen un riesgo muy aumentado de pólipos y cáncer de colon; la colonoscopia es obligatoria al diagnóstico."
+      },
+      {
+        "text": "c) Mamografía.",
+        "isCorrect": false,
+        "explanation": "No forma parte del protocolo específico de screening por acromegalia."
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Gastroparesia Diabética",
+    "text": "Paciente diabético con saciedad precoz, náuseas y vómitos de comida de horas previas. Endoscopia normal. Diagnóstico:",
+    "hint": "Es una parálisis del estómago por daño al nervio vago.",
+    "options": [
+      {
+        "text": "a) Úlcera pilórica.",
+        "isCorrect": false,
+        "explanation": "La endoscopia la habría detectado; aquí es normal."
+      },
+      {
+        "text": "b) Gastroparesia diabética.",
+        "isCorrect": true,
+        "explanation": "Es la neuropatía autonómica que impide el vaciado gástrico correcto. Se trata con procinéticos como metoclopramida."
+      },
+      {
+        "text": "c) Cáncer gástrico.",
+        "isCorrect": false,
+        "explanation": "Descartado por la endoscopia normal."
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Hipertiroidismo Apático",
+    "text": "Anciano con FA, pérdida de peso, astenia y TSH suprimida, pero sin temblor ni nerviosismo. Diagnóstico:",
+    "hint": "Es la forma en que el hipertiroidismo engaña al médico en los abuelos.",
+    "options": [
+      {
+        "text": "a) Enfermedad de Graves clásica.",
+        "isCorrect": false,
+        "explanation": "Suele dar el cuadro hipercinético típico en jóvenes."
+      },
+      {
+        "text": "b) Hipertiroidismo apático o apatético.",
+        "isCorrect": true,
+        "explanation": "En ancianos, el hipertiroidismo se presenta de forma larvada, predominando la clínica cardíaca y un aspecto deprimido o 'apagado'."
+      },
+      {
+        "text": "c) Hipotiroidismo secundario.",
+        "isCorrect": false,
+        "explanation": "La TSH suprimida con clínica de adelgazamiento apunta a exceso hormonal, no déficit."
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "LMA (Mielomonocítica)",
+    "text": "Subtipo de LMA que clásicamente asocia infiltración de encías (hipertrofia gingival):",
+    "hint": "Los monocitos tienen 'patas' y les gusta migrar fuera de la sangre.",
+    "options": [
+      {
+        "text": "a) Leucemia Promielocítica (M3).",
+        "isCorrect": false,
+        "explanation": "Su complicación clásica es la coagulopatía (CID)."
+      },
+      {
+        "text": "b) LMA Mielomonocítica o Monocítica (M4/M5).",
+        "isCorrect": true,
+        "explanation": "Estos blastos tienen una gran capacidad de infiltración tisular, afectando encías y piel."
+      },
+      {
+        "text": "c) LMA con maduración (M2).",
+        "isCorrect": false,
+        "explanation": "No tiene el tropismo gingival de las series monocíticas."
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Déficit de G6PD",
+    "text": "Anemia hemolítica tras comer habas o tomar fármacos oxidantes. En el frotis se ven cuerpos de Heinz y Bite cells.",
+    "hint": "Es la deficiencia enzimática más común de los glóbulos rojos.",
+    "options": [
+      {
+        "text": "a) Talasemia.",
+        "isCorrect": false,
+        "explanation": "Es un defecto de síntesis de globina, no de protección oxidativa."
+      },
+      {
+        "text": "b) Déficit de Glucosa-6-Fosfato Deshidrogenasa (G6PD).",
+        "isCorrect": true,
+        "explanation": "La falta de esta enzima deja al hematíe indefenso ante el estrés oxidativo, precipitando la hemoglobina (cuerpos de Heinz)."
+      },
+      {
+        "text": "c) Anemia Perniciosa.",
+        "isCorrect": false,
+        "explanation": "Es una anemia megaloblástica por déficit de B12, no hemolítica aguda."
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Síndrome de Lisis Tumoral (SLT)",
+    "text": "Fármaco preventivo para evitar el alza de Ácido Úrico al iniciar quimioterapia en tumores de alta carga:",
+    "hint": "Bloquea la enzima que fabrica el úrico o lo disuelve directamente.",
+    "options": [
+      {
+        "text": "a) Alopurinol o Rasburicasa.",
+        "isCorrect": true,
+        "explanation": "El Alopurinol previene la formación y la Rasburicasa degrada el úrico ya formado, evitando la falla renal por cristales."
+      },
+      {
+        "text": "b) Ciclofosfamida.",
+        "isCorrect": false,
+        "explanation": "Es quimioterapia, la causante de la lisis, no su preventivo metabólico."
+      },
+      {
+        "text": "c) Furosemida.",
+        "isCorrect": false,
+        "explanation": "Es un diurético; puede ayudar a la diuresis pero no trata la hiperuricemia."
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Hantavirus",
+    "text": "¿Cuál es la tríada hematológica clásica en la fase inicial del Hantavirus Andes?",
+    "hint": "Busca: sangre concentrada, pocas plaquetas y defensas gigantes.",
+    "options": [
+      {
+        "text": "a) Leucopenia, anemia y trombocitosis.",
+        "isCorrect": false,
+        "explanation": "Es el patrón opuesto al buscado."
+      },
+      {
+        "text": "b) Hemoconcentración, trombocitopenia y presencia de inmunoblastos.",
+        "isCorrect": true,
+        "explanation": "Esta tríada es altamente sugerente de Hantavirus en un contexto clínico compatible (fiebre y contacto rural)."
+      },
+      {
+        "text": "c) Pancitopenia pura.",
+        "isCorrect": false,
+        "explanation": "No es la presentación reactiva del Hantavirus."
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Citomegalovirus (CMV)",
+    "text": "¿En qué población el CMV causa retinitis y neumonía fulminante?",
+    "hint": "El virus es un 'oportunista' que ataca cuando el sistema inmune está apagado.",
+    "options": [
+      {
+        "text": "a) Niños sanos.",
+        "isCorrect": false,
+        "explanation": "En ellos suele ser asintomático o leve."
+      },
+      {
+        "text": "b) Pacientes con inmunosupresión grave (SIDA o trasplantados).",
+        "isCorrect": true,
+        "explanation": "El CMV se reactiva agresivamente cuando los CD4 caen por debajo de 50 o en el post-trasplante."
+      },
+      {
+        "text": "c) Adultos jóvenes atletas.",
+        "isCorrect": false,
+        "explanation": "No tienen el riesgo de enfermedad diseminada por CMV."
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Poliarteritis Nodosa (PAN)",
+    "text": "¿Con qué infección viral se asocia clásicamente un tercio de los casos de Poliarteritis Nodosa?",
+    "hint": "Es un virus que afecta al hígado y forma inmunocomplejos en los vasos.",
+    "options": [
+      {
+        "text": "a) Hepatitis C.",
+        "isCorrect": false,
+        "explanation": "Se asocia más a la crioglobulinemia mixta."
+      },
+      {
+        "text": "b) Hepatitis B (VHB).",
+        "isCorrect": true,
+        "explanation": "La asociación VHB y PAN es un clásico de la medicina interna por depósito de complejos HBsAg en arterias medianas."
+      },
+      {
+        "text": "c) Virus de Epstein-Barr.",
+        "isCorrect": false,
+        "explanation": "No está ligado etiológicamente a la vasculitis PAN."
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Polimialgia Reumática (PMR)",
+    "text": "¿Qué vasculitis de gran vaso debe descartar siempre en una paciente con Polimialgia Reumática?",
+    "hint": "Causa cefalea y puede dejar ciega a la paciente.",
+    "options": [
+      {
+        "text": "a) Arteritis de Takayasu.",
+        "isCorrect": false,
+        "explanation": "Afecta a mujeres jóvenes y a la aorta, no es la asociación típica de la PMR."
+      },
+      {
+        "text": "b) Arteritis de Células Gigantes (Horton).",
+        "isCorrect": true,
+        "explanation": "Hasta un 20-30% de las pacientes con PMR pueden tener Horton oculto o debutar con él; su detección evita la ceguera."
+      },
+      {
+        "text": "c) Granulomatosis de Wegener.",
+        "isCorrect": false,
+        "explanation": "Es una vasculitis de pequeño vaso ANCA positiva."
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "H. pylori",
+    "text": "Estrategia recomendada ante un paciente joven con dispepsia y test de aliento positivo para H. pylori:",
+    "hint": "Hoy el dogma es: bicho detectado, bicho tratado.",
+    "options": [
+      {
+        "text": "a) Esperar a que aparezcan úlceras.",
+        "isCorrect": false,
+        "explanation": "Es una conducta obsoleta que aumenta el riesgo de cáncer gástrico."
+      },
+      {
+        "text": "b) Tratamiento erradicador inmediato (Test and Treat).",
+        "isCorrect": true,
+        "explanation": "Se debe tratar para aliviar síntomas, curar la gastritis y prevenir el cáncer gástrico y linfoma MALT."
+      },
+      {
+        "text": "c) Dieta blanda únicamente.",
+        "isCorrect": false,
+        "explanation": "No elimina la bacteria ni previene complicaciones."
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Cáncer de Pulmón (Microcítico)",
+    "text": "¿Cuál es el pilar del tratamiento del Carcinoma Microcítico de pulmón que causa síndrome de vena cava superior?",
+    "hint": "Es un tumor inoperable de inicio pero extremadamente sensible a las drogas venosas.",
+    "options": [
+      {
+        "text": "a) Cirugía resectiva.",
+        "isCorrect": false,
+        "explanation": "Casi nunca se opera porque ya está diseminado al diagnóstico."
+      },
+      {
+        "text": "b) Poliquimioterapia sistémica.",
+        "isCorrect": true,
+        "explanation": "Es el tratamiento de elección. El tumor 'se derrite' rápidamente debido a su altísima quimiosensibilidad."
+      },
+      {
+        "text": "c) Antibióticos de amplio espectro.",
+        "isCorrect": false,
+        "explanation": "No tienen efecto sobre la masa tumoral compresiva."
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Diálisis Peritoneal (Peritonitis)",
+    "text": "Vía de administración de elección de antibióticos para peritonitis en un paciente en Diálisis Peritoneal:",
+    "hint": "Se pone la medicina directamente donde está el bicho infectando.",
+    "options": [
+      {
+        "text": "a) Vía oral.",
+        "isCorrect": false,
+        "explanation": "Menos efectiva para alcanzar niveles en el peritoneo."
+      },
+      {
+        "text": "b) Vía Intraperitoneal (en las bolsas de diálisis).",
+        "isCorrect": true,
+        "explanation": "Logra concentraciones máximas en el sitio de la infección y es el estándar de oro."
+      },
+      {
+        "text": "c) Inyección intramuscular.",
+        "isCorrect": false,
+        "explanation": "Inadecuada para el manejo de una peritonitis aguda por diálisis."
+      }
+    ]
+  }
+[
+  {
+    "id": 331,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Síncope (Estratificación de Riesgo)",
+    "text": "Un paciente de 68 años es traído a urgencias tras sufrir una pérdida transitoria de conciencia con recuperación espontánea y completa. Usted debe realizar la estratificación de riesgo para decidir si el paciente puede ser dado de alta o requiere ingreso hospitalario estricto. De los siguientes hallazgos obtenidos durante la anamnesis, exploración y ECG, ¿cuál es considerado un 'Criterio Clínico de Alto Riesgo' (Bandera Roja) que sugiere un síncope de origen cardiogénico letal y obliga a su hospitalización?",
+    "hint": "Fíjate en el momento exacto en que ocurre la pérdida de conciencia respecto a la actividad física.",
+    "options": [
+      {
+        "text": "a) Síncope que ocurre de forma prolongada al estar de pie en un lugar caluroso.",
+        "isCorrect": false,
+        "explanation": "Es el desencadenante típico de un síncope vasovagal o reflejo, generalmente benigno."
+      },
+      {
+        "text": "b) Síncope precedido de náuseas, palidez y sudoración fría profusa.",
+        "isCorrect": false,
+        "explanation": "Estos son pródromos autonómicos clásicos de causas neuromediadas, no sugieren origen estructural cardíaco."
+      },
+      {
+        "text": "c) Síncope que ocurre de manera súbita exactamente durante la realización de un esfuerzo físico máximo (ej. corriendo).",
+        "isCorrect": true,
+        "explanation": "El síncope de esfuerzo es una bandera roja absoluta. Sugiere patología estructural grave (Estenosis Aórtica, Miocardiopatía Hipertrófica) o arritmias ventriculares, con un altísimo riesgo de muerte súbita."
+      },
+      {
+        "text": "d) Síncope al levantarse bruscamente de la cama en la mañana.",
+        "isCorrect": false,
+        "explanation": "Suele deberse a hipotensión ortostática, común en ancianos o por fármacos, pero no es de riesgo arrítmico letal inminente."
+      },
+      {
+        "text": "e) Síncope desencadenado inmediatamente después de toser violentamente o deglutir.",
+        "isCorrect": false,
+        "explanation": "Es un síncope situacional (reflejo), desencadenado por una maniobra específica y predecible."
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Fibrilación Auricular (Anticoagulación en Valvulópatas)",
+    "text": "Mujer de 60 años con Fibrilación Auricular permanente acude a control. Está anticoagulada y usted se plantea cambiar su tratamiento a un Anticoagulante Oral de Acción Directa (ACOD, como Apixabán o Rivaroxabán). Sin embargo, descubre una condición valvular que CONTRAINDICA de forma absoluta el uso de los ACODs, obligando a mantener a la paciente exclusivamente con Antagonistas de la Vitamina K. ¿Cuál es esa condición?",
+    "hint": "Solo hay dos escenarios 'valvulares' donde los nuevos anticoagulantes han demostrado ser inferiores o peligrosos.",
+    "options": [
+      {
+        "text": "a) Insuficiencia aórtica severa degenerativa.",
+        "isCorrect": false,
+        "explanation": "Esta condición se considera FA 'no valvular' y permite el uso de ACODs."
+      },
+      {
+        "text": "b) Prolapso de la válvula mitral con insuficiencia moderada.",
+        "isCorrect": false,
+        "explanation": "No es una contraindicación para los ACODs."
+      },
+      {
+        "text": "c) Estenosis aórtica severa calcificada.",
+        "isCorrect": false,
+        "explanation": "Puede ser tratada con ACODs si hay FA asociada."
+      },
+      {
+        "text": "d) Estenosis mitral de origen reumático de grado moderado a severo y/o ser portadora de una prótesis valvular mecánica.",
+        "isCorrect": true,
+        "explanation": "En estos dos casos específicos, los ACODs están prohibidos por alta tasa de trombosis y fracaso terapéutico demostrado en ensayos clínicos. Estos pacientes deben usar Warfarina o Acenocumarol."
+      },
+      {
+        "text": "e) Haber sido sometida previamente a un recambio valvular por una prótesis biológica.",
+        "isCorrect": false,
+        "explanation": "Tras los primeros 3 meses de la cirugía, las prótesis biológicas sí permiten el uso de ACODs."
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Valvulopatía Aórtica (Semiología Clínica)",
+    "text": "Durante la exploración física de un paciente que consulta por fatiga, usted ausculta un soplo mesosistólico rudo en el foco aórtico, irradiado al cuello. Al palpar el pulso carotídeo, ¿qué característica semiológica clásica esperaría encontrar si la estenosis aórtica es anatómicamente severa?",
+    "hint": "La sangre tarda más en salir por un orificio estrecho, lo que debilita y retrasa la onda del pulso.",
+    "options": [
+      {
+        "text": "a) Pulso 'celer et altus'.",
+        "isCorrect": false,
+        "explanation": "Es el pulso saltón típico de la insuficiencia aórtica."
+      },
+      {
+        "text": "b) Pulso 'parvus et tardus' (de baja amplitud y de ascenso lento y retrasado).",
+        "isCorrect": true,
+        "explanation": "En la estenosis aórtica severa, la eyección es dificultosa y prolongada, lo que genera un pulso de pequeña amplitud (parvus) y cuya cresta se alcanza tarde en la sístole (tardus)."
+      },
+      {
+        "text": "c) Pulso alternante.",
+        "isCorrect": false,
+        "explanation": "Indica insuficiencia ventricular izquierda grave, no es específico de la estenosis valvular."
+      },
+      {
+        "text": "d) Pulso paradójico.",
+        "isCorrect": false,
+        "explanation": "Asociado clásicamente al taponamiento cardíaco."
+      },
+      {
+        "text": "e) Pulso bisferiens.",
+        "isCorrect": false,
+        "explanation": "Característico de la miocardiopatía hipertrófica obstructiva o doble lesión aórtica."
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "EPOC (Fenotipos y Terapia con Corticoides Inhalados)",
+    "text": "Según las guías GesEPOC/GOLD, ¿qué biomarcador en sangre periférica justifica e indica formalmente 'añadir un corticoide inhalado (GCI)' a la doble terapia broncodilatadora en un paciente con EPOC grave y exacerbaciones frecuentes?",
+    "hint": "Busca el recuento de células inflamatorias que sugieren un perfil tipo 'asma'.",
+    "options": [
+      {
+        "text": "a) Elevación de la Proteína C Reactiva (PCR) > 50 mg/L.",
+        "isCorrect": false,
+        "explanation": "La PCR indica inflamación sistémica aguda pero no guía el uso de corticoides inhalados crónicos."
+      },
+      {
+        "text": "b) Un recuento absoluto de eosinófilos en sangre periférica elevado (≥ 300 células/μL).",
+        "isCorrect": true,
+        "explanation": "Un nivel de eosinófilos ≥ 300 es el mejor predictor de respuesta a los GCI en EPOC. Si los niveles son bajos (<100), los corticoides no benefician y aumentan el riesgo de neumonía."
+      },
+      {
+        "text": "c) Niveles altos de Alfa-1-Antitripsina.",
+        "isCorrect": false,
+        "explanation": "Su déficit causa enfisema, pero no decide el uso de corticoides."
+      },
+      {
+        "text": "d) Niveles elevados de Inmunoglobulina G (IgG).",
+        "isCorrect": false,
+        "explanation": "No tiene utilidad en la decisión terapéutica de la EPOC."
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Derrame Pleural (Quilotórax)",
+    "text": "Se realiza toracocentesis a un paciente con derrame pleural masivo. El líquido es 'blanquecino-lechoso' y presenta un nivel de Triglicéridos de 250 mg/dL. ¿Cuál es el diagnóstico más probable?",
+    "hint": "El aspecto lechoso se debe a la linfa intestinal que ha escapado hacia el tórax.",
+    "options": [
+      {
+        "text": "a) Empiema purulento.",
+        "isCorrect": false,
+        "explanation": "El empiema se aclararía al centrifugar y tendría predominio de PMN y bacterias."
+      },
+      {
+        "text": "b) Quilotórax, originado por una rotura o bloqueo del conducto torácico linfático.",
+        "isCorrect": true,
+        "explanation": "Un nivel de triglicéridos en líquido pleural > 110 mg/dL confirma quilotórax. Se debe a la fuga de quilo por daño en el conducto torácico (trauma o linfoma)."
+      },
+      {
+        "text": "c) Pseudoquilotórax crónico.",
+        "isCorrect": false,
+        "explanation": "Suele ser rico en colesterol, no en triglicéridos, y ocurre en derrames de muy larga evolución."
+      },
+      {
+        "text": "d) Hemotórax coagulado.",
+        "isCorrect": false,
+        "explanation": "Sería de aspecto hemorrágico, no lechoso."
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Asma Bronquial (Exacerbación - Corticoides)",
+    "text": "Paciente de 30 años con crisis asmática moderada (PEF 65%). Para evitar una recaída en las siguientes 48 horas, ¿qué fármaco es mandatorio administrar de inmediato y mantener por 5-7 días?",
+    "hint": "Son la piedra angular para 'apagar' el incendio inflamatorio celular de la vía aérea.",
+    "options": [
+      {
+        "text": "a) Teofilina intravenosa.",
+        "isCorrect": false,
+        "explanation": "En desuso por estrecho margen terapéutico y menor eficacia que otras opciones."
+      },
+      {
+        "text": "b) Montelukast oral.",
+        "isCorrect": false,
+        "explanation": "Es un fármaco de mantenimiento, no se usa para resolver crisis agudas."
+      },
+      {
+        "text": "c) Corticoides sistémicos (ej. Prednisona oral 40-50 mg/día).",
+        "isCorrect": true,
+        "explanation": "En toda crisis moderada o grave, los corticoides sistémicos son obligatorios para reducir la inflamación y prevenir reingresos. La vía oral es igual de efectiva que la EV."
+      },
+      {
+        "text": "d) Azitromicina profiláctica.",
+        "isCorrect": false,
+        "explanation": "No hay indicación de antibióticos de rutina en crisis asmáticas a menos que haya sospecha firme de infección bacteriana."
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Hemorragia Digestiva Alta (Escala de Glasgow-Blatchford)",
+    "text": "Usted emplea una escala pre-endoscópica que evalúa Urea, Hemoglobina y signos vitales. Si la puntuación es 0, el paciente puede ser dado de alta de manera segura para estudio ambulatorio. ¿De qué escala estamos hablando?",
+    "hint": "Es la escala ideal para decidir quién NO se queda hospitalizado antes de llamar al endoscopista.",
+    "options": [
+      {
+        "text": "a) Escala de Rockall.",
+        "isCorrect": false,
+        "explanation": "Requiere la endoscopia para completar su puntaje."
+      },
+      {
+        "text": "b) Escala de Forrest.",
+        "isCorrect": false,
+        "explanation": "Clasifica el riesgo de resangrado según el hallazgo visual de la úlcera."
+      },
+      {
+        "text": "c) Score de Glasgow-Blatchford (GBS).",
+        "isCorrect": true,
+        "explanation": "Es la escala más sensible para identificar pacientes de bajo riesgo que no requerirán intervención, permitiendo el alta segura desde urgencias."
+      },
+      {
+        "text": "d) Escala de Child-Pugh.",
+        "isCorrect": false,
+        "explanation": "Mide la severidad de la insuficiencia hepática, no el riesgo de sangrado agudo."
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Hepatitis B Crónica (Indicaciones de Tratamiento)",
+    "text": "Según las guías internacionales, ¿cuál de los siguientes perfiles de un paciente con Hepatitis B crónica obliga a iniciar tratamiento antiviral supresor?",
+    "hint": "Se trata cuando el virus está 'despierto' y causando daño activo al hígado.",
+    "options": [
+      {
+        "text": "a) Paciente en fase inactiva con carga viral bajísima y ALT normal.",
+        "isCorrect": false,
+        "explanation": "En estos casos se prefiere la observación, ya que el riesgo de progresión es mínimo."
+      },
+      {
+        "text": "b) Paciente con carga viral alta (> 20.000 UI/mL), ALT elevada al doble de lo normal, y signos de fibrosis significativa.",
+        "isCorrect": true,
+        "explanation": "Este perfil indica replicación viral activa con daño inflamatorio y estructural del hígado, lo que justifica el inicio de Tenofovir o Entecavir."
+      },
+      {
+        "text": "c) Paciente curado con Anti-HBs y Anti-HBc IgG positivos.",
+        "isCorrect": false,
+        "explanation": "Indica inmunidad natural pasada, no requiere tratamiento."
+      },
+      {
+        "text": "d) Infección aguda asintomática de 15 días de evolución.",
+        "isCorrect": false,
+        "explanation": "La hepatitis B aguda suele resolverse sola en adultos; el tratamiento antiviral no está indicado de rutina."
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad Celiaca (Clasificación de Marsh)",
+    "text": "¿Cuáles son los tres hallazgos histológicos progresivos que caracterizan el daño de la mucosa celiaca en los estadios avanzados (Marsh 3)?",
+    "hint": "Imagina a los linfocitos infiltrando el tejido, las criptas creciendo para compensar y las vellosidades borrándose.",
+    "options": [
+      {
+        "text": "a) Úlceras profundas y granulomas caseificantes.",
+        "isCorrect": false,
+        "explanation": "Hallazgos sugerentes de Crohn o Tuberculosis, no de Celiaquía."
+      },
+      {
+        "text": "b) Acúmulo de macrófagos PAS-positivos.",
+        "isCorrect": false,
+        "explanation": "Patognomónico de la enfermedad de Whipple."
+      },
+      {
+        "text": "c) Incremento de linfocitos intraepiteliales, hiperplasia de las criptas glandulares y atrofia de las vellosidades intestinales.",
+        "isCorrect": true,
+        "explanation": "Esta es la tríada de la clasificación de Marsh: Marsh 1 (infiltrativa), Marsh 2 (hiperplásica) y Marsh 3 (atrofia vellositaria), que causa la malabsorción."
+      },
+      {
+        "text": "d) Depósito de material amiloide acelular.",
+        "isCorrect": false,
+        "explanation": "Corresponde a la Amiloidosis intestinal."
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "IRA (Indicaciones de Diálisis)",
+    "text": "En el contexto de una insuficiencia renal aguda, ¿qué complicación sintomática constituye una indicación absoluta de hemodiálisis de emergencia?",
+    "hint": "Corresponde a la letra 'U' del mnemotécnico AEIOU.",
+    "options": [
+      {
+        "text": "a) Elevación de creatinina de 2.0 a 4.0 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Un número aislado no obliga a diálisis si el paciente está estable y sin complicaciones."
+      },
+      {
+        "text": "b) Pericarditis urémica o Encefalopatía urémica severa (convulsiones o coma).",
+        "isCorrect": true,
+        "explanation": "Son manifestaciones críticas de la toxicidad urémica que amenazan la vida y exigen depuración extracorpórea inmediata."
+      },
+      {
+        "text": "c) Náuseas leves aisladas.",
+        "isCorrect": false,
+        "explanation": "No es criterio de urgencia vital."
+      },
+      {
+        "text": "d) Acidosis metabólica compensada con pH 7.32.",
+        "isCorrect": false,
+        "explanation": "Solo se dializa si la acidosis es refractaria al tratamiento médico o muy severa (pH < 7.1)."
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "ERC (Anemia Funcional)",
+    "text": "Antes de iniciar Eritropoyetina (EPO) en un paciente con ERC, ¿qué niveles de hierro se recomiendan para asegurar que la médula ósea tenga 'insumos' suficientes?",
+    "hint": "Se exigen reservas mucho más altas que en la población general para no fracasar con la inyección de EPO.",
+    "options": [
+      {
+        "text": "a) Ferritina > 10 ng/mL e IST > 5%.",
+        "isCorrect": false,
+        "explanation": "Valores propios de ferropenia absoluta severa."
+      },
+      {
+        "text": "b) Ferritina > 100 ng/mL y una Saturación de Transferrina (IST) > 20%.",
+        "isCorrect": true,
+        "explanation": "Para evitar la deficiencia funcional de hierro durante la estimulación con EPO, las guías exigen mantener depósitos abundantes (Ferritina >100-200 y Saturación >20%)."
+      },
+      {
+        "text": "c) Hematocrito mayor al 40%.",
+        "isCorrect": false,
+        "explanation": "Si el paciente tuviera ese hematocrito, no requeriría EPO."
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Trastornos del Sodio (SIADH)",
+    "text": "En el SIADH verdadero, la hiponatremia es 'dilucional'. ¿Qué hallazgo de laboratorio apoya este diagnóstico diferenciándolo de la hipovolemia por falta de sal?",
+    "hint": "Busca marcadores en sangre que estarían 'aguados' o excesivamente bajos.",
+    "options": [
+      {
+        "text": "a) Niveles de Ácido Úrico y Nitrógeno Ureico (BUN) en sangre anormalmente BAJOS.",
+        "isCorrect": true,
+        "explanation": "La expansión leve de volumen en el SIADH aumenta el aclaramiento de urea y ácido úrico, provocando hipouricemia (< 4 mg/dL), lo que ayuda a confirmar que el paciente está euvolémico y no deshidratado."
+      },
+      {
+        "text": "b) Creatinina y Urea desproporcionadamente elevadas.",
+        "isCorrect": false,
+        "explanation": "Sugeriría deshidratación (azoemia prerrenal)."
+      },
+      {
+        "text": "c) Hematocrito de 55% (Hemoconcentración).",
+        "isCorrect": false,
+        "explanation": "Indica falta de agua libre, lo opuesto al SIADH."
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "CAD (Resolución)",
+    "text": "¿Cuál es el criterio bioquímico fundamental que confirma que la Cetoacidosis Diabética se ha resuelto y se puede apagar la insulina intravenosa?",
+    "hint": "No basta con que baje el azúcar; hay que limpiar los ácidos de la sangre.",
+    "options": [
+      {
+        "text": "a) Glicemia inferior a 100 mg/dL.",
+        "isCorrect": false,
+        "explanation": "La glicemia normaliza mucho antes que la acidosis; bajarla tanto puede causar hipoglucemia yatrogénica."
+      },
+      {
+        "text": "b) Un Anión Gap normalizado (< 12 mEq/L) junto con un pH venoso > 7.30.",
+        "isCorrect": true,
+        "explanation": "La normalización del Anión Gap indica que la producción de cuerpos cetónicos ha cesado. Es el criterio de oro para pasar de insulina EV a subcutánea."
+      },
+      {
+        "text": "c) Desaparición de la glucosa en orina.",
+        "isCorrect": false,
+        "explanation": "No es un parámetro fiable de resolución metabólica."
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Nódulo Tiroideo (Malignidad)",
+    "text": "¿Qué característica ecográfica describe un nódulo tiroideo de 'Alta Sospecha' de malignidad?",
+    "hint": "Busca un nódulo que sea oscuro, que crezca hacia arriba e invada su entorno.",
+    "options": [
+      {
+        "text": "a) Nódulo puramente quístico (anecoico).",
+        "isCorrect": false,
+        "explanation": "Prácticamente siempre benigno."
+      },
+      {
+        "text": "b) Nódulo sólido hiperecogénico.",
+        "isCorrect": false,
+        "explanation": "Menor riesgo de malignidad que los hipoecogénicos."
+      },
+      {
+        "text": "c) Nódulo sólido hipoecoico, de márgenes irregulares, con microcalcificaciones y 'más alto que ancho'.",
+        "isCorrect": true,
+        "explanation": "Estas características (incluidas en el TI-RADS) son típicas del cáncer papilar de tiroides y obligan a realizar una PAAF."
+      },
+      {
+        "text": "d) Nódulo espongiforme.",
+        "isCorrect": false,
+        "explanation": "Hallazgo de muy bajo riesgo de cáncer."
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Insuficiencia Suprarrenal (Electrolitos)",
+    "text": "En la Enfermedad de Addison (Crisis Suprarrenal), ¿cuál es el patrón hidroelectrolítico clásico por falta de Aldosterona?",
+    "hint": "Sin esta hormona, el riñón bota la sal y se queda con el potasio y el ácido.",
+    "options": [
+      {
+        "text": "a) Hipernatremia e Hipopotasemia.",
+        "isCorrect": false,
+        "explanation": "Es el patrón opuesto (propio del hiperaldosteronismo)."
+      },
+      {
+        "text": "b) Hiponatremia, Hiperpotasemia y Acidosis metabólica.",
+        "isCorrect": true,
+        "explanation": "La falta de aldosterona impide la reabsorción de sodio y la excreción de potasio y hidrogeniones, generando este perfil típico."
+      },
+      {
+        "text": "c) Hiperglicemia masiva.",
+        "isCorrect": false,
+        "explanation": "En Addison suele haber hipoglucemia por falta de cortisol."
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "LLC (Binet)",
+    "text": "¿Qué hallazgo en un paciente con LLC indica que ha entrado en Estadio C de Binet y requiere inicio inmediato de tratamiento?",
+    "hint": "Ocurre cuando las células tumorales invaden tanto la médula que ya no dejan fabricar sangre sana.",
+    "options": [
+      {
+        "text": "a) Linfocitos por encima de 100.000.",
+        "isCorrect": false,
+        "explanation": "La cifra aislada de linfocitos no determina la necesidad de tratamiento."
+      },
+      {
+        "text": "b) Hemoglobina < 10 g/dL o Plaquetas < 100.000/μL por fallo medular.",
+        "isCorrect": true,
+        "explanation": "El Estadio C define la insuficiencia medular. La anemia y trombocitopenia son criterios de alta gravedad y tratamiento ineludible."
+      },
+      {
+        "text": "c) Presencia de adenopatías cervicales.",
+        "isCorrect": false,
+        "explanation": "Corresponde a estadios A o B (menos graves)."
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "ATC (Hepcidina)",
+    "text": "¿Cuál es la proteína maestra sobreproducida en la inflamación crónica que secuestra el hierro e impide que llegue a la médula ósea?",
+    "hint": "Actúa degradando la 'puerta de salida' (ferroportina) del hierro de las células.",
+    "options": [
+      {
+        "text": "a) Transferrina.",
+        "isCorrect": false,
+        "explanation": "Es la proteína de transporte, no de bloqueo."
+      },
+      {
+        "text": "b) Hepcidina.",
+        "isCorrect": true,
+        "explanation": "Es el regulador central del metabolismo del hierro. Sube en la inflamación crónica, bloqueando el hierro en los depósitos y causando anemia de trastorno crónico."
+      },
+      {
+        "text": "c) Haptoglobina.",
+        "isCorrect": false,
+        "explanation": "Se une a la hemoglobina libre en hemólisis."
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "PTT (ADAMTS-13)",
+    "text": "¿Cuál es la deficiencia enzimática específica causante de la Púrpura Trombocitopénica Trombótica (PTT)?",
+    "hint": "Es la 'tijera' encargada de cortar los hilos gigantes de Factor von Willebrand.",
+    "options": [
+      {
+        "text": "a) Carencia de Factor von Willebrand.",
+        "isCorrect": false,
+        "explanation": "Daría una enfermedad hemorrágica, no trombótica."
+      },
+      {
+        "text": "b) Déficit de la metaloproteasa ADAMTS-13.",
+        "isCorrect": true,
+        "explanation": "Sin esta enzima, se forman multímeros gigantes de vWF que atrapan plaquetas y rompen glóbulos rojos (esquistocitos), causando microtrombosis diseminada."
+      },
+      {
+        "text": "c) Defecto del gen PIG-A.",
+        "isCorrect": false,
+        "explanation": "Causa la Hemoglobinuria Paroxística Nocturna (HPN)."
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Espondiloartritis (Síndrome SAPHO)",
+    "text": "¿Qué componentes forman el acrónimo del síndrome SAPHO, que afecta la pared torácica anterior y la piel?",
+    "hint": "Engloba piel (acné, pus) y hueso (inflamación, crecimiento).",
+    "options": [
+      {
+        "text": "a) Sinovitis, Acné, Pustulosis, Hiperostosis y Osteítis.",
+        "isCorrect": true,
+        "explanation": "Es la definición exacta del síndrome. Se caracteriza por la afectación esternoclavicular y manifestaciones cutáneas supurativas."
+      },
+      {
+        "text": "b) Síndrome de Esclerodermia y Raynaud.",
+        "isCorrect": false,
+        "explanation": "Corresponde a la esclerosis sistémica limitada."
+      },
+      {
+        "text": "c) Sarcoidosis y Eritema nodoso.",
+        "isCorrect": false,
+        "explanation": "Forma parte del síndrome de Löfgren."
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "LES (Hidroxicloroquina)",
+    "text": "¿Qué fármaco inmunomodulador es la terapia de fondo universal que aumenta la supervivencia y debe darse a todos los pacientes lúpicos?",
+    "hint": "Es un antipalúdico que protege órganos y previene brotes.",
+    "options": [
+      {
+        "text": "a) Ciclofosfamida.",
+        "isCorrect": false,
+        "explanation": "Citotóxico potente para brotes graves, no es de uso universal crónico."
+      },
+      {
+        "text": "b) Belimumab.",
+        "isCorrect": false,
+        "explanation": "Biológico para casos específicos, no el fármaco ancla de todos los pacientes."
+      },
+      {
+        "text": "c) Hidroxicloroquina.",
+        "isCorrect": true,
+        "explanation": "Es el fármaco fundamental en el LES. Reduce mortalidad, previene brotes, es seguro en embarazo y disminuye el riesgo cardiovascular."
+      },
+      {
+        "text": "d) Prednisona.",
+        "isCorrect": false,
+        "explanation": "Se usa para crisis, pero su uso crónico debe minimizarse por sus múltiples efectos secundarios."
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Esclerosis Sistémica Limitada (Capilaroscopia)",
+    "text": "Ante un Fenómeno de Raynaud, ¿qué prueba indolora en el consultorio confirma el daño capilar estructural precoz sugerente de Esclerosis Sistémica?",
+    "hint": "Se miran los capilares de la base de la uña con un microscopio simple.",
+    "options": [
+      {
+        "text": "a) Biopsia de pleura.",
+        "isCorrect": false,
+        "explanation": "Prueba invasiva innecesaria para el diagnóstico cutáneo/vascular inicial."
+      },
+      {
+        "text": "b) Capilaroscopia del lecho ungueal.",
+        "isCorrect": true,
+        "explanation": "Permite ver megacapilares y áreas avasculares, diferenciando un Raynaud benigno de uno secundario a esclerodermia mucho antes de que aparezcan síntomas internos."
+      },
+      {
+        "text": "c) Manometría esofágica.",
+        "isCorrect": false,
+        "explanation": "Detecta dismotilidad pero no es la prueba más precoz de daño microvascular capilar."
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Sepsis y Shock Séptico (Origen Clínico)",
+    "text": "¿Cuál es el aparato orgánico responsable de más del 50% de todos los casos de sepsis y shock séptico en el mundo occidental?",
+    "hint": "Es la puerta de entrada más común debido a la gran superficie expuesta al ambiente.",
+    "options": [
+      {
+        "text": "a) Tracto Digestivo biliar.",
+        "isCorrect": false,
+        "explanation": "Foco importante pero menos frecuente que el respiratorio."
+      },
+      {
+        "text": "b) Vías Urinarias.",
+        "isCorrect": false,
+        "explanation": "Es el segundo foco más frecuente."
+      },
+      {
+        "text": "c) Tracto y Sistema Respiratorio (Neumonías).",
+        "isCorrect": true,
+        "explanation": "Las neumonías son, por mucho, la causa número uno de sepsis a nivel mundial debido a la alta prevalencia de infecciones pulmonares en pacientes frágiles."
+      },
+      {
+        "text": "d) Espacio Intracraneal.",
+        "isCorrect": false,
+        "explanation": "Las meningitis son graves pero epidemiológicamente poco frecuentes como origen de sepsis general."
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Hantavirus (Volemia)",
+    "text": "¿Por qué se debe ser sumamente conservador y restringido con los líquidos intravenosos en un paciente con Hantavirus?",
+    "hint": "Los capilares del pulmón están dañados y dejan pasar todo hacia afuera como un colador.",
+    "options": [
+      {
+        "text": "a) Porque causa falla renal poliúrica.",
+        "isCorrect": false,
+        "explanation": "No es el mecanismo fisiopatológico principal de mortalidad."
+      },
+      {
+        "text": "b) Porque la permeabilidad capilar está aumentada; el exceso de volumen fugará al alvéolo ahogando al paciente en edema pulmonar.",
+        "isCorrect": true,
+        "explanation": "La patogenia del Hanta es la 'fuga endotelial masiva'. Inundar al paciente con sueros agrava catastróficamente el distrés respiratorio; se prefiere el uso de vasopresores."
+      },
+      {
+        "text": "c) Porque produce SIADH.",
+        "isCorrect": false,
+        "explanation": "Aunque puede ocurrir, la restricción hídrica en Hanta es por seguridad pulmonar hemodinámica."
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Pruebas Funcionales (Volúmenes)",
+    "text": "¿Cuál de estos volúmenes pulmonares NO se puede medir mediante una espirometría simple?",
+    "hint": "Es el aire 'atrapado' que impide que el pulmón colapse totalmente al final de la exhalación.",
+    "options": [
+      {
+        "text": "a) Volumen Corriente.",
+        "isCorrect": false,
+        "explanation": "Se mide fácilmente respirando normal en la boquilla."
+      },
+      {
+        "text": "b) Capacidad Vital Forzada.",
+        "isCorrect": false,
+        "explanation": "Es el parámetro principal que mide la espirometría al soplar fuerte."
+      },
+      {
+        "text": "c) Volumen Residual (y Capacidad Pulmonar Total).",
+        "isCorrect": true,
+        "explanation": "El volumen residual no puede ser exhalado, por lo que el espirómetro no lo detecta. Requiere pletismografía o dilución de gases para su medición."
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Hepatitis C (Extrahepático)",
+    "text": "¿Cuál es la manifestación extra-hepática sistémica más característica y asociada a la Hepatitis C?",
+    "hint": "Provoca vasculitis en la piel cuando hace frío.",
+    "options": [
+      {
+        "text": "a) Pénfigo Vulgar.",
+        "isCorrect": false,
+        "explanation": "Patología ampollosa no ligada específicamente al VHC."
+      },
+      {
+        "text": "b) Granulomatosis de Wegener.",
+        "isCorrect": false,
+        "explanation": "Es una vasculitis ANCA positiva autoinmune primaria."
+      },
+      {
+        "text": "c) Crioglobulinemia Mixta sistémica.",
+        "isCorrect": true,
+        "explanation": "El VHC induce la formación de crioglobulinas que se precipitan con el frío, causando vasculitis, daño renal y neuropatía. Es la asociación extrahepática de oro."
+      },
+      {
+        "text": "d) Síndrome de Goodpasture.",
+        "isCorrect": false,
+        "explanation": "Mediada por anticuerpos anti-MBG, sin relación con el virus C."
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Gota (Fisiopatología)",
+    "text": "¿Qué desencadena habitualmente un ataque agudo de gota articular (podagra)?",
+    "hint": "No es tener el ácido úrico siempre alto, sino los cambios bruscos en su nivel.",
+    "options": [
+      {
+        "text": "a) Niveles de ácido úrico estables durante años.",
+        "isCorrect": false,
+        "explanation": "Muchos pacientes con hiperuricemia crónica nunca desarrollan gota."
+      },
+      {
+        "text": "b) Variaciones bruscas (subidas o bajadas) de los niveles de ácido úrico soluble en sangre.",
+        "isCorrect": true,
+        "explanation": "Los cambios bruscos (por alcohol, dietas o iniciar fármacos como Alopurinol durante el brote) desestabilizan los cristales en el cartílago y gatillan la inflamación aguda."
+      },
+      {
+        "text": "c) Formación de anticuerpos C-ANCA.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con la patogenia de la gota."
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Endocarditis (Válvula Protésica)",
+    "text": "¿Cuál es el agente bacteriano número 1 responsable de endocarditis en válvulas protésicas y marcapasos debido a su capacidad de formar Biofilms?",
+    "hint": "Es un bicho de la propia piel que se pega al plástico.",
+    "options": [
+      {
+        "text": "a) Streptococcus pneumoniae.",
+        "isCorrect": false,
+        "explanation": "Causa neumonía, pero rara vez infecta prótesis valvulares."
+      },
+      {
+        "text": "b) Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "Causa endocarditis agudas muy agresivas, pero en prótesis el líder es otro del mismo grupo."
+      },
+      {
+        "text": "c) Staphylococcus epidermidis (Coagulasa Negativo).",
+        "isCorrect": true,
+        "explanation": "Es el colonizador principal de dispositivos médicos artificiales. Crea un 'biofilm' protector que lo hace resistente a los antibióticos y al sistema inmune."
+      },
+      {
+        "text": "d) Clostridium difficile.",
+        "isCorrect": false,
+        "explanation": "Causa colitis pseudomembranosa, no endocarditis."
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Caplan (AR + Silicosis)",
+    "text": "¿Cómo se denomina el síndrome donde un paciente con Artritis Reumatoide expuesto a polvo de carbón o sílice desarrolla grandes nódulos pulmonares necrobióticos?",
+    "hint": "Combina la AR con la enfermedad laboral de los mineros.",
+    "options": [
+      {
+        "text": "a) Síndrome de Löfgren.",
+        "isCorrect": false,
+        "explanation": "Es una forma aguda de sarcoidosis."
+      },
+      {
+        "text": "b) Síndrome de Caplan.",
+        "isCorrect": true,
+        "explanation": "Es la asociación de AR y neumoconiosis. El pulmón reacciona violentamente al polvo inorgánico formando nódulos gigantes destructivos."
+      },
+      {
+        "text": "c) Síndrome de Evans.",
+        "isCorrect": false,
+        "explanation": "Asociación de anemia hemolítica y trombocitopenia autoinmune."
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Hipercalcemia Tumoral",
+    "text": "¿Cuál es el péptido humoral secretado ectópicamente por tumores sólidos (ej. pulmón) que causa hipercalcemia maligna al imitar a la parathormona?",
+    "hint": "Se abrevia como PTH-rP.",
+    "options": [
+      {
+        "text": "a) Calcitonina.",
+        "isCorrect": false,
+        "explanation": "Fármaco que baja el calcio, no que lo sube en cuadros malignos."
+      },
+      {
+        "text": "b) Péptido Relacionado con la Hormona Paratiroidea (PTH-rP).",
+        "isCorrect": true,
+        "explanation": "Los tumores lo secretan para engañar al hueso, ordenando una reabsorción ósea masiva que libera niveles letales de calcio a la sangre."
+      },
+      {
+        "text": "c) Tripsinógeno.",
+        "isCorrect": false,
+        "explanation": "Enzima pancreática sin relación con el metabolismo del calcio."
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Aspergilosis (Aspergiloma)",
+    "text": "Paciente ex fumador presenta hemoptisis esporádica. En el TAC se observa una bola redonda densa dentro de una antigua caverna tuberculosa apical. Diagnóstico:",
+    "hint": "Es un 'nido' de hongo saprófito que crece en un agujero previo del pulmón.",
+    "options": [
+      {
+        "text": "a) Aspergilosis Invasiva.",
+        "isCorrect": false,
+        "explanation": "Cuadro grave de pacientes neutropénicos donde el hongo invade vasos sanguíneos."
+      },
+      {
+        "text": "b) Aspergiloma (bola fúngica).",
+        "isCorrect": true,
+        "explanation": "El hongo coloniza una cavidad previa (TBC curada) formando una masa de hifas. El roce de la 'bola' con los vasos de la pared causa la hemoptisis."
+      },
+      {
+        "text": "c) Tuberculosis miliar.",
+        "isCorrect": false,
+        "explanation": "Daría un patrón de granos de mijo difusos, no una bola única en una caverna."
+      }
+    ]
+  }
+]
