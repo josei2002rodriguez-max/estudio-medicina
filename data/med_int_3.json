@@ -1,0 +1,2103 @@
+[
+  {
+    "id": 241,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Síndrome Coronario Agudo (Infarto de Ventrículo Derecho)",
+    "text": "Un paciente de 60 años es ingresado en la unidad coronaria con diagnóstico de Infarto Agudo de Miocardio con elevación del ST (SCACEST) de cara inferior (supradesnivel en II, III y aVF). Evoluciona rápidamente con severa hipotensión (PA 80/50 mmHg), distensión yugular marcada, pero a la auscultación pulmonar no se perciben crepitaciones (pulmones limpios). Se le realiza un ECG con derivaciones derechas que muestra supradesnivel en V4R. Ante este cuadro clínico de extensión del infarto al ventrículo derecho, ¿cuál es el pilar terapéutico inicial para restablecer la hemodinamia, considerando que esta cavidad depende críticamente de la precarga?",
+    "hint": "Al fallar la bomba derecha sin congestión pulmonar, la clave es aumentar la presión de llenado (precarga) mediante fluidos para vencer la resistencia.",
+    "options": [
+      {
+        "text": "a) Administrar Nitroglicerina en infusión continua para vasodilatar las coronarias.",
+        "isCorrect": false,
+        "explanation": "Los nitratos son venodilatadores, reducen la precarga y causarían un colapso cardiovascular inmediato."
+      },
+      {
+        "text": "b) Expansión agresiva de volumen con fluidos intravenosos (cristaloides) para aumentar el retorno venoso.",
+        "isCorrect": true,
+        "explanation": "El infarto de ventrículo derecho genera un fallo de bomba que no logra enviar sangre al ventrículo izquierdo. El tratamiento vital es 'llenar' el ventrículo derecho administrando mucho volumen para forzar por ley de Frank-Starling su contracción."
+      },
+      {
+        "text": "c) Administrar Furosemida en bolo para reducir la presión yugular.",
+        "isCorrect": false,
+        "explanation": "Los diuréticos reducen la precarga y están formalmente contraindicados en el infarto de ventrículo derecho."
+      },
+      {
+        "text": "d) Iniciar terapia con Betabloqueadores endovenosos.",
+        "isCorrect": false,
+        "explanation": "Reducirían la frecuencia cardíaca y la inotropía, empeorando el shock cardiogénico."
+      },
+      {
+        "text": "e) Administrar Morfina en altas dosis para el dolor.",
+        "isCorrect": false,
+        "explanation": "La morfina tiene un efecto venodilatador secundario, disminuyendo el retorno venoso y empeorando la hipotensión."
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Taquicardias Ventriculares (Diagnóstico Electrocardiográfico)",
+    "text": "Ingresa a la urgencia un varón de 65 años con antecedente de un infarto antiguo. Refiere palpitaciones y mareo leve. El monitor muestra una taquicardia rítmica de complejos QRS anchos (>140 ms) a 160 latidos por minuto. El médico de turno duda si se trata de una Taquicardia Ventricular (TV) o de una Taquicardia Supraventricular conducida con aberrancia (Bloqueo de rama previo). ¿Qué hallazgo electrocardiográfico, si está presente, es el signo más específico y patognomónico que confirma con absoluta certeza que el origen de la arritmia es Ventricular (TV)?",
+    "hint": "Demuestra que las aurículas y los ventrículos laten a ritmos completamente distintos e independientes.",
+    "options": [
+      {
+        "text": "a) Frecuencia cardíaca exactamente a 150 lpm.",
+        "isCorrect": false,
+        "explanation": "Es sugerente de Flúter Auricular con conducción 2:1, no de Taquicardia Ventricular."
+      },
+      {
+        "text": "b) Presencia de disociación auriculoventricular (ondas P latiendo independientes y a menor frecuencia que los QRS) y latidos de captura o fusión.",
+        "isCorrect": true,
+        "explanation": "La 'disociación AV' demuestra que los ventrículos disparan por su cuenta, mientras que el nodo sinusal envía ondas P a su ritmo normal, otorgando un 100% de especificidad para TV."
+      },
+      {
+        "text": "c) Morfología de Bloqueo de Rama Derecha (rsR' en V1).",
+        "isCorrect": false,
+        "explanation": "Puede verse tanto en TV como en taquicardias supraventriculares con aberrancia."
+      },
+      {
+        "text": "d) Eje eléctrico desviado a la derecha.",
+        "isCorrect": false,
+        "explanation": "No es un criterio absoluto de Taquicardia Ventricular."
+      },
+      {
+        "text": "e) Descenso del segmento ST durante la taquicardia.",
+        "isCorrect": false,
+        "explanation": "Suele ser un cambio repolarizativo secundario a la taquicardia, no diagnóstico de su origen."
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Valvulopatía Aórtica (Etiología)",
+    "text": "Usted evalúa a un paciente de 45 años de edad, previamente sano, que ha comenzado a presentar síncopes de esfuerzo. En la ecocardiografía se evidencia una estenosis aórtica severa con un área valvular < 1.0 cm2 y calcificación de los velos. Teniendo en cuenta la edad inusualmente temprana de presentación para esta patología degenerativa, ¿cuál es la anomalía anatómica congénita subyacente más frecuentemente asociada a este rápido deterioro valvular?",
+    "hint": "El defecto de nacimiento hace que la válvula tenga solo dos hojas en lugar de tres, sometiéndola a un intenso estrés mecánico.",
+    "options": [
+      {
+        "text": "a) Persistencia del conducto arterioso.",
+        "isCorrect": false,
+        "explanation": "Produce un soplo continuo y sobrecarga de volumen, no estenosis aórtica."
+      },
+      {
+        "text": "b) Válvula aórtica bicúspide.",
+        "isCorrect": true,
+        "explanation": "Cuando un paciente desarrolla estenosis aórtica calcificada sintomática en edades medias (40-50 años), la causa más probable es una válvula aórtica bicúspide congénita, cuyo estrés acelera la calcificación."
+      },
+      {
+        "text": "c) Comunicación interventricular.",
+        "isCorrect": false,
+        "explanation": "Es un cortocircuito izquierda-derecha que no produce estenosis de la válvula aórtica."
+      },
+      {
+        "text": "d) Coartación de la aorta.",
+        "isCorrect": false,
+        "explanation": "Aunque se asocia a válvula bicúspide, la coartación per se es una estenosis del istmo aórtico, no de la válvula."
+      },
+      {
+        "text": "e) Prolapso de la válvula mitral mixomatoso.",
+        "isCorrect": false,
+        "explanation": "Produce insuficiencia mitral, no estenosis aórtica."
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "EPOC (Microbiología en la Exacerbación)",
+    "text": "Un hombre de 70 años con EPOC grave (GOLD 3) acude al servicio de urgencias por una exacerbación infecciosa (aumento de disnea, volumen y franca purulencia del esputo). De acuerdo con las guías clínicas de neumología y los patrones epidemiológicos, ¿cuáles son las tres bacterias (patógenos típicos) que colonizan crónicamente la vía aérea de estos pacientes y que causan la inmensa mayoría de las exacerbaciones purulentas de la EPOC de manejo ambulatorio o en sala?",
+    "hint": "Busca el trío compuesto por un bacilo Gram negativo exigente, el neumococo y un diplococo Gram negativo antes llamado Branhamella.",
+    "options": [
+      {
+        "text": "a) Staphylococcus aureus, Pseudomonas aeruginosa y Acinetobacter baumannii.",
+        "isCorrect": false,
+        "explanation": "Se sospechan en bronquiectasias severas, ventilación mecánica o UCI, no como colonizadores típicos de manejo general."
+      },
+      {
+        "text": "b) Haemophilus influenzae, Streptococcus pneumoniae y Moraxella catarrhalis.",
+        "isCorrect": true,
+        "explanation": "Este es el trío bacteriano responsable de más del 70% de las reagudizaciones típicas de EPOC. H. influenzae es el más frecuente."
+      },
+      {
+        "text": "c) Legionella pneumophila, Mycoplasma pneumoniae y Chlamydia pneumoniae.",
+        "isCorrect": false,
+        "explanation": "Son patógenos atípicos que causan neumonía, no colonizadores clásicos causantes de exacerbación bronquial pura en EPOC."
+      },
+      {
+        "text": "d) Mycobacterium tuberculosis, Nocardia asteroides y Pneumocystis jirovecii.",
+        "isCorrect": false,
+        "explanation": "Son oportunistas o causantes de TBC, no responsables de la exacerbación purulenta de rutina en EPOC."
+      },
+      {
+        "text": "e) Klebsiella pneumoniae, Enterobacter cloacae y Serratia marcescens.",
+        "isCorrect": false,
+        "explanation": "Son enterobacterias más ligadas a neumonía intrahospitalaria o pacientes muy inmunosuprimidos."
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Tromboembolismo Pulmonar (Manejo en el Embarazo)",
+    "text": "Una mujer de 28 años, cursando la semana 24 de su primer embarazo, ingresa por dolor torácico pleurítico y disnea aguda. La Angio-TC de tórax pulmonar adaptada confirma la presencia de un Tromboembolismo Pulmonar (TEP) segmentario. Teniendo en cuenta la teratogenicidad y farmacocinética de los anticoagulantes en la barrera placentaria, ¿cuál es el tratamiento anticoagulante de elección y más seguro durante todo el curso del embarazo?",
+    "hint": "Su gran tamaño molecular y carga evitan que cruce hacia el feto.",
+    "options": [
+      {
+        "text": "a) Acenocumarol (Sintrom) o Warfarina vía oral.",
+        "isCorrect": false,
+        "explanation": "Cruzan la placenta y son severamente teratogénicos, causando embriopatía (condrodisplasia punctata)."
+      },
+      {
+        "text": "b) Rivaroxabán o Apixabán (DOACs) vía oral.",
+        "isCorrect": false,
+        "explanation": "Atraviesan la placenta y tienen toxicidad fetal; están contraindicados en el embarazo."
+      },
+      {
+        "text": "c) Heparina de Bajo Peso Molecular (HBPM, ej. Enoxaparina) subcutánea a dosis terapéuticas.",
+        "isCorrect": true,
+        "explanation": "Es el estándar de oro en el embarazo. Al ser una molécula grande y cargada negativamente, no atraviesa la barrera placentaria, anulando el riesgo teratogénico y hemorrágico fetal."
+      },
+      {
+        "text": "d) Trombólisis sistémica con Alteplasa (rtPA) inmediata.",
+        "isCorrect": false,
+        "explanation": "Conlleva un altísimo riesgo de sangrado placentario y aborto; se reserva para shock in extremis."
+      },
+      {
+        "text": "e) Antiagregación exclusiva con Ácido Acetilsalicílico a dosis altas.",
+        "isCorrect": false,
+        "explanation": "La aspirina no trata el tromboembolismo venoso agudo y a altas dosis puede afectar el cierre del ductus fetal."
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Neumonía Adquirida en la Comunidad (Complicaciones - Absceso)",
+    "text": "Paciente varón de 55 años, con antecedentes de alcoholismo crónico severo y mala dentadura (periodontitis), es ingresado por un cuadro subagudo de fiebre vespertina, sudoración y tos con expectoración muy abundante y fétida (pútrida). La radiografía de tórax revela una gran cavidad con un 'nivel hidroaéreo' en el segmento posterior del lóbulo superior derecho. ¿Cuál es el diagnóstico más probable y la flora microbiológica clásica implicada?",
+    "hint": "Los problemas dentales y las microaspiraciones en alcohólicos favorecen la entrada de bacterias que viven sin oxígeno en las encías.",
+    "options": [
+      {
+        "text": "a) Caverna por Tuberculosis pulmonar activa; Mycobacterium tuberculosis.",
+        "isCorrect": false,
+        "explanation": "La TBC cavita, pero la clínica de expectoración fétida pútrida y nivel hidroaéreo con antecedente de periodontitis señala otra causa."
+      },
+      {
+        "text": "b) Quiste hidatídico roto; Echinococcus granulosus.",
+        "isCorrect": false,
+        "explanation": "Daría el signo del camalote en la radiografía y vómica salada, no fétida pútrida."
+      },
+      {
+        "text": "c) Absceso pulmonar primario por aspiración; Flora mixta con predominio de bacterias Anaerobias orales.",
+        "isCorrect": true,
+        "explanation": "Las microaspiraciones en pacientes alcohólicos con mala dentición introducen anaerobios (Bacteroides, Peptostreptococcus) que necrosan el tejido, formando un absceso con nivel hidroaéreo y esputo fétido patognomónico."
+      },
+      {
+        "text": "d) Aspergiloma; Aspergillus fumigatus.",
+        "isCorrect": false,
+        "explanation": "Es una bola fúngica colonizando una cavidad previa (ej. secuela de TBC), no una infección necrotizante aguda purulenta."
+      },
+      {
+        "text": "e) Neumonía lobar típica; Streptococcus pneumoniae puro.",
+        "isCorrect": false,
+        "explanation": "El neumococo clásicamente no necrosa el tejido ni forma cavidades/abscesos fétidos."
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Cirrosis Hepática (Cribado de Hepatocarcinoma)",
+    "text": "En la historia natural de un paciente con Cirrosis Hepática, independientemente de su etiología (viral, alcohólica, NASH), la distorsión de la arquitectura y la regeneración celular constante lo exponen a un altísimo riesgo de desarrollar un Carcinoma Hepatocelular (CHC). Para lograr un diagnóstico en fase curativa, las guías internacionales (EASL/AASLD) dictan un programa de vigilancia obligatoria. ¿Cuál es el método de screening (cribado) de elección y su periodicidad correcta en todo paciente cirrótico?",
+    "hint": "Se elige una prueba de imagen que sea económica, no emita radiación y sea altamente repetible.",
+    "options": [
+      {
+        "text": "a) Tomografía Computarizada (TAC) trifásica de hígado anualmente.",
+        "isCorrect": false,
+        "explanation": "Expondría al paciente a mucha radiación y contraste nefrotóxico si se usa rutinariamente para screening."
+      },
+      {
+        "text": "b) Resonancia Magnética Hepática cada 2 años.",
+        "isCorrect": false,
+        "explanation": "Es muy costosa y poco disponible para cribado poblacional universal."
+      },
+      {
+        "text": "c) Ecografía abdominal cada 6 meses (asociada o no a la medición de Alfa-fetoproteína sérica).",
+        "isCorrect": true,
+        "explanation": "La Ecografía cada 6 meses es no invasiva, coste-efectiva y extremadamente sensible para detectar nódulos nuevos. Si detecta uno >1 cm, se pasa a TAC o RM."
+      },
+      {
+        "text": "d) Biopsia hepática percutánea anual.",
+        "isCorrect": false,
+        "explanation": "Es un procedimiento invasivo con riesgo de sangrado, inadmisible como método de despistaje."
+      },
+      {
+        "text": "e) Endoscopia digestiva alta cada 6 meses.",
+        "isCorrect": false,
+        "explanation": "Sirve para el screening de várices esofágicas, no para detectar nódulos en el parénquima hepático."
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad Inflamatoria Intestinal (Marcadores Fecales)",
+    "text": "Un paciente de 28 años consulta en atención primaria por dolor abdominal difuso intermitente y alteraciones del ritmo intestinal de meses de evolución. Usted duda entre un diagnóstico de Síndrome de Intestino Irritable (trastorno funcional sin inflamación) y el inicio de una Enfermedad Inflamatoria Intestinal (Crohn o Colitis Ulcerosa, patologías con severa inflamación mucosa). Antes de someter al paciente a una colonoscopia invasiva, ¿qué biomarcador no invasivo medido en heces es el más sensible y específico para detectar la inflamación activa de la mucosa intestinal impulsada por neutrófilos, orientando firmemente a la necesidad de endoscopia?",
+    "hint": "Esta proteína indica la presencia de glóbulos blancos (neutrófilos) luchando activamente en la pared del intestino.",
+    "options": [
+      {
+        "text": "a) Sangre oculta en heces (Test de Guayaco).",
+        "isCorrect": false,
+        "explanation": "Puede ser positivo en pólipos o hemorroides, y negativo en un Crohn no sangrante pero activo. No es específico para inflamación neutrofílica."
+      },
+      {
+        "text": "b) Calprotectina fecal.",
+        "isCorrect": true,
+        "explanation": "La calprotectina es una proteína del citosol de los neutrófilos. Su elevación en heces detecta inflamación mucosa con inmensa precisión, separando los cuadros funcionales (donde es normal) de los inflamatorios orgánicos."
+      },
+      {
+        "text": "c) Elastasa-1 fecal.",
+        "isCorrect": false,
+        "explanation": "Evalúa la función exocrina del páncreas, no la inflamación de la pared intestinal."
+      },
+      {
+        "text": "d) Coprocultivo estándar.",
+        "isCorrect": false,
+        "explanation": "Solo descarta infecciones bacterianas agudas, pero no detecta el proceso inflamatorio autoinmune crónico."
+      },
+      {
+        "text": "e) Coproparasitológico seriado.",
+        "isCorrect": false,
+        "explanation": "Busca huevos y quistes de parásitos, no es marcador de inflamación por EII."
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad Ulcerosa Péptica (Hemorragia por Forrest)",
+    "text": "En el contexto de un paciente que ingresa por melena y hematemesis, se realiza una Endoscopía Digestiva Alta de urgencia evidenciando una úlcera gástrica. El gastroenterólogo la clasifica según la escala de Forrest para determinar el riesgo de resangrado. De las siguientes descripciones de hallazgos endoscópicos, ¿cuál de ellas corresponde a la clasificación de MÁXIMO RIESGO de resangrado (casi el 90%), exigiendo terapia hemostática endoscópica inmediata y catalogándose como un 'Forrest Ia'?",
+    "hint": "El sangrado es tan activo y presurizado que sale impulsado de la arteria.",
+    "options": [
+      {
+        "text": "a) Úlcera con fondo limpio recubierto de fibrina blanca.",
+        "isCorrect": false,
+        "explanation": "Es un Forrest III, con el riesgo de resangrado más bajo (casi nulo)."
+      },
+      {
+        "text": "b) Úlcera con un vaso visible no sangrante en su lecho.",
+        "isCorrect": false,
+        "explanation": "Es un Forrest IIa. Tiene alto riesgo de sangrar, pero no es la lesión activa más letal."
+      },
+      {
+        "text": "c) Úlcera con hemorragia arterial activa pulsátil ('en chorro' o 'jet').",
+        "isCorrect": true,
+        "explanation": "El Forrest Ia indica una arteria abierta sangrando a chorro. Representa el máximo riesgo vital y exige terapia endoscópica y hemostasia inmediata."
+      },
+      {
+        "text": "d) Úlcera cubierta por un coágulo rojo adherido.",
+        "isCorrect": false,
+        "explanation": "Es un Forrest IIb. Se lava para ver si sangra, pero de base el riesgo es menor que el de un vaso a chorro."
+      },
+      {
+        "text": "e) Úlcera con manchas hemáticas oscuras ('hematina') planas en el fondo.",
+        "isCorrect": false,
+        "explanation": "Es un Forrest IIc, indicando sangrado antiguo, con un riesgo muy bajo."
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Nefritis Intersticial Aguda (NIA)",
+    "text": "Una mujer de 45 años, previamente sana, recibe tratamiento con Omeprazol (un Inhibidor de la Bomba de Protones - IBP) de forma mantenida por dispepsia. Unos meses después, en un control analítico rutinario, se observa una creatinina de 2.2 mg/dL. El examen de orina muestra leucocituria estéril (sin bacterias en cultivo) y leve proteinuria (0.8 g/24h). No ha presentado fiebre, ni exantema cutáneo, pero la biopsia renal confirma infiltrado de linfocitos y eosinófilos en el intersticio con respeto total de los glomérulos. ¿Qué afirmación es cierta respecto a la Nefritis Intersticial Aguda (NIA) inducida de forma crónica por fármacos como los IBP?",
+    "hint": "Esta reacción alérgica en el riñón no siempre da los síntomas explosivos clásicos de la piel o fiebre.",
+    "options": [
+      {
+        "text": "a) Se presenta casi siempre con la tríada clásica de hipersensibilidad florida (fiebre, rash, eosinofilia masiva en sangre).",
+        "isCorrect": false,
+        "explanation": "Esta presentación florida es cada vez más rara (la tríada clásica aparece en menos del 10% de los casos), especialmente con los IBP."
+      },
+      {
+        "text": "b) Es un daño tóxico dependiente directamente de la dosis total acumulada del fármaco; a más mg tomados, más destrucción.",
+        "isCorrect": false,
+        "explanation": "No es dosis-dependiente; es una reacción de hipersensibilidad idiosincrásica tipo B."
+      },
+      {
+        "text": "c) Es una reacción idiosincrásica inmunomediada (alérgica) que a menudo es silente o subaguda, cursando sin fiebre ni rash, detectándose solo por el alza insidiosa de la creatinina.",
+        "isCorrect": true,
+        "explanation": "Los IBP y AINEs son causantes modernos de una 'epidemia silente' de NIA, induciendo inmunidad celular retardada en el riñón sin síntomas sistémicos evidentes de alergia, descubriéndose por el alza de creatinina y leucocituria."
+      },
+      {
+        "text": "d) Su sedimento urinario típico es el hallazgo de cilindros hemáticos y eritrocitos dismórficos.",
+        "isCorrect": false,
+        "explanation": "Ese es el sedimento típico del daño glomerular (Nefrítico), no del daño intersticial."
+      },
+      {
+        "text": "e) Responde habitualmente curándose al 100% solo con hemodiálisis temporal.",
+        "isCorrect": false,
+        "explanation": "El tratamiento clave es suspender el fármaco y a menudo el uso precoz de corticoides, no únicamente la diálisis."
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Trastornos del Potasio (Hiperpotasemia en el ECG)",
+    "text": "Usted pasa visita en la unidad de diálisis. Un paciente acude por saltarse dos sesiones consecutivas de hemodiálisis. Está despierto pero refiere gran pesadez muscular. Se le realiza un electrocardiograma (ECG) urgente ante la alta sospecha de intoxicación letal por Potasio (Hiperkalemia). ¿Cuál es la secuencia cronológica clásica de progresión de los hallazgos en el ECG a medida que el Potasio sérico se eleva peligrosamente desde 6.5 hasta más de 8.5 mEq/L?",
+    "hint": "Primero afecta la onda T haciéndola puntiaguda, luego aplasta a la onda P y finalmente el QRS se deforma en una onda letal.",
+    "options": [
+      {
+        "text": "a) Ondas T aplanadas -> Aparición de ondas U -> Intervalo QT prolongado.",
+        "isCorrect": false,
+        "explanation": "Esta es la progresión clásica de la Hipopotasemia (potasio bajo), no hiperpotasemia."
+      },
+      {
+        "text": "b) Elevación del segmento ST -> Inversión simétrica profunda de ondas T -> Ondas Q patológicas.",
+        "isCorrect": false,
+        "explanation": "Esta es la secuencia electrocardiográfica evolutiva de un infarto de miocardio transmural agudo."
+      },
+      {
+        "text": "c) Ondas T picudas y simétricas (en tienda de campaña) -> Aplanamiento y desaparición de las ondas P -> Ensanchamiento progresivo del QRS fundiéndose en un patrón de onda sinusal.",
+        "isCorrect": true,
+        "explanation": "Es la despolarización tóxica clásica de la hiperkalemia. Las ondas T picudas (K > 6) dan paso a la parálisis auricular (sin ondas P) y finalmente el QRS se ensancha uniéndose a la T en una línea sinusoidal antes del paro cardíaco."
+      },
+      {
+        "text": "d) Acortamiento del PR -> Presencia de ondas Delta -> Taquicardia supraventricular.",
+        "isCorrect": false,
+        "explanation": "Esos son hallazgos del síndrome de preexcitación Wolff-Parkinson-White."
+      },
+      {
+        "text": "e) Bradicardia sinusal -> Bloqueo AV de Wenckebach -> Fibrilación Auricular.",
+        "isCorrect": false,
+        "explanation": "Son trastornos de la conducción nodal y arritmias que no definen el patrón evolutivo del potasio."
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Glomerulopatías (Síndrome Nefrítico en Adultos)",
+    "text": "Hombre de 65 años acude por aparición de orina sanguinolenta y escasa, edemas en las piernas y malestar general. Al examen, PA 170/100 mmHg. Analítica: Creatinina 2.8 mg/dL (previa de 0.9), sedimento activo con hematíes dismórficos y cilindros hemáticos. El perfil inmunológico revela el complemento (C3 y C4) rigurosamente normal, ANA negativo, y positividad intensa para anticuerpos ANCA de patrón citoplasmático (c-ANCA, anti-PR3). El diagnóstico histopatológico más probable de la biopsia renal que justifica este Síndrome Nefrítico Rápidamente Progresivo es:",
+    "hint": "La clave está en la positividad para los c-ANCA y que el sistema del complemento no se ha consumido (es pauciinmune).",
+    "options": [
+      {
+        "text": "a) Glomerulonefritis proliferativa endocapilar difusa post-infecciosa.",
+        "isCorrect": false,
+        "explanation": "Cursa característicamente con niveles bajos de complemento C3, no es ANCA positiva, y es típica de niños tras faringitis."
+      },
+      {
+        "text": "b) Glomerulonefritis extracapilar pauciinmune (secundaria a Vasculitis tipo Granulomatosis con Poliangeítis).",
+        "isCorrect": true,
+        "explanation": "Un cuadro rápidamente progresivo con C3/C4 normales y ANCA positivos define a una GN con semilunas (extracapilar) pauciinmune. El c-ANCA (PR3) es específico de la vasculitis de Wegener."
+      },
+      {
+        "text": "c) Glomerulonefritis membranosa primaria.",
+        "isCorrect": false,
+        "explanation": "Generaría un Síndrome Nefrótico masivo puro, no este fallo renal explosivo con cilindros hemáticos, y es Anti-PLA2R positiva, no ANCA."
+      },
+      {
+        "text": "d) Nefropatía Lúpica clase V.",
+        "isCorrect": false,
+        "explanation": "Consumiría drásticamente el complemento, cursaría con ANA positivos fuertes, y es de patrón nefrótico."
+      },
+      {
+        "text": "e) Enfermedad de Goodpasture (anti-MBG).",
+        "isCorrect": false,
+        "explanation": "Presentaría anticuerpos anti-membrana basal glomerular específicos, no c-ANCA."
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Tratamiento de Diabetes Mellitus tipo 2 (Efectos adversos de las Sulfonilureas)",
+    "text": "En un paciente diabético tipo 2 de 75 años con deterioro leve de la función renal, su médico de cabecera inicia tratamiento con Glibenclamida (una sulfonilurea de vida media larga). Tres días después, el paciente es traído a Urgencias en estado de coma. Su glicemia capilar es de 35 mg/dL. Se instaura dextrosa intravenosa y recupera la consciencia, pero a las 4 horas vuelve a caer en coma profundo a pesar de estar comiendo. ¿Cuál es el mecanismo fisiopatológico propio de esta familia de fármacos que explica esta 'recaída hipoglucémica refractaria y prolongada'?",
+    "hint": "Obligan al páncreas a trabajar a destajo de forma química y no se eliminan fácilmente por el riñón del anciano.",
+    "options": [
+      {
+        "text": "a) Inducen resistencia a las hormonas de estrés (adrenalina y cortisol).",
+        "isCorrect": false,
+        "explanation": "Las hormonas contrarreguladoras actúan bien, pero son insuficientes ante el exceso masivo de insulina."
+      },
+      {
+        "text": "b) Bloquean la absorción gástrica de la dextrosa ingerida.",
+        "isCorrect": false,
+        "explanation": "Esa sería la acción de los inhibidores de las alfa-glucosidasas, no de las sulfonilureas."
+      },
+      {
+        "text": "c) Son potentes insulinosecretagogos que fuerzan al páncreas a liberar insulina preformada de manera constante e independiente de los niveles de glucosa en sangre, poseyendo además metabolismo y retención renal prolongada en ancianos.",
+        "isCorrect": true,
+        "explanation": "Las sulfonilureas obligan a la célula beta a liberar insulina incluso con glicemias bajas. En ancianos, la falla renal retrasa la eliminación de sus metabolitos activos, provocando intoxicaciones hipoglucémicas de hasta 48 horas que exigen hospitalización."
+      },
+      {
+        "text": "d) Generan hiperplasia de las células alfa pancreáticas que suprimen la producción de glucagón.",
+        "isCorrect": false,
+        "explanation": "Actúan sobre las células beta (insulina), no sobre las alfa (glucagón)."
+      },
+      {
+        "text": "e) Provocan diuresis osmótica masiva excretando toda el azúcar recibida por orina.",
+        "isCorrect": false,
+        "explanation": "Este es el mecanismo de los inhibidores de iSGLT-2, no de las sulfonilureas."
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Insuficiencia Suprarrenal (Tratamiento Crónico)",
+    "text": "Paciente varón de 40 años, diagnosticado de Enfermedad de Addison autoinmune (Insuficiencia Suprarrenal Primaria pura que afecta toda la corteza). Para su terapia de reemplazo hormonal sustitutiva ambulatoria de por vida en estado de salud normal (sin estrés intercurrente), el tratamiento endocrinológico debe incluir obligatoriamente:",
+    "hint": "Como falla toda la corteza, se debe reponer tanto la hormona que regula el estrés (cortisol) como la que regula el sodio/presión (aldosterona).",
+    "options": [
+      {
+        "text": "a) Solo Glucocorticoides sintéticos a altas dosis en una toma única por la noche.",
+        "isCorrect": false,
+        "explanation": "El cortisol en la noche causa insomnio. Además, faltaría cubrir el déficit de aldosterona."
+      },
+      {
+        "text": "b) Un régimen que imite el ritmo circadiano con un Glucocorticoide de acción corta (ej. Hidrocortisona en 2 o 3 dosis diarias) asociado a la sustitución indispensable de un Mineralocorticoide (Fludrocortisona oral diaria).",
+        "isCorrect": true,
+        "explanation": "En el fallo suprarrenal primario falta tanto cortisol (glucocorticoide) como aldosterona (mineralocorticoide). Se debe reponer el cortisol con Hidrocortisona imitando su curva natural diurna, e ineludiblemente administrar Fludrocortisona para evitar la pérdida de sal e hipotensión."
+      },
+      {
+        "text": "c) Administrar ACTH sintética intramuscular semanalmente para despertar a las glándulas.",
+        "isCorrect": false,
+        "explanation": "En la insuficiencia primaria (glándula destruida), el tejido no responderá a la estimulación externa de ACTH."
+      },
+      {
+        "text": "d) Solo Fludrocortisona diaria para mantener la presión arterial.",
+        "isCorrect": false,
+        "explanation": "Al paciente le faltaría la vital hidrocortisona, desencadenando una crisis adrenal por déficit de cortisol."
+      },
+      {
+        "text": "e) Hidrocortisona intravenosa permanente con bomba de infusión en su domicilio.",
+        "isCorrect": false,
+        "explanation": "Es innecesario e impráctico; los análogos orales permiten una excelente calidad de vida ambulatoria."
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Hipertiroidismo (Efecto adverso grave del Metimazol)",
+    "text": "Una mujer de 30 años con diagnóstico de Enfermedad de Graves-Basedow inicia tratamiento médico con fármacos antitiroideos de síntesis (Metimazol/Tiamazol) a dosis plenas. Dos semanas después, acude a Urgencias refiriendo la aparición súbita de odinofagia intensa (dolor de garganta), aftas orales y fiebre alta de 39°C. Ante esta clínica que levanta alarma de una complicación idiosincrásica letal del fármaco, ¿qué examen debe solicitar con máxima prioridad antes de siquiera revisarle la garganta?",
+    "hint": "Esta complicación ataca a los glóbulos blancos que nos defienden de las bacterias, dejando al paciente sin barreras.",
+    "options": [
+      {
+        "text": "a) Una gammagrafía tiroidea de urgencia.",
+        "isCorrect": false,
+        "explanation": "No tiene relevancia en el manejo de una complicación aguda y letal inducida por el fármaco."
+      },
+      {
+        "text": "b) Un perfil hepático completo por fallo hepático agudo fulminante.",
+        "isCorrect": false,
+        "explanation": "El PTU causa hepatotoxicidad severa, pero la clínica de amigdalitis y fiebre altísima es típica de otro problema."
+      },
+      {
+        "text": "c) Un Hemograma urgente para descartar Agranulocitosis (Neutropenia profunda).",
+        "isCorrect": true,
+        "explanation": "La fiebre y odinofagia en un paciente tomando antitiroideos levantan la sospecha de agranulocitosis (caída de neutrófilos < 500), el efecto secundario más temido. Requiere confirmación inmediata por hemograma para aislamiento e iniciar antibióticos."
+      },
+      {
+        "text": "d) Un electrocardiograma por riesgo inminente de fibrilación auricular.",
+        "isCorrect": false,
+        "explanation": "Aunque el hipertiroidismo genera arritmias, los síntomas de fiebre y odinofagia señalan hacia la inmunidad."
+      },
+      {
+        "text": "e) Niveles de TSH y T4L inmediatos para constatar paso a hipotiroidismo.",
+        "isCorrect": false,
+        "explanation": "Una sobredosis no causaría un cuadro agudo febril e infeccioso de esta magnitud."
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Anemias Hemolíticas Congénitas (Esferocitosis Hereditaria)",
+    "text": "Un niño de 12 años es traído a consulta por ictericia conjuntival episódica y cansancio. Se le palpa el bazo a 4 cm bajo el reborde costal (esplenomegalia). En su familia, su padre y su abuelo fueron operados de la vesícula biliar muy jóvenes y 'les quitaron el bazo'. El hemograma del niño muestra anemia normocítica, gran elevación de reticulocitos, hiperbilirrubinemia indirecta y un CHCM (Concentración de Hemoglobina Corpuscular Media) curiosamente elevado. El frotis periférico carece de palidez central en los hematíes. Fisiopatológicamente, ¿a qué defecto genético corresponde esta enfermedad (Esferocitosis Hereditaria)?",
+    "hint": "Los glóbulos rojos pierden el andamiaje que mantiene su forma aplanada y se vuelven pelotitas rígidas.",
+    "options": [
+      {
+        "text": "a) Una mutación en el gen de la cadena beta de la globina, causando precipitación de proteínas (Talasemia).",
+        "isCorrect": false,
+        "explanation": "Las talasemias son hemoglobinopatías que dan anemia microcítica grave y células en diana o target cells."
+      },
+      {
+        "text": "b) Una deficiencia congénita de la enzima Glucosa-6-Fosfato Deshidrogenasa (G6PD) que expone a estrés oxidativo.",
+        "isCorrect": false,
+        "explanation": "Esto es una enzimopatía que cursa con crisis episódicas al consumir habas o fármacos, mostrando cuerpos de Heinz."
+      },
+      {
+        "text": "c) Un defecto estructural en las proteínas de anclaje de la membrana del eritrocito (Espectrina, Anquirina o Banda 3), perdiendo superficie y volviéndose rígidos esferas que se destruyen en el bazo.",
+        "isCorrect": true,
+        "explanation": "La Esferocitosis Hereditaria se produce por fallos en el citoesqueleto vertical. El glóbulo rojo pierde superficie lipídica y se encoge en esferas densas (elevando el CHCM) que, por su rigidez, son atrapadas y destruidas en el bazo."
+      },
+      {
+        "text": "d) La formación de anticuerpos auto-reactivos IgG fríos que opsonizan al hematíe desde la cuna.",
+        "isCorrect": false,
+        "explanation": "Sería una Anemia Hemolítica Autoinmune por crioaglutininas, que no es congénita ni puramente familiar."
+      },
+      {
+        "text": "e) La sustitución de Ácido Glutámico por Valina en la posición 6, formando polímeros rígidos en forma de hoz.",
+        "isCorrect": false,
+        "explanation": "Corresponde a la Drepanocitosis (Anemia Falciforme), donde el frotis revela drepanocitos."
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Trombofilias (Síndrome Antifosfolípido y Catástrofe)",
+    "text": "El Síndrome Antifosfolípido (SAF) primario cursa habitualmente con trombosis aisladas venosas o arteriales y morbilidad obstétrica. Sin embargo, en un 1% de los casos, la enfermedad 'se enciende' de forma aguda y feroz, originando trombosis microscópicas masivas diseminadas y simultáneas en múltiples órganos (hígado, cerebro, riñón) que conducen al fallo orgánico multisistémico y muerte rápida si no se trata con triple terapia (anticoagulación + esteroides + plasmaféresis). ¿Cuál es el nombre clínico de esta complicación extrema de máxima mortalidad?",
+    "hint": "Su propio nombre refleja la devastación total de múltiples órganos en pocos días.",
+    "options": [
+      {
+        "text": "a) Púrpura Trombocitopénica Trombótica (PTT) asociada.",
+        "isCorrect": false,
+        "explanation": "Cursa con microtrombosis, pero por un fallo enzimático ADAMTS13 y agregación plaquetaria pura."
+      },
+      {
+        "text": "b) Síndrome Antifosfolípido Catastrófico (Síndrome de Asherson).",
+        "isCorrect": true,
+        "explanation": "El SAF Catastrófico se define por el ataque agudo oclusivo trombótico a la microcirculación de 3 o más sistemas orgánicos en menos de una semana, siendo la forma más devastadora y letal de la enfermedad."
+      },
+      {
+        "text": "c) Coagulación Intravascular Diseminada post-infecciosa.",
+        "isCorrect": false,
+        "explanation": "La CID consume factores y cursa masivamente con sangrado. El SAF es esencialmente protrombótico inmunitario."
+      },
+      {
+        "text": "d) Trombocitopenia Inducida por Heparina tipo II extrema.",
+        "isCorrect": false,
+        "explanation": "Es una reacción autoinmune contra el complejo heparina-factor 4 plaquetario, no vinculada en origen al SAF puro."
+      },
+      {
+        "text": "e) Tormenta Tiroidotóxica tromboembólica.",
+        "isCorrect": false,
+        "explanation": "Es el descontrol de hormonas tiroideas y su impacto cardiovascular, sin la naturaleza microtrombótica masiva referida."
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Oncohematología (Linfoma de Hodgkin - Estadificación)",
+    "text": "Usted evalúa a un joven de 23 años con diagnóstico reciente de Linfoma de Hodgkin clásico (confirmado por biopsia de ganglio laterocervical izquierdo). Para planificar su esquema quimioterápico (ABVD), usted debe estadificar anatómicamente la extensión del tumor usando la Tomografía por Emisión de Positrones (PET-TAC). El informe detecta intensa captación tumoral en los ganglios cervicales izquierdos, en los ganglios mediastínicos e hiliares torácicos, y en un conglomerado ganglionar en el retroperitoneo abdominal (paraaórtico). NO hay invasión del pulmón, hígado ni médula ósea. Aplicando la clasificación de Ann Arbor, este paciente se encuentra en Estadio:",
+    "hint": "El diafragma divide los estadios I/II del estadio III.",
+    "options": [
+      {
+        "text": "a) Estadio I.",
+        "isCorrect": false,
+        "explanation": "Solo afectaría un único territorio ganglionar."
+      },
+      {
+        "text": "b) Estadio II.",
+        "isCorrect": false,
+        "explanation": "Habría múltiples territorios afectados, pero todos a un mismo lado (arriba o abajo) del músculo diafragma."
+      },
+      {
+        "text": "c) Estadio III.",
+        "isCorrect": true,
+        "explanation": "El Estadio III de Ann Arbor se define cuando la afectación ganglionar cruza la barrera del diafragma, existiendo ganglios tumorales simultáneamente por encima (cuello/tórax) y por debajo (abdomen)."
+      },
+      {
+        "text": "d) Estadio IV.",
+        "isCorrect": false,
+        "explanation": "Exigiría infiltración tumoral de órganos sólidos extralinfáticos como hígado, hueso o parénquima pulmonar profundo."
+      },
+      {
+        "text": "e) Estadio IA.",
+        "isCorrect": false,
+        "explanation": "La letra A indica ausencia de síntomas B, pero no aborda la diseminación masiva vista aquí."
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Lupus Eritematoso Sistémico (Lupus Neonatal)",
+    "text": "Una mujer de 29 años, asintomática pero diagnosticada de Síndrome de Sjögren con anticuerpos fuertemente positivos, queda embarazada. Nueve meses después da a luz a un recién nacido que en sus primeras 24 horas de vida presenta erupciones cutáneas anulares eritematosas, trombocitopenia leve y, lo más grave, un Bloqueo Auriculoventricular (BAV) completo congénito de tercer grado, irremediable, que requiere la implantación de un marcapasos permanente. Fisiopatológicamente, ¿qué anticuerpo autoinmune materno específico fue el responsable de traspasar la placenta y atacar letalmente el tejido de conducción del corazón en desarrollo del bebé, generando este Síndrome de 'Lupus Neonatal'?",
+    "hint": "Estos anticuerpos viajan pasivamente al feto. Son marcadores típicos del Síndrome de Sjögren.",
+    "options": [
+      {
+        "text": "a) Anticuerpo Anti-ADN de doble cadena (Anti-dsDNA).",
+        "isCorrect": false,
+        "explanation": "Están presentes en el Lupus agresivo, pero no son los patógenos causantes del bloqueo cardíaco fetal."
+      },
+      {
+        "text": "b) Anticuerpo Anti-Smith (Sm).",
+        "isCorrect": false,
+        "explanation": "Son extremadamente específicos del Lupus, pero no causan esta embriopatía de conducción."
+      },
+      {
+        "text": "c) Anticuerpos Anti-Ro (SSA) y Anti-La (SSB).",
+        "isCorrect": true,
+        "explanation": "Las madres portadoras de anti-Ro o anti-La transmiten pasivamente estas IgG a través de la placenta, las cuales atacan e inflaman el nodo AV del feto causando su fibrosis y un BAV congénito irreversible (Lupus Neonatal)."
+      },
+      {
+        "text": "d) Anticuerpo C-ANCA.",
+        "isCorrect": false,
+        "explanation": "Son anticuerpos de la vasculitis granulomatosa (Wegener)."
+      },
+      {
+        "text": "e) Factor Reumatoideo en altos títulos IgM.",
+        "isCorrect": false,
+        "explanation": "Las IgM son macromoléculas enormes que no cruzan la barrera de la placenta por su tamaño."
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Esclerosis Sistémica (Crisis Renal Esclerodérmica)",
+    "text": "Acude a Urgencias un paciente diagnosticado hace un año de Esclerosis Sistémica de variante Difusa (piel tensa endurecida en brazos, piernas, tórax). Viene acompañado por familiares por cefalea brutal, visión borrosa y convulsiones. Al tomarle los signos vitales, su presión arterial es estratosférica (240/130 mmHg). La analítica revela una anemia hemolítica microangiopática (esquistocitos) y la creatinina se ha disparado a 4.0 mg/dL. Se diagnostica la temible 'Crisis Renal Esclerodérmica'. Para salvar la vida y el riñón de este paciente, ¿qué fármaco específico antihipertensivo constituye históricamente el antídoto fisiopatológico de primera línea y DEBE administrarse de emergencia sin dudar?",
+    "hint": "Ataca de lleno al sistema hiperactivo responsable de la isquemia renal por hiperreninemia masiva.",
+    "options": [
+      {
+        "text": "a) Betabloqueadores endovenosos (Labetalol).",
+        "isCorrect": false,
+        "explanation": "Bajarían la presión, pero no revierten el mecanismo isquémico cortical renal directo subyacente."
+      },
+      {
+        "text": "b) Diuréticos tiazídicos a gran dosis.",
+        "isCorrect": false,
+        "explanation": "Deplecionarían de volumen a un riñón que ya está sufriendo isquemia catastrófica."
+      },
+      {
+        "text": "c) Fármacos inhibidores de la enzima convertidora de angiotensina (IECA, como Captopril o Enalapril en escalada agresiva).",
+        "isCorrect": true,
+        "explanation": "La crisis se produce por isquemia del riñón que dispara una liberación letal y maligna de Renina y Angiotensina II. Bloquear esta enzima con IECAs cortó históricamente la altísima mortalidad de la crisis de cuajo y es mandatorio incluso si el riñón ya está fallando."
+      },
+      {
+        "text": "d) Corticoides sistémicos a dosis de macropulsos inmunosupresores.",
+        "isCorrect": false,
+        "explanation": "Peor aún, en la Esclerodermia, los corticoides a altas dosis son el FACTOR PRECIPITANTE clásico de esta crisis y deben evitarse a toda costa."
+      },
+      {
+        "text": "e) Vasodilatadores directos como el Nitroprusiato, ignorando las vías renales.",
+        "isCorrect": false,
+        "explanation": "Útiles para bajar la cifra tensional, pero los IECAs salvan la hemodinámica de las finas arterias renales arqueadas obliteradas."
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Miopatías Inflamatorias (Dermatomiositis y Cáncer)",
+    "text": "Un hombre de 65 años debuta bruscamente con debilidad muscular proximal muy severa en caderas y hombros, asociada a lesiones cutáneas eritematosas en los nudillos de las manos (Pápulas de Gottron) y un exantema violáceo alrededor de los ojos. La CPK está en 8.000 UI/L y la biopsia muscular demuestra un infiltrado inflamatorio perivascular. Teniendo en cuenta la edad del paciente y este cuadro agudo de Dermatomiositis clásica del adulto mayor, ¿cuál es la actitud investigativa paralela a realizar ineludiblemente durante su ingreso, recomendada fuertemente por las guías sistémicas?",
+    "hint": "Esta enfermedad en mayores a menudo es un aviso o 'bandera roja' de que hay otra enfermedad destructiva creciendo en secreto.",
+    "options": [
+      {
+        "text": "a) Un rastreo de anticuerpos por esclerosis múltiple de base.",
+        "isCorrect": false,
+        "explanation": "La esclerosis múltiple afecta mielina, dando daño motor y sensitivo, no miopatía inflamatoria pura con pápulas dérmicas."
+      },
+      {
+        "text": "b) Un cribado extensivo de malignidad (screening de Cáncer oculto) mediante TAC de cuerpo entero, colonoscopia y endoscopia.",
+        "isCorrect": true,
+        "explanation": "La Dermatomiositis de inicio agudo en mayores de 50 años se asocia en hasta un 30% de casos a una neoplasia subyacente oculta (síndrome paraneoplásico). Mapear el cuerpo para extirpar el tumor a menudo cura mágicamente la miopatía."
+      },
+      {
+        "text": "c) Una prueba de estimulación con ACTH para descartar fallo suprarrenal subyacente de debilidad.",
+        "isCorrect": false,
+        "explanation": "El Addison causa debilidad, pero no elevación de CPK a 8.000 ni exantema violáceo (Heliotropo)."
+      },
+      {
+        "text": "d) Cuarentena por sospecha de infección viral hemorrágica contagiosa.",
+        "isCorrect": false,
+        "explanation": "Es una enfermedad autoinmune, no una peste infectocontagiosa."
+      },
+      {
+        "text": "e) Un test genético familiar para dictaminar la distrofia muscular de Duchenne.",
+        "isCorrect": false,
+        "explanation": "El Duchenne afecta a niños y es congénito, no aparece bruscamente a los 65 años con lesiones cutáneas."
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Antibioticoterapia (Aminoglucósidos)",
+    "text": "En el tratamiento de una Sepsis urinaria complicada en el paciente ingresado, se indica el inicio empírico en asociación con un aminoglucósido (como la Amikacina o Gentamicina). Dada la farmacocinética de estrecho margen de esta familia y sus potenciales toxicidades intrínsecas ineludibles al acumularse, el internista debe ajustar estrictamente su posología y monitorizar clínicamente al paciente para prevenir dos efectos adversos clásicos mayores. ¿Cuáles son los dos órganos o sistemas diana que sufren clásicamente la principal toxicidad de los aminoglucósidos?",
+    "hint": "Uno filtra los fluidos de la sangre y el otro controla el equilibrio y el sonido.",
+    "options": [
+      {
+        "text": "a) Hígado (Hepatitis fulminante) y Páncreas (Pancreatitis aguda).",
+        "isCorrect": false,
+        "explanation": "No son hepatotóxicos ni pancreatotóxicos cardinales."
+      },
+      {
+        "text": "b) Sistema Nervioso Central (Convulsiones) y Corazón (Arritmias QT largo).",
+        "isCorrect": false,
+        "explanation": "Las convulsiones y el QT largo son más propios de macrólidos, fluoroquinolonas o altas dosis de penicilinas."
+      },
+      {
+        "text": "c) Riñón (Necrosis Tubular Aguda) y Oído Interno (Ototoxicidad irreversible de la cóclea y sistema vestibular).",
+        "isCorrect": true,
+        "explanation": "Los aminoglucósidos se acumulan y son altamente tóxicos para el túbulo proximal renal (causando fracaso agudo) y letales de forma irreversible para las células ciliadas del oído interno, produciendo sordera y vértigo permanente."
+      },
+      {
+        "text": "d) Médula Ósea (Aplasia irreversible) y Piel (Necrólisis Epidérmica Tóxica).",
+        "isCorrect": false,
+        "explanation": "Efectos más típicos de las sulfamidas u otros antiepilépticos."
+      },
+      {
+        "text": "e) Pulmón (Fibrosis reticular) y Cartílagos articulares de rodilla (Condrotoxicidad rotular).",
+        "isCorrect": false,
+        "explanation": "La afectación de cartílago en crecimiento está descrita con las fluoroquinolonas, no con los aminoglucósidos."
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Tratamiento de Endocarditis (Enterococo)",
+    "text": "Paciente varón de 72 años con antecedente de manipulación urológica hace un mes (resección transuretral de próstata), se presenta febril y con un soplo diastólico aórtico nuevo. Los hemocultivos aíslan de forma seriada y persistente la bacteria Enterococcus faecalis. El test in-vitro demuestra que es sensible a penicilinas y no presenta resistencia de alto nivel a aminoglucósidos. ¿Cuál es la combinación antibiótica de elección moderna menos nefrotóxica y altamente eficaz utilizada en el mundo como régimen sinérgico 'doble betalactámico' para curar la endocarditis por E. faecalis?",
+    "hint": "Asocia el betalactámico base clásico con una cefalosporina que engaña a las proteínas de la pared celular.",
+    "options": [
+      {
+        "text": "a) Ceftriaxona + Cefotaxima.",
+        "isCorrect": false,
+        "explanation": "Es redundante combinar dos cefalosporinas de tercera generación."
+      },
+      {
+        "text": "b) Ampicilina intravenosa + Ceftriaxona intravenosa.",
+        "isCorrect": true,
+        "explanation": "Es el esquema revolucionario seguro y moderno. La Ceftriaxona bloquea proteínas receptoras (PBP) accesorias, dejando a la bacteria indefensa y permitiendo a la Ampicilina aniquilarla, logrando sinergismo letal sin la destrucción renal típica que causaría un aminoglucósido."
+      },
+      {
+        "text": "c) Vancomicina + Linezolid orales.",
+        "isCorrect": false,
+        "explanation": "La vancomicina oral no se absorbe (es para C. difficile), y el Linezolid es bacteriostático, inadecuado por sí solo para una endocarditis sensible a penicilina."
+      },
+      {
+        "text": "d) Piperacilina/Tazobactam monoterapia a goteo.",
+        "isCorrect": false,
+        "explanation": "Carece del efecto sinérgico requerido para 'arrancar' la infección valvular de las vegetaciones enterocócicas."
+      },
+      {
+        "text": "e) Cloxacilina + Doxiciclina de mantención.",
+        "isCorrect": false,
+        "explanation": "El enterococo es intrínsecamente resistente a las penicilinas anti-estafilocócicas como la cloxacilina."
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Neumococo (Prevención Pediátrica y Adultos)",
+    "text": "El Streptococcus pneumoniae (Neumococo) posee una pesada cápsula de polisacáridos que lo hace invulnerable a la fagocitosis de los neutrófilos, requiriendo ineludiblemente de anticuerpos opsonizantes y macrófagos del bazo para ser destruido. Las vacunas disponibles hoy intentan estimular defensas contra estas cápsulas. Una de ellas es la Vacuna Conjugada 13-valente (VNC13), donde los azúcares capsulares de la bacteria han sido 'atados artificialmente en un laboratorio' a una proteína transportadora grande (ej. toxoide diftérico CRM197). ¿Qué ventaja inmunológica crítica y fundamental otorga el 'conjugar' artificialmente la cápsula a una proteína extra, justificando ser la vacuna de elección mundial en lactantes desde los 2 meses de vida?",
+    "hint": "Transforma al azúcar ciego en un objetivo que llama a las células T cooperadoras para crear recuerdos largos.",
+    "options": [
+      {
+        "text": "a) Transforma el compuesto en un virus vivo atenuado multiplicable en sangre de bebé con adenopatías.",
+        "isCorrect": false,
+        "explanation": "No es un virus vivo; son subunidades inertes inyectadas."
+      },
+      {
+        "text": "b) Permite que la vacuna se pueda ingerir de forma oral en gotas y no inyectada en músculo estriado con dolor local.",
+        "isCorrect": false,
+        "explanation": "Las vacunas antineumocócicas se inyectan intramuscularmente."
+      },
+      {
+        "text": "c) Induce que el antígeno sea reconocido por los Linfocitos T dependientes (Inmunidad T-dependiente), generando 'memoria inmunológica celular' duradera de alto grado en niños menores de 2 años cuyo sistema basal T-independiente contra azúcares aún es inmaduro y ciego.",
+        "isCorrect": true,
+        "explanation": "El sistema inmune de los bebés <2 años no reacciona ante azúcares puros (respuesta T-independiente). Al amarrar o conjugar el azúcar a una gran proteína, la vacuna engaña al sistema y lo vuelve T-dependiente, creando memoria a largo plazo en una edad vulnerable."
+      },
+      {
+        "text": "d) Evita las fiebres post-vacunales por absorción tóxica del azúcar de polisacárido alergizante general.",
+        "isCorrect": false,
+        "explanation": "Las vacunas siguen pudiendo dar fiebre moderada post-inyección."
+      },
+      {
+        "text": "e) Genera anticuerpos que eliminan también de paso el contagio celular y viral del bacilo de la tosferina por cruzamiento de pared genético.",
+        "isCorrect": false,
+        "explanation": "Otorga inmunidad frente al neumococo y un poco al toxoide diftérico de transporte, pero no contra la tosferina cruzada."
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "internado": "Medicina Interna",
+    "area": "Miscelánea e Integración Clínica (Cardiología)",
+    "topic": "Insuficiencia Cardíaca Aguda (Clasificación de Forrester para IAM)",
+    "text": "Un paciente de 60 años ingresa con un Infarto Agudo de Miocardio extenso de cara anterior. En la evaluación inicial en hemodinamia, se inserta un catéter de Swan-Ganz (presiones derechas) revelando una Presión Capilar Pulmonar (PCP o de enclavamiento) de 25 mmHg (elevadísima, indicando congestión severa) y un Índice Cardíaco (GC) extremadamente bajo de 1.8 L/min/m2 (indicando mala perfusión periférica tisular baja). Físicamente, el paciente presenta crepitaciones pulmonares en 'marea subiendo' y piel fría pálida marmórea. Según la clásica clasificación de Forrester para pacientes coronarios, este cuadro encaja en el Cuadrante IV, el cual corresponde clínicamente a:",
+    "hint": "Reúne los peores mundos: tiene los pulmones llenos de líquido y la circulación de los órganos vitales apagada.",
+    "options": [
+      {
+        "text": "a) Un paciente normal sin disfunción y seco sin problemas, apto para el alta temprana ambulatoria (Cuadrante I compensado seco y caliente).",
+        "isCorrect": false,
+        "explanation": "Sus cifras están catastróficamente alteradas."
+      },
+      {
+        "text": "b) El temible estado patológico de Shock Cardiogénico clásico o falla de bomba severa descompensada húmedo y frío.",
+        "isCorrect": true,
+        "explanation": "El Cuadrante IV de Forrester combina PCP alta (congestión = 'húmedo') y bajo gasto cardíaco (hipoperfusión = 'frío'). Describe la fisiopatología exacta del infarto agudo letal con falla total de bomba anterior, resultando en shock cardiogénico."
+      },
+      {
+        "text": "c) Edema agudo de pulmón puro hipertensivo (húmedo y caliente).",
+        "isCorrect": false,
+        "explanation": "En el EAP hipertenso la PCP está muy alta pero el paciente compensa el Gasto Cardíaco o no cae agónicamente la presión de los órganos (mantiene calor)."
+      },
+      {
+        "text": "d) Shock hipovolémico profundo o infarto de ventrículo derecho aislado (seco y frío por falta de llenado central izquierdo con PCP baja nula).",
+        "isCorrect": false,
+        "explanation": "En esos casos los pulmones estarían limpios de agua y la Presión Capilar Pulmonar muy disminuida."
+      },
+      {
+        "text": "e) Un cuadro secundario extracardíaco de embolia masiva de TEP.",
+        "isCorrect": false,
+        "explanation": "En el TEP puro no hay edema alveolar capilar izquierdo; las crepitaciones son de fallo primario de VI."
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Nefritis Lúpica y Trombosis",
+    "text": "Ingresa mujer joven con cuadro edematoso grave. Se comprueba por biopsia una Nefritis Lúpica (LES) pero con patrón y arquitectura puramente MEMBRANOSO (Clase V de la OMS), lo que arroja por ende una brutal proteinuria clínica nefrótica urinaria de casi 10 g/día en 24 horas y escasa celularidad. Estando hospitalizada en cuarto día, aqueja súbitamente un intenso y punzante dolor asimétrico en la fosa lumbar (flanco del riñón) sin fiebre con aparición abrupta clínica de hematuria macroscópica masiva franca coágulos rojos en la sonda y aumento veloz testicular asimétrico del tamaño del riñón en ecografía sin dilatar vías y elevación aguda inusitada generalizada extrema del Lactato Deshidrogenasa (LDH). Este cuadro subagudo súbito renal es la complicación vascular trombofílica de bandera roja por definición temida asociada con alta afinidad a toda patología membranosa pura renal generalizada conocida por defecto como:",
+    "hint": "La sangre se coagula en la gran autopista de salida del riñón enfermo por falta de anticoagulantes.",
+    "options": [
+      {
+        "text": "a) Necrosis Papilar dolorosa renal bilateral isquémica tubular purulenta por uso crónico de AINEs o falcemia micro trombótica medular.",
+        "isCorrect": false,
+        "explanation": "No se asocia característicamente de primera mano y con esta gravedad asimétrica brusca al patrón membranoso puro de 10 gramos proteicos."
+      },
+      {
+        "text": "b) Formación de un megacálculo obstructivo coraliforme metabólico inflamatorio inflamando toda la pelvis de ácido úrico radiolúcido.",
+        "isCorrect": false,
+        "explanation": "La ecografía reportó que las vías no estaban dilatadas (no es uropatía obstructiva mecánica)."
+      },
+      {
+        "text": "c) Trombosis masiva aguda vascular letal puramente enclavada de la Vena Renal principal secundaria inminente a la hipercoagulabilidad intrínseca por gran pérdida urinaria sostenida y drenaje de proteínas anticoagulantes orgánicas funcionales como la Antitrombina III del síndrome nefrótico masivo de base.",
+        "isCorrect": true,
+        "explanation": "El Síndrome Nefrótico masivo elimina la Antitrombina III por orina, creando hipercoagulabilidad. La etiología Membranosa es la reina de las causas de esta temible trombosis intrínseca de la gran Vena Renal de salida (con dolor lumbar brusco, sangre viva y elevación feroz de LDH isquémica)."
+      },
+      {
+        "text": "d) Desprendimiento ateromatoso por colesterol graso purulento en arterias.",
+        "isCorrect": false,
+        "explanation": "Suele ocurrir en aortas seniles invadidas con catéter, dando isquemia cutánea en miembros inferiores."
+      },
+      {
+        "text": "e) Rotura de un micro-aneurisma capilar poliquístico primario hereditario cortical superficial reventando por HTA hipertensiva masiva in vivo en fase aguda cortical.",
+        "isCorrect": false,
+        "explanation": "Es propio de la poliquistosis autosómica dominante y no está ligado fisiopatológicamente al síndrome nefrótico membranoso."
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Sangrado Varicoso Farmacología",
+    "text": "En el manejo del sangrado digestivo alto agudo activo amenazante por várices esofágicas reventadas en un paciente cirrótico en urgencias con shock hipovolémico hematemético, mientras el endoscopista arma su equipo para ligar los vasos con elásticos in situ, el médico urgenciólogo debe utilizar una intervención preendoscópica médica y sistémica infalible farmacológica en bolos endovenosos. La indicación ineludible y universal para detener el flujo portal general a presión en el sistema venoso mediante vasoconstricción directa selectiva esplácnica gastrointestinal de rescate (antes de la endoscopia) está guiada mundialmente a usar el fármaco vasoactivo:",
+    "hint": "Se busca cerrar o apretar la llave principal de la cañería del intestino para reducir la sangre que llega al esófago.",
+    "options": [
+      {
+        "text": "a) Propranolol o Carvedilol en comprimidos orales machacados y puestos bajo su lengua en mucosa absorbiéndola veloz en sublingual en fase aguda taquicárdica del shock.",
+        "isCorrect": false,
+        "explanation": "Los betabloqueadores previenen el sangrado, pero darlos en shock activo bloquearía la taquicardia compensadora y mataría al paciente."
+      },
+      {
+        "text": "b) Nitroglicerina y Vasodilatadores de relajación de nitratos sistémicos en goteos relajando el lecho varicoso isquémico por inyección directa oclusiva continua.",
+        "isCorrect": false,
+        "explanation": "La vasodilatación general mataría al paciente en shock por caída libre de sus ya escasas presiones de riego cerebral."
+      },
+      {
+        "text": "c) Terlipresina endovenosa (o Somatostatina u Octreótide) administrada de inmediato intravenosa en urgencias bajando veloz la resistencia esplácnica portal reduciendo en cascada la volemia local.",
+        "isCorrect": true,
+        "explanation": "Fármacos como la Terlipresina constriñen agresivamente y en exclusiva los gruesos lechos arteriales del intestino (esplácnicos), quitando hasta el 40% del flujo de sangre a la vena porta. Logran parar el río de sangre temporalmente para permitir operar al tubo digestivo alto."
+      },
+      {
+        "text": "d) Corticosteroides en pulsos masivos de Prednisona intravenosos por vía rápida anti-edema.",
+        "isCorrect": false,
+        "explanation": "No tienen ninguna acción ni efecto hemodinámico portosistémico de constricción de base para salvar vidas."
+      },
+      {
+        "text": "e) Aspirina e Infliximab oral desinflamatorio celular en perfusión intra gástrica y yeyunal local baja.",
+        "isCorrect": false,
+        "explanation": "La aspirina está contraindicada por promover más sangrado e inhibición gástrica plaquetaria."
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Espondiloartritis (Anquilopoyética Criterios Imagen)",
+    "text": "A un paciente varón de 28 años que cursa y aqueja desde hace tres años de dolor lumbar glúteo de claro perfil inflamatorio clásico no mecánico (duele de noche en reposo asimétrico), se le realiza el antiguo y clásico pilar de la reumatología: una radiografía simple inicial convencional de pelvis por delante visualizando ambas articulaciones lumbosacras y sacroilíacas pélvicas, las cuales resultan reportadas como estrictamente SANAS Y NORMALES por el radiólogo ignorando todo el dolor profundo axial inflamado descrito con celeridad clínica. Sabiendo que los cambios óseos radiográficos en Rx son tardíos, ¿qué examen complementario de imagen es indispensable solicitarle ahora mismo en búsqueda de 'Edema de Médula Ósea activo agudo subcondral y sacroileítis precoz aguda inflamatoria viva' para catalogar a su enfermedad sin demoras en la clasificación moderna como una Espondiloartritis Axial No Radiográfica y comenzar de inmediato a prescribir tratamientos biológicos tempranos antes de que se deforme el hueso a los años siguientes?",
+    "hint": "Esta técnica basada en el magnetismo y la alineación del agua molecular ve la inflamación profunda que los rayos X y el hueso denso esconden.",
+    "options": [
+      {
+        "text": "a) Tomografía por emisión de positrones con captación PET sistémica corporal y de isótopos de hueso lumbares radioactivos difusos profundos en medicina atómica nuclear avanzada.",
+        "isCorrect": false,
+        "explanation": "El PET se utiliza sobre todo en búsqueda de células tumorales o vasculitis inespecíficas ocultas generalizadas, no es estándar de la espondiloartritis temprana."
+      },
+      {
+        "text": "b) Resonancia Magnética (RM) de las articulaciones sacroilíacas (idealmente secuencias sensibles al edema STIR o T2 fat sat).",
+        "isCorrect": true,
+        "explanation": "La RM vino a revolucionar el campo; permite ver la huella inicial del agua de la inflamación ósea pura (Edema) dentro del hueso meses antes de que la destrucción calcificada inerte aparezca a largo plazo en una pobre radiografía, y avala iniciar la curación."
+      },
+      {
+        "text": "c) Ecografía doppler color externa muscular superficial de partes blandas lumbares musculares con captación del supraespinoso tendinoso local lumbar tendinosa asintomático muscular tendinoso profundo.",
+        "isCorrect": false,
+        "explanation": "Los ultrasonidos no pueden cruzar la corteza ósea de la pelvis, siendo ciegos al proceso oculto de médula interior."
+      },
+      {
+        "text": "d) Gammagrafía osea articular clásica estándar planar con tecnecio-99 superficial a horas del episodio febril.",
+        "isCorrect": false,
+        "explanation": "Presenta demasiada falta de especificidad en inflamación sacroilíaca, descartada hoy de las guías modernas axiales base."
+      },
+      {
+        "text": "e) TAC sin contraste (Scanner axial óseo de pelvis cortical superficial reconstructiva pura en 3D puro duro calcificado inerte óseo simple sin ventana blanda cartilaginosa).",
+        "isCorrect": false,
+        "explanation": "Ve los agujeros y erosiones mejor que los Rayos X clásicos, pero llega tarde. Sigue sin lograr ver el edema de la inflamación previa."
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Síndrome de Apnea del Sueño (Tratamiento)",
+    "text": "En el manejo terapéutico fundamental a nivel mundial prescriptivo en las unidades de neumología para pacientes graves con el Síndrome de Apnea e Hipopnea del Sueño (SAHS Severo confirmatorio de IAH >30 / hr de sueño por test oximétrico polisomnográfico formal y con somnolencia diurna severa letal accidentológica en el volante o conductores profesionales en el día), ¿cuál es el aparato médico domiciliario de primera línea gold standard que funciona ejerciendo un mecanismo de ferulización o 'férula neumática compresiva virtual física aérea' impidiendo que los tejidos laxos y paredes faríngeas colapsen hacia adentro al aspirar oxígeno dormidos?",
+    "hint": "Es la pequeña turbina que expulsa viento a fuerza mantenida.",
+    "options": [
+      {
+        "text": "a) Intubación invasiva con tubo de traqueostomía endotraqueal ventilador volumétrico UCI conectado crónico de por vida asincrónico por vía frontal cuello en las madrugadas.",
+        "isCorrect": false,
+        "explanation": "Una brutalidad para manejar algo tan prevalente como las apneas destructivas simples obstructivas."
+      },
+      {
+        "text": "b) Sistema de Presión Positiva Continua en la Vía Aérea (máquina CPAP Nasal o Naso-bucal) aplicada nocturnamente general en la cama durmiendo impidiendo el aplastamiento laringofaringeo anatómico base profundo de cuello en relajación REM.",
+        "isCorrect": true,
+        "explanation": "El CPAP de mesita actúa lanzando un suave chorro de aire constante e incesante por mascarilla. Crea un 'túnel y colchón o férula neumática a presión' impidiendo físicamente a las paredes faríngeas gordas que choquen u obstruyan, aliviando las apneas del gordo crónico instantáneamente al dormir."
+      },
+      {
+        "text": "c) Cirugía reconstructora de recesión profunda mandibular radical biliar amigdalina glososcópica orofaríngea universal profiláctica extirpadora preventiva infantil global maxilar a todo paciente de edad 60 roncador pesado general.",
+        "isCorrect": false,
+        "explanation": "La intervención es de rescate o de niños, el CPAP es mil veces más efectivo e incruento mundial."
+      },
+      {
+        "text": "d) Balón de contrapulsación gástrico intratorácico subdiafragmático torácico diafragmático frenador eléctrico implantable cardíaco del frénico medular rítmico automático de estimulación por marcapaso en abdomen central pélvico inferior muscular nocturno.",
+        "isCorrect": false,
+        "explanation": "Tecnología inexistente fantasiosa base irreal para esta patología mecánica obstructiva orofaríngea obstructora superior de amígdalas y lengua."
+      },
+      {
+        "text": "e) Nebulizadores asmáticos o mascarillas faciales simples venturi a altísimo flujo presurizado de oxígeno hiperbárico domiciliario de botellas portátil gaseoso crónico dependiente seco o purificado hospitalario con bigotera nasal nasal o de alto flujo oxigenado pasivo del gas seco simple por 24 horas.",
+        "isCorrect": false,
+        "explanation": "El oxígeno a secas no empuja el músculo obstructivo colapsado, y el paciente se sigue asfixiando por pausas hipopneicas inefectivas físicas."
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Mononucleosis infecciosa",
+    "text": "Un paciente estudiante de 19 años es valorado por un cuadro agudo de fiebre intensa de 39°C de días, fatiga extrema aplastante de postración, dolor general muy intenso orofaríngeo (faringoamigdalitis purulenta gigante pseudomembranosa amigdalina), marcado aumento generalizado de ganglios cervicales de todo su cuello trasero palpables dolo-inflamados y una inmensa esplenomegalia abdominal que resalta a la ecografía limitante del reposo. En su sangre se aísla la inconfundible estampa frotis diferencial 'leucocitosis rica con un más de 10% de Linfocitos Atípicos pleomórficos Reactivos inmensos (células de Downey)'. Estos linfocitos T citotóxicos reactivos del paciente no son malignos y están expandiéndose a la guerra para cazar, matar e intentar eliminar a sus otros propios Linfocitos B vecinos en el cuerpo que actualmente están masivamente parasitados por el virus intracelularmente culpable, el cual es el responsable base del 90% inmensamente mayoritario universal de este 'Síndrome Mononucleósico' infeccioso mundial agudo en jóvenes y del cual carecemos de antiviral base. ¿Cuál es este agente causal mundial por excelencia?",
+    "hint": "Causa la enfermedad conocida como la enfermedad del beso y pertenece al grupo de los herpesvirus.",
+    "options": [
+      {
+        "text": "a) Treponema pallidum infeccioso destructivo de base espiroquetada aguda primaria.",
+        "isCorrect": false,
+        "explanation": "La sífilis forma un chancro, no da este cuadro agudo de fiebre, pus y linfocitos atípicos."
+      },
+      {
+        "text": "b) Parvovirus B19 de crisis medular hematológica megalo eritematosa reactiva eruptiva base infantil preescolar de mejilla abofeteada asintomático.",
+        "isCorrect": false,
+        "explanation": "Da exantemas o frenos a la médula perjudicial en niños, sin asociar amigdalitis hipertrófica severa."
+      },
+      {
+        "text": "c) Virus de Epstein-Barr (VEB), de la familia de los gamma-Herpesvirus infectantes del epitelio base inmortal de boca.",
+        "isCorrect": true,
+        "explanation": "El VEB ataca los Linfocitos B e instiga una inmensa reacción celular asesina de las células T (Linfocitos atípicos de Downey), siendo el emperador de la Mononucleosis Infecciosa típica (fiebre, faringitis con gran cantidad de pus, adenopatías y crecimiento de bazo grave de fatiga)."
+      },
+      {
+        "text": "d) Citomegalovirus humano sistémico asintomático ciego (CMV).",
+        "isCorrect": false,
+        "explanation": "Provoca mononucleosis pero suele cursar sin tanta afección amigdalar florida (faringitis pultácea atípica nula de poca pus)."
+      },
+      {
+        "text": "e) Virus de la inmunodeficiencia humana de primera etapa silente retroviral inicial primoinfectante basal seroconversor retroviral integrasa (VIH).",
+        "isCorrect": false,
+        "explanation": "El síndrome retroviral agudo remeda una infección inespecífica, pero raramente cursa con faringitis pultácea masiva de ganglios tan espectacular y típica base o es de rara visualización en Downey atípicos de 10% puro."
+      }
+    ]
+  }
+[
+  {
+    "id": 271,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Fibrilación y Flúter Auricular (Manejo de la Cardioversión)",
+    "text": "Un paciente de 65 años acude a urgencias por palpitaciones de 4 días de evolución. El ECG confirma una Fibrilación Auricular (FA) con respuesta ventricular de 110 lpm. El paciente se encuentra hemodinámicamente estable, sin dolor torácico ni signos de insuficiencia cardíaca aguda. Usted decide intentar restaurar el ritmo sinusal (cardioversión). Dado que el paciente lleva más de 48 horas con la arritmia y NO ha estado recibiendo tratamiento anticoagulante previo, ¿cuál es la conducta mandataria antes de realizar la cardioversión eléctrica o farmacológica para evitar un accidente cerebrovascular embólico masivo?",
+    "hint": "Como no sabemos el estado del remanso sanguíneo, primero tenemos que asegurar que la cavidad esté totalmente 'limpia' de trombos.",
+    "options": [
+      {
+        "text": "a) Realizar la cardioversión inmediatamente tras administrar un bolo de heparina de bajo peso molecular.",
+        "isCorrect": false,
+        "explanation": "La heparina rápida previene nuevos trombos, pero no disuelve un trombo consolidado que ya pueda estar listo para soltarse al dar el choque."
+      },
+      {
+        "text": "b) Anticoagular al paciente ininterrumpidamente durante al menos 3 semanas previas a la cardioversión, O BIEN realizar un Ecocardiograma Transesofágico (ETE) urgente para descartar la presencia de trombos en la orejuela izquierda.",
+        "isCorrect": true,
+        "explanation": "Cuando la FA supera las 48 horas, existe un altísimo riesgo de formación de trombos. Restaurar el latido impulsará el trombo al cerebro, por lo que es regla médica internacional innegociable dar 3 semanas de terapia anticoagulante previa y segura, o si urge mucho, introducir un ecógrafo hasta el esófago para poder confirmar la total limpieza de la orejuela con los propios ojos antes de tocar el ritmo."
+      },
+      {
+        "text": "c) Administrar doble antiagregación con Aspirina y Clopidogrel y proceder con la cardioversión en 24 horas.",
+        "isCorrect": false,
+        "explanation": "Las pastillas antiagregantes son poco eficaces en el torrente de estasis auricular; solo la terapia anticoagulante directa tiene efecto preventivo puro del riesgo cerebral embólico."
+      },
+      {
+        "text": "d) Realizar la cardioversión solo con fármacos (ej. Amiodarona) ya que no desprenden trombos, reservando este cuidado solo para el choque eléctrico.",
+        "isCorrect": false,
+        "explanation": "Revertir el latido mecánicamente da igual si se hizo con pastillas o corriente eléctrica, el latido expulsivo final del miocardio desprenderá el coágulo asumiendo igual catástrofe en ambas maniobras."
+      },
+      {
+        "text": "e) Esperar a que la arritmia revierta sola, ya que pasadas las 48 horas es imposible cardiovertir.",
+        "isCorrect": false,
+        "explanation": "Cardiovertir la aurícula es perfectamente viable sin importar las horas crónicas pasadas, el punto es realizarlo bajo condiciones anticoagulantes previas seguras."
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Valvulopatía Mitral (Prolapso / Enfermedad de Barlow)",
+    "text": "Una mujer de 35 años, de hábito asténico y previamente asintomática, acude a revisión médica. En la auscultación cardíaca en el ápex se detecta un hallazgo muy característico: un 'clic' o chasquido mesosistólico no eyectivo, seguido inmediatamente por un soplo sistólico tardío in crescendo que llega hasta el segundo ruido. Este cuadro auscultatorio es el sello patognomónico de:",
+    "hint": "Imagina unas cuerdas flojas de paracaídas que, a mitad de empuje, se tensan de golpe con un chasquido brusco y luego dejan fugar sangre.",
+    "options": [
+      {
+        "text": "a) Estenosis mitral de origen reumático.",
+        "isCorrect": false,
+        "explanation": "Se caracteriza clásicamente por un chasquido de apertura al inicio de la diástole y un soplo retumbante mesodiastólico."
+      },
+      {
+        "text": "b) Comunicación interventricular pequeña (Enfermedad de Roger).",
+        "isCorrect": false,
+        "explanation": "Suele dar un soplo ruidoso sistólico (holosistólico) aserrado en el reborde izquierdo, pero carece de un clic a mitad de camino."
+      },
+      {
+        "text": "c) Prolapso de la válvula mitral (degeneración mixomatosa).",
+        "isCorrect": true,
+        "explanation": "El clásico clic o chasquido mesosistólico ocurre porque el tejido redundante abulta la válvula como un paracaídas; al llenarse a la mitad, tira de las cuerdas laxas tensándolas de golpe. Acto seguido se suelta una fuga valvular (soplo telesistólico). Es muy frecuente en mujeres jóvenes de constitución muy delgada."
+      },
+      {
+        "text": "d) Estenosis aórtica bicúspide.",
+        "isCorrect": false,
+        "explanation": "Tienen un clic pero siempre es temprano o 'eyectivo', asociado a un soplo rudo que rompe la sístole."
+      },
+      {
+        "text": "e) Miocardiopatía restrictiva por amiloidosis.",
+        "isCorrect": false,
+        "explanation": "Genera fallos diastólicos por músculo rígido o amiloide duro inespecífico, pero no tiene los sonidos tan musicales y mecánicos mencionados como base patognomónica."
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "internado": "Medicina Interna",
+    "area": "Cardiología",
+    "topic": "Cardiopatía Isquémica (MINOCA)",
+    "text": "Mujer de 55 años que ingresa con dolor torácico típico, elevación del segmento ST transitoria y troponinas claramente positivas. El diagnóstico inicial es un Infarto Agudo de Miocardio. Pasa a la sala de hemodinamia para una coronariografía de urgencia, pero el cardiólogo intervencionista reporta unas arterias coronarias epicárdicas completamente lisas, sin placas de ateroma ni obstrucciones significativas (estenosis <50%). ¿Qué acrónimo define a este síndrome clínico que obliga a buscar causas alternativas de isquemia como vasoespasmo, disección coronaria espontánea o miocarditis?",
+    "hint": "Es la sigla en inglés de infarto con arterias coronarias no obstructivas.",
+    "options": [
+      {
+        "text": "a) Takotsubo.",
+        "isCorrect": false,
+        "explanation": "Es una de las causas que puede simular esto (miocardiopatía por estrés), pero no es el término amplio que define a todo el grupo."
+      },
+      {
+        "text": "b) MINOCA (Myocardial Infarction with Non-Obstructive Coronary Arteries).",
+        "isCorrect": true,
+        "explanation": "MINOCA designa el frustrante pero peligroso escenario donde el paciente cursa con un genuino y mortal infarto (troponinas/ST positivo) pero los conductos grandes muestran cero ateromatosis obstructiva; obligando a investigar infartos microvasculares ciegos, embolias o espasmos arteriales."
+      },
+      {
+        "text": "c) INOCA (Ischemia with Non-Obstructive Coronary Arteries).",
+        "isCorrect": false,
+        "explanation": "Se refiere solo a la isquemia estable (angina) pero que no llega a la zona letal o infarto neto evidenciado biológicamente (las troponinas están negativas en la sangre)."
+      },
+      {
+        "text": "d) Síndrome X Cardíaco.",
+        "isCorrect": false,
+        "explanation": "Es el clásico diagnóstico de isquemia de pequeños vasos periféricos que no desarrollan lesión miocárdica permanente o grave letal transitoria isquémica y limpia con dolor recurrente inespecífico."
+      },
+      {
+        "text": "e) Prinzmetal.",
+        "isCorrect": false,
+        "explanation": "Se trata de angina por vasospasmo reversible sin desencadenantes. Podría ser causa de un cuadro similar, pero el término general de todo el grupo diagnóstico del daño isquémico sin placa ateromatosa general aguda hoy se engloba modernamente en la categoría superior base de diagnóstico sindromático general."
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Neumonía Adquirida en la Comunidad (Escala CURB-65)",
+    "text": "Usted debe estratificar a un paciente de 70 años con Neumonía Adquirida en la Comunidad usando la escala de decisión clínica de mayor uso rápido en urgencias (CURB-65). ¿Cuál de los siguientes parámetros clínicos o analíticos NO forma parte de las variables evaluadas por esta escala?",
+    "hint": "Es el parámetro que usaríamos instintivamente para ver si alguien se ahoga, pero que sorprendentemente los creadores británicos del score dejaron de lado para hacerlo sencillo.",
+    "options": [
+      {
+        "text": "a) Presencia de confusión mental reciente.",
+        "isCorrect": false,
+        "explanation": "Sí está incluida. Corresponde a la letra 'C' (Confusion)."
+      },
+      {
+        "text": "b) Nivel de Nitrógeno Ureico en Sangre (Urea).",
+        "isCorrect": false,
+        "explanation": "Sí está incluida. Corresponde a la letra 'U' (Urea en nivel de daño)."
+      },
+      {
+        "text": "c) Frecuencia Respiratoria.",
+        "isCorrect": false,
+        "explanation": "Sí está incluida. Corresponde a la letra 'R' (Respiratory Rate > 30)."
+      },
+      {
+        "text": "d) Saturación de Oxígeno por oximetría de pulso.",
+        "isCorrect": true,
+        "explanation": "A pesar de ser vital clínicamente, la saturación o hipoxemia no es uno de los 5 puntos calculables del acrónimo estricto CURB-65, que suma 'C-U-R-B' (Presión) y '65' (Edad)."
+      },
+      {
+        "text": "e) Edad del paciente.",
+        "isCorrect": false,
+        "explanation": "Sí está incluida. Corresponde al número '65' de la sigla universal y final."
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Asma Bronquial (Terapia Biológica)",
+    "text": "En el manejo del Asma Bronquial Grave no controlada (Escalones 5 y 6 de la GEMA), los tratamientos con anticuerpos monoclonales (fármacos biológicos) han revolucionado la terapéutica. Si usted atiende a un paciente asmático grave con fenotipo claramente Alérgico o Atópico, que presenta sensibilización perenne a los ácaros del polvo y unos niveles de Inmunoglobulina E (IgE) sérica total muy elevados, ¿cuál es el anticuerpo monoclonal de elección dirigido específicamente a bloquear la IgE circulante?",
+    "hint": "Piense en el medicamento diseñado como una 'anti-IgE' y pionero en la terapéutica biológica de las enfermedades alérgicas pulmonares.",
+    "options": [
+      {
+        "text": "a) Mepolizumab.",
+        "isCorrect": false,
+        "explanation": "Actúa pero está enfocado directamente contra la IL-5 bloqueando su unión base eosinofílica e inactivando el otro fenotipo grave no propiamente dicho o central alérgico."
+      },
+      {
+        "text": "b) Benralizumab.",
+        "isCorrect": false,
+        "explanation": "Se pega al receptor diana IL-5 destruyendo eosinófilos ciegos destructores en sangre."
+      },
+      {
+        "text": "c) Omalizumab.",
+        "isCorrect": true,
+        "explanation": "Fue el pionero biológico antiasmático general de los hospitales. Omalizumab actúa 'atrapando y secuestrando' la gran cantidad de Inmunoglobulina E atópica (IgE) circulante en las sangres alérgicas agudas, evitando así tajantemente que choquen y exploten los mastocitos destructores llenos de histaminas y citoquinas pulmonares que ahogan la respiración aéreamente reactiva asfixiada continua."
+      },
+      {
+        "text": "d) Dupilumab.",
+        "isCorrect": false,
+        "explanation": "Inhibe la ruta IL-4 e IL-13 de manera global."
+      },
+      {
+        "text": "e) Infliximab.",
+        "isCorrect": false,
+        "explanation": "Es un inhibidor directo de los caminos del factor de necrosis tisular anti-TNF de base reumatológica pura inofensiva y de inflamación y base general inmune ineficaz frente a las crisis de base."
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "internado": "Medicina Interna",
+    "area": "Broncopulmonar",
+    "topic": "Tromboembolismo Pulmonar (Terapia de Reperfusión Masiva)",
+    "text": "Un paciente ingresa en Urgencias en shock profundo. La Angio-TC pulmonar revela un Tromboembolismo Pulmonar (TEP) 'en silla de montar' obstruyendo ambas arterias pulmonares principales. El paciente cursa con hipotensión refractaria a volumen (PA 70/40 mmHg) y el ecocardiograma revela cor pulmonale agudo. Al no existir contraindicaciones absolutas por sangrado reciente o cirugía, el tratamiento farmacológico de emergencia (Gold Standard) para disolver el coágulo y salvar la vida en este TEP Masivo (de Alto Riesgo) es:",
+    "hint": "No hay que evitar que crezca, ¡hay que destruirlo ya!",
+    "options": [
+      {
+        "text": "a) Heparina de bajo peso molecular subcutánea a doble dosis.",
+        "isCorrect": false,
+        "explanation": "La heparina solo frena el crecimiento del coágulo, pero no disuelve el 'taco' que está matando al paciente en este instante."
+      },
+      {
+        "text": "b) Fibrinólisis sistémica intravenosa (ej. Alteplasa / rtPA).",
+        "isCorrect": true,
+        "explanation": "Ante un TEP de Alto Riesgo (manifestado por inestabilidad hemodinámica y shock cardiogénico derecho), la única opción salvadora es administrar agentes trombolíticos. Destruyen el entramado masivo asfixiante abriendo rápidamente el lecho pulmonar, devolviendo flujo al ventrículo izquierdo moribundo que claudica al no poder perfundirse en minutos."
+      },
+      {
+        "text": "c) Filtro de Vena Cava Inferior inmediato.",
+        "isCorrect": false,
+        "explanation": "Detendría nuevos coágulos de las piernas, pero el bloque mortífero ya está en los pulmones matando al paciente hoy."
+      },
+      {
+        "text": "d) Anticoagulantes Orales Directos (Rivaroxabán) por sonda nasogástrica.",
+        "isCorrect": false,
+        "explanation": "Son ineficaces de inicio empírico y lentos para destruir trombos agudos y menos a un paciente hipoperfundido de estado basal inestable."
+      },
+      {
+        "text": "e) Glucocorticoides en pulsos.",
+        "isCorrect": false,
+        "explanation": "Inútiles en esta trombosis letal aguda mecánica."
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad Ulcerosa Péptica (Manejo Endoscópico por Forrest)",
+    "text": "En el contexto de una Hemorragia Digestiva Alta por úlcera péptica, la Endoscopía clasifica la lesión según Forrest para decidir el manejo. Usted evalúa una úlcera que no presenta sangrado activo, no tiene vasos visibles, ni coágulos; únicamente presenta una 'base limpia recubierta de fibrina plana' (Clasificación Forrest III). ¿Cuál es la indicación terapéutica y de destino para este paciente según los protocolos mundiales?",
+    "hint": "Esta lesión presenta un riesgo ínfimo de resangrado, lo que permite un manejo sumamente conservador y precoz.",
+    "options": [
+      {
+        "text": "a) Terapia hemostática endoscópica con inyección de adrenalina y clip mecánico, seguido de hospitalización en UCI.",
+        "isCorrect": false,
+        "explanation": "Se reserva exclusivamente a lesiones sangrantes muy activas (Ia y Ib) o de altísimo riesgo de reanudar el flujo capilar base inestable general."
+      },
+      {
+        "text": "b) Cirugía abierta de urgencia.",
+        "isCorrect": false,
+        "explanation": "Se plantearía en fallos masivos endoscópicos reiterados y sangrados incoercibles descontrolados letales generalizados inútiles sin paro agudo de shock gástrico terminal purulento quirúrgico general masivo general u operatorio agudo base."
+      },
+      {
+        "text": "c) Hospitalización en planta y perfusión de IBP intravenoso por 72 horas.",
+        "isCorrect": false,
+        "explanation": "Estaría reservado e indicado mandatoriamente para el alto riesgo activo general Forrest II o sangrantes iniciales tratadas estables."
+      },
+      {
+        "text": "d) No aplicar terapia endoscópica; alta domiciliaria precoz y tratamiento con IBP orales de mantenimiento.",
+        "isCorrect": true,
+        "explanation": "La base cubierta de fibrina (Forrest III) o manchas de hematina planas reflejan una cicatrización espontánea sumamente efectiva y sólida general del vaso roto inactivo pasado gástrico, con riesgo ínfimo y anecdótico. Estos pacientes no requieren de intervencionismo heroico endoscópico ni infusión IV, dando inicio precoz al alta domiciliaria base con sus pastillas IBP de sanación orales sin miedo ni retrasos injustificados hospitalizados base al alta general sana in situ resolutiva ambulatoria gástrica pura general segura base inactiva oral inmediata."
+      },
+      {
+        "text": "e) Transfusión de 2 unidades de plasma fresco congelado obligatoria.",
+        "isCorrect": false,
+        "explanation": "Manejo injustificado en hemorragias pasadas cicatrizadas en pacientes con buena salud."
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Enfermedad Inflamatoria Intestinal (Manifestaciones Extraintestinales)",
+    "text": "Las Enfermedades Inflamatorias Intestinales (EII), como el Crohn y la Colitis Ulcerosa, se asocian fuertemente a manifestaciones sistémicas extraintestinales. Una de las más comunes afecta la piel, presentándose como nódulos eritematosos y muy dolorosos, calientes a la palpación, situados clásicamente en la cara anterior de las piernas (región pretibial). Esta manifestación dermatológica tiene la peculiaridad de que su aparición cursa de manera paralela a la actividad inflamatoria del intestino (aparece durante los brotes y desaparece al lograr la remisión digestiva). Nos referimos a:",
+    "hint": "Al contrario del pioderma gangrenoso, su evolución es un espejo exacto del estado de inflamación y ulceración que tiene el paciente dentro del tracto colónico.",
+    "options": [
+      {
+        "text": "a) Pioderma gangrenoso.",
+        "isCorrect": false,
+        "explanation": "El pioderma crea unas asquerosas úlceras excavadas e inmensas, pero característicamente lleva un curso clínico disociado e independiente a la enfermedad intestinal basal."
+      },
+      {
+        "text": "b) Eritema nodoso.",
+        "isCorrect": true,
+        "explanation": "El Eritema nodoso presenta paniculitis septal patognomónica (nódulos dolorosos tibiales en rojo). Clínicamente, evoluciona paralelamente a la inflamación EII digestiva, sirviendo de 'bandera o termómetro' externo de la actividad de los brotes asintomáticos o febriles del Crohn interno letal diseminado activo reactivo interno de los intestinos inflamados basales."
+      },
+      {
+        "text": "c) Acrodermatitis enteropática.",
+        "isCorrect": false,
+        "explanation": "Se da por una falta de zinc en la absorción y dietética profunda infrecuente asimétrica en la cara."
+      },
+      {
+        "text": "d) Dermatitis herpetiforme.",
+        "isCorrect": false,
+        "explanation": "Está indisolublemente conectada a la celiaquía profunda y no a las Enfermedades Inflamatorias Intestinales como regla."
+      },
+      {
+        "text": "e) Paniculitis lúpica.",
+        "isCorrect": false,
+        "explanation": "Típica de las patologías reumatológicas autoinmunes LES severas lúpicas diseminadas nodulares letales crónicas inespecíficas base."
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "Cirrosis Hepática (Profilaxis de Peritonitis)",
+    "text": "Un paciente con cirrosis hepática descompensada y ascitis persistente es dado de alta tras haber sobrevivido a un grave episodio de Peritonitis Bacteriana Espontánea (PBE). Debido al altísimo riesgo de recurrencia y mortalidad (cerca del 70% en el primer año), las guías internacionales obligan a instaurar 'Profilaxis Secundaria' antibiótica ininterrumpida, de por vida o hasta el trasplante hepático. ¿Cuál es el antimicrobiano de elección oral para cumplir esta labor de decontaminación selectiva intestinal?",
+    "hint": "Esta pastilla se escoge porque barre selectivamente a las enterobacterias gramnegativas del tubo digestivo sin matar a los anaerobios protectores.",
+    "options": [
+      {
+        "text": "a) Amoxicilina-Clavulánico.",
+        "isCorrect": false,
+        "explanation": "No provee una 'decontaminación selectiva' fina. Destruiría indiscriminadamente anaerobios alterando la microflora fatal y fomentando otras resistencias peores crónicas basales."
+      },
+      {
+        "text": "b) Metronidazol.",
+        "isCorrect": false,
+        "explanation": "Ataca predominantemente a los anaerobios; nosotros queremos matar a los bacilos gramnegativos."
+      },
+      {
+        "text": "c) Norfloxacino (o Ciprofloxacino).",
+        "isCorrect": true,
+        "explanation": "Las quinolonas orales (como el Norfloxacino diario) son los fármacos estelares de la profilaxis. Consiguen erradicar selectivamente a los letales bacilos gramnegativos que suelen translocar a la ascitis (ej. E. coli), respetando la flora anaerobia que ocupa espacio sano, y cortando las re-infecciones a futuro de la peritonitis mortal basal profiláctica de vida inactiva prolongada protectora oral de la cama hospitalizada base."
+      },
+      {
+        "text": "d) Rifaximina exclusivamente.",
+        "isCorrect": false,
+        "explanation": "La Rifaximina es excelente antibiótico base intestinal de profilaxis, pero mundialmente se encamina más fuertemente a abatir y eliminar el amonio de la temida Encefalopatía Hepática."
+      },
+      {
+        "text": "e) Gentamicina en cápsulas.",
+        "isCorrect": false,
+        "explanation": "Su nefrotoxicidad sumatoria al síndrome hepatorrenal general destruiría el túbulo proximal renal del cirrótico en el primer intento basal crónico."
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Trastornos del Sodio (Límites de Corrección en Hiponatremia)",
+    "text": "Ingresa una paciente de 75 años con somnolencia severa. En la analítica se constata una hiponatremia severa crónica con Sodio sérico de 110 mEq/L. Se decide iniciar reposición con suero hipertónico al 3% para aliviar el edema cerebral y la confusión. Para prevenir la letal complicación iatrogénica del Síndrome de Desmielinización Osmótica (Mielinolisis Central Pontina), las guías clínicas mundiales fijan un 'Límite Máximo de Seguridad' en la velocidad de reposición del sodio. ¿Cuál es el incremento máximo de sodio que NO DEBE SUPERARSE bajo ningún concepto en las primeras 24 horas de tratamiento?",
+    "hint": "Cualquier corrección demasiado entusiasta robará agua a las neuronas bruscamente, dejándolas secas y 'peladas' de su mielina.",
+    "options": [
+      {
+        "text": "a) 2 mEq/L.",
+        "isCorrect": false,
+        "explanation": "Sería excesivamente conservador y no sacaría a la paciente del coma ni edema inicial peligroso general base lento reponedor agudo inefectivo de la sal isquémica diluida letal basal."
+      },
+      {
+        "text": "b) 8 a 10 mEq/L (máximo 12 mEq/L según algunas escuelas).",
+        "isCorrect": true,
+        "explanation": "La regla intocable de la natremia crónica es detenerse en los 8 mEq (hasta 12 mEq) por día de aumento en sangre. Cuando el cerebro crónico dilatado de repente recibe un mar de sodio repentino generalizado, el agua huye rápido de las células pontinas destruyéndolas en el catastrófico síndrome de desmielinización general pontino incurable isquémico central. Subir lentamente es vital para no asesinar al cerebro desprotegido."
+      },
+      {
+        "text": "c) 20 mEq/L.",
+        "isCorrect": false,
+        "explanation": "Subirlo a esta cifra destruiría a muerte la mielina en pocas horas, garantizando cuadriplejía letal yatrogénica de rescate médico inexperto base irresponsable desastroso del daño."
+      },
+      {
+        "text": "d) 30 mEq/L.",
+        "isCorrect": false,
+        "explanation": "No es el límite; sería letal."
+      },
+      {
+        "text": "e) No existe límite, el objetivo es llegar a 140 mEq/L lo antes posible para despertar a la paciente.",
+        "isCorrect": false,
+        "explanation": "Si fuera aguda (horas) sin acomodación, podríamos subir veloz; pero siendo crónica, la desmielinización asesina al paciente subiendo todo de golpe en la primera noche de hospital de forma suicida en volumen."
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Enfermedad Renal Crónica (Metabolismo Óseo-Mineral precoz)",
+    "text": "En la historia natural de la Enfermedad Renal Crónica (ERC), la alteración del metabolismo óseo-mineral es universal. Mucho antes de que el calcio descienda o el fósforo empiece a acumularse de manera detectable en los análisis de sangre rutinarios, las células óseas (osteocitos) lanzan una señal endocrina de alerta al riñón para forzarlo a expulsar fosfatos. ¿Cuál es el biomarcador (hormona) que constituye la ALTERACIÓN MÁS PRECOZ detectable en sangre en la fisiopatología del hiperparatiroidismo secundario de la ERC?",
+    "hint": "No busques a la hormona de la paratiroides (PTH), sino a la señal osteocítica que avisa en primera instancia que la máquina de expulsar fósforo está decayendo.",
+    "options": [
+      {
+        "text": "a) Descenso de la Parathormona (PTH).",
+        "isCorrect": false,
+        "explanation": "El riñón fallido generará, de hecho, un hiperparatiroidismo secundario y elevación (aumento) de PTH con el tiempo, no caída."
+      },
+      {
+        "text": "b) Aumento del factor de crecimiento fibroblástico 23 (FGF-23).",
+        "isCorrect": true,
+        "explanation": "El FGF-23 es una portentosa 'fosfatonina' ósea inicial. Cuando los glomérulos empiezan a perder terreno crónico, la célula del hueso detecta microacumulación y libera la señal FGF-23 a la sangre exigiéndole al pobre riñón remanente botar el peligroso fósforo que sube silente de forma obligatoria en un proceso basal oculto muy precoz, inhibiendo como efecto adverso la síntesis de vitamina D y desencadenando en el futuro y último eslabón al aumento de la PTH reaccionaria en el hipertiroidismo paratiroideo."
+      },
+      {
+        "text": "c) Elevación del Calcitriol (Vitamina D activa).",
+        "isCorrect": false,
+        "explanation": "El déficit real de masa renal inactiva precisamente la 1-alfa-hidroxilasa basal central, generando que el calcitriol baje, no que suba."
+      },
+      {
+        "text": "d) Descenso marcado de la Fosfatasa Alcalina ósea.",
+        "isCorrect": false,
+        "explanation": "En general, la actividad de recambio óseo crónico alto de PTH reactivada secundaria eleva sus niveles y actividad."
+      },
+      {
+        "text": "e) Aumento de la Calcitonina tiroidea.",
+        "isCorrect": false,
+        "explanation": "La respuesta de equilibrio ante el fallo crónico hiperfosfatémico urémico central no se media primariamente a nivel medular C."
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Síndrome Nefrótico (Complicaciones Lipídicas)",
+    "text": "Un paciente varón de 40 años cursa con un Síndrome Nefrótico florido. Entre sus analíticas, destaca un perfil lipídico severamente alterado, con un Colesterol Total de 450 mg/dL y Triglicéridos en 350 mg/dL. Esta hiperlipidemia profunda y aterogénica, característica del síndrome, se produce fisiopatológicamente de manera primaria debido a:",
+    "hint": "El hígado entra en pánico al ver su sangre tan vacía y aguada sin proteínas, por lo que echa a andar todas sus fábricas a ciegas.",
+    "options": [
+      {
+        "text": "a) El consumo excesivo y descontrolado de grasas animales durante la enfermedad.",
+        "isCorrect": false,
+        "explanation": "Aunque es contraproducente la mala dieta, la alteración gigante y clásica viene intrínseca del disturbio biológico endógeno descontrolado."
+      },
+      {
+        "text": "b) Un fallo genético simultáneo en el receptor de las lipoproteínas de baja densidad celular (Hipercolesterolemia Familiar).",
+        "isCorrect": false,
+        "explanation": "Estaríamos frente a dos patologías diferentes que no explican la constelación sintomática clásica ligada."
+      },
+      {
+        "text": "c) El incremento compensatorio brutal en la síntesis hepática de lipoproteínas (VLDL y LDL) en respuesta a la baja presión oncótica plasmática causada por la pérdida masiva urinaria de albúmina.",
+        "isCorrect": true,
+        "explanation": "El hígado sano intenta contrarrestar heroicamente el plasma desinflado de proteínas oncóticas nefróticas perdidas por el riñón enfermo, forzando la maquinaria hepática general para hacer todas las macromoléculas. Así, expulsa indiscriminada y ciega a todas las lipoproteínas grasas colesterólicas al torrente en una inundación hiperlipídica pura característica y ligada íntimamente al síndrome clásico basal reaccionario."
+      },
+      {
+        "text": "d) La menor excreción renal de colesterol, ya que el glomérulo nefrótico impide su filtrado.",
+        "isCorrect": false,
+        "explanation": "El colesterol general sano no se filtra en exceso rutinariamente al pipí y su falta de orina lipídica no es responsable central subyacente."
+      },
+      {
+        "text": "e) Reacción autoinmune contra los adipocitos que liberan su contenido lipídico al plasma.",
+        "isCorrect": false,
+        "explanation": "No existe ningún ataque adiposo inmunológico descrito en la cadena causante de hipercolesterolemia del problema nefrótico base sistémico."
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Diabetes Mellitus (Neuropatía Diabética Craneal)",
+    "text": "Un varón diabético de 65 años de larga evolución con mal control metabólico se presenta a urgencias con inicio agudo de visión doble (diplopía) y una 'caída' completa del párpado superior derecho (ptosis). Al examinar el ojo, este se encuentra desviado hacia abajo y hacia afuera. Sin embargo, al iluminar ambos ojos con una linterna, las pupilas son de tamaño normal, simétricas y responden vigorosamente contrayéndose (reflejo pupilar intacto). Este cuadro clínico (parálisis isquémica del III par craneal 'con respeto pupilar') es clásico del paciente diabético porque:",
+    "hint": "Para que un tumor o aneurisma afecte ese nervio, aplastaría desde afuera, dañando primero las vías externas de las pupilas. Pero aquí el daño isquémico nace asfixiando por falta de riego profundo adentro del nervio.",
+    "options": [
+      {
+        "text": "a) La isquemia diabética (microvascular) daña el centro (las fibras motoras) del nervio oculomotor, pero preserva la periferia del nervio por donde discurren las fibras parasimpáticas pupilares (las cuales están irrigadas por vasos de la piamadre externos).",
+        "isCorrect": true,
+        "explanation": "La oclusión capilar o vasa nervorum secciona las finas terminales asfixiando la médula del nervio (que controla motoramente el ojo y párpado al estar en el medio). Pero como los finos filetes neuronales de la función de la pupila viajan por el borde externo superficial regados en un lecho colateral de otras finas redecillas colaterales inafectas corticales sanas, el tamaño del ojo y su reactividad a la luz resultan ilesos. Eso diferencia y exonera la emergencia de aneurismas letales asfixiando la corteza aplastantemente al inicio fatal de horas de base en el III par neurológico y oftálmico."
+      },
+      {
+        "text": "b) El virus del herpes zóster se aprovecha de la diabetes para atacar el nervio óptico.",
+        "isCorrect": false,
+        "explanation": "El zóster daría vesículas purulentas cutáneas dérmicas y ataca al trigémino sensitivo doloroso letal frontal sin afectar la fuerza central aislada."
+      },
+      {
+        "text": "c) La diabetes desmieliniza exclusivamente la corteza occipital cerebral visual.",
+        "isCorrect": false,
+        "explanation": "El daño ocular es estrictamente periférico del tallo y sus pares mononeuríticos isquémicos de neuropatía, y no hemisférico central."
+      },
+      {
+        "text": "d) Un aneurisma cerebral roto comprimió la arteria central de la retina.",
+        "isCorrect": false,
+        "explanation": "Daría amaurosis total de un ojo muerto e indoloro ciego, no diplopía en motricidad intacta con ptosis."
+      },
+      {
+        "text": "e) El daño es secundario a una crisis aguda de glaucoma en el anciano.",
+        "isCorrect": false,
+        "explanation": "Cursa con ojo rojo inyectado, duro y un dolor punzante bestial con halos visuales sin disociación general motora y no caída parpebral motriz."
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Tratamiento Farmacológico de DM2 (Inhibidores DPP-4)",
+    "text": "Las 'Gliptinas' (Inhibidores de la Dipeptidil Peptidasa-4 o iDPP-4), como la Sitagliptina o Linagliptina, son antidiabéticos orales ampliamente utilizados por su gran seguridad, perfil de nula hipoglicemia y facilidad de uso en ancianos y pacientes renales. Fisiopatológicamente, ¿cómo logran estas pastillas mejorar la secreción de insulina?",
+    "hint": "Impiden y boicotean el trabajo de la enzima que viene a barrer y destruir la incretina natural tras comer.",
+    "options": [
+      {
+        "text": "a) Son secretagogos directos que abren canales de calcio en el páncreas cerrando los de potasio.",
+        "isCorrect": false,
+        "explanation": "Esa es la vía celular directa agresiva y puramente química clásica descrita de base de las antiguas sulfonilureas hipoglucemiantes letales de urgencia general geriátricas."
+      },
+      {
+        "text": "b) Bloquean e inactivan a la enzima (DPP-4) que normalmente se encarga de destruir a las incretinas endógenas (GLP-1 y GIP) en el torrente sanguíneo, prolongando artificialmente la vida media y acción de la propia hormona incretina natural del paciente tras comer.",
+        "isCorrect": true,
+        "explanation": "El intestino produce GLP-1 y avisa al páncreas que comió liberando insulina con control fisiológico inmejorable sin hipoglicemias base, pero su vida y magia celular química en sangre dura pocos efímeros minutos antes de que la enzima recicladora y demoledora (DPP-4) barra y degrede a los mensajeros incretínicos letales inactivándolos en el torrente circulatorio general del paciente diabético con escasa función endocrina compensadora de la diabetes anciana de insulina."
+      },
+      {
+        "text": "c) Inhiben selectivamente la absorción de los azúcares complejos en la luz del yeyuno y el íleon.",
+        "isCorrect": false,
+        "explanation": "Es el actuar químico local intestinal digestivo de acarbosa, sin relacionarse a hormonas circulantes."
+      },
+      {
+        "text": "d) Inyectan hormona incretina sintética directamente subcutánea que viaja al hipotálamo a quitar el apetito.",
+        "isCorrect": false,
+        "explanation": "Estos serían los puros y temibles Análogos GLP-1 sintéticos y subcutáneos (Liraglutida, Semaglutida) inyectables potentes para la obesidad de las inyecciones de moda."
+      },
+      {
+        "text": "e) Inhiben el transportador renal tubular de glucosa forzando glucosuria osmótica.",
+        "isCorrect": false,
+        "explanation": "Fisiopatología propia exclusiva diurética milagrosa reno/cardíaca de los nuevos de moda Inhibidores SGLT-2 o 'gliflozinas'."
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Tratamiento del Hipertiroidismo (Yodo Radiactivo)",
+    "text": "Mujer de 68 años con fibrilación auricular reciente asociada a un hipertiroidismo franco. Al palparle el cuello, la glándula es grande y tiene una superficie irregular y 'empedrada' (Bocio Multinodular). La gammagrafía demuestra múltiples zonas de hipercaptación ('parches calientes' autónomos) intercaladas con zonas frías pálidas inactivas. El diagnóstico clínico es Bocio Multinodular Tóxico (Enfermedad de Plummer múltiple). Dado su alto riesgo quirúrgico por la arritmia y la edad, ¿cuál es el tratamiento resolutivo curativo y ablativo internacional de elección recomendado en esta etiología específica?",
+    "hint": "Utiliza un proyectil que es absorbido como un alimento glotón, quemando desde el interior solamente la zona que trabaja descontrolada.",
+    "options": [
+      {
+        "text": "a) Tratamiento médico crónico de por vida exclusivamente con betabloqueadores.",
+        "isCorrect": false,
+        "explanation": "Son excelentes sintomáticos urgentes para la palpitación pero no destruyen la tormenta de fuego tóxica autónoma causal primaria incesante que envenena desde su base patológica glandular en meses sin remedio de falla cardíaca incesante."
+      },
+      {
+        "text": "b) Administración de Yodo Radiactivo (I-131) oral, el cual será captado exclusivamente por los nódulos autónomos destructivos y calientes, aniquilándolos con radiación beta local.",
+        "isCorrect": true,
+        "explanation": "El I-131 entra por vía oral. Los nódulos tóxicos hiperactivos están desesperados por él y lo asimilan brutalmente como un manjar y yodo vital, logrando su asimilación general para acabar auto-irradiándose selectivamente desde dentro y morir necrotizados benignos quemados por la radiación sin cirugía de cuello cruenta a la anciana asintomática sin dañar la región vecina sana en reposo de la glándula inactiva de cuello paralizado letal de tirotoxicosis. Es elegante, curativo, seguro y simple."
+      },
+      {
+        "text": "c) Tiroidectomía total obligatoria bajo anestesia general.",
+        "isCorrect": false,
+        "explanation": "La paciente cursa gran arritmia aguda fibrilatoria inestable de FA, meterla a riesgo cardiovascular operatorio mayor bajo anestesia anestésica a pabellón destapado a cielo sería una negligencia iatrogénica letal inútil."
+      },
+      {
+        "text": "d) Inyección percutánea de etanol en todos y cada uno de los nódulos guiada por ecografía.",
+        "isCorrect": false,
+        "explanation": "Técnica inexperta experimental engorrosa puramente utilizada en simples quistes tiroideos funcionales inofensivos, inefectiva para la patología ablativa múltiple difusa general caliente diseminada de lóbulos general. Sería inofensiva y engorrosa a lo ancho del cuello y riesgosa laringe."
+      },
+      {
+        "text": "e) Suplementación de yodo natural en la dieta (Sal yodada) para saturar los folículos.",
+        "isCorrect": false,
+        "explanation": "Aliméntalos aún más en este contexto endémico inflamado basal para encender una llamarada tirotoxicósica terminal (Efecto Jod-Basedow letal)."
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Enfermedades de la hemostasia (Tratamiento de la PTI)",
+    "text": "Una mujer de 25 años, sin antecedentes mórbidos, ingresa a urgencias por la aparición brusca y difusa en extremidades inferiores de abundantes petequias y equimosis, asociado a sangrado de las encías al lavarse los dientes (gingivorragia). En la analítica de sangre se constata un recuento de plaquetas de 15.000/μL (Trombocitopenia grave), con hemoglobina y leucocitos rigurosamente normales. El frotis periférico descarta esquistocitos o seudotrombocitopenia. Al diagnosticarse un probable Púrpura Trombocitopénico Inmune (PTI) primaria con sangrado activo mucocutáneo, la intervención terapéutica combinada urgente de primera línea de elección para elevar las plaquetas debe ser:",
+    "hint": "Transfundir no sirve porque sus anticuerpos las matarán al instante. Necesitamos desinflamar y confundir rápidamente a los cazadores autoinmunes de la sangre.",
+    "options": [
+      {
+        "text": "a) Transfusión exclusiva masiva de 12 pools de plaquetas profilácticas.",
+        "isCorrect": false,
+        "explanation": "Los autoanticuerpos circulantes del paciente aniquilarían en minutos las plaquetas nuevas. Solo se trasfundirían de rescate en el temible hemorragia intracraneal masivo general exanguinante mortal de la joven inminente en UCI."
+      },
+      {
+        "text": "b) Anticoagulación con Heparina para evitar coagulopatía.",
+        "isCorrect": false,
+        "explanation": "Agravaría exponencialmente y letalmente las hemorragias de la joven sin plaquetas sangrante in vivo terminal base basal general en sus encías sangrientas y órganos asfixiados trombocitopénicos limpios de fibrina y nula detención de fuga vascular cutánea incontrolable."
+      },
+      {
+        "text": "c) Esplenectomía de urgencia esa misma noche por laparoscopia.",
+        "isCorrect": false,
+        "explanation": "Operar quitando el bazo no es de primera línea agudo inminente para elevar plaquetas, sino para fracasos médicos y recaídas a lo largo de un año crónico completo estandarizado general."
+      },
+      {
+        "text": "d) Corticosteroides sistémicos a dosis altas (Dexametasona o Prednisona) asociados a Inmunoglobulina G Intravenosa (IGIV) de rescate rápido.",
+        "isCorrect": true,
+        "explanation": "Ante la PTI hemorrágica, los corticoides logran apagar o 'reprogramar y frenar a la médula e inmunidad biológica celular de memoria atópica agresiva y frenan a los nuevos Ac', y la inmunoglobulina por vena es una dosis masiva gigante de engaño (chaperonas) que ciega atascando colapsadamente las fauces y bocas fagocíticas macrófagas comiendo ciegos y en exceso en el propio bazo asesino; esto deja mágicamente intactas circulando a las plaquetas nativas subiendo libres sanas inofensivas in-vivo de la joven a las 24 hrs en sala hospitalizada y frenando sangrado oral general milagrosamente al segundo día general y rápido."
+      },
+      {
+        "text": "e) Agonistas del receptor de Trombopoyetina orales (Eltrombopag) y alta a casa.",
+        "isCorrect": false,
+        "explanation": "No es para rescatar hemorragia en box de urgencia in extremis (sirven a largo plazo meses en fallas de base)."
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Anemia Ferropénica (Tratamiento Oral)",
+    "text": "En el tratamiento sustitutivo con sulfato ferroso oral para un paciente con Anemia Ferropénica severa, la correcta absorción entérica en el duodeno es el eslabón más débil, viéndose fuertemente afectada por el entorno gástrico y alimentario simultáneo. Para maximizar la tasa biológica de absorción y evitar el fracaso del tratamiento, se debe educar al paciente para que ingiera la tableta metálica en ayunas acompañado idealmente de una sustancia favorecedora ácida, pero PROHIBIÉNDOLE taxativamente mezclarla con potentes 'inhibidores y bloqueadores' dietéticos naturales. ¿Cuáles de los siguientes elementos consumidos con el desayuno son los bloqueadores químicos más implacables del hierro que deben evitarse?",
+    "hint": "Cuidado con la leche, el tecito, el omeprazol... encierran al metal en piedras indigeribles que se van por la feca sin cruzar al cuerpo inorgánico sano.",
+    "options": [
+      {
+        "text": "a) Ácido ascórbico (Vitamina C) como en jugos de cítricos y naranjas naturales.",
+        "isCorrect": false,
+        "explanation": "Es el aliado número 1, transformando y promoviendo milagrosamente y reduciendo las sales químicas al hierro en su estado divalente listo, limpio y ferozmente biodisponible para entrar en ayunas."
+      },
+      {
+        "text": "b) Suplementos de L-Arginina y aminoácidos ramificados deportivos puros.",
+        "isCorrect": false,
+        "explanation": "No alteran o no tienen gran impacto en esta mineralización inorgánica."
+      },
+      {
+        "text": "c) Lácteos ricos en calcio, infusiones de Té (taninos) y Café, y antiácidos (omeprazol/sales de aluminio).",
+        "isCorrect": true,
+        "explanation": "La peor pesadilla del médico internista reponiendo sulfatos es un paciente tomándolos con Té o Leche en su tostada matinal inhibidos en ácido base y jugo. Los fitatos o taninos engloban la medicina haciendo sales inabsorbibles inmundas de desecho y caca fecal y los lácteos cálcicos compiten y taponan el mismo transportador cerrándolo para sí mismos ciegamente inoperantes generales; e incluso se agrega un IBP para no arder la tripa elevando un PH general neutro envenenando y anulando todo el estado gástrico químico necesario e ideal de disolución y acidez que se requiere en ayuno in-vitro natural inyectado celular del paciente sin curarse jamás al control en clínica al 3 mes."
+      },
+      {
+        "text": "d) Azúcares simples como glucosa o sacarosa cristalina.",
+        "isCorrect": false,
+        "explanation": "Inertes en esta farmacocinética o carentes de relevancia."
+      },
+      {
+        "text": "e) Consumo de legumbres altas en ácido fólico como las lentejas sin piel.",
+        "isCorrect": false,
+        "explanation": "No son verdaderos ni exclusivos villanos de sustrato general."
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "internado": "Medicina Interna",
+    "area": "Hematología",
+    "topic": "Oncohematología (Síndrome de Richter)",
+    "text": "Un varón de 75 años con diagnóstico crónico y seguimiento en policlínico de Leucemia Linfática Crónica (LLC), estadio A de Binet (indolente y sin tratamiento, en 'watch and wait'), acude de urgencia por un cambio clínico drástico explosivo de un mes de evolución. Presenta fiebre continua rebelde de 39°C, sudores nocturnos intensos que empapan la cama (Síntomas B fulminantes), crecimiento asimétrico doloroso masivo de una gran masa ganglionar en la axila derecha y gran aumento repentino de LDH en suero. La biopsia de este ganglio inflamado reporta histológicamente un 'Linfoma Difuso de Células B Grandes'. El fenómeno en el cual una leucemia indolente 'buena' (LLC) muta y degenera catastróficamente hacia un linfoma de alto grado tremendamente agresivo recibe históricamente el nombre epónimo de:",
+    "hint": "Conlleva un peor pronóstico letal del linfoma generalizado que devora su cronicidad pasiva con rapidez asimétrica.",
+    "options": [
+      {
+        "text": "a) Síndrome de Evans.",
+        "isCorrect": false,
+        "explanation": "Corresponde a la asociación concomitante paralela pura base autoinmune letal inestable general de PTI (plaquetas muertas) y AIHA (anemia autoinmune hemolítica destructiva) mediada por anticuerpos en un joven adulto general sin cáncer."
+      },
+      {
+        "text": "b) Síndrome de Sezary cutáneo.",
+        "isCorrect": false,
+        "explanation": "Tratase de linfomas de células de linfocitos atípicos T epidermotrópicas generales diseminadas puras descamativas letales de la piel eritematosa y costras (Micosis fúngicas y general dermatitis tumoral cutánea) no ganglionar asimétrica basal."
+      },
+      {
+        "text": "c) Síndrome de Transformación de Richter.",
+        "isCorrect": true,
+        "explanation": "Esta es la transformación ominosa y fatídica evolutiva letal temida pura base biológica destructiva en el anciano. Un grupo de células tranquilas circulantes indolentes de una LLC inofensivas sufren mutaciones malignas secundarias de daño al TP-53 ciego transformando in situ un agresivo linfoma bestial expansivo gigante inmenso asimétrico doloroso (generalmente un linfoma de células gigantes B LBDCG) exigiendo urgente poliquimioterapia agresiva intrahospitalaria sin retorno a asilo ni esperas vacías por fiebre maligna basal LDH pura destructiva en su axila tumoral gigante de base mortífera de pocos meses vital in-vivo general asintomática si no acciona la alerta B veloz en consulta general de medicina interna."
+      },
+      {
+        "text": "d) Linfoma de Burkitt endémico.",
+        "isCorrect": false,
+        "explanation": "Es propio de jóvenes, con gen c-myc (cromosoma 8 y 14) atroz, cielo estrellado y masa mandibular maxilar gigante asfixiante fulminante africana o en Epstein Barr. No derivado evolutivamente de LLC indolentes crónicas seniles."
+      },
+      {
+        "text": "e) Fenómeno de Raynaud neoplásico central.",
+        "isCorrect": false,
+        "explanation": "Enfermedad paraneoplásica acral pálida fría, cianótica reactiva periférica de dedos y dolor vasoespástico capilar sin gran volumen axilar masivo destructivo."
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Resistencia Neumocócica (Mecanismo de acción)",
+    "text": "Al estudiar las causas del fracaso terapéutico en las Neumonías Adquiridas en la Comunidad graves, se analiza el perfil de las cepas resistentes de Streptococcus pneumoniae en el país frente a la familia de los antibióticos betalactámicos (Penicilina y Amoxicilina). A diferencia del Estafilococo, que se defiende fabricando enzimas tijeras que destruyen el antibiótico en el plasma, ¿cuál es el mecanismo intrínseco fundamental mediante el cual el Neumococo logra resistir e inmunizarse frente a las penicilinas sin tener que destruir el fármaco de su entorno?",
+    "hint": "Como no puede romper y destruir la pastilla, el Neumococo se defiende 'cambiando la forma y diseño de las cerraduras en su pared bacteriana' a las que iba destinado a encajar el antídoto.",
+    "options": [
+      {
+        "text": "a) Sintetizando bombas moleculares de reflujo o eflujo rápido que expulsan y escupen al exterior toda la penicilina a la velocidad de entrada a su citoplasma tóxico bacteriano.",
+        "isCorrect": false,
+        "explanation": "Son mecanismos propios de algunas Pseudomonas o Macrólidos y BGN, pero no el principal de resistencia clínica basal del temido neumococo."
+      },
+      {
+        "text": "b) Alterando profundamente la estructura de conformación genética de sus 'Proteínas Fijadoras de Penicilina' (las famosas dianas PBP de su pared celular) de manera que el anillo químico del antibiótico es incapaz biológicamente de anclarse para destruirlas.",
+        "isCorrect": true,
+        "explanation": "Las bacterias grampositivas neumocócicas puras basan su vida genética entera evolutiva defensiva vital no en ser destructores letales del ataque betalactámico, sino mediante la modificación intrínseca anatómica proteica estructural y caprichosa de base de las Proteínas Fijadoras de pared cruzada cruzada de vida (PBP) de la propia célula, volviéndolas incompatibles de forma resbaladiza molecularmente e insensibles inofensivas de encaje perfecto del antibiótico de ataque administrado al anciano (resistencia que, en muchos casos, es parcial y se logra vencer clínica y simplemente triplicando heroicamente la dosis oral miligramos del antibiótico de asalto masivo en sangre Amoxicilina 1 gramo logrando su objetivo)."
+      },
+      {
+        "text": "c) Produciendo de forma masiva y extracelular la potente enzima Betalactamasa tipo TEM-1.",
+        "isCorrect": false,
+        "explanation": "Esta es el as bajo la manga y magia patógena destructora enzimática tijera infalible extracelular letal en sangre exclusiva y general de su amigo vecino colonizador bacteriano Haemophilus o Estafilococo aureus de piel. El Neumococo 'no fabrica' en clínica humana jamás betalactamasas destructivas puras del antibiótico orgánico de pastilla biológico base química bacteriana basal salival purulenta."
+      },
+      {
+        "text": "d) Perdiendo su gruesa cápsula de azúcar polisacarídico de virulencia.",
+        "isCorrect": false,
+        "explanation": "Dejar la cápsula lo hace perder toda virulencia y ser devorado por fagocitosis, haciéndolo inofensivo; y no le otorga resistencia al antibiótico."
+      },
+      {
+        "text": "e) Interrumpiendo pasivamente y deteniendo el proceso de mitosis y síntesis de la maquinaria de ácido fólico en PABA.",
+        "isCorrect": false,
+        "explanation": "Esto se vería o afectaría en sulfonamidas y trimetoprima, no en derivados químicos bacterianos directos de muro celular cruzado liso base pared estricto penicilínico."
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Tratamiento de Infecciones por Estafilococos (MRSA pulmonar)",
+    "text": "Paciente intubado en UCI tras una gripe severa desarrolla un shock con Neumonía Nosocomial necrotizante hemorrágica. El cultivo de lavado bronquial aísla un destructivo Staphylococcus aureus Resistente a Meticilina (SARM) productor de la temible leucocidina de Panton-Valentine. Usted sabe que el antibiótico de rescate Daptomicina es un potentísimo lipopéptido bactericida rápido que perfora la membrana de los cocos grampositivos y es estelar frente a SARM y ERV en la sangre, piel o válvulas. Sin embargo, está ABSOLUTA, UNIVERSAL Y FORMALMENTE CONTRAINDICADA O PROSCRITA para el uso en el tratamiento empírico infeccioso de las neumonías en los pulmones de este paciente, ¿por qué motivo fisiopatológico vital?",
+    "hint": "El fármaco actúa como un jabón en sangre, pero si choca con el líquido resbaloso natural del alvéolo, se apelmaza en una inútil masa de inutilidad e inertiza por completo antes de poder matar cocos purulentos.",
+    "options": [
+      {
+        "text": "a) Porque su molécula es demasiado pesada y no logra atravesar jamás la barrera endotelial hematológica del flujo pulmonar sanguíneo.",
+        "isCorrect": false,
+        "explanation": "Las moléculas de Daptomicina cruzan capilares de inflamación fácilmente hacia cualquier absceso pulmonar o líquido alvéolo encharcado purulento base in vitro vivo y activo general en su fase circulatoria."
+      },
+      {
+        "text": "b) Porque la bacteria neumococo siempre ha sido intrínsecamente tolerante al fármaco.",
+        "isCorrect": false,
+        "explanation": "La Daptomicina mata fulminante, instantáneamente e in vitro de hecho a los estafilococos o enterococos resistentes."
+      },
+      {
+        "text": "c) Porque la Daptomicina se inactiva, se une irremediablemente y se inunda inhibida por el Surfactante Pulmonar (el líquido tensioactivo natural de los alvéolos del humano), perdiendo toda su actividad antibacteriana y haciéndola fútil in-situ allí.",
+        "isCorrect": true,
+        "explanation": "La regla y perla más básica infecciosa de sala UCI en tratamiento neumológico es que la estructura fosfolipídica resbaladiza de la enorme molécula inyectada química in-vivo en la sangre interactúa ciegamente aglutinándose reaccionando y abrazándose destructivamente unida para siempre y anulando su capacidad farmacológica asesina bacteriostática o bactericida con todo el líquido jabonoso alveolar o surfactante endógeno y base fosfolipídico biológico resbaladizo protector vivo natural y fisiológico que cubre y mantiene vivos todo el interior liso de nuestros sacos alveolares. Se vuelve agua inútil biológicamente, permitiendo que la bacteria crezca libre ahogando al paciente hospitalizado grave si nadie cambia el goteo a Vancomicina rápida de acción central limpia in-situ."
+      },
+      {
+        "text": "d) Porque en el pulmón causa una fibrosis alérgica aguda asfixiante tóxica que aniquila la mecánica ventilatoria y distrés mortal fulminante en todos los asmáticos graves con pus.",
+        "isCorrect": false,
+        "explanation": "Carece de estos efectos secundarios pulmonares tan letales de reacción atópica descritos primarios asfixiantes respiratorios basales crónicos."
+      },
+      {
+        "text": "e) Porque requiere de un pH puramente alcalino y el absceso pulmonar es muy ácido por las altas cantidades del azúcar de necrosis de anaerobios.",
+        "isCorrect": false,
+        "explanation": "El pH del órgano es neutro asfixiante en pus pero no lo altera vitalmente ni la anula por la acidez anaerobia al nivel del jabón o surfactante resbaladizo natural orgánico base del pulmón fatal general in-vivo in-situ."
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Sepsis (qSOFA y tamizaje)",
+    "text": "En el ambiente ambulatorio extrahospitalario, la consulta clínica en APS o de puerta de entrada en urgencias de triaje rápido frente a un paciente que luzca y demuestre estar infectado, el Consenso de SEPSIS-3 validó una escala simplificada relámpago abreviada en cama de paciente (qSOFA o 'quick SOFA'). Su puntuación ≥ 2 puntos funciona de alerta de fuego avisándonos de una elevada mortalidad intrahospitalaria y mala evolución, permitiendo el traslado en ambulancia al shock room. ¿Cuáles son los tres y únicos parámetros vitales clínicos de evaluación inmediata que constituyen los pilares componentes estructurales del puntaje del score qSOFA sin necesidad de requerir ningún análisis de aguja sanguíneo del laboratorio local?",
+    "hint": "Cerebro confuso, pulmón rápido y cañerías del corazón flojas sin presión de empuje.",
+    "options": [
+      {
+        "text": "a) Edad > 65 años, fiebre > 39°C y pulso de taquicardia irregular sobre 120 lpm.",
+        "isCorrect": false,
+        "explanation": "Eran en parte variables descartadas inespecíficas para el SIRS agudo base inflamatorio del 1990."
+      },
+      {
+        "text": "b) Saturación oxígeno < 90% ambiente, polipnea superficial de tórax paradójica y estertores gruesos pulmonares en marea auscultatoria de sibilancias silentes terminales de ahogo inminente de disnea de 4 almohadas de ortopnea al decúbito.",
+        "isCorrect": false,
+        "explanation": "Esto clasifica y detecta un colapso ventilatorio cardiogénico puro cardíaco general o exacerbación asmática neumónica grave pero no una base sistémica predictiva de daño celular multisistémico orgánica validada o falla vasopléjica terminal séptica simple."
+      },
+      {
+        "text": "c) Alteración mental o cognitiva de la conciencia (escala Glasgow < 15), Frecuencia respiratoria elevada ≥ 22 respiraciones/minuto, y Presión Arterial Sistólica en colapso (PAS ≤ 100 mmHg).",
+        "isCorrect": true,
+        "explanation": "El qSOFA sintetizó los peores signos de disfunción de los 3 ejes centrales de vida y perfusión para tomar rápido con esfigmomanómetro o vista limpia a pie de cama y sin pinchazo molesto in situ: Si su nivel de cerebro divaga letargado o cede en lucidez del GCS<15, si la sangre falla no empujada apagando presiones del corazón o choque al caer la cifra sistólica vascular ≤100 mmHg de relajación, y si su tórax no logra oxígeno rápido y se excita buscando a la desesperada en ventilación jadeante alta de base en estrés respirando taquipneico agudo y veloz ≥22 de respiraciones/minutos de forma instintiva inestable fatal. Tener dos o 3 suma a alerta máxima de cuidados generales de muerte y choque multiorgánico fatal."
+      },
+      {
+        "text": "d) Leucocitos > 12.000 de recuento de fórmula purulenta, creatinina plasmática en rango uremico tóxico confusional elevada, y elevación del Lactato > 2.0.",
+        "isCorrect": false,
+        "explanation": "Requieren horas e inyectables sanguíneos para su examen de box de sangre, siendo útiles solo en SOFA general UCI, no en su tamizaje veloz simplificado externo o de base o primer mundo ambulatorio clínico 'quick' rápido en casa o pasillo triage externo."
+      },
+      {
+        "text": "e) Hipotensión al sentarse en cama, anuria seca terminal retenedora sin diuresis de la sonda en 24 horas y manchas púrpuras fulminantes extensas diseminadas trombóticas.",
+        "isCorrect": false,
+        "explanation": "Signos graves de letal choque in vivo pero que no componen el marco de recolección de puntos estructurados formales numéricos fijos."
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Vasculitis de Gran Vaso (Biopsia de Arteritis de Células Gigantes)",
+    "text": "Usted ha iniciado de forma urgente pulsos de corticoides (Metilprednisolona o Prednisona 1mg/kg) a una mujer de 78 años que consultó por intensa cefalea y riesgo de ceguera (claudicación mandibular y amaurosis). Su sospecha es la Arteritis de Células Gigantes (Horton). Para confirmar el diagnóstico anátomo-patológico definitivo la remite a cirugía maxilofacial para realizar la biopsia vascular por ecografía de la arteria temporal superficial craneal asimétrica inflamada. Debido al patrón fisiopatológico inmunológico específico y caprichoso con que el infiltrado inflamatorio destructor afecta a los vasos en esta enfermedad reumatológica puntual, ¿qué recomendación técnica quirúrgica inquebrantable debe solicitarse al cirujano al realizar la extracción de la muestra de la pared capilar y cortar su tejido cilíndrico tisular inflamado?",
+    "hint": "Como los granulomas patológicos inflamados van haciendo túneles sanos intercalados seguidos de túneles destructivos... no podemos arrancar una migaja diminuta que por mala suerte toque justo la porción perdonada por el bicho autoinmune celular ciego patológico del vaso, necesitamos sacar una manguera en centímetros extensa aseguradora biópsica del tejido del anciano base.",
+    "options": [
+      {
+        "text": "a) Extraer únicamente y con precisión fina un micro-milímetro biópsico de la porción más dolorosa y superficial del pulso porque es la que rinde en patología de necrosis hialina y es suficiente a microscopio por no herir nervios adyacentes visuales ciegos colaterales nerviosos del ojo ciego isquémico.",
+        "isCorrect": false,
+        "explanation": "Eso es lo que hacen para evitar cicatrices quirúrgicas faciales pero genera una desastrosa y catastrófica muestra insuficiente microscópica general que no certificará jamás o con nula probabilidad del 1% un granuloma oculto de células perdiéndose todo base de confirmación a posteriori in situ inútil ciegamente en base fallida fatal del laboratorio o anatomo patología in-vitro en placa de formol."
+      },
+      {
+        "text": "b) Debe obtener un fragmento arterial generoso lo suficientemente 'Largo' o extenso (de al menos de 2 a 3 centímetros o más de longitud en arteria continua) y seccionado porque la inflamación vasculítica focal de Células Gigantes es intermitente, presentando característicamente áreas normales 'parches o lesiones de salto a distancia sanas segmentarias' (Skip lesions) que falsearían en falso negativo si la muestra es una porción sana o un corte pequeño por un mal y pobre milímetro equivocado del trayecto liso asintomático extraído ciego en cirugía superficial simple de pulso errático sano de muestra.",
+        "isCorrect": true,
+        "explanation": "Este es el dogma patognomónico clásico del diagnóstico reumatológico basal mundial e inmunológico. Horton ataca la capa del vaso en salto o en islas parcheadas. Dejar el corte en un tubito capilar o fragmentito miserable y exiguo de un centímetro a merced de que caiga justo por azar letal o la buena/mala suerte del destino anatómico humano general entre dos células destructoras a nivel microscópico, nos daría un fatal diagnóstico erróneo ciego que obligará al reumatólogo y médico internista del alta médica errónea hospitalizada basal a ir suspendiendo ciegamente errático los corticoides base vitales al viejo paciente matando su vista a base isquémica para siempre in vivo irreversible en su ojo y sin cura por falta de histología segura del segmento general extenso confirmatorio."
+      },
+      {
+        "text": "c) Extraer la biopsia obligatoriamente antes y prohibidamente sin administrar la primera pastilla de corticoides porque si ella tomó el remedio antinflamatorio en 2 horas todo rastro de células histológicas blancas T desaparecen limpiándose falseando todo milagro para siempre e invalidando al microscopio en remisión clínica inmediata la pared.",
+        "isCorrect": false,
+        "explanation": "La isquemia es urgente tratarla primero y la inflamación de pared perdurará o durará evidenciándose in-situ basal a nivel celular histológico inflamado en esa arteria temporal por incluso 2 a 4 semanas completas sin falsearse ante el inicio agudo del remedio del corticoide basal inyectado ciego, siendo la perla de 'inicia tratamiento primero, haz biopsia los próximos días' su recomendación central de oro universal en ceguera aguda letal inminente o Horton del adulto."
+      },
+      {
+        "text": "d) Inyectar en contraste verde cianina en toda la pared del endotelio vascular capilar superficial craneal y extraer venas craneales para inmunofluorescencia capilar.",
+        "isCorrect": false,
+        "explanation": "Solo es indicativo en isquemia de retinas de vasos sanguíneos coroidales oftalmólogos, no para aislar granulomas vasculares periféricos craneales temporales puros temporales a base quirúrgica celular o de la pared celular en placa biópsica de cristal."
+      },
+      {
+        "text": "e) Pinchar el líquido encefálico raquídeo intratecal bulbar periférico basal aséptico meníngeo adyacente purulento y no cortar venas externas para detectar Acs C-ANCA basales difusos de lisis de colágeno central interno.",
+        "isCorrect": false,
+        "explanation": "Es irrisorio en Horton puramente extra-craneal temporal doloroso clásico, además que el líquido cefalorraquídeo aislará meningitis pura y no granulomas o células gigantes c-ANCA (que en esta entidad son además irrelevantes)."
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "LES inducido por Fármacos (Clínica diferencial)",
+    "text": "A diferencia del Lupus Eritematoso Sistémico (LES) primario biológico que puede desatar un temible daño multiorgánico profundo crónico destructivo multisistémico de bandera roja por sí solo al cuerpo (glomerulonefritis lúpica de diálisis con semilunas y psicosis letal neurológica central de convulsiones y coma, o endocarditis verrugosa de Libman-Sacks grave destructiva valvular mortal asimétrica de la mitral o aórtica estenótica en los velos endocárdicos). La presentación de laboratorio y manifestación periférica de su cuadro clínico homónimo benigno reaccionario superficial o llamado 'Lupus Inducido por Fármacos o Medicamentos', clásico de varones mayores tras el uso de Procainamida cardíaca rítmica, hidralazina antihipertensiva profunda periférica, penicilamina o terapia biológica anti-TNF reactiva... se caracteriza inconfundiblemente clínica, sindrómica y amablemente en el cuerpo porque por definición general estadística mundial médica universal contemporánea su expresión periférica lesiva temporal siempre de por norma basal excluyente inflamatoria patológica en estos sujetos habitualmente suele y de hecho clásicamente respeta exenta, y 'Casi Nunca compromete ni ataca al':",
+    "hint": "Esta variante leve de la autoinmunidad es un simple molesto acompañante dérmico de mialgias o pericarditis reversible pero es inofensivo con los dos filtros mayores internos y la mente lúcida e intacta exenta a las peores parálisis lúpicas bases temidas letales cerebrales de urgencia de los riñones colapsados de sangre.",
+    "options": [
+      {
+        "text": "a) Sistema óseo articular originando unas simples y puras y feas poliartralgias dolorosas leves de manos, codos asimétricas limitantes que no inhabilitan mucho el agarre con astenia.",
+        "isCorrect": false,
+        "explanation": "Sí suele afectarlas, cursando comúnmente con mialgias y artralgias que aquejan fuertemente inflamadas reaccionarias que limitan in situ su calidad sintomática de vida temporal pero ceden sin secuela deformante aguda dolorosa base inyectada del anciano que se cura."
+      },
+      {
+        "text": "b) Sistema capilar vascular de piel cutáneo o la pleura inflamada basal en general de membrana pulmonar serosa restrictiva por agua de serositis pleural febril.",
+        "isCorrect": false,
+        "explanation": "De hecho es la firma básica o bandera típica del dolor de lupus de este tipo. Tienen mucho frote pleural pulmonar y parches de lupus rojo rash de base general atópico general seroso letal agudo pero simple antiinflamatorio basal ciego."
+      },
+      {
+        "text": "c) Páncreas exocrino provocando y desatando necrosis grasa saponificada enzimática intra retroperitoneal severa fatal destructora por calcio en abdomen difuso isquémico.",
+        "isCorrect": false,
+        "explanation": "No tiene una selectividad primaria letal de ataque directo agudo a este saco general purulento enzimático en el LES normal o inducido y su daño no lo exonera de base específica en este punto central inofensiva o puramente del tema orgánico autoinmune clásico y central de los internistas."
+      },
+      {
+        "text": "d) Tejido blando hepático, respetando y anulando la síntesis portal general inflamatoria granulomatosa inmuno destructiva del citoesqueleto biliar del adulto portal colangiocítica inflamatoria lobulillar externa cística en colédoco extrahepático biliar basal del ducto principal secretor graso discal vesicular isquémico purulento litiásico.",
+        "isCorrect": false,
+        "explanation": "No es ni la diana biológica destructiva fatal mayor asfixiante general autoinmune del síndrome, no es el órgano que la estadística excluya clásicamente por defecto de su par en letalidad base."
+      },
+      {
+        "text": "e) Riñón y Sistema Nervioso Central profundos vitales nobles internos vitales del paciente, cursando con excelente e intacta indemnidad glomerular filtrante renal sana normal en la orina sin sangre, y total salud cerebral lúcida cognitiva neurológica sin daños y exenta siempre a los brotes del proceso de base.",
+        "isCorrect": true,
+        "explanation": "Este es el gran dato y 'Ojo de buey' excluyente y la perla médica sanadora de vida o alivio de oro clínica internacional y pronóstica del 'Lupus inducido por drogas'. Si le suspenden al anciano su píldora de tensión hidralazina o ritmogénica inyectable de infarto arritmica de vida y dolor torácico curará solo remitiendo en meses. Puesto que aunque en laboratorio dé los anticuerpos ANA y anti-histonas fuertísimos, la reacción inmune química se sacia en las cápsulas pleurales doliendo fuera con pleuritis, sin cruzar o enredar de muerte y ensañarse in in-vivo a reventar de sangrado y cicatrices letales al colador glomerular renal urinario interno asfixiado a nefritis lúpica grado IV pura o desatar psicosis vasculítica in cerebral fulminante en red mental sana, salvándole del miedo y cronicidad letal biológica sistémica real mortal basal pura endógena celular exenta por fortuna de esta etiología inducida reversible afortunada externa del hospital basal benigno."
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Miopatías Inflamatorias (Miositis por Cuerpos de Inclusión)",
+    "text": "A diferencia del patrón clásico y universal autoinmune femenino joven central motor (Polimiositis y Dermatomiositis que causan debilidad muscular 'proximal y simétrica' como imposibilidad de peinarse, levantar brazos o elevarse de la silla sentada atónica y que ceden e inhiben muy bien con altas dosis masivas iniciales de terapia esteroidal en meses de corticoides). Existe una rara 'Oveja Negra o excepción degenerativa destructora miopática' encuadrada dentro de las Miositis y patologías musculares inmunológicas en pacientes del consultorio. Afecta primordial y mayoritariamente a Hombres de edad muy avanzada (> 60 años), su parálisis o atrofia inflamatoria afecta engañosa y curiosamente las zonas musculares dístales del cuerpo de inicio del paciente, como son los flexores de las muñecas limitando que los 'dedos aprieten de la mano o el puño' dificultando al anciano sujetar cosas de agarre fino perdiendo fuerza de prensión manual u objetos asimétricamente y en cuádriceps bajando o tropezando rodillas a distal con gran caída progresiva atrófica distal periférica, asocia gravísima debilidad mortal asfixiante de la garganta y laringe en la faringe o deglución atragantada atero-pulmonar en el tubo en la 'Disfagia espástica y de líquidos por debilidad muscular esofágica faríngea constrictora letal o ronquera bronco aspiratoria crónica terminal de desnutrición', y para frustración y maldición e impotencia frustrante clínica médica internacional reumatológica en consulta se caracteriza y detalla de manera desesperante en el arsenal hospitalario contemporáneo por ser notoriamente y trágicamente 'Altamente Refractaria inerte a los Corticoides y a todas las demás drogas biológicas inmunosupresoras sintéticas potentes intentadas mundiales', siguiendo un curso discapacitante crónico terminal irrefrenable asimétrico muscular. ¿A qué cuadro muscular pertenece y se etiqueta esta terrible descripción miosítica 'rara'?",
+    "hint": "Su histología bajo el microscopio se asimila y se tiñe degenerativa degenerativa a las vainas que matan el tejido celular del Alzheimer en el anciano crónico inútil atrófico no frenado a esteroides ciegos.",
+    "options": [
+      {
+        "text": "a) Al Síndrome de Dolor miofascial muscular somático y neurotópico de la Fibromialgia grave aguda.",
+        "isCorrect": false,
+        "explanation": "La Fibromialgia es un dolor funcional psicosomático crónico base doloroso pero no atrofia ni degenera o debilita irreversiblemente matando ahogados en parálisis y asfixias basales orgánicas de fibras atróficas inflamatorias."
+      },
+      {
+        "text": "b) Al Síndrome de Solapamiento articular central mixto del tejido autoinmune de conectivopatía de las arterias musculares con esclerodermia digital pulmonar.",
+        "isCorrect": false,
+        "explanation": "Este síndrome o esclerodermia puede superponerse a miopatía reaccionario pero cede su inflamación mixta y se centra en la dermis, vascularidad y fibrosis basal, sin ser la entidad pura y masculina exclusiva anciana descrita de daño disfágico exento asimétrico degenerativo distal letárgico manual y flexor basal."
+      },
+      {
+        "text": "c) Miopatía Inflamatoria Crónica 'Miositis (Miopatía) por Cuerpos de Inclusión' (MCI).",
+        "isCorrect": true,
+        "explanation": "El manual de reumatología es unánime con esta 'Bestia Rara o patito feo' miosítica fatal destructiva y temida en geriatría pura in situ. A diferencia de las mujeres sanas que curan debilidades de sus cinturas y brazos pelvianas agudas (Dermato/Polimiositis) base inflamación simétrica tratable, el anciano hombre (>60) ataca las manos y cuadríceps perdiendo sus deditos aprensivos de agarre fino. Más trágico es su fallo histopatológico (acumula cuerpos o ribetes o inclusiones rojo granulosos tóxicos al microscopio de proteína mieloide degenerativa y no solo linfocitos inflamatorios simples); es por ello una degeneración crónica parecida a esclerosis base que avanza incesantemente al asilo letal atrófico y en sillas de ruedas sin que un solo frasco, miligramo o pulsos ciegos endovenosos masivos y costosos de Prednisona, Metotrexato o inmunosupresores biológicos del mundo de la medicina moderna general interna del hospital surta efecto ni alivie y logre detener o curar milimétricamente el avance a la neumonía letal de ahogo faríngeo aspirativo basal disfágico de su enfermedad progresiva final en meses irrenunciables in-vivo general trágico y sordo general basal incurable."
+      },
+      {
+        "text": "d) Parálisis Miasténica en las astas medulares poli-nerviosas letales bulbares de la esclerosis medular lateral espástica (ELA degenerativa motora periférica alta).",
+        "isCorrect": false,
+        "explanation": "La ELA destruye a la neurona, no da una miopatía primaria intrínseca por cuerpo en la fibra puramente muscular inflamatoria del músculo."
+      },
+      {
+        "text": "e) Miopatía secundaria endocrinológica hipotiroidea severa con gran elevación de isoenzimas letales creatínicas CPK y mioglobulinas musculares de creatinina tirotrópicas base asimétrica general.",
+        "isCorrect": false,
+        "explanation": "El hipotiroidismo inflama pero cura veloz si se le da suplementación hormonal eutiroidea levotiroxínica química pura. No avanza irrefrenable asimétrico crónico letal y sin solución."
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "internado": "Medicina Interna",
+    "area": "Gastroenterología",
+    "topic": "SII",
+    "text": "Usted atiende a una joven ejecutiva que aqueja hinchazón abdominal, distensión y meteorismo recurrente molesto doloroso cólico bajo diario a lo largo de seis meses de estrés en su nueva empresa bancaria. Asegura y recalca inquebrantablemente al interrogar que ella 'Jamás tiene ni presenta sangre nocturna ni negra en las idas al váter de heces limpias en papel, nunca jamás la despierta el dolor ni la diarrea cólica profunda por la noche interrumpida para ir obligada del sueño a la cama al baño urgida del estómago', mantiene su peso corporal y talla exactos óptimos BMI, y su analítica completa no arroja déficit ni un gramo de caída férrica anemia ni reactantes basales de C, PCR de lisis, fiebre basal ni Calprotectina al alza patológica neutrofílica, mejorando espectacular y relajadamente además siempre de la hinchazón opresiva o de gas espástica de calambre retorcijón bajo al sentarse o al lograr evacuar alivio flatulento blando tras defecar o expulsión simple general de retortijón en WC. Esta paciente carece por tanto categóricamente de cualquier 'Signo o bandera roja o Red Flag de alarma biológica destructora intestinal patológica' y encaja de manera perfecta de las enfermedades en los Criterios Mundiales funcionales consensuados estipulados de Roma IV que confirman en ella la presencia inocua pero dolorosa limitante somática ansiosa de un cuadro y diagnóstico de intestino general en dolor como:",
+    "hint": "Esta patología no destruye con cuchillos la tripa, sino que el paciente siente cólicos espásticos e hipersensibles en respuesta a fermentos dietéticos o nervios y ansiedad de su vida social sin generar ninguna deformidad física endoscópica patológica asimilada interna.",
+    "options": [
+      {
+        "text": "a) Neoplasia oculta inflamatoria abscesificada del apéndice ciego asintomático obstructiva intraluminal de íleon ciego terminal isquémico local basal en válvula aguda infecciosa obstructiva derecha isquémica.",
+        "isCorrect": false,
+        "explanation": "Darí dolor derecho agudo intenso, fiebre y leucocitosis (apendicitis aguda o tumor inflamatorio destructivo)."
+      },
+      {
+        "text": "b) Celiaquía Atípica mal absortiva silente y muda seronegativa sin déficit atrófico vellositario con anemia silente duodenal HLA atípico general.",
+        "isCorrect": false,
+        "explanation": "Darí carencias ferropénicas, osteopenia y anticuerpos asintomáticos atípicos pero patológicos biológicamente, no la pureza serológica descrita del caso o su alivio exclusivo a deposiciones como causa base fisiológica puramente mecánica nerviosa y de motilidad colónica baja y no inmunológica alta del trigo y atrofias absortivas basales puras intestinales crónicas orgánicas."
+      },
+      {
+        "text": "c) Diverticulitis aguda sigmoidea sangrante perforada inflamatoria purulenta microbiana isquémica obstructiva o peritonitis general inflamada izquierda de fiebre aguda letal abscesificada de flanco en colon isquémico de heces peritoníticas locales de apendicitis.",
+        "isCorrect": false,
+        "explanation": "Implicaría fiebre alta purulenta con marcadores alza inflamatorios PCR y un paciente encorvado al dolor abdominal peritoneal local sin mejora simple y que va a quirófano por urgencia mortal perforativa intestinal del anciano o estreñido."
+      },
+      {
+        "text": "d) Cuadro de malabsorción proteica amiloidótica de linfoma linfocítico general.",
+        "isCorrect": false,
+        "explanation": "La paciente tendría marcadores en caída, anemia feroz y diarreas nocturnas pavorosas abundantes sin control y desnutrición basal grave asintomática con caída en balanza ponderal esquelética terminal oncológica severa irreversible."
+      },
+      {
+        "text": "e) Síndrome de Intestino Irritable (Trastorno Funcional Gastrointestinal doloroso digestivo espástico o sensitivo somático sin alteración bioquímica anatómica base estructural subyacente).",
+        "isCorrect": true,
+        "explanation": "Los manuales de Criterios de ROMA IV definen con esta belleza descriptiva puramente funcional el SII. No se basa en destrucción, sino en hipersensibilidad al gas, la distensión espástica y tensión psíquica visceral neuronal o intolerancia a dietas Fodmap que inflan como globos calambrosos su abdomen basal del oficinista sano. La exclusión purísima de 'banderas rojas' de alarma clínica basal mundial que asustan al internista excluyentes al tumor o cáncer orgánico a indagar de urgencia (NO tiene hemorragia oculta, NO hay diarrea nocturna obligada que la despierte dormida letal o en sábanas perdiendo el control basal fisiológico in vivo general autónomo sano onírico, NO pierde peso terminal demacrado, y tiene todo el panel bioquímico neutrofílico calprotectínico puro y perfecto sin rastro basal inflamatorio in-vitro u orgánico autoinmune sistémico y endoscópico limpio general celular). Esto valida un SII de molestias funcionales banales sin asustar con cáncer orgánico al cerebro mental ansioso del paciente limitante general."
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "internado": "Medicina Interna",
+    "area": "Nefrología",
+    "topic": "Síndrome Urémico y Asterixis",
+    "text": "Ingresa a la UCI por fracaso renal agudo isquémico prerenal séptico no dializado y anúrico (Creatinina de 9.5 mg/dL y una tóxica elevación masiva gigantesca insoportable general del Nitrógeno Ureico en Sangre o BUN superando la cifra de 150 mg/dL). Su exploración y examen neurológico profundo del nivel de conciencia en la guardia evidencia somnolencia confusional tórpida estuporosa de retardo agudo y un hallazgo físico motor de letargo extra-piramidal evidente en el control tónico inhibitorio: Al indicarle amablemente al paciente que, cerrando los ojos al aire extienda y levante hiperextendidos fuerte hacia atrás los dorsos y palmas de ambas muñecas y manos elevadas juntas y con dedos extendidos abiertos rígidos fijos aguantando la tensión como si detuviera el tráfico simulado invisible de una pared de aire de espaldas frente a él extendido en frente suyo... el paciente, en vez de fijar tensión tónica, deja caer súbitamente repetidas intermitencias y aleteos espasmódicos asimétricos desfasados e inhibitorios aleteando las palmas al suelo flácidas como un pajareo torpe enletecido arrítmico tónico. Este espectacular signo clínico en la uremia se denomina 'Asterixis o flapping tremor', e indica fisiopatológicamente la disfunción encefalopática metabólica inhibitoria cerebral. La única terapia definitiva que 'lavará' las toxinas del sistema nervioso en su sangre curando en agudo a este paciente del aleteo urémico letargado tóxico y salvándole del inminente coma convulsivo es:",
+    "hint": "Esta máquina extra-corpórea asumirá el trabajo de lavar lo que el riñón fundido asfixiado y apagado ha olvidado eliminar colapsando de lodo metabólico la sangre al cerebro adormecido en venenos nitrogenados ácidos no amoniacales basales del hígado.",
+    "options": [
+      {
+        "text": "a) Prescripción oral y deglución general forzada masiva con jarabes láxicos osmóticos edulcorados (ej. disacárido de Lactulosa purificada ácida) para amarrar la neurotoxina nitrogenada proteica generada de amonio de flora en el íleon fecal.",
+        "isCorrect": false,
+        "explanation": "La Lactulosa es de primera línea milagrosa atrapando el gas amoníaco letal bacteriano fecal alcalino y excretando y lavando la Encefalopatía Hepática mortal en el cirrótico hepático in vivo, pero es completamente fútil inoperante inactiva absurda general en la Uremia o fallo tóxico general retenido letal endógeno metabólico basal de diálisis aguda renal en sangre ácida basal filtrante o en toxinas orgánicas uremicas o BUN general in-vivo inútil generalizado."
+      },
+      {
+        "text": "b) Un régimen estricto ambulatorio con L-Dopa intravenosa, anti-dopaminérgicos extra-piramidales profundos centrales estriados del globo pálido para el mioclono agitado atípico bulbar encefalopático degenerativo base espástico piramidal central Parkinsoniano.",
+        "isCorrect": false,
+        "explanation": "No sufre de Parkinson idiopático primario ni rigidez de rueda dentada senil. El 'flapping' es metabólico y general en puente reversible puro orgánico inyectado basal sintomático del síndrome de toxicidad sanguínea."
+      },
+      {
+        "text": "c) Hemodiálisis de rescate de urgencia (Terapia conectada extra-corpórea de filtración mecánica y reemplazo renal artificial dialítico inyectada).",
+        "isCorrect": true,
+        "explanation": "El paciente está intoxicado masivamente sin salida de pipí urinaria ni depuración por una Uremia severa descontrolada catastrófica y retenida al anuriar en su fallo agudo renal, que le penetró la barrera cerebral y paraliza y frena su impulso neurológico tónico muscular continuo provocando aleteo inhibitorio. Este temido y evidente síntoma de descontrol físico mental ('Asterixis') cumple de golpe el criterio más mortífero y absoluto clínico dictaminado e incuestionable mundial 'U' de 'Uremia letal' (junto al E de edemas asfixiados o K letal alto asimétrico de AEIOU del nefrólogo de cabecera) para conectarle urgentemente e impostergablemente dos líneas de sangre a un filtro externo artificial extra-corpóreo basurero en UCI (Diálisis hemodiálisis artificial) para removerle el charco negro de tóxicos urémicos disueltos salvando y aclarando su cerebro antes del inminente coma convulsivo epiléptico asfixiante del edema letal central isquémico urémico orgánico fatal y reseteándolo en días curado puro general al alta."
+      },
+      {
+        "text": "d) Mantenimiento exclusivo con suplementos purificados en dosis de potasio base intravenoso a los glomérulos e infusión salina dextrosa alta hidratante en fluidos urinarios para despertar y reactivar riñones basales hipóxicos de filtración cortical alcohólica isquémica pélvica de shock.",
+        "isCorrect": false,
+        "explanation": "Agregar potasio a un paciente anúrico sería infanticidio y paro hiperkalémico inmediato y darle de beber sal fluidos le ahogaría asfixiado los pulmones sin que su diuresis orine nada colapsado ciego y uremico de la toxina terminal retenedora mortal."
+      },
+      {
+        "text": "e) Aplicación directa masiva anestésica anti-comicial inyectada endovenosa con Propofol barbitúrico, Benzodiacepinas Díazepam o hidantoínas frenadoras epilépticas inhibitorias de gaba cortical subcortical general inespecífico a grandes dosis goteadas basales inhibitorias.",
+        "isCorrect": false,
+        "explanation": "Hundirían el estado mental basal coma letal subyacente sin curar en absoluto lo que frena y adormece su vigilia: las toxinas orgánicas."
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "internado": "Medicina Interna",
+    "area": "Neumología",
+    "topic": "TEP Diagnóstico (Dímero D)",
+    "text": "De acuerdo con el 'Tromboembolismo pulmonar' y Farreras Neumología, en el algoritmo evaluativo de un paciente con un score de Wells de sospecha intermedia o baja que ingresa por posible TEP (disnea aguda inespecífica torácica), el médico utiliza la medición del Péptido de degradación biológico Dímero-D (resultado analítico enzimático serológico del coágulo en fibrinólisis general corporal de fibrina escindida). Como herramienta de emergencia hospitalaria clínica discriminatoria del tamizaje y probabilidad pre-test del médico en triage de box respiratorio, el valor y fortaleza mayor diagnóstica en urgencia vital y matemática utilitaria que otorga en la vida real una prueba negativa y normal biológica sanguínea extraída validada con valor normal indetectable 'Negativo' por debajo del corte de referencia basal poblacional del Dímero-D es:",
+    "hint": "Esta prueba no te dice cuándo alguien TIENE la enfermedad (porque es muy chismosa y se eleva por todo), pero es un juez infalible para jurarte cuando alguien NO LA TIENE si el test está a cero absoluto ciego biológico limpio.",
+    "options": [
+      {
+        "text": "a) Su Altísimo y poderoso Valor Predictivo Positivo (VPP) general inespecífico clínico poblacional: Es decir, si sale negativo diagnostica y sentencia fuertemente una disección aórtica cruzada subyacente.",
+        "isCorrect": false,
+        "explanation": "El VPP de esta prueba es asqueroso y bajísimo in-vivo general clínico. Muchos pacientes sin trombos tendrán el test alto por neumonía o cirugías leves ciegamente basales confundiendo inútilmente positivamente al que lo lee asustado general sin valor etiológico asertivo para sentenciar qué de todos ellos tiene TEP basal real y certero general y menos aórtico."
+      },
+      {
+        "text": "b) Su Enorme e inigualable Valor Predictivo Negativo (VPN) clínico matemático seguro excluyente general de trombo. Lo cual indica, valida y asegura contundentemente de manera irrefutable y segura poblacional que un test negativo (y sumado a bajo/medio riesgo) nos permite de manera totalmente clínica 'descartar por completo con seguridad alta de certeza estadística' la existencia biológica o peligro anatómico y sospecha inicial de un evento trombótico TEP sin irradiar innecesariamente al individuo a la cama cerrada de un AngioTAC.",
+        "isCorrect": true,
+        "explanation": "El Dímero D es producto del trabajo de picoteo y rotura fibrinolítica sobre un coágulo sólido reticular maduro de fibrina. Por tanto y en conclusión pura de la clínica matemática mundial 'no hay humo sin fuego inicial y si no hay coágulo, no hay Dímero biológico alto de degradación que leer'. Por eso y su magia real clínica en consulta externa ambulatoria rápida es su alto Valor Predictivo Negativo (VPN excluyente del paciente sano sano ciego y respiratorio ansioso del triage). Si viene un paciente joven sin o con poquísimo riesgo de TEP por el Score, la mejor jugada astuta basal es sacarle sangre y ver si sale Negativo o normal indetectable bajo cero; si ocurre, nos jurará y garantizará fisiológicamente y le dará la mano al clínico y al paciente mandándolo a casa o buscar de otras causas inocuas pulmonares descartando certeramente irrefutable y tajantemente un TEP embólico in-vivo asustadizo, librando así in situ e in extremis las temibles e irradiantes inyecciones y cortes nefróticos contrastados del tomógrafo de urgencias asimétrico costoso base sin sentido general al pecho irradiado y sano base ciego ansioso del TAC base sano."
+      },
+      {
+        "text": "c) Su alta especificidad infecciosa: Identifica el patógeno específico y biológico causal desencadenante celular íntimo profundo causal etiológico que ha formado o consolidado al coágulo.",
+        "isCorrect": false,
+        "explanation": "El Dímero no es un PCR ni siembra microbiológica; solo detecta que 'hubo un coágulo roto' base inespecífica o fibrina pura inflamatoria reaccionaria sin nombre celular viral."
+      },
+      {
+        "text": "d) Establece la indicación clínica pura y formal quirúrgica inmediata a pabellón abierto urgente a corazón destapado en circulación isquémica pulmonar para realizar exéresis, trombectomía operatoria en agudo masiva local de trombo endovenoso ilíaco isquémico de la aurícula central general y rescate del shock inminente isquémico vital vascular inyectado general terminal masiva in vivo del anciano en cama agónica post-infartado isquémico.",
+        "isCorrect": false,
+        "explanation": "A un infartado TEP terminal chocado ni se le pide ni se le espera Dímero, va directo a AngioTAC para disolverlo a goteos y certificarlo."
+      },
+      {
+        "text": "e) Su indicación pura y formal de iniciar de base ciegamente trombolisis con drogas sistémicas empíricas de rtPA fibrinolítica a goteo.",
+        "isCorrect": false,
+        "explanation": "La prueba positiva jamás, pero jamás, autoriza al inicio ciego a dar fibrinolíticos empíricos. Un dímero alto no es TEP seguro in vivo, obliga siempre confirmarlo y verlo radiológicamente y con TAC y si choca primero base basal."
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "internado": "Medicina Interna",
+    "area": "Endocrinología",
+    "topic": "Alteración Pruebas Tiroideas",
+    "text": "Femenina de 26 años asintomática sin antecedentes mórbidos asiste a un chequeo profiláctico pre-concepcional o revisión rutinaria de ingreso laboral general de bienestar en medicina de empresa en donde, sorpresivamente, la analítica de pesquisa central en prevención le arroja una hormona estimuladora basal TSH normal y un aumento biológico general del parámetro fraccional aislado reportado y medido y llamado en la analítica antigua como 'T4 TOTAL circulante' moderadamente elevado por arriba general y fuera del percentil límite del umbral en el laboratorio superior, pero acompañado a la perfección fisiológica con una fracción 'T4 LIBRE fraccional o T4L real' en sangre que sí es estrictamente y fisiológicamente rigurosamente normal para su peso e íntegra del todo. La paciente relata estar ingiriendo pastillas regulares anovulatorias Anticonceptivas Orales combinadas hormonales de Etinilestradiol desde hace cinco años estables seguidos preventivas sin efectos adversos de acné femeninas. La interpretación endocrinológica hormonal química fisiopatológica precisa universal exacta más sensata, tranquilizadora de respuesta frente al médico del trabajo y diagnóstica que enmarca y explica este aparente laberíntico disconfort de resultados in in-vitro del laboratorio sano asintomático y serológico hormonal 'discordante simulado falso reactivo total' del panel es que:",
+    "hint": "Esta pastilla hormonal actúa en el hígado engordando artificial y temporalmente la 'carrocería de los taxis' (proteínas que viajan fijas llevando al componente a la sangre vacías o llenas) engañando al lector, pero sin tocar ni un pelo a las hormonas que corren sin auto y son las que en verdad actúan in-vivo libres de ser leídas en el termostato sano y feliz de la paciente biológica.",
+    "options": [
+      {
+        "text": "a) Está desarrollando Enfermedad de Graves en fase precoz hipertiroidea aguda nodular o diseminada oculta autoinmune tóxica primaria incipiente.",
+        "isCorrect": false,
+        "explanation": "Un Graves tendría la TSH muy disminuida inhibida letal <0.01 y la T4 Libre que quema a las células muy alta en su acción basal celular periférica en nerviosismo y sudoración. Esta TSH y T4L son perfectas y sanas."
+      },
+      {
+        "text": "b) Es un adenoma pituitario silente hiper-secretor central de reserva disfuncional tirotropa general secretando grandes cantidades inhibidas TSH biológica inactiva hipofisaria basal asintomática.",
+        "isCorrect": false,
+        "explanation": "El Adenoma productor daría una TSH disparada altísima inadecuada para una T4 libre basal alta sin inhibición, el llamado hipertiroidismo secundario puro letal orgánico general asimétrico y ciego o bocioso."
+      },
+      {
+        "text": "c) Los estrógenos de la medicación y pastilla aumentan la síntesis proteica de los 'transportadores o taxis' (ej. TBG - Globulina fijadora de tiroxina) en el hígado. Esto infla la medición in vitro de la T4 'Total' (la que viaja subida a la proteína), pero deja intacta a la T4 'Libre' biológicamente activa periférica real, siendo la mujer eutiroidea general fisiológica sana libre y asintomática celular.",
+        "isCorrect": true,
+        "explanation": "Efecto clásico, milagroso y perla basal fisiopatológica de la trampa del laboratorio tiroideo y de medicina estudiada a fondo. La T4 Total suma dos cosas que nadan en la sangre: La hormona que viaja amarrada atada fija y ciega en una inmensa proteína TBG pesada y boba sin ser operativa, y el 1% de hormona 'Libre' biológica diminuta que está suelta, que es la única hormona T4Libre que entra al núcleo real y hace efecto in vivo y baja o frena su TSH central basal orgánica in vivo controlada sana pituitaria general. Al tomar la mujer píldoras estrogénicas base de embarazo artificial o ACOs biológicas basales exógenas, el hígado es engañado ciego y fabrica y vomita ingentes kilos masivos orgánicos de la inofensiva proteína 'TBG vacía' transportadora a la sangre sin parar inflando artificial y mentirosamente la medición de la primera y antigua 'T4 Total' química inactiva del panel; mientras la T4 Libre fisiológica metabólica fina general en su cuerpo basal real se mantuvo firme normal biológica dictaminándole su salud tiroidea in-vivo general perfecta en asintomáticos, librándola de operaciones absurdas tóxicas de ignorancia y sin efecto u operables letales de diagnóstico fútil del bocio o Graves fantasma ciego basal."
+      },
+      {
+        "text": "d) La paciente cursa y padece encubierta de resistencia masiva genética letal al yodo de la dieta carencial o bocio bociogénico general endémico oculto general nodular celular tóxico en cuello difuso oculto a la palpación inexperta base e inyectable.",
+        "isCorrect": false,
+        "explanation": "La resistencia periférica daría niveles altísimos de T4 Libre verdadera."
+      },
+      {
+        "text": "e) Sufre Síndrome de Eutiroideo Enfermo terminal atrófico caquético infeccioso grave crónico asintomático por la carga oculta infecciosa sistémica bacteriana de los anticonceptivos inestables gástricos hepáticos inhibiendo conversión central general T3/T4 orgánica inactiva general T4 bloqueada a T3 falsa periférica de dejadez celular o tisular atrófica letal profunda y sin t3.",
+        "isCorrect": false,
+        "explanation": "El síndrome del enfermo terminal crítico de UCI postrado (Eutiroideo Enfermo) da una T3 Libre muy baja (síndrome de T3 baja puramente inhibitoria atrófica convertidora) por sepsis general y no cursa en mujeres ambulatorias lozanas plenas asintomáticas activas laborando sin afecciones graves ciegamente general en medicina del pasillo sano de base o urgencias general."
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "internado": "Medicina Interna",
+    "area": "Reumatología",
+    "topic": "Esclerosis Sistémica Limitada (HAP)",
+    "text": "La Esclerodermia se divide pronósticamente y clínicamente al paciente que va perdiendo función por endurecimiento fibroblástico o isquemia endotelial proliferativa de las capas íntimas reactivas microvasculares de arteriolas en las divisiones capilares fibróticas según sus anticuerpos. Al contrastar e intentar predecir, estudiar y pesquisar la variante Cutánea de presentación 'Difusa' (anticuerpos anti Scl-70 asociados típicamente e irremediablemente al temido e infausto pronóstico respiratorio letal orgánico destructivo de engrosamiento del septo restrictivo basal pulmonar alveolar o Enfermedad Pulmonar Intersticial Difusa inflamatoria 'EPID-patrón NSIP'), frente a los individuos y pacientes de su contraparte hermana del Síndrome Cutáneo de tipo 'Limitado' (antiguo síndrome o acrónimo CREST de esclerodactilia terminal superficial con portación genética clásica base predictiva patognomónica central del anticuerpo 'Anticentrómero'), se debe saber que los sujetos CREST de variedad Limitada NO sufren casi 'nunca de la mortal fibrosis panal de abeja EPID intersticial descrita alveolo', PERO SÍ se asocian tardíamente a la década con gran riesgo orgánico severo progresivo fatal o disnea silenciosa mortal general vascular por desarrollar aisladamente y secundariamente e inadvertidamente la terrible e isquémica complicación de la disfunción vascular endotelial concéntrica que ocluye sus arteriolas orgánicas de la capa y árbol lecho circulatorio vascular liso respiratorio con aumento letal de las presiones hipertróficas contráctiles en su íntima en:",
+    "hint": "Esta complicación ocluye, engrosa o achica a tal punto la tubería y el calibre libre e íntima de su respiración y del músculo liso en las cañerías del pulmón obligando y rompiendo al pobre ventrículo derecho del corazón general a latir fútil infartado asfixiado forzado letal y a presiones extremas agónicas claudicantes base del pulmón base de esfuerzo ahogado infartante.",
+    "options": [
+      {
+        "text": "a) Arteriolas del parénquima de la arteria mesentérica isquémica infartando el yeyuno isquémico por trombos letales ciegos isquémicos arteriales agudos perforantes gangrenosos.",
+        "isCorrect": false,
+        "explanation": "La isquemia digestiva o vascular intestinal letal aguda general perforativa masiva infartada aguda en abdomen en tabla o quirúrgica abdominal no es el talón de aquiles biológico o complicación predictiva del CREST letal respiratorio de la mujer en consulta en 10 años base. Solo le da disfagia basal distal indolora."
+      },
+      {
+        "text": "b) Formación de anillos isquémicos fibróticos estenosantes destructores valvulares e insuficientes asimétricos degenerativos puros miocárdicos reumáticos del nodo AV ventricular isquémico a nivel de su anillo tricuspídeo o válvula pulmonar isquémica basal septal obstructivo primario o fibrótico del nodo AV bloqueo base general en ventrículo coronario eferente puro asimétrico o miocardítico puro general de válvulas puras ciego izquierdo o aórtico.",
+        "isCorrect": false,
+        "explanation": "No provoca fiebre reumática endocárdica inflamatoria primaria de los velos y cierre asimétrico estenósico mecánico directo isquémico valvular de los flujos de anillos in-vivo orgánico general liso base central de las válvulas y miocardio estenótico ni velos mitraloides de fusión cicatrizal de fibrina patológica general base lúpica central endomiocárdica."
+      },
+      {
+        "text": "c) Hipertensión Arterial Pulmonar Aislada primaria (HAP vascular remodelativa por colagenosis reactiva isquémica en los vasos arteriolares precapilares pulmonares asfixiantes restrictivos oclusivos de presiones arteriales presistólicas altas y falla claudicante del lado ventricular cor derecho con disnea fatal tardía).",
+        "isCorrect": true,
+        "explanation": "Esta es la clave patognomónica médica fatal orgánica vital de clasificación internacional limitante y diagnóstico basal reumatológico del manual Farreras. A diferencia de las pobres mujeres con variante Scl-70 difusas pulmonares que se asfixian rápidamente perdiendo capacidad ventilatoria y endureciendo la 'membrana alveolar de esponja in situ' por EPID pulmonar en los 2 años en panal, las CREST de anticentrómeros respiran y oxigenan libres con fuelles sanos sin fibrosis en membrana e inertes, PERO sus cañerías del pulmón a nivel 'vasculopático arterial de presión capilar liso' desarrollan asintomáticamente una proliferación asfixiante e íntima del colágeno en la muscularis de sus paredes achicando el calibre tubular orgánico pulmonar in-vivo de flujo letalmente en años a lo estrecho. Esto se traduce en Hipertensión Arterial Pulmonar pura y ciega silenciosa inyectada (HAP de grupo 1 OMS), el corazón o VD revienta de latir o empujar o bombea suplicante y claudica letal y asfixiado cor derecho asintomático ahogando de disnea y falleciendo a la vieja década la enferma ambulatoria. El test de vida o ecocardiograma debe hacerse anualmente a todo el grupo para medicarla letalmente sin dilaciones orgánicas."
+      },
+      {
+        "text": "d) Obstrucciones concéntricas fibróticas calcificadas gigantes aneurismáticas puras de las arterias oftálmicas craneales causantes patognomónicas letales visuales isquémicas del plexo basal temporal vasculítico isquémico ciego facial y neuritis oftálmica atrófica unilateral fulminante.",
+        "isCorrect": false,
+        "explanation": "Ataca a la arteritis de Células Gigantes u ojo isquémico (Vasculitis), no siendo base clínica letal biológica esperable ciegamente isquémica facial y craneal destructiva amaurosica del CREST orgánico asintomático basal reumatológico general en limitadas periféricas manuales cutáneas o fibrosis basal liso vascular torácica."
+      },
+      {
+        "text": "e) Infartos y sangrados difusos granulomatosos isquémicos en glomérulos e intersticio urémico isquémico cortical y en la nefrona central con caída de filtrado a base de glóbulos c-Anca isquémico necrosante y poliangeítis letal de riñón focal y general.",
+        "isCorrect": false,
+        "explanation": "Estaríamos dictaminando Wegener o vasculitis pauciinmune con c-ANCA base inflamatoria renal y no el compromiso puro y pulmonar respiratorio estenósico fatal del paciente Limitado."
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "internado": "Medicina Interna",
+    "area": "Infectología",
+    "topic": "Profilaxis Post-Exposición (Meningitis)",
+    "text": "Cursa su turno como médico de sala en internado médico infectológico del hospital donde hace escasas dos noches admitió e intubó de asfixia a un varón universitario de 20 años politraumatizado ingresado por accidente contusivo cerrado base asimétrico y letargo séptico. Desgraciadamente al joven le aíslan del líquido cefalorraquídeo el germen diplococo diplobacilo temible de las secreciones orales 'Neisseria meningitidis' purulento invasivo masivo meníngeo. El joven convivía y respiraba el aire de secreciones salivares cerrado pernoctando en una habitación de hostal dormitorio cerrada estrecha o departamento asfixiante general asilado durante horas y días completos con sus tres íntimos estudiantes y compañeros amigos de clase con gran estrechez e inhalando estornudos en común contacto e intercambiando vasos íntimos de su aliento base de aerosol o saliva o mate sin cuidado de besos profundos. A fin de impedir letalmente y frenar profilácticamente el contagio e inmunizar químicamente preventivo un inminente brote en clúster y cuadro invasivo terminal mortal para la vida en sus tres íntimos convivientes asintomáticos, las guías exigen la profilaxis química preventiva inmediata post-exposición de contactos orales y convivientes íntimos generales del joven caso inicial índice de meningococo. La indicación farmacológica oro a nivel internacional, barata oral mundial recomendada y de primera línea simple preventiva general empírica profiláctica esterilizante basal de erradicación nasal bactericida oro para cepas endémicas es y recetada a convivientes y contactos del enfermo es y ha sido clásicamente y recomendada fuertemente erradicadora de primera línea dosis aguda:",
+    "hint": "Esta pastilla que pinta el pipí de color naranja o rojo oscuro se asimila tan profundamente en tu cuerpo tras ser digerida entera y oralmente que se bota por tu saliva o mucosas de la faringe y en tu sudor corporal in vivo logrando ahogar o aniquilar al germen en su cueva nasofaríngea silenciosa.",
+    "options": [
+      {
+        "text": "a) Dar e infundir masiva gammaglobulinas IV asimétricas neutralizantes inmunoglobulina de defensa y antivirales bases como Aciclovir o corticoide generalizado anti edematoso ciego nasal y oral.",
+        "isCorrect": false,
+        "explanation": "No erradican ni previenen de ninguna índole a un meningococo letal invasivo basal y no matan bacterias in vivo purulentas asimétricas mucosas de colonización y contacto en mucosa de compañeros."
+      },
+      {
+        "text": "b) Dosis orales profilácticas de penicilina cristalina natural G simple inyectable o acenocumarol gástrico inyectable amoxicilina dosis baja crónica indefinida trimestral prolongada intramuscular basal lenta amigdalar o asimétrica oral lenta para frenar incubación profunda amigdalar de pared y de su boca.",
+        "isCorrect": false,
+        "explanation": "La Penicilina o macrólidos básicos amigdalinos orales o pinchos de benzatina son ineficaces porque erradican bacterias orales profundas y de la garganta y mucosas pálidas in-vitro, pero la biología ha validado in vivo mundialmente y en los colegios que no y NO LOGRAN concentrarse ni alcanzar la dosis lítica y purificadora alta o asimilada base en la secreción exócrina o salivales puras erradicadoras o penetrantes sanadoras letales que esteriliza en su 100% de letal erradicación de base viva de la bacteria nasofaríngea invasiva para curarlos."
+      },
+      {
+        "text": "c) Rifampicina (Oral, ej. 600 mg c/12 hrs por 2 días), que logra esterilizar potentemente las portaciones faríngeas asintomáticas nasales nasofaríngeas o en defecto dosis única alternativa rápida potente asimilada oral directa de Ciprofloxacino o intramuscular endovenosa dosis pura de la salvadora Cefalosporina Ceftriaxona aséptica directa al contacto oral y faríngeo de la bacteria aislada meníngea basal de convivientes y colonizadores asintomáticos portadores de cepas virulentas agudas y saliva en beso.",
+        "isCorrect": true,
+        "explanation": "Es un dogma intocable y regla de oro infectológica general mundial. Al estar confinados juntos asintomáticos oliéndose, compartiendo y escupiéndose microgotas de saliva (Flügge) infectadas sin ventilación general en dormitorio y hacinados con el Meningococo base invasivo letal fulminante o 'N. meningitidis' el bicho se adueña o coloniza subrepticiamente sin dolor e implacable de la cavidad bucal y mucosa de portador asintomático del amigo que se sentará o convivirá con la bomba viva latente esperando saltarle al cerebro isquémico letal base terminal asintomática. Las guías internacionales imponen frenar en 24 horas y erradicar químicamente la presencia portadora a los íntimos. El antimicrobiano rey antimicobacteriano basal, único y que se digiere y luego en magia es botado, reciclado masivamente y se 'excreta en lágrimas y altas concentraciones y miligramos bactericidas mortales in vivo a la propia saliva sana viva protectora base exocrina logrando limpiar toda faringe sin daño' y 'esterilizando las fauces' en 2 días simples de terapia oral letal bactericida inactiva es sin dudar innegable la Rifampicina (Pastilla roja o que orina oscuro colorante), siendo la dosis de una sola toma oral de Ciprofloxacino o un pincho basal único intramuscular de urgencias ambulatorias de Ceftriaxona la simple alternativa rápida si la abuela o la embarazada joven de base del triaje lo rechaza (pero la primera elección es Rifampicina basal oral letal ciego del foco). Y no, no importa si el paciente original fue tratado por asfixia y penicilina de muerte, los vivos y amigos deben siempre siempre blindarse y tratarse sin falta erradicando in vitro e in situ orgánico exocrino base su garganta o portación faríngea silente general basal."
+      },
+      {
+        "text": "d) Inhalaciones generales profusas continuadas crónicas de amikacina y vancomicina aerosoles e isoniazida por un año por inhalación nasal local crónica nebulizaciones de urgencia o antifúngicas base nistatina para inmunidad en nasofaringe nasal para flora del diplococo de base oral faríngeo de meningococo sin efecto.",
+        "isCorrect": false,
+        "explanation": "Procedimientos inefectivos tópicos, experimentales asimétricos fútiles y no validados general basal preventivo letales y base sin base general in vivo o general y asintomática en base oral letal erradicador mundial del triaje y profilaxis."
+      },
+      {
+        "text": "e) Esperar tranquilamente o simplemente observación estrecha domiciliaria pasiva observando 20 días la temperatura sin administrar ni dar antibiótico profiláctico de erradicación empírica hasta y solo recién de la aparición y debilidad de petequias o de fiebre febril exantemática en su frente o piernas del conviviente asintomático general asintomático.",
+        "isCorrect": false,
+        "explanation": "Actuar y esperar pasivamente la fiebre de la infección y manchas equimóticas rojas exantemáticas fulminantes es ya llegar tarde al shock vasopléjico inminente y terminal meningocócico del joven compañero asintomático inyectable basal, el cual requiere prevenirla y cortarla tajantemente y milagrosamente exócrina bactericida desde antes en la fase de portación asintomática o colonización oral de nido amigdalar en mucosa en 2 días basal general antes y exenta de dolor o fiebre."
+      }
+    ]
+  }
+]
